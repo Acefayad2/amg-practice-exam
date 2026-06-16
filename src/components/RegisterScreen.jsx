@@ -46,7 +46,7 @@ export default function RegisterScreen({ exam, onStart, onBack }) {
               type="text"
               value={name}
               onChange={e => { setName(e.target.value); setErrors(prev => ({ ...prev, name: null })) }}
-              placeholder="e.g. Danielle Dixon"
+              placeholder="e.g. John Doe"
               style={{
                 width: '100%', padding: '12px 14px', borderRadius: 9, fontSize: 15,
                 border: `2px solid ${errors.name ? '#ef5350' : '#e2e8f0'}`,
