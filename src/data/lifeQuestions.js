@@ -330,10 +330,10 @@ export const lifeQuestions = [
   },
   {
     n: 48,
-    q: "Long-term care insurance policies may cover all of the following levels of care EXCEPT:",
-    choices: ["A) Custodial", "B) Intermediate", "C) Skilled", "D) Acute"],
-    answer: "D",
-    explanation: "Long-term care insurance covers custodial care (help with ADLs), intermediate care (occasional skilled care), and skilled nursing care. Acute care — intensive short-term medical treatment typically in a hospital setting — is covered by medical expense/hospital insurance, not LTC insurance."
+    q: "An endowment life insurance policy pays the face amount to the policyowner if:",
+    choices: ["A) The insured dies before the endowment date only", "B) The insured survives to the end of the policy period, OR upon the insured's earlier death", "C) The insured reaches age 100 regardless of policy term", "D) The policy is surrendered within the first five years"],
+    answer: "B",
+    explanation: "An endowment policy matures and pays the face amount either at the end of the stated period (if the insured survives) or at the insured's earlier death. It combines savings and life insurance — the insured is guaranteed to receive the face amount one way or another."
   },
   {
     n: 49,
