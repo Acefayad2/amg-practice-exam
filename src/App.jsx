@@ -39,7 +39,7 @@ export default function App() {
     },
     life: {
       id: 'life',
-      title: 'Life Producer (Life & A&H Combo)',
+      title: 'Life Producer',
       subtitle: '90 Questions · Maryland · Prometric',
       questions: lifeQuestions,
     },
