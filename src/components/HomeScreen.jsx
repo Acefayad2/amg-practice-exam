@@ -20,7 +20,7 @@ export default function HomeScreen({ exams, onStart }) {
 
       {/* Exam Cards */}
       <div style={{ display: 'flex', gap: 24, flexWrap: 'wrap', justifyContent: 'center', maxWidth: 800 }}>
-        {Object.values(exams).filter(exam => exam.id !== 'health').map((exam) => (
+        {Object.values(exams).map((exam) => (
           <div
             key={exam.id}
             style={{
