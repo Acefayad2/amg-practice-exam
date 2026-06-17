@@ -1,31 +1,31 @@
 export const lifeQuestions = [
   {
     n: 1,
-    q: "If a need for emergency health services arises for an enrollee of a health maintenance organization (HMO) using a gatekeeper system, the enrollee should:",
-    choices: ["A) Call the local Medical Bureau as soon as possible", "B) Wait for verification of coverage from the primary care physician", "C) Proceed directly to the nearest emergency room", "D) Call the HMO for advice from the medical director"],
-    answer: "D",
-    explanation: "In a true emergency, HMO members should call the HMO for direction or proceed to the nearest emergency room. Federal law requires HMOs to cover genuine emergencies without prior authorization when a prudent layperson would consider the situation an emergency."
+    q: "Which type of life insurance provides permanent protection and builds cash value on a guaranteed basis?",
+    choices: ["A) Term life insurance", "B) Whole life insurance", "C) Renewable term insurance", "D) Group term life insurance"],
+    answer: "B",
+    explanation: "Whole life insurance provides lifetime (permanent) death benefit protection and builds guaranteed cash value over time at a fixed premium. Term insurance provides temporary coverage with no cash value. Group term is temporary coverage for groups."
   },
   {
     n: 2,
-    q: "Disability income insurance policies provide coverage for loss of income resulting from:",
-    choices: ["A) Self-inflicted injuries", "B) Injuries incurred while in military service", "C) Disability resulting from war", "D) Accidental injuries"],
-    answer: "D",
-    explanation: "Disability income policies cover loss of income from accidental injuries and sickness. Standard exclusions include self-inflicted injuries, military service injuries, and war-related disabilities."
+    q: "Which statement is TRUE regarding term life insurance compared to whole life insurance?",
+    choices: ["A) Term builds more cash value over time", "B) Term premiums are always level for life", "C) Term provides temporary protection at a lower initial premium", "D) Term coverage continues regardless of premium payment"],
+    answer: "C",
+    explanation: "Term life insurance provides temporary coverage for a specified period (e.g., 10, 20, 30 years) at a lower initial premium than whole life. It has no cash value. If the insured outlives the term, no benefit is paid. Whole life has higher premiums but provides permanent coverage with cash value."
   },
   {
     n: 3,
-    q: "Under Maryland regulations dealing with health coverage, what does the term 'HMO' represent?",
-    choices: ["A) High Medical Option", "B) Health Maintenance Organization", "C) Health Medical Organization", "D) Home Mutual Organization"],
-    answer: "B",
-    explanation: "HMO stands for Health Maintenance Organization — a managed care entity providing comprehensive health services to members for a fixed prepaid premium using a network of contracted providers."
+    q: "A variable annuity differs from a fixed annuity in that a variable annuity:",
+    choices: ["A) Guarantees a fixed monthly income for life", "B) Has no accumulation period", "C) Invests in a separate account with returns that vary based on investment performance", "D) Is not subject to any federal regulation"],
+    answer: "C",
+    explanation: "Variable annuities invest premiums in separate accounts (sub-accounts similar to mutual funds), so the accumulation and payout values fluctuate based on investment performance. Fixed annuities credit a guaranteed minimum interest rate with no market risk to the contract owner."
   },
   {
     n: 4,
-    q: "Who has the right to change the beneficiary of an accident and health insurance policy with a revocable beneficiary designation?",
-    choices: ["A) The policyowner", "B) The beneficiary", "C) The insurer", "D) The producer"],
-    answer: "A",
-    explanation: "With a revocable designation, the policyowner retains full control and may change the beneficiary at any time without the beneficiary's consent. Irrevocable beneficiaries cannot be changed without their written consent."
+    q: "The policyowner of a life insurance policy has all of the following rights EXCEPT:",
+    choices: ["A) The right to name or change the beneficiary", "B) The right to assign the policy", "C) The right to approve or deny claims", "D) The right to take out a policy loan"],
+    answer: "C",
+    explanation: "Policyowners have contractual rights including naming beneficiaries, assigning the policy, borrowing against cash value, and selecting settlement options. Claim approval and payment decisions belong exclusively to the insurer, not the policyowner."
   },
   {
     n: 5,
@@ -36,10 +36,10 @@ export const lifeQuestions = [
   },
   {
     n: 6,
-    q: "Which disability income policy was issued on a substandard basis?",
-    choices: ["A) Guaranteed renewable with a 30-day elimination period", "B) Guaranteed renewable with a cost-of-living rider", "C) Non-cancelable with a qualified condition exclusion rider", "D) Income replacement contract with a hospital confinement benefit rider"],
-    answer: "C",
-    explanation: "A qualified condition exclusion rider excludes a specific pre-existing health condition — this is a substandard (rated) policy feature. Standard policies do not contain condition-specific exclusion riders."
+    q: "An applicant for life insurance is classified as a substandard risk. Which of the following is most likely to be true?",
+    choices: ["A) The applicant will be denied coverage entirely", "B) The applicant will pay a higher premium or receive modified coverage", "C) The applicant will be offered coverage at the preferred rate", "D) The applicant's policy will include no exclusions"],
+    answer: "B",
+    explanation: "Substandard (rated) risks present greater-than-average mortality risk. Insurers typically still offer coverage but charge a higher (rated) premium, reduce the death benefit, or attach exclusion riders. Outright denial is rare and only occurs for very high-risk applicants."
   },
   {
     n: 7,
@@ -57,10 +57,10 @@ export const lifeQuestions = [
   },
   {
     n: 9,
-    q: "A coordination of benefits provision is included in group accident and health insurance to reduce:",
-    choices: ["A) Premium costs for the employer", "B) Duplication of benefit payments", "C) The waiting period for new employees", "D) The insurer's administrative expenses"],
+    q: "Under a group life insurance plan, an employee who terminates employment has the right to:",
+    choices: ["A) Continue the same group coverage at the same group premium indefinitely", "B) Convert to an individual policy without evidence of insurability within 31 days", "C) Assign the group policy to a new employer immediately", "D) Receive a cash surrender value equal to premiums paid"],
     answer: "B",
-    explanation: "Coordination of Benefits (COB) prevents an insured with dual coverage from receiving more than 100% of actual medical expenses by coordinating payment between primary and secondary plans, eliminating benefit duplication."
+    explanation: "The conversion privilege in group life insurance allows a terminating employee to convert their group coverage to an individual policy within 31 days without a medical exam. The individual policy premium will be higher (based on attained age and risk class), but no evidence of insurability is required."
   },
   {
     n: 10,
@@ -113,10 +113,10 @@ export const lifeQuestions = [
   },
   {
     n: 17,
-    q: "A Maryland resident who is not covered by Medicare, Medicaid, or a group plan, and has been denied individual coverage for medical reasons, is guaranteed coverage through:",
-    choices: ["A) The Maryland Health Insurance Plan", "B) A risk retention group", "C) A reciprocal exchange", "D) A surplus lines insurer"],
-    answer: "A",
-    explanation: "The Maryland Health Insurance Plan (MHIP) is a high-risk pool providing guaranteed health insurance coverage to Maryland residents who have been denied coverage due to medical reasons and have no other coverage options. It serves as a safety net for the medically uninsurable."
+    q: "Under Maryland law, when must an insurable interest exist for a life insurance policy to be valid?",
+    choices: ["A) Only at the time of the insured's death", "B) At the inception of the contract (time of application)", "C) Throughout the entire life of the policy", "D) Only when a claim is filed"],
+    answer: "B",
+    explanation: "In life insurance, insurable interest must exist at the time the policy is issued (inception/application). Unlike property insurance, it does not need to continue throughout the policy's life. A validly issued policy remains in force even if the insurable interest later disappears."
   },
   {
     n: 18,
@@ -134,10 +134,10 @@ export const lifeQuestions = [
   },
   {
     n: 20,
-    q: "All of the following factors may be considered in individual disability income insurance underwriting EXCEPT:",
-    choices: ["A) Age", "B) Religion", "C) Gender", "D) Occupation"],
+    q: "Which of the following is NOT a permissible underwriting factor for individual life insurance?",
+    choices: ["A) Age", "B) Race", "C) Gender", "D) Health history"],
     answer: "B",
-    explanation: "Religion is never a permissible underwriting factor — it would constitute illegal discrimination. Age, gender, and occupation are all relevant and permissible underwriting factors for disability income insurance because they correlate with disability risk."
+    explanation: "Race is never a permissible underwriting factor — it constitutes illegal discrimination. Age, gender, and health history are all relevant and lawful factors in life insurance underwriting because they correlate with mortality risk and life expectancy."
   },
   {
     n: 21,
@@ -148,10 +148,10 @@ export const lifeQuestions = [
   },
   {
     n: 22,
-    q: "A nonprofit health service plan may NOT issue a contract that covers which of the following types of benefits?",
-    choices: ["A) Vision benefits", "B) Disability income benefits", "C) Medical expense benefits", "D) Dental benefits"],
+    q: "A variable life insurance policy differs from a whole life policy in that a variable policy:",
+    choices: ["A) Has no death benefit", "B) Invests cash value in separate accounts with performance-based returns", "C) Guarantees a fixed premium for life", "D) Cannot be surrendered"],
     answer: "B",
-    explanation: "Nonprofit health service plans (like Blue Cross/Blue Shield entities) are authorized to provide medical expense, dental, and vision benefits, but are generally not authorized to provide disability income (income replacement) benefits, which fall under life and health insurer authority."
+    explanation: "Variable life insurance invests the cash value in separate accounts (similar to mutual fund sub-accounts). The death benefit and cash value fluctuate based on investment performance. Whole life guarantees a fixed death benefit and guaranteed cash value growth. Variable policies require a securities license to sell."
   },
   {
     n: 23,
@@ -169,10 +169,10 @@ export const lifeQuestions = [
   },
   {
     n: 25,
-    q: "Which type of plan best describes Medicaid?",
-    choices: ["A) A private group health plan", "B) An employer-sponsored medical plan", "C) A government-sponsored medical assistance plan based on financial need", "D) A type of Medicare Supplement insurance"],
-    answer: "C",
-    explanation: "Medicaid is a joint federal-state government program providing medical assistance to individuals and families with low incomes and limited resources. Eligibility is based on financial need (income/assets), not age or disability status (though certain groups receive priority)."
+    q: "Which of the following best describes the accumulation phase of a deferred annuity?",
+    choices: ["A) The period during which annuity income payments are made to the annuitant", "B) The period during which premiums are paid and interest grows tax-deferred", "C) The period after the annuity starting date", "D) The period during which the insurer assesses surrender charges only"],
+    answer: "B",
+    explanation: "The accumulation (pay-in) phase of a deferred annuity is the period before annuitization begins. During this time, premiums are deposited and interest (or investment gains) accumulate on a tax-deferred basis. The annuity phase (distribution/payout phase) begins when income payments start."
   },
   {
     n: 26,
@@ -190,10 +190,10 @@ export const lifeQuestions = [
   },
   {
     n: 28,
-    q: "Medical expense insurance typically EXCLUDES coverage for treatment of:",
-    choices: ["A) Chronic back pain", "B) Eating disorders", "C) Intentionally self-inflicted injuries", "D) Undiagnosed diseases"],
-    answer: "C",
-    explanation: "Intentionally self-inflicted injuries are a standard exclusion in medical expense policies. Chronic conditions, eating disorders, and undiagnosed diseases are generally covered (subject to other policy terms like pre-existing condition provisions)."
+    q: "Which of the following is a standard exclusion found in most life insurance policies?",
+    choices: ["A) Death due to natural causes", "B) Death resulting from a chronic illness", "C) Death resulting from aviation as a fare-paying passenger on a commercial airline", "D) Death occurring within 2 years of policy issue due to suicide"],
+    answer: "D",
+    explanation: "The suicide exclusion is a standard life insurance policy exclusion — if the insured commits suicide within the first 1-2 years of the policy, the insurer typically returns only the premiums paid rather than paying the full death benefit. Deaths from natural causes and commercial airline travel are covered."
   },
   {
     n: 29,
@@ -204,10 +204,10 @@ export const lifeQuestions = [
   },
   {
     n: 30,
-    q: "A producer originating an accident and health insurance application:",
-    choices: ["A) Has no further responsibility once the application is submitted", "B) May not discuss policy benefits with the applicant", "C) Usually is the major personal contact with the insured", "D) Is prohibited from collecting the initial premium"],
-    answer: "C",
-    explanation: "The producer (field agent) is typically the primary personal contact between the insurance company and the insured. Producers solicit applications, explain benefits, collect initial premiums, deliver policies, and service the account throughout its life."
+    q: "When delivering a life insurance policy, the producer should:",
+    choices: ["A) Collect the first premium only if not already paid with the application", "B) Leave the policy without explaining the contents", "C) Ask the policyowner to sign away their free-look rights", "D) Discourage the policyowner from reading the policy"],
+    answer: "A",
+    explanation: "At policy delivery, the producer should explain the policy's provisions, collect any outstanding initial premium if not already paid, and inform the policyowner of their free-look right. Producers must not suppress the free-look period or discourage review of the policy."
   },
   {
     n: 31,
@@ -218,17 +218,17 @@ export const lifeQuestions = [
   },
   {
     n: 32,
-    q: "Group health insurance contracts providing coverage for employees in more than one state are usually controlled by the laws of the state where:",
-    choices: ["A) The application is signed", "B) The producer resides", "C) The master contract is issued", "D) The majority of employees reside"],
-    answer: "A",
-    explanation: "The state where the master group contract is signed (issued) typically governs the contract terms. This is known as the situs-of-contract rule, and it determines which state's insurance laws and regulations apply to the group policy."
+    q: "The master contract in a group life insurance plan is issued to:",
+    choices: ["A) Each individual employee", "B) The group's insurance agent", "C) The employer or group sponsor", "D) The Maryland Insurance Administration"],
+    answer: "C",
+    explanation: "In group life insurance, the master contract (policy) is issued to the employer or group sponsor, while individual employees receive certificates of coverage. The master contract contains all the terms and conditions; certificates are summaries of coverage for each member."
   },
   {
     n: 33,
-    q: "Disability income insurance premiums are a deductible expense when the premiums are paid by:",
-    choices: ["A) A partnership for group disability income coverage for the partners", "B) A corporation for group disability income coverage for the employees", "C) An insured for individual disability income coverage", "D) An employee for group disability income coverage"],
-    answer: "B",
-    explanation: "Corporations may deduct disability income premiums paid for employee group coverage as a business expense. When a corporation deducts premiums, benefits received by employees are taxable income. Individual premiums paid personally are not deductible."
+    q: "Premiums paid by an individual for a personally owned life insurance policy are:",
+    choices: ["A) Fully tax-deductible as a personal expense", "B) Deductible only if the policy has a cash value", "C) Not tax-deductible for federal income tax purposes", "D) Deductible up to $2,500 per year"],
+    answer: "C",
+    explanation: "Individuals cannot deduct personal life insurance premiums on their federal income tax returns. However, death benefits are generally received income-tax-free by beneficiaries. Business-owned life insurance premiums are also generally not deductible when the business is the beneficiary."
   },
   {
     n: 34,
@@ -295,10 +295,10 @@ export const lifeQuestions = [
   },
   {
     n: 43,
-    q: "Which type of Medicare Supplement information can be used without prior state approval?",
-    choices: ["A) Insurance company brochures", "B) Radio announcements approved by the insurer", "C) Television advertisements approved by the insurer", "D) Government publications"],
-    answer: "D",
-    explanation: "Government publications (such as Medicare's official 'Choosing a Medigap Policy' guide) may be distributed without prior state regulatory approval because they are already government-approved informational materials. Insurer advertising (brochures, radio, TV) must meet state approval requirements."
+    q: "When must a life insurance producer provide an applicant with a Buyer's Guide and Policy Summary?",
+    choices: ["A) Only if the applicant specifically requests one", "B) At or before the time the application is taken or the policy is delivered", "C) Within 60 days after the policy anniversary", "D) Only for policies with a face amount over $100,000"],
+    answer: "B",
+    explanation: "Maryland requires that producers provide applicants with an approved Buyer's Guide and Policy Summary at or before policy delivery (or at application for interest-sensitive policies). These documents help consumers compare and understand life insurance products."
   },
   {
     n: 44,
@@ -337,10 +337,10 @@ export const lifeQuestions = [
   },
   {
     n: 49,
-    q: "If an insurer pays an individual accident and health insurance claim during a policy's grace period:",
-    choices: ["A) The deductible is waived", "B) A 10% service fee is charged", "C) The policy is canceled automatically at the end of the grace period", "D) The amount of unpaid premium may be subtracted from the reimbursement"],
-    answer: "D",
-    explanation: "During the grace period, coverage continues but the overdue premium remains owed. If a claim is paid during this window, the insurer may deduct the outstanding premium from the benefit payment."
+    q: "If a life insurance premium is not paid and the policy lapses, what must occur before the policy can be reinstated?",
+    choices: ["A) The policyowner must purchase a new policy", "B) The insurer must agree to a reduced face amount", "C) The insured must provide evidence of insurability and pay all overdue premiums with interest", "D) The beneficiary must consent to the reinstatement"],
+    answer: "C",
+    explanation: "To reinstate a lapsed life insurance policy, the policyowner generally must: (1) apply within the reinstatement period (usually 3-5 years), (2) provide satisfactory evidence of insurability, and (3) pay all past-due premiums with interest. Reinstatement restores the original policy rather than requiring a new one."
   },
   {
     n: 50,
@@ -351,24 +351,24 @@ export const lifeQuestions = [
   },
   {
     n: 51,
-    q: "An insured has a major medical expense policy with a $250 deductible and an 80% coinsurance provision. The insured incurs hospital bills of $750 plus a $500 doctor bill. Assuming no expenses are excluded, how much will the insurer pay?",
-    choices: ["A) $350", "B) $400", "C) $750", "D) $800"],
-    answer: "D",
-    explanation: "Total expenses: $750 + $500 = $1,250. Less deductible: $1,250 − $250 = $1,000. Insurer pays 80% × $1,000 = $800. Insured pays $250 deductible + $200 coinsurance = $450 out of pocket."
+    q: "A life insurance policy with a face amount of $100,000 has an outstanding policy loan of $20,000. If the insured dies, the beneficiary receives:",
+    choices: ["A) $100,000 with no reduction", "B) $80,000 (face amount minus outstanding loan)", "C) $120,000 (face amount plus accumulated interest)", "D) Nothing, because the loan voided the policy"],
+    answer: "B",
+    explanation: "Outstanding policy loans are deducted from the death benefit at the time of claim. If the insured dies with a $20,000 loan on a $100,000 policy, the beneficiary receives $80,000. The policy remains in force as long as cash value exceeds the loan balance plus interest."
   },
   {
     n: 52,
-    q: "An applicant who is issued an accident and health insurance policy at the insurer's average premium rate is a:",
-    choices: ["A) Rated policyowner", "B) Standard beneficiary", "C) Standard risk", "D) Provisionary insured"],
+    q: "An applicant who is issued a life insurance policy at the insurer's standard premium rate is considered a:",
+    choices: ["A) Rated policyowner", "B) Preferred risk", "C) Standard risk", "D) Substandard risk"],
     answer: "C",
-    explanation: "A standard risk is an applicant whose health and lifestyle profile is average for their age group — they receive coverage at the insurer's standard (average) premium rates. Substandard risks receive higher rates or exclusions; preferred risks receive lower rates."
+    explanation: "A standard risk is an applicant whose health, lifestyle, and mortality profile is average for their age group — they receive coverage at the insurer's standard (average) premium rates. Preferred risks have better-than-average profiles and pay lower rates; substandard risks pay higher rates or receive modified coverage."
   },
   {
     n: 53,
-    q: "Which statement is true regarding a group medical and dental expense plan with an integrated deductible?",
-    choices: ["A) Medical and dental expenses apply toward the same deductible", "B) Dental expenses are never subject to a deductible", "C) Medical and dental coverage must be purchased separately", "D) The deductible resets every time a new claim is filed"],
-    answer: "A",
-    explanation: "An integrated deductible means that expenses from both medical and dental coverage are combined and applied toward a single shared deductible. Once the combined deductible is met, benefits from both coverages become payable."
+    q: "A 20-pay whole life insurance policy is one in which:",
+    choices: ["A) Coverage lasts only 20 years", "B) Premiums are paid for 20 years, after which the policy is fully paid up for life", "C) The face amount increases by 20% each year", "D) The policy matures at age 20"],
+    answer: "B",
+    explanation: "A 20-pay whole life policy requires premium payments for exactly 20 years, after which no further premiums are due. The policy remains in force for the insured's entire lifetime with a fully paid-up death benefit. The policy builds cash value more rapidly than ordinary whole life because of the compressed premium-paying period."
   },
   {
     n: 54,
@@ -379,10 +379,10 @@ export const lifeQuestions = [
   },
   {
     n: 55,
-    q: "A waiver of premium provision in a disability income policy means that premiums are waived during:",
-    choices: ["A) The disability benefit period, once the elimination period has been satisfied", "B) The free look period only", "C) The grace period only", "D) The first year of the policy regardless of disability"],
-    answer: "A",
-    explanation: "The waiver of premium provision in a disability policy waives premium payments once the insured has been disabled long enough to satisfy the elimination period. Premiums waived during the elimination period may also be refunded retroactively."
+    q: "A waiver of premium rider on a life insurance policy means that premiums are waived if the insured becomes:",
+    choices: ["A) Unemployed", "B) Totally disabled for a specified period", "C) Diagnosed with any illness", "D) Over the age of 65"],
+    answer: "B",
+    explanation: "The waiver of premium rider in a life insurance policy waives premium payments if the insured becomes totally disabled for the required waiting period (usually 6 months). The policy remains in force without premium payments during the disability. Most riders terminate at age 60 or 65."
   },
   {
     n: 56,
@@ -421,10 +421,10 @@ export const lifeQuestions = [
   },
   {
     n: 61,
-    q: "A coordination of benefits provision is included in group accident and health insurance to reduce:",
-    choices: ["A) Premium costs for the employer", "B) Overinsurance", "C) The waiting period for new employees", "D) The insurer's administrative expenses"],
+    q: "An endowment life insurance policy pays the face amount to the policyowner if:",
+    choices: ["A) The insured dies before the endowment date only", "B) The insured survives to the end of the policy period, or dies before that date", "C) The insured becomes disabled before the endowment date", "D) The insured surrenders the policy before the endowment date"],
     answer: "B",
-    explanation: "COB provisions prevent overinsurance — the situation where an insured could collect more than 100% of actual expenses from multiple insurance sources. By coordinating primary and secondary plan payments, total benefits are limited to actual expenses incurred."
+    explanation: "An endowment policy pays the face amount either upon the insured's death during the policy period OR to the living policyowner if the insured survives to the end of the endowment period. Endowments build cash value faster than whole life and are often used as savings vehicles."
   },
   {
     n: 62,
@@ -442,10 +442,10 @@ export const lifeQuestions = [
   },
   {
     n: 64,
-    q: "A significant difference between health maintenance organizations (HMOs) and private commercial accident and health insurers is that HMOs:",
-    choices: ["A) Cannot offer preventive care", "B) Are not regulated by the state", "C) Combine the delivery of medical care and the funding of that care in one organization", "D) Only cover hospitalization expenses"],
-    answer: "C",
-    explanation: "HMOs uniquely integrate the financing and delivery of healthcare — they both fund care (collect premiums) and deliver care (through employed or contracted physicians). Traditional indemnity insurers only fund care; providers deliver it independently. HMOs are regulated by states and must offer preventive care."
+    q: "Which of the following best describes a variable life insurance policy compared to a traditional whole life policy?",
+    choices: ["A) Variable life has a guaranteed minimum death benefit equal to the original face amount", "B) Variable life has fixed premiums and a guaranteed cash value", "C) Variable life does not allow the policyowner to direct investments", "D) Variable life premiums are flexible and there is no guaranteed death benefit"],
+    answer: "A",
+    explanation: "Variable life insurance has a guaranteed minimum death benefit (the original face amount) even if investment sub-accounts perform poorly. However, the cash value and any amount above the minimum death benefit fluctuate with investment performance. Producers selling variable life must hold a FINRA securities registration."
   },
   {
     n: 65,
