@@ -1,6 +1,11 @@
 const BLUE = '#1F4E79'
 const LIGHT_BLUE = '#EBF3FB'
 
+const studyGuides = {
+  life: { file: '/Life Producer Study Guide.docx', label: 'Life Producer Study Guide' },
+  health: { file: '/Accident & Health Study Guide.docx', label: 'A&H Study Guide' },
+}
+
 export default function HomeScreen({ exams, onStart }) {
   return (
     <div style={{ minHeight: '100vh', background: '#f0f4f8', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '32px 16px' }}>
@@ -85,6 +90,30 @@ export default function HomeScreen({ exams, onStart }) {
             >
               Start Exam →
             </button>
+
+            <a
+              href={studyGuides[exam.id].file}
+              download
+              style={{
+                display: 'block',
+                textAlign: 'center',
+                background: LIGHT_BLUE,
+                color: BLUE,
+                border: `2px solid ${BLUE}`,
+                borderRadius: 10,
+                padding: '12px 0',
+                fontWeight: 700,
+                fontSize: 14,
+                letterSpacing: 0.5,
+                textDecoration: 'none',
+                transition: 'opacity 0.15s',
+                cursor: 'pointer',
+              }}
+              onMouseOver={e => e.currentTarget.style.opacity = '0.75'}
+              onMouseOut={e => e.currentTarget.style.opacity = '1'}
+            >
+              Download Study Guide
+            </a>
           </div>
         ))}
       </div>
