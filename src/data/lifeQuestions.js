@@ -162,10 +162,10 @@ export const lifeQuestions = [
   },
   {
     n: 24,
-    q: "Giving policyholders some part of the agent's commission as an inducement to purchase insurance is an unfair trade practice known as:",
-    choices: ["A) Twisting", "B) Rebating", "C) Replacement", "D) Retention"],
+    q: "Under Section 1035 of the Internal Revenue Code, which of the following exchanges is permitted on a tax-free basis?",
+    choices: ["A) An annuity contract for a life insurance policy", "B) A life insurance policy for an annuity contract", "C) An annuity contract for a health savings account", "D) A life insurance policy for a mutual fund"],
     answer: "B",
-    explanation: "Rebating is returning any part of the commission or providing other inducements of value (cash, gifts, services) to entice someone to buy insurance. It is illegal because it creates unfair competitive advantages and distorts pricing."
+    explanation: "Section 1035 allows tax-free exchanges of: life insurance for life insurance, life insurance for annuity, annuity for annuity, and life/annuity for long-term care insurance. You CANNOT exchange an annuity for a life insurance policy (that goes the wrong direction) or for non-insurance products like mutual funds."
   },
   {
     n: 25,
@@ -414,17 +414,17 @@ export const lifeQuestions = [
   },
   {
     n: 60,
-    q: "An insurable interest in the life of the insured must exist:",
-    choices: ["A) Only at the inception of the contract", "B) Throughout the entire life of the policy", "C) Only at the time a claim is filed", "D) Only if the beneficiary is a relative"],
-    answer: "A",
-    explanation: "For life insurance, insurable interest must exist at the time the policy is issued (inception). Unlike property insurance, insurable interest does not need to exist at the time of the death claim. Once validly issued, the policy remains valid even if the insurable interest later disappears."
+    q: "A collateral assignment of a life insurance policy is used to:",
+    choices: ["A) Transfer all ownership rights to a new policyowner permanently", "B) Assign the policy as security for a loan, with rights reverting upon repayment", "C) Name an irrevocable beneficiary on the policy", "D) Convert a term policy to whole life insurance"],
+    answer: "B",
+    explanation: "A collateral assignment temporarily transfers partial policy rights to a creditor as security for a loan. When the loan is repaid, all rights revert to the policyowner. This differs from an absolute assignment, which permanently transfers all ownership rights to another party."
   },
   {
     n: 61,
-    q: "An endowment life insurance policy pays the face amount to the policyowner if:",
-    choices: ["A) The insured dies before the endowment date only", "B) The insured survives to the end of the policy period, or dies before that date", "C) The insured becomes disabled before the endowment date", "D) The insured surrenders the policy before the endowment date"],
+    q: "An accelerated death benefit rider allows the policyowner to:",
+    choices: ["A) Increase the death benefit without additional premium", "B) Receive a portion of the death benefit while still living if diagnosed with a terminal illness", "C) Accelerate premium payments to pay off the policy sooner", "D) Convert the policy to an annuity at a discounted rate"],
     answer: "B",
-    explanation: "An endowment policy pays the face amount either upon the insured's death during the policy period OR to the living policyowner if the insured survives to the end of the endowment period. Endowments build cash value faster than whole life and are often used as savings vehicles."
+    explanation: "The accelerated death benefit (living benefit) rider allows a terminally ill insured to receive a portion (typically 25-75%) of the death benefit before death to help pay for medical expenses or other needs. The remaining death benefit paid to beneficiaries is reduced by the amount advanced."
   },
   {
     n: 62,
@@ -519,10 +519,10 @@ export const lifeQuestions = [
   },
   {
     n: 75,
-    q: "Which rider allows an insured to purchase additional life insurance at specified future dates without evidence of insurability?",
-    choices: ["A) Waiver of premium rider", "B) Accidental death rider", "C) Guaranteed insurability rider", "D) Cost of living rider"],
-    answer: "C",
-    explanation: "The guaranteed insurability (guaranteed purchase) rider allows the policyowner to buy additional insurance at specified option dates — such as every 3 years or upon marriage/birth of a child — without a medical exam or proof of good health."
+    q: "The extended term nonforfeiture option uses the policy's cash value to:",
+    choices: ["A) Purchase a reduced amount of paid-up whole life insurance", "B) Purchase term insurance for the original face amount for as long as the cash value allows", "C) Pay the overdue premium and maintain the original policy", "D) Convert the policy to an annuity contract"],
+    answer: "B",
+    explanation: "Extended term insurance uses the policy's cash value as a single premium to purchase term insurance equal to the original face amount for as long as the cash value can fund. It is typically the automatic (default) nonforfeiture option if the policyowner does not elect another option. Reduced paid-up provides a smaller face amount for life; extended term provides the full face amount for a limited time."
   },
   {
     n: 76,
