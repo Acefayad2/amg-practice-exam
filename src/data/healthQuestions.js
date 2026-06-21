@@ -204,10 +204,10 @@ export const healthQuestions = [
   },
   {
     n: 30,
-    q: "Anything of value given to produce a contract is the definition of:",
-    choices: ["A) A grant", "B) A codicil", "C) A consideration", "D) A covenant"],
-    answer: "C",
-    explanation: "Consideration is anything of legal value exchanged between contracting parties to make a contract binding. A codicil is an amendment to a will. A covenant is a formal promise. A grant transfers property rights."
+    q: "A pre-existing condition limitation in a health insurance policy typically restricts coverage for conditions that were:",
+    choices: ["A) Diagnosed or treated within a specified period before the policy's effective date", "B) Inherited from a family member", "C) Caused by an accident rather than an illness", "D) Treated by an out-of-network provider"],
+    answer: "A",
+    explanation: "A pre-existing condition limitation excludes or limits coverage for conditions that were diagnosed, treated, or for which medical advice was received within a specified lookback period (commonly 6 months) before the policy's effective date. The limitation typically expires after a waiting period (commonly 12 months of continuous coverage)."
   },
   {
     n: 31,
@@ -463,10 +463,10 @@ export const healthQuestions = [
   },
   {
     n: 67,
-    q: "When the employer pays the premium, covered individuals normally receive tax-free benefits under all of the following group health plans EXCEPT:",
-    choices: ["A) Disability income", "B) Major medical", "C) Dental", "D) Health maintenance organization"],
-    answer: "A",
-    explanation: "When an employer pays 100% of the premium for group disability income, the benefits received by the employee are fully taxable as ordinary income. Medical (major medical), dental, and HMO benefits paid by employer-funded plans are received income-tax-free by employees."
+    q: "A Preferred Provider Organization (PPO) differs from an HMO in that a PPO:",
+    choices: ["A) Requires members to select a primary care physician as a gatekeeper", "B) Allows members to see out-of-network providers at a higher cost-sharing level", "C) Does not cover preventive care services", "D) Requires a referral for all specialist visits"],
+    answer: "B",
+    explanation: "PPOs allow members to see any provider, but offer lower cost-sharing (copays, deductibles) when using in-network providers. Unlike HMOs, PPOs do not require a primary care gatekeeper or referrals for specialists. Out-of-network care is covered but at higher out-of-pocket cost to the member."
   },
   {
     n: 68,
@@ -477,10 +477,10 @@ export const healthQuestions = [
   },
   {
     n: 69,
-    q: "A producer who makes an incomplete comparison of policies to encourage an insured to cancel a contract of another insurer and purchase a new one is guilty of:",
-    choices: ["A) Rebating", "B) Coercion", "C) Twisting", "D) Defamation"],
+    q: "Which of the following is a qualifying event that triggers COBRA continuation coverage for a dependent spouse?",
+    choices: ["A) The employee receives a salary reduction", "B) The employee changes job responsibilities", "C) Divorce or legal separation from the covered employee", "D) The employee switches to a different group health plan"],
     answer: "C",
-    explanation: "Twisting involves using misrepresentation or incomplete, misleading comparisons to induce a policyholder to replace an existing policy with a new one to their detriment. It is distinguished from lawful replacement, which uses accurate and complete information."
+    explanation: "COBRA qualifying events for dependent spouses include: divorce or legal separation, death of the covered employee, the employee becoming entitled to Medicare, or the employee's termination/reduction in hours. Divorce or legal separation entitles the spouse to up to 36 months of continuation coverage."
   },
   {
     n: 70,
@@ -533,10 +533,10 @@ export const healthQuestions = [
   },
   {
     n: 77,
-    q: "An elimination period in a disability income insurance policy is:",
-    choices: ["A) The period of time that benefits are payable", "B) The same thing as a grace period", "C) A deductible measured in time rather than money", "D) Not applicable separately to each period of disability"],
-    answer: "C",
-    explanation: "The elimination period is aptly described as a 'time deductible' — the insured must be disabled for a set number of days before benefits begin, just as a dollar deductible means the insured pays the first portion of a loss. Each new period of disability typically has its own elimination period unless a recurrent disability provision applies."
+    q: "Under the Affordable Care Act (ACA), which of the following is an essential health benefit that qualified health plans must cover?",
+    choices: ["A) Cosmetic surgery", "B) Maternity and newborn care", "C) Long-term custodial care", "D) Dental implants for adults"],
+    answer: "B",
+    explanation: "The ACA requires qualified health plans to cover 10 essential health benefit categories including: maternity and newborn care, mental health services, prescription drugs, preventive care, hospitalization, emergency services, lab services, pediatric services (including dental/vision), rehabilitative services, and ambulatory patient services. Cosmetic surgery and long-term custodial care are not essential health benefits."
   },
   {
     n: 78,
