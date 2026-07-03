@@ -33,17 +33,17 @@ export default function App() {
   const [user, setUser] = useState(null)
 
   const exams = {
-    health: {
-      id: 'health',
-      title: 'Accident & Health or Sickness Producer',
-      subtitle: '90 Questions · Maryland · Prometric',
-      questions: healthQuestions,
-    },
     life: {
       id: 'life',
       title: 'Life Producer',
       subtitle: '90 Questions · Maryland · Prometric',
       questions: lifeQuestions,
+    },
+    health: {
+      id: 'health',
+      title: 'Accident & Health or Sickness Producer',
+      subtitle: '90 Questions · Maryland · Prometric',
+      questions: healthQuestions,
     },
   }
 
