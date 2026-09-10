@@ -1,0 +1,81 @@
+{
+  "course": "Life Insurance Exam Lab",
+  "lesson": "06 — Term versus whole life",
+  "status": "delivered; video and package uploaded and confirmed; full-file decode check passed",
+  "generated_seconds": 90,
+  "planned_duration": 162,
+  "credits_spent": 810,
+  "scenes": [
+    {
+      "index": 1,
+      "title": "The client question",
+      "visual": "Photorealistic premium financial-education film. A fictional mother in her early thirties in a textured navy sweater sits at her sunny kitchen table with a household planning sheet and a child's drawing. Slow controlled dolly inward from medium shot. Natural warm window light, tasteful muted cream and navy palette, 35mm cinema lens, believable hands. She looks toward an unseen adviser and speaks the dialogue naturally, with clean lip sync. No other voice.",
+      "speech": "My children depend on my income. I want protection for the next twenty years. But if I buy life insurance, does every policy build cash value?",
+      "job_id": "8128c21a-56a7-40d5-b283-bcb7c1cd9f81",
+      "status": "completed",
+      "type": "video",
+      "model": "seedance_2_5",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260910_195446_8128c21a-56a7-40d5-b283-bcb7c1cd9f81.mp4"
+    },
+    {
+      "index": 2,
+      "title": "How term works",
+      "visual": "Elegant premium three-dimensional educational animation, warm ivory studio background with deep navy and teal objects. A small sculptural family and home stand on a linear horizontal platform. A translucent teal protective arch covers a clearly limited stretch of this platform. Camera tracks gently along the platform to its endpoint. Restrained, precise, architectural motion, soft realistic materials and ambient shadows. No humans speaking. No lettering or numbers; these will be added in post. Male professional American English offscreen narrator, warm low-mid register, measured clarity.",
+      "speech": "Term life covers a specified period. If the insured dies while the policy is in force, it pays under the contract. Ordinary term insurance has no cash value.",
+      "job_id": "27869b70-2eb8-46b1-afab-4e62d0d8fc84",
+      "status": "completed",
+      "type": "video",
+      "model": "seedance_2_5",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260910_195446_27869b70-2eb8-46b1-afab-4e62d0d8fc84.mp4"
+    },
+    {
+      "index": 3,
+      "title": "How whole life works",
+      "visual": "Elegant premium three-dimensional educational animation in a warm ivory studio. A miniature home sits within a navy architectural protective arch, with a separate series of teal blocks increasing gradually to its right. Show protection and accumulating cash value as separate visual elements, not money paid twice. Slow camera push, realistic soft shadows, precise restrained movement, no letterforms or numbers. Male professional American English offscreen narrator, warm low-mid register, measured clarity.",
+      "speech": "Traditional whole life is designed for permanent protection and guaranteed cash value under its contract. Required premiums and policy conditions still matter. Permanent does not mean you can ignore payments.",
+      "job_id": "48d83fbd-7e45-448f-b1c9-a3d98e0fcb5f",
+      "status": "completed",
+      "type": "video",
+      "model": "seedance_2_5",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260910_195446_48d83fbd-7e45-448f-b1c9-a3d98e0fcb5f.mp4"
+    },
+    {
+      "index": 4,
+      "title": "Premium and coverage comparison",
+      "visual": "Premium minimal three-dimensional explainer in a warm ivory studio, navy and teal palette. Two parallel horizontal architectural tracks: the near teal track ends at a defined endpoint, while the farther navy track continues beyond the frame. Slow overhead-to-oblique camera movement. A tiny home icon on each track. No currency amounts, no text, no numbers, no speculative returns. Male professional American English offscreen narrator, warm low-mid register, measured clarity.",
+      "speech": "For comparable coverage, term generally has a lower initial premium than whole life. Compare the duration, premium structure, and cash value. Do not assume every life policy works the same way.",
+      "job_id": "0f8c4782-5da7-47be-8b13-1aad96ff703d",
+      "status": "completed",
+      "type": "video",
+      "model": "seedance_2_5",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260910_195446_0f8c4782-5da7-47be-8b13-1aad96ff703d.mp4"
+    },
+    {
+      "index": 5,
+      "title": "Apply the concept",
+      "visual": "Photorealistic premium educational film. A different fictional client, a thoughtful middle-aged man wearing a charcoal knit polo, meets a female adviser in a sophisticated naturally lit office. Calm medium two-shot with a gentle lateral camera move, warm ivory stone, subtle navy furniture, restrained tasteful environment. No visible documents or logos. Client speaks naturally; adviser listens silently. Clean intelligible dialogue and accurate lip sync.",
+      "speech": "I want permanent protection and guaranteed cash value under the policy. That sounds different from a twenty-year term policy. Which type matches those features?",
+      "job_id": "9aa6a735-7b0d-45ac-87a9-5249264a24e6",
+      "status": "completed",
+      "type": "video",
+      "model": "seedance_2_5",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260910_195446_9aa6a735-7b0d-45ac-87a9-5249264a24e6.mp4"
+    },
+    {
+      "index": 6,
+      "title": "Resolve the comparison",
+      "visual": "Elegant premium three-dimensional educational animation in warm ivory, navy and teal. Side-by-side abstract sculptural vignettes: left a teal arch with visible endpoint above a home; right a navy arch beside progressively taller teal blocks. Balanced wide composition with generous empty upper and lower space for titles added in post. Gentle controlled camera push, sophisticated lighting, precise restrained motion, no text or numbers. Male professional American English offscreen narrator, warm low-mid register, measured clarity.",
+      "speech": "Traditional whole life matches that description. Remember: term means a specified coverage period with no cash value. Whole life is designed for permanent protection and contractual cash value. Now test the distinction.",
+      "job_id": "62da11f9-e078-4a61-bb71-40c6070e5b26",
+      "status": "completed",
+      "type": "video",
+      "model": "seedance_2_5",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260910_195446_62da11f9-e078-4a61-bb71-40c6070e5b26.mp4"
+    }
+  ],
+  "output_video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/dbdc2693-29b8-4dd4-b564-b5df465ac983.mp4",
+  "production_archive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/c49c8e58-f117-4d5a-a509-063c47aee7fa.zip",
+  "review_sheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/9c263414-307d-48d3-a959-88c4cb16376e.png",
+  "remaining_credits": 30.2,
+  "audio_correction": "Scene 3: removed garbled policy word. Corrected sentence: Required premiums and conditions still matter."
+}

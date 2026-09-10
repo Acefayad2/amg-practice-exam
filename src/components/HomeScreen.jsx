@@ -23,6 +23,14 @@ export default function HomeScreen({ exams, onStart }) {
         </p>
       </div>
 
+      <a
+        href="/course/"
+        style={{ display: 'block', maxWidth: 704, width: '100%', marginBottom: 24, padding: '20px 24px', borderRadius: 12, background: BLUE, color: '#fff', textDecoration: 'none' }}
+      >
+        <strong style={{ display: 'block', fontSize: 18 }}>Watch the Life Insurance Video Course →</strong>
+        <span style={{ display: 'block', marginTop: 6, fontSize: 14 }}>Development preview · Term versus whole life · Scenarios, animations, and practice questions</span>
+      </a>
+
       {/* Exam Cards */}
       <div style={{ display: 'flex', gap: 24, flexWrap: 'wrap', justifyContent: 'center', maxWidth: 800 }}>
         {Object.values(exams).map((exam) => (
