@@ -1,0 +1,66 @@
+{
+  "lesson": "02",
+  "title": "Risk pooling, law of large numbers and adverse selection",
+  "status": "development review; coordinator approval pending",
+  "live_url": "https://amg-exam-portal.netlify.app/course/lesson-02/",
+  "source_job_id": "1aa69032-90da-4f8f-be52-f3b66993e6b3",
+  "reference_from": "Part 1 at 13 seconds",
+  "raw_video": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260911_215850_1aa69032-90da-4f8f-be52-f3b66993e6b3.mp4",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/ad488099-fb72-421e-b845-63eff255a614.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/b7a13882-ae18-49bc-9cc3-85f5f6eef371.png",
+  "editable_archive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/c2d22c0f-bb28-4f77-9f8f-df5216b791ed.zip",
+  "generation": {
+    "model": "kling3_0",
+    "duration": 15,
+    "mode": "pro",
+    "sound": "on",
+    "aspect_ratio": "16:9",
+    "medias": [
+      {
+        "role": "start_image",
+        "value": "7024e118-fdcf-4236-b1d9-47d082a73f02"
+      }
+    ],
+    "prompt": "Continue this exact life-insurance consultation from the supplied reference frame. Keep Daniel, Latino male late thirties in a navy shirt, and his agent Aisha, Black woman early forties in a cream blazer, in the same contemporary neutral office and consistent soft daylight. Photorealistic premium educational drama, natural skin and micro-expressions, restrained warm color grading. Begin on the reference framing for half a second, then a clean motivated reverse-angle cut to Aisha's face, Daniel's shoulder softly out of focus, hold the agent's medium close-up through her answer. Aisha alone speaks clearly and warmly in natural American English at a measured conversational pace, complete exact dialogue: 'Your premium joins those of many policyholders to help pay covered claims. That's risk pooling. A larger group of similar risks helps insurers estimate claims more reliably, but it can't predict any one person's future.' Daniel silently listens and nods slightly at the end. Start speech by 0.8 seconds and finish by 14.0 seconds. Exactly these words, one female voice, no narrator, no music, clean studio-quality dialogue with very light room tone. Anatomically natural gestures, no added people. Do not generate subtitles, captions, graphics, logos, slides or text. Keep upper-left and lower-left quiet for titles and branding added in editing. End with a brief natural listening pause."
+  },
+  "credit_usage": {
+    "balance_before": 8962.5,
+    "generation_credits": 37.5,
+    "balance_after": 8925,
+    "additional_generation_for_branding": 0
+  },
+  "technical": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 24,
+    "seconds": 15.001,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "captions": "public/course/lesson-02/scene-captions.vtt",
+    "editing_script": "docs/course/part-02-edit.jsx"
+  },
+  "branding": {
+    "type": "existing AMG typographic text mark; official logo artwork not supplied",
+    "position": "bottom-left, above player controls",
+    "titles": [
+      {
+        "start": 0.5,
+        "end": 7.4,
+        "text": "Risk pooling"
+      },
+      {
+        "start": 7.8,
+        "end": 15,
+        "text": "Law of large numbers"
+      }
+    ]
+  },
+  "qa": {
+    "source_decode": "passed",
+    "final_decode": "passed",
+    "automated_transcription": "Matches scripted dialogue; policy holders normalized to policyholders.",
+    "interaction": "Wrong/right feedback, answer lock, score, finish, resume, reset and separate lesson state passed.",
+    "responsive": "390-pixel same-origin iframe check: no document overflow; desktop checked.",
+    "review": "Human coordinator and user review pending"
+  }
+}

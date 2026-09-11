@@ -4,7 +4,7 @@
 - Existing Netlify site: `amg-exam-portal` (`40829c93-d6a6-4b8a-bbf7-c64e20d06701`).
 - Course URL: https://amg-exam-portal.netlify.app/course/
 - Course entry point: `public/course/index.html`; Vite copies it into `dist/course/index.html`.
-- Current review part: `public/course/lesson-01/`, served at `/course/lesson-01/`.
+- Current review part: `public/course/lesson-02/`, served at `/course/lesson-02/`. Part 1 remains at `/course/lesson-01/` and links forward to Part 2.
 - The earlier Lesson 06 prototype remains at `/course/term-whole-life.html`.
 - Home navigation: `src/components/HomeScreen.jsx`.
 - Video and original source package remain hosted on Higgsfield. URLs are recorded in `lesson-06-manifest.json`; large MP4 files are not committed to Git.
@@ -22,4 +22,6 @@ Netlify currently uses manual deployments. A GitHub push alone does not update t
 
 ## Course status
 
-Part 1 (Lesson 01) is built for user/coordinator review; the earlier Lesson 06 prototype is retained. All other lessons remain planned. Further lesson production pauses for the user's feedback, as requested. The existing question bank has known review items in `source-audit.md`; this deployment does not claim to resolve them. Progress in Part 1 is local to the browser and does not synchronize across devices.
+Parts 1 and 2 (Lessons 01 and 02) are built for user/coordinator review; the earlier Lesson 06 prototype is retained. All other lessons remain planned. Further lesson production pauses for the user's feedback, as requested. The existing question bank has known review items in `source-audit.md`; this deployment does not claim to resolve them. Each lesson saves its own progress locally in the browser; progress does not synchronize across devices. Part 2 reuses Part 1's base stylesheet with a small local addition and has an independent quiz engine and storage key.
+
+Part 2 media URLs, source generation parameters, editing script, credit usage and coordinator-review points are recorded in `part-02-manifest.json`, `part-02-edit.jsx` and `PART-02-REVIEW.md`. The new video uses the existing AMG text mark as temporary review branding; the official logo artwork has not been supplied. The title and mark are added during editing rather than generated into footage.
