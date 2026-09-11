@@ -28,7 +28,7 @@ export default function HomeScreen({ exams, onStart }) {
         style={{ display: 'block', maxWidth: 704, width: '100%', marginBottom: 24, padding: '20px 24px', borderRadius: 12, background: BLUE, color: '#fff', textDecoration: 'none' }}
       >
         <strong style={{ display: 'block', fontSize: 18 }}>Watch the Life Insurance Video Course →</strong>
-        <span style={{ display: 'block', marginTop: 6, fontSize: 14 }}>Development preview · Term versus whole life · Scenarios, animations, and practice questions</span>
+        <span style={{ display: 'block', marginTop: 6, fontSize: 14 }}>Review Part 1 · Risk, perils and hazards · A client scenario and interactive practice</span>
       </a>
 
       {/* Exam Cards */}

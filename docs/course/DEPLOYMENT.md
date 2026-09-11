@@ -4,6 +4,8 @@
 - Existing Netlify site: `amg-exam-portal` (`40829c93-d6a6-4b8a-bbf7-c64e20d06701`).
 - Course URL: https://amg-exam-portal.netlify.app/course/
 - Course entry point: `public/course/index.html`; Vite copies it into `dist/course/index.html`.
+- Current review part: `public/course/lesson-01/`, served at `/course/lesson-01/`.
+- The earlier Lesson 06 prototype remains at `/course/term-whole-life.html`.
 - Home navigation: `src/components/HomeScreen.jsx`.
 - Video and original source package remain hosted on Higgsfield. URLs are recorded in `lesson-06-manifest.json`; large MP4 files are not committed to Git.
 - The course page carries a noindex directive while development continues. This is a public review page, not an access-controlled learning platform.
@@ -20,4 +22,4 @@ Netlify currently uses manual deployments. A GitHub push alone does not update t
 
 ## Course status
 
-One lesson is produced. Other planned lessons and full exam preparation functionality remain in development. The existing question bank has known review items in `source-audit.md`; this deployment does not claim to resolve them.
+Part 1 (Lesson 01) is built for user/coordinator review; the earlier Lesson 06 prototype is retained. All other lessons remain planned. Further lesson production pauses for the user's feedback, as requested. The existing question bank has known review items in `source-audit.md`; this deployment does not claim to resolve them. Progress in Part 1 is local to the browser and does not synchronize across devices.
