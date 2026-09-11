@@ -6,9 +6,20 @@
   "source_job_id": "1aa69032-90da-4f8f-be52-f3b66993e6b3",
   "reference_from": "Part 1 at 13 seconds",
   "raw_video": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260911_215850_1aa69032-90da-4f8f-be52-f3b66993e6b3.mp4",
-  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/ad488099-fb72-421e-b845-63eff255a614.mp4",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/6f9dbbd4-3462-44b7-93e8-df82645e1d51.mp4",
   "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/b7a13882-ae18-49bc-9cc3-85f5f6eef371.png",
-  "editable_archive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/c2d22c0f-bb28-4f77-9f8f-df5216b791ed.zip",
+  "editable_archive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/070b4fb8-05c9-4312-9ba0-9ff5c58ddcd5.zip",
+  "editing_revision": 2,
+  "ending_correction": {
+    "issue": "User reported that Aisha's mouth stopped moving while the final sentence continued. Initial transcription and decoding checks did not establish lip sync.",
+    "repair": "Cut at 12.5s to Daniel listening, using raw footage from 3.5s through 6s cropped to exclude the agent. Original dialogue continues off-screen. Second title ends at 12.3s to keep the closer reaction shot clear.",
+    "additional_generation_credits": 0,
+    "balance_before": 8925,
+    "balance_after": 8925,
+    "audio_sha256": "acd4940547cb93188c651ed300bb2af07d5fd904bce304e2f7c2e5c58b8c0c11",
+    "audio_verification": "Original and corrected 0–15s decoded audio hashes match.",
+    "ending_contact_sheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/123e7cc8-ca4b-4ae7-837c-ebb1161e7c6b.jpg"
+  },
   "generation": {
     "model": "kling3_0",
     "duration": 15,
@@ -50,7 +61,7 @@
       },
       {
         "start": 7.8,
-        "end": 15,
+        "end": 12.3,
         "text": "Law of large numbers"
       }
     ]

@@ -1,6 +1,6 @@
 window.LESSON02 = {
   version: 1,
-  video: 'https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/ad488099-fb72-421e-b845-63eff255a614.mp4',
+  video: 'https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/6f9dbbd4-3462-44b7-93e8-df82645e1d51.mp4',
   poster: 'https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/b7a13882-ae18-49bc-9cc3-85f5f6eef371.png',
   transcript: "Aisha: Your premium joins those of many policyholders to help pay covered claims. That's risk pooling. A larger group of similar risks helps insurers estimate claims more reliably, but it can't predict any one person's future.",
   terms: [

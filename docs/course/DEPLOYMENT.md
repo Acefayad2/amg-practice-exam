@@ -14,7 +14,7 @@
 
 1. Install locked dependencies with `npm ci`.
 2. Build with `npm run build`.
-3. Verify the course video, captions, chapter controls, and quiz feedback; confirm the existing exam center still loads.
+3. Watch the full video with sound, including every visible speaker's mouth through the final spoken word. Check dialogue-to-mouth alignment, shot changes, and pauses. Speech recognition and successful decoding verify different properties and do not establish lip sync. If a speaking shot fails, repair the edit using appropriate existing footage or record an explicit need for regeneration before spending more credits. Then verify captions, chapter controls and quiz feedback; confirm the existing exam center still loads.
 4. Push the reviewed source changes to GitHub.
 5. Deploy the built `dist` directory to the existing Netlify site and verify `/course/` on the returned URL.
 

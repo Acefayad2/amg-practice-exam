@@ -30,6 +30,10 @@ Invented annual death-claim probability: 1%; benefit: $100,000; group sizes: 100
 
 ## Validation and credit record
 
+### Ending correction after user review
+
+The user identified a lip-sync defect near the end: Aisha’s lips stopped moving before the final sentence finished. The initial decoding and transcription checks did not catch this visual error. The corrected edit cuts at 12.5 seconds to a cropped, existing shot of Daniel listening while Aisha’s original voice completes the sentence off-screen. This removes the visible mismatch; it does not regenerate or repair the actor’s lip animation. The second title fades out by 12.3 seconds so it does not obscure Daniel in the closer reaction shot. The original audio and caption timings are preserved. Decoded audio hashes match, and no new generation was submitted. Credit balance remains 8,925. The release procedure now explicitly requires checking visible mouth movement through the last spoken word.
+
 The source and branded MP4 pass full-file decoding. The final file is 1920×1080 H.264/AAC, 24fps, approximately 15 seconds. Speech recognition matched all scripted words. The caption cues use the measured dialogue timing. The eight-question flow passed correct/incorrect feedback, answer-lock, progress, completion, reload/resume and reset checks. Lesson 1 and Lesson 2 use separate progress keys. The pooling controls were checked at 100, 1,000 and 10,000 lives with the extra-claim switch on and off. A 390-pixel content-width check showed no horizontal document overflow. These checks do not replace coordinator approval or guarantee exam results.
 
 One Kling 3.0 Pro generation cost 37.5 credits. Balance before: 8,962.5; after: 8,925. No additional video generations were used for logo/title editing. Prices for future lessons still require per-job estimates.
@@ -41,4 +45,3 @@ One Kling 3.0 Pro generation cost 37.5 credits. Balance before: 8,962.5; after: 
 - [Society of Actuaries — Risk and Insurance](https://www.soa.org/globalassets/assets/files/edu/P-21-05.pdf), pooling and probability foundations.
 
 Original scenarios, figures and practice questions. No actual exam items are reproduced. Full media provenance and generation parameters are in docs/course/part-02-manifest.json. The editable archive holds a native Higgsedit project, not an online editing URL; paths in the build script must be adapted when moving it to another environment.
-

@@ -1,7 +1,12 @@
 export default async ({ project }) => {
   const p = await project({dir:'/home/user/amg-part-02',size:'1920x1080',fps:24,background:'#112d35'});
   const scene = await p.add('/home/user/raw.mp4');
-  p.cut(scene, {from:0,dur:15,at:0,fit:'contain'});
+  // End on a cropped listening reaction while the original dialogue continues off-screen.
+  // reaction.mp4: raw.mp4 from 3.5s for 2.5s; crop=1440:810:96:108; scale=1920:1080; no audio.
+  // After rendering, mux raw.mp4's uninterrupted original audio over the full 15-second edit.
+  const reaction = await p.add('/home/user/reaction.mp4');
+  p.cut(scene, {from:0,dur:12.5,at:0,fit:'contain'});
+  p.cut(reaction, {from:0,dur:2.5,at:12.5,fit:'contain'});
   p.compose(
     <frame width={1920} height={1080} layout="none">
       <rect x={64} y={808} width={228} height={104} fill="#112d35" radius={8} />
@@ -17,7 +22,7 @@ export default async ({ project }) => {
     </frame>, {at,dur,name:label}
   );
   title(0.5,6.9,'PART 2 · HOW INSURANCE WORKS','Risk pooling');
-  title(7.8,7.2,'PART 2 · GROUP PREDICTABILITY','Law of large numbers');
+  title(7.8,4.5,'PART 2 · GROUP PREDICTABILITY','Law of large numbers');
   await p.frame(2,'renders/poster.png');
   await p.render('renders/branded.mp4',{bitrate:8000000,concurrency:3});
 };
