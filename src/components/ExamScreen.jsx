@@ -1,10 +1,10 @@
 import { useState, useEffect, useRef } from 'react'
 
 const BLUE = '#1F4E79'
-const TOTAL = 90
-const PASS_SCORE = 63
 
 export default function ExamScreen({ exam, user, onFinish, onHome }) {
+  const TOTAL = exam.questions.length
+  const PASS_SCORE = Math.ceil(TOTAL * (exam.practiceOnly ? 0.85 : 0.7))
   const [current, setCurrent] = useState(0)
   const [answers, setAnswers] = useState({}) // { questionIndex: letter }
   const [selected, setSelected] = useState(null)
@@ -35,6 +35,7 @@ export default function ExamScreen({ exam, user, onFinish, onHome }) {
   }, [revealed])
 
   function checkEarlyFail(newAnswers) {
+    if (exam.practiceOnly) return false
     const answered = Object.keys(newAnswers).length
     const correct = Object.entries(newAnswers).filter(
       ([i, a]) => a === questions[parseInt(i)].answer
@@ -122,7 +123,7 @@ export default function ExamScreen({ exam, user, onFinish, onHome }) {
           <div style={{ marginBottom: 20 }}>
             <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: 13, color: '#718096', marginBottom: 5 }}>
               <span>{answeredCount} answered</span>
-              <span style={{ fontWeight: 600, color: answeredCount > 0 && (correctSoFar / answeredCount) >= 0.7 ? '#2e7d32' : '#c62828' }}>
+              <span style={{ fontWeight: 600, color: answeredCount > 0 && (correctSoFar / answeredCount) >= (exam.practiceOnly ? 0.85 : 0.7) ? '#2e7d32' : '#c62828' }}>
                 {answeredCount > 0 ? `${Math.round((correctSoFar / answeredCount) * 100)}% correct` : 'Not started'}
               </span>
             </div>
@@ -340,11 +341,11 @@ export default function ExamScreen({ exam, user, onFinish, onHome }) {
           {/* Live score card */}
           <div style={{ marginTop: 18, background: '#f0f4f8', borderRadius: 10, padding: '12px 14px' }}>
             <div style={{ fontSize: 11, fontWeight: 700, color: '#718096', marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Score</div>
-            <div style={{ fontSize: 26, fontWeight: 900, color: answeredCount > 0 && (correctSoFar / answeredCount) >= 0.7 ? '#2e7d32' : '#c62828' }}>
+            <div style={{ fontSize: 26, fontWeight: 900, color: answeredCount > 0 && (correctSoFar / answeredCount) >= (exam.practiceOnly ? 0.85 : 0.7) ? '#2e7d32' : '#c62828' }}>
               {answeredCount > 0 ? `${Math.round((correctSoFar / answeredCount) * 100)}%` : '—'}
             </div>
             <div style={{ fontSize: 12, color: '#718096', marginTop: 2 }}>{correctSoFar}/{answeredCount} correct</div>
-            <div style={{ fontSize: 12, color: '#718096', marginTop: 1 }}>Need 63 to pass</div>
+            <div style={{ fontSize: 12, color: '#718096', marginTop: 1 }}>{exam.practiceOnly ? `Drill target: ${PASS_SCORE}/${TOTAL} (85%)` : 'Need 63 to pass'}</div>
           </div>
         </div>
       </div>

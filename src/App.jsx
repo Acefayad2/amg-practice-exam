@@ -5,7 +5,7 @@ import ExamScreen from './components/ExamScreen'
 import ResultsScreen from './components/ResultsScreen'
 import PasswordGate from './components/PasswordGate'
 import { healthQuestions } from './data/healthQuestions'
-import { lifeQuestions } from './data/lifeQuestions'
+import { lifePracticeQuestions } from './data/lifePractice'
 
 // Paste your deployed Google Apps Script Web App URL here after setup:
 const APPS_SCRIPT_URL = import.meta.env.VITE_APPS_SCRIPT_URL || ''
@@ -36,8 +36,9 @@ export default function App() {
     life: {
       id: 'life',
       title: 'Life Producer',
-      subtitle: '90 Questions · Maryland · Prometric',
-      questions: lifeQuestions,
+      subtitle: `${lifePracticeQuestions.length} practice questions · Maryland life · Review edition`,
+      questions: lifePracticeQuestions,
+      practiceOnly: true,
     },
     health: {
       id: 'health',
@@ -72,7 +73,9 @@ export default function App() {
       score: correct,
       total,
       percentage: Math.round((correct / total) * 100),
-      passed: correct >= 63,
+      passed: selectedExam.practiceOnly ? null : correct >= 63,
+      practiceOnly: Boolean(selectedExam.practiceOnly),
+      practiceTargetMet: selectedExam.practiceOnly ? correct / total >= 0.85 : null,
       wrong: results.results.filter(r => !r.correct && !r.skipped).length,
       skipped: results.results.filter(r => r.skipped).length,
       earlyFail: results.earlyFail || false,

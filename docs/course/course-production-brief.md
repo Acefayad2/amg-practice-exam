@@ -1,5 +1,7 @@
 # Life Insurance Exam Lab — production brief
 
+> Historical planning brief from September 10, 2026. Its status, balances, lesson order and production assumptions are superseded by [the September 12 coordinator review](COORDINATOR-REVIEW.md) and [current progress](production-progress.md). Retained to trace the original lesson-slot references; do not use the historical credit figures as current pricing or balance.
+
 Status: Lesson 06 has been produced and delivered as a 2:42 video. The remaining 31 lessons are planned. The user authorized use of the available generation balance; 810 credits were used and 30.2 remain. Working scope is Maryland life-only, inferred from the request and repository. See production-progress.md and lesson-06-manifest.json for the delivered assets.
 
 ## Source and exam alignment

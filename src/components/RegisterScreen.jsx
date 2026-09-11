@@ -34,7 +34,7 @@ export default function RegisterScreen({ exam, onStart, onBack }) {
         <div style={{ marginBottom: 28 }}>
           <div style={{ fontSize: 12, fontWeight: 700, letterSpacing: 2, color: BLUE, textTransform: 'uppercase', marginBottom: 6 }}>AMG Practice Exam</div>
           <h2 style={{ fontSize: 22, fontWeight: 800, color: '#1a202c', marginBottom: 6, lineHeight: 1.3 }}>{exam.title}</h2>
-          <p style={{ color: '#718096', fontSize: 14 }}>Enter your info so your score gets recorded — then you'll go straight into the exam.</p>
+          <p style={{ color: '#718096', fontSize: 14 }}>{exam.practiceOnly ? 'Enter your details to begin the life practice drill. This review edition is untimed and gives immediate feedback.' : "Enter your info so your score gets recorded — then you'll go straight into the exam."}</p>
         </div>
 
         <form onSubmit={handleStart} noValidate>
@@ -77,7 +77,7 @@ export default function RegisterScreen({ exam, onStart, onBack }) {
           </div>
 
           <div style={{ background: '#EBF3FB', borderRadius: 9, padding: '12px 16px', marginBottom: 24, fontSize: 13, color: '#2d3748' }}>
-            <strong style={{ color: BLUE }}>📊 Score tracking:</strong> Your name, email, score, and pass/fail result will be recorded so your instructor can see your progress.
+            <strong style={{ color: BLUE }}>📊 Score tracking:</strong> {exam.practiceOnly ? 'Your score is shown when you finish. Instructor reporting depends on the configured connection; this screen does not confirm that a score was saved.' : 'Your name, email, score, and pass/fail result will be recorded so your instructor can see your progress.'}
           </div>
 
           <button

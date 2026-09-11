@@ -18,8 +18,7 @@ export default function HomeScreen({ exams, onStart }) {
           Practice Exam Center
         </h1>
         <p style={{ color: '#4a5568', fontSize: 16, maxWidth: 480, margin: '0 auto' }}>
-          Prometric-style practice exams for Maryland insurance producer licensing.
-          You need <strong>70% (63/90)</strong> to pass.
+          Practice for Maryland insurance producer licensing. The life section is a study drill while the full course and timed mock exams are developed.
         </p>
       </div>
 
@@ -62,12 +61,17 @@ export default function HomeScreen({ exams, onStart }) {
             </div>
 
             <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 8 }}>
-              {[
+              {(exam.practiceOnly ? [
+                ['Questions', String(exam.questions.length)],
+                ['AMG drill target', '85%'],
+                ['Format', 'Untimed practice'],
+                ['State', 'Maryland'],
+              ] : [
                 ['Questions', '90'],
                 ['Passing Score', '70%'],
                 ['Min. to Pass', '63 correct'],
                 ['State', 'Maryland'],
-              ].map(([label, value]) => (
+              ]).map(([label, value]) => (
                 <div key={label} style={{ background: LIGHT_BLUE, borderRadius: 8, padding: '10px 12px' }}>
                   <div style={{ fontSize: 11, color: '#4a5568', fontWeight: 600, marginBottom: 2 }}>{label}</div>
                   <div style={{ fontSize: 16, fontWeight: 700, color: BLUE }}>{value}</div>
@@ -76,7 +80,7 @@ export default function HomeScreen({ exams, onStart }) {
             </div>
 
             <div style={{ background: '#FFF8E1', border: '1px solid #FFE082', borderRadius: 8, padding: '10px 14px', fontSize: 13, color: '#7B5E00' }}>
-              <strong>Smart Stop:</strong> If it becomes mathematically impossible to pass mid-exam, the test will stop and show your results.
+              {exam.practiceOnly ? 'Review edition: 11 ambiguous questions are held for verification. Complete every practice question; your score does not predict a licensing result.' : <><strong>Smart Stop:</strong> If it becomes mathematically impossible to pass mid-exam, the test will stop and show your results.</>}
             </div>
 
             <button
@@ -96,12 +100,12 @@ export default function HomeScreen({ exams, onStart }) {
               onMouseOver={e => e.currentTarget.style.opacity = '0.88'}
               onMouseOut={e => e.currentTarget.style.opacity = '1'}
             >
-              Start Exam →
+              {exam.practiceOnly ? 'Start Life Practice →' : 'Start Exam →'}
             </button>
 
             <a
-              href={studyGuides[exam.id].file}
-              download
+              href={exam.practiceOnly ? '/course/coverage/' : studyGuides[exam.id].file}
+              download={exam.practiceOnly ? undefined : true}
               style={{
                 display: 'block',
                 textAlign: 'center',
@@ -120,7 +124,7 @@ export default function HomeScreen({ exams, onStart }) {
               onMouseOver={e => e.currentTarget.style.opacity = '0.75'}
               onMouseOut={e => e.currentTarget.style.opacity = '1'}
             >
-              Download Study Guide
+              {exam.practiceOnly ? 'Course Coverage & Official Resources' : 'Download Study Guide'}
             </a>
           </div>
         ))}

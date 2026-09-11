@@ -37,16 +37,16 @@ export const lifeQuestions = [
   {
     n: 6,
     q: "An applicant for life insurance is classified as a substandard risk. Which of the following is most likely to be true?",
-    choices: ["A) The applicant will be denied coverage entirely", "B) The applicant will pay a higher premium or receive modified coverage", "C) The applicant will be offered coverage at the preferred rate", "D) The applicant's policy will include no exclusions"],
+    choices: ["A) The applicant will be denied coverage entirely","B) The applicant will pay a higher premium or receive modified coverage","C) The applicant will be offered coverage at the preferred rate","D) The applicant's policy will include no exclusions"],
     answer: "B",
-    explanation: "Substandard (rated) risks present greater-than-average mortality risk. Insurers typically still offer coverage but charge a higher (rated) premium, reduce the death benefit, or attach exclusion riders. Outright denial is rare and only occurs for very high-risk applicants."
+    explanation: "A substandard risk has higher-than-standard expected mortality. An insurer may offer coverage at a higher premium or with permitted modifications. A declined application is a separate classification; this question does not say how often applications are declined."
   },
   {
     n: 7,
-    q: "Which statement is true regarding a universal life insurance policy?",
-    choices: ["A) Cash value accumulations are subject to a minimum interest rate guarantee", "B) Premiums and face amount are fixed for the life of the policy", "C) It does not provide a death benefit", "D) It cannot be surrendered for cash value"],
+    q: "Which statement is true of a traditional, nonvariable universal life insurance policy?",
+    choices: ["A) Cash value accumulations are subject to a minimum interest rate guarantee","B) Premiums and face amount are fixed for the life of the policy","C) It does not provide a death benefit","D) It cannot be surrendered for cash value"],
     answer: "A",
-    explanation: "Universal life policies credit interest to the cash value at a current rate, but guarantee a minimum interest rate floor (typically 2-4%). Premiums are flexible (not fixed), face amount can be changed, and the policy can be surrendered for cash value."
+    explanation: "The contract specifies a minimum interest-crediting rate; do not assume a universal percentage. Premiums and benefits may be adjusted within contractual limits. Premiums and policy value must be sufficient to meet charges, unless an applicable guarantee provides otherwise. Flexible premiums do not mean free coverage."
   },
   {
     n: 8,
@@ -71,10 +71,10 @@ export const lifeQuestions = [
   },
   {
     n: 11,
-    q: "The Commissioner can deny or refuse to renew a license for an insurance producer if the applicant has done any of the following EXCEPT:",
-    choices: ["A) Willfully violated the laws of the state that relate to insurance", "B) Committed fraudulent or dishonest practices in the insurance business", "C) Unintentionally misrepresented a material fact in an application for the license", "D) Misappropriated or unlawfully withheld money that belongs to an insurer"],
+    q: "Under Maryland Insurance §10–126, which action is an express ground for producer license discipline?",
+    choices: ["A) Truthfully explaining a policy exclusion","B) Asking an applicant to correct an incomplete answer","C) Converting an insured’s premium money to the producer’s personal use","D) Comparing two policies accurately"],
     answer: "C",
-    explanation: "License denial or non-renewal requires willful or intentional misconduct. Unintentional misrepresentation of a material fact — an honest mistake — is generally not grounds for denial. However, willful violations, fraud, and misappropriation of funds are all grounds for denial."
+    explanation: "Section 10–126(a)(4) identifies misappropriating, converting or unlawfully withholding another party’s money as a disciplinary ground. Accurate explanations, corrections and comparisons are not that misconduct. Different statutory grounds have different elements; do not apply a universal intent rule to all grounds."
   },
   {
     n: 12,
@@ -113,10 +113,10 @@ export const lifeQuestions = [
   },
   {
     n: 17,
-    q: "Under Maryland law, when must an insurable interest exist for a life insurance policy to be valid?",
-    choices: ["A) Only at the time of the insured's death", "B) At the inception of the contract (time of application)", "C) Throughout the entire life of the policy", "D) Only when a claim is filed"],
+    q: "A person purchases insurance on another person’s life for their own benefit. Under Maryland’s general insurable-interest rule, when must the required interest exist?",
+    choices: ["A) Only when the insured dies","B) When the insurance contract is made","C) Only when a claim is filed","D) Only after the first renewal"],
     answer: "B",
-    explanation: "In life insurance, insurable interest must exist at the time the policy is issued (inception/application). Unlike property insurance, it does not need to continue throughout the policy's life. A validly issued policy remains in force even if the insurable interest later disappears."
+    explanation: "Maryland Insurance §12–201(a)(2) ties the required interest to the time the contract is made. Application, issue and delivery are not automatically the same event. Insurable interest is different from the policy conditions that must be met for coverage to take effect."
   },
   {
     n: 18,
@@ -148,10 +148,10 @@ export const lifeQuestions = [
   },
   {
     n: 22,
-    q: "A variable life insurance policy differs from a whole life policy in that a variable policy:",
-    choices: ["A) Has no death benefit", "B) Invests cash value in separate accounts with performance-based returns", "C) Guarantees a fixed premium for life", "D) Cannot be surrendered"],
+    q: "Which feature distinguishes variable life insurance from traditional whole life insurance?",
+    choices: ["A) Has no death benefit","B) Invests cash value in separate accounts with performance-based returns","C) Guarantees a fixed premium for life","D) Cannot be surrendered"],
     answer: "B",
-    explanation: "Variable life insurance invests the cash value in separate accounts (similar to mutual fund sub-accounts). The death benefit and cash value fluctuate based on investment performance. Whole life guarantees a fixed death benefit and guaranteed cash value growth. Variable policies require a securities license to sell."
+    explanation: "Variable life offers separate-account investment options. Investment performance affects policy values; traditional whole life has contractual guarantees. Death-benefit guarantees and premium obligations depend on the variable policy’s design. Do not assume variable whole life and variable universal life have identical guarantees."
   },
   {
     n: 23,
@@ -176,10 +176,10 @@ export const lifeQuestions = [
   },
   {
     n: 26,
-    q: "An immediate annuity:",
-    choices: ["A) May be purchased in installments", "B) Pays a lump sum benefit to the annuitant", "C) Lacks an accumulation period", "D) Normally permits tax-deductible contributions"],
+    q: "A single-premium immediate annuity is designed primarily to:",
+    choices: ["A) Accumulate contributions for several decades before income begins","B) Pay only a death benefit","C) Begin an income stream soon after purchase, generally within one year","D) Guarantee that every premium is deductible"],
     answer: "C",
-    explanation: "An immediate annuity is purchased with a single lump-sum premium and begins paying benefits almost immediately (within one payment period). It has no accumulation (deferral) period. Deferred annuities have accumulation phases. Annuity contributions are generally not tax-deductible."
+    explanation: "An immediate annuity exchanges a single premium for income beginning soon after purchase. A deferred annuity postpones income to a later period. Neither the word immediate nor the word annuity by itself makes the premium tax-deductible."
   },
   {
     n: 27,
@@ -190,17 +190,17 @@ export const lifeQuestions = [
   },
   {
     n: 28,
-    q: "Which of the following is a standard exclusion found in most life insurance policies?",
-    choices: ["A) Death due to natural causes", "B) Death resulting from a chronic illness", "C) Death resulting from aviation as a fare-paying passenger on a commercial airline", "D) Death occurring within 2 years of policy issue due to suicide"],
+    q: "For an individual life policy subject to Maryland Insurance §16–215, which exclusion is expressly permitted, subject to the statute’s conditions?",
+    choices: ["A) Any death from natural causes","B) Any death after the insured retires","C) Any death after premiums have been paid for ten years","D) Suicide during the applicable two-year exclusion period"],
     answer: "D",
-    explanation: "The suicide exclusion is a standard life insurance policy exclusion — if the insured commits suicide within the first 1-2 years of the policy, the insurer typically returns only the premiums paid rather than paying the full death benefit. Deaths from natural causes and commercial airline travel are covered."
+    explanation: "Section 16–215 permits a limited suicide exclusion. It does not permit a blanket exclusion for all natural deaths or retirement. The statute also addresses prior policies, additional coverage, and amounts payable; do not assume every new policy restarts the period or that every contract returns exactly the same amount."
   },
   {
     n: 29,
     q: "An employee covered under a group life insurance plan usually is:",
-    choices: ["A) Covered by a whole life policy owned by the employee", "B) Required to take a medical exam each year", "C) Issued an individual policy that follows them to any employer", "D) Covered by renewable term insurance"],
+    choices: ["A) Covered by a whole life policy owned by the employee","B) Required to take a medical exam each year","C) Issued an individual policy that follows them to any employer","D) Covered by renewable term insurance"],
     answer: "D",
-    explanation: "Group life insurance is almost always annual renewable term insurance. Coverage is provided through a certificate (not an individual policy) and typically ends when employment ends. No medical exams are required for eligible employees. Conversion rights may allow employees to convert to individual coverage."
+    explanation: "Employer group life commonly uses renewable term coverage under a master policy, with certificates for insured employees. Evidence-of-insurability rules depend on eligibility, enrollment timing and benefit amounts; do not assume every applicant or coverage increase is exempt. Conversion rights are a separate issue."
   },
   {
     n: 30,
@@ -239,10 +239,10 @@ export const lifeQuestions = [
   },
   {
     n: 35,
-    q: "All of the following normally indicate the presence of insurable interest EXCEPT:",
-    choices: ["A) An individual's interest in their own life", "B) A creditor's interest in a debtor's life", "C) A spouse's interest in their spouse's life", "D) Co-signing a mortgage with another person"],
+    q: "Under Maryland’s general insurable-interest rule, which fact alone does NOT establish an insurable interest in another person’s life?",
+    choices: ["A) A close family relationship with a substantial interest based on love and affection","B) A lawful, substantial financial interest in that person’s continued life","C) A business relationship in which that person’s death would cause a substantial economic loss","D) Wanting a payout on the death of an unrelated stranger with no financial relationship"],
     answer: "D",
-    explanation: "Co-signing a mortgage creates a financial relationship but does not inherently create insurable interest in the co-signer's life the way that direct financial dependence or relationship does. Individuals have insurable interest in their own life; creditors have interest in debtors; spouses have interest in each other."
+    explanation: "Maryland Insurance §12–201 recognizes specified family and economic interests. A desire to profit only from an unrelated stranger’s death does not establish the required interest. Co-signing debt can create economic exposure, so the earlier mortgage example was not a sound exception."
   },
   {
     n: 36,
@@ -261,9 +261,9 @@ export const lifeQuestions = [
   {
     n: 38,
     q: "A primary purpose of licensing insurance producers is to:",
-    choices: ["A) Protect the Maryland Insurance Administration", "B) Accommodate the insurance companies", "C) Safeguard the producer", "D) Protect the public"],
+    choices: ["A) Protect the Maryland Insurance Administration","B) Accommodate the insurance companies","C) Safeguard the producer","D) Protect the public"],
     answer: "D",
-    explanation: "The primary purpose of producer licensing is consumer protection — ensuring that people who sell insurance are qualified, competent, and honest. Licensing requirements (education, exams, background checks, CE) all serve the goal of protecting insurance-buying consumers."
+    explanation: "Producer licensing protects the public by establishing qualifications and regulatory accountability. Maryland no longer requires an approved prelicensing course for examination applicants as of October 1, 2024. Examination and applicable continuing-education requirements are separate matters."
   },
   {
     n: 39,
@@ -281,10 +281,10 @@ export const lifeQuestions = [
   },
   {
     n: 41,
-    q: "An individual purchased a flexible premium deferred annuity. When must interest income be reported for federal tax purposes?",
-    choices: ["A) As soon as the contract is issued", "B) After first recovering the principal invested in the contract", "C) Only when the annuitant reaches age 59½", "D) Interest income from annuities is never taxable"],
+    q: "An individual’s nonqualified deferred annuity, purchased in 2025, has a $50,000 tax basis and a $60,000 value. Before annuitization, the owner takes an ordinary $4,000 partial withdrawal. How much is generally included in gross income?",
+    choices: ["A) $0, because basis must always come out first","B) $4,000, because the withdrawal is within the contract’s $10,000 gain","C) $2,000, because half of every withdrawal is taxable","D) $60,000, because a partial withdrawal taxes the entire contract"],
     answer: "B",
-    explanation: "In a nonqualified deferred annuity, interest accumulates tax-deferred until withdrawal. When withdrawals begin, the LIFO (last-in, first-out) rule applies for nonqualified annuities — interest (earnings) comes out first and is taxable; principal (cost basis) is recovered tax-free afterward."
+    explanation: "For this nonqualified, nonperiodic withdrawal before annuitization, earnings are allocated first. Gain is $60,000 − $50,000 = $10,000, so the $4,000 withdrawal is fully taxable. Periodic annuity payments follow different recovery rules. Any additional tax depends on age and applicable exceptions."
   },
   {
     n: 42,
@@ -310,9 +310,9 @@ export const lifeQuestions = [
   {
     n: 45,
     q: "An individual life insurance policy may include coverage for all of the following EXCEPT:",
-    choices: ["A) Accidental death", "B) Disability income", "C) Workers' compensation", "D) Long-term care"],
+    choices: ["A) Accidental death","B) Disability income","C) Workers' compensation","D) Long-term care"],
     answer: "C",
-    explanation: "Workers' compensation is a statutory employer-provided benefit (not an individual life insurance policy feature). Life insurance policies can include riders for accidental death benefits, disability income (waiver of premium, disability income riders), and long-term care benefits."
+    explanation: "Workers’ compensation is separate from an individual life policy. Life policies may offer additional riders, including accidental death or disability-related benefits. A waiver of premium pays or waives policy premiums under its terms; it is not the same as a disability income payment to the insured."
   },
   {
     n: 46,
@@ -337,10 +337,10 @@ export const lifeQuestions = [
   },
   {
     n: 49,
-    q: "If a life insurance premium is not paid and the policy lapses, what must occur before the policy can be reinstated?",
-    choices: ["A) The policyowner must purchase a new policy", "B) The insurer must agree to a reduced face amount", "C) The insured must provide evidence of insurability and pay all overdue premiums with interest", "D) The beneficiary must consent to the reinstatement"],
+    q: "Under Maryland Insurance §16–210, what is generally required to reinstate a qualifying lapsed individual life policy?",
+    choices: ["A) Buying a completely new policy in every case","B) A beneficiary’s consent instead of an application","C) A written application, satisfactory evidence of insurability, and required overdue premiums and policy indebtedness with interest","D) Only an oral promise to pay future premiums"],
     answer: "C",
-    explanation: "To reinstate a lapsed life insurance policy, the policyowner generally must: (1) apply within the reinstatement period (usually 3-5 years), (2) provide satisfactory evidence of insurability, and (3) pay all past-due premiums with interest. Reinstatement restores the original policy rather than requiring a new one."
+    explanation: "Section 16–210 provides a three-year reinstatement window after the first premium in default for nonindustrial life policies, and two years for industrial life. Reinstatement has conditions, including payment or reinstatement of indebtedness. It is unavailable after cash surrender, exhaustion of surrender value by debt, or expiration of paid-up term insurance."
   },
   {
     n: 50,
@@ -351,10 +351,10 @@ export const lifeQuestions = [
   },
   {
     n: 51,
-    q: "A life insurance policy with a face amount of $100,000 has an outstanding policy loan of $20,000. If the insured dies, the beneficiary receives:",
-    choices: ["A) $100,000 with no reduction", "B) $80,000 (face amount minus outstanding loan)", "C) $120,000 (face amount plus accumulated interest)", "D) Nothing, because the loan voided the policy"],
+    q: "An in-force life policy has a $100,000 death benefit and total outstanding policy debt of $20,000, including all accrued interest. With no other adjustments, how much is payable at the insured’s death?",
+    choices: ["A) $100,000 with no reduction","B) $80,000 (face amount minus outstanding loan)","C) $120,000 (face amount plus accumulated interest)","D) Nothing, because the loan voided the policy"],
     answer: "B",
-    explanation: "Outstanding policy loans are deducted from the death benefit at the time of claim. If the insured dies with a $20,000 loan on a $100,000 policy, the beneficiary receives $80,000. The policy remains in force as long as cash value exceeds the loan balance plus interest."
+    explanation: "Subtract the total policy debt from the stated benefit: $100,000 − $20,000 = $80,000. The question includes accrued interest and assumes the policy is in force. Do not ignore interest or assume that borrowing can never cause a policy to lapse."
   },
   {
     n: 52,
@@ -380,9 +380,9 @@ export const lifeQuestions = [
   {
     n: 55,
     q: "A waiver of premium rider on a life insurance policy means that premiums are waived if the insured becomes:",
-    choices: ["A) Unemployed", "B) Totally disabled for a specified period", "C) Diagnosed with any illness", "D) Over the age of 65"],
+    choices: ["A) Unemployed","B) Totally disabled for a specified period","C) Diagnosed with any illness","D) Over the age of 65"],
     answer: "B",
-    explanation: "The waiver of premium rider in a life insurance policy waives premium payments if the insured becomes totally disabled for the required waiting period (usually 6 months). The policy remains in force without premium payments during the disability. Most riders terminate at age 60 or 65."
+    explanation: "A waiver-of-premium rider waives required premiums when the insured meets the rider’s disability definition and other conditions. Waiting periods, age limits and exclusions come from the contract; do not memorize an unsupported universal waiting period or termination age."
   },
   {
     n: 56,
@@ -422,9 +422,9 @@ export const lifeQuestions = [
   {
     n: 61,
     q: "An accelerated death benefit rider allows the policyowner to:",
-    choices: ["A) Increase the death benefit without additional premium", "B) Receive a portion of the death benefit while still living if diagnosed with a terminal illness", "C) Accelerate premium payments to pay off the policy sooner", "D) Convert the policy to an annuity at a discounted rate"],
+    choices: ["A) Increase the death benefit without additional premium","B) Receive a portion of the death benefit while still living if diagnosed with a terminal illness","C) Accelerate premium payments to pay off the policy sooner","D) Convert the policy to an annuity at a discounted rate"],
     answer: "B",
-    explanation: "The accelerated death benefit (living benefit) rider allows a terminally ill insured to receive a portion (typically 25-75%) of the death benefit before death to help pay for medical expenses or other needs. The remaining death benefit paid to beneficiaries is reduced by the amount advanced."
+    explanation: "An accelerated benefit can make part of a policy’s death benefit available before death after a qualifying trigger, such as terminal illness. It generally reduces what remains payable at death. Eligibility, limits, charges and effects on other values depend on the contract; there is no universal advance percentage."
   },
   {
     n: 62,
@@ -442,17 +442,17 @@ export const lifeQuestions = [
   },
   {
     n: 64,
-    q: "Which of the following best describes a variable life insurance policy compared to a traditional whole life policy?",
-    choices: ["A) Variable life has a guaranteed minimum death benefit equal to the original face amount", "B) Variable life has fixed premiums and a guaranteed cash value", "C) Variable life does not allow the policyowner to direct investments", "D) Variable life premiums are flexible and there is no guaranteed death benefit"],
+    q: "A variable life policy expressly guarantees a minimum death benefit if its required premiums and other guarantee conditions are met. What follows from that guarantee?",
+    choices: ["A) The stated minimum death benefit can be protected while separate-account cash values remain nonguaranteed","B) All cash values must increase each year","C) All investment losses are reimbursed to the owner","D) Required premiums may be ignored"],
     answer: "A",
-    explanation: "Variable life insurance has a guaranteed minimum death benefit (the original face amount) even if investment sub-accounts perform poorly. However, the cash value and any amount above the minimum death benefit fluctuate with investment performance. Producers selling variable life must hold a FINRA securities registration."
+    explanation: "A stated death-benefit guarantee is not a cash-value or investment-return guarantee. It depends on the contract’s conditions. This scenario does not imply that all variable life or variable universal life policies provide the same protection."
   },
   {
     n: 65,
     q: "Field underwriting usually differs from home office underwriting in that the producer:",
-    choices: ["A) Requires information on existing coverage", "B) Requires information on the applicant's health", "C) Has personal contact with the applicant", "D) Attempts to reduce moral hazard"],
+    choices: ["A) Requires information on existing coverage","B) Requires information on the applicant's health","C) Has personal contact with the applicant","D) Attempts to reduce moral hazard"],
     answer: "C",
-    explanation: "The key distinction of field underwriting is that the producer has direct personal contact with the applicant — observing their appearance, demeanor, and lifestyle firsthand. Home office underwriters review paper files without meeting the applicant. Both gather health information and try to assess risk."
+    explanation: "Field underwriting gives the producer direct contact with the applicant and a role in obtaining accurate application information. The insurer’s underwriting process evaluates the required evidence and decides whether and on what terms to issue coverage. Do not assume every home-office review uses only paper or that every producer meets applicants in person."
   },
   {
     n: 66,
@@ -470,10 +470,10 @@ export const lifeQuestions = [
   },
   {
     n: 68,
-    q: "A student employed part-time has gross income of $1,500 for the year. What is the maximum deductible IRA contribution the student may make for the year?",
-    choices: ["A) $0", "B) $1,500", "C) $3,000", "D) $7,000"],
+    q: "For tax year 2025, a single 20-year-old student has $1,500 of taxable wages, no other compensation and no other IRA contributions. What is the maximum regular contribution to a traditional IRA?",
+    choices: ["A) $0, because students cannot contribute","B) $1,500","C) $7,000, regardless of compensation","D) $8,000, because all students receive a catch-up contribution"],
     answer: "B",
-    explanation: "IRA contributions are limited to the lesser of the annual IRA limit (currently up to $7,000) or 100% of earned income. Since the student earned only $1,500, the maximum IRA contribution is $1,500 — the full amount of their earned income."
+    explanation: "For these facts, the compensation limit controls: the regular contribution cannot exceed $1,500. This asks contribution eligibility, not deductibility; a deduction has separate rules. The tax year and age are stated so annual limits and catch-up rules are not left ambiguous."
   },
   {
     n: 69,
@@ -498,17 +498,17 @@ export const lifeQuestions = [
   },
   {
     n: 72,
-    q: "A policy that combines term insurance protection with a flexible-premium investment account is known as:",
-    choices: ["A) Whole life insurance", "B) Universal life insurance", "C) Variable life insurance", "D) Endowment insurance"],
+    q: "Which policy generally separates mortality charges, expenses and interest crediting in a cash-value account and permits flexible premiums within its terms?",
+    choices: ["A) Whole life insurance","B) Universal life insurance","C) Variable life insurance","D) Endowment insurance"],
     answer: "B",
-    explanation: "Universal life (UL) insurance separates the death benefit (pure term protection) from the savings element (cash value account) with flexible premiums. The policyowner can adjust premiums and death benefits within limits. Variable life has a separate account invested in securities."
+    explanation: "Traditional universal life identifies insurance costs and cash-value crediting separately and permits flexible premiums within contractual limits. Sufficient funding is still needed to cover charges unless a valid guarantee applies. Its interest-crediting account should not be confused with a variable policy’s separate-account investments."
   },
   {
     n: 73,
-    q: "The incontestability clause in a life insurance policy prevents the insurer from contesting the validity of the policy after it has been in force for:",
-    choices: ["A) 6 months", "B) 1 year", "C) 2 years", "D) 5 years"],
+    q: "Under Maryland Insurance §16–203, the standard individual life incontestability period runs for how long while the insured is alive?",
+    choices: ["A) 6 months","B) 1 year","C) 2 years","D) 5 years"],
     answer: "C",
-    explanation: "After 2 years (the standard incontestability period), the insurer cannot void the policy based on misrepresentations in the application, except for fraud in cases where some states allow longer periods. This clause protects policyowners from having claims denied years after issue for application errors."
+    explanation: "The provision generally becomes effective after the policy has been in force during the insured’s lifetime for two years after issue, except for nonpayment. Disability and additional accidental-death provisions are treated separately. Incontestability concerns policy validity; it does not erase valid coverage exclusions or restrictions."
   },
   {
     n: 74,
@@ -520,16 +520,16 @@ export const lifeQuestions = [
   {
     n: 75,
     q: "The extended term nonforfeiture option uses the policy's cash value to:",
-    choices: ["A) Purchase a reduced amount of paid-up whole life insurance", "B) Purchase term insurance for the original face amount for as long as the cash value allows", "C) Pay the overdue premium and maintain the original policy", "D) Convert the policy to an annuity contract"],
+    choices: ["A) Purchase a reduced amount of paid-up whole life insurance","B) Purchase term insurance for the original face amount for as long as the cash value allows","C) Pay the overdue premium and maintain the original policy","D) Convert the policy to an annuity contract"],
     answer: "B",
-    explanation: "Extended term insurance uses the policy's cash value as a single premium to purchase term insurance equal to the original face amount for as long as the cash value can fund. It is typically the automatic (default) nonforfeiture option if the policyowner does not elect another option. Reduced paid-up provides a smaller face amount for life; extended term provides the full face amount for a limited time."
+    explanation: "Extended term uses available nonforfeiture value to continue term protection for a limited period, generally at the original face amount subject to policy adjustments such as debt. Reduced paid-up insurance instead provides a smaller permanent benefit. Do not assume extended term is every policy’s automatic default."
   },
   {
     n: 76,
     q: "In a Modified Endowment Contract (MEC), withdrawals are taxed on a:",
-    choices: ["A) First-in, first-out basis", "B) Last-in, first-out basis", "C) Pro-rata basis", "D) Cost basis only"],
+    choices: ["A) First-in, first-out basis","B) Last-in, first-out basis","C) Pro-rata basis","D) Cost basis only"],
     answer: "B",
-    explanation: "MECs are taxed under LIFO (last-in, first-out) rules — earnings (interest/gains) are considered to come out first and are taxable as ordinary income. Additionally, withdrawals before age 59½ are subject to a 10% penalty. This contrasts with regular life insurance cash value, which uses FIFO treatment for withdrawals."
+    explanation: "MEC distributions generally allocate taxable earnings before basis. Loans can also receive distribution treatment. Before age 59½, a 10% additional tax generally applies to the taxable portion unless an exception applies. Do not apply it automatically to the entire withdrawal or import every IRA exception into MEC rules."
   },
   {
     n: 77,
@@ -554,10 +554,10 @@ export const lifeQuestions = [
   },
   {
     n: 80,
-    q: "Under a life insurance policy, the grace period typically allows the policyowner how many days to pay an overdue premium before the policy lapses?",
-    choices: ["A) 10 days", "B) 31 days", "C) 60 days", "D) 90 days"],
+    q: "For a nonindustrial individual life policy subject to Maryland Insurance §16–202, what is the statutory grace-period rule for a premium after the first?",
+    choices: ["A) Seven days in every case","B) Thirty days, or the insurer’s option of one month that is not shorter than thirty days","C) Exactly thirty-one days in every case","D) No grace period is required"],
     answer: "B",
-    explanation: "Life insurance policies are required by law to provide a grace period of at least 31 days (one month) after a premium due date during which coverage continues and the overdue premium may be paid without penalty. If the insured dies during the grace period, the unpaid premium is deducted from the death benefit."
+    explanation: "Maryland’s rule is 30 days, or an insurer-selected month of at least 30 days. Coverage continues during that time; a due or overdue premium may be deducted from proceeds. The statute separately allows four weeks for industrial policies with premiums due more often than monthly."
   },
   {
     n: 81,
@@ -583,16 +583,16 @@ export const lifeQuestions = [
   {
     n: 84,
     q: "Which provision in a life insurance policy gives the policyowner a specified period of time to review the policy after delivery and return it for a full refund?",
-    choices: ["A) Grace period", "B) Free look period", "C) Reinstatement period", "D) Suicide clause period"],
+    choices: ["A) Grace period","B) Free look period","C) Reinstatement period","D) Suicide clause period"],
     answer: "B",
-    explanation: "The free look period (typically 10 days for most life policies, longer for some products) allows the policyowner to review the delivered policy and return it for a complete premium refund if not satisfied — no questions asked. This protects buyers from high-pressure sales."
+    explanation: "A free-look provision gives the owner a stated opportunity after delivery to examine and return the policy for the applicable refund. The required period depends on the product and transaction, including replacement rules. This vocabulary question does not establish a universal Maryland ten-day period."
   },
   {
     n: 85,
     q: "A second-to-die (survivorship) life insurance policy pays the death benefit:",
-    choices: ["A) Upon the death of the first insured", "B) Upon the death of the second (last surviving) insured", "C) In equal installments to each insured upon their deaths", "D) Only if both insureds die simultaneously"],
+    choices: ["A) Upon the death of the first insured","B) Upon the death of the second (last surviving) insured","C) In equal installments to each insured upon their deaths","D) Only if both insureds die simultaneously"],
     answer: "B",
-    explanation: "Survivorship (second-to-die) life insurance covers two people and pays the death benefit only upon the death of the last surviving insured. It is commonly used in estate planning to provide funds for estate taxes, which become due after the surviving spouse dies."
+    explanation: "A survivorship policy pays after the last of the covered insureds dies, subject to its terms. Estate liquidity is one possible use. The policy’s payment trigger is distinct from whether a particular estate owes tax."
   },
   {
     n: 86,
@@ -603,10 +603,10 @@ export const lifeQuestions = [
   },
   {
     n: 87,
-    q: "The 'suicide clause' in a life insurance policy typically limits the insurer's liability if the insured commits suicide within:",
-    choices: ["A) 6 months of policy issue", "B) 1 to 2 years of policy issue", "C) 5 years of policy issue", "D) The insured's lifetime"],
+    q: "Why should a Maryland producer check prior coverage when explaining a suicide exclusion on a newly issued individual life policy?",
+    choices: ["A) Every new issue automatically creates a five-year exclusion","B) Maryland §16–215(e) can connect the start of the exclusion to prior coverage, with specified exceptions","C) Suicide exclusions are prohibited in every individual policy","D) An existing policy makes all future claims automatically payable"],
     answer: "B",
-    explanation: "The suicide exclusion clause typically provides that if the insured commits suicide within the first 1-2 years (most commonly 2 years) of the policy, the insurer's liability is limited to returning the premiums paid rather than paying the full death benefit. After this period, suicide is covered."
+    explanation: "Section 16–215(e) addresses earlier coverage, termination timing and increased death benefits. It is unsafe to say every newly issued policy automatically restarts a two-year period. Apply the statute and policy to the facts of the transaction."
   },
   {
     n: 88,

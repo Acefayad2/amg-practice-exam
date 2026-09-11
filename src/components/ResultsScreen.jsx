@@ -1,8 +1,6 @@
 import { useState } from 'react'
 
 const BLUE = '#1F4E79'
-const PASS_SCORE = 63
-const TOTAL = 90
 
 const TOPIC_MAP = {
   // Health exam topics
@@ -26,6 +24,9 @@ function classifyTopic(questionText) {
 }
 
 export default function ResultsScreen({ exam, results, onRetry, onHome }) {
+  const TOTAL = exam.questions.length
+  const targetRate = exam.practiceOnly ? 0.85 : 0.7
+  const PASS_SCORE = Math.ceil(TOTAL * targetRate)
   const [activeTab, setActiveTab] = useState('summary') // 'summary' | 'review'
   const [filter, setFilter] = useState('wrong') // 'all' | 'wrong' | 'correct'
 
@@ -34,19 +35,19 @@ export default function ResultsScreen({ exam, results, onRetry, onHome }) {
   const wrong = items.filter(r => !r.correct && !r.skipped).length
   const skipped = items.filter(r => r.skipped).length
   const answered = items.filter(r => !r.skipped).length
-  const pct = Math.round((correct / TOTAL) * 100)
+  const pct = exam.practiceOnly ? Math.round((correct / TOTAL) * 1000) / 10 : Math.round((correct / TOTAL) * 100)
   const passed = correct >= PASS_SCORE
 
   // Topic analysis
   const topicStats = {}
   items.forEach(r => {
-    const topic = classifyTopic(r.question.q)
+    const topic = exam.practiceOnly ? r.question.topic : classifyTopic(r.question.q)
     if (!topicStats[topic]) topicStats[topic] = { correct: 0, total: 0 }
     topicStats[topic].total++
     if (r.correct) topicStats[topic].correct++
   })
   const weakTopics = Object.entries(topicStats)
-    .filter(([, s]) => s.total > 0 && s.correct / s.total < 0.7)
+    .filter(([, s]) => s.total > 0 && s.correct / s.total < targetRate)
     .sort((a, b) => (a[1].correct / a[1].total) - (b[1].correct / b[1].total))
 
   const filteredItems = items.filter(r => {
@@ -111,10 +112,10 @@ export default function ResultsScreen({ exam, results, onRetry, onHome }) {
               color: passed ? '#2e7d32' : '#c62828',
               borderRadius: 20, padding: '6px 16px', fontWeight: 700, fontSize: 15,
             }}>
-              {passed ? '✓ PASSED' : '✗ FAILED'} — {correct}/{TOTAL} correct
+              {exam.practiceOnly ? (passed ? 'Practice target met' : 'Keep practicing') : (passed ? '✓ PASSED' : '✗ FAILED')} — {correct}/{TOTAL} correct
             </div>
             <div style={{ marginTop: 10, color: '#718096', fontSize: 14 }}>
-              Passing score: 63/90 (70%)
+              {exam.practiceOnly ? 'AMG drill target: 85%. This is not an official passing score or a readiness prediction.' : 'Passing score: 63/90 (70%)'}
             </div>
           </div>
 
@@ -157,7 +158,7 @@ export default function ResultsScreen({ exam, results, onRetry, onHome }) {
             {weakTopics.length > 0 && (
               <div style={{ background: '#fff', borderRadius: 14, padding: '24px 28px', boxShadow: '0 2px 12px rgba(0,0,0,0.06)' }}>
                 <h3 style={{ color: '#c62828', fontWeight: 800, fontSize: 17, marginBottom: 16 }}>
-                  ⚠️ Areas to Focus On (Below 70%)
+                  Areas to review (below {targetRate * 100}%)
                 </h3>
                 <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
                   {weakTopics.map(([topic, stats]) => {
@@ -189,7 +190,7 @@ export default function ResultsScreen({ exam, results, onRetry, onHome }) {
                   .sort((a, b) => b[1].total - a[1].total)
                   .map(([topic, stats]) => {
                     const topicPct = Math.round((stats.correct / stats.total) * 100)
-                    const color = topicPct >= 70 ? '#2e7d32' : topicPct >= 50 ? '#E65100' : '#c62828'
+                    const color = stats.correct / stats.total >= targetRate ? '#2e7d32' : topicPct >= 50 ? '#E65100' : '#c62828'
                     return (
                       <div key={topic}>
                         <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: 4 }}>
@@ -208,7 +209,14 @@ export default function ResultsScreen({ exam, results, onRetry, onHome }) {
             </div>
 
             {/* Score needed */}
-            {!passed && (
+            {exam.practiceOnly && (
+              <div style={{ background: '#EBF3FB', borderRadius: 12, padding: '20px 24px', lineHeight: 1.6 }}>
+                <h4 style={{ color: BLUE, marginBottom: 8 }}>Your next study step</h4>
+                <p>Review missed and unanswered concepts, then try new scenarios. Repeating this fixed drill can improve memory without proving mastery. It does not cover every exam topic.</p>
+                <p><a href="/course/coverage/">See the Maryland Life coverage plan and remaining gaps →</a></p>
+              </div>
+            )}
+            {!exam.practiceOnly && !passed && (
               <div style={{ background: '#EBF3FB', border: `2px solid ${BLUE}`, borderRadius: 14, padding: '20px 24px' }}>
                 <h4 style={{ color: BLUE, fontWeight: 700, marginBottom: 8 }}>What You Need to Pass</h4>
                 <p style={{ color: '#2d3748', fontSize: 14, lineHeight: 1.6 }}>
@@ -218,7 +226,7 @@ export default function ResultsScreen({ exam, results, onRetry, onHome }) {
               </div>
             )}
 
-            {passed && (
+            {!exam.practiceOnly && passed && (
               <div style={{ background: '#E8F5E9', border: '2px solid #2e7d32', borderRadius: 14, padding: '20px 24px' }}>
                 <h4 style={{ color: '#2e7d32', fontWeight: 700, marginBottom: 8 }}>🎉 Congratulations!</h4>
                 <p style={{ color: '#2d3748', fontSize: 14, lineHeight: 1.6 }}>

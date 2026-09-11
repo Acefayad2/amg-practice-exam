@@ -1,28 +1,20 @@
-# Life Insurance Exam Lab — production progress
+# AMG Maryland Life — development status
 
-The user authorized using the available Higgsfield credit balance for high-quality production on September 10, 2026. Working scope: Maryland life-only, inferred from the source repository. The earlier budget gate in the planning brief is resolved.
+Updated September 12, 2026. Life only; release one part at a time for user/coordinator review. User has authorized GitHub and Netlify development releases.
 
-## Current production
+## Available for review
 
-Lesson 06, **A deadline or a lifetime? — Term versus whole life**, is the first lesson produced. Its position remains 06 in the planned 32-lesson curriculum; lessons 01–05 are not yet recorded.
+- Part 1: risk, exposure, peril, hazard and loss; a 15-second client scene and eight interactive questions.
+- Part 2: pooling, large numbers, expected claims and adverse selection; a 15-second scene, AMG textmark, contextual titles, captions, interactive example and eight questions. The ending uses a reaction cutaway to eliminate visible mouth/speech mismatch without regenerating footage.
+- Earlier Lesson 06: term/whole-life prototype in the old video-question format. Retained for comparison.
+- Full curriculum audit: 48 outline subsections, 307 teaching groups, 27 revised bank items, 11 held items, and a 79-question life practice drill. Coordinator brief and downloadable checklists are on the course review page.
 
-- Six original Seedance 2.5 scenes generated successfully.
-- Each scene: 15 seconds, native 1920×1080 video with audio.
-- Two realistic fictional client conversations and four three-dimensional explainer scenes.
-- Generation spend: 810 credits. Last checked remaining balance: 30.2 credits.
-- Finished edit target: 162 seconds, including opening title, teaching labels, three practice questions with answer explanations, and a next-lesson card.
-- Final assembly produced a 162-second 1080p lesson with normalized audio. A garbled word in scene 03 was removed; the corrected sentence is “Required premiums and conditions still matter.” Video, review sheet and production archive uploads are confirmed. The complete file decodes without errors. The full course is not complete.
+## Next review unit
 
-## Next production sequence
+Part 3 is proposed as risk-handling methods, insurable-risk features and reinsurance. Foundation bridge and an early Maryland licensing/conduct block follow. See [COORDINATOR-REVIEW.md](COORDINATOR-REVIEW.md) for the revised production and assessment sequence. The original 32 lesson slots are planning references and will be split where needed.
 
-1. First lesson delivered: video, source package, captions and a local interactive course-player page.
-2. Term variations: level, decreasing, renewable and convertible term, with clearly distinguished benefit and premium timelines.
-3. Owner, insured and beneficiary: three roles mapped through a realistic family scenario.
-4. Maryland sales conduct: contrasting producer conversations, with each rule verified against current Maryland law before recording.
-5. Continue the remaining curriculum and question-bank corrections.
+## Remaining work
 
-Future lessons should use a selected consistent narrator voice. Native speech was generated inside the initial scenes; the four explainer clips may have some voice variation. To improve course-wide voice consistency, select a Higgsfield narration voice once and use it for subsequent separately recorded narration. Preserve original generated clips for future voice and pacing edits.
+Most dedicated instruction, source validation of remaining bank details, held-item replacements, legacy Word study-guide review, independent timed forms, delayed review, outcome measurement and coordinator approvals remain unfinished. No passing guarantee or validated pass rate exists.
 
-## What is not yet complete
-
-The other 31 planned lessons, full source-bank audit, full exam-outline coverage verification, independent mock exams, a deployed course player, and company-specific branding are not yet completed. No GitHub source or live company website has been modified.
+No video-generation credits were used for the audit. Credit figures in the original production brief describe the earlier prototype run and are not current balances.

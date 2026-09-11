@@ -1,0 +1,3907 @@
+{
+  "version": 1,
+  "checked": "2026-09-12",
+  "exam": {
+    "code": "2027",
+    "series": "20-27",
+    "scored": 80,
+    "unscored": 10,
+    "minutes": 105
+  },
+  "summary": {
+    "subsections": 48,
+    "topicGroups": 307,
+    "approvedSubsections": 0,
+    "originalBank": 90,
+    "revised": 27,
+    "held": 11,
+    "active": 79,
+    "emptyBankSubsections": 12
+  },
+  "sections": [
+    {
+      "id": "1",
+      "title": "Maryland regulation",
+      "items": 24,
+      "share": 30,
+      "bankQuestions": 20,
+      "activeQuestions": 15
+    },
+    {
+      "id": "2",
+      "title": "General insurance",
+      "items": 8,
+      "share": 10,
+      "bankQuestions": 4,
+      "activeQuestions": 3
+    },
+    {
+      "id": "3",
+      "title": "Life foundations",
+      "items": 14,
+      "share": 17.5,
+      "bankQuestions": 12,
+      "activeQuestions": 9
+    },
+    {
+      "id": "4",
+      "title": "Policy types",
+      "items": 8,
+      "share": 10,
+      "bankQuestions": 14,
+      "activeQuestions": 14
+    },
+    {
+      "id": "5",
+      "title": "Provisions, options and riders",
+      "items": 11,
+      "share": 13.75,
+      "bankQuestions": 23,
+      "activeQuestions": 23
+    },
+    {
+      "id": "6",
+      "title": "Annuities",
+      "items": 7,
+      "share": 8.75,
+      "bankQuestions": 6,
+      "activeQuestions": 6
+    },
+    {
+      "id": "7",
+      "title": "Federal taxation",
+      "items": 6,
+      "share": 7.5,
+      "bankQuestions": 7,
+      "activeQuestions": 7
+    },
+    {
+      "id": "8",
+      "title": "Qualified plans",
+      "items": 2,
+      "share": 2.5,
+      "bankQuestions": 2,
+      "activeQuestions": 2
+    }
+  ],
+  "rows": [
+    {
+      "id": "1.1",
+      "title": "Obtain and maintain the right authority",
+      "pages": [
+        1
+      ],
+      "lesson": "24–26; split licensing, appointments and discipline",
+      "topics": [
+        {
+          "id": "1.1.01",
+          "title": "Why licensing exists; definitions",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.1.02",
+          "title": "Initial eligibility, examination, application and fee",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.1.03",
+          "title": "Producer, adviser, nonresident and business-entity licenses",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.1.04",
+          "title": "Viatical licensing; exceptions and temporary authority",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.1.05",
+          "title": "License duration, termination, renewal and CE",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.1.06",
+          "title": "Address/name changes and assumed names",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.1.07",
+          "title": "Criminal and other-jurisdiction reporting",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.1.08",
+          "title": "Producer contract versus appointment; individual versus agency appointment",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.1.09",
+          "title": "Solicitation before appointment and appointment after licensing",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.1.10",
+          "title": "Appointment notice, cessation, termination and lack of active appointments",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.1.11",
+          "title": "Probation, suspension, revocation, denial and nonrenewal",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.1.12",
+          "title": "Cease-and-desist orders, penalties and hearing rights",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.1.13",
+          "title": "Insurance fraud",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "A new recruit changes address, receives an appointment and later faces an administrative action. Sort the separate duties and deadlines.",
+      "assessment": "Identify authority and required next action; use current Maryland deadlines, including criminal prosecution reporting rather than only conviction.",
+      "section": "1",
+      "questionIds": [
+        11,
+        21,
+        31,
+        38
+      ],
+      "activeQuestionIds": [
+        11,
+        21,
+        31,
+        38
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=1"
+    },
+    {
+      "id": "1.2",
+      "title": "Regulate insurers and producer conduct",
+      "pages": [
+        1,
+        2
+      ],
+      "lesson": "26–28, 30–31; separate sales, money and oversight",
+      "topics": [
+        {
+          "id": "1.2.01",
+          "title": "MIA powers and duties",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.2.02",
+          "title": "Insurer authorization, forms and claims oversight",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.2.03",
+          "title": "Acting for an unauthorized insurer",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.2.04",
+          "title": "Records and permitted work by unlicensed people",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.2.05",
+          "title": "Commissions, sharing, fees and compensation exceptions",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.2.06",
+          "title": "Fiduciary duties, commingling and trust accounts",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.2.07",
+          "title": "Advertising and misleading policy descriptions",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.2.08",
+          "title": "False advertising, defamation and false financial statements",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.2.09",
+          "title": "Boycott, coercion and intimidation",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.2.10",
+          "title": "Inducements, rebating and unfair discrimination",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.2.11",
+          "title": "Blank forms, twisting and referrals",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.2.12",
+          "title": "Information and privacy protection",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Compare an honest policy comparison, an unlawful inducement and misuse of a premium check.",
+      "assessment": "Name the conduct from facts and select the lawful correction; check statutory exceptions instead of teaching blanket bans.",
+      "section": "1",
+      "questionIds": [
+        5,
+        10,
+        12,
+        15,
+        16,
+        44,
+        58,
+        59,
+        63,
+        67,
+        90
+      ],
+      "activeQuestionIds": [
+        10,
+        15,
+        16,
+        44,
+        58,
+        63,
+        90
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=1"
+    },
+    {
+      "id": "1.3",
+      "title": "Apply Maryland life transaction rules",
+      "pages": [
+        2
+      ],
+      "lesson": "10, 29–30",
+      "topics": [
+        {
+          "id": "1.3.01",
+          "title": "Replacement definitions, duties and notices",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.3.02",
+          "title": "Group eligibility and dependent coverage",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.3.03",
+          "title": "Required group provisions and conversion",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.3.04",
+          "title": "Assignment of group proceeds",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "1.3.05",
+          "title": "Guaranty corporation purpose, eligibility, limits and advertising restrictions",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "An employee leaves work while another client replaces an old policy. Use separate checklists for each transaction.",
+      "assessment": "Distinguish conversion from replacement; apply actual state provisions and identify what guaranty protection does not promise.",
+      "section": "1",
+      "questionIds": [
+        9,
+        13,
+        56,
+        81,
+        86
+      ],
+      "activeQuestionIds": [
+        13,
+        56,
+        81,
+        86
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=2"
+    },
+    {
+      "id": "2.1",
+      "title": "Explain how insurance handles uncertainty",
+      "pages": [
+        2,
+        3
+      ],
+      "lesson": "01–02 plus next Part 3: risk handling and insurability",
+      "topics": [
+        {
+          "id": "2.1.01",
+          "title": "Risk",
+          "approval": "Pending",
+          "status": "draft teaching"
+        },
+        {
+          "id": "2.1.02",
+          "title": "Exposure",
+          "approval": "Pending",
+          "status": "draft teaching"
+        },
+        {
+          "id": "2.1.03",
+          "title": "Hazard",
+          "approval": "Pending",
+          "status": "draft teaching"
+        },
+        {
+          "id": "2.1.04",
+          "title": "Peril",
+          "approval": "Pending",
+          "status": "draft teaching"
+        },
+        {
+          "id": "2.1.05",
+          "title": "Loss",
+          "approval": "Pending",
+          "status": "draft teaching"
+        },
+        {
+          "id": "2.1.06",
+          "title": "Avoidance",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.1.07",
+          "title": "Retention",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.1.08",
+          "title": "Sharing",
+          "approval": "Pending",
+          "status": "draft teaching"
+        },
+        {
+          "id": "2.1.09",
+          "title": "Reduction",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.1.10",
+          "title": "Transfer",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.1.11",
+          "title": "Insurable-risk characteristics",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.1.12",
+          "title": "Adverse selection",
+          "approval": "Pending",
+          "status": "draft teaching"
+        },
+        {
+          "id": "2.1.13",
+          "title": "Law of large numbers",
+          "approval": "Pending",
+          "status": "draft teaching"
+        },
+        {
+          "id": "2.1.14",
+          "title": "Reinsurance",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Daniel compares avoiding a hazard, retaining a cost and transferring financial risk; show the insurer separately transferring risk to another insurer.",
+      "assessment": "Classify changed scenarios; explain why pooling cannot predict an individual claim. Add missing risk-handling and reinsurance questions.",
+      "section": "2",
+      "questionIds": [],
+      "activeQuestionIds": [],
+      "evidence": {
+        "status": "partial",
+        "text": "Parts 1–2 explain five risk terms, hazards, pooling, large numbers and adverse selection; 16 formative questions. Risk-handling methods, insurability and reinsurance are incomplete.",
+        "links": [
+          [
+            "Part 1",
+            "/course/lesson-01/"
+          ],
+          [
+            "Part 2",
+            "/course/lesson-02/"
+          ]
+        ]
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=2"
+    },
+    {
+      "id": "2.2",
+      "title": "Identify the insurer and distribution model",
+      "pages": [
+        3
+      ],
+      "lesson": "02 supplement; separate from the existing pooling video",
+      "topics": [
+        {
+          "id": "2.2.01",
+          "title": "Stock and mutual-assessment organizations",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.2.02",
+          "title": "Fraternal societies",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.2.03",
+          "title": "Private and governmental insurers and plans",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.2.04",
+          "title": "Admitted and nonadmitted status",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.2.05",
+          "title": "Purchasing groups",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.2.06",
+          "title": "Domestic, foreign and alien domicile",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.2.07",
+          "title": "Financial ratings and operating results",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.2.08",
+          "title": "Distribution systems",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.2.09",
+          "title": "Guaranty corporation relationship",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "One insurer is formed in another state and licensed in Maryland. Separate domicile, authorization and ownership.",
+      "assessment": "Classify the same insurer on each dimension; avoid treating a financial rating as a guarantee.",
+      "section": "2",
+      "questionIds": [],
+      "activeQuestionIds": [],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=3"
+    },
+    {
+      "id": "2.3",
+      "title": "Recognize agency relationships",
+      "pages": [
+        3
+      ],
+      "lesson": "03A: agency",
+      "topics": [
+        {
+          "id": "2.3.01",
+          "title": "Captive and independent producers",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.3.02",
+          "title": "Insurer as principal and producer as agent",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.3.03",
+          "title": "Express authority",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.3.04",
+          "title": "Implied authority",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.3.05",
+          "title": "Apparent authority",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.3.06",
+          "title": "Duties to applicants and insureds",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "A producer makes a promise beyond written authority; determine who created the appearance of authority.",
+      "assessment": "Choose the authority type and proper producer action from plausible alternatives.",
+      "section": "2",
+      "questionIds": [
+        36
+      ],
+      "activeQuestionIds": [
+        36
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=3"
+    },
+    {
+      "id": "2.4",
+      "title": "Read an insurance contract correctly",
+      "pages": [
+        3
+      ],
+      "lesson": "03B–C: contracts and interpretation",
+      "topics": [
+        {
+          "id": "2.4.01",
+          "title": "Offer and acceptance",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.4.02",
+          "title": "Consideration",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.4.03",
+          "title": "Capacity and lawful purpose",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.4.04",
+          "title": "Adhesion",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.4.05",
+          "title": "Aleatory exchange",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.4.06",
+          "title": "Personal-contract concept and life-policy assignability",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.4.07",
+          "title": "Unilateral and conditional promises",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.4.08",
+          "title": "Ambiguity and reasonable expectations",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.4.09",
+          "title": "Indemnity compared with a stated life benefit",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.4.10",
+          "title": "Utmost good faith",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.4.11",
+          "title": "Representations and misrepresentations",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.4.12",
+          "title": "Warranties",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.4.13",
+          "title": "Concealment and fraud",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.4.14",
+          "title": "Waiver and estoppel",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Trace application, premium and insurer acceptance, then contrast an ambiguous clause with a clear exclusion.",
+      "assessment": "Identify the contract element or doctrine; avoid promising that expectations override every clear exclusion.",
+      "section": "2",
+      "questionIds": [
+        40,
+        54
+      ],
+      "activeQuestionIds": [
+        40
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=3"
+    },
+    {
+      "id": "2.5",
+      "title": "Recognize federal oversight",
+      "pages": [
+        3,
+        4
+      ],
+      "lesson": "31A: federal requirements",
+      "topics": [
+        {
+          "id": "2.5.01",
+          "title": "Consumer reports and FCRA rights",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.5.02",
+          "title": "Federal insurance fraud and false statements",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.5.03",
+          "title": "Securities oversight of variable products",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "An application requires an investigative report and the product has investment subaccounts.",
+      "assessment": "Match the correct disclosure and regulator; distinguish insurance licensing from securities registration.",
+      "section": "2",
+      "questionIds": [
+        62
+      ],
+      "activeQuestionIds": [
+        62
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=3"
+    },
+    {
+      "id": "2.6",
+      "title": "Distinguish industry organizations",
+      "pages": [
+        4
+      ],
+      "lesson": "31B: who makes, coordinates or administers rules",
+      "topics": [
+        {
+          "id": "2.6.01",
+          "title": "NAIC role",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.6.02",
+          "title": "Interstate insurance product compact and IIPRC role",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.6.03",
+          "title": "NCOIL role",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "2.6.04",
+          "title": "Industry and producer associations",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Route a consumer complaint, model-law question and compact product filing to different organizations.",
+      "assessment": "Separate state enforcement, model standards, compact review and professional associations.",
+      "section": "2",
+      "questionIds": [],
+      "activeQuestionIds": [],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=4"
+    },
+    {
+      "id": "3.1",
+      "title": "Establish insurable interest",
+      "pages": [
+        4
+      ],
+      "lesson": "05A",
+      "topics": [
+        {
+          "id": "3.1.01",
+          "title": "Family and economic interest",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.1.02",
+          "title": "Time the contract is made",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.1.03",
+          "title": "Own-life purchases versus insurance on another",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Compare a spouse, a creditor with economic exposure and an unrelated stranger seeking a death payout.",
+      "assessment": "Select the legally relevant interest and timing, using §12–201.",
+      "section": "3",
+      "questionIds": [
+        17,
+        35
+      ],
+      "activeQuestionIds": [
+        17,
+        35
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=4"
+    },
+    {
+      "id": "3.2",
+      "title": "Connect protection to personal needs",
+      "pages": [
+        4
+      ],
+      "lesson": "05B",
+      "topics": [
+        {
+          "id": "3.2.01",
+          "title": "Survivor support",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.2.02",
+          "title": "Estate planning",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.2.03",
+          "title": "Cash accumulation",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.2.04",
+          "title": "Liquidity",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.2.05",
+          "title": "Estate conservation",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.2.06",
+          "title": "Personal mortgage debt protection",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "A family needs immediate cash after a death and income through a child’s schooling.",
+      "assessment": "Identify the purpose without implying every household needs the same product.",
+      "section": "3",
+      "questionIds": [],
+      "activeQuestionIds": [],
+      "evidence": {
+        "status": "intro",
+        "text": "Part 1 introduces family income exposure. No complete needs lesson or dedicated needs assessment yet.",
+        "links": [
+          [
+            "Part 1",
+            "/course/lesson-01/"
+          ]
+        ]
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=4"
+    },
+    {
+      "id": "3.3",
+      "title": "Explain life and viatical settlements",
+      "pages": [
+        4
+      ],
+      "lesson": "18B; dedicated settlement lesson",
+      "topics": [
+        {
+          "id": "3.3.01",
+          "title": "Purpose and transaction structure",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.3.02",
+          "title": "Broker authority and licensing",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.3.03",
+          "title": "Consumer disclosures",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.3.04",
+          "title": "General transaction rules",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.3.05",
+          "title": "Settlement fraud",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.3.06",
+          "title": "Chronic illness and terminal illness definitions",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.3.07",
+          "title": "Fraudulent settlement acts",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.3.08",
+          "title": "Broker, provider, purchaser and viator roles",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "An owner considers selling a policy to a third party; distinguish the people and the effects on beneficiaries.",
+      "assessment": "Compare a settlement with surrender and accelerated benefits; verify Maryland definitions and consumer rights.",
+      "section": "3",
+      "questionIds": [],
+      "activeQuestionIds": [],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=4"
+    },
+    {
+      "id": "3.4",
+      "title": "Estimate protection needs",
+      "pages": [
+        4
+      ],
+      "lesson": "05C",
+      "topics": [
+        {
+          "id": "3.4.01",
+          "title": "Human-life-value method",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.4.02",
+          "title": "Needs-based method",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.4.03",
+          "title": "Fact gathering",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.4.04",
+          "title": "Lump-sum obligations",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.4.05",
+          "title": "Income replacement",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.4.06",
+          "title": "Social Security survivor benefits",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Use fictional income, debts, resources and time horizons in a worksheet with explicit assumptions.",
+      "assessment": "Calculate a stated need and identify missing facts; do not promise Social Security eligibility or benefit amounts.",
+      "section": "3",
+      "questionIds": [],
+      "activeQuestionIds": [],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=4"
+    },
+    {
+      "id": "3.5",
+      "title": "Match business protection to the loss",
+      "pages": [
+        4
+      ],
+      "lesson": "18A",
+      "topics": [
+        {
+          "id": "3.5.01",
+          "title": "Buy-sell funding",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.5.02",
+          "title": "Key-person protection",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.5.03",
+          "title": "Executive bonus arrangements",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "A business loses an owner versus an essential employee; follow ownership and benefit flows.",
+      "assessment": "Choose the arrangement, policyowner and beneficiary appropriate to the stated objective.",
+      "section": "3",
+      "questionIds": [
+        74,
+        78
+      ],
+      "activeQuestionIds": [
+        74,
+        78
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=4"
+    },
+    {
+      "id": "3.6",
+      "title": "Classify coverage before comparing products",
+      "pages": [
+        4
+      ],
+      "lesson": "06, 08, 10, 16 and a government-plan supplement",
+      "topics": [
+        {
+          "id": "3.6.01",
+          "title": "Individual versus group",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.6.02",
+          "title": "Ordinary life",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.6.03",
+          "title": "Permanent versus temporary protection",
+          "approval": "Pending",
+          "status": "draft teaching"
+        },
+        {
+          "id": "3.6.04",
+          "title": "Participating versus nonparticipating",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.6.05",
+          "title": "Fixed versus variable life and annuity designs",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.6.06",
+          "title": "Variable products and FINRA",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.6.07",
+          "title": "U.S. government life programs",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Classify a policy on several independent dimensions rather than treating each label as a competing product.",
+      "assessment": "Identify which guarantees, participation features and regulatory requirements belong to the stated design.",
+      "section": "3",
+      "questionIds": [],
+      "activeQuestionIds": [],
+      "evidence": {
+        "status": "partial",
+        "text": "The earlier term/whole-life prototype addresses the temporary/permanent distinction only.",
+        "links": [
+          [
+            "Prototype",
+            "/course/term-whole-life.html"
+          ]
+        ]
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=4"
+    },
+    {
+      "id": "3.7",
+      "title": "Explain premium construction",
+      "pages": [
+        4,
+        5
+      ],
+      "lesson": "11 supplement: pricing",
+      "topics": [
+        {
+          "id": "3.7.01",
+          "title": "Mortality assumption",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.7.02",
+          "title": "Interest assumption",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.7.03",
+          "title": "Expenses",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.7.04",
+          "title": "Net single premium",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.7.05",
+          "title": "Gross annual premium",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.7.06",
+          "title": "Payment mode",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Build a simplified price from mortality, interest and expenses, then compare annual and monthly modes.",
+      "assessment": "Distinguish an illustrative expected claim cost from an actual premium.",
+      "section": "3",
+      "questionIds": [],
+      "activeQuestionIds": [],
+      "evidence": {
+        "status": "intro",
+        "text": "Part 2 distinguishes illustrative expected claims from an actual premium; no premium-construction lesson yet.",
+        "links": [
+          [
+            "Part 2",
+            "/course/lesson-02/"
+          ]
+        ]
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=4"
+    },
+    {
+      "id": "3.8",
+      "title": "Handle application through delivery",
+      "pages": [
+        5
+      ],
+      "lesson": "11–12, 29 and 31; split workflow checkpoints",
+      "topics": [
+        {
+          "id": "3.8.01",
+          "title": "Life and annuity advertising",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.8.02",
+          "title": "Sales presentations and guaranty advertising restrictions",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.8.03",
+          "title": "Illustrations",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.8.04",
+          "title": "Policy summary and buyer guide",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.8.05",
+          "title": "Cost and benefit disclosure",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.8.06",
+          "title": "Replacement",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.8.07",
+          "title": "Use of insurance information",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.8.08",
+          "title": "Field underwriting",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.8.09",
+          "title": "Information-practices notices and adverse decisions",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.8.10",
+          "title": "Application signatures",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.8.11",
+          "title": "Application corrections and incompleteness",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.8.12",
+          "title": "Representations versus warranties",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.8.13",
+          "title": "Initial premium and receipt conditions",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.8.14",
+          "title": "Point-of-sale privacy and HIV consent",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.8.15",
+          "title": "PATRIOT Act and anti-money-laundering duties",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.8.16",
+          "title": "Delivery review and effective date",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.8.17",
+          "title": "Premium collection and good-health statement",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Follow a client’s file from first conversation to delivery, pausing where a missing signature or changed health matters.",
+      "assessment": "Select the next required action; teach Maryland disclosure timing from current rules, not generic deadlines.",
+      "section": "3",
+      "questionIds": [
+        30,
+        39,
+        43,
+        65
+      ],
+      "activeQuestionIds": [
+        30,
+        65
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=5"
+    },
+    {
+      "id": "3.9",
+      "title": "Evaluate applications fairly",
+      "pages": [
+        5
+      ],
+      "lesson": "11B and 31",
+      "topics": [
+        {
+          "id": "3.9.01",
+          "title": "Application and producer report",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.9.02",
+          "title": "Attending physician statement",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.9.03",
+          "title": "Investigative consumer report",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.9.04",
+          "title": "MIB information",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.9.05",
+          "title": "Medical examination, laboratory results and HIV",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.9.06",
+          "title": "Permitted selection and unfair discrimination",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.9.07",
+          "title": "Domestic-violence protections",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.9.08",
+          "title": "Preferred risk",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.9.09",
+          "title": "Standard risk",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.9.10",
+          "title": "Substandard risk",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "3.9.11",
+          "title": "Declined application",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Compare permitted information and classification decisions in several fictional files.",
+      "assessment": "Identify information sources and legal limits without stereotypes or unsupported denial-rate claims.",
+      "section": "3",
+      "questionIds": [
+        6,
+        20,
+        47,
+        52
+      ],
+      "activeQuestionIds": [
+        6,
+        47,
+        52
+      ],
+      "evidence": {
+        "status": "intro",
+        "text": "Part 2 introduces underwriting as a response to adverse selection; it does not teach the full underwriting workflow.",
+        "links": [
+          [
+            "Part 2",
+            "/course/lesson-02/"
+          ]
+        ]
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=5"
+    },
+    {
+      "id": "4.1",
+      "title": "Choose and distinguish term designs",
+      "pages": [
+        5,
+        6
+      ],
+      "lesson": "06–07",
+      "topics": [
+        {
+          "id": "4.1.01",
+          "title": "Level benefit",
+          "approval": "Pending",
+          "status": "draft teaching"
+        },
+        {
+          "id": "4.1.02",
+          "title": "Annual renewal",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.1.03",
+          "title": "Level premium period",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.1.04",
+          "title": "Conversion",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.1.05",
+          "title": "Decreasing benefit",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.1.06",
+          "title": "Increasing benefit",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.1.07",
+          "title": "Return-of-premium term",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Overlay premium and benefit timelines for level, renewable and decreasing term.",
+      "assessment": "Change duration or renewal facts so students cannot answer from the word term alone.",
+      "section": "4",
+      "questionIds": [
+        2,
+        57,
+        83
+      ],
+      "activeQuestionIds": [
+        2,
+        57,
+        83
+      ],
+      "evidence": {
+        "status": "partial",
+        "text": "The term/whole-life prototype teaches basic term duration and lack of cash value, with three comparison questions. Term variants remain incomplete.",
+        "links": [
+          [
+            "Prototype",
+            "/course/term-whole-life.html"
+          ]
+        ]
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=5"
+    },
+    {
+      "id": "4.2",
+      "title": "Distinguish permanent designs",
+      "pages": [
+        6
+      ],
+      "lesson": "06 and 08A–B",
+      "topics": [
+        {
+          "id": "4.2.01",
+          "title": "Ordinary and continuous-pay whole life",
+          "approval": "Pending",
+          "status": "draft teaching"
+        },
+        {
+          "id": "4.2.02",
+          "title": "Limited-pay whole life",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.2.03",
+          "title": "Interest-sensitive and current-assumption designs",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.2.04",
+          "title": "Indexed/equity-indexed designs",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.2.05",
+          "title": "Graded premiums",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.2.06",
+          "title": "Single premiums",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.2.07",
+          "title": "Variable whole life",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.2.08",
+          "title": "Variable universal life",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Separate premium schedules, cash-value guarantees and investment risk on product cards.",
+      "assessment": "State product assumptions; do not transfer a whole-life guarantee to every variable or universal design.",
+      "section": "4",
+      "questionIds": [
+        1,
+        22,
+        53,
+        64
+      ],
+      "activeQuestionIds": [
+        1,
+        22,
+        53,
+        64
+      ],
+      "evidence": {
+        "status": "partial",
+        "text": "The prototype teaches traditional whole-life features. Other permanent designs are not taught.",
+        "links": [
+          [
+            "Prototype",
+            "/course/term-whole-life.html"
+          ]
+        ]
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=6"
+    },
+    {
+      "id": "4.3",
+      "title": "Explain adjustable and universal coverage",
+      "pages": [
+        6
+      ],
+      "lesson": "08C",
+      "topics": [
+        {
+          "id": "4.3.01",
+          "title": "Adjustable life changes",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.3.02",
+          "title": "Universal life funding, charges and guarantees",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "A policyowner pays less for several months; show charges continuing and possible lapse risk.",
+      "assessment": "Distinguish flexible payments from guaranteed lifetime coverage without funding.",
+      "section": "4",
+      "questionIds": [
+        7,
+        8,
+        72
+      ],
+      "activeQuestionIds": [
+        7,
+        8,
+        72
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=6"
+    },
+    {
+      "id": "4.4",
+      "title": "Match specialized coverage",
+      "pages": [
+        6
+      ],
+      "lesson": "09",
+      "topics": [
+        {
+          "id": "4.4.01",
+          "title": "Family protection and family plans",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.4.02",
+          "title": "First-death joint coverage",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.4.03",
+          "title": "Last-survivor coverage",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.4.04",
+          "title": "Juvenile and student coverage",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Use a two-life timeline to show first and second death triggers, then add a child rider comparison.",
+      "assessment": "Identify who is insured and which event produces a benefit.",
+      "section": "4",
+      "questionIds": [
+        46,
+        85
+      ],
+      "activeQuestionIds": [
+        46,
+        85
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=6"
+    },
+    {
+      "id": "4.5",
+      "title": "Understand group coverage",
+      "pages": [
+        6
+      ],
+      "lesson": "10A–B",
+      "topics": [
+        {
+          "id": "4.5.01",
+          "title": "Master contract and certificates",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.5.02",
+          "title": "Employer groups",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.5.03",
+          "title": "Debtor groups",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.5.04",
+          "title": "Labor unions",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.5.05",
+          "title": "Trust groups",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.5.06",
+          "title": "Associations",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.5.07",
+          "title": "Group underwriting",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.5.08",
+          "title": "Benefit payment",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.5.09",
+          "title": "Dependents and covered lives",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.5.10",
+          "title": "Individual conversion",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.5.11",
+          "title": "Contributory and noncontributory funding",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "An employee enrolls late, adds coverage, then leaves employment.",
+      "assessment": "Apply eligibility and evidence rules to the stated situation instead of saying no group applicant needs evidence.",
+      "section": "4",
+      "questionIds": [
+        29,
+        32
+      ],
+      "activeQuestionIds": [
+        29,
+        32
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=6"
+    },
+    {
+      "id": "4.6",
+      "title": "Explain credit life",
+      "pages": [
+        6
+      ],
+      "lesson": "09 supplement",
+      "topics": [
+        {
+          "id": "4.6.01",
+          "title": "Individual credit life",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "4.6.02",
+          "title": "Group credit life",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Follow the remaining debt and benefit recipient when a borrower dies.",
+      "assessment": "Distinguish credit life from a personally owned mortgage-protection policy.",
+      "section": "4",
+      "questionIds": [],
+      "activeQuestionIds": [],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=6"
+    },
+    {
+      "id": "5.1",
+      "title": "Use policy rights and time limits",
+      "pages": [
+        6
+      ],
+      "lesson": "04, 12–14; separate state timelines",
+      "topics": [
+        {
+          "id": "5.1.01",
+          "title": "Owner rights",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.1.02",
+          "title": "Assignment",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.1.03",
+          "title": "Entire contract",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.1.04",
+          "title": "Free look",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.1.05",
+          "title": "Premium payments",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.1.06",
+          "title": "Grace",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.1.07",
+          "title": "Reinstatement",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.1.08",
+          "title": "Incontestability",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.1.09",
+          "title": "Misstated age and gender",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.1.10",
+          "title": "Suicide exclusion",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.1.11",
+          "title": "War exclusion",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.1.12",
+          "title": "Interest on proceeds",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.1.13",
+          "title": "Prohibited provisions and backdating",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Place delivery, missed premium, lapse, reinstatement and death on separate timelines.",
+      "assessment": "Use the correct trigger and Maryland rule; contrast a validity challenge with a contractual exclusion.",
+      "section": "5",
+      "questionIds": [
+        4,
+        23,
+        28,
+        49,
+        60,
+        73,
+        80,
+        84,
+        87,
+        88
+      ],
+      "activeQuestionIds": [
+        4,
+        23,
+        28,
+        49,
+        60,
+        73,
+        80,
+        84,
+        87,
+        88
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=6"
+    },
+    {
+      "id": "5.2",
+      "title": "Direct benefits to the intended recipient",
+      "pages": [
+        6,
+        7
+      ],
+      "lesson": "14A–B",
+      "topics": [
+        {
+          "id": "5.2.01",
+          "title": "Individual and class designations",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.2.02",
+          "title": "Estate beneficiary",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.2.03",
+          "title": "Minor beneficiary",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.2.04",
+          "title": "Trust beneficiary",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.2.05",
+          "title": "Primary and contingent succession",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.2.06",
+          "title": "Revocable and irrevocable designation",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.2.07",
+          "title": "Annulment and divorce",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.2.08",
+          "title": "Common disaster",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.2.09",
+          "title": "Facility of payment",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "An owner names a minor, later changes family status, and dies in a common accident with the primary beneficiary.",
+      "assessment": "Trace recipient priority under explicit policy and legal assumptions.",
+      "section": "5",
+      "questionIds": [
+        37,
+        77
+      ],
+      "activeQuestionIds": [
+        37,
+        77
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=6"
+    },
+    {
+      "id": "5.3",
+      "title": "Compare life settlement payment options",
+      "pages": [
+        7
+      ],
+      "lesson": "15",
+      "topics": [
+        {
+          "id": "5.3.01",
+          "title": "Lump sum",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.3.02",
+          "title": "Interest-only payments",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.3.03",
+          "title": "Fixed period",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.3.04",
+          "title": "Fixed amount",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.3.05",
+          "title": "Lifetime income",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.3.06",
+          "title": "Single life",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.3.07",
+          "title": "Joint and survivor income",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "A beneficiary chooses a fixed monthly amount versus a fixed payment duration.",
+      "assessment": "Identify what is fixed and what can vary; distinguish payment options from selling a policy.",
+      "section": "5",
+      "questionIds": [
+        19,
+        71
+      ],
+      "activeQuestionIds": [
+        19,
+        71
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=7"
+    },
+    {
+      "id": "5.4",
+      "title": "Preserve value after stopping premiums",
+      "pages": [
+        7
+      ],
+      "lesson": "16A",
+      "topics": [
+        {
+          "id": "5.4.01",
+          "title": "Cash surrender",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.4.02",
+          "title": "Extended term",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.4.03",
+          "title": "Reduced paid-up coverage",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Use the same policy value to compare cash, temporary full coverage and smaller permanent coverage.",
+      "assessment": "Distinguish duration, face amount and continuing premiums.",
+      "section": "5",
+      "questionIds": [
+        69,
+        75
+      ],
+      "activeQuestionIds": [
+        69,
+        75
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=7"
+    },
+    {
+      "id": "5.5",
+      "title": "Use policy borrowing and withdrawals",
+      "pages": [
+        7
+      ],
+      "lesson": "16B",
+      "topics": [
+        {
+          "id": "5.5.01",
+          "title": "Cash-value loan",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.5.02",
+          "title": "Automatic premium loan",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.5.03",
+          "title": "Partial withdrawal/surrender",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.5.04",
+          "title": "Educational loans",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.5.05",
+          "title": "Required automatic option referenced by the outline",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "A policy has unpaid debt when the insured dies; separately compare taking a withdrawal.",
+      "assessment": "Calculate net proceeds including interest. Resolve the outline’s ambiguous automatic-option wording before teaching it as a Maryland duty.",
+      "section": "5",
+      "questionIds": [
+        51,
+        70
+      ],
+      "activeQuestionIds": [
+        51,
+        70
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=7"
+    },
+    {
+      "id": "5.6",
+      "title": "Apply dividends correctly",
+      "pages": [
+        7
+      ],
+      "lesson": "16C",
+      "topics": [
+        {
+          "id": "5.6.01",
+          "title": "Cash dividend",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.6.02",
+          "title": "Premium reduction",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.6.03",
+          "title": "Interest accumulation",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.6.04",
+          "title": "One-year term purchase",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.6.05",
+          "title": "Paid-up additions",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.6.06",
+          "title": "Paid-up insurance",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "The same dividend is taken as cash, accumulated, or used to buy extra coverage.",
+      "assessment": "Separate dividend use from nonforfeiture choices; distinguish nonguaranteed dividends from contractual cash values.",
+      "section": "5",
+      "questionIds": [
+        79
+      ],
+      "activeQuestionIds": [
+        79
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=7"
+    },
+    {
+      "id": "5.7",
+      "title": "Keep disability-related life riders distinct",
+      "pages": [
+        7
+      ],
+      "lesson": "17A",
+      "topics": [
+        {
+          "id": "5.7.01",
+          "title": "Premium waiver",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.7.02",
+          "title": "Cost-of-insurance waiver",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.7.03",
+          "title": "Disability income benefit",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.7.04",
+          "title": "Juvenile payor life/disability benefit",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "A parent paying a child’s policy becomes disabled; compare who must qualify and what payment is waived.",
+      "assessment": "Do not equate waived premiums with income paid to the insured. These life riders remain in life-only scope.",
+      "section": "5",
+      "questionIds": [
+        45,
+        55
+      ],
+      "activeQuestionIds": [
+        45,
+        55
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=7"
+    },
+    {
+      "id": "5.8",
+      "title": "Explain benefits paid before death",
+      "pages": [
+        7,
+        8
+      ],
+      "lesson": "17B",
+      "topics": [
+        {
+          "id": "5.8.01",
+          "title": "Terminal or catastrophic illness",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.8.02",
+          "title": "Permanent confinement",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.8.03",
+          "title": "ADL triggers",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.8.04",
+          "title": "Written disclosures",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.8.05",
+          "title": "Death-benefit reduction",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.8.06",
+          "title": "Effects on cash value",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.8.07",
+          "title": "Loans and interest",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.8.08",
+          "title": "Tax treatment",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.8.09",
+          "title": "Premium effects",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "An owner considers accelerating benefits; show before-and-after values and disclosure questions.",
+      "assessment": "Distinguish contract triggers, payment limits and remaining coverage without universal percentages.",
+      "section": "5",
+      "questionIds": [
+        61
+      ],
+      "activeQuestionIds": [
+        61
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=7"
+    },
+    {
+      "id": "5.9",
+      "title": "Add insured family members",
+      "pages": [
+        8
+      ],
+      "lesson": "17C",
+      "topics": [
+        {
+          "id": "5.9.01",
+          "title": "Spouse or other-insured term rider",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.9.02",
+          "title": "Children’s term rider",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.9.03",
+          "title": "Family term rider",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Identify the base insured and people added under different riders.",
+      "assessment": "Choose the rider that covers the named person and stated event.",
+      "section": "5",
+      "questionIds": [],
+      "activeQuestionIds": [],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=8"
+    },
+    {
+      "id": "5.10",
+      "title": "Recognize additional death-benefit riders",
+      "pages": [
+        8
+      ],
+      "lesson": "17C",
+      "topics": [
+        {
+          "id": "5.10.01",
+          "title": "Accidental death",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.10.02",
+          "title": "Guaranteed insurability",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.10.03",
+          "title": "Cost-of-living adjustment",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "5.10.04",
+          "title": "Return-of-premium rider",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "A client wants future purchases without new health evidence; compare with inflation adjustment.",
+      "assessment": "Match the trigger and purpose, keeping riders separate from similarly named base policies.",
+      "section": "5",
+      "questionIds": [
+        18
+      ],
+      "activeQuestionIds": [
+        18
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=8"
+    },
+    {
+      "id": "6.1",
+      "title": "Explain annuity roles and phases",
+      "pages": [
+        8
+      ],
+      "lesson": "19",
+      "topics": [
+        {
+          "id": "6.1.01",
+          "title": "Accumulation phase",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.1.02",
+          "title": "Annuitization phase",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.1.03",
+          "title": "Owner",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.1.04",
+          "title": "Annuitant",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.1.05",
+          "title": "Beneficiary",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.1.06",
+          "title": "Insurance function",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.1.07",
+          "title": "Suitability",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Different people own the contract, measure the lifetime income and receive death benefits.",
+      "assessment": "Identify roles and longevity protection without confusing annuities with life insurance.",
+      "section": "6",
+      "questionIds": [
+        25
+      ],
+      "activeQuestionIds": [
+        25
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=8"
+    },
+    {
+      "id": "6.2",
+      "title": "Compare immediate and deferred contracts",
+      "pages": [
+        8
+      ],
+      "lesson": "19–20",
+      "topics": [
+        {
+          "id": "6.2.01",
+          "title": "Single-premium immediate income",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.2.02",
+          "title": "Deferred accumulation",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.2.03",
+          "title": "Premium payment choices",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.2.04",
+          "title": "Nonforfeiture values",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.2.05",
+          "title": "Surrender charges",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.2.06",
+          "title": "Bailout provisions",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.2.07",
+          "title": "Death benefits",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Compare money needed now with income planned ten years later; show early-exit costs.",
+      "assessment": "Separate insurer surrender charges from federal additional taxes.",
+      "section": "6",
+      "questionIds": [
+        14,
+        26
+      ],
+      "activeQuestionIds": [
+        14,
+        26
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=8"
+    },
+    {
+      "id": "6.3",
+      "title": "Trade income guarantees against payments",
+      "pages": [
+        8
+      ],
+      "lesson": "20A",
+      "topics": [
+        {
+          "id": "6.3.01",
+          "title": "Life-contingent income",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.3.02",
+          "title": "Pure life and guaranteed minimum payments",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.3.03",
+          "title": "Single and multiple lives",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.3.04",
+          "title": "Fixed-period certain",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.3.05",
+          "title": "Fixed-amount certain",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "A retiree dies shortly after income begins under pure-life and period-certain options.",
+      "assessment": "Determine which payments stop and which can continue under stated terms.",
+      "section": "6",
+      "questionIds": [
+        82
+      ],
+      "activeQuestionIds": [
+        82
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=8"
+    },
+    {
+      "id": "6.4",
+      "title": "Distinguish annuity investment designs",
+      "pages": [
+        8
+      ],
+      "lesson": "20B",
+      "topics": [
+        {
+          "id": "6.4.01",
+          "title": "Fixed: general account, minimum/current rate and level-benefit design",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.4.02",
+          "title": "Variable: separate-account investment exposure and variable benefits",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.4.03",
+          "title": "Indexed crediting",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.4.04",
+          "title": "Market-value-adjusted/modified-guaranteed contracts",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Change market returns, declared rates and surrender timing for three different products.",
+      "assessment": "Correct the outline’s apparent repeated fixed-account bullets under variable annuities; confirm mechanics against authoritative product sources.",
+      "section": "6",
+      "questionIds": [
+        3,
+        27
+      ],
+      "activeQuestionIds": [
+        3,
+        27
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=8"
+    },
+    {
+      "id": "6.5",
+      "title": "Assess annuity uses and suitability",
+      "pages": [
+        8
+      ],
+      "lesson": "20C",
+      "topics": [
+        {
+          "id": "6.5.01",
+          "title": "Lump-sum funding",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.5.02",
+          "title": "Qualified group/individual plans",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.5.03",
+          "title": "IRAs",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.5.04",
+          "title": "Tax deferral",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.5.05",
+          "title": "Retirement income",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.5.06",
+          "title": "Education funding",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.5.07",
+          "title": "Charitable gift annuities",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "6.5.08",
+          "title": "Suitability in transactions",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "A client needs emergency liquidity while considering a long surrender schedule.",
+      "assessment": "Recognize unsuitable funding assumptions and current Maryland transaction duties; listing a use does not recommend it.",
+      "section": "6",
+      "questionIds": [],
+      "activeQuestionIds": [],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=8"
+    },
+    {
+      "id": "7.1",
+      "title": "Separate life-policy tax events",
+      "pages": [
+        8,
+        9
+      ],
+      "lesson": "21A",
+      "topics": [
+        {
+          "id": "7.1.01",
+          "title": "Owner cash values",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "7.1.02",
+          "title": "Dividends",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "7.1.03",
+          "title": "Policy loans",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "7.1.04",
+          "title": "Surrenders",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "7.1.05",
+          "title": "Beneficiary general rule and exceptions",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "7.1.06",
+          "title": "Tax treatment of settlement payments",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "7.1.07",
+          "title": "Estate inclusion",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Follow premium basis, cash surrender gain, a loan and death proceeds through distinct events.",
+      "assessment": "Keep income tax and estate inclusion separate; identify policy-lapse-with-loan and other exceptions.",
+      "section": "7",
+      "questionIds": [
+        33,
+        89
+      ],
+      "activeQuestionIds": [
+        33,
+        89
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=8"
+    },
+    {
+      "id": "7.2",
+      "title": "Recognize MEC consequences",
+      "pages": [
+        9
+      ],
+      "lesson": "21B",
+      "topics": [
+        {
+          "id": "7.2.01",
+          "title": "MEC versus non-MEC status",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "7.2.02",
+          "title": "Seven-pay test",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "7.2.03",
+          "title": "Distribution and loan taxation",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Compare the same withdrawal from a MEC and a non-MEC under explicit assumptions.",
+      "assessment": "Allocate earnings and basis; apply additional tax only to taxable amounts when applicable.",
+      "section": "7",
+      "questionIds": [
+        76
+      ],
+      "activeQuestionIds": [
+        76
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=9"
+    },
+    {
+      "id": "7.3",
+      "title": "Tax nonqualified annuity distributions",
+      "pages": [
+        9
+      ],
+      "lesson": "22A",
+      "topics": [
+        {
+          "id": "7.3.01",
+          "title": "Accumulation withdrawals",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "7.3.02",
+          "title": "Annuitized payments and exclusion ratio",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "7.3.03",
+          "title": "Death distributions",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "7.3.04",
+          "title": "Corporate ownership",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Use separate earnings/basis buckets for a partial withdrawal, full surrender and periodic income.",
+      "assessment": "State issue date and distribution type so incompatible tax rules are never mixed.",
+      "section": "7",
+      "questionIds": [
+        41
+      ],
+      "activeQuestionIds": [
+        41
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=9"
+    },
+    {
+      "id": "7.4",
+      "title": "Compare traditional and Roth IRAs",
+      "pages": [
+        9
+      ],
+      "lesson": "23A",
+      "topics": [
+        {
+          "id": "7.4.01",
+          "title": "Traditional contributions and deductibility",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "7.4.02",
+          "title": "Early-distribution additional tax",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "7.4.03",
+          "title": "Annuitization and benefit taxation",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "7.4.04",
+          "title": "Estate and beneficiary issues",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "7.4.05",
+          "title": "Roth contributions and limits",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "7.4.06",
+          "title": "Roth distributions",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "A student contributes wages while an older worker takes a distribution. Label the tax year and account type.",
+      "assessment": "Separate contribution eligibility, deduction eligibility and distribution treatment; use current-year IRS sources.",
+      "section": "7",
+      "questionIds": [
+        68
+      ],
+      "activeQuestionIds": [
+        68
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=9"
+    },
+    {
+      "id": "7.5",
+      "title": "Move retirement funds properly",
+      "pages": [
+        9
+      ],
+      "lesson": "23B",
+      "topics": [
+        {
+          "id": "7.5.01",
+          "title": "Rollovers",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "7.5.02",
+          "title": "Trustee transfers",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Compare a direct transfer with a check paid to the account owner.",
+      "assessment": "Identify withholding, deadlines and account-type restrictions using stated facts.",
+      "section": "7",
+      "questionIds": [
+        66
+      ],
+      "activeQuestionIds": [
+        66
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=9"
+    },
+    {
+      "id": "7.6",
+      "title": "Recognize permitted insurance exchanges",
+      "pages": [
+        9
+      ],
+      "lesson": "22B",
+      "topics": [
+        {
+          "id": "7.6.01",
+          "title": "Section 1035 exchanges",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Draw permitted directions between life and annuity contracts and an impermissible reverse exchange.",
+      "assessment": "Teach exchange eligibility and transaction conditions; do not imply every cash reinvestment qualifies.",
+      "section": "7",
+      "questionIds": [
+        24
+      ],
+      "activeQuestionIds": [
+        24
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=9"
+    },
+    {
+      "id": "8.1",
+      "title": "Recognize qualification requirements",
+      "pages": [
+        9
+      ],
+      "lesson": "23C",
+      "topics": [
+        {
+          "id": "8.1.01",
+          "title": "General qualified-plan requirements",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "A proposed retirement plan favors only the owner; examine employee-benefit and qualification requirements.",
+      "assessment": "Identify the exclusive-benefit principle and applicable qualification conditions.",
+      "section": "8",
+      "questionIds": [
+        42
+      ],
+      "activeQuestionIds": [
+        42
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=9"
+    },
+    {
+      "id": "8.2",
+      "title": "Explain qualified-plan taxation",
+      "pages": [
+        9
+      ],
+      "lesson": "23C",
+      "topics": [
+        {
+          "id": "8.2.01",
+          "title": "Employer tax advantages",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "8.2.02",
+          "title": "Employee tax advantages",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "8.2.03",
+          "title": "Distribution tax and age conditions",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Separate employer contribution treatment from employee accumulation and later distribution.",
+      "assessment": "Specify pre-tax versus Roth funds and relevant exceptions rather than promising all benefits are tax-free.",
+      "section": "8",
+      "questionIds": [
+        34
+      ],
+      "activeQuestionIds": [
+        34
+      ],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=9"
+    },
+    {
+      "id": "8.3",
+      "title": "Distinguish employer plan families",
+      "pages": [
+        9
+      ],
+      "lesson": "23D",
+      "topics": [
+        {
+          "id": "8.3.01",
+          "title": "SEP",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "8.3.02",
+          "title": "Keogh/HR-10",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "8.3.03",
+          "title": "Profit sharing and 401(k)",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "8.3.04",
+          "title": "SIMPLE",
+          "approval": "Pending",
+          "status": "planned"
+        },
+        {
+          "id": "8.3.05",
+          "title": "403(b)",
+          "approval": "Pending",
+          "status": "planned"
+        }
+      ],
+      "example": "Compare retirement arrangements for a self-employed owner, small firm and eligible nonprofit employer.",
+      "assessment": "Match employer eligibility and plan structure without memorizing undated annual dollar limits.",
+      "section": "8",
+      "questionIds": [],
+      "activeQuestionIds": [],
+      "evidence": {
+        "status": "not-built",
+        "text": "No dedicated published lesson found. Question-bank references are not instructional coverage.",
+        "links": []
+      },
+      "approval": "Pending coordinator review",
+      "source": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf#page=9"
+    }
+  ],
+  "questionAudit": {
+    "1": {
+      "subsection": "4.2",
+      "section": "4",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "2": {
+      "subsection": "4.1",
+      "section": "4",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "3": {
+      "subsection": "6.4",
+      "section": "6",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "4": {
+      "subsection": "5.1",
+      "section": "5",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "5": {
+      "subsection": "1.2",
+      "section": "1",
+      "status": "held",
+      "note": "Rebating example needs an explicit purchase inducement and review against current Maryland exceptions."
+    },
+    "6": {
+      "subsection": "3.9",
+      "section": "3",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "7": {
+      "subsection": "4.3",
+      "section": "4",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "8": {
+      "subsection": "4.3",
+      "section": "4",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "9": {
+      "subsection": "1.3",
+      "section": "1",
+      "status": "held",
+      "note": "Verify Maryland group conversion conditions and correct the assertion that the new premium must always be higher."
+    },
+    "10": {
+      "subsection": "1.2",
+      "section": "1",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "11": {
+      "subsection": "1.1",
+      "section": "1",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "12": {
+      "subsection": "1.2",
+      "section": "1",
+      "status": "held",
+      "note": "Verify compensation/commission-sharing permissions and exceptions under current Maryland law."
+    },
+    "13": {
+      "subsection": "1.3",
+      "section": "1",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "14": {
+      "subsection": "6.2",
+      "section": "6",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "15": {
+      "subsection": "1.2",
+      "section": "1",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "16": {
+      "subsection": "1.2",
+      "section": "1",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "17": {
+      "subsection": "3.1",
+      "section": "3",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "18": {
+      "subsection": "5.10",
+      "section": "5",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "19": {
+      "subsection": "5.3",
+      "section": "5",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "20": {
+      "subsection": "3.9",
+      "section": "3",
+      "status": "held",
+      "note": "Race answer is the intended distinction; explanation overstates when every other listed factor is lawful. Rewrite with precise scope."
+    },
+    "21": {
+      "subsection": "1.1",
+      "section": "1",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "22": {
+      "subsection": "4.2",
+      "section": "4",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "23": {
+      "subsection": "5.1",
+      "section": "5",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "24": {
+      "subsection": "7.6",
+      "section": "7",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "25": {
+      "subsection": "6.1",
+      "section": "6",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "26": {
+      "subsection": "6.2",
+      "section": "6",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "27": {
+      "subsection": "6.4",
+      "section": "6",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "28": {
+      "subsection": "5.1",
+      "section": "5",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "29": {
+      "subsection": "4.5",
+      "section": "4",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "30": {
+      "subsection": "3.8",
+      "section": "3",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "31": {
+      "subsection": "1.1",
+      "section": "1",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "32": {
+      "subsection": "4.5",
+      "section": "4",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "33": {
+      "subsection": "7.1",
+      "section": "7",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "34": {
+      "subsection": "8.2",
+      "section": "8",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "35": {
+      "subsection": "3.1",
+      "section": "3",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "36": {
+      "subsection": "2.3",
+      "section": "2",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "37": {
+      "subsection": "5.2",
+      "section": "5",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "38": {
+      "subsection": "1.1",
+      "section": "1",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "39": {
+      "subsection": "3.8",
+      "section": "3",
+      "status": "held",
+      "note": "Verify the first-page policy-description requirement and applicable product scope."
+    },
+    "40": {
+      "subsection": "2.4",
+      "section": "2",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "41": {
+      "subsection": "7.3",
+      "section": "7",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "42": {
+      "subsection": "8.1",
+      "section": "8",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "43": {
+      "subsection": "3.8",
+      "section": "3",
+      "status": "held",
+      "note": "Buyer-guide and summary delivery timing is too ambiguous; check current disclosure and replacement rules."
+    },
+    "44": {
+      "subsection": "1.2",
+      "section": "1",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "45": {
+      "subsection": "5.7",
+      "section": "5",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "46": {
+      "subsection": "4.4",
+      "section": "4",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "47": {
+      "subsection": "3.9",
+      "section": "3",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "48": {
+      "subsection": "supplemental",
+      "section": "supplemental",
+      "status": "held",
+      "note": "Death proceeds are not necessarily paid to the policyowner; endowment detail is supplemental, not a standalone outline topic."
+    },
+    "49": {
+      "subsection": "5.1",
+      "section": "5",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "50": {
+      "subsection": "supplemental",
+      "section": "supplemental",
+      "status": "held",
+      "note": "Surplus-lines item needs eligibility and life-line limitations; do not teach it as a route for ordinary life placement."
+    },
+    "51": {
+      "subsection": "5.5",
+      "section": "5",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "52": {
+      "subsection": "3.9",
+      "section": "3",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "53": {
+      "subsection": "4.2",
+      "section": "4",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "54": {
+      "subsection": "2.4",
+      "section": "2",
+      "status": "held",
+      "note": "Reasonable-expectations explanation overstates when expectations can override contract language."
+    },
+    "55": {
+      "subsection": "5.7",
+      "section": "5",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "56": {
+      "subsection": "1.3",
+      "section": "1",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "57": {
+      "subsection": "4.1",
+      "section": "4",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "58": {
+      "subsection": "1.2",
+      "section": "1",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "59": {
+      "subsection": "1.2",
+      "section": "1",
+      "status": "held",
+      "note": "Rate comparison omits comparable benefits/terms; revise the unfair-discrimination scenario."
+    },
+    "60": {
+      "subsection": "5.1",
+      "section": "5",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "61": {
+      "subsection": "5.8",
+      "section": "5",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "62": {
+      "subsection": "2.5",
+      "section": "2",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "63": {
+      "subsection": "1.2",
+      "section": "1",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "64": {
+      "subsection": "4.2",
+      "section": "4",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "65": {
+      "subsection": "3.8",
+      "section": "3",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "66": {
+      "subsection": "7.5",
+      "section": "7",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "67": {
+      "subsection": "1.2",
+      "section": "1",
+      "status": "held",
+      "note": "Blank and incomplete applications should not be conflated; clarify prohibited conduct and correction procedures."
+    },
+    "68": {
+      "subsection": "7.4",
+      "section": "7",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "69": {
+      "subsection": "5.4",
+      "section": "5",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "70": {
+      "subsection": "5.5",
+      "section": "5",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "71": {
+      "subsection": "5.3",
+      "section": "5",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "72": {
+      "subsection": "4.3",
+      "section": "4",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "73": {
+      "subsection": "5.1",
+      "section": "5",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "74": {
+      "subsection": "3.5",
+      "section": "3",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "75": {
+      "subsection": "5.4",
+      "section": "5",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "76": {
+      "subsection": "7.2",
+      "section": "7",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "77": {
+      "subsection": "5.2",
+      "section": "5",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "78": {
+      "subsection": "3.5",
+      "section": "3",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "79": {
+      "subsection": "5.6",
+      "section": "5",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "80": {
+      "subsection": "5.1",
+      "section": "5",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "81": {
+      "subsection": "1.3",
+      "section": "1",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "82": {
+      "subsection": "6.3",
+      "section": "6",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "83": {
+      "subsection": "4.1",
+      "section": "4",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "84": {
+      "subsection": "5.1",
+      "section": "5",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "85": {
+      "subsection": "4.4",
+      "section": "4",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "86": {
+      "subsection": "1.3",
+      "section": "1",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "87": {
+      "subsection": "5.1",
+      "section": "5",
+      "status": "revised",
+      "note": "Revised in this audit; coordinator approval still pending."
+    },
+    "88": {
+      "subsection": "5.1",
+      "section": "5",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "89": {
+      "subsection": "7.1",
+      "section": "7",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    },
+    "90": {
+      "subsection": "1.2",
+      "section": "1",
+      "status": "editorial-review",
+      "note": "Read and mapped; independent source and coordinator sign-off still required."
+    }
+  },
+  "sources": [
+    {
+      "title": "Prometric Maryland landing page",
+      "url": "https://www.prometric.com/exams/mia/",
+      "note": "Current link authority; life code 2027."
+    },
+    {
+      "title": "Prometric Life outline",
+      "url": "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf",
+      "note": "Still linked on September 12, 2026; filename is older, not a 2026 revision."
+    },
+    {
+      "title": "Candidate bulletin",
+      "url": "https://www.prometric.com/files/mia/Maryland-Insurance-LIB.pdf",
+      "note": "Exam format and candidate procedures."
+    },
+    {
+      "title": "Official practice FAQ",
+      "url": "https://www.prometric.com/insurance-practice-exam-faqs/",
+      "note": "Practice is not a Maryland-specific bank."
+    },
+    {
+      "title": "Producer discipline, §10–126",
+      "url": "https://mgaleg.maryland.gov/mgawebsite/laws/StatuteText?article=gin&section=10-126",
+      "note": "Q11; also reporting duties."
+    },
+    {
+      "title": "Insurable interest, §12–201",
+      "url": "https://mgaleg.maryland.gov/mgawebsite/laws/StatuteText?article=gin&section=12-201",
+      "note": "Q17 and Q35."
+    },
+    {
+      "title": "Grace period, §16–202",
+      "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gin/16-202.pdf",
+      "note": "Q80; standard nonindustrial rule is not universally 31 days."
+    },
+    {
+      "title": "Incontestability, §16–203",
+      "url": "https://mgaleg.maryland.gov/mgawebsite/laws/StatuteText?article=gin&section=16-203",
+      "note": "Q73."
+    },
+    {
+      "title": "Reinstatement, §16–210",
+      "url": "https://mgaleg.maryland.gov/mgawebsite/laws/StatuteText?article=gin&section=16-210",
+      "note": "Q49."
+    },
+    {
+      "title": "Exclusions, §16–215",
+      "url": "https://mgaleg.maryland.gov/mgawebsite/laws/StatuteText?article=gin&section=16-215",
+      "note": "Q28 and Q87; prior-policy conditions matter."
+    },
+    {
+      "title": "Replacement definition",
+      "url": "https://regs.maryland.gov/us/md/exec/comar/31.09.05.03",
+      "note": "Current transaction scope."
+    },
+    {
+      "title": "Replacement producer duties",
+      "url": "https://regs.maryland.gov/us/md/exec/comar/31.09.05.04",
+      "note": "Notice, signatures and sales material."
+    },
+    {
+      "title": "MIA universal life advisory",
+      "url": "https://insurance.maryland.gov/Consumer/Pages/Universal-Life-Insurance.aspx",
+      "note": "Q7 and Q72; funding and contract guarantees."
+    },
+    {
+      "title": "SEC variable life guide",
+      "url": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/variable-life",
+      "note": "Q22 and Q64; contract-dependent benefits and investment risk."
+    },
+    {
+      "title": "IRS Publication 575",
+      "url": "https://www.irs.gov/publications/p575",
+      "note": "Q41; periodic versus nonperiodic distributions."
+    },
+    {
+      "title": "IRS Publication 590-A",
+      "url": "https://www.irs.gov/publications/p590a",
+      "note": "Q68 uses an expressly dated 2025 contribution example."
+    },
+    {
+      "title": "IRS Form 5329 instructions",
+      "url": "https://www.irs.gov/instructions/i5329",
+      "note": "Additional tax on taxable early distributions and MECs."
+    },
+    {
+      "title": "Prelicensing change",
+      "url": "https://insurance.maryland.gov/Pages/Bulletins/24-19-Repealing-the-Prelicensing-Education-and-Experience-Requirements.aspx",
+      "note": "Do not teach a mandatory approved prelicensing course after October 1, 2024."
+    }
+  ]
+}
