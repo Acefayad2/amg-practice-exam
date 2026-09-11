@@ -6,10 +6,10 @@
   "source_job_id": "1aa69032-90da-4f8f-be52-f3b66993e6b3",
   "reference_from": "Part 1 at 13 seconds",
   "raw_video": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260911_215850_1aa69032-90da-4f8f-be52-f3b66993e6b3.mp4",
-  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/6f9dbbd4-3462-44b7-93e8-df82645e1d51.mp4",
-  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/b7a13882-ae18-49bc-9cc3-85f5f6eef371.png",
-  "editable_archive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/070b4fb8-05c9-4312-9ba0-9ff5c58ddcd5.zip",
-  "editing_revision": 2,
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/49eacf89-a8ca-4ea9-b5a0-117f9bc9b7be.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/cc9b0c0e-4a03-4ab5-b2ff-80c398c71edf.png",
+  "editable_archive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/cd1d4204-73f4-4fff-8bc6-c377a9ccb080.zip",
+  "editing_revision": 3,
   "ending_correction": {
     "issue": "User reported that Aisha's mouth stopped moving while the final sentence continued. Initial transcription and decoding checks did not establish lip sync.",
     "repair": "Cut at 12.5s to Daniel listening, using raw footage from 3.5s through 6s cropped to exclude the agent. Original dialogue continues off-screen. Second title ends at 12.3s to keep the closer reaction shot clear.",
@@ -51,7 +51,7 @@
     "editing_script": "docs/course/part-02-edit.jsx"
   },
   "branding": {
-    "type": "existing AMG typographic text mark; official logo artwork not supplied",
+    "type": "Gold circular AMG monogram from existing AMG website artwork",
     "position": "bottom-left, above player controls",
     "titles": [
       {
@@ -64,7 +64,17 @@
         "end": 12.3,
         "text": "Law of large numbers"
       }
-    ]
+    ],
+    "source": "https://github.com/Acefayad2/amg-wealth/blob/main/assets/brokers/amg-mark.webp",
+    "asset": "public/course/assets/amg-mark.webp",
+    "geometry": {
+      "x": 64,
+      "y": 729,
+      "width": 195,
+      "height": 183,
+      "canvas": "1920x1080",
+      "fit": "contain"
+    }
   },
   "qa": {
     "source_decode": "passed",
@@ -73,5 +83,14 @@
     "interaction": "Wrong/right feedback, answer lock, score, finish, resume, reset and separate lesson state passed.",
     "responsive": "390-pixel same-origin iframe check: no document overflow; desktop checked.",
     "review": "Human coordinator and user review pending"
+  },
+  "logo_replacement": {
+    "date": "2026-09-12",
+    "additional_generation_credits": 0,
+    "balance_before": 8925,
+    "balance_after": 8925,
+    "audio_sha256": "acd4940547cb93188c651ed300bb2af07d5fd904bce304e2f7c2e5c58b8c0c11",
+    "contact_sheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/ef1d9cf8-1699-4d20-bfeb-58c7af261cea.jpg",
+    "verification": "Full decode passed; 1920x1080, 24fps, 15.001 seconds. Original audio hash matches. Six sampled frames confirm artwork replaces letters throughout both shots and corrected ending."
   }
 }

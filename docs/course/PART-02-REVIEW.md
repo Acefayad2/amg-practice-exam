@@ -14,7 +14,7 @@ No health content or new state-specific legal rules are introduced. This covers 
 
 ## Visual direction
 
-Daniel is Latino and Aisha is Black, continuing the established cast and office. The scene reverses to Aisha’s reply. AMG appears in the bottom-left with room above the player controls. This is the existing course text mark, not verified official logo artwork. Replace the editable mark when the official asset is supplied. Titles identify Risk pooling and Law of large numbers at the corresponding dialogue. English captions are selectable in the player, with a transcript available below it. Titles and branding are added in post-production; the website contains the questions and numerical example.
+Daniel is Latino and Aisha is Black, continuing the established cast and office. The scene reverses to Aisha’s reply. The gold circular AMG monogram appears at bottom-left with room above the player controls, replacing the temporary letters. The artwork comes from `Acefayad2/amg-wealth/assets/brokers/amg-mark.webp`; a copy is preserved at `public/course/assets/amg-mark.webp`. It is placed at its original 195 × 183 pixel size without stretching. Titles identify Risk pooling and Law of large numbers at the corresponding dialogue. English captions are selectable in the player, with a transcript available below it. Titles and branding are added in post-production; the website contains the questions and numerical example.
 
 ## Check during review
 

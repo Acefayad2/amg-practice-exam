@@ -87,7 +87,7 @@ The old 32 lesson numbers remain source-planning references. They are not a prom
 
 For each part: draft the objective, teaching and questions first; check sources and answer keys; make the web lesson; create or reuse the brief scene; inspect the entire video with sound; then publish that part for review. Keep generated dialogue short enough for reliable delivery. Inspect every visible speaker through their last syllable; use intentional reaction shots or diagrams when off-screen narration fits. Automated decoding alone is not lip-sync QA.
 
-Continue natural Black and Hispanic/Latino representation alongside other backgrounds. Rotate clients, producers, business owners and retirees without linking ethnicity to risk, dishonesty or financial ability. Use the AMG mark in the lower-left safe area, contextual titles, readable captions and consistent audio. The present mark is a text treatment; official logo artwork is still needed for a true logo lockup.
+Continue natural Black and Hispanic/Latino representation alongside other backgrounds. Rotate clients, producers, business owners and retirees without linking ethnicity to risk, dishonesty or financial ability. Use the AMG mark in the lower-left safe area, contextual titles, readable captions and consistent audio. Part 2 now uses the gold circular AMG monogram from the existing AMG website assets, replacing the temporary text treatment.
 
 ## Review gates before calling the course complete
 

@@ -5,7 +5,7 @@ Updated September 12, 2026. Life only; release one part at a time for user/coord
 ## Available for review
 
 - Part 1: risk, exposure, peril, hazard and loss; a 15-second client scene and eight interactive questions.
-- Part 2: pooling, large numbers, expected claims and adverse selection; a 15-second scene, AMG textmark, contextual titles, captions, interactive example and eight questions. The ending uses a reaction cutaway to eliminate visible mouth/speech mismatch without regenerating footage.
+- Part 2: pooling, large numbers, expected claims and adverse selection; a 15-second scene, gold circular AMG logo at bottom-left, contextual titles, captions, interactive example and eight questions. The ending uses a reaction cutaway to eliminate visible mouth/speech mismatch without regenerating footage. The logo replaces the temporary letters using artwork from the existing AMG website.
 - Earlier Lesson 06: term/whole-life prototype in the old video-question format. Retained for comparison.
 - Full curriculum audit: 48 outline subsections, 307 teaching groups, 27 revised bank items, 11 held items, and a 79-question life practice drill. Coordinator brief and downloadable checklists are on the course review page.
 

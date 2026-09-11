@@ -1,7 +1,7 @@
 window.LESSON02 = {
   version: 1,
-  video: 'https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/6f9dbbd4-3462-44b7-93e8-df82645e1d51.mp4',
-  poster: 'https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/b7a13882-ae18-49bc-9cc3-85f5f6eef371.png',
+  video: 'https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/49eacf89-a8ca-4ea9-b5a0-117f9bc9b7be.mp4',
+  poster: 'https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/cc9b0c0e-4a03-4ab5-b2ff-80c398c71edf.png',
   transcript: "Aisha: Your premium joins those of many policyholders to help pay covered claims. That's risk pooling. A larger group of similar risks helps insurers estimate claims more reliably, but it can't predict any one person's future.",
   terms: [
     {name:'Risk pooling', definition:'Combining many exposures so the financial burden of covered losses is shared across a group.', example:'Daniel is one insured person in a much larger group. A covered death benefit is an obligation of the insurer under the policy.'},

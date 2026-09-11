@@ -5,14 +5,13 @@ export default async ({ project }) => {
   // reaction.mp4: raw.mp4 from 3.5s for 2.5s; crop=1440:810:96:108; scale=1920:1080; no audio.
   // After rendering, mux raw.mp4's uninterrupted original audio over the full 15-second edit.
   const reaction = await p.add('/home/user/reaction.mp4');
+  const logo = await p.add('/home/user/amg-mark.webp');
   p.cut(scene, {from:0,dur:12.5,at:0,fit:'contain'});
   p.cut(reaction, {from:0,dur:2.5,at:12.5,fit:'contain'});
   p.compose(
     <frame width={1920} height={1080} layout="none">
-      <rect x={64} y={808} width={228} height={104} fill="#112d35" radius={8} />
-      <rect x={64} y={808} width={6} height={104} fill="#8ad4c3" />
-      <text x={88} y={820} width={180} height={76} fontFamily="Montserrat" fontWeight={700} fontSize={62} color="#ffffff">AMG</text>
-    </frame>, {at:0,dur:15,name:'AMG preview text mark — bottom left'}
+      <media file={logo} x={64} y={729} width={195} height={183} fit="contain" />
+    </frame>, {at:0,dur:15,name:'AMG gold monogram — bottom left'}
   );
   const title = (at,dur,kicker,label) => p.compose(
     <frame width={1920} height={1080} layout="none" motion={{enter:{from:{opacity:0,y:8},duration:0.3},exit:{to:{opacity:0},duration:0.3,anchor:'end'}}}>
