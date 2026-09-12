@@ -23,7 +23,7 @@ Four subsections have partial substantive teaching (2.1, 3.6, 4.1, 4.2); three h
 
 Twelve subsections have no primary question-bank match: **2.1, 2.2, 2.6, 3.2, 3.3, 3.4, 3.6, 3.7, 4.6, 5.9, 6.5 and 8.3**. Some are touched by items primarily mapped elsewhere, such as the temporary/permanent distinction in product questions. A primary mapping is an inventory measure, not proof of complete assessment coverage.
 
-The 16 newer formative questions in Parts 1–2 sit outside the original 90-question bank. The prototype has three additional comparison questions. Part 1 now uses four choices and required end-of-video questions; Part 2 and the earlier prototype still use three choices. They help cover foundations, but they are not independent mock-exam items.
+The 16 newer formative questions in Parts 1–2 sit outside the original 90-question bank. The prototype has three additional comparison questions. Parts 1 and 2 now use four choices and required end-of-video questions; the earlier term/whole-life prototype still uses three choices. They help cover foundations, but they are not independent mock-exam items.
 
 ## Exam and assessment blueprint
 

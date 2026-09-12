@@ -1,96 +1,210 @@
 {
   "lesson": "02",
-  "title": "Risk pooling, law of large numbers and adverse selection",
-  "status": "development review; coordinator approval pending",
-  "live_url": "https://amg-exam-portal.netlify.app/course/lesson-02/",
-  "source_job_id": "1aa69032-90da-4f8f-be52-f3b66993e6b3",
-  "reference_from": "Part 1 at 13 seconds",
-  "raw_video": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260911_215850_1aa69032-90da-4f8f-be52-f3b66993e6b3.mp4",
-  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/49eacf89-a8ca-4ea9-b5a0-117f9bc9b7be.mp4",
-  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/cc9b0c0e-4a03-4ab5-b2ff-80c398c71edf.png",
-  "editable_archive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/cd1d4204-73f4-4fff-8bc6-c377a9ccb080.zip",
-  "editing_revision": 3,
-  "ending_correction": {
-    "issue": "User reported that Aisha's mouth stopped moving while the final sentence continued. Initial transcription and decoding checks did not establish lip sync.",
-    "repair": "Cut at 12.5s to Daniel listening, using raw footage from 3.5s through 6s cropped to exclude the agent. Original dialogue continues off-screen. Second title ends at 12.3s to keep the closer reaction shot clear.",
-    "additional_generation_credits": 0,
-    "balance_before": 8925,
-    "balance_after": 8925,
-    "audio_sha256": "acd4940547cb93188c651ed300bb2af07d5fd904bce304e2f7c2e5c58b8c0c11",
-    "audio_verification": "Original and corrected 0–15s decoded audio hashes match.",
-    "ending_contact_sheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/123e7cc8-ca4b-4ae7-837c-ebb1161e7c6b.jpg"
+  "revision": 2,
+  "status": "user and licensing coordinator review",
+  "duration_seconds": 198.751,
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/cc159a3b-10cf-4ecb-97ab-d0bc246b4a84.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/d1c30cce-19e8-40a7-a72e-37478c95c0ab.png",
+  "editable_archive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/a09f6d65-66a3-414d-a34a-665add52b16b.zip",
+  "cast": {
+    "client": "Marcus",
+    "reference": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260911_235337_da432653-165e-477b-8a29-68446fe4b6c2.png",
+    "usage": "Reused approved still image; no new on-camera speech or image/video generation"
   },
-  "generation": {
-    "model": "kling3_0",
-    "duration": 15,
-    "mode": "pro",
-    "sound": "on",
-    "aspect_ratio": "16:9",
-    "medias": [
-      {
-        "role": "start_image",
-        "value": "7024e118-fdcf-4236-b1d9-47d082a73f02"
-      }
-    ],
-    "prompt": "Continue this exact life-insurance consultation from the supplied reference frame. Keep Daniel, Latino male late thirties in a navy shirt, and his agent Aisha, Black woman early forties in a cream blazer, in the same contemporary neutral office and consistent soft daylight. Photorealistic premium educational drama, natural skin and micro-expressions, restrained warm color grading. Begin on the reference framing for half a second, then a clean motivated reverse-angle cut to Aisha's face, Daniel's shoulder softly out of focus, hold the agent's medium close-up through her answer. Aisha alone speaks clearly and warmly in natural American English at a measured conversational pace, complete exact dialogue: 'Your premium joins those of many policyholders to help pay covered claims. That's risk pooling. A larger group of similar risks helps insurers estimate claims more reliably, but it can't predict any one person's future.' Daniel silently listens and nods slightly at the end. Start speech by 0.8 seconds and finish by 14.0 seconds. Exactly these words, one female voice, no narrator, no music, clean studio-quality dialogue with very light room tone. Anatomically natural gestures, no added people. Do not generate subtitles, captions, graphics, logos, slides or text. Keep upper-left and lower-left quiet for titles and branding added in editing. End with a brief natural listening pause."
+  "narrator": {
+    "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+    "voice_type": "preset",
+    "name": "Gideon"
   },
-  "credit_usage": {
-    "balance_before": 8962.5,
-    "generation_credits": 37.5,
-    "balance_after": 8925,
-    "additional_generation_for_branding": 0
+  "narration_jobs": [
+    {
+      "index": 0,
+      "job_id": "e1a8e782-4d61-4315-a1f6-139363e28802",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_005116_e1a8e782-4d61-4315-a1f6-139363e28802.mp3"
+    },
+    {
+      "index": 1,
+      "job_id": "4e460cb5-ad47-4b70-a24f-13a01a32ff95",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_005116_4e460cb5-ad47-4b70-a24f-13a01a32ff95.mp3"
+    },
+    {
+      "index": 2,
+      "job_id": "458d7ee7-0f72-4664-9039-eeef8bef17b5",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_005116_458d7ee7-0f72-4664-9039-eeef8bef17b5.mp3"
+    },
+    {
+      "index": 3,
+      "job_id": "b1c1cb9d-fcf1-47d0-afff-b8fd8cd649f5",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_005116_b1c1cb9d-fcf1-47d0-afff-b8fd8cd649f5.mp3"
+    },
+    {
+      "index": 4,
+      "job_id": "56d5e0b5-b8b7-4fdd-b0fb-a15de5a9fe25",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_005116_56d5e0b5-b8b7-4fdd-b0fb-a15de5a9fe25.mp3"
+    },
+    {
+      "index": 5,
+      "job_id": "b43f55ab-d08a-4742-a21a-7f4e0935f4df",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_005116_b43f55ab-d08a-4742-a21a-7f4e0935f4df.mp3"
+    }
+  ],
+  "parameters": [
+    {
+      "model": "seed_audio",
+      "prompt": "Marcus has another question. If he pays much less in premiums than the death benefit, how can his family receive a larger covered payment? The answer starts with risk pooling. An insurer combines many exposures and spreads the financial burden of covered losses across the group. Marcus's own premiums are not the limit of a covered claim. The insurer owes the benefit according to the policy contract.",
+      "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+      "voice_type": "preset",
+      "format": "mp3",
+      "speech_rate": 0
+    },
+    {
+      "model": "seed_audio",
+      "prompt": "Think of many individual policies supporting one insurance operation. Premiums help fund its obligations, alongside other financial resources. The policy is not simply a personal savings account that pays back only what Marcus put in. Pooling does not prevent death, require identical premiums, or erase uncertainty. People can have different coverage amounts and risk classifications. The insurer must still price its policies and manage its resources carefully.",
+      "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+      "voice_type": "preset",
+      "format": "mp3",
+      "speech_rate": 0
+    },
+    {
+      "model": "seed_audio",
+      "prompt": "Now connect pooling to the law of large numbers. A larger group of comparable, largely independent exposures tends to have more predictable average loss experience. The key word is average. A large pool may have more total claims than a small pool. The useful improvement is greater predictability in relative terms. It does not tell the insurer who will die, or guarantee an exact number of claims.",
+      "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+      "voice_type": "preset",
+      "format": "mp3",
+      "speech_rate": 0
+    },
+    {
+      "model": "seed_audio",
+      "prompt": "Use an invented example. Suppose one thousand people each have a one percent annual probability of a death claim. One thousand times one percent gives ten expected claims. Expected means an average across many possible outcomes. This year's count could be eight, ten, twelve, or another number. These are teaching assumptions, not real mortality figures or a premium quote. No individual outcome is identified.",
+      "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+      "voice_type": "preset",
+      "format": "mp3",
+      "speech_rate": 0
+    },
+    {
+      "model": "seed_audio",
+      "prompt": "Compare one extra claim in two groups with the same assumed one percent probability. In a group of one hundred, moving from one claim to two changes the rate from one percent to two percent. In a group of ten thousand, moving from one hundred claims to one hundred one changes the rate to one point zero one percent. One extra claim has a smaller effect on the larger group's rate. This illustrates sensitivity, not a guarantee. Shared events can still cause many claims together.",
+      "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+      "voice_type": "preset",
+      "format": "mp3",
+      "speech_rate": 0
+    },
+    {
+      "model": "seed_audio",
+      "prompt": "The makeup of the group matters too. Imagine an insurance offer at a standard price. People who know they have a greater chance of loss are especially eager to apply. That tendency is adverse selection. It can occur even when everyone answers truthfully. Underwriting helps the insurer evaluate applications and classify risk using permitted information and rules. It does not eliminate uncertainty. Remember the distinctions: pooling spreads financial risk; large numbers improve group estimates; adverse selection concerns who seeks coverage. Now answer the eight lesson questions, and review any mistakes before finishing.",
+      "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+      "voice_type": "preset",
+      "format": "mp3",
+      "speech_rate": 0
+    }
+  ],
+  "credits": {
+    "before": 8872,
+    "after": 8853.3,
+    "used": 18.7,
+    "narration": 18.7,
+    "images": 0,
+    "generated_video": 0,
+    "graphics_and_questions": 0
   },
-  "technical": {
-    "width": 1920,
-    "height": 1080,
+  "editing": {
+    "tool": "Higgsedit native composition",
+    "scenes": 11,
+    "size": "1920x1080",
     "fps": 24,
-    "seconds": 15.001,
-    "video_codec": "h264",
-    "audio_codec": "aac",
-    "captions": "public/course/lesson-02/scene-captions.vtt",
-    "editing_script": "docs/course/part-02-edit.jsx"
+    "logo": "Native circular mask preserving the gold ring and dark interior; no outer rectangle",
+    "caption_area": "No repeated footer text beneath the diagrams",
+    "audio": "Six narration sections, 0.45-second inter-section pauses, normalized to -18 LUFS target; 1.2-second finishing hold",
+    "mobile_captions": "On small screens, caption text appears below the inline player with a hide/show button. Fullscreen and desktop retain native captions."
   },
-  "branding": {
-    "type": "Gold circular AMG monogram from existing AMG website artwork",
-    "position": "bottom-left, above player controls",
-    "titles": [
+  "validation": {
+    "narration": [
       {
-        "start": 0.5,
-        "end": 7.4,
-        "text": "Risk pooling"
+        "index": 0,
+        "start": 0,
+        "duration": 32.832,
+        "match_ratio": 0.985,
+        "heard": "Markus has another question. If he pays much less in premiums than the death benefit, how can his family receive a larger covered payment? The answer starts with risk pooling. An insurer combines many exposures and spreads the financial burden of covered losses across the group. Marcus's own premiums are not the limit of a covered claim. The insurer owes the benefit according to the policy contract."
       },
       {
-        "start": 7.8,
-        "end": 12.3,
-        "text": "Law of large numbers"
+        "index": 1,
+        "start": 33.282000000000004,
+        "duration": 38.64,
+        "match_ratio": 1,
+        "heard": "Think of many individual policies supporting one insurance operation. Premiums help fund its obligations alongside other financial resources. The policy is not simply a personal savings account that pays back only what Marcus put in. Pooling does not prevent death. Require identical premiums or erase uncertainty. People can have different coverage amounts and risk classifications. The insurer must still price its policies and manage its resources carefully."
+      },
+      {
+        "index": 2,
+        "start": 72.37200000000001,
+        "duration": 29.136,
+        "match_ratio": 0.977,
+        "heard": "Now connect pooling to the law of large numbers. A larger group of comparable, largely independent exposures tends to have more predictable, average loss experience. The keyword is average. A large pool may have more total claims than a small pool. The useful improvement is greater predictability in relative terms. It does not tell the insurer who will die or guarantee an exact number of claims."
+      },
+      {
+        "index": 3,
+        "start": 101.95800000000001,
+        "duration": 28.248,
+        "match_ratio": 0.812,
+        "heard": "Use an invented example. Suppose 1 ,000 people each have a 1 % annual probability of a death claim. 1 ,000 times 1 % gives 10 expected claims. Expected means an average across many possible outcomes. This year's count could be 8, 10, 12, or another number. These are teaching assumptions, not real mortality figures or a premium quote. No individual outcome is identified."
+      },
+      {
+        "index": 4,
+        "start": 130.656,
+        "duration": 31.944,
+        "match_ratio": 0.79,
+        "heard": "Pair one extra claim in two groups, with the same assumed 1 % probability. In a group of 100, moving from one claim to two changes the rate from 1 % to 2%. In a group of 10 ,000, moving from 100 claims to 101 changes the rate to 1 .01%. One extra claim has a smaller effect on the larger group's rate. This illustrates sensitivity. Not a guarantee. Shared events can still cause many claims together."
+      },
+      {
+        "index": 5,
+        "start": 163.05,
+        "duration": 34.464,
+        "match_ratio": 0.984,
+        "heard": "The make -up of the group matters too. Imagine an insurance offer at a standard price. People who know they have a greater chance of loss are especially eager to apply. That tendency is adverse selection. It can occur even when everyone answers truthfully. Underwriting helps the insurer evaluate applications and classify risk using permitted information and rules. It does not eliminate uncertainty. Remember the distinctions, pooling spreads financial risk. Large numbers improve group estimates. Adverse selection concerns who seeks coverage, now answer the eight lesson questions, and review any mistakes before finishing."
       }
     ],
-    "source": "https://github.com/Acefayad2/amg-wealth/blob/main/assets/brokers/amg-mark.webp",
-    "asset": "public/course/assets/amg-mark.webp",
-    "geometry": {
-      "x": 64,
-      "y": 729,
-      "width": 195,
-      "height": 183,
-      "canvas": "1920x1080",
-      "fit": "contain"
-    }
+    "transcription_notes": "Numerical phrases were checked against their values: 1,000 × 1% = 10; 2/100 = 2%; 101/10,000 = 1.01%. ASR differences include numeral formatting, Markus/Marcus, keyword/key word and Pair/Compare; transcription alone is not a listening-quality guarantee.",
+    "full_decode": "passed",
+    "captions": 54,
+    "mobile_captions": "Live cue text, toggle, fullscreen entry/exit and desktop transition passed in Chromium."
   },
-  "qa": {
-    "source_decode": "passed",
-    "final_decode": "passed",
-    "automated_transcription": "Matches scripted dialogue; policy holders normalized to policyholders.",
-    "interaction": "Wrong/right feedback, answer lock, score, finish, resume, reset and separate lesson state passed.",
-    "responsive": "390-pixel same-origin iframe check: no document overflow; desktop checked.",
-    "review": "Human coordinator and user review pending"
+  "technical": {
+    "duration_seconds": 198.751,
+    "bytes": 10250295,
+    "video_codec": "h264",
+    "audio_codec": "aac"
   },
-  "logo_replacement": {
-    "date": "2026-09-12",
-    "additional_generation_credits": 0,
-    "balance_before": 8925,
-    "balance_after": 8925,
-    "audio_sha256": "acd4940547cb93188c651ed300bb2af07d5fd904bce304e2f7c2e5c58b8c0c11",
-    "contact_sheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/ef1d9cf8-1699-4d20-bfeb-58c7af261cea.jpg",
-    "verification": "Full decode passed; 1920x1080, 24fps, 15.001 seconds. Original audio hash matches. Six sampled frames confirm artwork replaces letters throughout both shots and corrected ending."
-  }
+  "completion": {
+    "version": 2,
+    "questions": 8,
+    "options": 4,
+    "unlock": "Native video ended event",
+    "required": "All eight correct after explanations/retries, then explicit Finish Part 2",
+    "first_answers": "Preserved separately",
+    "storage": "Local to browser; no account synchronization or watch-time enforcement",
+    "previous_prototype_completion": "Version 1 does not count toward the rebuilt lesson",
+    "next": "Review Part 2 before starting Part 3"
+  },
+  "sources": [
+    "https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf",
+    "https://content.naic.org/sites/default/files/inline-files/prod_serv_marketreg_rii_zb.pdf",
+    "https://www.soa.org/globalassets/assets/files/edu/P-21-05.pdf"
+  ]
 }

@@ -1,47 +1,36 @@
-# AMG Part 2 — coordinator review
+# Part 2 — Risk pooling and group estimates
 
-Review lesson: https://amg-exam-portal.netlify.app/course/lesson-02/
+Rebuilt September 12, 2026 for review at https://amg-exam-portal.netlify.app/course/lesson-02/.
 
-Part 2 continues the fictional Daniel/Aisha meeting from Part 1. This is the next complete learning segment, with a 15-second scene, written teaching, an interactive group-size example and eight original practice questions. Production pauses here for review before Part 3.
+## The lesson
 
-## Learning scope
+A 3:19 narrated video continues Marcus’s situation from Part 1. It uses the approved client still and 11 authored animated scenes, with Gideon narration, the circular AMG logo and 54 caption cues. All spoken words are off-screen narration; no new talking-avatar footage was generated. The repeated footer label has been omitted to keep the caption area clear. Inline mobile captions sit below the video, with a hide/show button; desktop and fullscreen keep native captions.
 
-- Risk pooling and the insurer’s contractual obligation to pay covered benefits.
-- The law of large numbers: greater predictability of average experience in a group of comparable, largely independent exposures; no guarantee about individuals or exact claim counts.
-- Adverse selection, including its distinction from dishonesty, and underwriting’s role in evaluating and classifying risk.
+The video covers risk pooling, the insurer’s contractual obligation, the law of large numbers, expected versus actual claims, adverse selection and the role of underwriting. The eight original formative questions now each have four options. They open when the video ends; all eight must be correct after explanations and retries before the learner can finish Part 2. First answers and retry counts are recorded separately.
 
-No health content or new state-specific legal rules are introduced. This covers selected general-insurance concepts, not all of Maryland outline section 2.1.
+The interactive pooling lab remains available below the video. It compares 100, 1,000 and 10,000 lives with a fictional annual claim probability of 1%, a $100,000 benefit and an optional single additional claim. Expected counts are 1, 10 and 100; with one added claim, illustrated rates are 2%, 1.1% and 1.01%. Expected benefits per person remain $1,000. These are invented assumptions, not mortality data, prices or a random simulation. The one-extra-claim comparison illustrates sensitivity; it is not a proof or guarantee of the law of large numbers.
 
-## Visual direction
+## Review priorities
 
-Daniel is Latino and Aisha is Black, continuing the established cast and office. The scene reverses to Aisha’s reply. The gold circular AMG monogram appears at bottom-left with room above the player controls, replacing the temporary letters. The artwork comes from `Acefayad2/amg-wealth/assets/brokers/amg-mark.webp`; a copy is preserved at `public/course/assets/amg-mark.webp`. It is placed at its original 195 × 183 pixel size without stretching. Titles identify Risk pooling and Law of large numbers at the corresponding dialogue. English captions are selectable in the player, with a transcript available below it. Titles and branding are added in post-production; the website contains the questions and numerical example.
+- Is the pace clear for a new agent, especially the expected-versus-actual distinction?
+- Are pooling, group predictability, adverse selection and underwriting kept distinct?
+- Does every question have one best answer supported by the teaching?
+- Are captions and animated number changes clear in the actual player?
 
-## Check during review
+Review Part 2 before beginning Part 3. The proposed next part covers risk-handling methods, insurable-risk characteristics and reinsurance.
 
-1. Does this feel like a natural continuation of Part 1, and is the explanation clear for a new agent?
-2. Are the voices, casting, pacing and AMG/title placement appropriate for the company?
-3. Does the numerical example make “expected” versus “actual” clear without implying a premium quote?
-4. Is adverse selection clearly separated from lying, and is the underwriting explanation appropriately limited?
-5. Is every question supported by the lesson, with useful explanations for incorrect options?
+## Production and cost
 
-## Numerical illustration
+This rebuild used **18.7 credits**, balance 8,872 → 8,853.3, entirely for six narration sections. Reused images, native graphics, logo placement, captions and website questions used no generation credits. The earlier 15-second Part 2 prototype cost 37.5 credits; it remains in GitHub history and is no longer the current video.
 
-Invented annual death-claim probability: 1%; benefit: $100,000; group sizes: 100, 1,000 and 10,000. Expected counts are 1, 10 and 100. Adding exactly one illustrative claim gives rates of 2%, 1.1% and 1.01%. Expected benefits per person remain $1,000 at all sizes. These are learning assumptions, not mortality estimates or prices. The comparison demonstrates sensitivity; it is not a random simulation or a proof of the law of large numbers. Expenses, reserves, capital and investment effects are excluded and disclosed.
+The complete script, generation receipts, measured speech transcripts and editable project are recorded in part-02-script.md and part-02-manifest.json. The archive contains the authoring source, media, narration timing and render command. It is a file archive rather than a hosted editor link.
 
-## Validation and credit record
+## Sources and scope
 
-### Ending correction after user review
+- [Prometric Maryland Life Producer outline](https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf), section 2.1 explicitly lists law of large numbers and adverse selection. Pooling is a supporting explanation. Introductory underwriting also connects to section 3.9.
+- [NAIC: A Regulator’s Introduction to the Insurance Industry](https://content.naic.org/sites/default/files/inline-files/prod_serv_marketreg_rii_zb.pdf), printed pages 6–7 and 10–11, supports pooling, selection and risk classification.
+- [Society of Actuaries: Risk and Insurance](https://www.soa.org/globalassets/assets/files/edu/P-21-05.pdf), supports expected loss and relative variability for independent exposures.
 
-The user identified a lip-sync defect near the end: Aisha’s lips stopped moving before the final sentence finished. The initial decoding and transcription checks did not catch this visual error. The corrected edit cuts at 12.5 seconds to a cropped, existing shot of Daniel listening while Aisha’s original voice completes the sentence off-screen. This removes the visible mismatch; it does not regenerate or repair the actor’s lip animation. The second title fades out by 12.3 seconds so it does not obscure Daniel in the closer reaction shot. The original audio and caption timings are preserved. Decoded audio hashes match, and no new generation was submitted. Credit balance remains 8,925. The release procedure now explicitly requires checking visible mouth movement through the last spoken word.
+Sources were checked September 12, 2026. These are general concepts, not a complete account of current Maryland underwriting rules. No health-insurance module is included. Scenarios and questions are original; no real exam items are reproduced. This lesson does not complete outline section 2.1 or guarantee a passing score.
 
-The source and branded MP4 pass full-file decoding. The final file is 1920×1080 H.264/AAC, 24fps, approximately 15 seconds. Speech recognition matched all scripted words. The caption cues use the measured dialogue timing. The eight-question flow passed correct/incorrect feedback, answer-lock, progress, completion, reload/resume and reset checks. Lesson 1 and Lesson 2 use separate progress keys. The pooling controls were checked at 100, 1,000 and 10,000 lives with the extra-claim switch on and off. A 390-pixel content-width check showed no horizontal document overflow. These checks do not replace coordinator approval or guarantee exam results.
-
-One Kling 3.0 Pro generation cost 37.5 credits. Balance before: 8,962.5; after: 8,925. No additional video generations were used for logo/title editing. Prices for future lessons still require per-job estimates.
-
-## Sources
-
-- [Prometric — Maryland Life Producer outline](https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf), section 2.1.
-- [NAIC — A Regulator’s Introduction to the Insurance Industry](https://content.naic.org/sites/default/files/inline-files/prod_serv_marketreg_rii_zb.pdf), printed pages 6–7 and 10–11; stable terminology, not current Maryland law.
-- [Society of Actuaries — Risk and Insurance](https://www.soa.org/globalassets/assets/files/edu/P-21-05.pdf), pooling and probability foundations.
-
-Original scenarios, figures and practice questions. No actual exam items are reproduced. Full media provenance and generation parameters are in docs/course/part-02-manifest.json. The editable archive holds a native Higgsedit project, not an online editing URL; paths in the build script must be adapted when moving it to another environment.
+Progress is stored in this browser. The new version 2 does not inherit completion from the earlier prototype and does not affect Part 1. The video-ended gate permits seeking; it is not full watch-time verification or account-backed certification.
