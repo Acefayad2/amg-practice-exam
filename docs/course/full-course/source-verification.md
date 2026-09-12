@@ -150,3 +150,9 @@ Read current §1035 and Regulation §1.1035-1, the full Revenue Ruling 2007-24 a
 ## Media and release checkpoint — September 12, 2026
 
 Parts 47–50 passed all eight visual-layout inspections, full six-section narration review, complete rendered-file decode and 14 browser checks each. Returned optional analyses for Parts 37–40 were read; copies are retained next to the manifests. Parts 1–48 were pushed in GitHub commit e9b140c and deployed as Netlify 6aa510213e51c86c4b6a6c0d; production Part 48 data and its expected video were independently verified with HTTP 200. Later checked parts remain local until the next checkpoint. A temporary Vite dist-cleanup ENOTEMPTY error was resolved by using a fresh explicit verification output directory; the complete build to output/verify-course-50 passed.
+
+## Parts 57–60 and final foundation correction — September 12, 2026
+
+Checked IRS qualification, vesting, plan distributions, RMDs, SEP, self-employed plans, profit sharing, SIMPLE and 403(b) primary guidance, including current SECURE 2.0 exceptions and Roth SEP/SIMPLE availability. Qualification, ownership and access are separate; no obsolete annual contribution limits were used in these lessons. The workshops apply previously checked Maryland policy/replacement/annuity and federal tax rules with explicit fictional facts. Part 4 adds unauthorized-insurer teaching and a question supported by Maryland Insurance §4–203, including the distinction between the ordinary prohibition and actual statutory exceptions.
+
+Part 57 repairs a clipped opening word and removes an unwanted generated phrase before final pacing/transcription review. Part 60 removes an accidental repeated phrase. Native label edits remove overlap in both parts. Parts 58–59 passed independent speech and layout review; zero-duration ASR hallucinations were distinguished from actual spoken additions.

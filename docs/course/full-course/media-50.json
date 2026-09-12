@@ -29,7 +29,7 @@
     "decode": "Complete FFmpeg decode passed.",
     "speech": "All six sections compared with the script via complete transcription; Part 50 loan wording checked again with small.en.",
     "analysis": "Optional whole-video service queued; independent speech, frame and file checks passed.",
-    "player": "Chromium: all 14 required-question, native ended-event, wrong-answer/retry, first-attempt history, playback resume, completion reload, caption and mobile dialog checks passed without page errors."
+    "player": "Chromium: all 14 media, native ended-event, required-question, feedback, retry, first-answer history, resume, saved completion, caption and mobile-dialog checks passed without errors."
   },
   "status": "ready",
   "coordinatorApproval": null

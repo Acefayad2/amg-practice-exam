@@ -1,11 +1,12 @@
 window.AMG_LESSON = {
   "number": 4,
   "id": "04",
-  "version": 1,
+  "version": 2,
   "title": "Insurers and distribution",
   "subtitle": "Ownership, location and authorization answer different questions.",
   "outline": [
-    "2.2"
+    "2.2",
+    "1.2"
   ],
   "objectives": [
     "Classify an insurer by ownership, domicile and authorization.",
@@ -24,6 +25,10 @@ window.AMG_LESSON = {
     {
       "title": "Maryland insurer search",
       "url": "https://insurance.maryland.gov/Consumer/Pages/CompanySearchInstructions.aspx"
+    },
+    {
+      "title": "Maryland Insurance §4-203",
+      "url": "https://mgaleg.maryland.gov/mgawebsite/laws/StatuteText?article=gin&section=4-203"
     }
   ],
   "blocks": [
@@ -189,6 +194,14 @@ window.AMG_LESSON = {
     }
   ],
   "notes": [
+    {
+      "title": "Acting for an unauthorized insurer is a separate violation",
+      "text": "Maryland Insurance §4-203 generally prohibits directly or indirectly acting for or assisting an unauthorized insurer with Maryland risks, including soliciting or negotiating coverage, collecting premiums and otherwise transacting insurance. The statute identifies specific exceptions. A producer license, insurer rating or customer consent does not by itself create one.",
+      "example": "For an ordinary Maryland life placement with no applicable exception, decline the transaction and verify insurer and producer authority before proceeding.",
+      "topics": [
+        "1.2.03"
+      ]
+    },
     {
       "title": "Government programs remain separate",
       "text": "Programs such as federal employees’ group life and veterans’ life coverage have specific eligibility, enrollment and continuation rules. They are not substitutes for verifying a private insurer’s certificate of authority. Government life programs are taught further in Part 31.",
@@ -378,6 +391,27 @@ window.AMG_LESSON = {
         "2.2.05"
       ],
       "review": 4
+    },
+    {
+      "id": "L04-09",
+      "prompt": "A Maryland producer is asked to solicit an ordinary life policy for an unauthorized insurer, with no statutory exception applying. What should the producer do?",
+      "options": [
+        "Proceed because the producer’s license authorizes every insurer.",
+        "Proceed if the insurer has a strong financial rating.",
+        "Collect the premium but avoid signing the application.",
+        "Decline to act for the unauthorized insurer and verify lawful authority."
+      ],
+      "answer": 3,
+      "explanations": [
+        "Producer licensing does not authorize the insurer.",
+        "Financial ratings do not replace legal authority.",
+        "Collecting premiums can itself be prohibited assistance.",
+        "Section 4-203 prohibits this assistance when no exception applies."
+      ],
+      "topics": [
+        "1.2.03"
+      ],
+      "review": 3
     }
   ],
   "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/c6e73f6a-5152-4e9f-b663-55e136d6b355.mp4",

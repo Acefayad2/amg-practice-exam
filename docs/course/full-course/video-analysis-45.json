@@ -1,0 +1,219 @@
+{
+  "result": {
+    "id": "b9b008ec-797d-4d4c-a3e8-c5ed3deb0a76",
+    "video_input_id": "eed66089-d88a-4e69-b7c6-c99f3f090085",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/eed66089-d88a-4e69-b7c6-c99f3f090085.mp4",
+    "scenes": [
+      {
+        "audio": "Rosa has a lump sum available and wants retirement payments to begin next month. A single premium immediate annuity uses one contribution to establish income beginning within one year of purchase.",
+        "label": "Opening Hook",
+        "visual": "A static medium shot shows a senior woman (~65, light brown complexion, wavy grey hair, white long-sleeve button-down blouse, silver watch on her left wrist) and a senior man (~65, dark complexion, short grey hair, trimmed grey beard, black short-sleeved polo shirt) seated at a dark wooden table. The woman leans forward, pointing her right index finger at a white document held by the man. The man holds the paper with both hands and touches his chin thoughtfully with his right hand. A dark green ceramic mug is on the table. The background is a warm-toned living room with a large window and indoor plants. The lighting is soft and natural from the side, with warm highlights and gentle shadows. The color grading is natural with saturated wood tones.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:07",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "Now change the facts. David places a lump sum into a contract but plans income for ten years later. That is deferred income, even though he paid only once.",
+        "label": "Product Information",
+        "visual": "A static wide graphic on a cream-colored background features a teal header. A white box appears on the left labeled Rosa with dark grey text describing her single premium and next-month income. A second box labeled David appears in the center describing his single premium and ten-year income plan. The lighting is flat and artificial. The color palette is restricted to teal, cream, white, and dark grey.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:22",
+        "timestamp_start": "0:07"
+      },
+      {
+        "audio": "Immediate and deferred describe income timing. Single and periodic describe how money goes into the contract. Keep those classifications separate.",
+        "label": "Product Information",
+        "visual": "The graphic adds a third box on the right titled Separate questions with bullet points regarding funding and income start dates. The framing is centered and static. The typography is a clean sans-serif font.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:37",
+        "timestamp_start": "0:22"
+      },
+      {
+        "audio": "Also, distinguish the beginning of payments from their duration. An immediate annuity can provide a stated period or a lifetime pattern under its selected option.",
+        "label": "Product Information",
+        "visual": "The graphic remains static while focus is drawn to the distinction between the beginning of payments and their duration. The background remains clean with flat digital lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:45",
+        "timestamp_start": "0:37"
+      },
+      {
+        "audio": "A single premium deferred annuity starts with one contribution and postpones income. A flexible premium deferred design permits contributions that vary within the contract's limits.",
+        "label": "Product Selling Points",
+        "visual": "The screen transitions to a new graphic titled Premium patterns describe the money going in. Three white boxes appear labeled Single premium, Flexible premiums, and Scheduled premiums. Text describes one contribution, permitted variation, and defined payment patterns respectively.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "1:00",
+        "timestamp_start": "0:45"
+      },
+      {
+        "audio": "A scheduled or fixed installment design instead specifies a payment pattern. Do not confuse a fixed premium schedule with a fixed interest guarantee.",
+        "label": "Product Selling Points",
+        "visual": "The graphic continues to show the Scheduled premiums box. The layout is balanced with teal accents against the cream background. Lighting is consistent and even.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:15",
+        "timestamp_start": "1:00"
+      },
+      {
+        "audio": "One describes funding and the other describes the contract's credited return. David should check minimum payments, whether later contributions are accepted, and whether each new contribution begins its own surrender charge period.",
+        "label": "Product Selling Points",
+        "visual": "Additional text appears at the bottom of the graphic explaining the difference between funding and credited returns. The shot remains static and informative.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:30",
+        "timestamp_start": "1:15"
+      },
+      {
+        "audio": "Stopping contributions is not the same event as surrendering the contract. Existing value and available benefits must be evaluated under the issued provisions.",
+        "label": "Product Selling Points",
+        "visual": "The graphic adds a note about surrendering vs stopping contributions. The color grading stays consistent with high-contrast dark text on a light background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:45",
+        "timestamp_start": "1:30"
+      },
+      {
+        "audio": "Assume David's annuity has a $100,000 account value. The question states that surrendering today incurs a 5% charge on the entire amount with no free allowance, market adjustment, or other charge.",
+        "label": "Usage Scenarios",
+        "visual": "A new graphic appears titled Available cash can differ from the account value. A central box shows the math: $100,000 multiplied by 5 percent. A teal box below labels the $5,000 as a stated surrender charge.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "2:00",
+        "timestamp_start": "1:45"
+      },
+      {
+        "audio": "The charge is $5,000, leaving $95,000 before any tax. This is an insurer charge, not the federal additional tax on certain early distributions.",
+        "label": "Usage Scenarios",
+        "visual": "The graphic updates to show a result of $95,000. A side box labeled Separate review appears on the right detailing insurer charges and federal tax.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "2:10",
+        "timestamp_start": "2:00"
+      },
+      {
+        "audio": "Some contracts permit limited withdrawals without a surrender charge, but the percentage, timing, and calculation base vary. Read which cost is waived before promising what David will actually keep.",
+        "label": "Usage Scenarios",
+        "visual": "The graphic concludes with text regarding limited withdrawals and tax consequences. The background is cream with teal highlights.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "2:18",
+        "timestamp_start": "2:10"
+      },
+      {
+        "audio": "Nonforfeiture provisions preserve specified benefits when contributions stop or the owner exercises a permitted option for contracts within Maryland's individual deferred annuity law.",
+        "label": "Problem Solving",
+        "visual": "A flowchart graphic titled Nonforfeiture does not promise an unrestricted full refund appears. Box 01 shows Contributions stop and Apply the issued nonforfeiture provisions. An arrow points to Box 02.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:33",
+        "timestamp_start": "2:18"
+      },
+      {
+        "audio": "The required provisions address paid-up annuity benefits and applicable surrender values. A paid-up deferred benefit uses the value already built to support a later benefit without further contributions.",
+        "label": "Problem Solving",
+        "visual": "Box 02 appears: Preserved benefit, mentioning paid-up annuity or applicable surrender value. The graphic uses a clean horizontal layout.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:48",
+        "timestamp_start": "2:33"
+      },
+      {
+        "audio": "It is not automatically a refund of every premium on demand. Maryland's minimum calculation uses defined net considerations, interest, and adjustments. It is not simply the current advertised rate applied to every deposit.",
+        "label": "Problem Solving",
+        "visual": "Box 03 appears: Correct scope, warning not to apply one law to every annuity. Additional text below discusses Maryland's minimum calculation methods.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "3:00",
+        "timestamp_start": "2:48"
+      },
+      {
+        "audio": "The law also has scope exceptions, including variable and immediate annuities. Apply the correct contract category before importing a minimum value rule.",
+        "label": "Problem Solving",
+        "visual": "The graphic lists scope exceptions including variable and immediate annuities. The shot is static with flat artificial lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "3:06",
+        "timestamp_start": "3:00"
+      },
+      {
+        "audio": "A bailout provision can allow withdrawal without the stated surrender charge if the insurer's renewal rate falls below a contract-defined level. Suppose the fictional provision sets a 3% threshold and the new credited rate is 2.5%.",
+        "label": "Real Experience",
+        "visual": "A new graphic screen titled A bailout clause is a conditional exit right appears. Boxes show a 3% hypothetical bailout threshold and a 2.5% new rate.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:20",
+        "timestamp_start": "3:06"
+      },
+      {
+        "audio": "The stated rate condition is met, but David must still follow the election window and other terms. A lower rate that remains above the threshold does not satisfy that example.",
+        "label": "Real Experience",
+        "visual": "The graphic adds a Read the election box on the right listing window and eligible value criteria. Colors are cream, teal, and dark grey.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:35",
+        "timestamp_start": "3:20"
+      },
+      {
+        "audio": "Not every annuity has a bailout clause and some designs use a rate cap rather than a credited interest rate.",
+        "label": "Real Experience",
+        "visual": "Text appears explaining that not every annuity has a bailout clause and mentioning rate caps. Lighting is flat and digital.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "3:45",
+        "timestamp_start": "3:35"
+      },
+      {
+        "audio": "A contractual waiver does not erase federal income tax or every possible adjustment unless the applicable rule says so.",
+        "label": "Real Experience",
+        "visual": "The final text on this graphic notes that contractual waivers do not erase federal income tax. Static framing.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "3:55",
+        "timestamp_start": "3:45"
+      },
+      {
+        "audio": "Before income begins, a deferred contract may provide a death benefit based on account value, adjusted premiums, or another stated guarantee.",
+        "label": "Usage Scenarios",
+        "visual": "The video cuts back to the senior woman and the senior man at the wooden table. The framing, appearance, and environment are identical to the first scene. The woman continues pointing at the document while the man looks down thoughtfully. The warm, soft side-lighting remains consistent.",
+        "shot_type": "Medium Shot",
+        "scene_number": 20,
+        "timestamp_end": "4:03",
+        "timestamp_start": "3:55"
+      },
+      {
+        "audio": "Suppose the contract promises the greater of $80,000 of eligible adjusted premiums or $90,000 of current account value. With no other adjustment, the stated benefit is $90,000.",
+        "label": "Call to Action",
+        "visual": "The final graphic screen titled Death during accumulation requires the actual benefit formula appears. Boxes show $80,000 for eligible adjusted premiums and $90,000 for current account value, leading to a $90,000 benefit.",
+        "shot_type": "Wide Shot",
+        "scene_number": 21,
+        "timestamp_end": "4:18",
+        "timestamp_start": "4:03"
+      },
+      {
+        "audio": "That is not automatically income tax-free life insurance proceeds merely because payment follows a death. After annuitization, the selected income option can produce a different outcome for survivors.",
+        "label": "Call to Action",
+        "visual": "Textual warnings about income tax-free life insurance proceeds and annuitization outcomes appear on the graphic. The color palette is restricted to teal and cream.",
+        "shot_type": "Wide Shot",
+        "scene_number": 22,
+        "timestamp_end": "4:33",
+        "timestamp_start": "4:18"
+      },
+      {
+        "audio": "Review the phase, the triggering person's death, and the formula. Funding, surrender, and death are separate events, so use the provision that matches the question.",
+        "label": "Call to Action",
+        "visual": "The graphic displays final summary points: Review the phase, triggering person's death, and formula. The framing is static until the end of the video.",
+        "shot_type": "Wide Shot",
+        "scene_number": 23,
+        "timestamp_end": "4:52",
+        "timestamp_start": "4:33"
+      }
+    ]
+  }
+}

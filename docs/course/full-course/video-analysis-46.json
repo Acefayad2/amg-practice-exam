@@ -1,0 +1,219 @@
+{
+  "result": {
+    "id": "7cbc41c8-b116-4433-acf3-a1e768a2919a",
+    "video_input_id": "c3613e83-b069-4222-956e-f2334e8bf537",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/c3613e83-b069-4222-956e-f2334e8bf537.mp4",
+    "scenes": [
+      {
+        "audio": "David compares annuity income options, using the same amount of money. Pure life, also called straight life or life only...",
+        "label": "Opening Hook",
+        "visual": "Static camera. In a bright living room with deep green walls and a large window in the background showing foliage, two people in their 60s sit at a wooden dining table. A woman with wavy shoulder-length grey hair, light complexion, wearing a cream blouse and small gold earrings, points at a white document. A man with short grey hair and beard, medium-dark complexion, wearing a brown polo shirt, rests his chin on his hand while reading the paper. A green ceramic mug sits on the table in the foreground. Soft natural lighting; warm color temperature with rich saturation.",
+        "shot_type": "Medium Close-Up",
+        "scene_number": 1,
+        "timestamp_end": "0:07",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "...pays for his covered lifetime and stops at his death, without an added refund or guaranteed payment period. If he dies soon after income begins...",
+        "label": "Product Information",
+        "visual": "A clean motion graphic on a cream-colored background with a teal header. Two rectangular boxes labeled Early death and Long life appear. The layout is minimalist with high-contrast text. Static framing with smooth fade-in animations for the text blocks. Neutral artificial lighting effect with a corporate, desaturated color palette.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:15",
+        "timestamp_start": "0:07"
+      },
+      {
+        "audio": "...a beneficiary does not automatically receive the amount he originally paid. If he lives much longer, lifetime payments continue under the promise.",
+        "label": "Product Selling Points",
+        "visual": "The graphic expands to include a third box labeled Comparison. Text detailing payment stops and continuation appears below the headings. The design remains static with sharp typography and ample white space. Colors are dominated by teal, black, and off-white.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:30",
+        "timestamp_start": "0:15"
+      },
+      {
+        "audio": "Compared with otherwise similar options that add survivor or refund guarantees, pure life generally provides a larger initial periodic payment. That comparison assumes the same funding and comparable contract terms. A larger check comes with a different protection pattern.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains on screen, focusing on the Comparison box which details how additional guarantees reduce initial income. The layout is balanced and static. Soft shadows are rendered under the boxes for depth.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:43",
+        "timestamp_start": "0:30"
+      },
+      {
+        "audio": "Now assume David chooses life income with 10 years certain. If he dies after exactly four years of payments, the remaining six years of guaranteed payments continue to the designated recipient under the option.",
+        "label": "Product Selling Points",
+        "visual": "Transition to a new graphic titled Life with a certain period. Three boxes appear sequentially: Life + 10 years certain, Still living after year 10, and 10 years only. The design aesthetic is consistent with the previous scenes. Static camera position.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:58",
+        "timestamp_start": "0:43"
+      },
+      {
+        "audio": "If he is still living after 10 years, his life payments continue. The 10 year period is a minimum payment guarantee, not a limit on his life income.",
+        "label": "Product Selling Points",
+        "visual": "The graphic highlights the middle box regarding survival past year 10. The background remains a stable cream color. Text is clear and centered. The visual is instructional and lacks movement.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:13",
+        "timestamp_start": "0:58"
+      },
+      {
+        "audio": "Compare that with a 10 year period certain only option. That option pays for the stated 10 years and ends even if David remains alive.",
+        "label": "Product Selling Points",
+        "visual": "Focus shifts to the rightmost box comparing the 10 years only option. The header and layout remain identical to the previous shot. The palette is muted and professional.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:28",
+        "timestamp_start": "1:13"
+      },
+      {
+        "audio": "The words life with change the result. Read whether the promise lasts for a lifetime, a defined period, or the longer of those two.",
+        "label": "Product Information",
+        "visual": "Graphic remains static, concluding the comparison between lifetime and fixed period guarantees. Text is displayed in a clean, sans-serif font.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:32",
+        "timestamp_start": "1:28"
+      },
+      {
+        "audio": "A life with refund option pays lifetime income and adds a stated minimum total protection if the annuitant dies early. Assume $100,000 is the contract's refundable purchase amount and $30,000 has been paid when David dies.",
+        "label": "Product Selling Points",
+        "visual": "New graphic titled Refund options protect a stated minimum total. A calculation box appears on the left with numbers $100,000 and $30,000. To the right, boxes for Cash refund and Installment refund appear. Static shot, high legibility.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:47",
+        "timestamp_start": "1:32"
+      },
+      {
+        "audio": "With no other adjustment, $70,000 remains under that refund promise. A cash refund option pays that amount in one sum.",
+        "label": "Product Selling Points",
+        "visual": "The graphic highlights the calculation showing $70,000 remaining. The Cash refund box is emphasized. Colors are consistent teal and cream. Static framing.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "2:02",
+        "timestamp_start": "1:47"
+      },
+      {
+        "audio": "An installment refund option continues the stated installments until the required total has been paid. Those beneficiary installments do not automatically last for the beneficiary's lifetime.",
+        "label": "Product Selling Points",
+        "visual": "The graphic now highlights the Installment refund box. The left calculation remains visible. The visual is instructional and static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "2:17",
+        "timestamp_start": "2:02"
+      },
+      {
+        "audio": "If David instead lives long enough to receive more than the purchase amount, his life income still continues under the contract.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains as the voiceover concludes the refund section. No new visual elements are added. Static frame.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:25",
+        "timestamp_start": "2:17"
+      },
+      {
+        "audio": "Rosa and David want income to continue while either of them lives. A joint and survivor option can provide that protection. Suppose the stated payment is $2,000 each month while both live, with 75% continuing to the survivor.",
+        "label": "Product Selling Points",
+        "visual": "New graphic titled For two lives, check the survivor's percentage. Boxes appear for monthly payments ($2,000) and the survivor multiplier (75%). High-contrast teal and black text on a cream background. Static camera.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:40",
+        "timestamp_start": "2:25"
+      },
+      {
+        "audio": "After the triggering death, the survivor receives $1,500 monthly under those assumptions. A full survivor option would continue the stated full amount.",
+        "label": "Product Selling Points",
+        "visual": "The graphic shows the calculation of $1,500 monthly for the survivor. A third box titled Check the contract appears on the right. Layout is balanced and static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "2:55",
+        "timestamp_start": "2:40"
+      },
+      {
+        "audio": "Other percentages produce different results. The words joint or two lives alone do not establish the continuation amount. Read whose death triggers a reduction and whether payments continue to the last survivor.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains, focusing on the contract check details like Trigger, percentage, and duration. Clean, static presentation.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "3:10",
+        "timestamp_start": "2:55"
+      },
+      {
+        "audio": "That is different from an arrangement expressly payable only while both people remain alive.",
+        "label": "Product Selling Points",
+        "visual": "The graphic concludes this section. No further visual changes. Static camera.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:16",
+        "timestamp_start": "3:10"
+      },
+      {
+        "audio": "A fixed period option sets the number of payment periods, and the available funds and stated interest assumptions determine the periodic amount. A fixed amount option instead sets the payment size...",
+        "label": "Product Selling Points",
+        "visual": "Graphic titled Fixed period and fixed amount fix different things. Two calculations appear side-by-side on the left, with a Fixed amount box on the right. Consistent minimalist design. Static framing.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:31",
+        "timestamp_start": "3:16"
+      },
+      {
+        "audio": "...with the available funds and interest determining how long payments can last. In a simplified zero interest example, $60,000 paid at $1,000 per month lasts 60 months. Changing the amount to $1,500 shortens that to 40 months.",
+        "label": "Product Selling Points",
+        "visual": "The graphic details the calculation: $60,000 divided by $1,000 equals 60 months, versus dividing by $1,500 for 40 months. Numerical data is presented clearly. Static layout.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "3:46",
+        "timestamp_start": "3:31"
+      },
+      {
+        "audio": "Those are teaching calculations, not lifetime guarantees or insurer quotes. A client who needs lifelong income must not mistake a chosen monthly withdrawal amount for a promise that money can never run out.",
+        "label": "Product Information",
+        "visual": "The graphic concludes with warnings about lifetime guarantees versus withdrawal amounts. The visual remains static on the cream and teal palette.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "4:00",
+        "timestamp_start": "3:46"
+      },
+      {
+        "audio": "Rosa asks whether the highest available initial payment is always the best choice. It is not.",
+        "label": "Real Experience",
+        "visual": "Static camera returning to the scene with Rosa and David. They are in the same positions as the opening scene at the wooden table. Rosa leans in slightly while talking. David is listening with a slight nod. Warm interior lighting with natural window light spill.",
+        "shot_type": "Medium Close-Up",
+        "scene_number": 20,
+        "timestamp_end": "4:07",
+        "timestamp_start": "4:00"
+      },
+      {
+        "audio": "Compare the need for income during one or two lifetimes, a minimum amount for beneficiaries, available cash elsewhere, and the effect of inflation.",
+        "label": "Call to Action",
+        "visual": "Final summary graphic titled Match the guarantee to the household's priority. A numbered list begins to populate with 01 Life and 02 Period. High legibility, minimalist corporate design. Static framing.",
+        "shot_type": "Wide Shot",
+        "scene_number": 21,
+        "timestamp_end": "4:22",
+        "timestamp_start": "4:07"
+      },
+      {
+        "audio": "A fixed dollar payment can buy less as prices rise, even when every promised payment arrives. The choice also depends on the specific contract because income elections and later access may be restricted.",
+        "label": "Call to Action",
+        "visual": "Items 03 Minimum total and 04 Payment size are added to the list on the graphic. The header and sidebar remain unchanged. Neutral lighting effect. Static layout.",
+        "shot_type": "Wide Shot",
+        "scene_number": 22,
+        "timestamp_end": "4:37",
+        "timestamp_start": "4:22"
+      },
+      {
+        "audio": "For an exam, identify what is guaranteed first: a life, a number of years, a minimum total, or a payment size. Then follow the stated death or survival event to determine which payments stop, continue, or change.",
+        "label": "Call to Action",
+        "visual": "The graphic is complete with the full checklist. The voiceover provides the final instruction. The video ends on this static informational slide. Cool-toned highlights on a warm cream base.",
+        "shot_type": "Wide Shot",
+        "scene_number": 23,
+        "timestamp_end": "4:54",
+        "timestamp_start": "4:37"
+      }
+    ]
+  }
+}

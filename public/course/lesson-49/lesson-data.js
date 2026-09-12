@@ -1,7 +1,7 @@
 window.AMG_LESSON = {
   "number": 49,
   "id": "49",
-  "version": 1,
+  "version": 2,
   "title": "Life insurance taxes: identify the event first",
   "subtitle": "Separate cash growth, dividends, loans, surrender, death proceeds and estate inclusion.",
   "outline": [
@@ -317,17 +317,17 @@ window.AMG_LESSON = {
       "id": "L49-03",
       "prompt": "An ordinary loan from an in-force non-MEC life policy is generally not taxable when made. What can change the later tax result?",
       "options": [
-        "Merely receiving an annual statement",
-        "Merely changing a mailing address",
-        "Merely keeping the loan balance unchanged for one day",
+        "Changing only the revocable beneficiary, without transferring ownership",
+        "Continuing the same loan while the non-MEC policy remains in force",
+        "Repaying the loan principal from outside funds",
         "A later lapse or surrender discharging policy debt"
       ],
       "answer": 3,
       "explanations": [
-        "A statement is not the event described.",
-        "An address update does not establish a taxable distribution.",
-        "That fact alone does not establish the later event.",
-        "Debt discharge can count in the distribution and create gain."
+        "A beneficiary-only change is not the stated distribution or debt-discharge event.",
+        "The described continuing loan is not the later termination event.",
+        "Repaying principal does not itself create a policy distribution to the owner.",
+        "Debt discharge can be included in the distribution and create taxable gain."
       ],
       "topics": [
         "7.1.03",
@@ -424,16 +424,16 @@ window.AMG_LESSON = {
       "prompt": "A buyer acquires a life policy for valuable consideration. What should be checked before promising a fully income-tax-free death payment?",
       "options": [
         "The transfer-for-value and reportable-policy-sale rules and applicable exceptions",
-        "Only whether the buyer changed its mailing address",
-        "Only the policy’s paper or electronic format",
-        "Only whether the death claim is paid on a business day"
+        "Only whether the insured’s death was from a covered cause",
+        "Only whether premiums were paid with after-tax money",
+        "Only whether the buyer kept the policy beyond the contestability period"
       ],
       "answer": 0,
       "explanations": [
-        "These rules can limit the ordinary death-benefit exclusion.",
-        "An address does not resolve the tax limitation.",
-        "Document format does not resolve it.",
-        "Payment weekday does not resolve it."
+        "These transfer rules can limit the ordinary income-tax exclusion.",
+        "A payable contractual claim does not settle the tax treatment after a transfer.",
+        "After-tax premiums do not by themselves eliminate transfer-related limitations.",
+        "Incontestability concerns policy validity rather than these income-tax transfer rules."
       ],
       "topics": [
         "7.1.05"

@@ -1,0 +1,192 @@
+{
+  "result": {
+    "id": "9b792c46-eeef-4c4a-b8fd-8f2474b568ec",
+    "video_input_id": "b6bc9a0d-c537-4ba9-899d-7a5c76199876",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/b6bc9a0d-c537-4ba9-899d-7a5c76199876.mp4",
+    "scenes": [
+      {
+        "audio": "Elena compares four optional features on a life policy. One adds money after a qualifying accidental death.",
+        "label": "Opening Hook",
+        "visual": "A man approximately 40 years old with a dark complexion, short dark hair, and a groomed beard wearing a navy blue button-up shirt sits next to a woman approximately 35 years old with a tan complexion and long dark hair wearing an olive green button-up shirt. They are seated at a wooden dining table in a brightly lit kitchen environment, looking at white documents. A silver laptop, a dark leather notebook, and a ceramic mug are on the table. The lighting is warm and natural coming from the side.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:07",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "Another preserves opportunities to purchase more protection even if health changes. A third adjusts coverage using an inflation measure.",
+        "label": "Product Selling Points",
+        "visual": "A static graphic with a light beige background. A table appears with rows listing policy benefits. The first three rows are visible: Accidental death, Future insurability, and Inflation adjustment. The text is dark gray with clear spacing.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:22",
+        "timestamp_start": "0:07"
+      },
+      {
+        "audio": "A fourth adds a death benefit linked to premiums under its formula. These features solve different problems.",
+        "label": "Product Selling Points",
+        "visual": "The same graphic continues, adding a fourth row: Premium-linked benefit. The layout remains clean with a teal header bar at the top and minimal design elements.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:36",
+        "timestamp_start": "0:22"
+      },
+      {
+        "audio": "The word rider does not mean every feature pays cash immediately or lasts as long as the base policy.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains static on the full list of four benefits. The camera does not move. The background is a flat, off-white/beige color with subtle horizontal separators between the rows.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:46",
+        "timestamp_start": "0:36"
+      },
+      {
+        "audio": "Identify the covered event, the amount, the election conditions, and the ending provisions. Then read the cost. Assume a covered $200,000 base death benefit and a $50,000 accidental death rider.",
+        "label": "Product Selling Points",
+        "visual": "New graphic transition. A large dollar amount $200,000 appears in a white card on the left side of the screen. A second card with a plus sign and $50,000 appears next to it. The background is a light cream color with a dark teal header.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "1:01",
+        "timestamp_start": "0:46"
+      },
+      {
+        "audio": "If the death meets both provisions and no adjustment applies, the total is $250,000. It is not automatically $400,000.",
+        "label": "Product Selling Points",
+        "visual": "A third card appears on the right showing the total $250,000. The layout is horizontal, showing the mathematical progression. A small crest logo is visible in the bottom left corner.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:16",
+        "timestamp_start": "1:01"
+      },
+      {
+        "audio": "Double indemnity describes a design that adds an amount equal to the base benefit. Other designs add different amounts.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains on the calculation. Brief animation as some text labels below the boxes are highlighted. The lighting in the graphic is simulated to be soft and even.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:32",
+        "timestamp_start": "1:16"
+      },
+      {
+        "audio": "A guaranteed insurability rider allows specified additional insurance without new evidence of insurability at stated opportunities.",
+        "label": "Product Selling Points",
+        "visual": "Graphic changes to show three boxes connected by teal arrows representing a workflow. The first box labeled 'Active option right' is white, while the others are dark teal. The background remains the same light cream color.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:47",
+        "timestamp_start": "1:32"
+      },
+      {
+        "audio": "Those may be scheduled ages or qualifying events such as marriage, birth, or adoption. The actual rider determines which opportunities apply.",
+        "label": "Product Selling Points",
+        "visual": "The workflow graphic updates. The second box, 'Timely election', is now highlighted. Small text appears underneath each box explaining the criteria for each step.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "2:02",
+        "timestamp_start": "1:47"
+      },
+      {
+        "audio": "Suppose the active rider permits a $25,000 increase at the next option date. A health change does not automatically remove that protected opportunity.",
+        "label": "Product Selling Points",
+        "visual": "The third box, 'Additional coverage', is highlighted. The graphic is static, showing the complete three-step process for the insurability rider.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "2:14",
+        "timestamp_start": "2:02"
+      },
+      {
+        "audio": "An inflation rider adjusts the insured amount. A cost-of-living rider can increase life coverage using a stated inflation measure, often the consumer price index.",
+        "label": "Product Selling Points",
+        "visual": "Graphic transition to an inflation rider calculation. A white box on the left shows $100,000 multiplied by 3%. The layout uses clean, modern typography and plenty of white space.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "2:29",
+        "timestamp_start": "2:14"
+      },
+      {
+        "audio": "Suppose the question provides a 3% increase on $100,000 of coverage. $3,000 is the increase, so the new amount is $103,000.",
+        "label": "Product Selling Points",
+        "visual": "A second white box appears on the right showing the resulting total of $103,000. A third box labeled 'Costs' appears below them, detailing additional information.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:44",
+        "timestamp_start": "2:29"
+      },
+      {
+        "audio": "This is a coverage calculation, not a 3% cash dividend or guaranteed investment return.",
+        "label": "Product Selling Points",
+        "visual": "The inflation rider graphic remains on screen. The camera is static. The teal header text is clearly legible at the top of the frame.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:53",
+        "timestamp_start": "2:44"
+      },
+      {
+        "audio": "A return of premium death benefit rider can add an amount related to premiums to the death benefit when the insured dies.",
+        "label": "Product Selling Points",
+        "visual": "Graphic transition to 'Return of premium' details. Three colored boxes appear horizontally: white, teal, and beige. Each box contains text describing promises and survival features.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "3:08",
+        "timestamp_start": "2:53"
+      },
+      {
+        "audio": "Assume the fictional contract provides a $200,000 base benefit plus $12,000 of eligible accumulated premiums. The total is $212,000.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains static on the three boxes. Small text at the bottom of the boxes provides further definitions for 'Formula and conditions'.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "3:23",
+        "timestamp_start": "3:08"
+      },
+      {
+        "audio": "Read the formula because withdrawals and charges can affect the rider amount. This differs from return of premium term insurance.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains on the return of premium details. The overall color palette is professional, using teal, beige, and white against a light gray-beige background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:39",
+        "timestamp_start": "3:23"
+      },
+      {
+        "audio": "Now Elena asks which feature addresses concern about becoming difficult to insure later.",
+        "label": "Usage Scenarios",
+        "visual": "Return to the live-action scene of the man in the navy shirt and the woman in the olive green shirt. They are in the same position as before, leaning over the table and looking intently at the paperwork. The woman points to a specific line on the document.",
+        "shot_type": "Medium Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:46",
+        "timestamp_start": "3:39"
+      },
+      {
+        "audio": "A defined guaranteed insurability opportunity directly addresses that concern. An accidental death benefit addresses a different cause of death condition.",
+        "label": "Product Selling Points",
+        "visual": "Final summary graphic. A list with four points appears: Event, Right or payment, Conditions, and Calculation. The background is cream with a teal top bar. Text is black and dark gray.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "4:01",
+        "timestamp_start": "3:46"
+      },
+      {
+        "audio": "On an exam, underline the event and the requested result. Then calculate only the amounts that the facts trigger.",
+        "label": "Product Selling Points",
+        "visual": "The summary graphic remains. A small magnifying glass icon appears briefly next to the 'Conditions' row as the voiceover mentions exam tips.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "4:16",
+        "timestamp_start": "4:01"
+      },
+      {
+        "audio": "Check whether the option must be elected and whether a deadline, exclusion, or coverage limit changes the answer.",
+        "label": "Product Selling Points",
+        "visual": "The summary graphic stays until the end of the video. The frame is clean and static, focused on the instructional text. The crest logo in the bottom left corner remains throughout.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "4:32",
+        "timestamp_start": "4:16"
+      }
+    ]
+  }
+}

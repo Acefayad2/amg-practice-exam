@@ -133,7 +133,7 @@
         const item = el('li'); item.append(el('strong',String.fromCharCode(65 + i) + '. ' + option + ' '),document.createTextNode(question.explanations[i])); list.append(item);
       });
       feedback.append(list);
-      const review = el('a','Revisit the explanation in the lesson'); review.href = '#section-' + question.review;
+      const review = el('a','Revisit the explanation in the lesson'); review.href = '#' + (typeof question.review === 'number' ? 'section-' + question.review : question.review);
       review.addEventListener('click',() => dialog.close()); feedback.append(review); box.append(feedback);
       if (!correct) {
         const retry = el('button','Try this question again','primary'); retry.type = 'button';

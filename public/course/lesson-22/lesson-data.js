@@ -1,7 +1,7 @@
 window.AMG_LESSON = {
   "number": 22,
   "id": "22",
-  "version": 1,
+  "version": 2,
   "title": "Classify coverage and understand its price",
   "subtitle": "Keep product labels separate and see how mortality, interest and expenses shape premiums.",
   "outline": [
@@ -432,16 +432,16 @@ window.AMG_LESSON = {
       "prompt": "Which issue must be considered when converting a single funding amount into a level annual premium calculation?",
       "options": [
         "The timing and likelihood of future premium payments, as well as interest",
-        "Only dividing by an arbitrary number of years",
-        "Only the producer’s appointment date",
-        "Only the beneficiary’s mailing address"
+        "Dividing the net single premium by the number of scheduled payments without discounting",
+        "Adding acquisition expenses while ignoring the time value of later payments",
+        "Assuming all scheduled life-contingent premiums will be paid regardless of death"
       ],
       "answer": 0,
       "explanations": [
         "A future premium stream has timing and mortality-related payment conditions.",
-        "That shortcut ignores key valuation factors.",
-        "Appointment timing does not perform the premium valuation.",
-        "The mailing address is not the required pricing principle."
+        "A simple division omits present value and payment-contingency factors.",
+        "Expenses matter to gross pricing but do not replace premium-stream valuation.",
+        "The likelihood that later payments are made must be considered."
       ],
       "topics": [
         "3.7.04",

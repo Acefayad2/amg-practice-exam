@@ -29,7 +29,7 @@
     "decode": "Complete FFmpeg decode passed.",
     "speech": "All six sections compared; small.en confirmed the unclear base.en transcription of Annual without another generation.",
     "analysis": "Completed scene analysis reviewed against script and native timing; no unresolved discrepancy. Timings in the analysis are approximate, so native timing and speech checks determine synchronization.",
-    "player": "Chromium check passed: native video end, all 8 required questions, wrong-answer retry, saved first answers, resume and completion reload, mobile captions and dialog; no JavaScript errors."
+    "player": "Chromium: all 14 media, native ended-event, required-question, feedback, retry, first-answer history, resume, saved completion, caption and mobile-dialog checks passed without errors."
   },
   "status": "ready",
   "coordinatorApproval": null

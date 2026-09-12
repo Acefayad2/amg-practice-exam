@@ -1,7 +1,7 @@
 window.AMG_LESSON = {
   "number": 53,
   "id": "53",
-  "version": 1,
+  "version": 2,
   "title": "Traditional IRAs: contribution, deduction and withdrawal",
   "subtitle": "Keep eligibility, current tax savings and later distributions separate.",
   "outline": [
@@ -286,17 +286,17 @@ window.AMG_LESSON = {
       "id": "L53-03",
       "prompt": "A taxpayer is covered by a workplace retirement plan. What should be checked before promising a deduction for a traditional IRA contribution?",
       "options": [
-        "Only the name of the institution",
-        "Only whether an annuity funds the IRA",
+        "Only whether the contribution is below the regular annual dollar limit",
+        "Only whether the taxpayer has qualifying compensation",
         "Filing status, modified AGI and the applicable coverage rules",
-        "Whether the contribution is made in one payment"
+        "Only whether the IRA is funded by a traditional fixed annuity"
       ],
       "answer": 2,
       "explanations": [
-        "The institution does not settle deduction eligibility.",
-        "Funding form alone does not settle the deduction.",
-        "The deduction rules use these facts.",
-        "Payment frequency does not replace the statutory tests."
+        "The dollar limit does not settle deduction phaseouts.",
+        "Compensation relates to contribution eligibility, not the entire deduction analysis.",
+        "These facts control the relevant deduction restrictions.",
+        "The funding investment alone does not settle deductibility."
       ],
       "topics": [
         "7.4.01"

@@ -213,7 +213,7 @@ export default function ResultsScreen({ exam, results, onRetry, onHome }) {
               <div style={{ background: '#EBF3FB', borderRadius: 12, padding: '20px 24px', lineHeight: 1.6 }}>
                 <h4 style={{ color: BLUE, marginBottom: 8 }}>Your next study step</h4>
                 <p>Review missed and unanswered concepts, then try new scenarios. Repeating this fixed drill can improve memory without proving mastery. It does not cover every exam topic.</p>
-                <p><a href="/course/coverage/">See the Maryland Life coverage plan and remaining gaps →</a></p>
+                <p><a href="/course/coverage/">See the Maryland Life coverage review and mapped concepts →</a></p>
               </div>
             )}
             {!exam.practiceOnly && !passed && (

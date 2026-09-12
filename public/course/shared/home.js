@@ -5,7 +5,8 @@
   for(const row of rows){
    let saved=null;
    try{saved=JSON.parse(localStorage.getItem('amg-life-lesson-'+row.dataset.lesson+'-v'+row.dataset.version)||'null');}catch(_){available=false;}
-   const complete=saved?.complete===true;
+   const keys=row.dataset.answers.split(',').map(Number);
+   const complete=saved?.complete===true && (saved.videoEnded===true||saved.transcriptRead===true) && Array.isArray(saved.answers) && saved.answers.length===keys.length && saved.answers.every((a,i)=>a===keys[i]);
    row.classList.toggle('is-complete',complete);
    row.querySelector('.lesson-state').textContent=complete?'Complete ✓':'Open →';
    if(complete)count++;else next ||= row;

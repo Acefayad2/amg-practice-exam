@@ -1,7 +1,7 @@
 window.AMG_LESSON = {
   "number": 43,
   "id": "43",
-  "version": 1,
+  "version": 2,
   "title": "Additional riders: match the benefit to its trigger",
   "subtitle": "Separate accidental death, future purchase rights, inflation adjustments and premium-linked benefits.",
   "outline": [
@@ -384,17 +384,17 @@ window.AMG_LESSON = {
       "id": "L43-08",
       "prompt": "Which question best distinguishes a premium-linked death rider from a return-of-premium term survival feature?",
       "options": [
-        "Does the promised payment follow a covered death or survival to the stated term’s end?",
-        "Was the owner’s first premium paid monthly?",
-        "Does the producer use the same brochure color?",
-        "Is the beneficiary the insured’s spouse?"
+        "Does payment follow a covered death or survival to the stated term’s end?",
+        "Does the schedule refer to premiums paid under the contract?",
+        "Does the benefit use a maximum dollar amount?",
+        "Does the feature appear with a term-insurance base policy?"
       ],
       "answer": 0,
       "explanations": [
-        "The triggering event separates the promises.",
-        "Payment mode alone does not identify the benefit.",
-        "Appearance does not define the issued promise.",
-        "Relationship does not determine death versus survival timing."
+        "The trigger distinguishes the death rider from the term-survival benefit.",
+        "Both kinds of promise can refer to premiums; the trigger still matters.",
+        "A maximum amount alone does not establish when payment occurs.",
+        "A term base alone does not identify the rider’s or feature’s trigger."
       ],
       "topics": [
         "5.10.04"

@@ -1,7 +1,7 @@
 window.AMG_LESSON = {
   "number": 11,
   "id": "11",
-  "version": 1,
+  "version": 2,
   "title": "Appointments, oversight and discipline",
   "subtitle": "Separate state licensing from insurer authority and understand the regulator’s role.",
   "outline": [
@@ -268,17 +268,17 @@ window.AMG_LESSON = {
       "id": "L11-01",
       "prompt": "Elena has a state life producer license. Which separate question must she answer before acting for a particular insurer?",
       "options": [
-        "Whether the client likes the agency’s logo",
+        "Whether completing continuing education alone creates insurer authority",
         "Whether an appointment or a specific lawful exception supports that activity",
-        "Whether she has watched an insurer advertisement",
-        "Whether another producer promised to share a commission"
+        "Whether passing the state exam permits representation of every insurer",
+        "Whether receiving a referral from a client establishes the insurer relationship"
       ],
       "answer": 1,
       "explanations": [
-        "Brand preference does not establish authority.",
+        "Continuing education maintains knowledge and licensing compliance; it does not itself create appointment authority.",
         "State licensing and insurer appointment authority are distinct.",
-        "An advertisement does not appoint a producer.",
-        "A commission promise does not replace the required authority."
+        "Exam passage does not authorize every insurer relationship.",
+        "A client referral does not establish authority from the insurer."
       ],
       "topics": [
         "1.1.08"

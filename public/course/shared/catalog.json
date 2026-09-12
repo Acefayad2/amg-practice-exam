@@ -19,14 +19,15 @@
     {
       "id": "04",
       "number": 4,
-      "version": 1,
+      "version": 2,
       "title": "Insurers and distribution",
       "subtitle": "Ownership, location and authorization answer different questions.",
       "duration": 271.919,
-      "questions": 8,
+      "questions": 9,
       "module": "Foundations",
       "outline": [
-        "2.2"
+        "2.2",
+        "1.2"
       ],
       "status": "ready"
     },
@@ -118,7 +119,7 @@
     {
       "id": "11",
       "number": 11,
-      "version": 1,
+      "version": 2,
       "title": "Appointments, oversight and discipline",
       "subtitle": "Separate state licensing from insurer authority and understand the regulator’s role.",
       "duration": 257.004,
@@ -147,7 +148,7 @@
     {
       "id": "13",
       "number": 13,
-      "version": 1,
+      "version": 2,
       "title": "Recognize unfair sales practices",
       "subtitle": "Identify the conduct, the harm and the lawful correction.",
       "duration": 283.421,
@@ -161,7 +162,7 @@
     {
       "id": "14",
       "number": 14,
-      "version": 1,
+      "version": 2,
       "title": "Clear presentations and private information",
       "subtitle": "Show what is guaranteed, deliver the right documents and protect the client’s information.",
       "duration": 253.877,
@@ -282,7 +283,7 @@
     {
       "id": "22",
       "number": 22,
-      "version": 1,
+      "version": 2,
       "title": "Classify coverage and understand its price",
       "subtitle": "Keep product labels separate and see how mortality, interest and expenses shape premiums.",
       "duration": 292.085,
@@ -586,7 +587,7 @@
     {
       "id": "43",
       "number": 43,
-      "version": 1,
+      "version": 2,
       "title": "Additional riders: match the benefit to its trigger",
       "subtitle": "Separate accidental death, future purchase rights, inflation adjustments and premium-linked benefits.",
       "duration": 272.585,
@@ -600,7 +601,7 @@
     {
       "id": "44",
       "number": 44,
-      "version": 1,
+      "version": 2,
       "title": "Annuities: who controls the contract and when income begins",
       "subtitle": "Separate accumulation, lifetime income and the people named in the contract.",
       "duration": 293.879,
@@ -670,7 +671,7 @@
     {
       "id": "49",
       "number": 49,
-      "version": 1,
+      "version": 2,
       "title": "Life insurance taxes: identify the event first",
       "subtitle": "Separate cash growth, dividends, loans, surrender, death proceeds and estate inclusion.",
       "duration": 285.587,
@@ -684,7 +685,7 @@
     {
       "id": "50",
       "number": 50,
-      "version": 1,
+      "version": 2,
       "title": "Modified endowment contracts: funding changes access taxes",
       "subtitle": "Apply the seven-pay test and calculate earnings-first distributions without confusing them with death benefits.",
       "duration": 280.379,
@@ -726,7 +727,7 @@
     {
       "id": "53",
       "number": 53,
-      "version": 1,
+      "version": 2,
       "title": "Traditional IRAs: contribution, deduction and withdrawal",
       "subtitle": "Keep eligibility, current tax savings and later distributions separate.",
       "duration": 288.629,
@@ -748,6 +749,103 @@
       "module": "Tax and retirement",
       "outline": [
         "7.4"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "55",
+      "number": 55,
+      "version": 1,
+      "title": "Move retirement money: transfer, rollover or conversion?",
+      "subtitle": "Follow the destination, payee, deadline and withholding before moving funds.",
+      "duration": 289.462,
+      "questions": 8,
+      "module": "Tax and retirement",
+      "outline": [
+        "7.5"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "56",
+      "number": 56,
+      "version": 1,
+      "title": "Section 1035: permitted exchanges do not erase every cost",
+      "subtitle": "Check the direction, transaction method, basis and replacement consequences.",
+      "duration": 290.417,
+      "questions": 8,
+      "module": "Tax and retirement",
+      "outline": [
+        "7.6"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "57",
+      "number": 57,
+      "version": 1,
+      "title": "Qualified plans: tax treatment comes with requirements",
+      "subtitle": "Separate plan qualification, ownership, tax deferral and distribution rights.",
+      "duration": 292.709,
+      "questions": 9,
+      "module": "Tax and retirement",
+      "outline": [
+        "8.1",
+        "8.2"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "58",
+      "number": 58,
+      "version": 1,
+      "title": "Match the employer to the retirement plan",
+      "subtitle": "Recognize SEP, Keogh, profit sharing, 401(k), SIMPLE and 403(b) arrangements.",
+      "duration": 293.417,
+      "questions": 8,
+      "module": "Tax and retirement",
+      "outline": [
+        "8.3"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "59",
+      "number": 59,
+      "version": 1,
+      "title": "Family workshop: follow the decision from need to claim",
+      "subtitle": "Apply the rules together when one household faces several decisions.",
+      "duration": 296.71,
+      "questions": 8,
+      "module": "Mixed application",
+      "outline": [
+        "1.3",
+        "3.1",
+        "3.4",
+        "3.8",
+        "4.1",
+        "5.1",
+        "5.2"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "60",
+      "number": 60,
+      "version": 1,
+      "title": "Business and retirement workshop: put the rules together",
+      "subtitle": "Follow the purpose, money, income promise and tax event before choosing an answer.",
+      "duration": 292.794,
+      "questions": 8,
+      "module": "Mixed application",
+      "outline": [
+        "3.5",
+        "6.3",
+        "6.5",
+        "7.3",
+        "7.5",
+        "7.6",
+        "8.3"
       ],
       "status": "ready"
     }

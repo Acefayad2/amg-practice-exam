@@ -1,7 +1,7 @@
 window.AMG_LESSON = {
   "number": 14,
   "id": "14",
-  "version": 1,
+  "version": 2,
   "title": "Clear presentations and private information",
   "subtitle": "Show what is guaranteed, deliver the right documents and protect the client’s information.",
   "outline": [
@@ -277,17 +277,17 @@ window.AMG_LESSON = {
       "id": "L14-01",
       "prompt": "An advertisement describes projected life-policy dividends as guaranteed savings-account interest. What needs correction?",
       "options": [
-        "Only the background color",
-        "Only the publication time",
-        "The misleading product and guarantee descriptions",
-        "Nothing if the customer signs an application"
+        "Remove savings account but keep describing the dividends as guaranteed",
+        "Add the insurer’s financial rating while keeping both descriptions",
+        "Correct the misleading product and guarantee descriptions",
+        "Keep the wording if the applicant acknowledges reading it"
       ],
       "answer": 2,
       "explanations": [
-        "The problem is the claim itself.",
-        "Timing does not cure a misleading representation.",
-        "The product and nonguaranteed values must be described accurately.",
-        "A signature does not make a false advertising claim accurate."
+        "Changing the product label alone leaves the false dividend guarantee.",
+        "A financial rating does not guarantee illustrated dividends.",
+        "Both the product and nonguaranteed values must be described accurately.",
+        "Acknowledgment does not make the misleading claim accurate."
       ],
       "topics": [
         "1.2.07",
@@ -300,16 +300,16 @@ window.AMG_LESSON = {
       "id": "L14-02",
       "prompt": "Which statement correctly describes nonguaranteed values in a life illustration?",
       "options": [
-        "They are promises whenever printed in color.",
+        "They become contract guarantees merely because the insurer issued the illustration.",
         "They cannot ever decline.",
         "They eliminate all future premium obligations.",
         "Their assumptions can change and actual results may be higher or lower."
       ],
       "answer": 3,
       "explanations": [
-        "Formatting does not create a contract guarantee.",
-        "The illustrated outcome is not certain.",
-        "Future charges or outlays may still be required.",
+        "The illustration must distinguish guaranteed from nonguaranteed elements.",
+        "Illustrated nonguaranteed results are not certain.",
+        "Future premiums or charges may remain necessary.",
         "The uncertainty must be explained and properly labeled."
       ],
       "topics": [
@@ -408,17 +408,17 @@ window.AMG_LESSON = {
       "id": "L14-07",
       "prompt": "Which facts fit the current-customer annual privacy notice exception described in the lesson?",
       "options": [
-        "Only specified permitted disclosures are made and the previously disclosed policies and practices have not changed",
-        "The producer does not want to pay postage",
-        "The client bought an expensive policy",
-        "An agency has a new logo"
+        "Only specified permitted disclosures are made and previously disclosed policies and practices have not changed",
+        "Only the absence of new claims, even if information-sharing practices changed",
+        "Only delivering an initial notice years ago, without checking present disclosures",
+        "Only describing every information recipient as a trusted service provider"
       ],
       "answer": 0,
       "explanations": [
-        "Both stated conditions are required for this exception.",
-        "Cost is not a regulatory exception.",
-        "Premium size does not create the exception.",
-        "Branding alone does not determine the privacy duty."
+        "Both conditions are required for the stated annual-notice exception.",
+        "Claim activity does not establish the disclosure and unchanged-practice conditions.",
+        "An old initial notice does not itself establish the current exception.",
+        "A label for recipients does not establish permitted disclosures or unchanged practices."
       ],
       "topics": [
         "1.2.12"

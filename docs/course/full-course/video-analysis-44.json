@@ -1,0 +1,210 @@
+{
+  "result": {
+    "id": "1dd1dced-b1a3-4f3b-a725-645d66152229",
+    "video_input_id": "f5c087d3-2114-4f33-92d8-4f600b59780c",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/f5c087d3-2114-4f33-92d8-4f600b59780c.mp4",
+    "scenes": [
+      {
+        "audio": "Rosa and David are approaching retirement. They already understand life insurance as protection against the financial consequences of a covered death.",
+        "label": "Opening Hook",
+        "visual": "A middle-aged man and woman are seated at a wooden dining table. The woman, approximately 60 years old with a medium complexion and graying dark hair pulled back, is wearing a cream-colored long-sleeve blouse. The man, approximately 65 years old with a dark complexion, short gray hair, and a gray beard, wears a gray short-sleeve t-shirt. They are looking down at a white sheet of paper on the table; the woman points to the paper with her right index finger while the man rests his chin on his right hand. A green ceramic mug sits on the left side of the table. The room is well-lit with soft natural light coming from a side window, highlighting a neutral-toned interior background with a framed picture on the wall. The camera is static.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:08",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "Now they ask, how to create income if they live much longer than expected. An annuity is a contract with an insurance company that can provide payments immediately or at a later time.",
+        "label": "Product Information",
+        "visual": "A static graphic on a light beige background. A white rectangular box is positioned on the left side of the screen. The layout is clean with ample white space. The lighting is uniform and digital.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:20",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "A lifetime income option addresses longevity risk, the risk of outliving income resources. Not every annuity payment option lasts for life.",
+        "label": "Product Information",
+        "visual": "A second white rectangular box appears to the right of the first one on the same light beige background. The graphic is static and minimalist.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:33",
+        "timestamp_start": "0:20"
+      },
+      {
+        "audio": "A fixed period of payments can end while the recipient is still living. Identify the promised income pattern before assuming that every annuity eliminates that risk.",
+        "label": "Product Information",
+        "visual": "A third white rectangular box appears to the right of the previous two, completing a row of three boxes on the light beige background. The frame remains static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:45",
+        "timestamp_start": "0:33"
+      },
+      {
+        "audio": "During a deferred annuity's accumulation phase, the contract holds value under its crediting or investment provisions. Rosa may fund a contract with one premium or a permitted series of premiums.",
+        "label": "Product Selling Points",
+        "visual": "A new static graphic appears. A white box labeled '01' is on the left. A green horizontal arrow points from this box toward the center of the screen. The background is light beige.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:58",
+        "timestamp_start": "0:45"
+      },
+      {
+        "audio": "The value can change with interest, investment performance, charges, and withdrawals depending on the design. Accumulation does not mean all annuities earn the same guaranteed rate.",
+        "label": "Product Selling Points",
+        "visual": "A dark, almost black box labeled '02' appears in the center of the screen, with the green arrow from the first box pointing into it. A second green arrow points from this central box toward the right.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:10",
+        "timestamp_start": "0:58"
+      },
+      {
+        "audio": "It also does not mean money is freely accessible without consequences. A withdrawal can involve surrender charges, adjustments, and tax effects.",
+        "label": "Product Selling Points",
+        "visual": "A third white box labeled '03' appears on the right side of the screen, receiving the arrow from the central dark box. The layout represents a three-step flow chart.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:25",
+        "timestamp_start": "1:10"
+      },
+      {
+        "audio": "Track the contract value and the amount available on surrender separately. The accumulation stage describes where the contract is in its operation, not which investment guarantees it contains.",
+        "label": "Product Selling Points",
+        "visual": "The three-box flow chart remains on screen. The camera is static, focusing on the relationship between the three stages represented by the boxes.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:39",
+        "timestamp_start": "1:25"
+      },
+      {
+        "audio": "Annuitization converts the applicable value into a series of payments under the selected settlement option. The option determines whether income lasts for one life, two lives, or a stated period,",
+        "label": "Product Selling Points",
+        "visual": "The graphic transitions to show three white boxes in a horizontal row. The first box on the left is prominent. The overall color palette is light beige, white, and teal.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:52",
+        "timestamp_start": "1:39"
+      },
+      {
+        "audio": "and whether anything continues after a death. This decision often limits access to the amount converted and can be difficult or impossible to reverse under the contract.",
+        "label": "Product Selling Points",
+        "visual": "The middle box in the row becomes the focus as the explanation continues. The graphic elements are static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "2:05",
+        "timestamp_start": "1:52"
+      },
+      {
+        "audio": "A monthly withdrawal from an account is not automatically annuitization. Some optional lifetime withdrawal benefits operate differently from converting the contract into annuity payments.",
+        "label": "Product Selling Points",
+        "visual": "The third box on the right of the row is now emphasized. The design remains consistent with previous informational slides.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "2:18",
+        "timestamp_start": "2:05"
+      },
+      {
+        "audio": "For this lesson, separate accumulating value, taking a withdrawal, and formally choosing an annuity income option. The next lessons compare the payment patterns in detail.",
+        "label": "Product Selling Points",
+        "visual": "The full graphic with three boxes is shown. The camera does not move. The background is a flat, solid light beige.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:32",
+        "timestamp_start": "2:18"
+      },
+      {
+        "audio": "The owner holds the contractual decision rights, subject to the contract and applicable law. These can include selecting beneficiaries, requesting allowed withdrawals, and choosing the income option.",
+        "label": "Product Information",
+        "visual": "A new slide appears with a white box on the far left. The layout is clean and symmetrical. The background is light beige.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:47",
+        "timestamp_start": "2:32"
+      },
+      {
+        "audio": "The annuitant is the person whose life is used for the contract's life-based calculations or payments. The owner and annuitant may be the same person, but the roles are not identical.",
+        "label": "Product Information",
+        "visual": "A second white box appears in the center of the screen, adjacent to the first box. The graphic is static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "3:02",
+        "timestamp_start": "2:47"
+      },
+      {
+        "audio": "Suppose a permitted contract names Rosa as owner and David as annuitant. Rosa exercises the owner's permitted rights. David's life is the measuring life for the stated life contingent benefit. Being the annuitant alone does not automatically give David every ownership right. Always read who holds each role.",
+        "label": "Product Information",
+        "visual": "A third white box appears on the far right, completing the row of three. The lighting and color grading remain consistent with the series of slides.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "3:18",
+        "timestamp_start": "3:02"
+      },
+      {
+        "audio": "Rosa names their adult daughter, Maya, as beneficiary. That designation identifies who receives an applicable death benefit or remaining guaranteed payments under the contract.",
+        "label": "Product Information",
+        "visual": "A new static graphic featuring a three-step flow chart. A white box '01' is on the left, connected by a green arrow to a central dark box '02'.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:35",
+        "timestamp_start": "3:18"
+      },
+      {
+        "audio": "It does not automatically promise repayment of every premium in every phase. During accumulation, the contract's death provisions matter. After annuitization, the selected income option matters.",
+        "label": "Product Information",
+        "visual": "The dark central box '02' is highlighted. A green arrow points from it to a final white box '03' on the right side of the screen.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:52",
+        "timestamp_start": "3:35"
+      },
+      {
+        "audio": "A life only option may end at death, while a period certain or refund feature can protect specified payments for a beneficiary. Also check whose death triggers the provision because owner and annuitant rules can differ. A beneficiary designation identifies the recipient of an available benefit. It does not create a benefit that the selected contract does not provide.",
+        "label": "Product Information",
+        "visual": "The focus shifts to the third white box '03' on the right of the flow chart. The graphic remains static on the light beige background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "4:09",
+        "timestamp_start": "3:52"
+      },
+      {
+        "audio": "Before recommending an annuity, identify Rosa and David's income needs, other resources, time horizon, risk tolerance, and need for accessible cash.",
+        "label": "Usage Scenarios",
+        "visual": "The camera returns to the man and woman from the first scene. They are in the same position, looking at the same document. The man's hand is now pointing at the paper while the woman watches. The lighting and background are identical to the opening shot.",
+        "shot_type": "Medium Shot",
+        "scene_number": 19,
+        "timestamp_end": "4:17",
+        "timestamp_start": "4:09"
+      },
+      {
+        "audio": "A long surrender period can conflict with money needed soon. A lifetime promise can be useful, but it must be evaluated together with costs, limits, inflation exposure, and the insurer's ability to meet its obligations.",
+        "label": "Call to Action",
+        "visual": "A final informational slide. A long white horizontal bar at the top is followed by two white horizontal bars below it, labeled '01' and '02'. The background is light beige.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "4:32",
+        "timestamp_start": "4:17"
+      },
+      {
+        "audio": "A product guaranteed does not make every contract appropriate for every retiree. Maryland's recommendation requirements receive a dedicated lesson later in this course.",
+        "label": "Call to Action",
+        "visual": "Two more white horizontal bars, labeled '03' and '04', appear below the first two, creating a list of four items. The graphic is static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 21,
+        "timestamp_end": "4:42",
+        "timestamp_start": "4:32"
+      },
+      {
+        "audio": "Here, connect the basic structure to the client: who controls it, whose life matters, who may receive a death benefit, and when the money becomes income.",
+        "label": "Call to Action",
+        "visual": "The final list of four bars remains on screen until the end of the video. The framing is static and centered.",
+        "shot_type": "Wide Shot",
+        "scene_number": 22,
+        "timestamp_end": "4:53",
+        "timestamp_start": "4:42"
+      }
+    ]
+  }
+}

@@ -1,7 +1,7 @@
 window.AMG_LESSON = {
   "number": 13,
   "id": "13",
-  "version": 1,
+  "version": 2,
   "title": "Recognize unfair sales practices",
   "subtitle": "Identify the conduct, the harm and the lawful correction.",
   "outline": [
@@ -364,17 +364,17 @@ window.AMG_LESSON = {
       "id": "L13-06",
       "prompt": "An unlicensed employee actively recommends policy terms but calls the resulting payment a referral fee. What controls the analysis?",
       "options": [
-        "The word referral by itself",
-        "The color of the employee’s badge",
+        "The referral label alone, regardless of what the employee did",
+        "Whether the fee is a flat amount rather than a percentage",
         "The actual sales activity and applicable licensing and payment rules",
-        "Whether the payment is made on a Friday"
+        "Whether a licensed producer was available elsewhere in the office"
       ],
       "answer": 2,
       "explanations": [
-        "A label does not override conduct.",
-        "A badge does not establish producer authority.",
-        "The real activity determines whether required authority is present.",
-        "The weekday does not resolve licensing."
+        "A label cannot override the actual sales conduct.",
+        "A flat fee does not authorize unlicensed policy recommendations.",
+        "The activity determines which authority and compensation requirements apply.",
+        "Another producer’s presence does not license the employee’s conduct."
       ],
       "topics": [
         "1.2.11",

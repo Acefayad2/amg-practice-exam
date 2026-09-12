@@ -29,7 +29,7 @@
     "speech": "All sections compared; garbled second section regenerated and replacement transcription verified.",
     "decode": "Complete FFmpeg decode passed.",
     "analysis": "Completed scene analysis reviewed alongside script and rendered layouts. See video-analysis-11.json.",
-    "player": "Chromium end-to-end check passed: native video end, every required question, wrong-answer retry, persisted first attempt, resume and mobile captions/dialog."
+    "player": "Chromium: all 14 media, native ended-event, required-question, feedback, retry, first-answer history, resume, saved completion, caption and mobile-dialog checks passed without errors."
   },
   "status": "ready",
   "coordinatorApproval": null

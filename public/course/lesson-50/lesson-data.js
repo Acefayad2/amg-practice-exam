@@ -1,7 +1,7 @@
 window.AMG_LESSON = {
   "number": 50,
   "id": "50",
-  "version": 1,
+  "version": 2,
   "title": "Modified endowment contracts: funding changes access taxes",
   "subtitle": "Apply the seven-pay test and calculate earnings-first distributions without confusing them with death benefits.",
   "outline": [
@@ -296,17 +296,17 @@ window.AMG_LESSON = {
       "id": "L50-03",
       "prompt": "A policy passed its initial testing period. The owner later requests a material change. Which statement is correct?",
       "options": [
-        "The change can require a new testing period with appropriate adjustments.",
+        "The material change can require a new testing period with appropriate adjustments.",
         "No policy older than seven years can ever become a MEC.",
-        "Every change of mailing address is an overfunding failure.",
-        "The producer can choose to ignore the insurer’s test."
+        "Passing the first test makes every later increase in benefits exempt from review.",
+        "Keeping the same insurer automatically prevents another testing period."
       ],
       "answer": 0,
       "explanations": [
-        "Material changes have their own statutory treatment.",
-        "Later qualifying changes remain relevant.",
-        "That administrative fact alone does not establish the claimed result.",
-        "Status follows the applicable rules, not the producer’s preference."
+        "Material changes have their own statutory testing treatment.",
+        "Qualifying later changes remain relevant after the initial period.",
+        "An initial test does not exempt every later material change.",
+        "Insurer identity does not remove the material-change rules."
       ],
       "topics": [
         "7.2.02"

@@ -5,6 +5,8 @@ import {pathToFileURL} from 'node:url';
 import {curriculum} from '../docs/course/full-course/curriculum.mjs';
 import {coverageRows} from '../docs/course/coverage-source.mjs';
 import {courseHome} from './course-home.mjs';
+import {foundationLessons} from '../docs/course/full-course/foundation-mapping.mjs';
+import {updateCoverage} from './update-course-coverage.mjs';
 const root=path.resolve(import.meta.dirname||path.dirname(new URL(import.meta.url).pathname),'..');
 const src=path.join(root,'docs/course/full-course');
 const write=(file,data)=>{const p=path.join(root,file);fs.mkdirSync(path.dirname(p),{recursive:true});fs.writeFileSync(p,data);};
@@ -66,9 +68,11 @@ ${l.notes.length?`<section class="section"><p class="eyebrow">APPLY / IMPORTANT 
  write('public/course/lesson-'+l.id+'/index.html',html+'\n');
  published.push({id:l.id,number:l.number,version:l.version,title:l.title,subtitle:l.subtitle,duration,questions:l.questions.length,module:curriculum.find(c=>c.id===l.id).module,outline:l.outline,status:media.status});
 }
-const map=[...topics].map(([id,title])=>({id,title,teaching:lessons.flatMap(l=>[...l.blocks,...l.notes].filter(x=>x.topics.includes(id)).map(x=>({lesson:l.id,title:x.title}))),questions:lessons.flatMap(l=>l.questions.filter(q=>q.topics.includes(id)).map(q=>({lesson:l.id,id:q.id}))),coordinatorApproval:null}));
+const mappedLessons=[...foundationLessons,...lessons];
+const map=[...topics].map(([id,title])=>({id,title,teaching:mappedLessons.flatMap(l=>[...l.blocks,...l.notes].filter(x=>x.topics.includes(id)).map(x=>({lesson:l.id,title:x.title}))),questions:mappedLessons.flatMap(l=>l.questions.filter(q=>q.topics.includes(id)).map(q=>({lesson:l.id,id:q.id}))),coordinatorApproval:null}));
 write('docs/course/full-course/coverage-map.json',json(map)+'\n');
 write('public/course/shared/catalog.json',json({version:1,planned:curriculum.length,lessons:published})+'\n');
 const available=[{...curriculum[0],version:2,duration:256,questions:8,status:'ready'},{...curriculum[1],version:2,duration:199,questions:8,status:'ready'},...published].sort((a,b)=>a.number-b.number);
-write('public/course/index.html',courseHome(curriculum,available));
+write('public/course/index.html',courseHome(curriculum,available.map(a=>({...a,answers:mappedLessons.find(l=>l.id===a.id).questions.map(q=>q.answer)}))));
+updateCoverage(map,available,mappedLessons.reduce((n,l)=>n+l.questions.length,0));
 console.log(JSON.stringify({authoredLessons:lessons.length,originalQuestions:questionIds.size,videoPages:published.length,topicsWithAuthoredTeaching:map.filter(t=>t.teaching.length).length,topicsWithAuthoredQuestions:map.filter(t=>t.questions.length).length,totalTopics:topics.size}));

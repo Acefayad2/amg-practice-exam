@@ -1,7 +1,7 @@
 window.AMG_LESSON = {
   "number": 44,
   "id": "44",
-  "version": 1,
+  "version": 2,
   "title": "Annuities: who controls the contract and when income begins",
   "subtitle": "Separate accumulation, lifetime income and the people named in the contract.",
   "outline": [
@@ -348,17 +348,17 @@ window.AMG_LESSON = {
       "id": "L44-06",
       "prompt": "Which fact is especially relevant before placing funds needed for an essential expense next month into an annuity with a long surrender period?",
       "options": [
-        "Only the producer’s preferred carrier",
-        "Only the color of the contract jacket",
-        "Only the beneficiary’s occupation",
+        "Whether the projected long-term return is attractive even if access is costly",
+        "Whether naming a beneficiary will waive withdrawal restrictions",
+        "Whether tax deferral makes the cash automatically available without charges",
         "The client’s liquidity needs and the contract’s withdrawal restrictions and costs"
       ],
       "answer": 3,
       "explanations": [
-        "Preference does not resolve the client’s cash need.",
-        "Appearance does not establish suitability.",
-        "That fact alone does not address access to these funds.",
-        "Accessible cash and potential costs directly affect this decision."
+        "An attractive projection does not solve an immediate cash-access conflict.",
+        "A beneficiary designation does not generally waive surrender restrictions.",
+        "Tax deferral does not remove contract withdrawal costs or limits.",
+        "Near-term access and potential charges directly affect this decision."
       ],
       "topics": [
         "6.1.07"
@@ -390,17 +390,17 @@ window.AMG_LESSON = {
       "id": "L44-08",
       "prompt": "A client receives monthly withdrawals from an annuity’s account value. What additional fact is needed before calling the arrangement annuitization?",
       "options": [
-        "Whether the payment arrived on a weekday",
-        "Whether the client actually elected conversion to annuity payments under an income option",
-        "Whether the client has a checking account",
-        "Whether the beneficiary is older than the owner"
+        "Whether recurring payments are scheduled monthly",
+        "Whether the client elected conversion to annuity payments under an income option",
+        "Whether ordinary withdrawals are being deposited automatically",
+        "Whether the account value still supports the selected recurring withdrawals"
       ],
       "answer": 1,
       "explanations": [
-        "A weekday does not define the election.",
-        "The contractual income election distinguishes conversion from ordinary withdrawals.",
-        "A receiving account does not establish annuitization.",
-        "Relative age alone does not establish the transaction."
+        "Frequency alone cannot distinguish withdrawals from annuitization.",
+        "The contractual income election distinguishes the transaction.",
+        "Automatic delivery can be used for ordinary withdrawals too.",
+        "An account-funded withdrawal schedule is not itself an annuitization election."
       ],
       "topics": [
         "6.1.02"
