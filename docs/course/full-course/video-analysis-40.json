@@ -1,0 +1,201 @@
+{
+  "result": {
+    "id": "41fa2c4f-47da-4aa1-8ef0-ad55ae25195f",
+    "video_input_id": "759d7174-148c-49af-88c1-85c4a9862da4",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/759d7174-148c-49af-88c1-85c4a9862da4.mp4",
+    "scenes": [
+      {
+        "audio": "Marcus has a life policy and worries about keeping it funded if he becomes unable to work.",
+        "label": "Opening Hook",
+        "visual": "A man and a woman sit at a wooden kitchen table reviewing a document. The man, approximately 45 years old, has short dark hair, a neatly trimmed beard, and a dark blue long-sleeve button-up shirt. The woman, approximately 35 years old, has long wavy dark hair and wears an olive green long-sleeve blouse. They are focused on a white sheet of paper. An open silver laptop, a white ceramic mug, and a black folder are on the table. The lighting is soft and natural, coming from the side. The background shows a modern kitchen with off-white cabinets and white subway tiles.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:08",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "A disability related life rider can address that concern, but its title alone is not enough. Identify the person whose disability matters,",
+        "label": "Product Information",
+        "visual": "A clean white screen appears with a teal top banner. A white box labeled 'Person' is on the left. The text 'Whose disability matters?' appears inside the box. A gold border outlines the section as it is mentioned. The layout is minimalist and professional.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:23",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "the definition of qualifying disability, the required duration, the age limits, and the benefit provided. Losing a job is not automatically a qualifying disability.",
+        "label": "Product Information",
+        "visual": "The screen updates to show two additional boxes: 'Trigger' and 'Benefit'. The 'Trigger' box contains text about definition and proof. The 'Benefit' box lists premium and policy charges. A gold highlight shifts to the 'Trigger' section.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:38",
+        "timestamp_start": "0:23"
+      },
+      {
+        "audio": "Being approved under another program does not automatically satisfy this rider's definition either. These are supplemental benefits attached to life insurance. We are studying their life policy functions here, not building a separate health insurance course. Read the issued rider before promising that a benefit applies.",
+        "label": "Product Information",
+        "visual": "The graphics remain on screen. The text under 'Trigger' updates to discuss external programs. The lighting is consistent and artificial for the graphic design.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:52",
+        "timestamp_start": "0:38"
+      },
+      {
+        "audio": "A waiver of premium rider waives the premium specified by the rider when the insured meets its qualifying disability conditions. Suppose Marcus's hypothetical rider approves waiver of a $100 monthly base premium.",
+        "label": "Product Selling Points",
+        "visual": "The screen transitions to a new title: 'Premium waiver removes the qualifying premium obligation'. A box appears on the left showing a '$100 monthly premium in this example'. A second box titled 'Approved waiver' appears in the center with a teal background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "1:07",
+        "timestamp_start": "0:52"
+      },
+      {
+        "audio": "That covered premium no longer has to come from his household during the approved benefit period. It does not mean the insurer sends him an extra $100 spending check.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains static while the audio continues. A third box labeled 'Different benefit' appears on the right, stating 'No extra spending check is assumed'.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:22",
+        "timestamp_start": "1:07"
+      },
+      {
+        "audio": "Review which premiums and riders are included, when waiver begins and when it ends. The contract may require premiums during the waiting and claim review period, with later reimbursement or credit if its terms provide that result. Do not tell a client to stop paying merely because a claim was submitted.",
+        "label": "Product Selling Points",
+        "visual": "The text on screen is static. The teal and gold palette remains consistent. The background is pure white with high-contrast dark text.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:32",
+        "timestamp_start": "1:22"
+      },
+      {
+        "audio": "Universal life separates premium payments from the charges deducted inside the policy. A cost of insurance or monthly deduction waiver may waive the stated charges during qualifying disability.",
+        "label": "Product Selling Points",
+        "visual": "The screen updates to a new header: 'A cost waiver does not deposit the planned premium'. A box on the left shows a '$200 Planned monthly payment'. A central teal box shows a '$60 Covered deduction waived'.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:47",
+        "timestamp_start": "1:32"
+      },
+      {
+        "audio": "Read precisely which charges are covered. Suppose Marcus normally plans to pay $200 monthly, while the covered monthly deduction is $60. Waiving $60 of deductions is not the same as depositing the full $200 planned payment.",
+        "label": "Product Selling Points",
+        "visual": "A third box titled 'Not equivalent' appears on the right, stating that no $200 deposit is promised. The text is sharp and clear.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "2:02",
+        "timestamp_start": "1:47"
+      },
+      {
+        "audio": "It does not automatically fund every future growth assumption or eliminate every lapse risk. Policy loans, investment results, unwaived charges, and other terms can still matter.",
+        "label": "Product Selling Points",
+        "visual": "The graphics are static. The layout emphasizes the difference between the planned payment and the waiver.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "2:17",
+        "timestamp_start": "2:02"
+      },
+      {
+        "audio": "An actual monthly deduction rider may cover more than the cost of insurance alone.",
+        "label": "Product Selling Points",
+        "visual": "Final static shot of the 'Cost waiver' infographic.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "2:24",
+        "timestamp_start": "2:17"
+      },
+      {
+        "audio": "A disability income benefit attached to life insurance provides the specified income payment when its conditions are met. It may be combined with a waiver, but those are still separate benefits.",
+        "label": "Product Selling Points",
+        "visual": "Screen transitions to 'An income rider supplies a separate payment benefit'. A box on the left displays '$250 Monthly income payment'. A central box shows '$60 Separate policy charge waived'.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:39",
+        "timestamp_start": "2:24"
+      },
+      {
+        "audio": "In a hypothetical example, a rider pays $250 of monthly income and also waives a $60 policy charge. The spendable income is $250. The $60 waived charge is not another cash payment to the client.",
+        "label": "Product Selling Points",
+        "visual": "A third box on the right titled 'Check duration' appears. It notes that the income period follows the rider.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:54",
+        "timestamp_start": "2:39"
+      },
+      {
+        "audio": "Read the income amount, benefit duration, waiting period, and termination conditions. Do not assume the rider replaces the insured's entire salary or continues for life simply because the base life policy is permanent.",
+        "label": "Product Selling Points",
+        "visual": "Final static view of the 'Income rider' graphic.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "3:09",
+        "timestamp_start": "2:54"
+      },
+      {
+        "audio": "Elena owns a life policy on her child and pays its premiums. A juvenile payor benefit can protect those premium payments if the covered adult payer dies or becomes disabled as specified in the rider.",
+        "label": "Product Selling Points",
+        "visual": "Screen updates to 'Juvenile payor protection follows the adult payer'. Three numbered steps appear horizontally: '01 Base life insured', '02 Covered payor event', and '03 Rider response'. Green arrows connect the steps.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "3:24",
+        "timestamp_start": "3:09"
+      },
+      {
+        "audio": "The child is the insured under the base life policy, while the payor rider addresses the adult's qualifying event. Suppose this hypothetical rider continues covered premiums only until the child's 21st birthday.",
+        "label": "Product Selling Points",
+        "visual": "The flowchart is static. The text under step 02 specifies 'Adult payer's stated death or disability'.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:39",
+        "timestamp_start": "3:24"
+      },
+      {
+        "audio": "That age belongs to the stated rider, not a universal rule. A parent's death does not trigger the child's base death benefit while the child is living. Confirm which adult is covered, the rider's eligibility requirements, and the actual ending conditions.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains on screen as the explanation finishes.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:55",
+        "timestamp_start": "3:39"
+      },
+      {
+        "audio": "A sample rider requires total disability for six consecutive months before benefits qualify.",
+        "label": "Usage Scenarios",
+        "visual": "Return to the couple from Scene 1 in the kitchen setting. Marcus and Elena are still reviewing the documents at the table, with the laptop and mug visible. Marcus points to a line on the paper while Elena watches.",
+        "shot_type": "Medium Shot",
+        "scene_number": 18,
+        "timestamp_end": "4:03",
+        "timestamp_start": "3:55"
+      },
+      {
+        "audio": "An insured disabled for two months has not yet met that particular duration requirement. Another rider may use different terms. Distinguish the waiting period from a maximum benefit period,",
+        "label": "Call to Action",
+        "visual": "Final graphic appears with the header 'Read the claim conditions before choosing the answer'. A numbered list from 01 to 04 is displayed, listing Premium waiver, Charge waiver, Income benefit, and Payor benefit.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "4:18",
+        "timestamp_start": "4:03"
+      },
+      {
+        "audio": "and distinguish the insured's age limit from a child's payor benefit ending age. The producer should help the client identify the proper claim process and required proof without inventing approval. For an exam scenario, trace the same sequence each time.",
+        "label": "Call to Action",
+        "visual": "The list remains static. The color scheme is consistent with the rest of the video.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "4:33",
+        "timestamp_start": "4:18"
+      },
+      {
+        "audio": "Identify the covered person, confirm the stated trigger, apply the timing conditions, and identify the exact benefit. Waived premiums, waived charges, income, and payor protection are related, but different.",
+        "label": "Call to Action",
+        "visual": "The final items on the summary list are shown. The AMG Life logo appears at the bottom left.",
+        "shot_type": "Wide Shot",
+        "scene_number": 21,
+        "timestamp_end": "4:51",
+        "timestamp_start": "4:33"
+      }
+    ]
+  }
+}

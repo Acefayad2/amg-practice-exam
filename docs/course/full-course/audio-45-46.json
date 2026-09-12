@@ -1,0 +1,346 @@
+[
+  {
+    "number": 45,
+    "requests": {
+      "requests": [
+        {
+          "index": 450,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Rosa has a lump sum available and wants retirement payments to begin next month. A single-premium immediate annuity uses one contribution to establish income beginning within one year of purchase. Now change the facts: David places a lump sum into a contract but plans income for ten years later. That is deferred income, even though he paid only once. Immediate and deferred describe income timing. Single and periodic describe how money goes into the contract. Keep those classifications separate. Also distinguish the beginning of payments from their duration. An immediate annuity can provide a stated period or a lifetime pattern under its selected option."
+          }
+        },
+        {
+          "index": 451,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "A single-premium deferred annuity starts with one contribution and postpones income. A flexible-premium deferred design permits contributions that vary within the contract's limits. A scheduled or fixed-installment design instead specifies a payment pattern. Do not confuse a fixed premium schedule with a fixed interest guarantee; one describes funding and the other describes the contract's credited return. David should check minimum payments, whether later contributions are accepted, and whether each new contribution begins its own surrender-charge period. Stopping contributions is not the same event as surrendering the contract. Existing value and available benefits must be evaluated under the issued provisions."
+          }
+        },
+        {
+          "index": 452,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Assume David's annuity has a one hundred thousand dollar account value. The question states that surrendering today incurs a five percent charge on the entire amount, with no free allowance, market adjustment or other charge. The charge is five thousand dollars, leaving ninety-five thousand dollars before any tax. This is an insurer charge, not the federal additional tax on certain early distributions. Some contracts permit limited withdrawals without a surrender charge, but the percentage, timing and calculation base vary. An amount described as penalty-free by the insurer can still have tax consequences. Read which cost is waived before promising what David will actually keep."
+          }
+        },
+        {
+          "index": 453,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Nonforfeiture provisions preserve specified benefits when contributions stop or the owner exercises a permitted option. For contracts within Maryland's individual deferred-annuity law, the required provisions address paid-up annuity benefits and applicable surrender values. A paid-up deferred benefit uses the value already built to support a later benefit without further contributions. It is not automatically a refund of every premium on demand. Maryland's minimum calculation uses defined net considerations, interest and adjustments; it is not simply the current advertised rate applied to every deposit. The law also has scope exceptions, including variable and immediate annuities. Apply the correct contract category before importing a minimum-value rule."
+          }
+        },
+        {
+          "index": 454,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "A bailout provision can allow withdrawal without the stated surrender charge if the insurer's renewal rate falls below a contract-defined level. Suppose the fictional provision sets a three percent threshold and the new credited rate is two and a half percent. The stated rate condition is met, but David must still follow the election window and other terms. A lower rate that remains above the threshold does not satisfy that example. Not every annuity has a bailout clause, and some designs use a rate cap rather than a credited interest rate. A contractual waiver does not erase federal income tax or every possible adjustment unless the applicable rule says so."
+          }
+        },
+        {
+          "index": 455,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Before income begins, a deferred contract may provide a death benefit based on account value, adjusted premiums or another stated guarantee. Suppose the contract promises the greater of eighty thousand dollars of eligible adjusted premiums or ninety thousand dollars of current account value. With no other adjustment, the stated benefit is ninety thousand dollars. That is not automatically income-tax-free life insurance proceeds merely because payment follows a death. After annuitization, the selected income option can produce a different outcome for survivors. Review the phase, the triggering person's death and the formula. Funding, surrender and death are separate events, so use the provision that matches the question."
+          }
+        }
+      ]
+    },
+    "jobs": {
+      "jobs": [
+        {
+          "index": 450,
+          "job_id": "7e23eb30-e459-4fe8-8d3c-b0b7c6f296f7",
+          "status": "pending"
+        },
+        {
+          "index": 451,
+          "job_id": "696291ad-8c36-4e60-8656-70145f25d91c",
+          "status": "pending"
+        },
+        {
+          "index": 452,
+          "job_id": "c2b2c6e6-38b5-4d3e-817d-4b883da78c01",
+          "status": "pending"
+        },
+        {
+          "index": 453,
+          "job_id": "1f85b25d-c02e-430f-9e37-339418837599",
+          "status": "pending"
+        },
+        {
+          "index": 454,
+          "job_id": "49ad7623-d993-452f-b977-ba20df76b623",
+          "status": "pending"
+        },
+        {
+          "index": 455,
+          "job_id": "480fe6e8-6353-4d66-9b7e-1765ca9ac1e5",
+          "status": "pending"
+        }
+      ],
+      "submitted_count": 6,
+      "failed_count": 0
+    },
+    "completed": {
+      "jobs": [
+        {
+          "index": 450,
+          "job_id": "7e23eb30-e459-4fe8-8d3c-b0b7c6f296f7",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_074602_7e23eb30-e459-4fe8-8d3c-b0b7c6f296f7.mp3"
+        },
+        {
+          "index": 451,
+          "job_id": "696291ad-8c36-4e60-8656-70145f25d91c",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_074601_696291ad-8c36-4e60-8656-70145f25d91c.mp3"
+        },
+        {
+          "index": 452,
+          "job_id": "c2b2c6e6-38b5-4d3e-817d-4b883da78c01",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_074602_c2b2c6e6-38b5-4d3e-817d-4b883da78c01.mp3"
+        },
+        {
+          "index": 453,
+          "job_id": "1f85b25d-c02e-430f-9e37-339418837599",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_074602_1f85b25d-c02e-430f-9e37-339418837599.mp3"
+        },
+        {
+          "index": 454,
+          "job_id": "49ad7623-d993-452f-b977-ba20df76b623",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_074602_49ad7623-d993-452f-b977-ba20df76b623.mp3"
+        },
+        {
+          "index": 455,
+          "job_id": "480fe6e8-6353-4d66-9b7e-1765ca9ac1e5",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_074602_480fe6e8-6353-4d66-9b7e-1765ca9ac1e5.mp3"
+        }
+      ],
+      "summary": {
+        "total": 6,
+        "completed": 6,
+        "failed": 0,
+        "active": 0,
+        "errors": 0
+      },
+      "all_terminal": true
+    },
+    "repairs": null,
+    "method": "Paid narration only. Questions, native diagrams, captions and assembly are authored without image/video generation.",
+    "reviewState": "Complete speech, inspected layouts, full decode and browser checks passed."
+  },
+  {
+    "number": 46,
+    "requests": {
+      "requests": [
+        {
+          "index": 460,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "David compares annuity income options using the same amount of money. Pure life, also called straight life or life only, pays for his covered lifetime and stops at his death, without an added refund or guaranteed payment period. If he dies soon after income begins, a beneficiary does not automatically receive the amount he originally paid. If he lives much longer, lifetime payments continue under the promise. Compared with otherwise similar options that add survivor or refund guarantees, pure life generally provides a larger initial periodic payment. That comparison assumes the same funding and comparable contract terms. A larger check comes with a different protection pattern."
+          }
+        },
+        {
+          "index": 461,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Now assume David chooses life income with ten years certain. If he dies after exactly four years of payments, the remaining six years of guaranteed payments continue to the designated recipient under the option. If he is still living after ten years, his life payments continue. The ten-year period is a minimum payment guarantee, not a limit on his life income. Compare that with a ten-year period-certain-only option. That option pays for the stated ten years and ends even if David remains alive. The words life with change the result. Read whether the promise lasts for a lifetime, a defined period, or the longer of those two."
+          }
+        },
+        {
+          "index": 462,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "A life-with-refund option pays lifetime income and adds a stated minimum-total protection if the annuitant dies early. Assume one hundred thousand dollars is the contract's refundable purchase amount and thirty thousand dollars has been paid when David dies. With no other adjustment, seventy thousand dollars remains under that refund promise. A cash-refund option pays that amount in one sum. An installment-refund option continues the stated installments until the required total has been paid. Those beneficiary installments do not automatically last for the beneficiary's lifetime. If David instead lives long enough to receive more than the purchase amount, his life income still continues under the contract."
+          }
+        },
+        {
+          "index": 463,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Rosa and David want income to continue while either of them lives. A joint-and-survivor option can provide that protection. Suppose the stated payment is two thousand dollars each month while both live, with seventy-five percent continuing to the survivor. After the triggering death, the survivor receives fifteen hundred dollars monthly under those assumptions. A full-survivor option would continue the stated full amount; other percentages produce different results. The words joint or two lives alone do not establish the continuation amount. Read whose death triggers a reduction and whether payments continue to the last survivor. That is different from an arrangement expressly payable only while both people remain alive."
+          }
+        },
+        {
+          "index": 464,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "A fixed-period option sets the number of payment periods, and the available funds and stated interest assumptions determine the periodic amount. A fixed-amount option instead sets the payment size, with the available funds and interest determining how long payments can last. In a simplified zero-interest example, sixty thousand dollars paid at one thousand dollars per month lasts sixty months. Changing the amount to fifteen hundred dollars shortens that to forty months. Those are teaching calculations, not lifetime guarantees or insurer quotes. A client who needs lifelong income must not mistake a chosen monthly withdrawal amount for a promise that money can never run out."
+          }
+        },
+        {
+          "index": 465,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Rosa asks whether the highest available initial payment is always the best choice. It is not. Compare the need for income during one or two lifetimes, a minimum amount for beneficiaries, available cash elsewhere and the effect of inflation. A fixed dollar payment can buy less as prices rise, even when every promised payment arrives. The choice also depends on the specific contract, because income elections and later access may be restricted. For an exam, identify what is guaranteed first: a life, a number of years, a minimum total or a payment size. Then follow the stated death or survival event to determine which payments stop, continue or change."
+          }
+        }
+      ]
+    },
+    "jobs": {
+      "jobs": [
+        {
+          "index": 460,
+          "job_id": "21dc09a0-5bf0-4115-bfdc-c17124464fe7",
+          "status": "pending"
+        },
+        {
+          "index": 461,
+          "job_id": "64d77a3f-be4f-49d1-b50e-2cf6fb2cdf0b",
+          "status": "pending"
+        },
+        {
+          "index": 462,
+          "job_id": "4ca7f510-4716-4463-b48e-a5ab96e3e7ce",
+          "status": "pending"
+        },
+        {
+          "index": 463,
+          "job_id": "c1e0820b-a96f-4261-9ad1-2b56eb5b8441",
+          "status": "pending"
+        },
+        {
+          "index": 464,
+          "job_id": "e1e887d6-2071-4224-ae0a-4b230a90b28f",
+          "status": "pending"
+        },
+        {
+          "index": 465,
+          "job_id": "48eea791-63d7-49e0-a700-68a5c00ed513",
+          "status": "pending"
+        }
+      ],
+      "submitted_count": 6,
+      "failed_count": 0
+    },
+    "completed": {
+      "jobs": [
+        {
+          "index": 460,
+          "job_id": "21dc09a0-5bf0-4115-bfdc-c17124464fe7",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_074730_21dc09a0-5bf0-4115-bfdc-c17124464fe7.mp3"
+        },
+        {
+          "index": 461,
+          "job_id": "64d77a3f-be4f-49d1-b50e-2cf6fb2cdf0b",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_074730_64d77a3f-be4f-49d1-b50e-2cf6fb2cdf0b.mp3"
+        },
+        {
+          "index": 462,
+          "job_id": "4ca7f510-4716-4463-b48e-a5ab96e3e7ce",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_074730_4ca7f510-4716-4463-b48e-a5ab96e3e7ce.mp3"
+        },
+        {
+          "index": 463,
+          "job_id": "c1e0820b-a96f-4261-9ad1-2b56eb5b8441",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_074730_c1e0820b-a96f-4261-9ad1-2b56eb5b8441.mp3"
+        },
+        {
+          "index": 464,
+          "job_id": "e1e887d6-2071-4224-ae0a-4b230a90b28f",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_074730_e1e887d6-2071-4224-ae0a-4b230a90b28f.mp3"
+        },
+        {
+          "index": 465,
+          "job_id": "48eea791-63d7-49e0-a700-68a5c00ed513",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_074730_48eea791-63d7-49e0-a700-68a5c00ed513.mp3"
+        }
+      ],
+      "summary": {
+        "total": 6,
+        "completed": 6,
+        "failed": 0,
+        "active": 0,
+        "errors": 0
+      },
+      "all_terminal": true
+    },
+    "repairs": null,
+    "method": "Paid narration only. Questions, native diagrams, captions and assembly are authored without image/video generation.",
+    "reviewState": "Complete speech, inspected layouts, full decode and browser checks passed."
+  }
+]

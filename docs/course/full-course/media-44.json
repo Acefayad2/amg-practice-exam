@@ -1,0 +1,36 @@
+{
+  "number": 44,
+  "duration": "293.879000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/f5c087d3-2114-4f33-92d8-4f600b59780c.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/003b77e2-5b90-4205-a711-727cc5314ebb.png",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/739fab35-935c-4cf2-9f7d-6c64d0deb7a0.jpg",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/e441bf6f-f7bc-48f3-afd7-ea8e6a633e0b.zip",
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "293.879000",
+      "size": "23193027"
+    }
+  },
+  "review": {
+    "layouts": "All eight scenario and teaching layouts visually inspected; corrected the Part 43 calculation-card title overlap before final rendering.",
+    "decode": "Complete FFmpeg decode passed.",
+    "speech": "All six sections compared with the script; secondary transcription confirmed a sentence omitted by the first recognition pass. Native pacing applied and all sections retranscribed.",
+    "analysis": "Optional whole-video service queued; independent speech, frame and file checks passed.",
+    "player": "Chromium: all 14 required-question, native ended-event, wrong-answer/retry, first-attempt history, playback resume, completion reload, caption and mobile dialog checks passed without page errors."
+  },
+  "status": "ready",
+  "coordinatorApproval": null
+}

@@ -107,7 +107,7 @@
       "submitted_count": 6,
       "failed_count": 0
     },
-    "results": {
+    "completed": {
       "jobs": [
         {
           "index": 410,
@@ -167,7 +167,104 @@
       },
       "all_terminal": true
     },
-    "repairs": null
+    "repairs": {
+      "requests": {
+        "requests": [
+          {
+            "index": 412,
+            "params": {
+              "model": "seed_audio",
+              "voice_type": "preset",
+              "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+              "format": "mp3",
+              "speech_rate": 5,
+              "prompt": "Activities of daily living include bathing, dressing, eating, toileting and transferring. Continence, meaning control of bladder and bowel function, is also included. Transferring means moving between positions such as a bed and a chair. Shopping, driving and managing investments are not substitutes for those named activities. Suppose a fictional rider requires permanent inability to perform two specified activities without substantial assistance. A physician's evidence of qualifying help with bathing and dressing addresses two named activities, but the remaining rider conditions still must be met. Do not turn that example into a universal two-activity rule for every acceleration product. A separate cognitive-impairment trigger can require substantial supervision under the actual wording."
+            }
+          },
+          {
+            "index": 414,
+            "params": {
+              "model": "seed_audio",
+              "voice_type": "preset",
+              "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+              "format": "mp3",
+              "speech_rate": 5,
+              "prompt": "The death-benefit change is only one part of the calculation. Acceleration can affect cash value, accumulation accounts, outstanding loans, future loan access and premium obligations. Maryland's actuarial rule addresses proportional cash-value reduction. An alternative approach places a lien against the policy, with permitted interest that can reduce value available later. Do not promise that all existing policy debt disappears or that every premium stops. At the time the benefit is claimed, the insurer must explain continuing premium requirements needed to keep the policy in force. Marcus needs those continuing obligations in writing so he can understand what coverage and resources remain after the payment."
+            }
+          },
+          {
+            "index": 415,
+            "params": {
+              "model": "seed_audio",
+              "voice_type": "preset",
+              "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+              "format": "mp3",
+              "speech_rate": 5,
+              "prompt": "For an agent-solicited application under Maryland's rule, the written benefit description and effects disclosure is provided before or with the application and acknowledged by the applicant and writing agent. Additional information is required when acceleration is requested. Tax treatment requires its own analysis: qualifying terminal-illness benefits can be excluded from federal income, while chronic-illness exclusions have additional rules. Do not promise every payment is tax-free or that government-benefit eligibility is unaffected. The insurer must provide the required tax and benefit-eligibility disclosures. The person holding an assignment, or an irrevocable beneficiary, may also need to provide the required concurrence. Review the trigger, calculation and continuing obligations together before treating the transaction as understood."
+            }
+          }
+        ]
+      },
+      "jobs": {
+        "jobs": [
+          {
+            "index": 412,
+            "job_id": "8028808f-fbed-4e7c-a1f2-7f843fbe32a6",
+            "status": "pending"
+          },
+          {
+            "index": 414,
+            "job_id": "47d20c97-e79c-47ff-b8b9-d4b40ae040d2",
+            "status": "pending"
+          },
+          {
+            "index": 415,
+            "job_id": "79e263f9-3dc5-4b23-ae8b-346dee98315b",
+            "status": "pending"
+          }
+        ],
+        "submitted_count": 3,
+        "failed_count": 0
+      },
+      "completed": {
+        "jobs": [
+          {
+            "index": 412,
+            "job_id": "8028808f-fbed-4e7c-a1f2-7f843fbe32a6",
+            "status": "completed",
+            "type": "audio",
+            "model": "seed_audio",
+            "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_072516_8028808f-fbed-4e7c-a1f2-7f843fbe32a6.mp3"
+          },
+          {
+            "index": 414,
+            "job_id": "47d20c97-e79c-47ff-b8b9-d4b40ae040d2",
+            "status": "completed",
+            "type": "audio",
+            "model": "seed_audio",
+            "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_072516_47d20c97-e79c-47ff-b8b9-d4b40ae040d2.mp3"
+          },
+          {
+            "index": 415,
+            "job_id": "79e263f9-3dc5-4b23-ae8b-346dee98315b",
+            "status": "completed",
+            "type": "audio",
+            "model": "seed_audio",
+            "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_072516_79e263f9-3dc5-4b23-ae8b-346dee98315b.mp3"
+          }
+        ],
+        "summary": {
+          "total": 3,
+          "completed": 3,
+          "failed": 0,
+          "active": 0,
+          "errors": 0
+        },
+        "all_terminal": true
+      }
+    },
+    "method": "Paid narration only. Questions, native diagrams, captions and assembly are authored without image/video generation.",
+    "reviewState": "Complete speech, inspected layouts, full decode and browser checks passed."
   },
   {
     "number": 42,
@@ -277,7 +374,7 @@
       "submitted_count": 6,
       "failed_count": 0
     },
-    "results": {
+    "completed": {
       "jobs": [
         {
           "index": 420,
@@ -337,6 +434,8 @@
       },
       "all_terminal": true
     },
-    "repairs": null
+    "repairs": null,
+    "method": "Paid narration only. Questions, native diagrams, captions and assembly are authored without image/video generation.",
+    "reviewState": "Complete speech, inspected layouts, full decode and browser checks passed."
   }
 ]

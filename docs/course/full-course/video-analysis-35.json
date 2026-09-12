@@ -1,0 +1,219 @@
+{
+  "result": {
+    "id": "93e0a1a1-96dd-41e7-95a6-f4c2d3bd84a8",
+    "video_input_id": "8e76bb15-d330-436f-aafc-fa92802da869",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/8e76bb15-d330-436f-aafc-fa92802da869.mp4",
+    "scenes": [
+      {
+        "audio": "Marcus let an ordinary individual life policy lapse after its premium grace period. Reinstatement may restore that policy when the required conditions are satisfied.",
+        "label": "Opening Hook",
+        "visual": "A man in his mid-30s with dark skin, a short dark beard, and short dark hair, wearing a navy blue button-down shirt, sits at a kitchen island. Beside him is a woman in her mid-30s with an olive complexion and long, straight dark hair, wearing a light green button-down shirt. They are both looking down at a white sheet of paper that the man is holding. A silver laptop, a ceramic mug, and a black notebook are on the white countertop. The background shows a modern kitchen with white cabinets and soft, natural lighting coming from the side.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:07",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "Maryland’s standard provision allows an application within three years from the due date of the first premium in default. It requires a written application, satisfactory evidence of insurability,",
+        "label": "Product Information",
+        "visual": "A clean, graphic slide on a light beige background. At the top, a headline is visible. Below, a box numbered 01 titled 'Eligible lapse' appears on the left with a green arrow pointing to the right. A second box numbered 02 titled 'Application' appears as the narrator continues.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:20",
+        "timestamp_start": "0:07"
+      },
+      {
+        "audio": "overdue premiums, and payment or reinstatement of other policy debt with the allowed interest. It does not apply when the policy was surrendered for cash,",
+        "label": "Product Information",
+        "visual": "The same graphic slide continues to build. A third box numbered 03 titled 'Reinstatement' appears on the right, completing the flowchart. The lighting is flat and even across the digital graphic.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:30",
+        "timestamp_start": "0:20"
+      },
+      {
+        "audio": "its cash value was exhausted by debt, or paid-up term coverage has expired. Check eligibility before promising that a late payment alone restores insurance.",
+        "label": "Product Information",
+        "visual": "The graphic remains static with the three boxes and arrows. The text inside the boxes detail the specific requirements for each stage of the process. The overall color palette is professional, using teal, dark grey, and light beige.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:41",
+        "timestamp_start": "0:30"
+      },
+      {
+        "audio": "Suppose Marcus applies within the permitted period but gives an inaccurate answer about a health change material to reinstatement. Maryland permits a contest of a reinstated life policy",
+        "label": "Product Selling Points",
+        "visual": "A new graphic slide appears with a different headline. Three boxes appear horizontally across the middle: 'Original issue', 'Reinstatement', and 'Different category'. Each box contains bulleted text detailing legal provisions. The design mirrors the previous slide's style.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:53",
+        "timestamp_start": "0:41"
+      },
+      {
+        "audio": "for fraud or misrepresentation material to that reinstatement under the same period, conditions, and exceptions that apply after original issue. The period is measured after reinstatement.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains on screen. The narrator's voiceover continues as the text in the middle 'Reinstatement' box is highlighted. The background is static beige, and the layout is symmetrical.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:08",
+        "timestamp_start": "0:53"
+      },
+      {
+        "audio": "This is different from treating every old statement as newly contestable without examining what the statute permits. Industrial life also has a different standard reinstatement window of two years.",
+        "label": "Product Selling Points",
+        "visual": "The graphic slide continues. The focus shifts to the third box on the right, 'Different category', which discusses industrial provisions. The overall tone of the visual is instructional and formal.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:22",
+        "timestamp_start": "1:08"
+      },
+      {
+        "audio": "Keep the policy category, first default date, reinstatement date, and actual disputed statement on a clear timeline.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains static as the narrator concludes the section. The bullet points under each box are clearly legible against the light background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:30",
+        "timestamp_start": "1:22"
+      },
+      {
+        "audio": "An age correction ordinarily adjusts the benefit to what the premium would have purchased at the correct age under Maryland’s standard provision. Assume a teaching policy states $100,000",
+        "label": "Product Selling Points",
+        "visual": "Transition to a new graphic slide with a new headline. On the left, a math equation is shown: '$200 ÷ $250'. To its right, another calculation appears: '$100,000 x 0.80'. The layout is clean and uses a bold sans-serif font.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:45",
+        "timestamp_start": "1:30"
+      },
+      {
+        "audio": "with $200 paid for the relevant premium period. The correct age premium for that same stated coverage would have been $250. Under the stated proportional formula, 200 divided by 250 equals 80 percent.",
+        "label": "Product Selling Points",
+        "visual": "The graphic adds an 'adjusted benefit' result of '$80,000'. A third box on the far right titled 'Check the clause' appears, providing more context on the calculations. The color scheme remains consistent with teal accents.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "2:00",
+        "timestamp_start": "1:45"
+      },
+      {
+        "audio": "The adjusted benefit is $80,000. Actual policy formulas and statutory age-limit exceptions matter. Where a contract also adjusts for misstated sex, use its lawful rate and adjustment provision.",
+        "label": "Product Selling Points",
+        "visual": "The math-focused graphic remains static. The text highlights actual policy formulas and statutory exceptions. The visual is designed to clearly illustrate a complex calculation.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "2:12",
+        "timestamp_start": "2:00"
+      },
+      {
+        "audio": "A suicide exclusion is separate from an incontestability provision. Maryland permits the stated individual life exclusion for suicide, whether sane or insane, within two years from issue",
+        "label": "Product Selling Points",
+        "visual": "Transition to another graphic slide with a headline about suicide exclusion. Three boxes are arranged horizontally: 'Separate provision', 'Period', and 'Payment'. Each contains brief explanatory text. The beige background provides high contrast for the text.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:27",
+        "timestamp_start": "2:12"
+      },
+      {
+        "audio": "subject to its special continuity rules when the same insurer replaces earlier coverage. Do not assume every new policy automatically restarts the full period for all previously insured benefits.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains on screen, focusing on the 'Period' box. The text discusses continuity rules and replacement coverage. The layout is structured and easy to follow.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:41",
+        "timestamp_start": "2:27"
+      },
+      {
+        "audio": "The contract and statute also determine the amount payable when an allowed exclusion applies. Maryland sets a minimum tied to the policy’s statutory reserve and specified adjustments.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains on screen, now highlighting the 'Payment' box. The text details statutory minimums and adjustment rules. The digital presentation is clear and professional.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "2:55",
+        "timestamp_start": "2:41"
+      },
+      {
+        "audio": "A more favorable policy may promise a premium refund. Read that actual promise instead of calling every excluded claim a zero payment.",
+        "label": "Product Selling Points",
+        "visual": "The suicide exclusion graphic remains static as the narrator emphasizes reading the actual policy promise. The design is minimalist, focusing entirely on the informational text.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "3:04",
+        "timestamp_start": "2:55"
+      },
+      {
+        "audio": "Maryland allows particular war or military service restrictions and other specified exclusions. Read whether a policy uses a status-based restriction or one tied to the cause of death.",
+        "label": "Product Selling Points",
+        "visual": "Transition to a new graphic slide about war and military restrictions. Three boxes titled 'Status wording', 'Cause wording', and 'Maryland limits' are shown. The style is identical to the previous informational slides.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:19",
+        "timestamp_start": "3:04"
+      },
+      {
+        "audio": "A statement about military membership is different from a statement about death caused by war. The statute also addresses aviation, specified hazardous work or recreation,",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains on screen, detailing the differences between status-based and cause-based statements. The text also mentions aviation and hazardous work hazards. The presentation is purely informational.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:35",
+        "timestamp_start": "3:19"
+      },
+      {
+        "audio": "and certain residence conditions with different limits. It prohibits excluding death from terrorism when the insured was a victim who did not participate. A producer must explain the actual policy restriction accurately.",
+        "label": "Product Selling Points",
+        "visual": "The graphic continues, highlighting Maryland's specific limits on excluding terrorism-related deaths. The layout remains static while the information is delivered via audio.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "3:52",
+        "timestamp_start": "3:35"
+      },
+      {
+        "audio": "Maryland prohibits knowingly issuing premium-saving life insurance more than six months before the actual application date",
+        "label": "Usage Scenarios",
+        "visual": "The camera returns to the man and woman from the first scene. They are in the same kitchen setting, still sitting at the counter and reviewing the document together. The man points at a specific section on the paper while the woman listens attentively. The lighting and color palette are consistent with the opening.",
+        "shot_type": "Medium Shot",
+        "scene_number": 19,
+        "timestamp_end": "4:00",
+        "timestamp_start": "3:52"
+      },
+      {
+        "audio": "under the statutory conditions. It separately prohibits a producer from falsely dating the application earlier to obtain that lower age-based premium.",
+        "label": "Call to Action",
+        "visual": "Final transition to a graphic slide summarizing rules against falsifying dates. Four numbered points appear vertically: 'Actual application', 'Policy date', 'False application date', and 'Other insurance'. The text is crisp and the background is light beige.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "4:14",
+        "timestamp_start": "4:00"
+      },
+      {
+        "audio": "Limited permitted policy backdating does not authorize changing when the client actually applied. Other prohibited provisions also matter. For example, a policy cannot reduce its benefit",
+        "label": "Call to Action",
+        "visual": "The final graphic remains on screen. The narrator continues through the numbered points, which explain the limitations of backdating and other prohibited provisions. The visual style is unified and authoritative.",
+        "shot_type": "Wide Shot",
+        "scene_number": 21,
+        "timestamp_end": "4:27",
+        "timestamp_start": "4:14"
+      },
+      {
+        "audio": "merely because the same insurer issued another policy on that life. Some medical history or prior rejection provisions have specific statutory limits rather than unrestricted cancellation power.",
+        "label": "Call to Action",
+        "visual": "The graphic remains static as the narrator discusses medical history and rejection provisions. Each point is clearly separated by a thin line. The overall presentation is calm and clear.",
+        "shot_type": "Wide Shot",
+        "scene_number": 22,
+        "timestamp_end": "4:41",
+        "timestamp_start": "4:27"
+      },
+      {
+        "audio": "Record the true facts, read the lawful contract, and identify the exact rule involved.",
+        "label": "Call to Action",
+        "visual": "The graphic stays on the screen until the end of the video. The four points serve as a summary of the key legal requirements discussed. The lighting is digital and perfectly even.",
+        "shot_type": "Wide Shot",
+        "scene_number": 23,
+        "timestamp_end": "4:52",
+        "timestamp_start": "4:41"
+      }
+    ]
+  }
+}

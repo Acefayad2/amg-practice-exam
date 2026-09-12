@@ -1,0 +1,84 @@
+{
+  "result": {
+    "id": "64bf9400-5030-4fe2-a916-25ed75d5ef34",
+    "video_input_id": "b8465423-94ff-4b62-b374-811c4d1dcd42",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/b8465423-94ff-4b62-b374-811c4d1dcd42.mp4",
+    "scenes": [
+      {
+        "audio": "Elena is entitled to a payable life insurance benefit. A lump sum gives her the benefit in one payment.",
+        "label": "Opening Hook",
+        "visual": "A man in his early 40s with a dark complexion and short black hair, wearing a dark blue button-down shirt, sits at a kitchen table next to a woman in her early 40s with light brown skin and long dark wavy hair, wearing an olive green button-down shirt. The man holds a silver pen and points to a white document the woman is holding. An open silver laptop sits on the wooden table. The background is a brightly lit, modern kitchen with white cabinets and a window allowing natural sunlight in. The camera is static.",
+        "shot_type": "Medium Close-Up",
+        "scene_number": 1,
+        "timestamp_end": "0:07",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "Other settlement options may spread proceeds over time, when the contract makes them available, and any binding owner instructions permit the choice. A settlement payment option is different from selling a policy to an investor during the insured's lifetime. Maryland requires a policy offering installments or an annuity to state that feature and include determinable payment information. Begin with the actual contract, eligible payee, and payment instructions. A textbook list of options does not mean every carrier offers every option on every policy.",
+        "label": "Product Information",
+        "visual": "A static graphic with a light beige background appears. Three white cards slide into view from left to right. The cards are titled sequentially from left to right as follows: first card, second card, and third card. Each card contains detailed descriptive text below its title. The color palette is minimal, using dark green and teal accents for titles and boxes.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:45",
+        "timestamp_start": "0:07"
+      },
+      {
+        "audio": "Assume an available interest-only arrangement leaves $100,000 with the insurer and pays Elena the interest. At a hypothetical 3% annual rate, that principal generates $3,000 for a full year under a simple annual calculation. The payment uses interest rather than deliberately spending down principal. The contract governs withdrawal access, rate changes, and what happens when Elena dies. Funds retained by an insurer are different from a bank deposit. Maryland permits the specified proceeds to remain among the insurer's general assets. Review the insurer's obligations and actual agreement instead of assuming federal bank deposit insurance applies.",
+        "label": "Product Selling Points",
+        "visual": "A static graphic on a light beige background displays a heading at the top. Three white boxes appear sequentially from left to right. The first box contains a large dollar amount. The second box shows a percentage multiplication. The third box contains text describing the outcome of the calculation. The layout uses clean, professional typography and teal-colored accents.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "1:33",
+        "timestamp_start": "0:45"
+      },
+      {
+        "audio": "The beneficiary wants the proceeds distributed over a stated number of years. Under a fixed period option, the selected period determines the payment schedule, while the proceeds and applicable interest help determine each payment. Use a deliberately simplified example with no interest or fees. $120,000 divided into 120 monthly payments produces $1,000 per month for 10 years. Real tables can include interest and other contract details. A fixed 10-year period is not a promise of income for Elena's entire lifetime. Read the remaining payment provision if she dies before the selected period ends.",
+        "label": "Usage Scenarios",
+        "visual": "A new static graphic appears titled with text. Three white boxes numbered 01, 02, and 03 appear from left to right. Box 01 shows a time-based calculation. Box 02 presents a monetary figure with assumptions. Box 03 displays a monthly payment result. Teal arrows point from one box to the next, illustrating a workflow.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "2:16",
+        "timestamp_start": "1:33"
+      },
+      {
+        "audio": "Now Elena specifies $2,000 each month. Under a fixed amount option, the chosen payment and the available proceeds with applicable interest determine how long payments continue. With $120,000 and no interest or fees in this teaching example, the money supplies 60 monthly payments or five years. Choosing $1,000 instead would make the same assumed principal last twice as long. This is not automatically a lifetime guarantee. Compare it with fixed period by asking what Elena selected first: the monthly amount or the number of years. Read how actual credited interest affects the remaining schedule.",
+        "label": "Usage Scenarios",
+        "visual": "A graphic graphic titled with text appears. Three white boxes appear. The first box shows a division calculation involving a large dollar amount. The second box shows a conversion from months to years. The third box is titled with a specific payment method and contains summary text. The background is light beige with teal accents.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "2:58",
+        "timestamp_start": "2:16"
+      },
+      {
+        "audio": "A life income option promises payments for the covered lifetime instead of merely until a chosen period or fund schedule ends. A straight single life form stops when its measuring life dies, with no additional guarantee assumed. Life income with a period certain can add minimum remaining payments under its terms. Joint and survivor income uses two lives and continues the specified payment to the survivor. The survivor amount may stay the same or be reduced according to the selected option. For example, 75% of the stated $2,000 payment is $1,500. These are payment forms, not first-death versus second-death life policies.",
+        "label": "Product Selling Points",
+        "visual": "A static graphic with a top-aligned title appears. Three white boxes are shown side-by-side. Each box contains a title for a different income option followed by descriptive bullet points. The background is light beige. The camera remains static throughout the transition of information.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "3:39",
+        "timestamp_start": "2:58"
+      },
+      {
+        "audio": "Do not confuse electing interest-only income with interest owed on an unpaid death claim.",
+        "label": "Problem Solving",
+        "visual": "The man and woman from Scene 1 are shown again at the kitchen table. They are looking down at the paperwork together, both with focused and serious facial expressions. The woman turns a page of the white document. The camera shot is identical to the opening scene, showing the open laptop and mugs on the table. Lighting is warm and natural.",
+        "shot_type": "Medium Close-Up",
+        "scene_number": 7,
+        "timestamp_end": "3:47",
+        "timestamp_start": "3:39"
+      },
+      {
+        "audio": "Maryland generally measures interest from the insured's death until payment. An insurer need not pay that interest when proceeds are paid within 30 days after death. If proof of death arrives more than 180 days after death, the statutory interest begins when that proof is submitted. The rate cannot be lower than the insurer's rate on death proceeds left on deposit. These interest rules do not grant permission to delay a valid claim. Determine the claim dates first, then analyze any later settlement choice separately.",
+        "label": "Product Information",
+        "visual": "A static final graphic appears with a heading at the top. Four white rows appear sequentially, numbered 01 through 04. Each row contains a title and a corresponding description of a specific rule. The background is light beige with a dark green header and teal highlights for the numbers.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "4:23",
+        "timestamp_start": "3:47"
+      }
+    ]
+  }
+}

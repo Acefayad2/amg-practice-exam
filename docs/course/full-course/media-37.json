@@ -28,7 +28,7 @@
     "layouts": "All eight scenario and teaching frames visually inspected; calculations, option comparisons, flow and circular logo checked.",
     "decode": "Complete FFmpeg decode passed.",
     "speech": "All six sections compared against script; a mispronounced phrase was replaced, the opening was paced more slowly, and secondary transcription confirmed the corrected terminology and full ending.",
-    "analysis": "Optional whole-video service queued; independent complete speech comparison, native frame inspection, full decode and player checks passed. Follow-up analysis remains tracked.",
+    "analysis": "Returned whole-video scene analysis read alongside independent narration, frame and decode checks; no additional material issue identified.",
     "player": "Chromium required-question, native ended-event, wrong-answer/retry, first-answer history, resume/completion reload and mobile caption/dialog checks passed without page errors."
   },
   "status": "ready",

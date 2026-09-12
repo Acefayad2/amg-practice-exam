@@ -1,0 +1,246 @@
+{
+  "result": {
+    "id": "bef370d5-2866-4b5e-8b7b-309e67ded3d5",
+    "video_input_id": "844372fa-274d-4f1b-936c-78cf4c38dc31",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/844372fa-274d-4f1b-936c-78cf4c38dc31.mp4",
+    "scenes": [
+      {
+        "audio": "Elena owns a participating whole life policy. Participating means it can share in the insurer's divisible surplus through policy dividends under its terms.",
+        "label": "Opening Hook",
+        "visual": "A static shot of a middle-aged Black man with a short beard wearing a navy blue button-down shirt and a younger Hispanic woman with her dark hair in a ponytail wearing an olive green blouse. They are seated at a wooden table in a brightly lit kitchen with white cabinets. The woman holds a white document that they are both intently reviewing. A silver laptop, a black notebook, and a ceramic mug are on the table. Lighting is warm and soft, coming from the right side of the frame.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:08",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "A nonparticipating policy does not provide that participation. Neither label tells us whether the coverage is temporary or permanent.",
+        "label": "Product Information",
+        "visual": "Transition to a graphic layout with a light cream background. A teal header bar at the top contains dark gray text. A large white card with a teal border appears on the left side of the screen. Inside the card, the word 'Participating' is in bold teal, followed by a description in dark gray text. The lighting is artificial and perfectly flat.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:20",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "A declared dividend can reflect the insurer's experience with claims, investments, and expenses.",
+        "label": "Product Information",
+        "visual": "Continuing the graphic layout, a second white card with a tan border slides in to the right of the first card. This card is titled 'Nonparticipating' in bold tan text with a short description below it. The background remains light cream.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:28",
+        "timestamp_start": "0:20"
+      },
+      {
+        "audio": "It is not a guaranteed future amount merely because dividends have been paid before. Keep the policy's contractual guarantees separate from a current dividend illustration.",
+        "label": "Product Information",
+        "visual": "A third white card with a dark gray border appears on the far right of the layout. It is titled 'Separate questions' in bold dark gray text, followed by bulleted items. The overall palette is muted with teal, tan, and gray tones.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:41",
+        "timestamp_start": "0:28"
+      },
+      {
+        "audio": "Under Maryland's rule, the insurer determines and apportions the stated surplus annually for participating policies. That duty does not guarantee a positive dividend every year.",
+        "label": "Product Information",
+        "visual": "The three graphic cards remain static on the screen. The focus is on the textual information presented in the third card regarding coverage duration and contractual guarantees.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:53",
+        "timestamp_start": "0:41"
+      },
+      {
+        "audio": "Assume Elena's insurer has declared a $400 dividend. Under the cash option, she receives that available dividend as money.",
+        "label": "Product Selling Points",
+        "visual": "Transition to a new graphic layout titled 'Cash and premium reduction solve different needs'. A single white card appears on the left containing the value '$1,200' in large bold teal digits above the text 'Stated premium due'.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:04",
+        "timestamp_start": "0:53"
+      },
+      {
+        "audio": "Under premium reduction, the dividend is applied toward the premium due. If that premium is $1,200, applying $400 leaves $800 to pay from other funds.",
+        "label": "Product Selling Points",
+        "visual": "A second card appears in the center of the graphic, showing '- $400' in bold teal text, labeled as 'Declared dividend applied to premium'. A teal arrow points from the first card to the second.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:16",
+        "timestamp_start": "1:04"
+      },
+      {
+        "audio": "The dividend has not erased every later premium. It is being used for this payment. Taking cash also does not mean surrendering the entire policy.",
+        "label": "Product Selling Points",
+        "visual": "A third card appears on the right showing '$800' in bold teal text, labeled 'Remaining premium from other funds'. The three cards form a linear equation from left to right across the cream background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:30",
+        "timestamp_start": "1:16"
+      },
+      {
+        "audio": "Follow the selected transaction carefully. Distributing a dividend, paying a premium, and surrendering protection are different actions with different consequences for the contract.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains static as the audio explains the distinction between actions. The visual emphasizes the calculated remaining premium balance.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:39",
+        "timestamp_start": "1:30"
+      },
+      {
+        "audio": "Elena can instead leave the declared dividend with the insurer to accumulate interest under the policy's available option.",
+        "label": "Product Selling Points",
+        "visual": "Transition to a graphic titled 'Accumulation leaves the dividend to earn interest'. On the left, a white card displays '$400 x 3%' in large teal font above the label 'Hypothetical full-year simple interest'.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "1:48",
+        "timestamp_start": "1:39"
+      },
+      {
+        "audio": "Assume $400 remains for a full year at a hypothetical 3% simple annual rate with no additions or withdrawals.",
+        "label": "Product Selling Points",
+        "visual": "A second card slides into the middle, showing '$12' in teal, labeled 'Interest earned in this example'. A teal arrow links the first card to the second.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "1:58",
+        "timestamp_start": "1:48"
+      },
+      {
+        "audio": "$12 of interest brings the total to $412. The interest crediting terms and access rights come from the actual arrangement. The declared dividend and the interest earned afterward are separate items.",
+        "label": "Product Selling Points",
+        "visual": "A third card appears on the right showing '$412' in teal, labeled 'Accumulated balance before any tax'. The graphic shows the total sum of the initial dividend and the earned interest.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:13",
+        "timestamp_start": "1:58"
+      },
+      {
+        "audio": "Interest on accumulated dividends generally creates taxable interest income, covered more fully in the tax lessons. Do not label the accumulation balance an extra death benefit purchased with insurance.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains static. The light cream background and teal headers maintain a consistent professional aesthetic. Text is clear and centered within the cards.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:27",
+        "timestamp_start": "2:13"
+      },
+      {
+        "audio": "Under an available one-year term dividend option, the dividend buys additional temporary protection for the specified year under the contract's conditions.",
+        "label": "Product Selling Points",
+        "visual": "Transition to a graphic titled 'One-year term and paid-up additions buy different coverage'. A card on the left is labeled 'One-year term' in bold teal with a description of temporary protection.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "2:38",
+        "timestamp_start": "2:27"
+      },
+      {
+        "audio": "A paid-up additions option instead buys an additional amount of permanent insurance that requires no more premiums for that purchased addition.",
+        "label": "Product Selling Points",
+        "visual": "A central card labeled 'Paid-up addition' in tan bold text appears, describing additional permanent insurance. A tan horizontal line sits beneath the label.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "2:48",
+        "timestamp_start": "2:38"
+      },
+      {
+        "audio": "Suppose a stated offer uses Elena's $400 dividend to buy $2,000 of paid-up additional whole life. The $2,000 is added insurance, not a $400 cash account.",
+        "label": "Product Selling Points",
+        "visual": "A third card on the right labeled 'Base policy' in dark gray appears, noting that its own premium obligations still matter.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:00",
+        "timestamp_start": "2:48"
+      },
+      {
+        "audio": "And not proof that her entire base policy is paid up. The amount a dividend buys depends on the applicable purchase basis. Check availability, eligibility, and the actual quotation.",
+        "label": "Product Selling Points",
+        "visual": "Static view of the three cards comparing one-year term, paid-up addition, and base policy. The layout uses high contrast between the teal/tan/gray accents and the cream background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:13",
+        "timestamp_start": "3:00"
+      },
+      {
+        "audio": "Another outline concept is using dividends toward paid-up insurance or shortening the premium-paying period.",
+        "label": "Product Selling Points",
+        "visual": "Graphic titled 'Earlier paid-up status requires sufficient actual values'. The first card on the left is labeled 'Paid-up objective' in bold teal.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "3:22",
+        "timestamp_start": "3:13"
+      },
+      {
+        "audio": "Under an available arrangement, accumulated dividend values can help fund the amount needed to make the existing policy paid up sooner. That goal is different from buying a small paid-up addition each year.",
+        "label": "Product Selling Points",
+        "visual": "The second card labeled 'Paid-up additions' in bold tan appears, indicating the purchase of extra insurance.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "3:36",
+        "timestamp_start": "3:22"
+      },
+      {
+        "audio": "It is also different from choosing reduced paid-up non-forfeiture and accepting a smaller base benefit. Most importantly, a projection that future dividends will cover premiums is not confirmation that the policy is already paid up.",
+        "label": "Product Selling Points",
+        "visual": "The third card labeled 'Premium offset projection' in dark gray appears, warning that future dividends may change.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "3:50",
+        "timestamp_start": "3:36"
+      },
+      {
+        "audio": "If dividends fall, an owner relying on premium offset may need to resume payments from other money. Confirm actual contractual status with the insurer.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains on screen, focusing on the concepts of funding a policy to a paid-up status versus projections.",
+        "shot_type": "Wide Shot",
+        "scene_number": 21,
+        "timestamp_end": "4:00",
+        "timestamp_start": "3:50"
+      },
+      {
+        "audio": "Maryland's participating policy provision includes the stated cash, premium payment, paid-up addition, and interest accumulation choices...",
+        "label": "Real Experience",
+        "visual": "Return to the couple from the first scene. The Black man in the navy shirt and the Hispanic woman in the olive green blouse are still seated at the table, leaning in together to look at the same white paper. The lighting and environment are identical to the opening hook.",
+        "shot_type": "Medium Shot",
+        "scene_number": 22,
+        "timestamp_end": "4:08",
+        "timestamp_start": "4:00"
+      },
+      {
+        "audio": "...with a term policy exception for the latter two. An insurer may offer additional choices. This does not make every textbook option mandatory on every policy.",
+        "label": "Call to Action",
+        "visual": "Final summary graphic titled 'Read the available choices and default election'. A list of four numbered items appears. Items 01 'Money' and 02 'Accumulation' are shown first with their descriptions.",
+        "shot_type": "Wide Shot",
+        "scene_number": 23,
+        "timestamp_end": "4:20",
+        "timestamp_start": "4:08"
+      },
+      {
+        "audio": "An ordinary participating policy must specify what happens if a different option is not elected within the stated 30-day period after the dividend becomes payable.",
+        "label": "Call to Action",
+        "visual": "Items 03 'Additional protection' and 04 'Existing policy' are added to the list. The list is presented clearly in dark gray text against the cream background with a horizontal teal line below each main point.",
+        "shot_type": "Wide Shot",
+        "scene_number": 24,
+        "timestamp_end": "4:35",
+        "timestamp_start": "4:20"
+      },
+      {
+        "audio": "Elena therefore checks the actual option and deadline before deciding. On an exam, first identify whether the question asks about receiving cash, reducing a premium, earning interest,",
+        "label": "Call to Action",
+        "visual": "The summary graphic remains static while the speaker provides final advice for exam preparation.",
+        "shot_type": "Wide Shot",
+        "scene_number": 25,
+        "timestamp_end": "4:43",
+        "timestamp_start": "4:35"
+      },
+      {
+        "audio": "Adding temporary coverage, adding permanent coverage, or making the existing insurance paid up.",
+        "label": "Call to Action",
+        "visual": "Final hold on the summary graphic. The color palette is consistent with previous scenes, using teal, tan, and gray accents on an off-white field.",
+        "shot_type": "Wide Shot",
+        "scene_number": 26,
+        "timestamp_end": "4:51",
+        "timestamp_start": "4:43"
+      }
+    ]
+  }
+}

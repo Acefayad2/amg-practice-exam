@@ -1,0 +1,36 @@
+{
+  "number": 42,
+  "duration": "276.792000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/186cb90e-9b99-4640-8d0b-f10bcee0cb14.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/b80633a1-af35-42fa-bb14-3f913a8775d0.png",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/4e4a63c7-c9e2-43fa-8b48-120db8b1381f.jpg",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/fa801053-344c-460d-be5d-8fb8bcb94383.zip",
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "276.792000",
+      "size": "22376005"
+    }
+  },
+  "review": {
+    "layouts": "All eight scenario and teaching frames visually inspected; calculations, comparisons, flows and circular logo checked.",
+    "decode": "Complete FFmpeg decode passed.",
+    "speech": "All six sections compared with the script; faster family-structure passage paced natively and retranscribed.",
+    "analysis": "Optional whole-video service queued; independent speech, frame and file checks passed.",
+    "player": "Chromium required-question, native ended-event, wrong-answer/retry, first-answer history, resume/completion reload and mobile caption/dialog checks passed without page errors."
+  },
+  "status": "ready",
+  "coordinatorApproval": null
+}

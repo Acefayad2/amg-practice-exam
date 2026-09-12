@@ -1,0 +1,464 @@
+[
+  {
+    "number": 47,
+    "requests": {
+      "requests": [
+        {
+          "index": 470,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Rosa compares three ways an annuity can develop value. One credits interest declared by the insurer. Another uses selected investment portfolios. A third calculates interest using a market index and a contract formula. The key question is who bears the investment risk and exactly what is guaranteed. Income timing is a different classification: fixed, indexed or variable describes the design, while immediate or deferred describes when income starts. An early withdrawal can also produce a market value adjustment under some contracts. Keep the source of growth, minimum promise, withdrawal rules and selected income benefit separate when comparing these choices."
+          }
+        },
+        {
+          "index": 471,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "A traditional fixed annuity is supported by the insurer's general account. The insurer bears the investment risk behind its contractual guarantees. Suppose Rosa's contract guarantees at least two percent interest but currently credits four percent for the stated period. Four percent is not automatically promised forever. A later declared rate can change within the contract's limits while the minimum guarantee remains applicable. Some designs guarantee a stated rate for several years; read that period. A fixed income option can provide level dollar payments, but level dollars do not guarantee level purchasing power. Inflation can reduce what the same monthly amount buys."
+          }
+        },
+        {
+          "index": 472,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "David considers a variable annuity. Amounts allocated to its investment subaccounts are held in a separate account, with results tied to the chosen portfolios. He bears the investment risk for that allocation, and value can fall. In a simplified example with no charges or other changes, fifty thousand dollars experiencing a ten percent loss becomes forty-five thousand dollars. Actual fees and withdrawals also affect value. Variable income payments can change with investment results under the payout formula. A separate death or living benefit guarantee does not mean every account balance is protected against loss. Variable annuities are securities as well as insurance products, with prospectus disclosures and applicable securities requirements."
+          }
+        },
+        {
+          "index": 473,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "A fixed indexed annuity uses a specified index to calculate interest under the contract. It does not give Rosa direct ownership of that index's stocks. Suppose the stated method uses an eight percent index increase, a fifty percent participation rate and a three percent cap, with no spread or other adjustment. Half of eight percent is four percent, then the cap limits the credited rate to three percent. Apply the provided order and formula. A zero index-credit floor prevents a negative index credit under that provision; it does not eliminate surrender charges, rider costs or other reductions. Registered index-linked annuities are different and can expose value to index losses."
+          }
+        },
+        {
+          "index": 474,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "A market-value-adjusted annuity may guarantee interest for a specified period while adjusting value if the owner exits at a time covered by its formula. Such designs are also associated with the term modified guaranteed annuity. Generally, an increase in relevant market interest rates can produce a negative adjustment; a decrease can produce a positive adjustment. The actual formula and timing control. A market value adjustment is distinct from a surrender charge, and both may apply. Do not assume keeping the credited interest guarantee means every early withdrawal returns the same amount. Registered market-value-adjustment annuities also have securities disclosures; the presence of an adjustment alone does not replace a product's actual classification."
+          }
+        },
+        {
+          "index": 475,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Rosa wants predictable promises and David is willing to accept investment fluctuations. Their preferences begin the discussion, but neither preference alone establishes the right recommendation. Compare costs, accessible cash, the time horizon, the insurer, the actual guarantees and the income option. A high illustrated return is not a guaranteed result. An indexed design is not automatically a variable annuity, and a separate account is not the same as the insurer's general account. For an exam, identify the design from its mechanics. Then answer the particular question about value, credited interest, investment risk or surrender. A product label cannot override the numbers and conditions explicitly given."
+          }
+        }
+      ]
+    },
+    "jobs": {
+      "jobs": [
+        {
+          "index": 470,
+          "job_id": "f9b36d66-e069-4b78-be57-c36e76e0961f",
+          "status": "pending"
+        },
+        {
+          "index": 471,
+          "job_id": "e5bcf3ce-d205-4964-8977-71c0adb9b763",
+          "status": "pending"
+        },
+        {
+          "index": 472,
+          "job_id": "2cf57dfa-a472-4de3-a9bf-3f0fc464bf3b",
+          "status": "pending"
+        },
+        {
+          "index": 473,
+          "job_id": "76a381a7-4ee3-4714-be9c-dfc7fe5b45e8",
+          "status": "pending"
+        },
+        {
+          "index": 474,
+          "job_id": "9d841fe3-a716-4842-a635-777d99fca2ef",
+          "status": "pending"
+        },
+        {
+          "index": 475,
+          "job_id": "50b352ed-a85f-4238-bc6c-d308bb583b82",
+          "status": "pending"
+        }
+      ],
+      "submitted_count": 6,
+      "failed_count": 0
+    },
+    "completed": {
+      "jobs": [
+        {
+          "index": 470,
+          "job_id": "f9b36d66-e069-4b78-be57-c36e76e0961f",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_080315_f9b36d66-e069-4b78-be57-c36e76e0961f.mp3"
+        },
+        {
+          "index": 471,
+          "job_id": "e5bcf3ce-d205-4964-8977-71c0adb9b763",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_080316_e5bcf3ce-d205-4964-8977-71c0adb9b763.mp3"
+        },
+        {
+          "index": 472,
+          "job_id": "2cf57dfa-a472-4de3-a9bf-3f0fc464bf3b",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_080316_2cf57dfa-a472-4de3-a9bf-3f0fc464bf3b.mp3"
+        },
+        {
+          "index": 473,
+          "job_id": "76a381a7-4ee3-4714-be9c-dfc7fe5b45e8",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_080315_76a381a7-4ee3-4714-be9c-dfc7fe5b45e8.mp3"
+        },
+        {
+          "index": 474,
+          "job_id": "9d841fe3-a716-4842-a635-777d99fca2ef",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_080315_9d841fe3-a716-4842-a635-777d99fca2ef.mp3"
+        },
+        {
+          "index": 475,
+          "job_id": "50b352ed-a85f-4238-bc6c-d308bb583b82",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_080316_50b352ed-a85f-4238-bc6c-d308bb583b82.mp3"
+        }
+      ],
+      "summary": {
+        "total": 6,
+        "completed": 6,
+        "failed": 0,
+        "active": 0,
+        "errors": 0
+      },
+      "all_terminal": true
+    },
+    "repairs": {
+      "requests": {
+        "requests": [
+          {
+            "index": 472,
+            "params": {
+              "model": "seed_audio",
+              "voice_type": "preset",
+              "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+              "format": "mp3",
+              "speech_rate": 5,
+              "prompt": "David considers a variable annuity. Amounts allocated to its investment subaccounts are held in a separate account, with results tied to the chosen portfolios. He bears the investment risk for that allocation, and value can fall. In a simplified example with no charges or other changes, fifty thousand dollars experiencing a ten percent loss becomes forty-five thousand dollars. Actual fees and withdrawals also affect value. Variable income payments can change with investment results under the payout formula. A guarantee applies only to the benefit and conditions it names. Read its limits instead of assuming all account values are protected. Variable annuities are securities as well as insurance products, with prospectus disclosures and applicable securities requirements."
+            }
+          }
+        ]
+      },
+      "jobs": {
+        "jobs": [
+          {
+            "index": 472,
+            "job_id": "27cf232f-0ede-454f-b428-84d3e59d84f6",
+            "status": "pending"
+          }
+        ],
+        "submitted_count": 1,
+        "failed_count": 0
+      },
+      "completed": {
+        "jobs": [
+          {
+            "index": 472,
+            "job_id": "27cf232f-0ede-454f-b428-84d3e59d84f6",
+            "status": "completed",
+            "type": "audio",
+            "model": "seed_audio",
+            "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_080909_27cf232f-0ede-454f-b428-84d3e59d84f6.mp3"
+          }
+        ],
+        "summary": {
+          "total": 1,
+          "completed": 1,
+          "failed": 0,
+          "active": 0,
+          "errors": 0
+        },
+        "all_terminal": true
+      }
+    },
+    "method": "Paid narration only. Questions, native diagrams, captions and assembly are authored without image/video generation.",
+    "reviewState": "All six final sections reviewed after selected repairs and native pacing; eight layouts and complete decode passed; all 14 browser checks passed."
+  },
+  {
+    "number": 48,
+    "requests": {
+      "requests": [
+        {
+          "index": 480,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Rosa receives a lump sum and asks about retirement income. First identify how much she needs for emergencies, debts and upcoming expenses, as well as the income gap she wants to fill. An annuity can support long-term accumulation or a chosen income promise, but tying up essential near-term cash can conflict with her needs. The producer must understand the product's access rules, costs, guarantees and risks. In a covered Maryland recommendation, the producer's or insurer's financial interest must not come ahead of the consumer's interest. A large commission or attractive opening rate cannot replace a reasonable basis for the recommendation."
+          }
+        },
+        {
+          "index": 481,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Annuities can fund eligible individual or group retirement arrangements, including an individual retirement annuity. The account or plan establishes its tax rules, contribution conditions and distribution requirements. The insurance contract supplies its particular benefits and costs. Placing an annuity inside a traditional tax-deferred retirement account does not create a second layer of tax deferral. The recommendation needs a reason grounded in the insurance features and the client's circumstances. Outside such a plan, eligible nonqualified annuity earnings can grow tax-deferred, but the personal premium is generally paid with after-tax money. Tax-deferred means taxation is postponed under applicable rules, not that every eventual payment is tax-free."
+          }
+        },
+        {
+          "index": 482,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Suppose David wants money for a grandchild's tuition in two years. Naming education as the purpose does not remove surrender charges or make a nonqualified annuity withdrawal tax-free. An education exception associated with an eligible IRA distribution is not a blanket exception for every commercial annuity. Compare access, taxes and alternatives within the producer's authority. A charitable gift annuity is another distinct arrangement: a donor gives money or property in exchange for an eligible organization's annuity promise to the donor or a nominee. Maryland requires the covered organization to obtain a special permit before issuing these agreements. Charitable purpose does not make every payment entirely tax-free."
+          }
+        },
+        {
+          "index": 483,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Maryland's standard includes care, disclosure, conflict and documentation obligations. Obtain the consumer profile: financial resources and needs, experience, objectives, time horizon, liquidity, risk tolerance, funding source and tax status. Use reasonable inquiry into options available within your authority, and explain why the recommendation addresses the person's situation over the product's life. Disclose your role, product authority, insurer relationships, compensation sources and the right to request a cash-compensation estimate. Explain material product features and restrictions. Identify and avoid, or reasonably manage and disclose, material conflicts. Choosing the lowest commission alone is not the standard. The actual reasoning must support the client's circumstances."
+          }
+        },
+        {
+          "index": 484,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "David already owns an annuity and is offered a new one with a bonus. Compare the old surrender charge, the new surrender period, lost benefits, increased fees and rider costs, and whether the change substantially benefits him over the product's life. Maryland specifically calls for considering another exchange or replacement within the preceding sixty months. A bonus alone does not settle that comparison. Record the recommendation and its basis at the time of recommendation or sale. If the consumer refuses relevant profile information, document the refusal and consequences with the required signed statement. A signature does not manufacture a sound recommendation from missing facts."
+          }
+        },
+        {
+          "index": 485,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "A new producer subject to Maryland's annuity training rule needs the approved one-time four-credit training and knowledge of the insurer's product before making the sale. This exam-preparation lesson is not that approved training. Required transaction records are maintained for seven years after the insurer completes the transaction. Insurers must supervise recommendations, and producers must not discourage truthful information, complaints or cooperation with an investigation. If a consumer independently chooses an unrecommended transaction, follow the specific acknowledgment and insurer review rules. The chapter has defined scope exceptions. For an exam, connect the client's need, the product's restrictions and the producer's required action instead of assuming every annuity sale follows one shortcut."
+          }
+        }
+      ]
+    },
+    "jobs": {
+      "jobs": [
+        {
+          "index": 480,
+          "job_id": "594bee8f-8be9-446c-a90b-b57c2847dc34",
+          "status": "pending"
+        },
+        {
+          "index": 481,
+          "job_id": "4a6b6b44-d5ce-4e73-80a8-ea8b72f983c4",
+          "status": "pending"
+        },
+        {
+          "index": 482,
+          "job_id": "d6e4ba09-e842-4d23-9fa9-d3d581122572",
+          "status": "pending"
+        },
+        {
+          "index": 483,
+          "job_id": "0cef1d79-7cbf-4c3b-b45c-0b6793fac4de",
+          "status": "pending"
+        },
+        {
+          "index": 484,
+          "job_id": "8b480bee-2118-4ee6-934f-fa83ad2fc7ec",
+          "status": "pending"
+        },
+        {
+          "index": 485,
+          "job_id": "69a27132-ca63-4667-bb41-d311b64e10ea",
+          "status": "pending"
+        }
+      ],
+      "submitted_count": 6,
+      "failed_count": 0
+    },
+    "completed": {
+      "jobs": [
+        {
+          "index": 480,
+          "job_id": "594bee8f-8be9-446c-a90b-b57c2847dc34",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_080457_594bee8f-8be9-446c-a90b-b57c2847dc34.mp3"
+        },
+        {
+          "index": 481,
+          "job_id": "4a6b6b44-d5ce-4e73-80a8-ea8b72f983c4",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_080457_4a6b6b44-d5ce-4e73-80a8-ea8b72f983c4.mp3"
+        },
+        {
+          "index": 482,
+          "job_id": "d6e4ba09-e842-4d23-9fa9-d3d581122572",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_080457_d6e4ba09-e842-4d23-9fa9-d3d581122572.mp3"
+        },
+        {
+          "index": 483,
+          "job_id": "0cef1d79-7cbf-4c3b-b45c-0b6793fac4de",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_080457_0cef1d79-7cbf-4c3b-b45c-0b6793fac4de.mp3"
+        },
+        {
+          "index": 484,
+          "job_id": "8b480bee-2118-4ee6-934f-fa83ad2fc7ec",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_080457_8b480bee-2118-4ee6-934f-fa83ad2fc7ec.mp3"
+        },
+        {
+          "index": 485,
+          "job_id": "69a27132-ca63-4667-bb41-d311b64e10ea",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_080457_69a27132-ca63-4667-bb41-d311b64e10ea.mp3"
+        }
+      ],
+      "summary": {
+        "total": 6,
+        "completed": 6,
+        "failed": 0,
+        "active": 0,
+        "errors": 0
+      },
+      "all_terminal": true
+    },
+    "repairs": {
+      "requests": {
+        "requests": [
+          {
+            "index": 482,
+            "params": {
+              "model": "seed_audio",
+              "voice_type": "preset",
+              "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+              "format": "mp3",
+              "speech_rate": 5,
+              "prompt": "David wants money for a grandchild's tuition in two years. Naming education as the purpose does not remove surrender charges or make a nonqualified annuity withdrawal tax-free. An education exception associated with an eligible IRA distribution is not a blanket exception for every commercial annuity. Compare access, taxes and alternatives within the producer's authority. A charitable gift annuity is another distinct arrangement: a donor gives money or property in exchange for an eligible organization's annuity promise to the donor or a nominee. Maryland requires the covered organization to obtain a special permit before issuing these agreements. Charitable purpose does not make every payment entirely tax-free."
+            }
+          },
+          {
+            "index": 485,
+            "params": {
+              "model": "seed_audio",
+              "voice_type": "preset",
+              "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+              "format": "mp3",
+              "speech_rate": 5,
+              "prompt": "A new producer subject to Maryland's annuity training rule needs the approved one-time four-credit training and knowledge of the insurer's product before making the sale. This exam-preparation lesson is not that approved training. Required transaction records are maintained for seven years after the insurer completes the transaction. Each insurance company must supervise recommendations. A producer must not discourage truthful information, complaints or cooperation with an investigation. If a consumer independently chooses an unrecommended transaction, follow the specific acknowledgment and insurer review rules. The chapter has defined scope exceptions. On the exam, identify the client's need, relevant restrictions and the action the producer must take. Then check whether an exception changes the result."
+            }
+          }
+        ]
+      },
+      "jobs": {
+        "jobs": [
+          {
+            "index": 482,
+            "job_id": "f0b49abc-fca0-4b72-a420-dcbfbf341073",
+            "status": "pending"
+          },
+          {
+            "index": 485,
+            "job_id": "c5108c8d-cf7f-4f23-af18-8396ebadb869",
+            "status": "pending"
+          }
+        ],
+        "submitted_count": 2,
+        "failed_count": 0
+      },
+      "completed": {
+        "jobs": [
+          {
+            "index": 482,
+            "job_id": "f0b49abc-fca0-4b72-a420-dcbfbf341073",
+            "status": "completed",
+            "type": "audio",
+            "model": "seed_audio",
+            "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_081354_f0b49abc-fca0-4b72-a420-dcbfbf341073.mp3"
+          },
+          {
+            "index": 485,
+            "job_id": "c5108c8d-cf7f-4f23-af18-8396ebadb869",
+            "status": "completed",
+            "type": "audio",
+            "model": "seed_audio",
+            "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_081354_c5108c8d-cf7f-4f23-af18-8396ebadb869.mp3"
+          }
+        ],
+        "summary": {
+          "total": 2,
+          "completed": 2,
+          "failed": 0,
+          "active": 0,
+          "errors": 0
+        },
+        "all_terminal": true
+      }
+    },
+    "method": "Paid narration only. Questions, native diagrams, captions and assembly are authored without image/video generation.",
+    "reviewState": "All six final sections reviewed after selected repairs and native pacing; eight layouts and complete decode passed; all 14 browser checks passed."
+  }
+]

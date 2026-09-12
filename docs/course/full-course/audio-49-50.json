@@ -1,0 +1,344 @@
+[
+  {
+    "number": 49,
+    "requests": {
+      "requests": [
+        {
+          "index": 490,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Marcus hears that life insurance is tax-free and assumes every transaction receives the same treatment. Start by identifying the event. Growth inside a qualifying life policy generally is not taxed to the owner each year merely because cash value increased. Personal life insurance premiums generally are paid with after-tax money and are not deductible. Taking a distribution, surrendering the policy, receiving a death benefit and calculating an estate are different events with different rules. This lesson uses personally owned coverage meeting the federal life insurance definition. Modified endowment contracts receive a separate lesson because their distribution rules differ. Never replace those distinctions with a promise that all money is tax-free."
+          }
+        },
+        {
+          "index": 491,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "A participating policy dividend generally represents a return of premium for federal income-tax purposes, to the extent it does not exceed the owner's remaining investment in the contract. That investment is often called basis. Prior tax-free returns can reduce basis, so use the adjusted figure rather than blindly adding every historical premium. If Marcus leaves dividends with the insurer to earn interest, the added interest generally is taxable even when the underlying dividend is a nontaxable premium return. Assume a stated eight hundred dollar dividend is entirely within unrecovered premiums and separately earns forty dollars of interest. The forty dollars is interest income under these assumptions."
+          }
+        },
+        {
+          "index": 492,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "For an in-force nonmodified life contract, an ordinary policy loan generally is indebtedness rather than current taxable income. Interest and policy debt still matter. A withdrawal generally recovers basis before gain under the ordinary rule, but special rules can apply, including certain early benefit reductions. Do not assume every withdrawal receives identical treatment. If the policy later lapses or is surrendered with a loan outstanding, discharge of that debt can count toward the taxable distribution. Income can arise even when little or no new cash reaches Marcus. Keeping the policy in force and monitoring debt is therefore different from simply calling the original loan tax-free forever."
+          }
+        },
+        {
+          "index": 493,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Assume Marcus fully surrenders a policy and receives fifty-five thousand dollars. His adjusted investment in the contract is forty thousand dollars, and the example has no outstanding loan, other payment or further adjustment. The fifteen thousand dollar excess is ordinary income. The forty thousand dollars of recovered basis is not taxed again. This is not a death benefit, and keeping the policy for many years does not turn its surrender gain into a capital gain. In a different case with policy debt, the amount treated as received can include money used to discharge the loan, so the cash check alone may not show the entire taxable event."
+          }
+        },
+        {
+          "index": 494,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Elena receives a qualifying two hundred thousand dollar death benefit plus three thousand dollars of separately stated interest. Assuming no exception to the ordinary death-benefit exclusion, the benefit is excluded from federal gross income and the interest is taxable. Choosing installments does not make all later interest disappear. Suppose the insurer holds a two hundred thousand dollar benefit for one hundred installments of twenty-four hundred dollars each. Under the stated fixed-installment calculation, two thousand dollars of each payment recovers the benefit, and four hundred dollars is interest. Life-contingent installments use additional calculations. Also check transfer-for-value and employer-owned coverage rules before assuming every death payment qualifies for the full exclusion."
+          }
+        },
+        {
+          "index": 495,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Now ask a different question: whether insurance is included in Marcus's federal gross estate. Proceeds payable to his estate are generally included. Proceeds payable to another beneficiary can also be included if he retained incidents of ownership at death, such as the power to change beneficiaries, surrender or borrow against the policy. Certain transfers within three years of death can also bring proceeds into the estate. Direct payment to Elena can avoid ordinary probate administration while still requiring an estate-tax analysis. Inclusion does not automatically mean tax is owed, because deductions and applicable exclusions also matter. Keep the recipient, income-tax result, probate treatment and estate inclusion as four separate questions."
+          }
+        }
+      ]
+    },
+    "jobs": {
+      "jobs": [
+        {
+          "index": 490,
+          "job_id": "36e11678-69b7-4994-a4e1-21778d78f7d7",
+          "status": "pending"
+        },
+        {
+          "index": 491,
+          "job_id": "7a0b3684-eaf8-416a-a4be-08bda744fc9b",
+          "status": "pending"
+        },
+        {
+          "index": 492,
+          "job_id": "364b5c56-6c4c-4878-a942-4703c2cc2818",
+          "status": "pending"
+        },
+        {
+          "index": 493,
+          "job_id": "fcc8d225-ebdb-4416-8b20-6b5da9b6cbcc",
+          "status": "pending"
+        },
+        {
+          "index": 494,
+          "job_id": "737c34e7-eff9-436e-8ae1-00c5330f56d3",
+          "status": "pending"
+        },
+        {
+          "index": 495,
+          "job_id": "ee0490e2-4c0e-4f69-91b6-52d5aa5341d9",
+          "status": "pending"
+        }
+      ],
+      "submitted_count": 6,
+      "failed_count": 0
+    },
+    "completed": {
+      "jobs": [
+        {
+          "index": 490,
+          "job_id": "36e11678-69b7-4994-a4e1-21778d78f7d7",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_081824_36e11678-69b7-4994-a4e1-21778d78f7d7.mp3"
+        },
+        {
+          "index": 491,
+          "job_id": "7a0b3684-eaf8-416a-a4be-08bda744fc9b",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_081823_7a0b3684-eaf8-416a-a4be-08bda744fc9b.mp3"
+        },
+        {
+          "index": 492,
+          "job_id": "364b5c56-6c4c-4878-a942-4703c2cc2818",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_081823_364b5c56-6c4c-4878-a942-4703c2cc2818.mp3"
+        },
+        {
+          "index": 493,
+          "job_id": "fcc8d225-ebdb-4416-8b20-6b5da9b6cbcc",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_081824_fcc8d225-ebdb-4416-8b20-6b5da9b6cbcc.mp3"
+        },
+        {
+          "index": 494,
+          "job_id": "737c34e7-eff9-436e-8ae1-00c5330f56d3",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_081823_737c34e7-eff9-436e-8ae1-00c5330f56d3.mp3"
+        },
+        {
+          "index": 495,
+          "job_id": "ee0490e2-4c0e-4f69-91b6-52d5aa5341d9",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_081823_ee0490e2-4c0e-4f69-91b6-52d5aa5341d9.mp3"
+        }
+      ],
+      "summary": {
+        "total": 6,
+        "completed": 6,
+        "failed": 0,
+        "active": 0,
+        "errors": 0
+      },
+      "all_terminal": true
+    },
+    "method": "All six narration sections compared with script via full speech transcription; ambiguous loan phrase in Part 50 checked again with small.en.",
+    "reviewState": "Final media render and browser review in progress."
+  },
+  {
+    "number": 50,
+    "requests": {
+      "requests": [
+        {
+          "index": 500,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Marcus wants to pay a large premium into a cash-value life policy. The funding pattern can affect whether it becomes a modified endowment contract, usually called a MEC. A MEC still meets the federal definition of life insurance, but it fails the applicable seven-pay funding test or comes from an exchange of another MEC. Its living distributions receive different tax treatment. MEC status does not, by itself, remove the ordinary income-tax exclusion for a qualifying death benefit. Nor does it automatically require annual tax on all inside growth. Identify the transaction: paying a premium, receiving a withdrawal, taking a loan or receiving a death payment."
+          }
+        },
+        {
+          "index": 501,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "The seven-pay test compares premiums paid with the cumulative amount allowed at each point during the testing period. It is based on the actuarially determined premiums for paid-up future benefits after seven level annual payments. It is not simply the premium Marcus prefers or one-seventh of the death benefit. Suppose the facts give a ten thousand dollar seven-pay annual limit and a twenty thousand dollar cumulative limit at the end of year two. Total counted premiums of twenty-two thousand dollars exceed that stated cumulative limit by two thousand dollars. Unless an applicable correction or other rule changes the facts, the funding test fails. Use the supplied limit rather than inventing an actuarial calculation."
+          }
+        },
+        {
+          "index": 502,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Passing the first seven years does not make every later policy change irrelevant. A material change can cause a new testing period with required adjustments. Certain benefit reductions can require recalculation using the lower benefit. Once MEC status applies, merely waiting until year eight or repaying a loan does not automatically remove it. A life policy received in exchange for a MEC is also a MEC under the exchange rule. The law provides specified procedures for timely return of excess premiums and other correction situations, but an ordinary withdrawal is not a universal cure. Ask the insurer to determine status and permitted correction before promising the tax result of a funding change."
+          }
+        },
+        {
+          "index": 503,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Compare two teaching policies, each with seventy thousand dollars of cash value and fifty thousand dollars of adjusted investment. Each therefore has twenty thousand dollars of gain. Assume an ordinary fifteen thousand dollar withdrawal from the non-MEC occurs after the first fifteen policy years, with no special rule or other adjustment. It is a basis recovery under those assumptions. Now apply the same withdrawal to the MEC. Its earnings-first rule makes the fifteen thousand dollars taxable ordinary income because twenty thousand dollars of gain is available. If the MEC withdrawal instead totals twenty-five thousand dollars, the first twenty thousand is gain and the remaining five thousand recovers basis."
+          }
+        },
+        {
+          "index": 504,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "A MEC loan generally is treated as a distribution for federal tax purposes. Using the same seventy thousand dollar value and fifty thousand dollar adjusted investment, a fifteen thousand dollar loan is taxable to the extent of the available gain under the stated assumptions. Assigning or pledging value can also trigger distribution treatment, subject to specific exceptions. This differs from an ordinary loan under an in-force non-MEC policy. The tax classification does not eliminate the actual loan balance, interest or effect on insurance benefits. Keep those contract consequences separate. Also track prior taxable amounts so a later distribution calculation does not simply tax the same amount twice."
+          }
+        },
+        {
+          "index": 505,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Assume Marcus is forty-five and receives a MEC distribution with fifteen thousand dollars of taxable gain, with no applicable exception. The additional federal tax is ten percent of that taxable amount, or fifteen hundred dollars, on top of the ordinary income tax. It is not ten percent of the entire policy value. The additional-tax rule has exceptions, including distributions at age fifty-nine and one-half or later, qualifying disability and qualifying substantially equal periodic payments. An exception to the additional tax does not automatically remove ordinary income tax on the gain. On an exam, establish MEC status, calculate the gain portion, then check age and the actual exception before calculating the extra tax."
+          }
+        }
+      ]
+    },
+    "jobs": {
+      "jobs": [
+        {
+          "index": 500,
+          "job_id": "b407e017-88c3-430d-bd97-6acb9da6f118",
+          "status": "pending"
+        },
+        {
+          "index": 501,
+          "job_id": "016ba227-be1d-4277-b8b8-3e40542b41a1",
+          "status": "pending"
+        },
+        {
+          "index": 502,
+          "job_id": "8b4d9c9b-8631-480c-a240-fe091f78029f",
+          "status": "pending"
+        },
+        {
+          "index": 503,
+          "job_id": "3660a4e9-66ee-4648-b08f-9b0e4cb155c5",
+          "status": "pending"
+        },
+        {
+          "index": 504,
+          "job_id": "4194fd0e-ec2b-4e87-a9aa-320526e65aa2",
+          "status": "pending"
+        },
+        {
+          "index": 505,
+          "job_id": "1c35d669-e6b6-420c-b34e-3b37dbc17c1a",
+          "status": "pending"
+        }
+      ],
+      "submitted_count": 6,
+      "failed_count": 0
+    },
+    "completed": {
+      "jobs": [
+        {
+          "index": 500,
+          "job_id": "b407e017-88c3-430d-bd97-6acb9da6f118",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_082125_b407e017-88c3-430d-bd97-6acb9da6f118.mp3"
+        },
+        {
+          "index": 501,
+          "job_id": "016ba227-be1d-4277-b8b8-3e40542b41a1",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_082125_016ba227-be1d-4277-b8b8-3e40542b41a1.mp3"
+        },
+        {
+          "index": 502,
+          "job_id": "8b4d9c9b-8631-480c-a240-fe091f78029f",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_082125_8b4d9c9b-8631-480c-a240-fe091f78029f.mp3"
+        },
+        {
+          "index": 503,
+          "job_id": "3660a4e9-66ee-4648-b08f-9b0e4cb155c5",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_082125_3660a4e9-66ee-4648-b08f-9b0e4cb155c5.mp3"
+        },
+        {
+          "index": 504,
+          "job_id": "4194fd0e-ec2b-4e87-a9aa-320526e65aa2",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_082126_4194fd0e-ec2b-4e87-a9aa-320526e65aa2.mp3"
+        },
+        {
+          "index": 505,
+          "job_id": "1c35d669-e6b6-420c-b34e-3b37dbc17c1a",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_082126_1c35d669-e6b6-420c-b34e-3b37dbc17c1a.mp3"
+        }
+      ],
+      "summary": {
+        "total": 6,
+        "completed": 6,
+        "failed": 0,
+        "active": 0,
+        "errors": 0
+      },
+      "all_terminal": true
+    },
+    "method": "All six narration sections compared with script via full speech transcription; ambiguous loan phrase in Part 50 checked again with small.en.",
+    "reviewState": "Final media render and browser review in progress."
+  }
+]

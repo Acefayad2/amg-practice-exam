@@ -1,0 +1,210 @@
+{
+  "result": {
+    "id": "90bae4a0-15dd-498f-9217-b6b31faf2623",
+    "video_input_id": "e30790f3-c71f-4088-9b84-334a0d65ee80",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/e30790f3-c71f-4088-9b84-334a0d65ee80.mp4",
+    "scenes": [
+      {
+        "audio": "Marcus names Elena as primary beneficiary and their adult daughter as contingent beneficiary.",
+        "label": "Opening Hook",
+        "visual": "A static shot of a man and a woman sitting at a dark wooden table in a brightly lit, modern room with cream-colored cabinetry in the background. The man, approximately 40 years old with a dark complexion, short black hair, and a neat black beard, wears a navy blue button-down shirt. He holds a white paper with his right hand and points at it with his left. The woman, approximately 30 years old with a medium-light brown complexion and long straight black hair, wears a light olive green blouse and looks at the paper intently. A silver laptop, a ceramic mug, and a black notebook are on the table. The lighting is soft and warm, casting gentle shadows.",
+        "shot_type": "Medium Close-Up",
+        "scene_number": 1,
+        "timestamp_end": "0:07",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "The primary beneficiary has first priority when eligible under the policy. The contingent beneficiary takes when the primary cannot, according to the stated succession rules.",
+        "label": "Product Information",
+        "visual": "The screen transitions to a graphic layout on a light grey background. A vertical rectangular box with a dark teal header appears on the left, followed by a second box with a light green header in the center. The camera is static. The overall color palette is professional and muted, featuring teals, greens, and greys. A circular crest logo is visible in the lower-left corner.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:21",
+        "timestamp_start": "0:07"
+      },
+      {
+        "audio": "Naming an individual is different from designating a class, such as my children.",
+        "label": "Product Information",
+        "visual": "A third rectangular box with a light teal header appears to the right of the existing two on the graphic slide. The background remains light grey. The lighting is flat and artificial as part of the digital graphic.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:30",
+        "timestamp_start": "0:21"
+      },
+      {
+        "audio": "Class wording must explain how shares pass if a member dies first. Per capita generally divides among the surviving members of the stated class.",
+        "label": "Product Information",
+        "visual": "The graphic transitions to a new slide with a white background. Information is presented in two separate blocks. The layout remains clean and minimalist, using a consistent palette of teals and muted greens. The circular crest logo remains in the bottom left corner.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:45",
+        "timestamp_start": "0:30"
+      },
+      {
+        "audio": "Per stirpes preserves a deceased member's branch for eligible descendants.",
+        "label": "Product Information",
+        "visual": "The same slide layout persists, focusing on the second block of information. The camera remains static on the digital graphic.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:49",
+        "timestamp_start": "0:45"
+      },
+      {
+        "audio": "Read the actual designation instead of treating every child and grandchild as an equal recipient. Elena wants insurance money to support a young child.",
+        "label": "Usage Scenarios",
+        "visual": "Transition to a new slide with a white background. Three vertical boxes are arranged across the screen, starting with the leftmost box which has a dark red-brown header. The graphic aesthetic is modern and professional.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:04",
+        "timestamp_start": "0:49"
+      },
+      {
+        "audio": "A minor generally cannot receive and manage a large claim as an independent adult payee. An appropriate trust or custodial arrangement can provide a legally authorized person to manage the funds.",
+        "label": "Usage Scenarios",
+        "visual": "The middle box on the current slide, which features a teal header, is highlighted. The camera is static on the digital presentation.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:19",
+        "timestamp_start": "1:04"
+      },
+      {
+        "audio": "A trust beneficiary is different from naming the insured's estate. Proceeds payable to the estate enter the estate administration process.",
+        "label": "Usage Scenarios",
+        "visual": "The rightmost box on the slide, featuring a dark blue header, becomes the focus as the screen remains static. The color grading is natural for digital content.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:34",
+        "timestamp_start": "1:19"
+      },
+      {
+        "audio": "Proceeds payable directly to an eligible named beneficiary ordinarily pass outside probate. The policy designation, trust documents, and applicable law must work together.",
+        "label": "Usage Scenarios",
+        "visual": "The slide content continues to be displayed as the voiceover concludes the point. No new visual elements are added to the static frame.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:49",
+        "timestamp_start": "1:34"
+      },
+      {
+        "audio": "Simply writing a different wish in a will does not ordinarily replace the policy's beneficiary form. A revocable beneficiary can ordinarily be changed through the owner's reserved contractual right.",
+        "label": "Product Information",
+        "visual": "Transition to a new slide with a white background and teal headers. Three rectangular blocks appear sequentially from left to right. The layout is balanced and clear.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "2:04",
+        "timestamp_start": "1:49"
+      },
+      {
+        "audio": "An irrevocable beneficiary has an interest that can restrict changes without the required consent.",
+        "label": "Product Information",
+        "visual": "The final block on the slide is shown. The camera is static, and the digital graphics remain sharp with high contrast against the white background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "2:13",
+        "timestamp_start": "2:04"
+      },
+      {
+        "audio": "Those labels describe the ability to change rights, not whether the person is primary or contingent. Maryland permits insurer acceptance or endorsement requirements before a change binds the insurer.",
+        "label": "Product Information",
+        "visual": "The screen transitions to a slide featuring a numbered list format on a white background. The list items appear one by one. The style remains consistent with the previous slides.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:28",
+        "timestamp_start": "2:13"
+      },
+      {
+        "audio": "Check assignments and other valid restrictions too. A producer should help complete and confirm the correct request rather than tell a client that a spoken instruction has already changed the insurer's records.",
+        "label": "Usage Scenarios",
+        "visual": "The numbered list on the slide continues to populate with more points. The lighting is uniform as part of the digital interface.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:43",
+        "timestamp_start": "2:28"
+      },
+      {
+        "audio": "Clear paperwork prevents avoidable disputes later. After a divorce or annulment, review the policy designation, governing law, court orders, and any agreement affecting insurance.",
+        "label": "Usage Scenarios",
+        "visual": "The final points of the numbered list are displayed on the screen. The background is clean and uncluttered.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "2:58",
+        "timestamp_start": "2:43"
+      },
+      {
+        "audio": "Do not assume that a family status change automatically rewrites every contract. A recent Maryland insurance administration example required payment to a former spouse who remained the named beneficiary of a Maryland life policy.",
+        "label": "Usage Scenarios",
+        "visual": "The static list graphic remains as the narrator discusses a specific case study. The design emphasizes clarity and readability.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "3:13",
+        "timestamp_start": "2:58"
+      },
+      {
+        "audio": "The insurer could not import another state's automatic divorce rule. Wills have their own Maryland revocation provision, which is a different document rule. Some federal programs or contracts also have special requirements.",
+        "label": "Usage Scenarios",
+        "visual": "The static list continues to serve as the background for the ongoing legal explanation. The camera does not move.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:28",
+        "timestamp_start": "3:13"
+      },
+      {
+        "audio": "Identify the applicable arrangement before advising who will receive the money. Suppose an insured and the primary beneficiary die in the same accident.",
+        "label": "Problem Solving",
+        "visual": "Transition to a slide showing a flow chart layout with arrows and boxes. The boxes are colored in dark green, teal, and blue. The graphic represents a logical sequence.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:43",
+        "timestamp_start": "3:28"
+      },
+      {
+        "audio": "The order and timing of death can affect which recipient takes.",
+        "label": "Problem Solving",
+        "visual": "The flow chart finishes populating its boxes on the static screen. The graphic utilizes arrows to show the direction of the process.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "3:49",
+        "timestamp_start": "3:43"
+      },
+      {
+        "audio": "Read any common disaster clause or required survival period. In a teaching policy, the primary beneficiary must survive the insured by 30 days.",
+        "label": "Usage Scenarios",
+        "visual": "A cut back to the live-action scene at the table. The man and woman are still reviewing the paper. The camera has a slight handheld movement, giving it a dynamic feel. The man is looking at the woman while speaking, then adjusts the paper in his hand. The warm kitchen lighting is consistent with the opening.",
+        "shot_type": "Medium Close-Up",
+        "scene_number": 19,
+        "timestamp_end": "3:57",
+        "timestamp_start": "3:49"
+      },
+      {
+        "audio": "The primary dies two days later. The contingent beneficiary remains alive and is eligible to receive payment under that stated clause. Under that stated clause, the primary fails the required period and the contingent takes.",
+        "label": "Product Selling Points",
+        "visual": "Transition to the final slide with a white background. Three rectangular boxes with headers in teal, green, and dark blue appear. The composition is balanced and simple.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "4:12",
+        "timestamp_start": "3:57"
+      },
+      {
+        "audio": "30 days is this example's contract term, not a universal Maryland requirement. The written lesson distinguishes Maryland's current rule from a change effective in October 2026.",
+        "label": "Product Selling Points",
+        "visual": "The slide remains static as the narration provides technical details about the contract terms. The layout remains clean and professional.",
+        "shot_type": "Wide Shot",
+        "scene_number": 21,
+        "timestamp_end": "4:27",
+        "timestamp_start": "4:12"
+      },
+      {
+        "audio": "A facility of payment provision can permit the insurer to pay an eligible person under specified circumstances when ordinary beneficiary payment cannot proceed as expected. Start with the actual clause, the claimant status, and the applicable legal conditions.",
+        "label": "Call to Action",
+        "visual": "The final graphic slide persists as the video draws to a close. The circular crest logo in the corner is a final visual anchor. The camera remains static until the end.",
+        "shot_type": "Wide Shot",
+        "scene_number": 22,
+        "timestamp_end": "4:35",
+        "timestamp_start": "4:27"
+      }
+    ]
+  }
+}

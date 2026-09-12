@@ -1,0 +1,264 @@
+{
+  "result": {
+    "id": "af8a11ad-13db-4118-b2ec-d9661fbd2134",
+    "video_input_id": "2452cb7b-313a-493b-8be3-9e40f23a316f",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/2452cb7b-313a-493b-8be3-9e40f23a316f.mp4",
+    "scenes": [
+      {
+        "audio": "Elena receives a new life policy, later misses a premium, and eventually faces a claim question.",
+        "label": "Opening Hook",
+        "visual": "A man and a woman are seated at a table in a bright, modern kitchen. The man is approximately 35-45 years old with dark skin, short-cropped dark hair, and a trimmed beard, wearing a navy blue button-down shirt. The woman is approximately 30-40 years old with light brown skin, long straight dark hair, and is wearing an olive-green long-sleeved shirt. They are looking down at a paper the woman is holding; the man holds a pen and points at the document. A laptop, a ceramic mug, and a black folder are on the table. The lighting is soft and natural from the side.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:08",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "Those events do not start the same clock.",
+        "label": "Product Information",
+        "visual": "The camera transitions to a graphic interface. A plain light-beige background features three rectangular boxes. The leftmost box is white with dark text and a thin border, while the other two are empty outlines. The lighting is artificial and uniform across the frame.",
+        "shot_type": "Medium Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:13",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "A return or free look period gives the owner an opportunity to review and cancel under the applicable notice.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains. The leftmost box is now highlighted with a subtle glow. The other two boxes remain as empty outlines in the center and right of the frame.",
+        "shot_type": "Medium Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:21",
+        "timestamp_start": "0:13"
+      },
+      {
+        "audio": "A grace period permits late payment of a premium after the first while coverage continues under its terms.",
+        "label": "Product Selling Points",
+        "visual": "The highlight shifts to the middle box. The box fills with a light green-teal color. The rightmost box remains an empty outline. The leftmost box stays white.",
+        "shot_type": "Medium Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:30",
+        "timestamp_start": "0:21"
+      },
+      {
+        "audio": "An incontestability provision limits a later challenge to the policy's validity after the required lifetime period.",
+        "label": "Product Selling Points",
+        "visual": "The rightmost box is now highlighted. It fills with a light cream color. The middle box remains green-teal and the leftmost box remains white. The layout is static.",
+        "shot_type": "Medium Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:38",
+        "timestamp_start": "0:30"
+      },
+      {
+        "audio": "Identify the event and the purpose before choosing a number. A familiar 30-day answer can be wrong for the question actually asked.",
+        "label": "Product Selling Points",
+        "visual": "The camera remains on the three-box graphic. The rightmost box continues to be highlighted. The lighting and colors are consistent with the previous scene.",
+        "shot_type": "Medium Shot",
+        "scene_number": 6,
+        "timestamp_end": "0:49",
+        "timestamp_start": "0:38"
+      },
+      {
+        "audio": "Maryland's general notice provision gives the policyholder 10 days after delivery to surrender the covered policy for cancellation with written notice.",
+        "label": "Product Information",
+        "visual": "A new graphic appears with the same light-beige background. A single white box with a thin border is positioned on the left side of the frame. Two empty rectangular outlines sit to its right.",
+        "shot_type": "Medium Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:00",
+        "timestamp_start": "0:49"
+      },
+      {
+        "audio": "The statute describes a proportional refund for the unexpired term or a similar notice no less favorable to the policyholder.",
+        "label": "Product Selling Points",
+        "visual": "The single white box on the left remains highlighted. The rest of the layout is unchanged, maintaining a flat graphic style.",
+        "shot_type": "Medium Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:09",
+        "timestamp_start": "1:00"
+      },
+      {
+        "audio": "A particular policy can give more favorable rights. A covered replacement instead carries the 30-day return right taught in Part 15.",
+        "label": "Product Selling Points",
+        "visual": "The center box is now highlighted, appearing in a light green-teal color. The leftmost box remains white and the rightmost box is still an empty outline.",
+        "shot_type": "Medium Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:17",
+        "timestamp_start": "1:09"
+      },
+      {
+        "audio": "with its ordinary full refund rule and different variable contract formula.",
+        "label": "Product Selling Points",
+        "visual": "The rightmost box is highlighted, appearing in a light cream color. The central and left boxes remain filled with their respective colors. The frame is static.",
+        "shot_type": "Medium Shot",
+        "scene_number": 10,
+        "timestamp_end": "1:26",
+        "timestamp_start": "1:17"
+      },
+      {
+        "audio": "Do not turn every free look question into one universal refund promise. Read the transaction, delivered notice, and applicable rule together.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains steady on the three filled boxes. The background color is a consistent neutral beige.",
+        "shot_type": "Medium Shot",
+        "scene_number": 11,
+        "timestamp_end": "1:36",
+        "timestamp_start": "1:26"
+      },
+      {
+        "audio": "Marcus chooses monthly payments for a policy with continuing required premiums. Paying the first installment does not make the contract paid up.",
+        "label": "Problem Solving",
+        "visual": "The graphic shifts to a new set of three boxes. Only the leftmost white box is present, containing numerical data. The other two are empty outlines.",
+        "shot_type": "Medium Shot",
+        "scene_number": 12,
+        "timestamp_end": "1:44",
+        "timestamp_start": "1:36"
+      },
+      {
+        "audio": "The payment mode describes the schedule and the total annual cost can differ from paying once per year.",
+        "label": "Problem Solving",
+        "visual": "The middle box is highlighted in green-teal. The leftmost box is white and the rightmost box remains an empty outline.",
+        "shot_type": "Medium Shot",
+        "scene_number": 13,
+        "timestamp_end": "1:51",
+        "timestamp_start": "1:44"
+      },
+      {
+        "audio": "For example, 12 monthly payments of $55 totals $660 compared with an assumed $600 annual payment. These are teaching amounts, not a carrier quote.",
+        "label": "Problem Solving",
+        "visual": "The rightmost box is highlighted in cream. All three boxes are now filled with color. The scene is a static motion graphic.",
+        "shot_type": "Medium Shot",
+        "scene_number": 14,
+        "timestamp_end": "2:04",
+        "timestamp_start": "1:51"
+      },
+      {
+        "audio": "Flexible premium policies have different funding mechanics but continuing deductions still matter. Read due dates, accepted payment arrangements, and the conditions needed to keep protection in force.",
+        "label": "Problem Solving",
+        "visual": "The view stays on the three-box graphic. The colors and text orientation remain fixed.",
+        "shot_type": "Medium Shot",
+        "scene_number": 15,
+        "timestamp_end": "2:17",
+        "timestamp_start": "2:04"
+      },
+      {
+        "audio": "Maryland's standard individual life grace provision applies to premiums after the first. It allows 30 days or, at the insurer's option, one month of at least 30 days.",
+        "label": "Problem Solving",
+        "visual": "A new graphic appears with three boxes. The leftmost white box contains a large currency figure. The center and right boxes are empty outlines.",
+        "shot_type": "Medium Shot",
+        "scene_number": 16,
+        "timestamp_end": "2:29",
+        "timestamp_start": "2:17"
+      },
+      {
+        "audio": "A specified industrial life schedule has a different four-week rule. The policy continues in full force during grace.",
+        "label": "Problem Solving",
+        "visual": "The center box is highlighted in green-teal, containing a negative currency amount. The rightmost box is an empty outline.",
+        "shot_type": "Medium Shot",
+        "scene_number": 17,
+        "timestamp_end": "2:37",
+        "timestamp_start": "2:29"
+      },
+      {
+        "audio": "If a covered claim arises, then a due or overdue premium may be deducted from the proceeds. Assume a payable death benefit of $100,000 and $600 of overdue premium.",
+        "label": "Problem Solving",
+        "visual": "The rightmost box is highlighted in cream, showing a calculated total. All three boxes are now visible and filled.",
+        "shot_type": "Medium Shot",
+        "scene_number": 18,
+        "timestamp_end": "2:48",
+        "timestamp_start": "2:37"
+      },
+      {
+        "audio": "With no other adjustment, subtracting that premium leaves $99,400. A missed due date alone did not immediately erase the protection.",
+        "label": "Problem Solving",
+        "visual": "The camera holds on the final three-box calculation graphic. The background is a clean, uniform beige.",
+        "shot_type": "Medium Shot",
+        "scene_number": 19,
+        "timestamp_end": "3:03",
+        "timestamp_start": "2:48"
+      },
+      {
+        "audio": "Maryland's standard individual life provision makes the policy incontestable, except for non-payment of premiums, after it has been in force during the insured's lifetime for two years after issue.",
+        "label": "Problem Solving",
+        "visual": "The graphic changes to a workflow style. A white box on the left connects via an arrow to a dark gray box in the middle. A second arrow points toward an empty outline on the right.",
+        "shot_type": "Medium Shot",
+        "scene_number": 20,
+        "timestamp_end": "3:17",
+        "timestamp_start": "3:03"
+      },
+      {
+        "audio": "The lifetime requirement matters. Death 18 months after issue does not satisfy it merely because a claim is submitted later.",
+        "label": "Problem Solving",
+        "visual": "The rightmost box fills with light cream. The three-step process is now complete across the screen. The center dark gray box is slightly larger than the others.",
+        "shot_type": "Medium Shot",
+        "scene_number": 21,
+        "timestamp_end": "3:26",
+        "timestamp_start": "3:17"
+      },
+      {
+        "audio": "During the applicable contestable period, a misstatement can require review under Maryland's materiality and other statutory tests.",
+        "label": "Problem Solving",
+        "visual": "The workflow graphic remains on screen. The lighting is flat and artificial to ensure clarity of the icons and text.",
+        "shot_type": "Medium Shot",
+        "scene_number": 22,
+        "timestamp_end": "3:36",
+        "timestamp_start": "3:26"
+      },
+      {
+        "audio": "After the specified period, distinguish an attempted validity challenge from a defense based on a genuine coverage restriction.",
+        "label": "Problem Solving",
+        "visual": "The workflow graphic is still displayed. The focus is on the third stage of the process on the right side of the screen.",
+        "shot_type": "Medium Shot",
+        "scene_number": 23,
+        "timestamp_end": "3:44",
+        "timestamp_start": "3:36"
+      },
+      {
+        "audio": "Incontestability is a particular contractual protection, not a promise that every event must be covered.",
+        "label": "Problem Solving",
+        "visual": "The static workflow graphic continues through the conclusion of the point. All elements are centered on the light-beige background.",
+        "shot_type": "Medium Shot",
+        "scene_number": 24,
+        "timestamp_end": "3:52",
+        "timestamp_start": "3:44"
+      },
+      {
+        "audio": "Elena's policy has been in force during her lifetime for three years. Assume no separate coverage exclusion applies.",
+        "label": "Problem Solving",
+        "visual": "The video cuts back to the man and woman from the first scene. They are in the same position, looking at the same documents on the kitchen table. The man leans in closer to the woman as they discuss the paperwork. The depth of field is shallow, blurring the kitchen background.",
+        "shot_type": "Medium Shot",
+        "scene_number": 25,
+        "timestamp_end": "4:00",
+        "timestamp_start": "3:52"
+      },
+      {
+        "audio": "She dies during its valid premium grace period with a $500 premium overdue and a stated $100,000 benefit.",
+        "label": "Call to Action",
+        "visual": "A final graphic appears. Four numbered items are listed vertically. The background is light beige. The first two items are visible as white horizontal bars with dark text.",
+        "shot_type": "Medium Shot",
+        "scene_number": 26,
+        "timestamp_end": "4:10",
+        "timestamp_start": "4:00"
+      },
+      {
+        "audio": "The insurer cannot simply call the policy lapsed on the missed due date when grace still protects it.",
+        "label": "Call to Action",
+        "visual": "The third horizontal bar appears in the list. The camera remains static, and the color palette is neutral and professional.",
+        "shot_type": "Medium Shot",
+        "scene_number": 27,
+        "timestamp_end": "4:20",
+        "timestamp_start": "4:10"
+      },
+      {
+        "audio": "Apply the permitted overdue premium deduction, producing $99,500 in this example. A proposed challenge to the original policy's validity is a different issue governed by incontestability. Keep payment status, coverage scope, and validity in separate steps.",
+        "label": "Call to Action",
+        "visual": "The fourth and final bar appears at the bottom of the list. The entire screen now shows the completed summary of points. The frame is perfectly static until the end.",
+        "shot_type": "Medium Shot",
+        "scene_number": 28,
+        "timestamp_end": "4:33",
+        "timestamp_start": "4:20"
+      }
+    ]
+  }
+}

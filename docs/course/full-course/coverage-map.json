@@ -6842,344 +6842,1578 @@
   {
     "id": "5.10.01",
     "title": "Accidental death",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "43",
+        "title": "An added benefit has its own qualifying event"
+      },
+      {
+        "lesson": "43",
+        "title": "Accidental death does not always mean double"
+      },
+      {
+        "lesson": "43",
+        "title": "Solve the event before choosing the feature"
+      },
+      {
+        "lesson": "43",
+        "title": "A rider and its base policy have separate conditions"
+      },
+      {
+        "lesson": "43",
+        "title": "Double indemnity identifies a particular benefit relationship"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "43",
+        "id": "L43-01"
+      },
+      {
+        "lesson": "43",
+        "id": "L43-02"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.10.02",
     "title": "Guaranteed insurability",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "43",
+        "title": "An added benefit has its own qualifying event"
+      },
+      {
+        "lesson": "43",
+        "title": "Guaranteed insurability protects a purchase opportunity"
+      },
+      {
+        "lesson": "43",
+        "title": "Solve the event before choosing the feature"
+      },
+      {
+        "lesson": "43",
+        "title": "A purchase right still has conditions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "43",
+        "id": "L43-03"
+      },
+      {
+        "lesson": "43",
+        "id": "L43-04"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.10.03",
     "title": "Cost-of-living adjustment",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "43",
+        "title": "An added benefit has its own qualifying event"
+      },
+      {
+        "lesson": "43",
+        "title": "An inflation rider adjusts the insured amount"
+      },
+      {
+        "lesson": "43",
+        "title": "Solve the event before choosing the feature"
+      },
+      {
+        "lesson": "43",
+        "title": "Inflation adjustments affect coverage and can affect cost"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "43",
+        "id": "L43-05"
+      },
+      {
+        "lesson": "43",
+        "id": "L43-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.10.04",
     "title": "Return-of-premium rider",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "43",
+        "title": "An added benefit has its own qualifying event"
+      },
+      {
+        "lesson": "43",
+        "title": "Return of premium can describe different promises"
+      },
+      {
+        "lesson": "43",
+        "title": "Solve the event before choosing the feature"
+      },
+      {
+        "lesson": "43",
+        "title": "Distinguish death and survival promises"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "43",
+        "id": "L43-07"
+      },
+      {
+        "lesson": "43",
+        "id": "L43-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.1.01",
     "title": "Accumulation phase",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "44",
+        "title": "Accumulation is the stage before income conversion"
+      },
+      {
+        "lesson": "44",
+        "title": "Accumulation and product guarantees are different classifications"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "44",
+        "id": "L44-02"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.1.02",
     "title": "Annuitization phase",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "44",
+        "title": "Annuitization creates the chosen payment stream"
+      },
+      {
+        "lesson": "44",
+        "title": "Distinguish annuitization from systematic withdrawals"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "44",
+        "id": "L44-03"
+      },
+      {
+        "lesson": "44",
+        "id": "L44-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.1.03",
     "title": "Owner",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "44",
+        "title": "The owner controls rights; the annuitant supplies the life"
+      },
+      {
+        "lesson": "44",
+        "title": "A person can hold more than one role"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "44",
+        "id": "L44-04"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.1.04",
     "title": "Annuitant",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "44",
+        "title": "The owner controls rights; the annuitant supplies the life"
+      },
+      {
+        "lesson": "44",
+        "title": "A person can hold more than one role"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "44",
+        "id": "L44-04"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.1.05",
     "title": "Beneficiary",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "44",
+        "title": "A beneficiary receives what the contract actually provides"
+      },
+      {
+        "lesson": "44",
+        "title": "A person can hold more than one role"
+      },
+      {
+        "lesson": "44",
+        "title": "Death benefits depend on phase and trigger"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "44",
+        "id": "L44-05"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.1.06",
     "title": "Insurance function",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "44",
+        "title": "The concern changes from early death to long life"
+      },
+      {
+        "lesson": "44",
+        "title": "The insurance function is protection against longevity risk"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "44",
+        "id": "L44-01"
+      },
+      {
+        "lesson": "44",
+        "id": "L44-07"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.1.07",
     "title": "Suitability",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "44",
+        "title": "Start with the household’s needs and available money"
+      },
+      {
+        "lesson": "44",
+        "title": "Suitability starts with the actual consumer profile"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "44",
+        "id": "L44-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.2.01",
     "title": "Single-premium immediate income",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "45",
+        "title": "A single premium does not always mean immediate income"
+      },
+      {
+        "lesson": "45",
+        "title": "Classify along separate dimensions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "45",
+        "id": "L45-02"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.2.02",
     "title": "Deferred accumulation",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "45",
+        "title": "A single premium does not always mean immediate income"
+      },
+      {
+        "lesson": "45",
+        "title": "Premium patterns describe the money going in"
+      },
+      {
+        "lesson": "45",
+        "title": "Classify along separate dimensions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "45",
+        "id": "L45-01"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.2.03",
     "title": "Premium payment choices",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "45",
+        "title": "A single premium does not always mean immediate income"
+      },
+      {
+        "lesson": "45",
+        "title": "Premium patterns describe the money going in"
+      },
+      {
+        "lesson": "45",
+        "title": "Classify along separate dimensions"
+      },
+      {
+        "lesson": "45",
+        "title": "Read each contribution’s charge clock"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "45",
+        "id": "L45-01"
+      },
+      {
+        "lesson": "45",
+        "id": "L45-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.2.04",
     "title": "Nonforfeiture values",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "45",
+        "title": "Nonforfeiture does not promise an unrestricted full refund"
+      },
+      {
+        "lesson": "45",
+        "title": "Maryland’s nonforfeiture law has a defined scope"
+      },
+      {
+        "lesson": "45",
+        "title": "A statutory minimum is different from an advertised crediting rate"
+      },
+      {
+        "lesson": "45",
+        "title": "An allowed payment deferral requires more than an insurer’s preference"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "45",
+        "id": "L45-05"
+      },
+      {
+        "lesson": "45",
+        "id": "L45-09"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.2.05",
     "title": "Surrender charges",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "45",
+        "title": "Available cash can differ from the account value"
+      },
+      {
+        "lesson": "45",
+        "title": "Read each contribution’s charge clock"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "45",
+        "id": "L45-04"
+      },
+      {
+        "lesson": "45",
+        "id": "L45-07"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.2.06",
     "title": "Bailout provisions",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "45",
+        "title": "A bailout clause is a conditional exit right"
+      },
+      {
+        "lesson": "45",
+        "title": "Bailout rights are contractual and conditional"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "45",
+        "id": "L45-06"
+      },
+      {
+        "lesson": "45",
+        "id": "L45-07"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.2.07",
     "title": "Death benefits",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "45",
+        "title": "Death during accumulation requires the actual benefit formula"
+      },
+      {
+        "lesson": "45",
+        "title": "Death-benefit guarantees are not interchangeable"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "45",
+        "id": "L45-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.3.01",
     "title": "Life-contingent income",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "46",
+        "title": "Pure life pays while the covered person lives"
+      },
+      {
+        "lesson": "46",
+        "title": "Life with a certain period protects two possibilities"
+      },
+      {
+        "lesson": "46",
+        "title": "Match the guarantee to the household’s priority"
+      },
+      {
+        "lesson": "46",
+        "title": "Life only transfers longevity risk without an added estate refund"
+      },
+      {
+        "lesson": "46",
+        "title": "Nominal guarantees and purchasing power are different"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "46",
+        "id": "L46-01"
+      },
+      {
+        "lesson": "46",
+        "id": "L46-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.3.02",
     "title": "Pure life and guaranteed minimum payments",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "46",
+        "title": "Pure life pays while the covered person lives"
+      },
+      {
+        "lesson": "46",
+        "title": "Life with a certain period protects two possibilities"
+      },
+      {
+        "lesson": "46",
+        "title": "Refund options protect a stated minimum total"
+      },
+      {
+        "lesson": "46",
+        "title": "Match the guarantee to the household’s priority"
+      },
+      {
+        "lesson": "46",
+        "title": "Life only transfers longevity risk without an added estate refund"
+      },
+      {
+        "lesson": "46",
+        "title": "A minimum period does not cap the life promise"
+      },
+      {
+        "lesson": "46",
+        "title": "Cash and installment refund use different payment methods"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "46",
+        "id": "L46-01"
+      },
+      {
+        "lesson": "46",
+        "id": "L46-02"
+      },
+      {
+        "lesson": "46",
+        "id": "L46-03"
+      },
+      {
+        "lesson": "46",
+        "id": "L46-04"
+      },
+      {
+        "lesson": "46",
+        "id": "L46-05"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.3.03",
     "title": "Single and multiple lives",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "46",
+        "title": "For two lives, check the survivor’s percentage"
+      },
+      {
+        "lesson": "46",
+        "title": "Match the guarantee to the household’s priority"
+      },
+      {
+        "lesson": "46",
+        "title": "Read a two-life promise through both deaths"
+      },
+      {
+        "lesson": "46",
+        "title": "Nominal guarantees and purchasing power are different"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "46",
+        "id": "L46-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.3.04",
     "title": "Fixed-period certain",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "46",
+        "title": "Life with a certain period protects two possibilities"
+      },
+      {
+        "lesson": "46",
+        "title": "Fixed period and fixed amount fix different things"
+      },
+      {
+        "lesson": "46",
+        "title": "Match the guarantee to the household’s priority"
+      },
+      {
+        "lesson": "46",
+        "title": "A minimum period does not cap the life promise"
+      },
+      {
+        "lesson": "46",
+        "title": "A fixed period controls time; a fixed amount controls size"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "46",
+        "id": "L46-07"
+      },
+      {
+        "lesson": "46",
+        "id": "L46-09"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.3.05",
     "title": "Fixed-amount certain",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "46",
+        "title": "Fixed period and fixed amount fix different things"
+      },
+      {
+        "lesson": "46",
+        "title": "Match the guarantee to the household’s priority"
+      },
+      {
+        "lesson": "46",
+        "title": "A fixed period controls time; a fixed amount controls size"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "46",
+        "id": "L46-08"
+      },
+      {
+        "lesson": "46",
+        "id": "L46-09"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.4.01",
     "title": "Fixed: general account, minimum/current rate and level-benefit design",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "47",
+        "title": "A product name is not the whole promise"
+      },
+      {
+        "lesson": "47",
+        "title": "Fixed does not make every future rate identical"
+      },
+      {
+        "lesson": "47",
+        "title": "Compare the decision the client is actually making"
+      },
+      {
+        "lesson": "47",
+        "title": "General account and separate account"
+      },
+      {
+        "lesson": "47",
+        "title": "Read the rate period"
+      },
+      {
+        "lesson": "47",
+        "title": "Correct the apparent outline duplication"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "47",
+        "id": "L47-01"
+      },
+      {
+        "lesson": "47",
+        "id": "L47-09"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.4.02",
     "title": "Variable: separate-account investment exposure and variable benefits",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "47",
+        "title": "A product name is not the whole promise"
+      },
+      {
+        "lesson": "47",
+        "title": "Variable value follows the selected investments"
+      },
+      {
+        "lesson": "47",
+        "title": "Compare the decision the client is actually making"
+      },
+      {
+        "lesson": "47",
+        "title": "General account and separate account"
+      },
+      {
+        "lesson": "47",
+        "title": "Variable payments and guarantees"
+      },
+      {
+        "lesson": "47",
+        "title": "Correct the apparent outline duplication"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "47",
+        "id": "L47-02"
+      },
+      {
+        "lesson": "47",
+        "id": "L47-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.4.03",
     "title": "Indexed crediting",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "47",
+        "title": "A product name is not the whole promise"
+      },
+      {
+        "lesson": "47",
+        "title": "An index credit is calculated, not copied"
+      },
+      {
+        "lesson": "47",
+        "title": "Compare the decision the client is actually making"
+      },
+      {
+        "lesson": "47",
+        "title": "Participation, caps and spreads"
+      },
+      {
+        "lesson": "47",
+        "title": "A floor protects the stated credit, not every transaction"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "47",
+        "id": "L47-04"
+      },
+      {
+        "lesson": "47",
+        "id": "L47-05"
+      },
+      {
+        "lesson": "47",
+        "id": "L47-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.4.04",
     "title": "Market-value-adjusted/modified-guaranteed contracts",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "47",
+        "title": "A product name is not the whole promise"
+      },
+      {
+        "lesson": "47",
+        "title": "An early exit can change the amount available"
+      },
+      {
+        "lesson": "47",
+        "title": "Compare the decision the client is actually making"
+      },
+      {
+        "lesson": "47",
+        "title": "Market value adjustment is a separate calculation"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "47",
+        "id": "L47-07"
+      },
+      {
+        "lesson": "47",
+        "id": "L47-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.5.01",
     "title": "Lump-sum funding",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "48",
+        "title": "Having a lump sum does not decide where it belongs"
+      },
+      {
+        "lesson": "48",
+        "title": "Use is not a recommendation"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "48",
+        "id": "L48-01"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.5.02",
     "title": "Qualified group/individual plans",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "48",
+        "title": "A retirement account and an annuity are different layers"
+      },
+      {
+        "lesson": "48",
+        "title": "Keep the tax arrangement separate from the contract"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "48",
+        "id": "L48-02"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.5.03",
     "title": "IRAs",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "48",
+        "title": "A retirement account and an annuity are different layers"
+      },
+      {
+        "lesson": "48",
+        "title": "Keep the tax arrangement separate from the contract"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "48",
+        "id": "L48-02"
+      },
+      {
+        "lesson": "48",
+        "id": "L48-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.5.04",
     "title": "Tax deferral",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "48",
+        "title": "A retirement account and an annuity are different layers"
+      },
+      {
+        "lesson": "48",
+        "title": "Keep the tax arrangement separate from the contract"
+      },
+      {
+        "lesson": "48",
+        "title": "Tax deferral is not tax exemption"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "48",
+        "id": "L48-03"
+      },
+      {
+        "lesson": "48",
+        "id": "L48-04"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.5.05",
     "title": "Retirement income",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "48",
+        "title": "Having a lump sum does not decide where it belongs"
+      },
+      {
+        "lesson": "48",
+        "title": "Use is not a recommendation"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "48",
+        "id": "L48-01"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.5.06",
     "title": "Education funding",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "48",
+        "title": "Education and charitable goals have separate conditions"
+      },
+      {
+        "lesson": "48",
+        "title": "Education funding needs a separate tax and liquidity analysis"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "48",
+        "id": "L48-05"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.5.07",
     "title": "Charitable gift annuities",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "48",
+        "title": "Education and charitable goals have separate conditions"
+      },
+      {
+        "lesson": "48",
+        "title": "Charitable gift annuities are donor agreements"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "48",
+        "id": "L48-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "6.5.08",
     "title": "Suitability in transactions",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "48",
+        "title": "Having a lump sum does not decide where it belongs"
+      },
+      {
+        "lesson": "48",
+        "title": "Gather the facts and explain the recommendation"
+      },
+      {
+        "lesson": "48",
+        "title": "A replacement needs a whole-transaction comparison"
+      },
+      {
+        "lesson": "48",
+        "title": "Finish with training, records and an honest process"
+      },
+      {
+        "lesson": "48",
+        "title": "Use is not a recommendation"
+      },
+      {
+        "lesson": "48",
+        "title": "Consumer profile information"
+      },
+      {
+        "lesson": "48",
+        "title": "Care and its limits"
+      },
+      {
+        "lesson": "48",
+        "title": "Required disclosure is timely"
+      },
+      {
+        "lesson": "48",
+        "title": "Conflict and compensation rules are related but distinct"
+      },
+      {
+        "lesson": "48",
+        "title": "Replacement review covers more than a new bonus"
+      },
+      {
+        "lesson": "48",
+        "title": "Documentation and unrecommended transactions"
+      },
+      {
+        "lesson": "48",
+        "title": "Scope, supervision, training and records"
+      },
+      {
+        "lesson": "48",
+        "title": "Consumers retain complaint and cooperation rights"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "48",
+        "id": "L48-01"
+      },
+      {
+        "lesson": "48",
+        "id": "L48-07"
+      },
+      {
+        "lesson": "48",
+        "id": "L48-08"
+      },
+      {
+        "lesson": "48",
+        "id": "L48-09"
+      },
+      {
+        "lesson": "48",
+        "id": "L48-10"
+      },
+      {
+        "lesson": "48",
+        "id": "L48-11"
+      },
+      {
+        "lesson": "48",
+        "id": "L48-12"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "7.1.01",
     "title": "Owner cash values",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "49",
+        "title": "The same policy can produce different tax events"
+      },
+      {
+        "lesson": "49",
+        "title": "Borrowing and withdrawing do not work the same way"
+      },
+      {
+        "lesson": "49",
+        "title": "Scope of these examples"
+      },
+      {
+        "lesson": "49",
+        "title": "Loans, withdrawals and lapse"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "49",
+        "id": "L49-01"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "7.1.02",
     "title": "Dividends",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "49",
+        "title": "A premium refund is different from interest earned"
+      },
+      {
+        "lesson": "49",
+        "title": "Basis must be adjusted"
+      },
+      {
+        "lesson": "49",
+        "title": "Ordinary dividends and deposited-dividend interest"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "49",
+        "id": "L49-02"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "7.1.03",
     "title": "Policy loans",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "49",
+        "title": "Borrowing and withdrawing do not work the same way"
+      },
+      {
+        "lesson": "49",
+        "title": "Loans, withdrawals and lapse"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "49",
+        "id": "L49-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "7.1.04",
     "title": "Surrenders",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "49",
+        "title": "Borrowing and withdrawing do not work the same way"
+      },
+      {
+        "lesson": "49",
+        "title": "On surrender, compare proceeds with adjusted basis"
+      },
+      {
+        "lesson": "49",
+        "title": "Basis must be adjusted"
+      },
+      {
+        "lesson": "49",
+        "title": "Loans, withdrawals and lapse"
+      },
+      {
+        "lesson": "49",
+        "title": "Full surrender is not a death claim"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "49",
+        "id": "L49-03"
+      },
+      {
+        "lesson": "49",
+        "id": "L49-04"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "7.1.05",
     "title": "Beneficiary general rule and exceptions",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "49",
+        "title": "The same policy can produce different tax events"
+      },
+      {
+        "lesson": "49",
+        "title": "A death benefit and its interest are separate amounts"
+      },
+      {
+        "lesson": "49",
+        "title": "Death-benefit exclusion has exceptions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "49",
+        "id": "L49-05"
+      },
+      {
+        "lesson": "49",
+        "id": "L49-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "7.1.06",
     "title": "Tax treatment of settlement payments",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "49",
+        "title": "A death benefit and its interest are separate amounts"
+      },
+      {
+        "lesson": "49",
+        "title": "Calculate fixed installments separately from interest-only or life income"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "49",
+        "id": "L49-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "7.1.07",
     "title": "Estate inclusion",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "49",
+        "title": "The same policy can produce different tax events"
+      },
+      {
+        "lesson": "49",
+        "title": "Outside probate does not mean outside the taxable estate"
+      },
+      {
+        "lesson": "49",
+        "title": "Gross estate is a different tax concept"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "49",
+        "id": "L49-07"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "7.2.01",
     "title": "MEC versus non-MEC status",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "50",
+        "title": "A MEC remains life insurance with different access rules"
+      },
+      {
+        "lesson": "50",
+        "title": "Changes can require testing again"
+      },
+      {
+        "lesson": "50",
+        "title": "Definition and scope"
+      },
+      {
+        "lesson": "50",
+        "title": "Corrections require the actual legal procedure"
+      },
+      {
+        "lesson": "50",
+        "title": "Status can affect related distributions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "50",
+        "id": "L50-01"
+      },
+      {
+        "lesson": "50",
+        "id": "L50-09"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "7.2.02",
     "title": "Seven-pay test",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "50",
+        "title": "The seven-pay test compares cumulative amounts"
+      },
+      {
+        "lesson": "50",
+        "title": "Changes can require testing again"
+      },
+      {
+        "lesson": "50",
+        "title": "Cumulative testing"
+      },
+      {
+        "lesson": "50",
+        "title": "Benefit reductions and material changes"
+      },
+      {
+        "lesson": "50",
+        "title": "Corrections require the actual legal procedure"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "50",
+        "id": "L50-02"
+      },
+      {
+        "lesson": "50",
+        "id": "L50-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "7.2.03",
     "title": "Distribution and loan taxation",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "50",
+        "title": "MEC withdrawals take earnings before basis"
+      },
+      {
+        "lesson": "50",
+        "title": "Calling it a loan does not avoid MEC treatment"
+      },
+      {
+        "lesson": "50",
+        "title": "The additional tax applies to the taxable portion"
+      },
+      {
+        "lesson": "50",
+        "title": "Earnings first and loans"
+      },
+      {
+        "lesson": "50",
+        "title": "Compare with the ordinary non-MEC rule carefully"
+      },
+      {
+        "lesson": "50",
+        "title": "Additional tax and exceptions"
+      },
+      {
+        "lesson": "50",
+        "title": "Status can affect related distributions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "50",
+        "id": "L50-04"
+      },
+      {
+        "lesson": "50",
+        "id": "L50-05"
+      },
+      {
+        "lesson": "50",
+        "id": "L50-06"
+      },
+      {
+        "lesson": "50",
+        "id": "L50-07"
+      },
+      {
+        "lesson": "50",
+        "id": "L50-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "7.3.01",
     "title": "Accumulation withdrawals",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "51",
+        "title": "Identify the contract and the payment"
+      },
+      {
+        "lesson": "51",
+        "title": "A partial withdrawal normally reaches earnings first"
+      },
+      {
+        "lesson": "51",
+        "title": "Only the amount beyond available gain recovers basis"
+      },
+      {
+        "lesson": "51",
+        "title": "Full surrender uses the actual surrender transaction"
+      },
+      {
+        "lesson": "51",
+        "title": "A waived surrender charge does not waive federal tax"
+      },
+      {
+        "lesson": "51",
+        "title": "A loan label does not settle the tax question"
+      },
+      {
+        "lesson": "51",
+        "title": "These examples deliberately use a post-1982 contract"
+      },
+      {
+        "lesson": "51",
+        "title": "Investment is an adjusted record"
+      },
+      {
+        "lesson": "51",
+        "title": "Tax exceptions are account-specific"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "51",
+        "id": "L51-01"
+      },
+      {
+        "lesson": "51",
+        "id": "L51-02"
+      },
+      {
+        "lesson": "51",
+        "id": "L51-03"
+      },
+      {
+        "lesson": "51",
+        "id": "L51-04"
+      },
+      {
+        "lesson": "51",
+        "id": "L51-05"
+      },
+      {
+        "lesson": "51",
+        "id": "L51-06"
+      },
+      {
+        "lesson": "51",
+        "id": "L51-07"
+      },
+      {
+        "lesson": "51",
+        "id": "L51-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "7.3.02",
     "title": "Annuitized payments and exclusion ratio",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "52",
+        "title": "Annuitization changes the tax calculation"
+      },
+      {
+        "lesson": "52",
+        "title": "Investment cannot be recovered tax-free twice"
+      },
+      {
+        "lesson": "52",
+        "title": "Match the rule to the event before selecting an answer"
+      },
+      {
+        "lesson": "52",
+        "title": "Fixed income example and variable payments differ"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "52",
+        "id": "L52-01"
+      },
+      {
+        "lesson": "52",
+        "id": "L52-02"
+      },
+      {
+        "lesson": "52",
+        "id": "L52-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "7.3.03",
     "title": "Death distributions",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "52",
+        "title": "An annuity death payment can contain taxable earnings"
+      },
+      {
+        "lesson": "52",
+        "title": "The distribution deadline depends on when the owner dies"
+      },
+      {
+        "lesson": "52",
+        "title": "Match the rule to the event before selecting an answer"
+      },
+      {
+        "lesson": "52",
+        "title": "Read §72(s) within its scope"
+      },
+      {
+        "lesson": "52",
+        "title": "Benefit entitlement is separate from tax treatment"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "52",
+        "id": "L52-04"
+      },
+      {
+        "lesson": "52",
+        "id": "L52-05"
+      },
+      {
+        "lesson": "52",
+        "id": "L52-06"
+      },
+      {
+        "lesson": "52",
+        "id": "L52-07"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "7.3.04",
     "title": "Corporate ownership",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "52",
+        "title": "Naming a human annuitant does not make a corporation human"
+      },
+      {
+        "lesson": "52",
+        "title": "Match the rule to the event before selecting an answer"
+      },
+      {
+        "lesson": "52",
+        "title": "The corporate-owner restriction has actual exceptions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "52",
+        "id": "L52-08"
+      },
+      {
+        "lesson": "52",
+        "id": "L52-09"
+      }
+    ],
     "coordinatorApproval": null
   },
   {

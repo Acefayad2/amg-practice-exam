@@ -525,6 +525,147 @@
         "5.5"
       ],
       "status": "ready"
+    },
+    {
+      "id": "39",
+      "number": 39,
+      "version": 1,
+      "title": "Dividends: choose what the money does",
+      "subtitle": "Separate cash, premium payments and additional insurance from guarantees.",
+      "duration": 290.544,
+      "questions": 9,
+      "module": "Policy operation",
+      "outline": [
+        "5.6",
+        "3.6"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "40",
+      "number": 40,
+      "version": 1,
+      "title": "Disability riders: follow the person and the benefit",
+      "subtitle": "Premium waiver, charge waiver, income and juvenile payor protection do different jobs.",
+      "duration": 291.671,
+      "questions": 8,
+      "module": "Policy operation",
+      "outline": [
+        "5.7"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "41",
+      "number": 41,
+      "version": 1,
+      "title": "Accelerated benefits: money before death changes what remains",
+      "subtitle": "Check the trigger, the written calculation and the remaining protection.",
+      "duration": 294.419,
+      "questions": 9,
+      "module": "Policy operation",
+      "outline": [
+        "5.8"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "42",
+      "number": 42,
+      "version": 1,
+      "title": "Family riders: identify whose life is covered",
+      "subtitle": "Map the base policy, spouse coverage and children’s term benefits.",
+      "duration": 276.792,
+      "questions": 8,
+      "module": "Policy operation",
+      "outline": [
+        "5.9"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "43",
+      "number": 43,
+      "version": 1,
+      "title": "Additional riders: match the benefit to its trigger",
+      "subtitle": "Separate accidental death, future purchase rights, inflation adjustments and premium-linked benefits.",
+      "duration": 272.585,
+      "questions": 8,
+      "module": "Policy operation",
+      "outline": [
+        "5.10"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "44",
+      "number": 44,
+      "version": 1,
+      "title": "Annuities: who controls the contract and when income begins",
+      "subtitle": "Separate accumulation, lifetime income and the people named in the contract.",
+      "duration": 293.879,
+      "questions": 8,
+      "module": "Annuities",
+      "outline": [
+        "6.1"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "45",
+      "number": 45,
+      "version": 1,
+      "title": "Immediate or deferred: separate funding from access",
+      "subtitle": "Read when income starts, what can be withdrawn and which protections remain.",
+      "duration": 292.044,
+      "questions": 9,
+      "module": "Annuities",
+      "outline": [
+        "6.2"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "46",
+      "number": 46,
+      "version": 1,
+      "title": "Choose the income promise: life, years or a stated amount",
+      "subtitle": "Follow payments through an early death and a long retirement.",
+      "duration": 292.625,
+      "questions": 9,
+      "module": "Annuities",
+      "outline": [
+        "6.3"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "47",
+      "number": 47,
+      "version": 1,
+      "title": "Annuity designs: follow the guarantee and the risk",
+      "subtitle": "Compare fixed rates, separate-account investments, index formulas and early-exit adjustments.",
+      "duration": 281.837,
+      "questions": 9,
+      "module": "Annuities",
+      "outline": [
+        "6.4"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "48",
+      "number": 48,
+      "version": 1,
+      "title": "Annuity uses and Maryland’s best-interest standard",
+      "subtitle": "Start with the client, evaluate the whole transaction and make the reasoning reviewable.",
+      "duration": 269.879,
+      "questions": 12,
+      "module": "Annuities",
+      "outline": [
+        "6.5"
+      ],
+      "status": "ready"
     }
   ]
 }

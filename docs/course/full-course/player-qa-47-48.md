@@ -1,0 +1,3 @@
+# Browser QA: Parts 47–48
+
+September 12, 2026. Chromium session amg-full-course, local Vite 4174, actual hosted media. Both lessons passed all 14 checks in output/playwright/check-course-47-48.js, with no page errors. Checks cover media duration, study and answer prerequisites, playback resume after reload, native ended-event dialog, explanations for all four options, wrong-answer retry with retained first attempt, all required answers, explicit completion, persistence, loaded captions, and 390×844 mobile dialog/overflow. The endpoint test seeks near the end; it is not evidence of watching the full video. Independent full speech, eight-layout and complete-decode checks are in the media manifests.

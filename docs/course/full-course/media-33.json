@@ -28,7 +28,7 @@
     "layouts": "All eight frames visually inspected. Opening graphic changed from flow to comparison to distinguish designation types without implying a third succession rank. Survival timeline, text and circular logo verified.",
     "decode": "Complete FFmpeg decode passed.",
     "speech": "All six sections compared. A confirmed repeated phrase in section 4 was replaced; complete small.en review confirmed the repaired narrative and resolved a spurious initial base-transcription word. Per-stirpes spelling was reviewed separately.",
-    "analysis": "Optional whole-video service queued; independent complete speech comparison, native frame inspection, full decode and player checks passed. Follow-up analysis remains tracked.",
+    "analysis": "Optional whole-video analysis completed; all 22 scene reports read. Independent native frame review used to distinguish still-image motion from generated actor performance.",
     "player": "Chromium required-question, native ended-event, wrong-answer/retry, first-answer history, resume/completion reload and mobile caption/dialog checks passed without page errors."
   },
   "status": "ready",

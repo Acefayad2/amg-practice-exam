@@ -18,7 +18,8 @@ for(const l of lessons){
  assert(!ids.has(l.id),'Duplicate lesson '+l.id);ids.add(l.id);
  assert(curriculum.some(x=>x.id===l.id),'Unplanned lesson '+l.id);
  assert(l.blocks.length>=4&&l.blocks.length<=8,'Section count '+l.id);
- assert(l.questions.length>=6&&l.questions.length<=10,'Question count '+l.id);
+ // Broader Maryland duties lessons need up to twelve website questions.
+ assert(l.questions.length>=6&&l.questions.length<=12,'Question count '+l.id);
  for(const item of [...l.blocks,...l.notes,...l.questions])for(const t of item.topics)assert(topics.has(t),'Unknown topic '+t);
  for(const b of l.blocks){assert(b.narration.length>100);assert(b.visual.items.length<=5);}
  for(const q of l.questions){

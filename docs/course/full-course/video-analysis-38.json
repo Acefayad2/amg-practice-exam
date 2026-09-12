@@ -1,0 +1,75 @@
+{
+  "result": {
+    "id": "d89ddcbb-c1a9-430f-b391-1133fbaad5e9",
+    "video_input_id": "05ed4b55-e02e-4c5e-b460-a01734752b21",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/05ed4b55-e02e-4c5e-b460-a01734752b21.mp4",
+    "scenes": [
+      {
+        "audio": "Marcus wants money for a family expense while keeping his life policy. If his contract has sufficient available loan value and he has the required rights, he can request a policy loan.",
+        "label": "Opening Hook",
+        "visual": "A man and a woman sit side-by-side in a brightly lit kitchen with neutral tones and soft morning light. The man, approximately 40-50 years old with a medium-dark complexion, short dark hair, and a trimmed beard, wears a dark navy blue button-down shirt. The woman, approximately 30-40 years old with a light-brown complexion and long dark hair, is dressed in an olive green button-down blouse. They are focused on a sheet of white paper held by the woman. On the light-colored countertop in front of them sits an open silver laptop, a black leather notebook, and a light-colored ceramic mug. The camera is static, angled slightly from the side, with a shallow depth of field blurring the kitchen cabinets in the background.",
+        "shot_type": "Medium Close-Up",
+        "scene_number": 1,
+        "timestamp_end": "0:07",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "The insurer advances money with the policy as security. This is different from an unrelated bank loan and different from withdrawing part of the policy's value. Policy debt carries interest and affects the amount ultimately available on surrender or death. The face amount alone does not establish how much Marcus can borrow. Read the current loan value, existing debt, applicable rate, and conditions before explaining the available amount.",
+        "label": "Product Information",
+        "visual": "A clean, minimalist graphic on a light beige background. Three teal-colored boxes appear sequentially from left to right. The first box is titled 'Security', the second 'Limit', and the third 'Cost'. Short, descriptive phrases appear below each title in dark gray text. The lighting is uniform and artificial, creating a digital workspace feel. The colors are muted and professional.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:48",
+        "timestamp_start": "0:07"
+      },
+      {
+        "audio": "Assume a covered death benefit of $200,000. The policy has $20,000 of unpaid loan principal and $1,000 of accrued unpaid loan interest. With no other adjustments, the net benefit is $179,000. Leaving out the interest would overstate the payment. A policy loan does not always require scheduled repayment like a bank installment loan, but unpaid debt still has consequences. Interest can be added to principal under the contract. If debt consumes the available value, the policy can face termination under the applicable conditions and notice requirements. Monitor the actual statements.",
+        "label": "Product Selling Points",
+        "visual": "Transition to a new graphic layout on the same beige background. Three white boxes with thin teal borders are arranged horizontally. The first box displays '$200,000' in large bold numbers. The second shows a minus sign followed by '$21,000'. The third shows '$179,000'. Smaller teal text beneath each number provides a breakdown of a death benefit calculation involving principal and unpaid interest. The graphic is static and uses a clean, modern sans-serif typeface.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "1:33",
+        "timestamp_start": "0:48"
+      },
+      {
+        "audio": "Marcus misses a premium after previously electing his policy's automatic premium loan provision. If the provision's conditions are met and enough value is available, the insurer makes a loan to pay that premium. The protection can continue, but the owner now owes policy debt and interest. This is not a free premium waiver. Maryland requires policies subject to its loan section to provide this provision, except the stated weekly premium category, and makes its use subject to the entitled person's election. The section excludes term policies, term riders, and industrial life. Do not present it as an automatic benefit on every life policy.",
+        "label": "Usage Scenarios",
+        "visual": "A flowchart graphic appears. Three boxes labeled '01', '02', and '03' are connected by teal arrows. The boxes move through stages: 'Election and eligibility', 'Sufficient value', and 'Continuing consequence'. The box currently being discussed is highlighted with a thicker teal border. The background remains light beige, maintaining consistent color grading with high contrast for the text.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "2:22",
+        "timestamp_start": "1:33"
+      },
+      {
+        "audio": "Elena requests a partial withdrawal from a universal life policy that permits it. A withdrawal takes value out permanently under that transaction instead of recording a loan balance to repay. It may reduce the death benefit, incur charges, and make future funding less secure under the contract. A full surrender instead ends the surrendered policy's protection. Whole life may allow access through different features, such as surrendering paid-up additions, rather than the same universal life withdrawal mechanism. Identify the actual feature before quoting an effect. The same $5,000 cash need can produce different continuing obligations under a loan and a withdrawal.",
+        "label": "Problem Solving",
+        "visual": "The screen displays a comparison chart with three white columns: 'Loan', 'Partial withdrawal', and 'Full surrender'. As each is discussed, the corresponding column is highlighted with a teal outline. Detailed descriptions in dark gray text explain the mechanics of each option. The visual design is flat and functional.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "3:07",
+        "timestamp_start": "2:22"
+      },
+      {
+        "audio": "Marcus considers borrowing $5,000 against available policy value to help pay tuition. Paying a college bill does not transform that advance into a scholarship, federal student loan, or tax-favored education account. It remains a policy loan with its own interest, effect on benefits, and risk if debt grows. Compare the family's remaining protection needs and other funding resources before committing. The word 'educational' describes the intended use in this example, not a universal separate policy rider. A producer should explain the real terms and avoid promising unlimited or cost-free access to the policy's death benefit.",
+        "label": "Real Experience",
+        "visual": "A grid-style graphic with three sections titled 'Purpose', 'Mechanics', and 'Review' appears. The visual elements follow the same teal and dark gray color scheme on a beige background. Simple icons accompany each section to provide visual cues for the tuition expense scenario being explained.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "3:52",
+        "timestamp_start": "3:07"
+      },
+      {
+        "audio": "Read Maryland's interest and notice rules carefully. Maryland's modern policy loan interest provision permits either the specified fixed maximum or an adjustable maximum calculated under the statute. Do not call 6% the universal cap for every policy loan. The contract must identify its applicable rate mechanism. Adjustable rate loans have notice and adjustment rules. The standard loan provision also addresses termination when total debt reaches the loan value, including at least 30 days' notice to the specified parties. A loan for paying a premium is treated differently from other loans under the six-month deferral provision. Identify the transaction and controlling section before choosing a deadline or interest rule.",
+        "label": "Call to Action",
+        "visual": "Briefly cut back to the man and woman from scene 1 in the kitchen, then transition to a final summary graphic. A vertical list of four points appears: '01 Rate mechanism', '02 Debt and value', '03 Notice', and '04 Premium purpose'. Each point is accompanied by a brief one-line explanation. The graphic is static, and the final frame holds on this list against the beige background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "4:42",
+        "timestamp_start": "3:52"
+      }
+    ]
+  }
+}
