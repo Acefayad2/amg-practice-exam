@@ -18,6 +18,10 @@ window.AMG_LESSON = {
       "url": "https://mgaleg.maryland.gov/mgawebsite/laws/StatuteText?article=gin&section=16-210"
     },
     {
+      "title": "Maryland Insurance §16-208",
+      "url": "https://mgaleg.maryland.gov/mgawebsite/laws/StatuteText?article=gin&section=16-208"
+    },
+    {
       "title": "Maryland Insurance §16-107",
       "url": "https://mgaleg.maryland.gov/mgawebsite/laws/StatuteText?article=gin&section=16-107"
     },
@@ -200,7 +204,7 @@ window.AMG_LESSON = {
   "notes": [
     {
       "title": "Reinstatement includes financial and underwriting conditions",
-      "text": "Under §16-210, the standard ordinary-life window is three years from the due date of the first defaulted premium; industrial life has two years. The application must be written and accompanied by satisfactory evidence of good insurability. Pay all overdue premiums and pay or reinstate other debt, with the contract’s interest no greater than 6% effective annually compounded. Cash surrender, exhaustion of cash value by debt and expiration of paid-up term defeat the stated eligibility.",
+      "text": "Under §16-210, the standard ordinary-life window is three years from the due date of the first defaulted premium; industrial life has two years. The application must be written and accompanied by satisfactory evidence of good insurability. Pay all overdue premiums and pay or reinstate other policy debt. Section 16-210 states a 6% effective annual interest limit, compounded annually, for its reinstatement provision. Policy-loan interest must also be checked under §16-208: for policies issued on or after July 1, 1983, that section expressly includes reinstated policy loans and permits a fixed maximum of no more than 8% or the statutory adjustable maximum. Do not apply the 6% figure as a universal cap on reinstated policy-loan interest. Cash surrender, exhaustion of cash value by debt and expiration of paid-up term defeat the stated eligibility.",
       "example": "An owner within three years still must satisfy the remaining conditions; the deadline alone is not approval.",
       "topics": [
         "5.1.07"

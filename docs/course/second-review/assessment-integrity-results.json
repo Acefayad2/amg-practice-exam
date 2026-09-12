@@ -1,0 +1,3098 @@
+{
+  "reviewDate": "2026-09-13",
+  "assessmentItems": 302,
+  "relatedLessonReviewItems": 512,
+  "assertions": 6410,
+  "forms": [
+    {
+      "id": "D",
+      "items": 32,
+      "scored": 32,
+      "simulation": 0,
+      "minutes": 0,
+      "allocation": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "id": "A",
+      "items": 90,
+      "scored": 80,
+      "simulation": 10,
+      "minutes": 105,
+      "allocation": [
+        24,
+        8,
+        14,
+        8,
+        11,
+        7,
+        6,
+        2
+      ]
+    },
+    {
+      "id": "B",
+      "items": 90,
+      "scored": 80,
+      "simulation": 10,
+      "minutes": 105,
+      "allocation": [
+        24,
+        8,
+        14,
+        8,
+        11,
+        7,
+        6,
+        2
+      ]
+    },
+    {
+      "id": "C",
+      "items": 90,
+      "scored": 80,
+      "simulation": 10,
+      "minutes": 105,
+      "allocation": [
+        24,
+        8,
+        14,
+        8,
+        11,
+        7,
+        6,
+        2
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "D-3-4",
+      "lesson": "25",
+      "domain": 2,
+      "scored": true,
+      "key": 2,
+      "correctOption": "The receipt’s stated conditions and the actual facts",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-1-1",
+      "lesson": "09",
+      "domain": 0,
+      "scored": true,
+      "key": 1,
+      "correctOption": "She must obtain the required license before soliciting.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-1-2",
+      "lesson": "12",
+      "domain": 0,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Misuse or commingling of money held in a fiduciary capacity",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-6-4",
+      "lesson": "48",
+      "domain": 5,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Liquidity needs and the cost of access under the contract",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-7-3",
+      "lesson": "54",
+      "domain": 6,
+      "scored": true,
+      "key": 0,
+      "correctOption": "No federal income tax or early-distribution additional tax on that contribution basis",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-7-1",
+      "lesson": "49",
+      "domain": 6,
+      "scored": true,
+      "key": 2,
+      "correctOption": "The death benefit is excluded from gross income.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-5-1",
+      "lesson": "33",
+      "domain": 4,
+      "scored": true,
+      "key": 0,
+      "correctOption": "The contingent beneficiary",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-6-3",
+      "lesson": "47",
+      "domain": 5,
+      "scored": true,
+      "key": 1,
+      "correctOption": "The annuityowner does not thereby own the stocks in the index.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-4-1",
+      "lesson": "26",
+      "domain": 3,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Level term for the needed period",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-5-3",
+      "lesson": "38",
+      "domain": 4,
+      "scored": true,
+      "key": 0,
+      "correctOption": "$166,000",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-4-3",
+      "lesson": "28",
+      "domain": 3,
+      "scored": true,
+      "key": 1,
+      "correctOption": "The policy’s sufficiency depends on charges, values and applicable guarantees; flexible payments do not eliminate lapse risk.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-2-4",
+      "lesson": "06",
+      "domain": 1,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Unilateral",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-3-1",
+      "lesson": "18",
+      "domain": 2,
+      "scored": true,
+      "key": 3,
+      "correctOption": "The sister as owner",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-4-4",
+      "lesson": "30",
+      "domain": 3,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Survivorship or second-to-die life",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-3-2",
+      "lesson": "19",
+      "domain": 2,
+      "scored": true,
+      "key": 1,
+      "correctOption": "$550,000",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-7-4",
+      "lesson": "55",
+      "domain": 6,
+      "scored": true,
+      "key": 2,
+      "correctOption": "A direct rollover",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-8-1",
+      "lesson": "57",
+      "domain": 7,
+      "scored": true,
+      "key": 0,
+      "correctOption": "100% vested",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-5-4",
+      "lesson": "40",
+      "domain": 4,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Waive covered premiums under the rider",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-1-4",
+      "lesson": "17",
+      "domain": 0,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Guaranty protection has limits and must not be used as a sales inducement.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-2-2",
+      "lesson": "03",
+      "domain": 1,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Reinsurance",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-3-3",
+      "lesson": "24",
+      "domain": 2,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Substandard",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-6-2",
+      "lesson": "46",
+      "domain": 5,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Payments stop under the pure-life choice.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-2-3",
+      "lesson": "05",
+      "domain": 1,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Express authority",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-5-2",
+      "lesson": "37",
+      "domain": 4,
+      "scored": true,
+      "key": 3,
+      "correctOption": "A smaller paid-up permanent death benefit",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-8-4",
+      "lesson": "57",
+      "domain": 7,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Qualification depends on the plan’s terms and operation meeting legal requirements.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-4-2",
+      "lesson": "27",
+      "domain": 3,
+      "scored": true,
+      "key": 1,
+      "correctOption": "The required premium-paying period",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-6-1",
+      "lesson": "44",
+      "domain": 5,
+      "scored": true,
+      "key": 3,
+      "correctOption": "The annuitant’s",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-7-2",
+      "lesson": "51",
+      "domain": 6,
+      "scored": true,
+      "key": 2,
+      "correctOption": "$10,000",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-8-2",
+      "lesson": "58",
+      "domain": 7,
+      "scored": true,
+      "key": 2,
+      "correctOption": "An eligible 403(b) may use qualifying annuity contracts or custodial mutual-fund accounts.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-1-3",
+      "lesson": "15",
+      "domain": 0,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Whether the transaction meets the replacement definition and triggers replacement duties",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "D-2-1",
+      "lesson": "01",
+      "domain": 1,
+      "scored": true,
+      "key": 0,
+      "correctOption": "A hazard",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "related-foundation-lesson"
+    },
+    {
+      "id": "D-8-3",
+      "lesson": "58",
+      "domain": 7,
+      "scored": true,
+      "key": 3,
+      "correctOption": "The employer",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-1-11",
+      "lesson": "11",
+      "domain": 0,
+      "scored": true,
+      "key": 2,
+      "correctOption": "The forgery remains a potential ground for producer discipline.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-7-07",
+      "lesson": "54",
+      "domain": 6,
+      "scored": false,
+      "key": 0,
+      "correctOption": "The qualified distribution, including earnings, is federally income-tax free.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-6-08",
+      "lesson": "45",
+      "domain": 5,
+      "scored": false,
+      "key": 2,
+      "correctOption": "$115,200",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-2-04",
+      "lesson": "04",
+      "domain": 1,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Foreign",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-1-06",
+      "lesson": "10",
+      "domain": 0,
+      "scored": true,
+      "key": 2,
+      "correctOption": "At the initial court appearance",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-1-01",
+      "lesson": "09",
+      "domain": 0,
+      "scored": true,
+      "key": 1,
+      "correctOption": "The receptionist’s actual duties now include solicitation or negotiation.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-5-06",
+      "lesson": "36",
+      "domain": 4,
+      "scored": true,
+      "key": 1,
+      "correctOption": "The stated interest, while the principal remains under the arrangement",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-1-25",
+      "lesson": "10",
+      "domain": 0,
+      "scored": false,
+      "key": 0,
+      "correctOption": "The ordinary 30-day license-information change duty still applies.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-1-07",
+      "lesson": "10",
+      "domain": 0,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Report the covered action to the Commissioner within 30 days of final disposition, with relevant documents.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-4-02",
+      "lesson": "26",
+      "domain": 3,
+      "scored": true,
+      "key": 0,
+      "correctOption": "The opportunity to obtain the specified permanent coverage despite a later health change",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-5-08",
+      "lesson": "38",
+      "domain": 4,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Debt can grow and reduce available values and death proceeds, potentially threatening coverage.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-2-05",
+      "lesson": "05",
+      "domain": 1,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Apparent authority attributable to the principal’s conduct",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-8-02",
+      "lesson": "58",
+      "domain": 7,
+      "scored": true,
+      "key": 3,
+      "correctOption": "A contribution is not necessarily barred solely because the business had no profit.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-4-03",
+      "lesson": "27",
+      "domain": 3,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Single premium",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-2-02",
+      "lesson": "02",
+      "domain": 1,
+      "scored": true,
+      "key": 1,
+      "correctOption": "An average implied by the assumptions, not a guaranteed count or identification of claimants",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "related-foundation-lesson"
+    },
+    {
+      "id": "A-1-16",
+      "lesson": "13",
+      "domain": 0,
+      "scored": true,
+      "key": 1,
+      "correctOption": "The buyer’s agreement does not make the prohibited inducement lawful.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-1-12",
+      "lesson": "12",
+      "domain": 0,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Close of the fifth business day following receipt",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-1-15",
+      "lesson": "13",
+      "domain": 0,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Twisting through misrepresentation",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-3-06",
+      "lesson": "20",
+      "domain": 2,
+      "scored": true,
+      "key": 3,
+      "correctOption": "The viator",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-6-03",
+      "lesson": "46",
+      "domain": 5,
+      "scored": true,
+      "key": 3,
+      "correctOption": "The remaining six years of payments",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-1-22",
+      "lesson": "16",
+      "domain": 0,
+      "scored": true,
+      "key": 0,
+      "correctOption": "The amount available for conversion is payable under the group policy.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-3-11",
+      "lesson": "23",
+      "domain": 2,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Record the information requested by the application accurately and let underwriting evaluate it.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-4-01",
+      "lesson": "26",
+      "domain": 3,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Decreasing term",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-3-04",
+      "lesson": "19",
+      "domain": 2,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Estate liquidity",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-1-14",
+      "lesson": "12",
+      "domain": 0,
+      "scored": true,
+      "key": 0,
+      "correctOption": "$360",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-3-02",
+      "lesson": "18",
+      "domain": 2,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Self-procured coverage generally allows this beneficiary choice.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-3-14",
+      "lesson": "25",
+      "domain": 2,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Acceptance of the changed terms and satisfaction of the stated delivery and coverage conditions",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-2-06",
+      "lesson": "06",
+      "domain": 1,
+      "scored": true,
+      "key": 1,
+      "correctOption": "A counteroffer requiring the applicant’s acceptance",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-1-24",
+      "lesson": "04",
+      "domain": 0,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Decline the unauthorized-insurer transaction.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-5-02",
+      "lesson": "33",
+      "domain": 4,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Whether that beneficiary’s consent is required under the contract and law",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-5-12",
+      "lesson": "40",
+      "domain": 4,
+      "scored": false,
+      "key": 2,
+      "correctOption": "The child",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-5-03",
+      "lesson": "34",
+      "domain": 4,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Coverage continues during grace, with the permitted unpaid-premium adjustment to proceeds.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-3-07",
+      "lesson": "21",
+      "domain": 2,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Buy-sell funding",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-6-07",
+      "lesson": "48",
+      "domain": 5,
+      "scored": true,
+      "key": 1,
+      "correctOption": "The recommendation may put the producer’s interest ahead of the consumer’s under the best-interest rule.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-3-09",
+      "lesson": "22",
+      "domain": 2,
+      "scored": true,
+      "key": 0,
+      "correctOption": "The gross premium includes the expense loading.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-4-08",
+      "lesson": "30",
+      "domain": 3,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Credit life protecting the debt obligation",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-5-07",
+      "lesson": "37",
+      "domain": 4,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Term protection for the original amount, adjusted as applicable, for a limited period",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-7-04",
+      "lesson": "53",
+      "domain": 6,
+      "scored": true,
+      "key": 1,
+      "correctOption": "$6,000",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-5-10",
+      "lesson": "41",
+      "domain": 4,
+      "scored": true,
+      "key": 0,
+      "correctOption": "The remaining benefit and other policy elements may be reduced under the rider.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-1-08",
+      "lesson": "11",
+      "domain": 0,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Reject the application under the law or appoint the producer and make the required register entry",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-7-06",
+      "lesson": "56",
+      "domain": 6,
+      "scored": true,
+      "key": 0,
+      "correctOption": "An annuity-to-life exchange is not an allowed §1035 direction.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-6-05",
+      "lesson": "47",
+      "domain": 5,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Market performance of the chosen investments",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-1-19",
+      "lesson": "15",
+      "domain": 0,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Present, obtain the required signatures and leave the notice with the applicant.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-7-02",
+      "lesson": "50",
+      "domain": 6,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Distributions generally use gain-first treatment, and certain loans are treated as distributions.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-7-05",
+      "lesson": "55",
+      "domain": 6,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Deposit $80,000, including $16,000 from other funds to replace withholding.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-1-20",
+      "lesson": "15",
+      "domain": 0,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Apply the prescribed cash-surrender-value-plus-specified-fees-and-charges formula.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-7-03",
+      "lesson": "51",
+      "domain": 6,
+      "scored": true,
+      "key": 3,
+      "correctOption": "$24,000 taxable; $2,400 additional tax",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-1-17",
+      "lesson": "14",
+      "domain": 0,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Those values depend on nonguaranteed assumptions; distinguish them from the guaranteed values.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-5-05",
+      "lesson": "35",
+      "domain": 4,
+      "scored": true,
+      "key": 3,
+      "correctOption": "The required application, evidence of insurability and payment of arrears and applicable indebtedness and interest",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-2-03",
+      "lesson": "03",
+      "domain": 1,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Avoidance",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-4-04",
+      "lesson": "28",
+      "domain": 3,
+      "scored": true,
+      "key": 2,
+      "correctOption": "It does not necessarily prevent account value from declining after policy charges.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-3-13",
+      "lesson": "24",
+      "domain": 2,
+      "scored": true,
+      "key": 3,
+      "correctOption": "MIB information supports underwriting investigation; it is not a complete medical record or an automatic final underwriting decision.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-5-01",
+      "lesson": "32",
+      "domain": 4,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Collateral assignment",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-1-18",
+      "lesson": "14",
+      "domain": 0,
+      "scored": true,
+      "key": 2,
+      "correctOption": "No; both the permitted-sharing condition and unchanged-practices condition must be satisfied.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-3-12",
+      "lesson": "24",
+      "domain": 2,
+      "scored": true,
+      "key": 2,
+      "correctOption": "An attending physician statement",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-1-23",
+      "lesson": "17",
+      "domain": 0,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Unfair claims settlement practices",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-2-07",
+      "lesson": "07",
+      "domain": 1,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Genuine ambiguity in an adhesion contract is generally construed against its drafter, subject to governing law.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-5-04",
+      "lesson": "34",
+      "domain": 4,
+      "scored": true,
+      "key": 0,
+      "correctOption": "It limits specified validity challenges; it does not erase every exclusion or the nonpayment exception.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-4-05",
+      "lesson": "29",
+      "domain": 3,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Investment performance can affect values and benefits as the policy states.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-2-10",
+      "lesson": "08",
+      "domain": 1,
+      "scored": false,
+      "key": 1,
+      "correctOption": "Whether and how Maryland adopted the relevant rule",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-5-11",
+      "lesson": "43",
+      "domain": 4,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Purchase of the allowed additional coverage without new evidence of insurability",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-1-05",
+      "lesson": "10",
+      "domain": 0,
+      "scored": true,
+      "key": 3,
+      "correctOption": "CE must ordinarily be completed at least 15 days before expiration.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-2-09",
+      "lesson": "02",
+      "domain": 1,
+      "scored": false,
+      "key": 0,
+      "correctOption": "Adverse selection",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "related-foundation-lesson"
+    },
+    {
+      "id": "A-6-06",
+      "lesson": "48",
+      "domain": 5,
+      "scored": true,
+      "key": 2,
+      "correctOption": "To understand the consumer profile and support the recommendation under the care obligation",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-3-01",
+      "lesson": "18",
+      "domain": 2,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Insurable interest",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-2-01",
+      "lesson": "01",
+      "domain": 1,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Moral hazard",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "related-foundation-lesson"
+    },
+    {
+      "id": "A-1-09",
+      "lesson": "11",
+      "domain": 0,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Act within the appointment and delegated authority before the register entry is finished",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-7-01",
+      "lesson": "49",
+      "domain": 6,
+      "scored": true,
+      "key": 1,
+      "correctOption": "$4,500",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-3-15",
+      "lesson": "22",
+      "domain": 2,
+      "scored": false,
+      "key": 1,
+      "correctOption": "The payment mode can add financing or administrative costs.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-1-21",
+      "lesson": "16",
+      "domain": 0,
+      "scored": true,
+      "key": 1,
+      "correctOption": "$65,000",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-4-06",
+      "lesson": "30",
+      "domain": 3,
+      "scored": true,
+      "key": 2,
+      "correctOption": "The first death triggers the policy’s stated death benefit.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-4-07",
+      "lesson": "31",
+      "domain": 3,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Describe the employee’s covered protection and rights under the group arrangement",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-1-02",
+      "lesson": "09",
+      "domain": 0,
+      "scored": true,
+      "key": 1,
+      "correctOption": "15 months",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-6-02",
+      "lesson": "45",
+      "domain": 5,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Single-premium immediate annuity",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-1-13",
+      "lesson": "12",
+      "domain": 0,
+      "scored": true,
+      "key": 3,
+      "correctOption": "The withdrawal cannot leave the account below the required aggregate obligations.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-2-08",
+      "lesson": "08",
+      "domain": 1,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Less favorable terms based on the report can be adverse action requiring notice.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-4-09",
+      "lesson": "27",
+      "domain": 3,
+      "scored": false,
+      "key": 0,
+      "correctOption": "The first limits scheduled premium payments; the second specifies a protection period.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-1-03",
+      "lesson": "09",
+      "domain": 0,
+      "scored": true,
+      "key": 2,
+      "correctOption": "The designated principal contact must be a licensed insurance producer.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-1-04",
+      "lesson": "10",
+      "domain": 0,
+      "scored": true,
+      "key": 1,
+      "correctOption": "At least one more ethics hour is needed to meet the three-hour ethics minimum.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-1-26",
+      "lesson": "11",
+      "domain": 0,
+      "scored": false,
+      "key": 0,
+      "correctOption": "Termination of an appointment is separate from revocation of the state producer license.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-5-09",
+      "lesson": "39",
+      "domain": 4,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Additional paid-up life coverage and associated values are purchased under the option.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-8-01",
+      "lesson": "57",
+      "domain": 7,
+      "scored": true,
+      "key": 1,
+      "correctOption": "$11,000",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-6-04",
+      "lesson": "46",
+      "domain": 5,
+      "scored": true,
+      "key": 0,
+      "correctOption": "$1,200",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-3-05",
+      "lesson": "20",
+      "domain": 2,
+      "scored": true,
+      "key": 0,
+      "correctOption": "A sale of policy interests under the settlement arrangement",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-3-10",
+      "lesson": "23",
+      "domain": 2,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Use the insurer’s correction process and obtain the applicant’s required acknowledgment.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-1-10",
+      "lesson": "11",
+      "domain": 0,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Appointment records must be retained during the appointment and at least five years after termination.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-6-01",
+      "lesson": "44",
+      "domain": 5,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Accumulation",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-3-03",
+      "lesson": "19",
+      "domain": 2,
+      "scored": true,
+      "key": 1,
+      "correctOption": "$400,000",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-3-08",
+      "lesson": "21",
+      "domain": 2,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Key-person insurance",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "A-3-16",
+      "lesson": "19",
+      "domain": 2,
+      "scored": false,
+      "key": 0,
+      "correctOption": "Potential double counting of the same mortgage need",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-6-05",
+      "lesson": "47",
+      "domain": 5,
+      "scored": true,
+      "key": 0,
+      "correctOption": "An MVA is distinct from the surrender-charge schedule and can affect net proceeds.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-3-15",
+      "lesson": "19",
+      "domain": 2,
+      "scored": false,
+      "key": 2,
+      "correctOption": "Check actual eligibility and estimated benefits before using them as a resource.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-3-14",
+      "lesson": "25",
+      "domain": 2,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Satisfaction of the actual contract and delivery conditions",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-25",
+      "lesson": "11",
+      "domain": 0,
+      "scored": false,
+      "key": 2,
+      "correctOption": "Seeking judicial review does not automatically establish a stay; the applicable court process controls.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-4-07",
+      "lesson": "31",
+      "domain": 3,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Contributory",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-6-03",
+      "lesson": "46",
+      "domain": 5,
+      "scored": true,
+      "key": 3,
+      "correctOption": "The period-certain payments end.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-14",
+      "lesson": "12",
+      "domain": 0,
+      "scored": true,
+      "key": 0,
+      "correctOption": "The real selling activity, regardless of the payment label",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-7-01",
+      "lesson": "49",
+      "domain": 6,
+      "scored": true,
+      "key": 0,
+      "correctOption": "$27,000",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-6-02",
+      "lesson": "45",
+      "domain": 5,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Single versus periodic describes funding; immediate versus deferred describes income timing.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-5-12",
+      "lesson": "33",
+      "domain": 4,
+      "scored": false,
+      "key": 3,
+      "correctOption": "The primary’s surviving the insured can vest rights; the contract and succession facts control the later payment.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-2-04",
+      "lesson": "04",
+      "domain": 1,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Stock insurer",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-2-05",
+      "lesson": "05",
+      "domain": 1,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Implied authority",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-06",
+      "lesson": "10",
+      "domain": 0,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Any reduction or exemption must satisfy its stated statutory conditions; age alone is not a blanket exemption.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-16",
+      "lesson": "13",
+      "domain": 0,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Coercion or intimidation in insurance sales",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-5-02",
+      "lesson": "33",
+      "domain": 4,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Per stirpes",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-2-02",
+      "lesson": "03",
+      "domain": 1,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Retention",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-6-04",
+      "lesson": "46",
+      "domain": 5,
+      "scored": true,
+      "key": 3,
+      "correctOption": "$55,000",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-2-08",
+      "lesson": "08",
+      "domain": 1,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Whether written regulatory consent is required under the applicable federal restriction",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-5-10",
+      "lesson": "42",
+      "domain": 4,
+      "scored": true,
+      "key": 1,
+      "correctOption": "The rider’s conversion deadline, permitted amount and available form",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-2-03",
+      "lesson": "02",
+      "domain": 1,
+      "scored": true,
+      "key": 0,
+      "correctOption": "More predictable average loss experience in relative terms",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "related-foundation-lesson"
+    },
+    {
+      "id": "B-3-07",
+      "lesson": "21",
+      "domain": 2,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Cross-purchase",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-3-01",
+      "lesson": "18",
+      "domain": 2,
+      "scored": true,
+      "key": 1,
+      "correctOption": "A lawful economic insurable interest",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-20",
+      "lesson": "15",
+      "domain": 0,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Possible effects on policy elements and values through the required notice within 14 business days",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-7-06",
+      "lesson": "55",
+      "domain": 6,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Direct trustee-to-trustee transfers are not subject to that owner-paid rollover limit.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-26",
+      "lesson": "10",
+      "domain": 0,
+      "scored": false,
+      "key": 3,
+      "correctOption": "After reinstatement is effective",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-04",
+      "lesson": "10",
+      "domain": 0,
+      "scored": true,
+      "key": 0,
+      "correctOption": "No; this application is in the prospective reinstatement period.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-7-07",
+      "lesson": "56",
+      "domain": 6,
+      "scored": false,
+      "key": 3,
+      "correctOption": "$55,000",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-6-08",
+      "lesson": "45",
+      "domain": 5,
+      "scored": false,
+      "key": 0,
+      "correctOption": "The stated rate trigger has not been met.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-5-09",
+      "lesson": "39",
+      "domain": 4,
+      "scored": true,
+      "key": 1,
+      "correctOption": "The cash-dividend election differs from interest earned on dividends left with the insurer.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-3-12",
+      "lesson": "24",
+      "domain": 2,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Preferred",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-3-06",
+      "lesson": "20",
+      "domain": 2,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Proceeds and the specified premiums and loan interest paid by the provider",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-15",
+      "lesson": "13",
+      "domain": 0,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Defamation",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-05",
+      "lesson": "10",
+      "domain": 0,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Written notice within 10 days of the change",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-3-09",
+      "lesson": "22",
+      "domain": 2,
+      "scored": true,
+      "key": 2,
+      "correctOption": "They depend on divisible surplus and are not guaranteed merely because the policy participates.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-2-07",
+      "lesson": "07",
+      "domain": 1,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Waiver",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-17",
+      "lesson": "14",
+      "domain": 0,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Use compliant approved illustration material and accurately disclose guaranteed and nonguaranteed elements.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-6-06",
+      "lesson": "48",
+      "domain": 5,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Documentation of the recommendation and supporting information",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-4-09",
+      "lesson": "26",
+      "domain": 3,
+      "scored": false,
+      "key": 1,
+      "correctOption": "The policy’s return-of-premium conditions and defined eligible premiums",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-3-05",
+      "lesson": "20",
+      "domain": 2,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Maryland’s viator framework is not limited to terminally or chronically ill insureds.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-5-05",
+      "lesson": "35",
+      "domain": 4,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Specified reinstatement facts can be subject to their own contestability period under the applicable law.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-5-08",
+      "lesson": "38",
+      "domain": 4,
+      "scored": true,
+      "key": 0,
+      "correctOption": "It uses a policy loan to pay the premium and creates or increases debt.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-5-03",
+      "lesson": "34",
+      "domain": 4,
+      "scored": true,
+      "key": 1,
+      "correctOption": "A defined right to review and return the contract under the applicable refund terms",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-19",
+      "lesson": "15",
+      "domain": 0,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Follow the applicable five-business-day notification requirement.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-6-07",
+      "lesson": "48",
+      "domain": 5,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Evaluate the annuity’s non-tax features, costs and guarantees; it adds no separate layer of IRA tax deferral.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-5-06",
+      "lesson": "36",
+      "domain": 4,
+      "scored": true,
+      "key": 0,
+      "correctOption": "The duration of payments",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-8-02",
+      "lesson": "57",
+      "domain": 7,
+      "scored": true,
+      "key": 3,
+      "correctOption": "The deferrals generally reduce current federal income-tax wages but remain subject to applicable Social Security and Medicare taxes.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-4-01",
+      "lesson": "26",
+      "domain": 3,
+      "scored": true,
+      "key": 0,
+      "correctOption": "The premium generally increases with attained age.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-5-01",
+      "lesson": "32",
+      "domain": 4,
+      "scored": true,
+      "key": 1,
+      "correctOption": "What documents constitute the contract and who has authority to change it",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-4-03",
+      "lesson": "27",
+      "domain": 3,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Current assumptions can change within the contract; guaranteed provisions are a separate reference.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-10",
+      "lesson": "11",
+      "domain": 0,
+      "scored": true,
+      "key": 0,
+      "correctOption": "A written report to the Fraud Division based on the good-faith concern",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-7-04",
+      "lesson": "53",
+      "domain": 6,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Contribution eligibility and deductibility are separate questions.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-5-11",
+      "lesson": "43",
+      "domain": 4,
+      "scored": true,
+      "key": 1,
+      "correctOption": "The base policy may pay a covered death benefit even though the accidental rider does not add its benefit.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-11",
+      "lesson": "12",
+      "domain": 0,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Permitted multi-carrier premiums may share a separate premium account.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-03",
+      "lesson": "09",
+      "domain": 0,
+      "scored": true,
+      "key": 3,
+      "correctOption": "The provider must register before acting or holding itself out in that role.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-2-06",
+      "lesson": "06",
+      "domain": 1,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Aleatory",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-12",
+      "lesson": "12",
+      "domain": 0,
+      "scored": true,
+      "key": 0,
+      "correctOption": "The carrier’s written consent",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-3-02",
+      "lesson": "18",
+      "domain": 2,
+      "scored": true,
+      "key": 1,
+      "correctOption": "The ordinary inception requirement is separate from lawful later ownership transfers and anti-wagering or settlement rules.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-3-03",
+      "lesson": "19",
+      "domain": 2,
+      "scored": true,
+      "key": 2,
+      "correctOption": "$340,000",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-5-04",
+      "lesson": "35",
+      "domain": 4,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Use the amount the premium would have purchased at the true age, subject to the statute’s specific rules.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-3-11",
+      "lesson": "23",
+      "domain": 2,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Report relevant factual observations accurately through authorized channels.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-8-01",
+      "lesson": "58",
+      "domain": 7,
+      "scored": true,
+      "key": 0,
+      "correctOption": "25%",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-21",
+      "lesson": "15",
+      "domain": 0,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Replacement compliance and federal tax treatment are separate; the actual transaction controls taxation.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-6-01",
+      "lesson": "44",
+      "domain": 5,
+      "scored": true,
+      "key": 2,
+      "correctOption": "The owner exercises contractual control; the annuitant is the measuring life.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-2-09",
+      "lesson": "08",
+      "domain": 1,
+      "scored": false,
+      "key": 3,
+      "correctOption": "Registration is not government endorsement or a return guarantee.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-24",
+      "lesson": "17",
+      "domain": 0,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Unfair claims settlement conduct",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-08",
+      "lesson": "11",
+      "domain": 0,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Submit comments within 30 days after receipt and simultaneously send a copy to the insurer.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-3-16",
+      "lesson": "20",
+      "domain": 2,
+      "scored": false,
+      "key": 2,
+      "correctOption": "The prohibition on the broker’s direct or specified indirect purchase of a policy subject to the brokerage contract",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-4-04",
+      "lesson": "28",
+      "domain": 3,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Whether value and any guarantee conditions are sufficient to maintain coverage",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-3-04",
+      "lesson": "19",
+      "domain": 2,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Human life value",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-3-08",
+      "lesson": "21",
+      "domain": 2,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Who owns the policy and receives its benefits under the actual bonus arrangement",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-4-08",
+      "lesson": "31",
+      "domain": 3,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Review each program’s own eligibility and provisions.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-01",
+      "lesson": "09",
+      "domain": 0,
+      "scored": true,
+      "key": 3,
+      "correctOption": "The education prerequisite changed; applicable examination and application requirements remain.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-7-03",
+      "lesson": "52",
+      "domain": 6,
+      "scored": true,
+      "key": 0,
+      "correctOption": "40%",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-4-05",
+      "lesson": "29",
+      "domain": 3,
+      "scored": true,
+      "key": 0,
+      "correctOption": "The contract may require evidence of insurability for an increase.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-07",
+      "lesson": "11",
+      "domain": 0,
+      "scored": true,
+      "key": 2,
+      "correctOption": "15 days after the required regulator notice",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-7-02",
+      "lesson": "50",
+      "domain": 6,
+      "scored": true,
+      "key": 1,
+      "correctOption": "$30,000 taxable; $3,000 additional tax",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-13",
+      "lesson": "12",
+      "domain": 0,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Permitted renewal or deferred compensation is different from authority to conduct new unlicensed sales.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-18",
+      "lesson": "14",
+      "domain": 0,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Use and disclosure remain subject to applicable notices, authorizations, exceptions and limits.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-2-01",
+      "lesson": "01",
+      "domain": 1,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Morale hazard",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "related-foundation-lesson"
+    },
+    {
+      "id": "B-4-06",
+      "lesson": "30",
+      "domain": 3,
+      "scored": true,
+      "key": 2,
+      "correctOption": "The insured child’s coverage and the rider’s qualifying event affecting the payor",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-02",
+      "lesson": "09",
+      "domain": 0,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Continuing nonresident authority depends on applicable home-state standing and Maryland requirements, not merely the printed date.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-3-13",
+      "lesson": "24",
+      "domain": 2,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Victim status is protected; medical conditions have a separate statutory rule.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-4-02",
+      "lesson": "26",
+      "domain": 3,
+      "scored": true,
+      "key": 2,
+      "correctOption": "The contractual increase schedule or formula",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-5-07",
+      "lesson": "37",
+      "domain": 4,
+      "scored": true,
+      "key": 2,
+      "correctOption": "The surrendered coverage ends and the applicable net surrender value is paid.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-23",
+      "lesson": "16",
+      "domain": 0,
+      "scored": true,
+      "key": 3,
+      "correctOption": "That the individual policy must retain the former group premium and every supplementary rider",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-3-10",
+      "lesson": "23",
+      "domain": 2,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Obtain the missing answer through the authorized process.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-22",
+      "lesson": "16",
+      "domain": 0,
+      "scored": true,
+      "key": 2,
+      "correctOption": "The separate group-policy/class-termination rule, including its permitted lesser-of limit",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-1-09",
+      "lesson": "11",
+      "domain": 0,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Within 10 working days of the request",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-2-10",
+      "lesson": "04",
+      "domain": 1,
+      "scored": false,
+      "key": 3,
+      "correctOption": "The rating is an opinion useful for evaluation, not a guarantee that all future obligations are risk free.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "B-7-05",
+      "lesson": "54",
+      "domain": 6,
+      "scored": true,
+      "key": 0,
+      "correctOption": "The conversion-related additional-tax rule, even though the conversion income was already taxed",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-7-05",
+      "lesson": "53",
+      "domain": 6,
+      "scored": true,
+      "key": 1,
+      "correctOption": "The 2027 RMD is still due by December 31, 2027.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-5-03",
+      "lesson": "34",
+      "domain": 4,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Grace continues the policy for the stated period; reinstatement addresses coverage after a lapse.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-18",
+      "lesson": "14",
+      "domain": 0,
+      "scored": true,
+      "key": 1,
+      "correctOption": "No; the annual-notice exception also requires the specified practices to remain unchanged.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-5-07",
+      "lesson": "37",
+      "domain": 4,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Reduced paid-up and extended term",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-2-06",
+      "lesson": "07",
+      "domain": 1,
+      "scored": true,
+      "key": 3,
+      "correctOption": "An incorrect representation is not automatically fraud; materiality and the applicable legal standard still matter.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-3-04",
+      "lesson": "19",
+      "domain": 2,
+      "scored": true,
+      "key": 1,
+      "correctOption": "The stated estate and liquidity needs, available resources, beneficiary arrangement and applicable tax rules",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-2-10",
+      "lesson": "05",
+      "domain": 1,
+      "scored": false,
+      "key": 3,
+      "correctOption": "The producer’s assertion alone does not establish authority to change exclusions.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-21",
+      "lesson": "15",
+      "domain": 0,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Apply the exclusion’s actual conditions instead of automatically treating every policy change as a covered replacement.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-4-09",
+      "lesson": "29",
+      "domain": 3,
+      "scored": false,
+      "key": 3,
+      "correctOption": "Whether the premium schedule is flexible",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-2-03",
+      "lesson": "03",
+      "domain": 1,
+      "scored": true,
+      "key": 1,
+      "correctOption": "A loss must be sufficiently definite and measurable to evaluate the promise and cost.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-6-05",
+      "lesson": "47",
+      "domain": 5,
+      "scored": true,
+      "key": 1,
+      "correctOption": "4.8%",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-2-02",
+      "lesson": "03",
+      "domain": 1,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Reduction",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-3-08",
+      "lesson": "21",
+      "domain": 2,
+      "scored": true,
+      "key": 2,
+      "correctOption": "These are separate funding needs that may require coordinated coverage.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-5-05",
+      "lesson": "35",
+      "domain": 4,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Cash surrender falls outside the stated ordinary reinstatement opportunity.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-2-04",
+      "lesson": "04",
+      "domain": 1,
+      "scored": true,
+      "key": 3,
+      "correctOption": "A purchasing group arranges buying; that fact alone does not make it the risk-bearing insurer.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-03",
+      "lesson": "09",
+      "domain": 0,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Check the specific employee-benefits exception and all its conditions.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-6-08",
+      "lesson": "45",
+      "domain": 5,
+      "scored": false,
+      "key": 0,
+      "correctOption": "$130,000",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-04",
+      "lesson": "10",
+      "domain": 0,
+      "scored": true,
+      "key": 2,
+      "correctOption": "The initial-license pathway with applicable requirements",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-06",
+      "lesson": "10",
+      "domain": 0,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Qualifying home-state compliance may satisfy Maryland CE for the nonresident.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-2-05",
+      "lesson": "06",
+      "domain": 1,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Conditional",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-4-05",
+      "lesson": "29",
+      "domain": 3,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Flexible funding subject to policy sufficiency, plus separate-account investment risk",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-5-06",
+      "lesson": "36",
+      "domain": 4,
+      "scored": true,
+      "key": 0,
+      "correctOption": "The insurer-backed arrangement and applicable disclosures must be understood; draft access does not establish FDIC insurance.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-6-07",
+      "lesson": "48",
+      "domain": 5,
+      "scored": true,
+      "key": 0,
+      "correctOption": "The tradeoff between lost benefits, new costs and the consumer’s actual needs",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-4-07",
+      "lesson": "31",
+      "domain": 3,
+      "scored": true,
+      "key": 0,
+      "correctOption": "The statute and policy include stated eligibility conditions and exceptions.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-22",
+      "lesson": "16",
+      "domain": 0,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Dependent coverage cannot exceed the employee’s amount under that rule.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-5-04",
+      "lesson": "35",
+      "domain": 4,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Whether the actual exclusion applies to the facts",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-6-01",
+      "lesson": "44",
+      "domain": 5,
+      "scored": true,
+      "key": 2,
+      "correctOption": "That periodic withdrawals necessarily constitute an irrevocable lifetime annuitization election",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-2-01",
+      "lesson": "01",
+      "domain": 1,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Life insurance generally pays the stated contractual benefit rather than measuring every dollar of actual loss as indemnity.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "related-foundation-lesson"
+    },
+    {
+      "id": "C-4-02",
+      "lesson": "27",
+      "domain": 3,
+      "scored": true,
+      "key": 2,
+      "correctOption": "The premium schedule changes as specified; review it separately from any graded death-benefit feature.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-6-06",
+      "lesson": "48",
+      "domain": 5,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Disclosure alone does not satisfy the separate care obligation.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-7-01",
+      "lesson": "49",
+      "domain": 6,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Debt extinguished in the termination can affect proceeds and create taxable gain beyond basis.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-3-09",
+      "lesson": "22",
+      "domain": 2,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Upward, because less investment income is assumed to help fund the benefit",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-4-06",
+      "lesson": "30",
+      "domain": 3,
+      "scored": true,
+      "key": 2,
+      "correctOption": "The base policy and each rider’s insured person, amount, term and conditions",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-05",
+      "lesson": "10",
+      "domain": 0,
+      "scored": true,
+      "key": 1,
+      "correctOption": "The criminal clock ordinarily starts at initial court appearance, whereas the administrative-action clock uses final disposition.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-11",
+      "lesson": "12",
+      "domain": 0,
+      "scored": true,
+      "key": 3,
+      "correctOption": "A permitted voluntary deposit does not authorize mixing the premium account with ordinary operating or personal accounts.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-4-08",
+      "lesson": "30",
+      "domain": 3,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Income support and other expenses beyond the covered debt",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-2-09",
+      "lesson": "02",
+      "domain": 1,
+      "scored": false,
+      "key": 1,
+      "correctOption": "Correlation can cause many losses together and weakens the independence assumption.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "related-foundation-lesson"
+    },
+    {
+      "id": "C-6-02",
+      "lesson": "45",
+      "domain": 5,
+      "scored": true,
+      "key": 2,
+      "correctOption": "That nonforfeiture guarantees an unrestricted full refund of all premiums on demand",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-6-03",
+      "lesson": "46",
+      "domain": 5,
+      "scored": true,
+      "key": 0,
+      "correctOption": "A life-with-refund option",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-3-06",
+      "lesson": "20",
+      "domain": 2,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Once every three months",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-7-02",
+      "lesson": "50",
+      "domain": 6,
+      "scored": true,
+      "key": 3,
+      "correctOption": "MEC status carries to the replacement contract under the applicable rules.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-2-08",
+      "lesson": "08",
+      "domain": 1,
+      "scored": true,
+      "key": 2,
+      "correctOption": "The applicable securities registration and sales requirements in addition to state insurance authority",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-8-02",
+      "lesson": "57",
+      "domain": 7,
+      "scored": true,
+      "key": 3,
+      "correctOption": "A plan-specific separation-from-service exception may avoid the early-distribution additional tax, but it is not the same exception for an IRA.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-8-01",
+      "lesson": "58",
+      "domain": 7,
+      "scored": true,
+      "key": 2,
+      "correctOption": "A qualified retirement plan for the self-employed, which can use defined-contribution or defined-benefit designs",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-14",
+      "lesson": "12",
+      "domain": 0,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Seven years after the insurer completes the transaction",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-3-13",
+      "lesson": "24",
+      "domain": 2,
+      "scored": true,
+      "key": 3,
+      "correctOption": "The insurer made the decision; required notice explains relevant access and dispute rights.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-23",
+      "lesson": "16",
+      "domain": 0,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Determine the rights actually assigned; a limited assignment does not necessarily transfer all rights.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-4-03",
+      "lesson": "27",
+      "domain": 3,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Limited-pay whole life",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-3-14",
+      "lesson": "25",
+      "domain": 2,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Follow the insurer’s reporting and delivery instructions before representing coverage as effective.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-3-05",
+      "lesson": "20",
+      "domain": 2,
+      "scored": true,
+      "key": 1,
+      "correctOption": "The specific statutory exception and required independent evidence and documents",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-5-09",
+      "lesson": "39",
+      "domain": 4,
+      "scored": true,
+      "key": 2,
+      "correctOption": "The offset depends on nonguaranteed dividends unless the contract separately guarantees it.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-01",
+      "lesson": "09",
+      "domain": 0,
+      "scored": true,
+      "key": 2,
+      "correctOption": "The adviser subtitle includes an exception for a licensed producer acting as a producer for a client.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-5-12",
+      "lesson": "43",
+      "domain": 4,
+      "scored": false,
+      "key": 1,
+      "correctOption": "Apply the rider’s formula, limits and election requirements.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-3-11",
+      "lesson": "23",
+      "domain": 2,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Explain the issued coverage, important terms and any differences from the application or presentation.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-25",
+      "lesson": "04",
+      "domain": 0,
+      "scored": false,
+      "key": 0,
+      "correctOption": "Alien domicile classification and authorization to transact in Maryland",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-6-04",
+      "lesson": "46",
+      "domain": 5,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Loss of purchasing power from inflation",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-3-01",
+      "lesson": "18",
+      "domain": 2,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Any assignment, irrevocable designation or contract restriction affecting the right",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-7-03",
+      "lesson": "51",
+      "domain": 6,
+      "scored": true,
+      "key": 0,
+      "correctOption": "$36,000",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-09",
+      "lesson": "11",
+      "domain": 0,
+      "scored": true,
+      "key": 1,
+      "correctOption": "The Commissioner’s investigation and discipline authority does not depend on an insurer first terminating an appointment.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-02",
+      "lesson": "09",
+      "domain": 0,
+      "scored": true,
+      "key": 2,
+      "correctOption": "The applicant must obtain the applicable temporary or ordinary authority before acting; a license is not automatically inherited.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-3-15",
+      "lesson": "22",
+      "domain": 2,
+      "scored": false,
+      "key": 0,
+      "correctOption": "Variable products use separate-account investment options with investment risk borne as stated by the policyowner.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-08",
+      "lesson": "11",
+      "domain": 0,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Restitution can accompany applicable licensing sanctions and penalties.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-16",
+      "lesson": "13",
+      "domain": 0,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Unfair discrimination from lawful differences supported by permitted risk factors",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-3-03",
+      "lesson": "19",
+      "domain": 2,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Replacing those services can create a measurable financial need.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-2-07",
+      "lesson": "08",
+      "domain": 1,
+      "scored": true,
+      "key": 1,
+      "correctOption": "The Interstate Insurance Product Regulation Commission",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-4-04",
+      "lesson": "28",
+      "domain": 3,
+      "scored": true,
+      "key": 3,
+      "correctOption": "7%",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-26",
+      "lesson": "16",
+      "domain": 0,
+      "scored": false,
+      "key": 3,
+      "correctOption": "The statutory extension has a stated additional period and outer limit; it is not unlimited.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-12",
+      "lesson": "12",
+      "domain": 0,
+      "scored": true,
+      "key": 0,
+      "correctOption": "A carrier letter stating the average commission percentage",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-7-04",
+      "lesson": "52",
+      "domain": 6,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Fully taxable under the stated basis-recovery rule",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-3-07",
+      "lesson": "21",
+      "domain": 2,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Entity purchase or stock redemption",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-13",
+      "lesson": "12",
+      "domain": 0,
+      "scored": true,
+      "key": 1,
+      "correctOption": "The exception concerns actual incurred expenses and required disclosure of payment methods and expenses.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-10",
+      "lesson": "11",
+      "domain": 0,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Preserve retrievable records and comply with the lawful request.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-3-16",
+      "lesson": "20",
+      "domain": 2,
+      "scored": false,
+      "key": 3,
+      "correctOption": "Communicate the covered change within 20 days after it occurs.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-07",
+      "lesson": "11",
+      "domain": 0,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Verify the state license, business agreement and appointment separately.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-5-11",
+      "lesson": "42",
+      "domain": 4,
+      "scored": true,
+      "key": 0,
+      "correctOption": "The continuation is the specified term protection, not automatically permanent whole life.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-20",
+      "lesson": "15",
+      "domain": 0,
+      "scored": true,
+      "key": 1,
+      "correctOption": "No later than policy delivery",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-3-02",
+      "lesson": "59",
+      "domain": 2,
+      "scored": true,
+      "key": 0,
+      "correctOption": "$182,000",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-7-06",
+      "lesson": "55",
+      "domain": 6,
+      "scored": true,
+      "key": 1,
+      "correctOption": "An RMD is not an eligible rollover distribution.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-3-12",
+      "lesson": "24",
+      "domain": 2,
+      "scored": true,
+      "key": 3,
+      "correctOption": "An investigative consumer report, with applicable additional disclosure requirements",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-17",
+      "lesson": "14",
+      "domain": 0,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Accurately identify the insurer and product and remove the misleading guarantee implication.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-7-07",
+      "lesson": "56",
+      "domain": 6,
+      "scored": false,
+      "key": 3,
+      "correctOption": "The retirement-plan 60-day rollover concept does not make an owner-received annuity surrender a qualifying §1035 exchange.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-4-01",
+      "lesson": "26",
+      "domain": 3,
+      "scored": true,
+      "key": 3,
+      "correctOption": "Renewal and conversion are separate rights with potentially different deadlines.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-24",
+      "lesson": "17",
+      "domain": 0,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Evaluate the contract and applicable claim-handling law; internal practice does not excuse an unlawful denial.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-5-08",
+      "lesson": "38",
+      "domain": 4,
+      "scored": true,
+      "key": 3,
+      "correctOption": "$237,000",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-15",
+      "lesson": "13",
+      "domain": 0,
+      "scored": true,
+      "key": 3,
+      "correctOption": "False financial statements and deceptive representation",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-3-10",
+      "lesson": "23",
+      "domain": 2,
+      "scored": true,
+      "key": 0,
+      "correctOption": "Use the insurer’s lawful authorized signature procedure rather than impersonating the client.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-1-19",
+      "lesson": "15",
+      "domain": 0,
+      "scored": true,
+      "key": 1,
+      "correctOption": "A covered reduction or alteration caused by the new purchase can meet the replacement definition.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-5-10",
+      "lesson": "41",
+      "domain": 4,
+      "scored": true,
+      "key": 0,
+      "correctOption": "$90,000",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-5-01",
+      "lesson": "32",
+      "domain": 4,
+      "scored": true,
+      "key": 2,
+      "correctOption": "Ownership rights are transferred as provided by the assignment.",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    },
+    {
+      "id": "C-5-02",
+      "lesson": "33",
+      "domain": 4,
+      "scored": true,
+      "key": 1,
+      "correctOption": "Per capita",
+      "sourceAndPublicMatch": true,
+      "sourceLocation": "assessment-and-related-lesson"
+    }
+  ]
+}

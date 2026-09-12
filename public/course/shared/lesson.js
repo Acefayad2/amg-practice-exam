@@ -5,6 +5,21 @@
   const $ = id => document.getElementById(id);
   const blank = () => ({answers:Array(total).fill(null), firstAnswers:Array(total).fill(null), attempts:Array(total).fill(0), videoEnded:false, transcriptRead:false, complete:false, position:0, completedAt:null});
   const valid = (a,i) => Number.isInteger(a) && a >= 0 && a < data.questions[i].options.length;
+  // Shuffle presentation only; stored answers continue to use the original option indices.
+  const choiceOrders = data.questions.map(question => {
+    let seed = 2166136261;
+    const identity = data.id + '|' + question.id + '|' + question.prompt;
+    for (let i = 0; i < identity.length; i += 1) seed = Math.imul(seed ^ identity.charCodeAt(i), 16777619);
+    const order = question.options.map((_, index) => index);
+    for (let i = order.length - 1; i > 0; i -= 1) {
+      seed += 0x6D2B79F5;
+      let random = Math.imul(seed ^ (seed >>> 15), 1 | seed);
+      random ^= random + Math.imul(random ^ (random >>> 7), 61 | random);
+      const j = Math.floor(((random ^ (random >>> 14)) >>> 0) / 4294967296 * (i + 1));
+      [order[i], order[j]] = [order[j], order[i]];
+    }
+    return order;
+  });
   let state = blank(), storageAvailable = true, current = 0, returnFocus = null;
   const contentReady = () => state.videoEnded || state.transcriptRead;
   const mastered = () => state.answers.every((a,i) => a === data.questions[i].answer);
@@ -102,13 +117,14 @@
     const box = $('check-content'); box.replaceChildren();
     $('check-heading').textContent = 'Question ' + (current + 1) + ' of ' + total;
     $('check-progress').textContent = state.answers.filter((a,i) => a === data.questions[i].answer).length + ' of ' + total + ' correct after review';
-    const question = data.questions[current], selected = state.answers[current];
+    const question = data.questions[current], selected = state.answers[current], order = choiceOrders[current];
     const fieldset = el('fieldset'); fieldset.append(el('legend',question.prompt));
     const options = el('div',undefined,'options');
-    question.options.forEach((option,index) => {
+    order.forEach((index,displayIndex) => {
+      const option = question.options[index];
       const label = el('label',undefined,'option'), input = document.createElement('input');
       Object.assign(input,{type:'radio',name:'lesson-answer',value:String(index),checked:selected === index,disabled:selected !== null});
-      label.append(input,el('span',String.fromCharCode(65 + index) + '. ' + option));
+      label.append(input,el('span',String.fromCharCode(65 + displayIndex) + '. ' + option));
       if (selected !== null && index === question.answer) label.classList.add('correct');
       options.append(label);
     });
@@ -129,8 +145,8 @@
       const feedback = el('div',undefined,'feedback'); feedback.id = 'check-feedback'; feedback.tabIndex = -1;
       feedback.append(el('h3',correct ? 'Correct.' : 'Review, then try again.'),el('p',question.explanations[selected]));
       const list = el('ul',undefined,'explanations');
-      question.options.forEach((option,i) => {
-        const item = el('li'); item.append(el('strong',String.fromCharCode(65 + i) + '. ' + option + ' '),document.createTextNode(question.explanations[i])); list.append(item);
+      order.forEach((index,displayIndex) => {
+        const item = el('li'); item.append(el('strong',String.fromCharCode(65 + displayIndex) + '. ' + question.options[index] + ' '),document.createTextNode(question.explanations[index])); list.append(item);
       });
       feedback.append(list);
       const review = el('a','Revisit the explanation in the lesson'); review.href = '#' + (typeof question.review === 'number' ? 'section-' + question.review : question.review);

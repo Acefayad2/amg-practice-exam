@@ -48,7 +48,7 @@
  function score(a){const f=formById.get(a.form),scored=f.questions.map((q,i)=>({q,i})).filter(x=>x.q.scored),correct=scored.filter(({q,i})=>a.answers[i]===q.answer).length;return{correct,total:scored.length,percent:correct/scored.length*100};}
  const dateText=t=>new Date(t).toLocaleDateString(undefined,{year:'numeric',month:'short',day:'numeric'});
  const dayKey=t=>{const d=new Date(t);return[d.getFullYear(),d.getMonth(),d.getDate()].join('-');};
- function route(params={}){const u=new URL(location.href);u.search='';for(const[k,v]of Object.entries(params))u.searchParams.set(k,v);history.pushState({},'',u);render();}
+ function route(params={}){const u=new URL(location.href);u.search='';for(const[k,v]of Object.entries(params))u.searchParams.set(k,v);history.pushState({},'',u);render();window.scrollTo({top:0,behavior:'instant'});}
  function heading(kicker,title,text){const h=node('section',undefined,'assessment-hero');h.append(node('p',kicker,'eyebrow'),node('h1',title),node('p',text));return h;}
  function focusHeading(){const h=app.querySelector('h1,legend,h2');if(h){h.tabIndex=-1;h.focus({preventScroll:true});}}
  function submit(a,expired=false){
@@ -57,7 +57,7 @@
   formById.get(a.form).questions.forEach((q,i)=>{if(a.answers[i]!==q.answer||a.uncertain[i])queue(q.id,a.submittedAt);});save();
  }
  function expire(){let changed=false;for(const a of state.attempts)if(!a.submittedAt&&a.deadline&&Date.now()>=a.deadline){submit(a,true);changed=true;}return changed;}
- function active(a){if(a.submittedAt)return false;if(a.deadline&&Date.now()>=a.deadline){submit(a,true);render();return false;}return true;}
+ function active(a){if(a.submittedAt)return false;if(a.deadline&&Date.now()>=a.deadline){submit(a,true);render();window.scrollTo({top:0,behavior:'instant'});return false;}return true;}
  function start(f){
   const pending=state.attempts.find(a=>a.form===f.id&&!a.submittedAt);
   if(pending){route({attempt:pending.id});return;}
@@ -152,12 +152,12 @@
   },'primary');check.disabled=true;field.addEventListener('change',()=>check.disabled=false);app.append(check);
  }
  function render(){currentAttempt=null;app.replaceChildren();expire();const params=new URLSearchParams(location.search),a=state.attempts.find(x=>x.id===params.get('attempt'));if(a){a.submittedAt?results(a):exam(a);}else if(params.has('review'))review(params.get('review'));else dashboard();storageStatus();focusHeading();}
- $('confirm-submit').addEventListener('click',()=>{if(pendingSubmit){if(active(pendingSubmit))submit(pendingSubmit);pendingSubmit=null;$('submit-dialog').close();render();}});
+ $('confirm-submit').addEventListener('click',()=>{if(pendingSubmit){if(active(pendingSubmit))submit(pendingSubmit);pendingSubmit=null;$('submit-dialog').close();render();window.scrollTo({top:0,behavior:'instant'});}});
  $('cancel-submit').addEventListener('click',()=>{$('submit-dialog').close();pendingSubmit=null;});
  $('submit-dialog').addEventListener('cancel',()=>pendingSubmit=null);
  window.addEventListener('popstate',render);
  window.addEventListener('storage',e=>{if(e.key===KEY){state=blank();restore();render();}else if(e.key?.startsWith('amg-life-lesson-')&&!currentAttempt)render();});
- document.addEventListener('visibilitychange',()=>{if(!document.hidden){if(expire()){if($('submit-dialog').open)$('submit-dialog').close();render();}else updateTimer();}});
- setInterval(()=>{if(expire()){pendingSubmit=null;if($('submit-dialog').open)$('submit-dialog').close();render();}else updateTimer();},1000);
+ document.addEventListener('visibilitychange',()=>{if(!document.hidden){const visibleAttempt=currentAttempt;if(expire()){if($('submit-dialog').open)$('submit-dialog').close();render();if(visibleAttempt?.submittedAt)window.scrollTo({top:0,behavior:'instant'});}else updateTimer();}});
+ setInterval(()=>{const visibleAttempt=currentAttempt;if(expire()){pendingSubmit=null;if($('submit-dialog').open)$('submit-dialog').close();render();if(visibleAttempt?.submittedAt)window.scrollTo({top:0,behavior:'instant'});}else updateTimer();},1000);
  render();
 })();

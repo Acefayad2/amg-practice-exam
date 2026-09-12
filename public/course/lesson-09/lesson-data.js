@@ -62,6 +62,10 @@ window.AMG_LESSON = {
       "url": "https://mgaleg.maryland.gov/mgawebsite/laws/StatuteText?article=gin&section=8-603"
     },
     {
+      "title": "Maryland Insurance §8-610",
+      "url": "https://mgaleg.maryland.gov/mgawebsite/laws/StatuteText?article=gin&section=8-610"
+    },
+    {
       "title": "MIA — Producer initial and renewal licenses",
       "url": "https://insurance.maryland.gov/Producer/Pages/Producer-Initial-and-Renewal-Licenses.aspx"
     },
@@ -225,6 +229,14 @@ window.AMG_LESSON = {
     }
   ],
   "notes": [
+    {
+      "title": "Settlement registration has more than one provision",
+      "text": "§8–603 requires a provider to register before acting and gives a broker an express deadline no later than thirty days after negotiating a settlement. §8–610(a)(2) also addresses registration in accordance with the subtitle before acting or representing oneself as a broker or provider. Verify and complete the applicable registration process before undertaking settlement business; the express deadline does not remove the other statutory requirements.",
+      "example": "Part 20 explains the provider, broker and viator roles and these separate registration provisions in more detail.",
+      "topics": [
+        "1.1.04"
+      ]
+    },
     {
       "title": "The application is a legal disclosure",
       "text": "The individual uniform application must be true, correct and complete to the applicant’s knowledge and belief. A business-entity application identifies its designated contact and required producers, management and ownership information. Trade names are filed through the prescribed process.",
@@ -425,8 +437,8 @@ window.AMG_LESSON = {
       "review": 3
     }
   ],
-  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/6e92d66b-6eda-4d71-abe9-48ce60aa5306.mp4",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/ab3e84ed-e005-4e98-998e-915b6b3b2572.mp4",
   "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/93f9e96c-b0a1-40b2-aedc-6190d5888408.png",
-  "duration": 279.419,
+  "duration": 275.592,
   "transcript": "Elena joins an insurance agency and is eager to help clients. The agency's license does not automatically authorize her to sell insurance personally. Maryland generally requires the appropriate producer license before a person sells, solicits or negotiates insurance. The license identifies permitted lines of authority. Acting for an insurer also raises appointment requirements, which we examine separately. Licensing protects consumers by setting qualifications and accountability. Passing a course or an exam is an important step, but neither is itself permission to start selling.\n\nA regular resident individual applicant for a Maryland life producer license must be at least eighteen, have the required character and trustworthiness, satisfy the applicable examination requirement, submit a complete truthful application and pay the required fee. Additional documentation may be requested. Maryland removed its mandatory prelicensing education requirement effective October first, twenty twenty-four. That did not remove the licensing exam or continuing education for renewal. Preparation still matters. If an applicant fails an exam, Maryland law requires at least four days before taking another examination.\n\nA producer's home state is connected to the person's principal residence or business and resident license. A nonresident Maryland applicant ordinarily relies on a current resident license in good standing, the required application and fee, and reciprocity. A home-state license is not a nationwide permission slip. A business entity must obtain its own required authority and designate a licensed producer as its principal contact with the Administration. That contact maintains required information and helps with investigations. An agency cannot avoid these obligations simply by calling everyone an independent contractor.\n\nMaryland separately defines insurance advisers, including compensated policy analysis and certain public representations of advisory services. Statutory exceptions matter: a licensed producer acting as a producer for a client is among the exceptions to the adviser subtitle. Do not assume every ordinary product explanation requires a second license. Equally, do not assume a marketing title creates authority. Now consider viatical settlements, in which an existing life policy is sold. Settlement providers and brokers have separate registration rules. A provider registers before acting; a broker must register no later than thirty days after negotiating a settlement for a viator.\n\nAn employee who performs only qualifying clerical or administrative tasks and receives no policy commissions may fit a licensing exception. Changing that person's job to soliciting applicants changes the analysis. Another exception can apply to an employer administering its own employee benefits without insurer compensation. These are conditional exceptions, not blanket permission for unlicensed selling. Consider Elena's assistant: scheduling an appointment is different from persuading the client to choose a particular life policy. Review both the actual conduct and the compensation, rather than relying on a job title.\n\nIn this scenario, an agency owner dies and an eligible relative needs to help preserve the business. Maryland may issue a temporary producer license without the usual examination to specified otherwise-qualified relatives, representatives or employees connected to a deceased or disabled producer. It is not automatic inheritance of a license. The person applies, pays the fee and obtains the temporary license and any required appointment before acting. The Commissioner must issue or refuse it in writing within thirty days of receiving the application. This Maryland temporary license expires fifteen months after its effective date."
 };

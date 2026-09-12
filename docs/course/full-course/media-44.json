@@ -1,10 +1,10 @@
 {
   "number": 44,
   "duration": "293.879000",
-  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/f5c087d3-2114-4f33-92d8-4f600b59780c.mp4",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/a54eb3a8-1d3a-4ae6-84dc-1e76f21897ca.mp4",
   "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/003b77e2-5b90-4205-a711-727cc5314ebb.png",
-  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/739fab35-935c-4cf2-9f7d-6c64d0deb7a0.jpg",
-  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/e441bf6f-f7bc-48f3-afd7-ea8e6a633e0b.zip",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/aa09b8ed-517c-4bc9-862a-d596fde65203.jpg",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/9a7b90d0-2913-407e-9394-f5466f7edb25.zip",
   "technical": {
     "programs": [],
     "streams": [
@@ -21,16 +21,39 @@
     ],
     "format": {
       "duration": "293.879000",
-      "size": "23193027"
+      "size": "23045859"
     }
   },
   "review": {
-    "layouts": "All eight scenario and teaching layouts visually inspected; corrected the Part 43 calculation-card title overlap before final rendering.",
-    "decode": "Complete FFmpeg decode passed.",
+    "layouts": "Second review: inspected all 12 samples from the original final, corrected section 5 from misleading sequential arrows to a comparison, then inspected eight frames from the corrected final before, during and after that section. No title/body collisions or branding defects in these samples; still frames do not certify continuous motion.",
+    "decode": "Corrected final: complete FFmpeg decode passed with zero reported errors.",
     "speech": "All six sections compared with the script; secondary transcription confirmed a sentence omitted by the first recognition pass. Native pacing applied and all sections retranscribed.",
     "analysis": "Completed scene-by-scene whole-video analysis read in full; no additional material defect identified. Descriptions of photo motion are automated inference, not proof of actual movement.",
     "player": "Chromium: all 14 media, native ended-event, required-question, feedback, retry, first-answer history, resume, saved completion, caption and mobile-dialog checks passed without errors."
   },
   "status": "ready",
-  "coordinatorApproval": null
+  "coordinatorApproval": null,
+  "secondReview": {
+    "date": "2026-09-13",
+    "sourceVideo": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/f5c087d3-2114-4f33-92d8-4f600b59780c.mp4",
+    "sourceEditArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/e441bf6f-f7bc-48f3-afd7-ea8e6a633e0b.zip",
+    "correction": "Only section 5 visual type changed from flow to compare; death during accumulation and during income are alternative cases.",
+    "verificationReport": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/2956390b-1396-4b5c-b329-3a46290b8a09.json",
+    "finalSamples": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/aa09b8ed-517c-4bc9-862a-d596fde65203.jpg",
+    "sampleTimes": [
+      198.1,
+      198.4,
+      199,
+      200.2,
+      203,
+      225,
+      248.8,
+      249.4
+    ],
+    "audioStreamCopySha256": "SHA256=ee0a8a70eefff7a37db9dd0cf51d716953a2e58463c7619e4b4b611fe8a61f00",
+    "unchangedDuration": true,
+    "unchangedFrameCount": true,
+    "unchangedCaptions": true,
+    "generationCalls": 0
+  }
 }

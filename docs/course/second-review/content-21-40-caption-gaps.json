@@ -1,0 +1,18 @@
+[
+  {
+    "lesson": 22,
+    "gapSeconds": 10.56,
+    "from": "00:03:01.282",
+    "to": "00:03:11.842",
+    "before": "Real life pricing uses fuller mortality and timing data.",
+    "after": "It is not simply the face amount divided by a guessed"
+  },
+  {
+    "lesson": 37,
+    "gapSeconds": 7.22,
+    "from": "00:01:30.425",
+    "to": "00:01:37.645",
+    "before": "value purchases.",
+    "after": "No further premiums are required for that purchased period."
+  }
+]

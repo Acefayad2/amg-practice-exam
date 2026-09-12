@@ -1,0 +1,5253 @@
+[
+  {
+    "number": 2,
+    "query": "Compare one extra",
+    "start": 127.656,
+    "end": 137.516,
+    "models": {
+      "base.en": [
+        {
+          "start": 127.656,
+          "end": 137.39600000000002,
+          "text": "No individual outcome is identified, pair one extra claim in two groups with the same assumed 1% probability in a group",
+          "words": [
+            {
+              "word": " No",
+              "start": 127.656,
+              "end": 128.356
+            },
+            {
+              "word": " individual",
+              "start": 128.356,
+              "end": 128.696
+            },
+            {
+              "word": " outcome",
+              "start": 128.696,
+              "end": 129.096
+            },
+            {
+              "word": " is",
+              "start": 129.096,
+              "end": 129.45600000000002
+            },
+            {
+              "word": " identified,",
+              "start": 129.45600000000002,
+              "end": 129.73600000000002
+            },
+            {
+              "word": " pair",
+              "start": 130.616,
+              "end": 130.816
+            },
+            {
+              "word": " one",
+              "start": 130.816,
+              "end": 131.116
+            },
+            {
+              "word": " extra",
+              "start": 131.116,
+              "end": 131.45600000000002
+            },
+            {
+              "word": " claim",
+              "start": 131.45600000000002,
+              "end": 131.89600000000002
+            },
+            {
+              "word": " in",
+              "start": 131.89600000000002,
+              "end": 132.216
+            },
+            {
+              "word": " two",
+              "start": 132.216,
+              "end": 132.45600000000002
+            },
+            {
+              "word": " groups",
+              "start": 132.45600000000002,
+              "end": 132.796
+            },
+            {
+              "word": " with",
+              "start": 132.796,
+              "end": 133.596
+            },
+            {
+              "word": " the",
+              "start": 133.596,
+              "end": 133.756
+            },
+            {
+              "word": " same",
+              "start": 133.756,
+              "end": 134.076
+            },
+            {
+              "word": " assumed",
+              "start": 134.076,
+              "end": 134.39600000000002
+            },
+            {
+              "word": " 1",
+              "start": 134.39600000000002,
+              "end": 135.196
+            },
+            {
+              "word": "%",
+              "start": 135.196,
+              "end": 135.656
+            },
+            {
+              "word": " probability",
+              "start": 135.656,
+              "end": 136.23600000000002
+            },
+            {
+              "word": " in",
+              "start": 136.23600000000002,
+              "end": 137.136
+            },
+            {
+              "word": " a",
+              "start": 137.136,
+              "end": 137.256
+            },
+            {
+              "word": " group",
+              "start": 137.256,
+              "end": 137.39600000000002
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "start": 127.656,
+          "end": 136.316,
+          "text": "No individual outcome is identified. Pair one extra claim in two groups with the same assumed 1% probability.",
+          "words": [
+            {
+              "word": " No",
+              "start": 127.656,
+              "end": 128.416
+            },
+            {
+              "word": " individual",
+              "start": 128.416,
+              "end": 128.796
+            },
+            {
+              "word": " outcome",
+              "start": 128.796,
+              "end": 129.316
+            },
+            {
+              "word": " is",
+              "start": 129.316,
+              "end": 129.496
+            },
+            {
+              "word": " identified.",
+              "start": 129.496,
+              "end": 130.056
+            },
+            {
+              "word": " Pair",
+              "start": 130.876,
+              "end": 130.876
+            },
+            {
+              "word": " one",
+              "start": 130.876,
+              "end": 131.156
+            },
+            {
+              "word": " extra",
+              "start": 131.156,
+              "end": 131.556
+            },
+            {
+              "word": " claim",
+              "start": 131.556,
+              "end": 131.976
+            },
+            {
+              "word": " in",
+              "start": 131.976,
+              "end": 132.296
+            },
+            {
+              "word": " two",
+              "start": 132.296,
+              "end": 132.556
+            },
+            {
+              "word": " groups",
+              "start": 132.556,
+              "end": 132.95600000000002
+            },
+            {
+              "word": " with",
+              "start": 132.95600000000002,
+              "end": 133.656
+            },
+            {
+              "word": " the",
+              "start": 133.656,
+              "end": 133.856
+            },
+            {
+              "word": " same",
+              "start": 133.856,
+              "end": 134.17600000000002
+            },
+            {
+              "word": " assumed",
+              "start": 134.17600000000002,
+              "end": 134.876
+            },
+            {
+              "word": " 1",
+              "start": 134.876,
+              "end": 135.296
+            },
+            {
+              "word": "%",
+              "start": 135.296,
+              "end": 135.73600000000002
+            },
+            {
+              "word": " probability.",
+              "start": 135.73600000000002,
+              "end": 136.316
+            }
+          ]
+        },
+        {
+          "start": 137.056,
+          "end": 137.496,
+          "text": "In a group...",
+          "words": [
+            {
+              "word": " In",
+              "start": 137.056,
+              "end": 137.196
+            },
+            {
+              "word": " a",
+              "start": 137.196,
+              "end": 137.336
+            },
+            {
+              "word": " group...",
+              "start": 137.336,
+              "end": 137.496
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "number": 3,
+    "query": "exclusions or limits",
+    "start": 100.416,
+    "end": 113.636,
+    "models": {
+      "base.en": [
+        {
+          "start": 100.416,
+          "end": 105.73599999999999,
+          "text": "has the contractual payment obligation. Insurance does not transfer every",
+          "words": [
+            {
+              "word": " has",
+              "start": 100.416,
+              "end": 100.93599999999999
+            },
+            {
+              "word": " the",
+              "start": 100.93599999999999,
+              "end": 101.096
+            },
+            {
+              "word": " contractual",
+              "start": 101.096,
+              "end": 101.456
+            },
+            {
+              "word": " payment",
+              "start": 101.456,
+              "end": 101.93599999999999
+            },
+            {
+              "word": " obligation.",
+              "start": 101.93599999999999,
+              "end": 102.556
+            },
+            {
+              "word": " Insurance",
+              "start": 103.556,
+              "end": 104.116
+            },
+            {
+              "word": " does",
+              "start": 104.116,
+              "end": 104.536
+            },
+            {
+              "word": " not",
+              "start": 104.536,
+              "end": 104.776
+            },
+            {
+              "word": " transfer",
+              "start": 104.776,
+              "end": 105.356
+            },
+            {
+              "word": " every",
+              "start": 105.356,
+              "end": 105.73599999999999
+            }
+          ]
+        },
+        {
+          "start": 105.73599999999999,
+          "end": 112.23599999999999,
+          "text": "possible consequence and exclusions or limits still matter. Sharing and",
+          "words": [
+            {
+              "word": " possible",
+              "start": 105.73599999999999,
+              "end": 106.23599999999999
+            },
+            {
+              "word": " consequence",
+              "start": 106.23599999999999,
+              "end": 106.776
+            },
+            {
+              "word": " and",
+              "start": 106.776,
+              "end": 107.816
+            },
+            {
+              "word": " exclusions",
+              "start": 107.816,
+              "end": 108.73599999999999
+            },
+            {
+              "word": " or",
+              "start": 108.73599999999999,
+              "end": 109.116
+            },
+            {
+              "word": " limits",
+              "start": 109.116,
+              "end": 109.45599999999999
+            },
+            {
+              "word": " still",
+              "start": 109.45599999999999,
+              "end": 110.15599999999999
+            },
+            {
+              "word": " matter.",
+              "start": 110.15599999999999,
+              "end": 110.596
+            },
+            {
+              "word": " Sharing",
+              "start": 111.496,
+              "end": 112.056
+            },
+            {
+              "word": " and",
+              "start": 112.056,
+              "end": 112.23599999999999
+            }
+          ]
+        },
+        {
+          "start": 112.23599999999999,
+          "end": 113.476,
+          "text": "transfer can both appear",
+          "words": [
+            {
+              "word": " transfer",
+              "start": 112.23599999999999,
+              "end": 112.616
+            },
+            {
+              "word": " can",
+              "start": 112.616,
+              "end": 112.996
+            },
+            {
+              "word": " both",
+              "start": 112.996,
+              "end": 113.23599999999999
+            },
+            {
+              "word": " appear",
+              "start": 113.23599999999999,
+              "end": 113.476
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "start": 100.416,
+          "end": 102.776,
+          "text": "has the contractual payment obligation.",
+          "words": [
+            {
+              "word": " has",
+              "start": 100.416,
+              "end": 100.916
+            },
+            {
+              "word": " the",
+              "start": 100.916,
+              "end": 101.136
+            },
+            {
+              "word": " contractual",
+              "start": 101.136,
+              "end": 101.65599999999999
+            },
+            {
+              "word": " payment",
+              "start": 101.65599999999999,
+              "end": 102.116
+            },
+            {
+              "word": " obligation.",
+              "start": 102.116,
+              "end": 102.776
+            }
+          ]
+        },
+        {
+          "start": 104.196,
+          "end": 107.056,
+          "text": "Insurance does not transfer every possible consequence,",
+          "words": [
+            {
+              "word": " Insurance",
+              "start": 104.196,
+              "end": 104.196
+            },
+            {
+              "word": " does",
+              "start": 104.196,
+              "end": 104.596
+            },
+            {
+              "word": " not",
+              "start": 104.596,
+              "end": 104.87599999999999
+            },
+            {
+              "word": " transfer",
+              "start": 104.87599999999999,
+              "end": 105.43599999999999
+            },
+            {
+              "word": " every",
+              "start": 105.43599999999999,
+              "end": 105.836
+            },
+            {
+              "word": " possible",
+              "start": 105.836,
+              "end": 106.336
+            },
+            {
+              "word": " consequence,",
+              "start": 106.336,
+              "end": 107.056
+            }
+          ]
+        },
+        {
+          "start": 107.756,
+          "end": 110.676,
+          "text": "and exclusions, or limits, still matter.",
+          "words": [
+            {
+              "word": " and",
+              "start": 107.756,
+              "end": 107.87599999999999
+            },
+            {
+              "word": " exclusions,",
+              "start": 107.87599999999999,
+              "end": 108.696
+            },
+            {
+              "word": " or",
+              "start": 109.076,
+              "end": 109.196
+            },
+            {
+              "word": " limits,",
+              "start": 109.196,
+              "end": 109.596
+            },
+            {
+              "word": " still",
+              "start": 109.95599999999999,
+              "end": 110.256
+            },
+            {
+              "word": " matter.",
+              "start": 110.256,
+              "end": 110.676
+            }
+          ]
+        },
+        {
+          "start": 111.816,
+          "end": 113.616,
+          "text": "Sharing and transfer can both appear...",
+          "words": [
+            {
+              "word": " Sharing",
+              "start": 111.816,
+              "end": 112.01599999999999
+            },
+            {
+              "word": " and",
+              "start": 112.01599999999999,
+              "end": 112.29599999999999
+            },
+            {
+              "word": " transfer",
+              "start": 112.29599999999999,
+              "end": 112.776
+            },
+            {
+              "word": " can",
+              "start": 112.776,
+              "end": 113.056
+            },
+            {
+              "word": " both",
+              "start": 113.056,
+              "end": 113.336
+            },
+            {
+              "word": " appear...",
+              "start": 113.336,
+              "end": 113.616
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "number": 3,
+    "query": "using those distinctions",
+    "start": 238.506,
+    "end": 246.753,
+    "models": {
+      "base.en": [
+        {
+          "start": 238.506,
+          "end": 240.586,
+          "text": "erases the underlying danger.",
+          "words": [
+            {
+              "word": " erases",
+              "start": 238.506,
+              "end": 239.166
+            },
+            {
+              "word": " the",
+              "start": 239.166,
+              "end": 239.406
+            },
+            {
+              "word": " underlying",
+              "start": 239.406,
+              "end": 239.866
+            },
+            {
+              "word": " danger.",
+              "start": 239.866,
+              "end": 240.586
+            }
+          ]
+        },
+        {
+          "start": 241.546,
+          "end": 244.826,
+          "text": "Answer the lesson questions using those distinctions.",
+          "words": [
+            {
+              "word": " Answer",
+              "start": 241.546,
+              "end": 241.906
+            },
+            {
+              "word": " the",
+              "start": 241.906,
+              "end": 242.166
+            },
+            {
+              "word": " lesson",
+              "start": 242.166,
+              "end": 242.486
+            },
+            {
+              "word": " questions",
+              "start": 242.486,
+              "end": 242.906
+            },
+            {
+              "word": " using",
+              "start": 242.906,
+              "end": 243.846
+            },
+            {
+              "word": " those",
+              "start": 243.846,
+              "end": 244.306
+            },
+            {
+              "word": " distinctions.",
+              "start": 244.306,
+              "end": 244.826
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "start": 238.506,
+          "end": 240.666,
+          "text": "erases the underlying danger.",
+          "words": [
+            {
+              "word": " erases",
+              "start": 238.506,
+              "end": 239.206
+            },
+            {
+              "word": " the",
+              "start": 239.206,
+              "end": 239.486
+            },
+            {
+              "word": " underlying",
+              "start": 239.486,
+              "end": 239.966
+            },
+            {
+              "word": " danger.",
+              "start": 239.966,
+              "end": 240.666
+            }
+          ]
+        },
+        {
+          "start": 241.766,
+          "end": 243.086,
+          "text": "Answer the lesson questions",
+          "words": [
+            {
+              "word": " Answer",
+              "start": 241.766,
+              "end": 242.006
+            },
+            {
+              "word": " the",
+              "start": 242.006,
+              "end": 242.226
+            },
+            {
+              "word": " lesson",
+              "start": 242.226,
+              "end": 242.506
+            },
+            {
+              "word": " questions",
+              "start": 242.506,
+              "end": 243.086
+            }
+          ]
+        },
+        {
+          "start": 243.086,
+          "end": 245.086,
+          "text": "using those distinctions",
+          "words": [
+            {
+              "word": " using",
+              "start": 243.086,
+              "end": 243.946
+            },
+            {
+              "word": " those",
+              "start": 243.946,
+              "end": 244.446
+            },
+            {
+              "word": " distinctions",
+              "start": 244.446,
+              "end": 245.086
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "number": 5,
+    "query": "express restriction",
+    "start": 78.548,
+    "end": 89.488,
+    "models": {
+      "base.en": [
+        {
+          "start": 78.548,
+          "end": 82.468,
+          "text": "Implied authority is not a way to bypass and express restriction.",
+          "words": [
+            {
+              "word": " Implied",
+              "start": 78.548,
+              "end": 79.648
+            },
+            {
+              "word": " authority",
+              "start": 79.648,
+              "end": 79.768
+            },
+            {
+              "word": " is",
+              "start": 79.768,
+              "end": 80.22800000000001
+            },
+            {
+              "word": " not",
+              "start": 80.22800000000001,
+              "end": 80.428
+            },
+            {
+              "word": " a",
+              "start": 80.428,
+              "end": 80.528
+            },
+            {
+              "word": " way",
+              "start": 80.528,
+              "end": 80.708
+            },
+            {
+              "word": " to",
+              "start": 80.708,
+              "end": 80.808
+            },
+            {
+              "word": " bypass",
+              "start": 80.808,
+              "end": 81.108
+            },
+            {
+              "word": " and",
+              "start": 81.108,
+              "end": 81.528
+            },
+            {
+              "word": " express",
+              "start": 81.528,
+              "end": 81.808
+            },
+            {
+              "word": " restriction.",
+              "start": 81.808,
+              "end": 82.468
+            }
+          ]
+        },
+        {
+          "start": 83.208,
+          "end": 89.308,
+          "text": "Changing a premium rate, deleting an exclusion, or promising an underwriting result is not justified merely",
+          "words": [
+            {
+              "word": " Changing",
+              "start": 83.208,
+              "end": 83.388
+            },
+            {
+              "word": " a",
+              "start": 83.388,
+              "end": 83.608
+            },
+            {
+              "word": " premium",
+              "start": 83.608,
+              "end": 83.888
+            },
+            {
+              "word": " rate,",
+              "start": 83.888,
+              "end": 84.288
+            },
+            {
+              "word": " deleting",
+              "start": 84.908,
+              "end": 85.08800000000001
+            },
+            {
+              "word": " an",
+              "start": 85.08800000000001,
+              "end": 85.348
+            },
+            {
+              "word": " exclusion,",
+              "start": 85.348,
+              "end": 85.708
+            },
+            {
+              "word": " or",
+              "start": 86.308,
+              "end": 86.488
+            },
+            {
+              "word": " promising",
+              "start": 86.488,
+              "end": 86.848
+            },
+            {
+              "word": " an",
+              "start": 86.848,
+              "end": 87.148
+            },
+            {
+              "word": " underwriting",
+              "start": 87.148,
+              "end": 87.628
+            },
+            {
+              "word": " result",
+              "start": 87.628,
+              "end": 88.048
+            },
+            {
+              "word": " is",
+              "start": 88.048,
+              "end": 88.288
+            },
+            {
+              "word": " not",
+              "start": 88.288,
+              "end": 88.488
+            },
+            {
+              "word": " justified",
+              "start": 88.488,
+              "end": 88.908
+            },
+            {
+              "word": " merely",
+              "start": 88.908,
+              "end": 89.308
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "start": 78.548,
+          "end": 82.528,
+          "text": "Implied authority is not a way to bypass and express restriction.",
+          "words": [
+            {
+              "word": " Implied",
+              "start": 78.548,
+              "end": 79.648
+            },
+            {
+              "word": " authority",
+              "start": 79.648,
+              "end": 79.908
+            },
+            {
+              "word": " is",
+              "start": 79.908,
+              "end": 80.268
+            },
+            {
+              "word": " not",
+              "start": 80.268,
+              "end": 80.468
+            },
+            {
+              "word": " a",
+              "start": 80.468,
+              "end": 80.58800000000001
+            },
+            {
+              "word": " way",
+              "start": 80.58800000000001,
+              "end": 80.72800000000001
+            },
+            {
+              "word": " to",
+              "start": 80.72800000000001,
+              "end": 80.888
+            },
+            {
+              "word": " bypass",
+              "start": 80.888,
+              "end": 81.308
+            },
+            {
+              "word": " and",
+              "start": 81.308,
+              "end": 81.58800000000001
+            },
+            {
+              "word": " express",
+              "start": 81.58800000000001,
+              "end": 81.928
+            },
+            {
+              "word": " restriction.",
+              "start": 81.928,
+              "end": 82.528
+            }
+          ]
+        },
+        {
+          "start": 83.268,
+          "end": 85.808,
+          "text": "Changing a premium rate, deleting an exclusion,",
+          "words": [
+            {
+              "word": " Changing",
+              "start": 83.268,
+              "end": 83.44800000000001
+            },
+            {
+              "word": " a",
+              "start": 83.44800000000001,
+              "end": 83.688
+            },
+            {
+              "word": " premium",
+              "start": 83.688,
+              "end": 83.988
+            },
+            {
+              "word": " rate,",
+              "start": 83.988,
+              "end": 84.428
+            },
+            {
+              "word": " deleting",
+              "start": 84.868,
+              "end": 85.168
+            },
+            {
+              "word": " an",
+              "start": 85.168,
+              "end": 85.388
+            },
+            {
+              "word": " exclusion,",
+              "start": 85.388,
+              "end": 85.808
+            }
+          ]
+        },
+        {
+          "start": 86.408,
+          "end": 89.388,
+          "text": "or promising an underwriting result is not justified merely",
+          "words": [
+            {
+              "word": " or",
+              "start": 86.408,
+              "end": 86.548
+            },
+            {
+              "word": " promising",
+              "start": 86.548,
+              "end": 86.94800000000001
+            },
+            {
+              "word": " an",
+              "start": 86.94800000000001,
+              "end": 87.208
+            },
+            {
+              "word": " underwriting",
+              "start": 87.208,
+              "end": 87.688
+            },
+            {
+              "word": " result",
+              "start": 87.688,
+              "end": 88.088
+            },
+            {
+              "word": " is",
+              "start": 88.088,
+              "end": 88.328
+            },
+            {
+              "word": " not",
+              "start": 88.328,
+              "end": 88.568
+            },
+            {
+              "word": " justified",
+              "start": 88.568,
+              "end": 89.108
+            },
+            {
+              "word": " merely",
+              "start": 89.108,
+              "end": 89.388
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "number": 6,
+    "query": "lawful purpose",
+    "start": 49.694,
+    "end": 60.734,
+    "models": {
+      "base.en": [
+        {
+          "start": 49.694,
+          "end": 53.154,
+          "text": "The competent parties must have the legal capacity to contract.",
+          "words": [
+            {
+              "word": " The",
+              "start": 49.694,
+              "end": 49.934000000000005
+            },
+            {
+              "word": " competent",
+              "start": 49.934000000000005,
+              "end": 49.934000000000005
+            },
+            {
+              "word": " parties",
+              "start": 49.934000000000005,
+              "end": 50.374
+            },
+            {
+              "word": " must",
+              "start": 50.374,
+              "end": 50.894000000000005
+            },
+            {
+              "word": " have",
+              "start": 50.894000000000005,
+              "end": 51.134
+            },
+            {
+              "word": " the",
+              "start": 51.134,
+              "end": 51.274
+            },
+            {
+              "word": " legal",
+              "start": 51.274,
+              "end": 51.494
+            },
+            {
+              "word": " capacity",
+              "start": 51.494,
+              "end": 52.014
+            },
+            {
+              "word": " to",
+              "start": 52.014,
+              "end": 52.674
+            },
+            {
+              "word": " contract.",
+              "start": 52.674,
+              "end": 53.154
+            }
+          ]
+        },
+        {
+          "start": 54.014,
+          "end": 58.874,
+          "text": "A lawful purpose means the arrangement cannot be built around an illegal objective.",
+          "words": [
+            {
+              "word": " A",
+              "start": 54.014,
+              "end": 54.194
+            },
+            {
+              "word": " lawful",
+              "start": 54.194,
+              "end": 54.394000000000005
+            },
+            {
+              "word": " purpose",
+              "start": 54.394000000000005,
+              "end": 54.954
+            },
+            {
+              "word": " means",
+              "start": 54.954,
+              "end": 55.734
+            },
+            {
+              "word": " the",
+              "start": 55.734,
+              "end": 56.034000000000006
+            },
+            {
+              "word": " arrangement",
+              "start": 56.034000000000006,
+              "end": 56.374
+            },
+            {
+              "word": " cannot",
+              "start": 56.374,
+              "end": 56.854
+            },
+            {
+              "word": " be",
+              "start": 56.854,
+              "end": 57.17400000000001
+            },
+            {
+              "word": " built",
+              "start": 57.17400000000001,
+              "end": 57.414
+            },
+            {
+              "word": " around",
+              "start": 57.414,
+              "end": 57.754000000000005
+            },
+            {
+              "word": " an",
+              "start": 57.754000000000005,
+              "end": 57.974000000000004
+            },
+            {
+              "word": " illegal",
+              "start": 57.974000000000004,
+              "end": 58.194
+            },
+            {
+              "word": " objective.",
+              "start": 58.194,
+              "end": 58.874
+            }
+          ]
+        },
+        {
+          "start": 59.834,
+          "end": 60.374,
+          "text": "Life Insurance",
+          "words": [
+            {
+              "word": " Life",
+              "start": 59.834,
+              "end": 60.154
+            },
+            {
+              "word": " Insurance",
+              "start": 60.154,
+              "end": 60.374
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "start": 49.694,
+          "end": 53.234,
+          "text": "Competent parties must have the legal capacity to contract.",
+          "words": [
+            {
+              "word": " Competent",
+              "start": 49.694,
+              "end": 50.054
+            },
+            {
+              "word": " parties",
+              "start": 50.054,
+              "end": 50.414
+            },
+            {
+              "word": " must",
+              "start": 50.414,
+              "end": 50.914
+            },
+            {
+              "word": " have",
+              "start": 50.914,
+              "end": 51.174
+            },
+            {
+              "word": " the",
+              "start": 51.174,
+              "end": 51.334
+            },
+            {
+              "word": " legal",
+              "start": 51.334,
+              "end": 51.614000000000004
+            },
+            {
+              "word": " capacity",
+              "start": 51.614000000000004,
+              "end": 52.114000000000004
+            },
+            {
+              "word": " to",
+              "start": 52.114000000000004,
+              "end": 52.734
+            },
+            {
+              "word": " contract.",
+              "start": 52.734,
+              "end": 53.234
+            }
+          ]
+        },
+        {
+          "start": 54.134,
+          "end": 58.934000000000005,
+          "text": "A lawful purpose means the arrangement cannot be built around an illegal objective.",
+          "words": [
+            {
+              "word": " A",
+              "start": 54.134,
+              "end": 54.254000000000005
+            },
+            {
+              "word": " lawful",
+              "start": 54.254000000000005,
+              "end": 54.534000000000006
+            },
+            {
+              "word": " purpose",
+              "start": 54.534000000000006,
+              "end": 55.074000000000005
+            },
+            {
+              "word": " means",
+              "start": 55.074000000000005,
+              "end": 55.834
+            },
+            {
+              "word": " the",
+              "start": 55.834,
+              "end": 56.074000000000005
+            },
+            {
+              "word": " arrangement",
+              "start": 56.074000000000005,
+              "end": 56.494
+            },
+            {
+              "word": " cannot",
+              "start": 56.494,
+              "end": 56.934000000000005
+            },
+            {
+              "word": " be",
+              "start": 56.934000000000005,
+              "end": 57.214
+            },
+            {
+              "word": " built",
+              "start": 57.214,
+              "end": 57.454
+            },
+            {
+              "word": " around",
+              "start": 57.454,
+              "end": 57.794000000000004
+            },
+            {
+              "word": " an",
+              "start": 57.794000000000004,
+              "end": 58.014
+            },
+            {
+              "word": " illegal",
+              "start": 58.014,
+              "end": 58.354
+            },
+            {
+              "word": " objective.",
+              "start": 58.354,
+              "end": 58.934000000000005
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "number": 6,
+    "query": "Indemnity",
+    "start": 149.784,
+    "end": 160.802,
+    "models": {
+      "base.en": [
+        {
+          "start": 149.784,
+          "end": 153.82399999999998,
+          "text": "Do not mistake either word for an unconditional promise to pay every claim.",
+          "words": [
+            {
+              "word": " Do",
+              "start": 149.784,
+              "end": 149.82399999999998
+            },
+            {
+              "word": " not",
+              "start": 149.82399999999998,
+              "end": 149.964
+            },
+            {
+              "word": " mistake",
+              "start": 149.964,
+              "end": 150.32399999999998
+            },
+            {
+              "word": " either",
+              "start": 150.32399999999998,
+              "end": 150.664
+            },
+            {
+              "word": " word",
+              "start": 150.664,
+              "end": 151.04399999999998
+            },
+            {
+              "word": " for",
+              "start": 151.04399999999998,
+              "end": 151.344
+            },
+            {
+              "word": " an",
+              "start": 151.344,
+              "end": 151.464
+            },
+            {
+              "word": " unconditional",
+              "start": 151.464,
+              "end": 151.804
+            },
+            {
+              "word": " promise",
+              "start": 151.804,
+              "end": 152.504
+            },
+            {
+              "word": " to",
+              "start": 152.504,
+              "end": 152.784
+            },
+            {
+              "word": " pay",
+              "start": 152.784,
+              "end": 153.004
+            },
+            {
+              "word": " every",
+              "start": 153.004,
+              "end": 153.464
+            },
+            {
+              "word": " claim.",
+              "start": 153.464,
+              "end": 153.82399999999998
+            }
+          ]
+        },
+        {
+          "start": 154.364,
+          "end": 159.784,
+          "text": "Demnity generally aims to compensate an actual covered financial loss without creating a",
+          "words": [
+            {
+              "word": " Demnity",
+              "start": 154.364,
+              "end": 154.904
+            },
+            {
+              "word": " generally",
+              "start": 154.904,
+              "end": 155.32399999999998
+            },
+            {
+              "word": " aims",
+              "start": 155.32399999999998,
+              "end": 155.724
+            },
+            {
+              "word": " to",
+              "start": 155.724,
+              "end": 156.024
+            },
+            {
+              "word": " compensate",
+              "start": 156.024,
+              "end": 156.524
+            },
+            {
+              "word": " an",
+              "start": 156.524,
+              "end": 156.944
+            },
+            {
+              "word": " actual",
+              "start": 156.944,
+              "end": 157.304
+            },
+            {
+              "word": " covered",
+              "start": 157.304,
+              "end": 157.76399999999998
+            },
+            {
+              "word": " financial",
+              "start": 157.76399999999998,
+              "end": 158.20399999999998
+            },
+            {
+              "word": " loss",
+              "start": 158.20399999999998,
+              "end": 158.744
+            },
+            {
+              "word": " without",
+              "start": 158.744,
+              "end": 159.064
+            },
+            {
+              "word": " creating",
+              "start": 159.064,
+              "end": 159.504
+            },
+            {
+              "word": " a",
+              "start": 159.504,
+              "end": 159.784
+            }
+          ]
+        },
+        {
+          "start": 159.784,
+          "end": 160.724,
+          "text": "profit from that law.",
+          "words": [
+            {
+              "word": " profit",
+              "start": 159.784,
+              "end": 160.084
+            },
+            {
+              "word": " from",
+              "start": 160.084,
+              "end": 160.384
+            },
+            {
+              "word": " that",
+              "start": 160.384,
+              "end": 160.54399999999998
+            },
+            {
+              "word": " law.",
+              "start": 160.54399999999998,
+              "end": 160.724
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "start": 149.784,
+          "end": 153.904,
+          "text": "Do not mistake either word for an unconditional promise to pay every claim.",
+          "words": [
+            {
+              "word": " Do",
+              "start": 149.784,
+              "end": 149.864
+            },
+            {
+              "word": " not",
+              "start": 149.864,
+              "end": 150.04399999999998
+            },
+            {
+              "word": " mistake",
+              "start": 150.04399999999998,
+              "end": 150.464
+            },
+            {
+              "word": " either",
+              "start": 150.464,
+              "end": 150.76399999999998
+            },
+            {
+              "word": " word",
+              "start": 150.76399999999998,
+              "end": 151.124
+            },
+            {
+              "word": " for",
+              "start": 151.124,
+              "end": 151.384
+            },
+            {
+              "word": " an",
+              "start": 151.384,
+              "end": 151.524
+            },
+            {
+              "word": " unconditional",
+              "start": 151.524,
+              "end": 152.064
+            },
+            {
+              "word": " promise",
+              "start": 152.064,
+              "end": 152.584
+            },
+            {
+              "word": " to",
+              "start": 152.584,
+              "end": 152.844
+            },
+            {
+              "word": " pay",
+              "start": 152.844,
+              "end": 153.124
+            },
+            {
+              "word": " every",
+              "start": 153.124,
+              "end": 153.524
+            },
+            {
+              "word": " claim.",
+              "start": 153.524,
+              "end": 153.904
+            }
+          ]
+        },
+        {
+          "start": 154.644,
+          "end": 159.624,
+          "text": "Indemnity generally aims to compensate an actual covered financial loss without creating",
+          "words": [
+            {
+              "word": " Indemnity",
+              "start": 154.644,
+              "end": 154.98399999999998
+            },
+            {
+              "word": " generally",
+              "start": 154.98399999999998,
+              "end": 155.304
+            },
+            {
+              "word": " aims",
+              "start": 155.304,
+              "end": 155.844
+            },
+            {
+              "word": " to",
+              "start": 155.844,
+              "end": 156.10399999999998
+            },
+            {
+              "word": " compensate",
+              "start": 156.10399999999998,
+              "end": 156.664
+            },
+            {
+              "word": " an",
+              "start": 156.664,
+              "end": 157.004
+            },
+            {
+              "word": " actual",
+              "start": 157.004,
+              "end": 157.48399999999998
+            },
+            {
+              "word": " covered",
+              "start": 157.48399999999998,
+              "end": 157.884
+            },
+            {
+              "word": " financial",
+              "start": 157.884,
+              "end": 158.32399999999998
+            },
+            {
+              "word": " loss",
+              "start": 158.32399999999998,
+              "end": 158.844
+            },
+            {
+              "word": " without",
+              "start": 158.844,
+              "end": 159.224
+            },
+            {
+              "word": " creating",
+              "start": 159.224,
+              "end": 159.624
+            }
+          ]
+        },
+        {
+          "start": 159.624,
+          "end": 160.76399999999998,
+          "text": "a profit from that law.",
+          "words": [
+            {
+              "word": " a",
+              "start": 159.624,
+              "end": 159.844
+            },
+            {
+              "word": " profit",
+              "start": 159.844,
+              "end": 160.144
+            },
+            {
+              "word": " from",
+              "start": 160.144,
+              "end": 160.42399999999998
+            },
+            {
+              "word": " that",
+              "start": 160.42399999999998,
+              "end": 160.624
+            },
+            {
+              "word": " law.",
+              "start": 160.624,
+              "end": 160.76399999999998
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "number": 7,
+    "query": "makes it harmless",
+    "start": 67.662,
+    "end": 76.982,
+    "models": {
+      "base.en": [
+        {
+          "start": 67.662,
+          "end": 73.662,
+          "text": "error automatically voids a policy, or that calling an answer a representation makes it",
+          "words": [
+            {
+              "word": " error",
+              "start": 67.662,
+              "end": 67.962
+            },
+            {
+              "word": " automatically",
+              "start": 67.962,
+              "end": 68.602
+            },
+            {
+              "word": " voids",
+              "start": 68.602,
+              "end": 69.302
+            },
+            {
+              "word": " a",
+              "start": 69.302,
+              "end": 69.34200000000001
+            },
+            {
+              "word": " policy,",
+              "start": 69.34200000000001,
+              "end": 69.742
+            },
+            {
+              "word": " or",
+              "start": 70.762,
+              "end": 70.78200000000001
+            },
+            {
+              "word": " that",
+              "start": 70.78200000000001,
+              "end": 70.92200000000001
+            },
+            {
+              "word": " calling",
+              "start": 70.92200000000001,
+              "end": 71.20200000000001
+            },
+            {
+              "word": " an",
+              "start": 71.20200000000001,
+              "end": 71.482
+            },
+            {
+              "word": " answer",
+              "start": 71.482,
+              "end": 71.86200000000001
+            },
+            {
+              "word": " a",
+              "start": 71.86200000000001,
+              "end": 72.182
+            },
+            {
+              "word": " representation",
+              "start": 72.182,
+              "end": 72.682
+            },
+            {
+              "word": " makes",
+              "start": 72.682,
+              "end": 73.462
+            },
+            {
+              "word": " it",
+              "start": 73.462,
+              "end": 73.662
+            }
+          ]
+        },
+        {
+          "start": 73.662,
+          "end": 74.022,
+          "text": "harmless.",
+          "words": [
+            {
+              "word": " harmless.",
+              "start": 73.662,
+              "end": 74.022
+            }
+          ]
+        },
+        {
+          "start": 75.042,
+          "end": 76.322,
+          "text": "It under Maryland's rule.",
+          "words": [
+            {
+              "word": " It",
+              "start": 75.042,
+              "end": 75.08200000000001
+            },
+            {
+              "word": " under",
+              "start": 75.08200000000001,
+              "end": 75.302
+            },
+            {
+              "word": " Maryland's",
+              "start": 75.302,
+              "end": 76.08200000000001
+            },
+            {
+              "word": " rule.",
+              "start": 76.08200000000001,
+              "end": 76.322
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "start": 67.662,
+          "end": 73.70200000000001,
+          "text": "error automatically voids a policy, or that calling an answer a representation makes it",
+          "words": [
+            {
+              "word": " error",
+              "start": 67.662,
+              "end": 68.022
+            },
+            {
+              "word": " automatically",
+              "start": 68.022,
+              "end": 68.762
+            },
+            {
+              "word": " voids",
+              "start": 68.762,
+              "end": 69.322
+            },
+            {
+              "word": " a",
+              "start": 69.322,
+              "end": 69.42200000000001
+            },
+            {
+              "word": " policy,",
+              "start": 69.42200000000001,
+              "end": 69.86200000000001
+            },
+            {
+              "word": " or",
+              "start": 70.70200000000001,
+              "end": 70.822
+            },
+            {
+              "word": " that",
+              "start": 70.822,
+              "end": 71.00200000000001
+            },
+            {
+              "word": " calling",
+              "start": 71.00200000000001,
+              "end": 71.34200000000001
+            },
+            {
+              "word": " an",
+              "start": 71.34200000000001,
+              "end": 71.522
+            },
+            {
+              "word": " answer",
+              "start": 71.522,
+              "end": 71.94200000000001
+            },
+            {
+              "word": " a",
+              "start": 71.94200000000001,
+              "end": 72.262
+            },
+            {
+              "word": " representation",
+              "start": 72.262,
+              "end": 72.762
+            },
+            {
+              "word": " makes",
+              "start": 72.762,
+              "end": 73.50200000000001
+            },
+            {
+              "word": " it",
+              "start": 73.50200000000001,
+              "end": 73.70200000000001
+            }
+          ]
+        },
+        {
+          "start": 73.70200000000001,
+          "end": 76.402,
+          "text": "harmless, and under Maryland's rule.",
+          "words": [
+            {
+              "word": " harmless,",
+              "start": 73.70200000000001,
+              "end": 74.14200000000001
+            },
+            {
+              "word": " and",
+              "start": 75.00200000000001,
+              "end": 75.102
+            },
+            {
+              "word": " under",
+              "start": 75.102,
+              "end": 75.36200000000001
+            },
+            {
+              "word": " Maryland's",
+              "start": 75.36200000000001,
+              "end": 76.102
+            },
+            {
+              "word": " rule.",
+              "start": 76.102,
+              "end": 76.402
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "number": 7,
+    "query": "producer's license application",
+    "start": 103.568,
+    "end": 113.848,
+    "models": {
+      "base.en": [
+        {
+          "start": 103.568,
+          "end": 110.728,
+          "text": "This policy application rule differs from the intentional misrepresentation ground in a producer's license application.",
+          "words": [
+            {
+              "word": " This",
+              "start": 103.568,
+              "end": 104.128
+            },
+            {
+              "word": " policy",
+              "start": 104.128,
+              "end": 104.548
+            },
+            {
+              "word": " application",
+              "start": 104.548,
+              "end": 105.128
+            },
+            {
+              "word": " rule",
+              "start": 105.128,
+              "end": 105.568
+            },
+            {
+              "word": " differs",
+              "start": 105.568,
+              "end": 106.008
+            },
+            {
+              "word": " from",
+              "start": 106.008,
+              "end": 106.408
+            },
+            {
+              "word": " the",
+              "start": 106.408,
+              "end": 106.568
+            },
+            {
+              "word": " intentional",
+              "start": 106.568,
+              "end": 107.02799999999999
+            },
+            {
+              "word": " misrepresentation",
+              "start": 107.02799999999999,
+              "end": 108.488
+            },
+            {
+              "word": " ground",
+              "start": 108.488,
+              "end": 108.80799999999999
+            },
+            {
+              "word": " in",
+              "start": 108.80799999999999,
+              "end": 109.208
+            },
+            {
+              "word": " a",
+              "start": 109.208,
+              "end": 109.288
+            },
+            {
+              "word": " producer's",
+              "start": 109.288,
+              "end": 109.868
+            },
+            {
+              "word": " license",
+              "start": 109.868,
+              "end": 110.048
+            },
+            {
+              "word": " application.",
+              "start": 110.048,
+              "end": 110.728
+            }
+          ]
+        },
+        {
+          "start": 112.008,
+          "end": 113.828,
+          "text": "Identify which application and which...",
+          "words": [
+            {
+              "word": " Identify",
+              "start": 112.008,
+              "end": 112.508
+            },
+            {
+              "word": " which",
+              "start": 112.508,
+              "end": 112.728
+            },
+            {
+              "word": " application",
+              "start": 112.728,
+              "end": 113.228
+            },
+            {
+              "word": " and",
+              "start": 113.228,
+              "end": 113.608
+            },
+            {
+              "word": " which...",
+              "start": 113.608,
+              "end": 113.828
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "start": 103.568,
+          "end": 110.968,
+          "text": "This policy application rule differs from the intentional misrepresentation ground in a producer's license application.",
+          "words": [
+            {
+              "word": " This",
+              "start": 103.568,
+              "end": 104.208
+            },
+            {
+              "word": " policy",
+              "start": 104.208,
+              "end": 104.568
+            },
+            {
+              "word": " application",
+              "start": 104.568,
+              "end": 105.328
+            },
+            {
+              "word": " rule",
+              "start": 105.328,
+              "end": 105.728
+            },
+            {
+              "word": " differs",
+              "start": 105.728,
+              "end": 106.048
+            },
+            {
+              "word": " from",
+              "start": 106.048,
+              "end": 106.448
+            },
+            {
+              "word": " the",
+              "start": 106.448,
+              "end": 106.608
+            },
+            {
+              "word": " intentional",
+              "start": 106.608,
+              "end": 107.328
+            },
+            {
+              "word": " misrepresentation",
+              "start": 107.328,
+              "end": 108.588
+            },
+            {
+              "word": " ground",
+              "start": 108.588,
+              "end": 108.948
+            },
+            {
+              "word": " in",
+              "start": 108.948,
+              "end": 109.24799999999999
+            },
+            {
+              "word": " a",
+              "start": 109.24799999999999,
+              "end": 109.408
+            },
+            {
+              "word": " producer's",
+              "start": 109.408,
+              "end": 109.948
+            },
+            {
+              "word": " license",
+              "start": 109.948,
+              "end": 110.188
+            },
+            {
+              "word": " application.",
+              "start": 110.188,
+              "end": 110.968
+            }
+          ]
+        },
+        {
+          "start": 112.16799999999999,
+          "end": 113.828,
+          "text": "Identify which application and which...",
+          "words": [
+            {
+              "word": " Identify",
+              "start": 112.16799999999999,
+              "end": 112.608
+            },
+            {
+              "word": " which",
+              "start": 112.608,
+              "end": 112.80799999999999
+            },
+            {
+              "word": " application",
+              "start": 112.80799999999999,
+              "end": 113.348
+            },
+            {
+              "word": " and",
+              "start": 113.348,
+              "end": 113.66799999999999
+            },
+            {
+              "word": " which...",
+              "start": 113.66799999999999,
+              "end": 113.828
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "number": 9,
+    "query": "conditional exceptions",
+    "start": 204.424,
+    "end": 215.404,
+    "models": {
+      "base.en": [
+        {
+          "start": 204.424,
+          "end": 211.404,
+          "text": "benefits without insurer compensation. These are conditional exceptions, not blanket permission",
+          "words": [
+            {
+              "word": " benefits",
+              "start": 204.424,
+              "end": 204.904
+            },
+            {
+              "word": " without",
+              "start": 204.904,
+              "end": 205.524
+            },
+            {
+              "word": " insurer",
+              "start": 205.524,
+              "end": 206.044
+            },
+            {
+              "word": " compensation.",
+              "start": 206.044,
+              "end": 206.604
+            },
+            {
+              "word": " These",
+              "start": 208.104,
+              "end": 208.16400000000002
+            },
+            {
+              "word": " are",
+              "start": 208.16400000000002,
+              "end": 208.364
+            },
+            {
+              "word": " conditional",
+              "start": 208.364,
+              "end": 208.66400000000002
+            },
+            {
+              "word": " exceptions,",
+              "start": 208.66400000000002,
+              "end": 209.28400000000002
+            },
+            {
+              "word": " not",
+              "start": 210.124,
+              "end": 210.404
+            },
+            {
+              "word": " blanket",
+              "start": 210.404,
+              "end": 210.864
+            },
+            {
+              "word": " permission",
+              "start": 210.864,
+              "end": 211.404
+            }
+          ]
+        },
+        {
+          "start": 211.404,
+          "end": 212.984,
+          "text": "for unlicensed selling.",
+          "words": [
+            {
+              "word": " for",
+              "start": 211.404,
+              "end": 212.00400000000002
+            },
+            {
+              "word": " unlicensed",
+              "start": 212.00400000000002,
+              "end": 212.38400000000001
+            },
+            {
+              "word": " selling.",
+              "start": 212.38400000000001,
+              "end": 212.984
+            }
+          ]
+        },
+        {
+          "start": 214.524,
+          "end": 215.144,
+          "text": "Consider Elena",
+          "words": [
+            {
+              "word": " Consider",
+              "start": 214.524,
+              "end": 214.824
+            },
+            {
+              "word": " Elena",
+              "start": 214.824,
+              "end": 215.144
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "start": 204.424,
+          "end": 211.624,
+          "text": "benefits without insurer compensation. These are conditional exceptions, not blanket permission",
+          "words": [
+            {
+              "word": " benefits",
+              "start": 204.424,
+              "end": 204.924
+            },
+            {
+              "word": " without",
+              "start": 204.924,
+              "end": 205.704
+            },
+            {
+              "word": " insurer",
+              "start": 205.704,
+              "end": 206.144
+            },
+            {
+              "word": " compensation.",
+              "start": 206.144,
+              "end": 206.984
+            },
+            {
+              "word": " These",
+              "start": 208.244,
+              "end": 208.264
+            },
+            {
+              "word": " are",
+              "start": 208.264,
+              "end": 208.424
+            },
+            {
+              "word": " conditional",
+              "start": 208.424,
+              "end": 208.94400000000002
+            },
+            {
+              "word": " exceptions,",
+              "start": 208.94400000000002,
+              "end": 209.524
+            },
+            {
+              "word": " not",
+              "start": 210.28400000000002,
+              "end": 210.464
+            },
+            {
+              "word": " blanket",
+              "start": 210.464,
+              "end": 210.964
+            },
+            {
+              "word": " permission",
+              "start": 210.964,
+              "end": 211.624
+            }
+          ]
+        },
+        {
+          "start": 211.624,
+          "end": 213.044,
+          "text": "for unlicensed selling.",
+          "words": [
+            {
+              "word": " for",
+              "start": 211.624,
+              "end": 212.064
+            },
+            {
+              "word": " unlicensed",
+              "start": 212.064,
+              "end": 212.524
+            },
+            {
+              "word": " selling.",
+              "start": 212.524,
+              "end": 213.044
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "number": 10,
+    "query": "earlier deadline",
+    "start": 21.28,
+    "end": 29.24,
+    "models": {
+      "base.en": [
+        {
+          "start": 21.28,
+          "end": 22.5,
+          "text": "and qualifications.",
+          "words": [
+            {
+              "word": " and",
+              "start": 21.28,
+              "end": 21.880000000000003
+            },
+            {
+              "word": " qualifications.",
+              "start": 21.880000000000003,
+              "end": 22.5
+            }
+          ]
+        },
+        {
+          "start": 24.3,
+          "end": 26.26,
+          "text": "Continuing education has an earlier deadline.",
+          "words": [
+            {
+              "word": " Continuing",
+              "start": 24.3,
+              "end": 24.3
+            },
+            {
+              "word": " education",
+              "start": 24.3,
+              "end": 24.78
+            },
+            {
+              "word": " has",
+              "start": 24.78,
+              "end": 25.32
+            },
+            {
+              "word": " an",
+              "start": 25.32,
+              "end": 25.46
+            },
+            {
+              "word": " earlier",
+              "start": 25.46,
+              "end": 25.740000000000002
+            },
+            {
+              "word": " deadline.",
+              "start": 25.740000000000002,
+              "end": 26.26
+            }
+          ]
+        },
+        {
+          "start": 27.060000000000002,
+          "end": 29.220000000000002,
+          "text": "Do not wait until the last day of the licensed...",
+          "words": [
+            {
+              "word": " Do",
+              "start": 27.060000000000002,
+              "end": 27.18
+            },
+            {
+              "word": " not",
+              "start": 27.18,
+              "end": 27.34
+            },
+            {
+              "word": " wait",
+              "start": 27.34,
+              "end": 27.580000000000002
+            },
+            {
+              "word": " until",
+              "start": 27.580000000000002,
+              "end": 27.8
+            },
+            {
+              "word": " the",
+              "start": 27.8,
+              "end": 28.0
+            },
+            {
+              "word": " last",
+              "start": 28.0,
+              "end": 28.240000000000002
+            },
+            {
+              "word": " day",
+              "start": 28.240000000000002,
+              "end": 28.46
+            },
+            {
+              "word": " of",
+              "start": 28.46,
+              "end": 28.580000000000002
+            },
+            {
+              "word": " the",
+              "start": 28.580000000000002,
+              "end": 28.700000000000003
+            },
+            {
+              "word": " licensed...",
+              "start": 28.700000000000003,
+              "end": 29.220000000000002
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "start": 21.28,
+          "end": 22.580000000000002,
+          "text": "and qualifications.",
+          "words": [
+            {
+              "word": " and",
+              "start": 21.28,
+              "end": 21.92
+            },
+            {
+              "word": " qualifications.",
+              "start": 21.92,
+              "end": 22.580000000000002
+            }
+          ]
+        },
+        {
+          "start": 24.380000000000003,
+          "end": 26.32,
+          "text": "Continuing education has an earlier deadline.",
+          "words": [
+            {
+              "word": " Continuing",
+              "start": 24.380000000000003,
+              "end": 24.380000000000003
+            },
+            {
+              "word": " education",
+              "start": 24.380000000000003,
+              "end": 25.0
+            },
+            {
+              "word": " has",
+              "start": 25.0,
+              "end": 25.380000000000003
+            },
+            {
+              "word": " an",
+              "start": 25.380000000000003,
+              "end": 25.5
+            },
+            {
+              "word": " earlier",
+              "start": 25.5,
+              "end": 25.82
+            },
+            {
+              "word": " deadline.",
+              "start": 25.82,
+              "end": 26.32
+            }
+          ]
+        },
+        {
+          "start": 27.16,
+          "end": 29.060000000000002,
+          "text": "Do not wait until the last day of the license.",
+          "words": [
+            {
+              "word": " Do",
+              "start": 27.16,
+              "end": 27.26
+            },
+            {
+              "word": " not",
+              "start": 27.26,
+              "end": 27.42
+            },
+            {
+              "word": " wait",
+              "start": 27.42,
+              "end": 27.64
+            },
+            {
+              "word": " until",
+              "start": 27.64,
+              "end": 27.900000000000002
+            },
+            {
+              "word": " the",
+              "start": 27.900000000000002,
+              "end": 28.04
+            },
+            {
+              "word": " last",
+              "start": 28.04,
+              "end": 28.28
+            },
+            {
+              "word": " day",
+              "start": 28.28,
+              "end": 28.5
+            },
+            {
+              "word": " of",
+              "start": 28.5,
+              "end": 28.62
+            },
+            {
+              "word": " the",
+              "start": 28.62,
+              "end": 28.76
+            },
+            {
+              "word": " license.",
+              "start": 28.76,
+              "end": 29.060000000000002
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "number": 12,
+    "query": "another reviewer",
+    "start": 238.49,
+    "end": 248.292,
+    "models": {
+      "base.en": [
+        {
+          "start": 238.49,
+          "end": 242.45000000000002,
+          "text": "vice, disclosure, payment, and final transaction.",
+          "words": [
+            {
+              "word": " vice,",
+              "start": 238.49,
+              "end": 238.75
+            },
+            {
+              "word": " disclosure,",
+              "start": 239.25,
+              "end": 239.63
+            },
+            {
+              "word": " payment,",
+              "start": 240.39000000000001,
+              "end": 240.77
+            },
+            {
+              "word": " and",
+              "start": 241.25,
+              "end": 241.49
+            },
+            {
+              "word": " final",
+              "start": 241.49,
+              "end": 241.71
+            },
+            {
+              "word": " transaction.",
+              "start": 241.71,
+              "end": 242.45000000000002
+            }
+          ]
+        },
+        {
+          "start": 243.39000000000001,
+          "end": 246.47,
+          "text": "So another reviewer can understand what actually happened.",
+          "words": [
+            {
+              "word": " So",
+              "start": 243.39000000000001,
+              "end": 243.43
+            },
+            {
+              "word": " another",
+              "start": 243.43,
+              "end": 243.69
+            },
+            {
+              "word": " reviewer",
+              "start": 243.69,
+              "end": 244.13
+            },
+            {
+              "word": " can",
+              "start": 244.13,
+              "end": 244.53
+            },
+            {
+              "word": " understand",
+              "start": 244.53,
+              "end": 244.91
+            },
+            {
+              "word": " what",
+              "start": 244.91,
+              "end": 245.41
+            },
+            {
+              "word": " actually",
+              "start": 245.41,
+              "end": 245.87
+            },
+            {
+              "word": " happened.",
+              "start": 245.87,
+              "end": 246.47
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "start": 238.49,
+          "end": 246.05,
+          "text": "device, disclosure, payment, and final transaction so another reviewer can understand what actually",
+          "words": [
+            {
+              "word": " device,",
+              "start": 238.49,
+              "end": 238.91
+            },
+            {
+              "word": " disclosure,",
+              "start": 239.83,
+              "end": 239.83
+            },
+            {
+              "word": " payment,",
+              "start": 240.53,
+              "end": 240.73000000000002
+            },
+            {
+              "word": " and",
+              "start": 241.43,
+              "end": 241.55
+            },
+            {
+              "word": " final",
+              "start": 241.55,
+              "end": 241.91
+            },
+            {
+              "word": " transaction",
+              "start": 241.91,
+              "end": 242.57000000000002
+            },
+            {
+              "word": " so",
+              "start": 242.57000000000002,
+              "end": 243.49
+            },
+            {
+              "word": " another",
+              "start": 243.49,
+              "end": 243.85000000000002
+            },
+            {
+              "word": " reviewer",
+              "start": 243.85000000000002,
+              "end": 244.23000000000002
+            },
+            {
+              "word": " can",
+              "start": 244.23000000000002,
+              "end": 244.57000000000002
+            },
+            {
+              "word": " understand",
+              "start": 244.57000000000002,
+              "end": 245.11
+            },
+            {
+              "word": " what",
+              "start": 245.11,
+              "end": 245.47
+            },
+            {
+              "word": " actually",
+              "start": 245.47,
+              "end": 246.05
+            }
+          ]
+        },
+        {
+          "start": 246.05,
+          "end": 246.51000000000002,
+          "text": "happened.",
+          "words": [
+            {
+              "word": " happened.",
+              "start": 246.05,
+              "end": 246.51000000000002
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "number": 14,
+    "query": "premium language",
+    "start": 66.794,
+    "end": 77.814,
+    "models": {
+      "base.en": [
+        {
+          "start": 66.794,
+          "end": 68.874,
+          "text": "does not make the policy paid up.",
+          "words": [
+            {
+              "word": " does",
+              "start": 66.794,
+              "end": 67.11399999999999
+            },
+            {
+              "word": " not",
+              "start": 67.11399999999999,
+              "end": 67.294
+            },
+            {
+              "word": " make",
+              "start": 67.294,
+              "end": 67.574
+            },
+            {
+              "word": " the",
+              "start": 67.574,
+              "end": 67.774
+            },
+            {
+              "word": " policy",
+              "start": 67.774,
+              "end": 68.134
+            },
+            {
+              "word": " paid",
+              "start": 68.134,
+              "end": 68.654
+            },
+            {
+              "word": " up.",
+              "start": 68.654,
+              "end": 68.874
+            }
+          ]
+        },
+        {
+          "start": 69.75399999999999,
+          "end": 73.03399999999999,
+          "text": "The rules prohibit misleading vanishing premium language",
+          "words": [
+            {
+              "word": " The",
+              "start": 69.75399999999999,
+              "end": 69.914
+            },
+            {
+              "word": " rules",
+              "start": 69.914,
+              "end": 70.154
+            },
+            {
+              "word": " prohibit",
+              "start": 70.154,
+              "end": 70.734
+            },
+            {
+              "word": " misleading",
+              "start": 70.734,
+              "end": 71.614
+            },
+            {
+              "word": " vanishing",
+              "start": 71.614,
+              "end": 72.054
+            },
+            {
+              "word": " premium",
+              "start": 72.054,
+              "end": 72.414
+            },
+            {
+              "word": " language",
+              "start": 72.414,
+              "end": 73.03399999999999
+            }
+          ]
+        },
+        {
+          "start": 73.794,
+          "end": 77.25399999999999,
+          "text": "when it implies that non-guaranteed values",
+          "words": [
+            {
+              "word": " when",
+              "start": 73.794,
+              "end": 74.234
+            },
+            {
+              "word": " it",
+              "start": 74.234,
+              "end": 74.354
+            },
+            {
+              "word": " implies",
+              "start": 74.354,
+              "end": 74.814
+            },
+            {
+              "word": " that",
+              "start": 74.814,
+              "end": 75.714
+            },
+            {
+              "word": " non",
+              "start": 75.714,
+              "end": 75.934
+            },
+            {
+              "word": "-guaranteed",
+              "start": 75.934,
+              "end": 76.714
+            },
+            {
+              "word": " values",
+              "start": 76.714,
+              "end": 77.25399999999999
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "start": 66.794,
+          "end": 72.134,
+          "text": "does not make the policy paid up the rules prohibit misleading vanishing",
+          "words": [
+            {
+              "word": " does",
+              "start": 66.794,
+              "end": 67.074
+            },
+            {
+              "word": " not",
+              "start": 67.074,
+              "end": 67.354
+            },
+            {
+              "word": " make",
+              "start": 67.354,
+              "end": 67.634
+            },
+            {
+              "word": " the",
+              "start": 67.634,
+              "end": 67.834
+            },
+            {
+              "word": " policy",
+              "start": 67.834,
+              "end": 68.25399999999999
+            },
+            {
+              "word": " paid",
+              "start": 68.25399999999999,
+              "end": 68.654
+            },
+            {
+              "word": " up",
+              "start": 68.654,
+              "end": 68.994
+            },
+            {
+              "word": " the",
+              "start": 68.994,
+              "end": 69.954
+            },
+            {
+              "word": " rules",
+              "start": 69.954,
+              "end": 70.314
+            },
+            {
+              "word": " prohibit",
+              "start": 70.314,
+              "end": 70.854
+            },
+            {
+              "word": " misleading",
+              "start": 70.854,
+              "end": 71.594
+            },
+            {
+              "word": " vanishing",
+              "start": 71.594,
+              "end": 72.134
+            }
+          ]
+        },
+        {
+          "start": 72.134,
+          "end": 77.434,
+          "text": "premium language when it implies that non-guaranteed values",
+          "words": [
+            {
+              "word": " premium",
+              "start": 72.134,
+              "end": 72.714
+            },
+            {
+              "word": " language",
+              "start": 72.714,
+              "end": 73.314
+            },
+            {
+              "word": " when",
+              "start": 73.314,
+              "end": 74.274
+            },
+            {
+              "word": " it",
+              "start": 74.274,
+              "end": 74.39399999999999
+            },
+            {
+              "word": " implies",
+              "start": 74.39399999999999,
+              "end": 74.934
+            },
+            {
+              "word": " that",
+              "start": 74.934,
+              "end": 75.75399999999999
+            },
+            {
+              "word": " non",
+              "start": 75.75399999999999,
+              "end": 76.094
+            },
+            {
+              "word": "-guaranteed",
+              "start": 76.094,
+              "end": 76.834
+            },
+            {
+              "word": " values",
+              "start": 76.834,
+              "end": 77.434
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "number": 15,
+    "query": "undisclosed replacement",
+    "start": 119.28,
+    "end": 130.28,
+    "models": {
+      "base.en": [
+        {
+          "start": 119.28,
+          "end": 127.42,
+          "text": "applicant and the insurer. Do not wait until delivery. To discover an undisclosed replacement.",
+          "words": [
+            {
+              "word": " applicant",
+              "start": 119.28,
+              "end": 119.76
+            },
+            {
+              "word": " and",
+              "start": 119.76,
+              "end": 120.66
+            },
+            {
+              "word": " the",
+              "start": 120.66,
+              "end": 120.84
+            },
+            {
+              "word": " insurer.",
+              "start": 120.84,
+              "end": 121.2
+            },
+            {
+              "word": " Do",
+              "start": 122.34,
+              "end": 122.52
+            },
+            {
+              "word": " not",
+              "start": 122.52,
+              "end": 122.7
+            },
+            {
+              "word": " wait",
+              "start": 122.7,
+              "end": 122.96000000000001
+            },
+            {
+              "word": " until",
+              "start": 122.96000000000001,
+              "end": 123.3
+            },
+            {
+              "word": " delivery.",
+              "start": 123.3,
+              "end": 123.64
+            },
+            {
+              "word": " To",
+              "start": 124.74,
+              "end": 124.8
+            },
+            {
+              "word": " discover",
+              "start": 124.8,
+              "end": 125.16
+            },
+            {
+              "word": " an",
+              "start": 125.16,
+              "end": 125.9
+            },
+            {
+              "word": " undisclosed",
+              "start": 125.9,
+              "end": 126.42
+            },
+            {
+              "word": " replacement.",
+              "start": 126.42,
+              "end": 127.42
+            }
+          ]
+        },
+        {
+          "start": 128.56,
+          "end": 130.16,
+          "text": "The Replacing Insurer Verif",
+          "words": [
+            {
+              "word": " The",
+              "start": 128.56,
+              "end": 128.6
+            },
+            {
+              "word": " Replacing",
+              "start": 128.6,
+              "end": 129.18
+            },
+            {
+              "word": " Insurer",
+              "start": 129.18,
+              "end": 129.6
+            },
+            {
+              "word": " Verif",
+              "start": 129.6,
+              "end": 130.16
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "start": 119.28,
+          "end": 127.46000000000001,
+          "text": "applicant and the insurer. Do not wait until delivery to discover an undisclosed replacement.",
+          "words": [
+            {
+              "word": " applicant",
+              "start": 119.28,
+              "end": 119.82000000000001
+            },
+            {
+              "word": " and",
+              "start": 119.82000000000001,
+              "end": 120.74
+            },
+            {
+              "word": " the",
+              "start": 120.74,
+              "end": 120.88
+            },
+            {
+              "word": " insurer.",
+              "start": 120.88,
+              "end": 121.28
+            },
+            {
+              "word": " Do",
+              "start": 122.46000000000001,
+              "end": 122.58
+            },
+            {
+              "word": " not",
+              "start": 122.58,
+              "end": 122.78
+            },
+            {
+              "word": " wait",
+              "start": 122.78,
+              "end": 123.04
+            },
+            {
+              "word": " until",
+              "start": 123.04,
+              "end": 123.36
+            },
+            {
+              "word": " delivery",
+              "start": 123.36,
+              "end": 123.84
+            },
+            {
+              "word": " to",
+              "start": 123.84,
+              "end": 124.84
+            },
+            {
+              "word": " discover",
+              "start": 124.84,
+              "end": 125.38
+            },
+            {
+              "word": " an",
+              "start": 125.38,
+              "end": 125.96000000000001
+            },
+            {
+              "word": " undisclosed",
+              "start": 125.96000000000001,
+              "end": 126.6
+            },
+            {
+              "word": " replacement.",
+              "start": 126.6,
+              "end": 127.46000000000001
+            }
+          ]
+        },
+        {
+          "start": 127.46000000000001,
+          "end": 130.12,
+          "text": "The replacing insurer verify.",
+          "words": [
+            {
+              "word": " The",
+              "start": 127.46000000000001,
+              "end": 128.62
+            },
+            {
+              "word": " replacing",
+              "start": 128.62,
+              "end": 129.12
+            },
+            {
+              "word": " insurer",
+              "start": 129.12,
+              "end": 129.74
+            },
+            {
+              "word": " verify.",
+              "start": 129.74,
+              "end": 130.12
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "number": 15,
+    "query": "investment losses disappear",
+    "start": 199.288,
+    "end": 208.388,
+    "models": {
+      "base.en": [
+        {
+          "start": 199.288,
+          "end": 201.328,
+          "text": "deducted or imposed fees and charges.",
+          "words": [
+            {
+              "word": " deducted",
+              "start": 199.288,
+              "end": 199.668
+            },
+            {
+              "word": " or",
+              "start": 199.668,
+              "end": 199.948
+            },
+            {
+              "word": " imposed",
+              "start": 199.948,
+              "end": 200.288
+            },
+            {
+              "word": " fees",
+              "start": 200.288,
+              "end": 200.74800000000002
+            },
+            {
+              "word": " and",
+              "start": 200.74800000000002,
+              "end": 201.008
+            },
+            {
+              "word": " charges.",
+              "start": 201.008,
+              "end": 201.328
+            }
+          ]
+        },
+        {
+          "start": 202.30800000000002,
+          "end": 205.428,
+          "text": "Do not promise that variable investment losses disappear.",
+          "words": [
+            {
+              "word": " Do",
+              "start": 202.30800000000002,
+              "end": 202.36800000000002
+            },
+            {
+              "word": " not",
+              "start": 202.36800000000002,
+              "end": 202.568
+            },
+            {
+              "word": " promise",
+              "start": 202.568,
+              "end": 203.008
+            },
+            {
+              "word": " that",
+              "start": 203.008,
+              "end": 203.288
+            },
+            {
+              "word": " variable",
+              "start": 203.288,
+              "end": 203.62800000000001
+            },
+            {
+              "word": " investment",
+              "start": 203.62800000000001,
+              "end": 204.24800000000002
+            },
+            {
+              "word": " losses",
+              "start": 204.24800000000002,
+              "end": 204.708
+            },
+            {
+              "word": " disappear.",
+              "start": 204.708,
+              "end": 205.428
+            }
+          ]
+        },
+        {
+          "start": 206.488,
+          "end": 208.36800000000002,
+          "text": "The chapter also gives credit for a",
+          "words": [
+            {
+              "word": " The",
+              "start": 206.488,
+              "end": 206.568
+            },
+            {
+              "word": " chapter",
+              "start": 206.568,
+              "end": 206.828
+            },
+            {
+              "word": " also",
+              "start": 206.828,
+              "end": 207.168
+            },
+            {
+              "word": " gives",
+              "start": 207.168,
+              "end": 207.568
+            },
+            {
+              "word": " credit",
+              "start": 207.568,
+              "end": 207.948
+            },
+            {
+              "word": " for",
+              "start": 207.948,
+              "end": 208.24800000000002
+            },
+            {
+              "word": " a",
+              "start": 208.24800000000002,
+              "end": 208.36800000000002
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "start": 199.288,
+          "end": 201.488,
+          "text": "Deducted or imposed fees and charges.",
+          "words": [
+            {
+              "word": " Deducted",
+              "start": 199.288,
+              "end": 199.80800000000002
+            },
+            {
+              "word": " or",
+              "start": 199.80800000000002,
+              "end": 200.008
+            },
+            {
+              "word": " imposed",
+              "start": 200.008,
+              "end": 200.448
+            },
+            {
+              "word": " fees",
+              "start": 200.448,
+              "end": 200.828
+            },
+            {
+              "word": " and",
+              "start": 200.828,
+              "end": 201.068
+            },
+            {
+              "word": " charges.",
+              "start": 201.068,
+              "end": 201.488
+            }
+          ]
+        },
+        {
+          "start": 202.328,
+          "end": 205.548,
+          "text": "Do not promise that variable investment losses disappear.",
+          "words": [
+            {
+              "word": " Do",
+              "start": 202.328,
+              "end": 202.428
+            },
+            {
+              "word": " not",
+              "start": 202.428,
+              "end": 202.68800000000002
+            },
+            {
+              "word": " promise",
+              "start": 202.68800000000002,
+              "end": 203.068
+            },
+            {
+              "word": " that",
+              "start": 203.068,
+              "end": 203.348
+            },
+            {
+              "word": " variable",
+              "start": 203.348,
+              "end": 203.788
+            },
+            {
+              "word": " investment",
+              "start": 203.788,
+              "end": 204.348
+            },
+            {
+              "word": " losses",
+              "start": 204.348,
+              "end": 204.888
+            },
+            {
+              "word": " disappear.",
+              "start": 204.888,
+              "end": 205.548
+            }
+          ]
+        },
+        {
+          "start": 206.52800000000002,
+          "end": 208.36800000000002,
+          "text": "The chapter also gives credit for a",
+          "words": [
+            {
+              "word": " The",
+              "start": 206.52800000000002,
+              "end": 206.62800000000001
+            },
+            {
+              "word": " chapter",
+              "start": 206.62800000000001,
+              "end": 206.888
+            },
+            {
+              "word": " also",
+              "start": 206.888,
+              "end": 207.268
+            },
+            {
+              "word": " gives",
+              "start": 207.268,
+              "end": 207.64800000000002
+            },
+            {
+              "word": " credit",
+              "start": 207.64800000000002,
+              "end": 208.02800000000002
+            },
+            {
+              "word": " for",
+              "start": 208.02800000000002,
+              "end": 208.328
+            },
+            {
+              "word": " a",
+              "start": 208.328,
+              "end": 208.36800000000002
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "number": 16,
+    "query": "Maryland's employer",
+    "start": 13.18,
+    "end": 24.24,
+    "models": {
+      "base.en": [
+        {
+          "start": 13.18,
+          "end": 17.66,
+          "text": "her protection, who receives benefits and important rights.",
+          "words": [
+            {
+              "word": " her",
+              "start": 13.18,
+              "end": 13.66
+            },
+            {
+              "word": " protection,",
+              "start": 13.66,
+              "end": 14.32
+            },
+            {
+              "word": " who",
+              "start": 14.98,
+              "end": 15.42
+            },
+            {
+              "word": " receives",
+              "start": 15.42,
+              "end": 15.64
+            },
+            {
+              "word": " benefits",
+              "start": 15.64,
+              "end": 16.259999999999998
+            },
+            {
+              "word": " and",
+              "start": 16.259999999999998,
+              "end": 16.92
+            },
+            {
+              "word": " important",
+              "start": 16.92,
+              "end": 17.22
+            },
+            {
+              "word": " rights.",
+              "start": 17.22,
+              "end": 17.66
+            }
+          ]
+        },
+        {
+          "start": 18.74,
+          "end": 23.68,
+          "text": "Under Maryland's employer group rule, this coverage benefits people other than the employer.",
+          "words": [
+            {
+              "word": " Under",
+              "start": 18.74,
+              "end": 18.88
+            },
+            {
+              "word": " Maryland's",
+              "start": 18.88,
+              "end": 19.52
+            },
+            {
+              "word": " employer",
+              "start": 19.52,
+              "end": 19.82
+            },
+            {
+              "word": " group",
+              "start": 19.82,
+              "end": 20.24
+            },
+            {
+              "word": " rule,",
+              "start": 20.24,
+              "end": 20.54
+            },
+            {
+              "word": " this",
+              "start": 21.14,
+              "end": 21.240000000000002
+            },
+            {
+              "word": " coverage",
+              "start": 21.240000000000002,
+              "end": 21.619999999999997
+            },
+            {
+              "word": " benefits",
+              "start": 21.619999999999997,
+              "end": 22.119999999999997
+            },
+            {
+              "word": " people",
+              "start": 22.119999999999997,
+              "end": 22.560000000000002
+            },
+            {
+              "word": " other",
+              "start": 22.560000000000002,
+              "end": 22.9
+            },
+            {
+              "word": " than",
+              "start": 22.9,
+              "end": 23.22
+            },
+            {
+              "word": " the",
+              "start": 23.22,
+              "end": 23.34
+            },
+            {
+              "word": " employer.",
+              "start": 23.34,
+              "end": 23.68
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "start": 13.18,
+          "end": 17.84,
+          "text": "describing her protection, who receives benefits and important rights.",
+          "words": [
+            {
+              "word": " describing",
+              "start": 13.18,
+              "end": 13.5
+            },
+            {
+              "word": " her",
+              "start": 13.5,
+              "end": 13.74
+            },
+            {
+              "word": " protection,",
+              "start": 13.74,
+              "end": 14.5
+            },
+            {
+              "word": " who",
+              "start": 15.36,
+              "end": 15.48
+            },
+            {
+              "word": " receives",
+              "start": 15.48,
+              "end": 15.78
+            },
+            {
+              "word": " benefits",
+              "start": 15.78,
+              "end": 16.34
+            },
+            {
+              "word": " and",
+              "start": 16.34,
+              "end": 16.98
+            },
+            {
+              "word": " important",
+              "start": 16.98,
+              "end": 17.36
+            },
+            {
+              "word": " rights.",
+              "start": 17.36,
+              "end": 17.84
+            }
+          ]
+        },
+        {
+          "start": 18.78,
+          "end": 23.72,
+          "text": "Under Maryland's Employer Group Rule, this coverage benefits people other than the employer.",
+          "words": [
+            {
+              "word": " Under",
+              "start": 18.78,
+              "end": 18.96
+            },
+            {
+              "word": " Maryland's",
+              "start": 18.96,
+              "end": 19.58
+            },
+            {
+              "word": " Employer",
+              "start": 19.58,
+              "end": 20.02
+            },
+            {
+              "word": " Group",
+              "start": 20.02,
+              "end": 20.28
+            },
+            {
+              "word": " Rule,",
+              "start": 20.28,
+              "end": 20.6
+            },
+            {
+              "word": " this",
+              "start": 21.18,
+              "end": 21.34
+            },
+            {
+              "word": " coverage",
+              "start": 21.34,
+              "end": 21.740000000000002
+            },
+            {
+              "word": " benefits",
+              "start": 21.740000000000002,
+              "end": 22.259999999999998
+            },
+            {
+              "word": " people",
+              "start": 22.259999999999998,
+              "end": 22.619999999999997
+            },
+            {
+              "word": " other",
+              "start": 22.619999999999997,
+              "end": 22.939999999999998
+            },
+            {
+              "word": " than",
+              "start": 22.939999999999998,
+              "end": 23.28
+            },
+            {
+              "word": " the",
+              "start": 23.28,
+              "end": 23.38
+            },
+            {
+              "word": " employer.",
+              "start": 23.38,
+              "end": 23.72
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "number": 16,
+    "query": "permitted form",
+    "start": 128.572,
+    "end": 139.192,
+    "models": {
+      "base.en": [
+        {
+          "start": 128.572,
+          "end": 130.592,
+          "text": "Not the old group price.",
+          "words": [
+            {
+              "word": " Not",
+              "start": 128.572,
+              "end": 129.412
+            },
+            {
+              "word": " the",
+              "start": 129.412,
+              "end": 129.612
+            },
+            {
+              "word": " old",
+              "start": 129.612,
+              "end": 129.812
+            },
+            {
+              "word": " group",
+              "start": 129.812,
+              "end": 130.132
+            },
+            {
+              "word": " price.",
+              "start": 130.132,
+              "end": 130.592
+            }
+          ]
+        },
+        {
+          "start": 131.592,
+          "end": 136.712,
+          "text": "The premium reflects the permitted form, amount, risk class, and attained age.",
+          "words": [
+            {
+              "word": " The",
+              "start": 131.592,
+              "end": 131.612
+            },
+            {
+              "word": " premium",
+              "start": 131.612,
+              "end": 131.952
+            },
+            {
+              "word": " reflects",
+              "start": 131.952,
+              "end": 132.452
+            },
+            {
+              "word": " the",
+              "start": 132.452,
+              "end": 132.732
+            },
+            {
+              "word": " permitted",
+              "start": 132.732,
+              "end": 133.052
+            },
+            {
+              "word": " form,",
+              "start": 133.052,
+              "end": 133.512
+            },
+            {
+              "word": " amount,",
+              "start": 133.992,
+              "end": 134.292
+            },
+            {
+              "word": " risk",
+              "start": 134.972,
+              "end": 135.012
+            },
+            {
+              "word": " class,",
+              "start": 135.012,
+              "end": 135.412
+            },
+            {
+              "word": " and",
+              "start": 135.892,
+              "end": 135.93200000000002
+            },
+            {
+              "word": " attained",
+              "start": 135.93200000000002,
+              "end": 136.192
+            },
+            {
+              "word": " age.",
+              "start": 136.192,
+              "end": 136.712
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "start": 128.572,
+          "end": 136.872,
+          "text": "Not the old group price. The premium reflects the permitted form, amount, risk class, and attained age.",
+          "words": [
+            {
+              "word": " Not",
+              "start": 128.572,
+              "end": 129.452
+            },
+            {
+              "word": " the",
+              "start": 129.452,
+              "end": 129.65200000000002
+            },
+            {
+              "word": " old",
+              "start": 129.65200000000002,
+              "end": 129.952
+            },
+            {
+              "word": " group",
+              "start": 129.952,
+              "end": 130.252
+            },
+            {
+              "word": " price.",
+              "start": 130.252,
+              "end": 130.672
+            },
+            {
+              "word": " The",
+              "start": 131.612,
+              "end": 131.672
+            },
+            {
+              "word": " premium",
+              "start": 131.672,
+              "end": 131.992
+            },
+            {
+              "word": " reflects",
+              "start": 131.992,
+              "end": 132.552
+            },
+            {
+              "word": " the",
+              "start": 132.552,
+              "end": 132.792
+            },
+            {
+              "word": " permitted",
+              "start": 132.792,
+              "end": 133.112
+            },
+            {
+              "word": " form,",
+              "start": 133.112,
+              "end": 133.632
+            },
+            {
+              "word": " amount,",
+              "start": 134.43200000000002,
+              "end": 134.452
+            },
+            {
+              "word": " risk",
+              "start": 134.992,
+              "end": 135.132
+            },
+            {
+              "word": " class,",
+              "start": 135.132,
+              "end": 135.552
+            },
+            {
+              "word": " and",
+              "start": 135.952,
+              "end": 135.972
+            },
+            {
+              "word": " attained",
+              "start": 135.972,
+              "end": 136.372
+            },
+            {
+              "word": " age.",
+              "start": 136.372,
+              "end": 136.872
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "number": 16,
+    "query": "Maryland permits",
+    "start": 217.19400000000002,
+    "end": 228.554,
+    "models": {
+      "base.en": [
+        {
+          "start": 217.19400000000002,
+          "end": 218.99400000000003,
+          "text": "termination conversion question.",
+          "words": [
+            {
+              "word": " termination",
+              "start": 217.19400000000002,
+              "end": 217.91400000000002
+            },
+            {
+              "word": " conversion",
+              "start": 217.91400000000002,
+              "end": 218.21400000000003
+            },
+            {
+              "word": " question.",
+              "start": 218.21400000000003,
+              "end": 218.99400000000003
+            }
+          ]
+        },
+        {
+          "start": 219.794,
+          "end": 227.21400000000003,
+          "text": "Maryland permits an insured to assign group life rights and benefits under an arrangement",
+          "words": [
+            {
+              "word": " Maryland",
+              "start": 219.794,
+              "end": 220.47400000000002
+            },
+            {
+              "word": " permits",
+              "start": 220.47400000000002,
+              "end": 221.25400000000002
+            },
+            {
+              "word": " an",
+              "start": 221.25400000000002,
+              "end": 221.75400000000002
+            },
+            {
+              "word": " insured",
+              "start": 221.75400000000002,
+              "end": 222.13400000000001
+            },
+            {
+              "word": " to",
+              "start": 222.13400000000001,
+              "end": 222.954
+            },
+            {
+              "word": " assign",
+              "start": 222.954,
+              "end": 223.27400000000003
+            },
+            {
+              "word": " group",
+              "start": 223.27400000000003,
+              "end": 223.794
+            },
+            {
+              "word": " life",
+              "start": 223.794,
+              "end": 224.13400000000001
+            },
+            {
+              "word": " rights",
+              "start": 224.13400000000001,
+              "end": 224.454
+            },
+            {
+              "word": " and",
+              "start": 224.454,
+              "end": 225.15400000000002
+            },
+            {
+              "word": " benefits",
+              "start": 225.15400000000002,
+              "end": 225.59400000000002
+            },
+            {
+              "word": " under",
+              "start": 225.59400000000002,
+              "end": 226.574
+            },
+            {
+              "word": " an",
+              "start": 226.574,
+              "end": 226.75400000000002
+            },
+            {
+              "word": " arrangement",
+              "start": 226.75400000000002,
+              "end": 227.21400000000003
+            }
+          ]
+        },
+        {
+          "start": 227.21400000000003,
+          "end": 228.19400000000002,
+          "text": "among the insured",
+          "words": [
+            {
+              "word": " among",
+              "start": 227.21400000000003,
+              "end": 227.65400000000002
+            },
+            {
+              "word": " the",
+              "start": 227.65400000000002,
+              "end": 227.91400000000002
+            },
+            {
+              "word": " insured",
+              "start": 227.91400000000002,
+              "end": 228.19400000000002
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "start": 217.19400000000002,
+          "end": 219.13400000000001,
+          "text": "termination conversion question.",
+          "words": [
+            {
+              "word": " termination",
+              "start": 217.19400000000002,
+              "end": 217.75400000000002
+            },
+            {
+              "word": " conversion",
+              "start": 217.75400000000002,
+              "end": 218.55400000000003
+            },
+            {
+              "word": " question.",
+              "start": 218.55400000000003,
+              "end": 219.13400000000001
+            }
+          ]
+        },
+        {
+          "start": 220.334,
+          "end": 227.25400000000002,
+          "text": "Harreland permits an insured to assign group life rights and benefits under an arrangement",
+          "words": [
+            {
+              "word": " Harreland",
+              "start": 220.334,
+              "end": 220.674
+            },
+            {
+              "word": " permits",
+              "start": 220.674,
+              "end": 221.514
+            },
+            {
+              "word": " an",
+              "start": 221.514,
+              "end": 221.794
+            },
+            {
+              "word": " insured",
+              "start": 221.794,
+              "end": 222.25400000000002
+            },
+            {
+              "word": " to",
+              "start": 222.25400000000002,
+              "end": 223.03400000000002
+            },
+            {
+              "word": " assign",
+              "start": 223.03400000000002,
+              "end": 223.514
+            },
+            {
+              "word": " group",
+              "start": 223.514,
+              "end": 223.87400000000002
+            },
+            {
+              "word": " life",
+              "start": 223.87400000000002,
+              "end": 224.174
+            },
+            {
+              "word": " rights",
+              "start": 224.174,
+              "end": 224.71400000000003
+            },
+            {
+              "word": " and",
+              "start": 224.71400000000003,
+              "end": 225.234
+            },
+            {
+              "word": " benefits",
+              "start": 225.234,
+              "end": 225.71400000000003
+            },
+            {
+              "word": " under",
+              "start": 225.71400000000003,
+              "end": 226.63400000000001
+            },
+            {
+              "word": " an",
+              "start": 226.63400000000001,
+              "end": 226.794
+            },
+            {
+              "word": " arrangement",
+              "start": 226.794,
+              "end": 227.25400000000002
+            }
+          ]
+        },
+        {
+          "start": 227.25400000000002,
+          "end": 228.37400000000002,
+          "text": "among the insured.",
+          "words": [
+            {
+              "word": " among",
+              "start": 227.25400000000002,
+              "end": 227.734
+            },
+            {
+              "word": " the",
+              "start": 227.734,
+              "end": 227.97400000000002
+            },
+            {
+              "word": " insured.",
+              "start": 227.97400000000002,
+              "end": 228.37400000000002
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "number": 17,
+    "query": "private status",
+    "start": 254.36,
+    "end": 266.02,
+    "models": {
+      "base.en": [
+        {
+          "start": 254.36,
+          "end": 261.18,
+          "text": "exceeds the stated limits, or is outside the coverage, explaining those limits, and the",
+          "words": [
+            {
+              "word": " exceeds",
+              "start": 254.36,
+              "end": 254.72000000000003
+            },
+            {
+              "word": " the",
+              "start": 254.72000000000003,
+              "end": 254.86
+            },
+            {
+              "word": " stated",
+              "start": 254.86,
+              "end": 255.22000000000003
+            },
+            {
+              "word": " limits,",
+              "start": 255.22000000000003,
+              "end": 255.54000000000002
+            },
+            {
+              "word": " or",
+              "start": 256.26,
+              "end": 256.56
+            },
+            {
+              "word": " is",
+              "start": 256.56,
+              "end": 256.72
+            },
+            {
+              "word": " outside",
+              "start": 256.72,
+              "end": 256.98
+            },
+            {
+              "word": " the",
+              "start": 256.98,
+              "end": 257.36
+            },
+            {
+              "word": " coverage,",
+              "start": 257.36,
+              "end": 257.84000000000003
+            },
+            {
+              "word": " explaining",
+              "start": 258.26,
+              "end": 259.22
+            },
+            {
+              "word": " those",
+              "start": 259.22,
+              "end": 259.6
+            },
+            {
+              "word": " limits,",
+              "start": 259.6,
+              "end": 259.94
+            },
+            {
+              "word": " and",
+              "start": 260.48,
+              "end": 261.06
+            },
+            {
+              "word": " the",
+              "start": 261.06,
+              "end": 261.18
+            }
+          ]
+        },
+        {
+          "start": 261.18,
+          "end": 262.90000000000003,
+          "text": "corporation's private status.",
+          "words": [
+            {
+              "word": " corporation's",
+              "start": 261.18,
+              "end": 262.06
+            },
+            {
+              "word": " private",
+              "start": 262.06,
+              "end": 262.32
+            },
+            {
+              "word": " status.",
+              "start": 262.32,
+              "end": 262.90000000000003
+            }
+          ]
+        },
+        {
+          "start": 264.08000000000004,
+          "end": 265.92,
+          "text": "A required disclosure is different.",
+          "words": [
+            {
+              "word": " A",
+              "start": 264.08000000000004,
+              "end": 264.16
+            },
+            {
+              "word": " required",
+              "start": 264.16,
+              "end": 264.46000000000004
+            },
+            {
+              "word": " disclosure",
+              "start": 264.46000000000004,
+              "end": 265.04
+            },
+            {
+              "word": " is",
+              "start": 265.04,
+              "end": 265.74
+            },
+            {
+              "word": " different.",
+              "start": 265.74,
+              "end": 265.92
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "start": 254.36,
+          "end": 262.22,
+          "text": "exceeds the stated limits or is outside the coverage explaining those limits and the corporation's",
+          "words": [
+            {
+              "word": " exceeds",
+              "start": 254.36,
+              "end": 254.70000000000002
+            },
+            {
+              "word": " the",
+              "start": 254.70000000000002,
+              "end": 254.92000000000002
+            },
+            {
+              "word": " stated",
+              "start": 254.92000000000002,
+              "end": 255.26000000000002
+            },
+            {
+              "word": " limits",
+              "start": 255.26000000000002,
+              "end": 255.74
+            },
+            {
+              "word": " or",
+              "start": 255.74,
+              "end": 256.58000000000004
+            },
+            {
+              "word": " is",
+              "start": 256.58000000000004,
+              "end": 256.76
+            },
+            {
+              "word": " outside",
+              "start": 256.76,
+              "end": 257.16
+            },
+            {
+              "word": " the",
+              "start": 257.16,
+              "end": 257.44
+            },
+            {
+              "word": " coverage",
+              "start": 257.44,
+              "end": 257.90000000000003
+            },
+            {
+              "word": " explaining",
+              "start": 257.90000000000003,
+              "end": 259.3
+            },
+            {
+              "word": " those",
+              "start": 259.3,
+              "end": 259.66
+            },
+            {
+              "word": " limits",
+              "start": 259.66,
+              "end": 260.06
+            },
+            {
+              "word": " and",
+              "start": 260.06,
+              "end": 261.1
+            },
+            {
+              "word": " the",
+              "start": 261.1,
+              "end": 261.26
+            },
+            {
+              "word": " corporation's",
+              "start": 261.26,
+              "end": 262.22
+            }
+          ]
+        },
+        {
+          "start": 262.22,
+          "end": 263.22,
+          "text": "private status.",
+          "words": [
+            {
+              "word": " private",
+              "start": 262.22,
+              "end": 262.46000000000004
+            },
+            {
+              "word": " status.",
+              "start": 262.46000000000004,
+              "end": 263.22
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "number": 18,
+    "query": "applicable law",
+    "start": 47.038,
+    "end": 58.198,
+    "models": {
+      "base.en": [
+        {
+          "start": 47.038,
+          "end": 52.55799999999999,
+          "text": "therefore make a genuine own life purchase, and name the beneficiary he chooses, subject",
+          "words": [
+            {
+              "word": " therefore",
+              "start": 47.038,
+              "end": 47.257999999999996
+            },
+            {
+              "word": " make",
+              "start": 47.257999999999996,
+              "end": 47.498
+            },
+            {
+              "word": " a",
+              "start": 47.498,
+              "end": 47.638
+            },
+            {
+              "word": " genuine",
+              "start": 47.638,
+              "end": 48.017999999999994
+            },
+            {
+              "word": " own",
+              "start": 48.017999999999994,
+              "end": 48.418
+            },
+            {
+              "word": " life",
+              "start": 48.418,
+              "end": 48.678
+            },
+            {
+              "word": " purchase,",
+              "start": 48.678,
+              "end": 49.077999999999996
+            },
+            {
+              "word": " and",
+              "start": 49.757999999999996,
+              "end": 49.818
+            },
+            {
+              "word": " name",
+              "start": 49.818,
+              "end": 50.077999999999996
+            },
+            {
+              "word": " the",
+              "start": 50.077999999999996,
+              "end": 50.238
+            },
+            {
+              "word": " beneficiary",
+              "start": 50.238,
+              "end": 50.738
+            },
+            {
+              "word": " he",
+              "start": 50.738,
+              "end": 51.178
+            },
+            {
+              "word": " chooses,",
+              "start": 51.178,
+              "end": 51.55799999999999
+            },
+            {
+              "word": " subject",
+              "start": 52.257999999999996,
+              "end": 52.55799999999999
+            }
+          ]
+        },
+        {
+          "start": 52.55799999999999,
+          "end": 55.05799999999999,
+          "text": "to the contract, and applicable law.",
+          "words": [
+            {
+              "word": " to",
+              "start": 52.55799999999999,
+              "end": 52.897999999999996
+            },
+            {
+              "word": " the",
+              "start": 52.897999999999996,
+              "end": 52.977999999999994
+            },
+            {
+              "word": " contract,",
+              "start": 52.977999999999994,
+              "end": 53.358
+            },
+            {
+              "word": " and",
+              "start": 53.977999999999994,
+              "end": 54.278
+            },
+            {
+              "word": " applicable",
+              "start": 54.278,
+              "end": 54.538
+            },
+            {
+              "word": " law.",
+              "start": 54.538,
+              "end": 55.05799999999999
+            }
+          ]
+        },
+        {
+          "start": 55.918,
+          "end": 57.598,
+          "text": "Do not confuse this with",
+          "words": [
+            {
+              "word": " Do",
+              "start": 55.918,
+              "end": 56.257999999999996
+            },
+            {
+              "word": " not",
+              "start": 56.257999999999996,
+              "end": 56.498
+            },
+            {
+              "word": " confuse",
+              "start": 56.498,
+              "end": 56.858
+            },
+            {
+              "word": " this",
+              "start": 56.858,
+              "end": 57.318
+            },
+            {
+              "word": " with",
+              "start": 57.318,
+              "end": 57.598
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "start": 47.038,
+          "end": 52.617999999999995,
+          "text": "Therefore make a genuine own life purchase, and name the beneficiary he chooses, subject",
+          "words": [
+            {
+              "word": " Therefore",
+              "start": 47.038,
+              "end": 47.318
+            },
+            {
+              "word": " make",
+              "start": 47.318,
+              "end": 47.517999999999994
+            },
+            {
+              "word": " a",
+              "start": 47.517999999999994,
+              "end": 47.717999999999996
+            },
+            {
+              "word": " genuine",
+              "start": 47.717999999999996,
+              "end": 48.117999999999995
+            },
+            {
+              "word": " own",
+              "start": 48.117999999999995,
+              "end": 48.477999999999994
+            },
+            {
+              "word": " life",
+              "start": 48.477999999999994,
+              "end": 48.738
+            },
+            {
+              "word": " purchase,",
+              "start": 48.738,
+              "end": 49.178
+            },
+            {
+              "word": " and",
+              "start": 49.69799999999999,
+              "end": 49.897999999999996
+            },
+            {
+              "word": " name",
+              "start": 49.897999999999996,
+              "end": 50.117999999999995
+            },
+            {
+              "word": " the",
+              "start": 50.117999999999995,
+              "end": 50.318
+            },
+            {
+              "word": " beneficiary",
+              "start": 50.318,
+              "end": 50.818
+            },
+            {
+              "word": " he",
+              "start": 50.818,
+              "end": 51.257999999999996
+            },
+            {
+              "word": " chooses,",
+              "start": 51.257999999999996,
+              "end": 51.678
+            },
+            {
+              "word": " subject",
+              "start": 52.297999999999995,
+              "end": 52.617999999999995
+            }
+          ]
+        },
+        {
+          "start": 52.617999999999995,
+          "end": 55.157999999999994,
+          "text": "to the contract, and applicable law.",
+          "words": [
+            {
+              "word": " to",
+              "start": 52.617999999999995,
+              "end": 52.937999999999995
+            },
+            {
+              "word": " the",
+              "start": 52.937999999999995,
+              "end": 53.05799999999999
+            },
+            {
+              "word": " contract,",
+              "start": 53.05799999999999,
+              "end": 53.538
+            },
+            {
+              "word": " and",
+              "start": 54.19799999999999,
+              "end": 54.337999999999994
+            },
+            {
+              "word": " applicable",
+              "start": 54.337999999999994,
+              "end": 54.638
+            },
+            {
+              "word": " law.",
+              "start": 54.638,
+              "end": 55.157999999999994
+            }
+          ]
+        },
+        {
+          "start": 56.178,
+          "end": 57.678,
+          "text": "Do not confuse this with",
+          "words": [
+            {
+              "word": " Do",
+              "start": 56.178,
+              "end": 56.318
+            },
+            {
+              "word": " not",
+              "start": 56.318,
+              "end": 56.577999999999996
+            },
+            {
+              "word": " confuse",
+              "start": 56.577999999999996,
+              "end": 57.038
+            },
+            {
+              "word": " this",
+              "start": 57.038,
+              "end": 57.397999999999996
+            },
+            {
+              "word": " with",
+              "start": 57.397999999999996,
+              "end": 57.678
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "number": 18,
+    "query": "specialized work",
+    "start": 120.798,
+    "end": 130.498,
+    "models": {
+      "base.en": [
+        {
+          "start": 120.798,
+          "end": 128.438,
+          "text": "name, appearance, or community. A small firm depends on Daniel's specialized work. His",
+          "words": [
+            {
+              "word": " name,",
+              "start": 120.798,
+              "end": 121.118
+            },
+            {
+              "word": " appearance,",
+              "start": 121.318,
+              "end": 121.818
+            },
+            {
+              "word": " or",
+              "start": 122.19800000000001,
+              "end": 122.378
+            },
+            {
+              "word": " community.",
+              "start": 122.378,
+              "end": 122.718
+            },
+            {
+              "word": " A",
+              "start": 124.238,
+              "end": 124.258
+            },
+            {
+              "word": " small",
+              "start": 124.258,
+              "end": 124.518
+            },
+            {
+              "word": " firm",
+              "start": 124.518,
+              "end": 124.958
+            },
+            {
+              "word": " depends",
+              "start": 124.958,
+              "end": 125.258
+            },
+            {
+              "word": " on",
+              "start": 125.258,
+              "end": 125.718
+            },
+            {
+              "word": " Daniel's",
+              "start": 125.718,
+              "end": 126.318
+            },
+            {
+              "word": " specialized",
+              "start": 126.318,
+              "end": 126.738
+            },
+            {
+              "word": " work.",
+              "start": 126.738,
+              "end": 127.438
+            },
+            {
+              "word": " His",
+              "start": 128.318,
+              "end": 128.438
+            }
+          ]
+        },
+        {
+          "start": 128.438,
+          "end": 130.478,
+          "text": "His death would create a real economic life.",
+          "words": [
+            {
+              "word": " His",
+              "start": 128.438,
+              "end": 128.518
+            },
+            {
+              "word": " death",
+              "start": 128.518,
+              "end": 128.698
+            },
+            {
+              "word": " would",
+              "start": 128.698,
+              "end": 128.938
+            },
+            {
+              "word": " create",
+              "start": 128.938,
+              "end": 129.238
+            },
+            {
+              "word": " a",
+              "start": 129.238,
+              "end": 129.418
+            },
+            {
+              "word": " real",
+              "start": 129.418,
+              "end": 129.65800000000002
+            },
+            {
+              "word": " economic",
+              "start": 129.65800000000002,
+              "end": 130.15800000000002
+            },
+            {
+              "word": " life.",
+              "start": 130.15800000000002,
+              "end": 130.478
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "start": 123.298,
+          "end": 127.518,
+          "text": "A small firm depends on Daniel's specialized work.",
+          "words": [
+            {
+              "word": " A",
+              "start": 123.298,
+              "end": 123.978
+            },
+            {
+              "word": " small",
+              "start": 123.978,
+              "end": 124.658
+            },
+            {
+              "word": " firm",
+              "start": 124.658,
+              "end": 124.998
+            },
+            {
+              "word": " depends",
+              "start": 124.998,
+              "end": 125.458
+            },
+            {
+              "word": " on",
+              "start": 125.458,
+              "end": 125.778
+            },
+            {
+              "word": " Daniel's",
+              "start": 125.778,
+              "end": 126.358
+            },
+            {
+              "word": " specialized",
+              "start": 126.358,
+              "end": 127.018
+            },
+            {
+              "word": " work.",
+              "start": 127.018,
+              "end": 127.518
+            }
+          ]
+        },
+        {
+          "start": 128.318,
+          "end": 130.478,
+          "text": "His death would create a real economic loss.",
+          "words": [
+            {
+              "word": " His",
+              "start": 128.318,
+              "end": 128.518
+            },
+            {
+              "word": " death",
+              "start": 128.518,
+              "end": 128.778
+            },
+            {
+              "word": " would",
+              "start": 128.778,
+              "end": 129.018
+            },
+            {
+              "word": " create",
+              "start": 129.018,
+              "end": 129.318
+            },
+            {
+              "word": " a",
+              "start": 129.318,
+              "end": 129.478
+            },
+            {
+              "word": " real",
+              "start": 129.478,
+              "end": 129.778
+            },
+            {
+              "word": " economic",
+              "start": 129.778,
+              "end": 130.358
+            },
+            {
+              "word": " loss.",
+              "start": 130.358,
+              "end": 130.478
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "number": 18,
+    "query": "increased in value",
+    "start": 151.15800000000002,
+    "end": 161.778,
+    "models": {
+      "base.en": [
+        {
+          "start": 151.15800000000002,
+          "end": 158.038,
+          "text": "An interest created only by death, or increased in value by death, is not the required economic",
+          "words": [
+            {
+              "word": " An",
+              "start": 151.15800000000002,
+              "end": 151.418
+            },
+            {
+              "word": " interest",
+              "start": 151.418,
+              "end": 151.698
+            },
+            {
+              "word": " created",
+              "start": 151.698,
+              "end": 152.098
+            },
+            {
+              "word": " only",
+              "start": 152.098,
+              "end": 152.55800000000002
+            },
+            {
+              "word": " by",
+              "start": 152.55800000000002,
+              "end": 152.83800000000002
+            },
+            {
+              "word": " death,",
+              "start": 152.83800000000002,
+              "end": 153.23800000000003
+            },
+            {
+              "word": " or",
+              "start": 153.73800000000003,
+              "end": 154.15800000000002
+            },
+            {
+              "word": " increased",
+              "start": 154.15800000000002,
+              "end": 154.578
+            },
+            {
+              "word": " in",
+              "start": 154.578,
+              "end": 154.89800000000002
+            },
+            {
+              "word": " value",
+              "start": 154.89800000000002,
+              "end": 155.23800000000003
+            },
+            {
+              "word": " by",
+              "start": 155.23800000000003,
+              "end": 155.538
+            },
+            {
+              "word": " death,",
+              "start": 155.538,
+              "end": 155.858
+            },
+            {
+              "word": " is",
+              "start": 156.258,
+              "end": 156.77800000000002
+            },
+            {
+              "word": " not",
+              "start": 156.77800000000002,
+              "end": 157.05800000000002
+            },
+            {
+              "word": " the",
+              "start": 157.05800000000002,
+              "end": 157.27800000000002
+            },
+            {
+              "word": " required",
+              "start": 157.27800000000002,
+              "end": 157.65800000000002
+            },
+            {
+              "word": " economic",
+              "start": 157.65800000000002,
+              "end": 158.038
+            }
+          ]
+        },
+        {
+          "start": 158.038,
+          "end": 161.358,
+          "text": "interest. Insurance should protect a legitimate-",
+          "words": [
+            {
+              "word": " interest.",
+              "start": 158.038,
+              "end": 158.698
+            },
+            {
+              "word": " Insurance",
+              "start": 159.73800000000003,
+              "end": 159.89800000000002
+            },
+            {
+              "word": " should",
+              "start": 159.89800000000002,
+              "end": 160.55800000000002
+            },
+            {
+              "word": " protect",
+              "start": 160.55800000000002,
+              "end": 160.93800000000002
+            },
+            {
+              "word": " a",
+              "start": 160.93800000000002,
+              "end": 161.198
+            },
+            {
+              "word": " legitimate",
+              "start": 161.198,
+              "end": 161.33800000000002
+            },
+            {
+              "word": "-",
+              "start": 161.33800000000002,
+              "end": 161.358
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "start": 151.15800000000002,
+          "end": 158.93800000000002,
+          "text": "An interest created only by death, or increased in value by death, is not the required economic interest.",
+          "words": [
+            {
+              "word": " An",
+              "start": 151.15800000000002,
+              "end": 151.45800000000003
+            },
+            {
+              "word": " interest",
+              "start": 151.45800000000003,
+              "end": 151.818
+            },
+            {
+              "word": " created",
+              "start": 151.818,
+              "end": 152.318
+            },
+            {
+              "word": " only",
+              "start": 152.318,
+              "end": 152.638
+            },
+            {
+              "word": " by",
+              "start": 152.638,
+              "end": 152.918
+            },
+            {
+              "word": " death,",
+              "start": 152.918,
+              "end": 153.33800000000002
+            },
+            {
+              "word": " or",
+              "start": 154.138,
+              "end": 154.23800000000003
+            },
+            {
+              "word": " increased",
+              "start": 154.23800000000003,
+              "end": 154.698
+            },
+            {
+              "word": " in",
+              "start": 154.698,
+              "end": 154.95800000000003
+            },
+            {
+              "word": " value",
+              "start": 154.95800000000003,
+              "end": 155.258
+            },
+            {
+              "word": " by",
+              "start": 155.258,
+              "end": 155.598
+            },
+            {
+              "word": " death,",
+              "start": 155.598,
+              "end": 156.038
+            },
+            {
+              "word": " is",
+              "start": 156.358,
+              "end": 156.858
+            },
+            {
+              "word": " not",
+              "start": 156.858,
+              "end": 157.138
+            },
+            {
+              "word": " the",
+              "start": 157.138,
+              "end": 157.318
+            },
+            {
+              "word": " required",
+              "start": 157.318,
+              "end": 157.73800000000003
+            },
+            {
+              "word": " economic",
+              "start": 157.73800000000003,
+              "end": 158.27800000000002
+            },
+            {
+              "word": " interest.",
+              "start": 158.27800000000002,
+              "end": 158.93800000000002
+            }
+          ]
+        },
+        {
+          "start": 159.818,
+          "end": 161.758,
+          "text": "Insurance should protect a legitimate...",
+          "words": [
+            {
+              "word": " Insurance",
+              "start": 159.818,
+              "end": 160.11800000000002
+            },
+            {
+              "word": " should",
+              "start": 160.11800000000002,
+              "end": 160.598
+            },
+            {
+              "word": " protect",
+              "start": 160.598,
+              "end": 161.05800000000002
+            },
+            {
+              "word": " a",
+              "start": 161.05800000000002,
+              "end": 161.23800000000003
+            },
+            {
+              "word": " legitimate...",
+              "start": 161.23800000000003,
+              "end": 161.758
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,645 @@
+{
+  "date": "2026-09-13",
+  "scope": {
+    "lessons": 20,
+    "fullFileDiffCandidates": 228,
+    "phraseExcerpts": 25,
+    "pauseExcerpts": 3,
+    "asrPasses": 56,
+    "ambiguousQueryRetries": 1
+  },
+  "method": "Native Higgsfield sandbox only; cached base.en and small.en, cpu_threads=1,num_workers=1,int8; sequential independent inference, no script prompt. Short phrase windows bracketed using full-file word anchors plus 3-second context. Pause windows include 6-second context on each side. No production or media modifications.",
+  "fullFileEvidence": [
+    {
+      "lesson": 21,
+      "duration": 264.294,
+      "differences": 1,
+      "fullDecodeExit": 0,
+      "decodeErrors": [],
+      "blackIntervals": [],
+      "asrSimilarity": 0.9973238180196253,
+      "longSilences": []
+    },
+    {
+      "lesson": 22,
+      "duration": 292.085,
+      "differences": 18,
+      "fullDecodeExit": 0,
+      "decodeErrors": [],
+      "blackIntervals": [],
+      "asrSimilarity": 0.940864960282436,
+      "longSilences": [
+        {
+          "end": 193.153,
+          "duration": 11.792,
+          "start": 181.361
+        }
+      ]
+    },
+    {
+      "lesson": 23,
+      "duration": 284.334,
+      "differences": 2,
+      "fullDecodeExit": 0,
+      "decodeErrors": [],
+      "blackIntervals": [],
+      "asrSimilarity": 0.9965870307167235,
+      "longSilences": []
+    },
+    {
+      "lesson": 24,
+      "duration": 283.877,
+      "differences": 2,
+      "fullDecodeExit": 0,
+      "decodeErrors": [],
+      "blackIntervals": [],
+      "asrSimilarity": 0.9932318104906938,
+      "longSilences": []
+    },
+    {
+      "lesson": 25,
+      "duration": 281.71,
+      "differences": 8,
+      "fullDecodeExit": 0,
+      "decodeErrors": [],
+      "blackIntervals": [],
+      "asrSimilarity": 0.9859154929577465,
+      "longSilences": []
+    },
+    {
+      "lesson": 26,
+      "duration": 274.709,
+      "differences": 14,
+      "fullDecodeExit": 0,
+      "decodeErrors": [],
+      "blackIntervals": [],
+      "asrSimilarity": 0.9535495179666958,
+      "longSilences": [
+        {
+          "end": 208.843,
+          "duration": 3.52806,
+          "start": 205.31493999999998
+        }
+      ]
+    },
+    {
+      "lesson": 27,
+      "duration": 276.959,
+      "differences": 14,
+      "fullDecodeExit": 0,
+      "decodeErrors": [],
+      "blackIntervals": [],
+      "asrSimilarity": 0.957464553794829,
+      "longSilences": []
+    },
+    {
+      "lesson": 28,
+      "duration": 297.46,
+      "differences": 19,
+      "fullDecodeExit": 0,
+      "decodeErrors": [],
+      "blackIntervals": [],
+      "asrSimilarity": 0.9437819420783645,
+      "longSilences": []
+    },
+    {
+      "lesson": 29,
+      "duration": 292.96,
+      "differences": 10,
+      "fullDecodeExit": 0,
+      "decodeErrors": [],
+      "blackIntervals": [],
+      "asrSimilarity": 0.9699499165275459,
+      "longSilences": []
+    },
+    {
+      "lesson": 30,
+      "duration": 281.754,
+      "differences": 3,
+      "fullDecodeExit": 0,
+      "decodeErrors": [],
+      "blackIntervals": [],
+      "asrSimilarity": 0.9952076677316294,
+      "longSilences": []
+    },
+    {
+      "lesson": 31,
+      "duration": 274.752,
+      "differences": 9,
+      "fullDecodeExit": 0,
+      "decodeErrors": [],
+      "blackIntervals": [],
+      "asrSimilarity": 0.9807692307692307,
+      "longSilences": []
+    },
+    {
+      "lesson": 32,
+      "duration": 261.792,
+      "differences": 8,
+      "fullDecodeExit": 0,
+      "decodeErrors": [],
+      "blackIntervals": [],
+      "asrSimilarity": 0.9714285714285714,
+      "longSilences": []
+    },
+    {
+      "lesson": 33,
+      "duration": 274.752,
+      "differences": 5,
+      "fullDecodeExit": 0,
+      "decodeErrors": [],
+      "blackIntervals": [],
+      "asrSimilarity": 0.9907172995780591,
+      "longSilences": []
+    },
+    {
+      "lesson": 34,
+      "duration": 272.544,
+      "differences": 21,
+      "fullDecodeExit": 0,
+      "decodeErrors": [],
+      "blackIntervals": [],
+      "asrSimilarity": 0.9368600682593856,
+      "longSilences": []
+    },
+    {
+      "lesson": 35,
+      "duration": 291.792,
+      "differences": 8,
+      "fullDecodeExit": 0,
+      "decodeErrors": [],
+      "blackIntervals": [],
+      "asrSimilarity": 0.9737704918032787,
+      "longSilences": []
+    },
+    {
+      "lesson": 36,
+      "duration": 263.004,
+      "differences": 21,
+      "fullDecodeExit": 0,
+      "decodeErrors": [],
+      "blackIntervals": [],
+      "asrSimilarity": 0.9326765188834154,
+      "longSilences": []
+    },
+    {
+      "lesson": 37,
+      "duration": 267.46,
+      "differences": 19,
+      "fullDecodeExit": 0,
+      "decodeErrors": [],
+      "blackIntervals": [],
+      "asrSimilarity": 0.9388429752066115,
+      "longSilences": [
+        {
+          "end": 98.2467,
+          "duration": 7.51869,
+          "start": 90.72801
+        }
+      ]
+    },
+    {
+      "lesson": 38,
+      "duration": 282.209,
+      "differences": 13,
+      "fullDecodeExit": 0,
+      "decodeErrors": [],
+      "blackIntervals": [],
+      "asrSimilarity": 0.9603960396039604,
+      "longSilences": []
+    },
+    {
+      "lesson": 39,
+      "duration": 290.544,
+      "differences": 16,
+      "fullDecodeExit": 0,
+      "decodeErrors": [],
+      "blackIntervals": [],
+      "asrSimilarity": 0.9545091779728652,
+      "longSilences": []
+    },
+    {
+      "lesson": 40,
+      "duration": 291.671,
+      "differences": 17,
+      "fullDecodeExit": 0,
+      "decodeErrors": [],
+      "blackIntervals": [],
+      "asrSimilarity": 0.9563218390804598,
+      "longSilences": []
+    }
+  ],
+  "phraseExcerpts": [
+    {
+      "lesson": 22,
+      "id": "dividends",
+      "query": "may pay dividends but those dividends",
+      "start": 48.2,
+      "end": 56.86,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "schedule. A participating life policy may pay dividends. But those dividends are not guaranteed merely because the policy per",
+        "small.en": "A participating life policy may pay dividends, but those dividends are not guaranteed merely because the policy..."
+      },
+      "assessment": "Both fresh models recover the intended target phrase without the full-file candidate insertion/omission. Differences at excerpt edges are not treated as defects."
+    },
+    {
+      "lesson": 22,
+      "id": "gross-price",
+      "query": "the gross price these are pricing",
+      "start": 130.14,
+      "end": 139.06,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "benefit. Greater expense needs increase the gross price. These are pricing relationships, not promises that the premium.",
+        "small.en": "your benefit greater expense needs increase the gross price these are pricing relationships not promises that the premium"
+      },
+      "assessment": "Both fresh models recover the intended target phrase without the full-file candidate insertion/omission. Differences at excerpt edges are not treated as defects."
+    },
+    {
+      "lesson": 26,
+      "id": "forever",
+      "query": "level premium forever",
+      "start": 23.8,
+      "end": 31.04,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "A level benefit does not by itself promise a level premium forever. Read the schedules.",
+        "small.en": "A level benefit does not by itself promise a level premium forever. Read the schedules."
+      },
+      "assessment": "Both fresh models recover the intended target phrase without the full-file candidate insertion/omission. Differences at excerpt edges are not treated as defects."
+    },
+    {
+      "lesson": 26,
+      "id": "particular-terms",
+      "query": "under these particular terms",
+      "start": 50.58,
+      "end": 58.7,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "the benefit and premium are both level under these particular terms. If the contract permits renewal afterward at a higher",
+        "small.en": "period. The benefit and premium are both level under these particular terms. If the contract permits renewal afterward at a higher..."
+      },
+      "assessment": "Both fresh models recover the intended target phrase without the full-file candidate insertion/omission. Differences at excerpt edges are not treated as defects."
+    },
+    {
+      "lesson": 26,
+      "id": "insurability-within-limits",
+      "query": "new evidence of insurability within the stated limits",
+      "start": 132.8,
+      "end": 142.58,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "for an available permanent policy without new evidence of insurability within the stated limits. Conversion is different from renewing another",
+        "small.en": "for an available permanent policy without new evidence of insurability within the stated limits. Conversion is different from renewing another"
+      },
+      "assessment": "Both fresh models recover the intended target phrase without the full-file candidate insertion/omission. Differences at excerpt edges are not treated as defects."
+    },
+    {
+      "lesson": 26,
+      "id": "contract-rules",
+      "query": "conversion under the contract's rules",
+      "start": 159.36,
+      "end": 169.32,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "based on attained age, meaning his age at conversion, under the contracts rules. No new health evidence does not mean no new premium.",
+        "small.en": "based on attained age, meaning his age at conversion under the contract's rules. No new health evidence does not mean no new premium."
+      },
+      "assessment": "Both fresh models recover the intended target phrase without the full-file candidate insertion/omission. Differences at excerpt edges are not treated as defects."
+    },
+    {
+      "lesson": 28,
+      "id": "actual-return",
+      "query": "policy's actual return",
+      "start": 184.62,
+      "end": 191.89,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "Do not present the index's headline return as the policy's actual return or assume that stock dividend.",
+        "small.en": "Do not present the index's headline return as the policy's actual return, or assume that stock dividend..."
+      },
+      "assessment": "Both fresh models recover the intended target phrase without the full-file candidate insertion/omission. Differences at excerpt edges are not treated as defects."
+    },
+    {
+      "lesson": 29,
+      "id": "lose-value",
+      "query": "can lose value",
+      "start": 21.54,
+      "end": 28.5,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "The owner bears the specified investment risk, and can lose value. This differs from a conventional fixed-",
+        "small.en": "The owner bears the specified investment risk and can lose value. This differs from a conventional fixed-"
+      },
+      "assessment": "Both fresh models recover the intended target phrase without the full-file candidate insertion/omission. Differences at excerpt edges are not treated as defects."
+    },
+    {
+      "lesson": 29,
+      "id": "while-investment",
+      "query": "while investment results",
+      "start": 80.06,
+      "end": 87.14,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "benefit is $200,000 while investment results can produce additional protection.",
+        "small.en": "benefit, is $200,000, while investment results can produce additional protection."
+      },
+      "assessment": "Both fresh models recover the intended target phrase without the full-file candidate insertion/omission. Differences at excerpt edges are not treated as defects."
+    },
+    {
+      "lesson": 29,
+      "id": "stated-plan",
+      "query": "under the stated plan",
+      "start": 214.34,
+      "end": 221.68,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "require less protection, or a different protection period, under the stated plan.",
+        "small.en": "require less protection, or a different protection period, under the stated plan."
+      },
+      "assessment": "Both fresh models recover the intended target phrase without the full-file candidate insertion/omission. Differences at excerpt edges are not treated as defects."
+    },
+    {
+      "lesson": 31,
+      "id": "financial-loss",
+      "query": "its own financial loss",
+      "start": 31.9,
+      "end": 39.98,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "group protection with a business-owning key person insurance for its own financial law. A trust can hold group coverage for participants.",
+        "small.en": "group protection with a business-owning key person insurance for its own financial loss. A trust can hold group coverage for participants."
+      },
+      "assessment": "Recognizer disagreement: base.en prints 'law', small.en prints 'loss'. Not a consistent meaning defect."
+    },
+    {
+      "lesson": 31,
+      "id": "fegli",
+      "query": "or FEGLI provides group term",
+      "start": 226.48,
+      "end": 236.56,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "Federal Employees Group Life Insurance, or FEGI, provides group-term coverage for eligible federal employees with",
+        "small.en": "Federal Employees Group Life Insurance, or FEGI, provides group term coverage for eligible federal employees."
+      },
+      "assessment": "Both recognizers print FEGI while correctly spelling out Federal Employees Group Life Insurance. Acronym spelling/pronunciation ambiguity; no program-identity or meaning defect established."
+    },
+    {
+      "lesson": 32,
+      "id": "irrevocable",
+      "query": "an irrevocable designation creates an interest",
+      "start": 51.7,
+      "end": 59,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "An irrevocable designation creates an interest that can restrict changes without the required consent.",
+        "small.en": "An irrevocable designation creates an interest that can restrict changes without the required consent."
+      },
+      "assessment": "Both fresh models recover the intended target phrase without the full-file candidate insertion/omission. Differences at excerpt edges are not treated as defects."
+    },
+    {
+      "lesson": 32,
+      "id": "deductions",
+      "query": "other claims or deductions",
+      "start": 160.34,
+      "end": 168.16,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "amount due is $20,000. Dollars assume no other claims or deductions. The lender receives $20,000 in the designated beneficiary.",
+        "small.en": "amount due is $20,000. Dollars assume no other claims or deductions. The lender receives $20,000 in the designated beneficiary."
+      },
+      "assessment": "Both fresh models recover the intended target phrase without the full-file candidate insertion/omission. Differences at excerpt edges are not treated as defects."
+    },
+    {
+      "lesson": 32,
+      "id": "riders",
+      "query": "required riders and endorsements",
+      "start": 228.32,
+      "end": 235.5,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "warranties in the absence of fraud. Required riders and endorsements form part of the actual contract as an",
+        "small.en": "warranties in the absence of fraud. Required writers and endorsements form part of the actual contract as in"
+      },
+      "assessment": "base.en prints riders; small.en prints writers. Phonetic/lexical ambiguity, not consistent evidence of changed meaning."
+    },
+    {
+      "lesson": 33,
+      "id": "former-spouse",
+      "query": "a former spouse who remained",
+      "start": 151.86,
+      "end": 159.96,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "Administration example required payment to a former spouse who remained the named beneficiary of a Maryland life-pop",
+        "small.en": "The insurance administration example required payment to a former spouse who remained the named beneficiary of a Maryland lifepop."
+      },
+      "assessment": "Both fresh models recover the intended target phrase without the full-file candidate insertion/omission. Differences at excerpt edges are not treated as defects."
+    },
+    {
+      "lesson": 34,
+      "id": "policyholder",
+      "query": "provision gives the policyholder ten days",
+      "start": 47.86,
+      "end": 56.64,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "asked. Maryland's general notice provision gives the policy holder 10 days after delivery to surrender the covered policy.",
+        "small.en": "Marilyn's general notice provision gives the policyholder 10 days after delivery to surrender the covered policy."
+      },
+      "assessment": "Both fresh models recover the intended target phrase without the full-file candidate insertion/omission. Differences at excerpt edges are not treated as defects."
+    },
+    {
+      "lesson": 34,
+      "id": "incontestability",
+      "query": "governed by incontestability",
+      "start": 261.18,
+      "end": 268.15999999999997,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "challenge to the original policy's validity is a different issue governed by incontestability. Keep payment status.",
+        "small.en": "challenge to the original policy's validity is a different issue governed by incontestability. Keep payment status."
+      },
+      "assessment": "Both fresh models recover the intended target phrase without the full-file candidate insertion/omission. Differences at excerpt edges are not treated as defects."
+    },
+    {
+      "lesson": 35,
+      "id": "lapse-verb",
+      "query": "Marcus let an ordinary individual",
+      "start": 0,
+      "end": 5.1,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "Marcus led an ordinary individual life policy lapse after its premium grace period.",
+        "small.en": "Marcus led an ordinary individual life policy lapse after its premium grace period."
+      },
+      "assessment": "Both recognizers print led instead of let before 'an'. This is a connected-speech t/d spelling ambiguity; not a confirmed change in the taught lapse concept."
+    },
+    {
+      "lesson": 36,
+      "id": "insurer-repeat",
+      "query": "with the insurer and pays",
+      "start": 48.78,
+      "end": 57.08,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "interest-only arrangement leaves $100,000 with the insurer and pays Elena the interest at a hypothetical",
+        "small.en": "interest-only arrangement leaves $100,000 with the insurer and pays Elena the interest."
+      },
+      "assessment": "Both fresh models recover the intended target phrase without the full-file candidate insertion/omission. Differences at excerpt edges are not treated as defects."
+    },
+    {
+      "lesson": 36,
+      "id": "and-no-interest",
+      "query": "with one hundred twenty thousand dollars and no interest",
+      "start": 146.1,
+      "end": 154.52,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "interest determine how long payments continue. With $120,000 in no interest or fees in this teaching example, the money's",
+        "small.en": "interest determine how long payments continue. With $120,000 and no interest or fees in this teaching example, the money..."
+      },
+      "assessment": "base.en prints 'in no interest'; small.en correctly prints 'and no interest'. No consistent omission of the no-interest assumption."
+    },
+    {
+      "lesson": 37,
+      "id": "benefit-repeat",
+      "query": "smaller permanent benefit this is different",
+      "start": 151.82,
+      "end": 160.74,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "$100,000 amount, but keeps the smaller permanent benefit. This is different from paying the final scheduled premium on a limit.",
+        "small.en": "$100,000 amount, but keeps the smaller permanent benefit. This is different from paying the final scheduled premium on a limit of $100,000."
+      },
+      "assessment": "Both fresh models recover the intended target phrase without the full-file candidate insertion/omission. Differences at excerpt edges are not treated as defects."
+    },
+    {
+      "lesson": 38,
+      "id": "term-riders",
+      "query": "term policies term riders",
+      "start": 130.1,
+      "end": 139.04,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "persons election. The section excludes term policies, term writers, and industrial life.",
+        "small.en": "person's election. The section excludes term policies, term writers, and industrial life."
+      },
+      "assessment": "Both recognizers print writers; source/context is term riders. These can sound alike in the speaker's pronunciation. Text recognition alone does not establish a spoken meaning defect."
+    },
+    {
+      "lesson": 38,
+      "id": "mechanism-repeat",
+      "query": "life withdrawal mechanism identify",
+      "start": 171.04,
+      "end": 179.8,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "paid-up additions, rather than the same universal life withdrawal mechanism. Identify the actual feature before quoting an effect.",
+        "small.en": "paid up additions, rather than the same universal life withdrawal mechanism, identify the actual feature before quoting an effect."
+      },
+      "assessment": "Both fresh models recover the intended target phrase without the full-file candidate insertion/omission. Differences at excerpt edges are not treated as defects."
+    },
+    {
+      "lesson": 40,
+      "id": "premiums-omitted",
+      "query": "waiver of premium rider waives the premiums specified",
+      "start": 49.68,
+      "end": 58.34,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "for promising that a benefit applies. A waiver of premium rider waves the premium specified by the rider when the insured meets its qualifying decision.",
+        "small.en": "for promising that a benefit applies. A waiver of premium rider waves the premiums specified by the rider when the insured meets its qualifying dis-"
+      },
+      "assessment": "Both fresh models recover premium/premiums, with small.en preserving the plural; no omitted premium obligation."
+    }
+  ],
+  "pauseCandidates": [
+    {
+      "lesson": 22,
+      "nativeSilence": [
+        181.361,
+        193.153
+      ],
+      "fresh40dB": [
+        181.36056,
+        193.1534
+      ],
+      "before": "Real life pricing uses fuller mortality and timing data.",
+      "after": "It is not simply the face amount divided by a guessed lifespan.",
+      "latestPrecedingWordEnd": 181.481,
+      "earliestFollowingWordStart": 192.041,
+      "proposedCut": [
+        181.75,
+        191.5
+      ],
+      "adoptedInward24fps": [
+        181.75,
+        191.5
+      ],
+      "captionGap": [
+        181.282,
+        191.842
+      ]
+    },
+    {
+      "lesson": 26,
+      "nativeSilence": [
+        205.31494,
+        208.843
+      ],
+      "fresh40dB": [
+        205.30513,
+        208.84525
+      ],
+      "before": "These labels concern the benefit, not a cash value account.",
+      "after": "Suppose a teaching policy starts at one hundred thousand dollars...",
+      "latestPrecedingWordEnd": 205.215,
+      "earliestFollowingWordStart": 208.255,
+      "proposedCut": [
+        205.65,
+        207.95
+      ],
+      "adoptedInward24fps": [
+        205.6666667,
+        207.9166667
+      ],
+      "captionNote": "Original cue47 spans the silence and needs time remapping."
+    },
+    {
+      "lesson": 37,
+      "nativeSilence": [
+        90.72801,
+        98.2467
+      ],
+      "fresh40dB": [
+        90.69457,
+        98.24731
+      ],
+      "before": "...for as long as that value purchases.",
+      "after": "No further premiums are required for that purchased period.",
+      "latestPrecedingWordEnd": 90.488,
+      "earliestFollowingWordStart": 97.728,
+      "proposedCut": [
+        91,
+        97.3
+      ],
+      "adoptedInward24fps": [
+        91,
+        97.2916667
+      ],
+      "captionGap": [
+        90.425,
+        97.645
+      ]
+    }
+  ],
+  "limitations": [
+    "ASR is not direct human auditory judgment or frame-by-frame QA.",
+    "Numeral/currency formatting, orthographic variants and recognizer-only boundary artifacts were not treated as spoken errors.",
+    "Three native pauses are confirmed; final rendered-cut verification belongs to parent review.",
+    "Cloud report upload was rejected by automatic approval review. Export step was removed; analysis remained in the existing sandbox. These are local audit findings, not a new remote upload."
+  ]
+}

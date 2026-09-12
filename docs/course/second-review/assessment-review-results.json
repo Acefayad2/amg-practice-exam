@@ -1,0 +1,83 @@
+{
+  "date": "2026-09-13",
+  "assessmentItems": 302,
+  "sourceIntegrityAssertions": 6410,
+  "relatedReviewItems": 512,
+  "mainBrowserAssertions": 356,
+  "recoveryBrowserAssertions": 16,
+  "runtimeErrors": [],
+  "forms": [
+    {
+      "id": "D",
+      "items": 32,
+      "scored": 32,
+      "simulation": 0,
+      "minutes": 0,
+      "allocation": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "id": "A",
+      "items": 90,
+      "scored": 80,
+      "simulation": 10,
+      "minutes": 105,
+      "allocation": [
+        24,
+        8,
+        14,
+        8,
+        11,
+        7,
+        6,
+        2
+      ]
+    },
+    {
+      "id": "B",
+      "items": 90,
+      "scored": 80,
+      "simulation": 10,
+      "minutes": 105,
+      "allocation": [
+        24,
+        8,
+        14,
+        8,
+        11,
+        7,
+        6,
+        2
+      ]
+    },
+    {
+      "id": "C",
+      "items": 90,
+      "scored": 80,
+      "simulation": 10,
+      "minutes": 105,
+      "allocation": [
+        24,
+        8,
+        14,
+        8,
+        11,
+        7,
+        6,
+        2
+      ]
+    }
+  ],
+  "codeSha256": "0d08c2b976cbaef9f305a1f94cf953d6085a63bacdb065456e64574831205039",
+  "dataSha256": "a028e2a53612beef52875be2a356cb4768df45d44bfb3c7eecfaec487708baf0",
+  "fixedDefect": "Mobile assessment route changes and submission/expiry now return to the visible prompt/results heading instead of retaining dashboard/question scroll position.",
+  "expiryScrollAssertions": 8
+}

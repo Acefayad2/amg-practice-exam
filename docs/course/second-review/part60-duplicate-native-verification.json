@@ -1,0 +1,944 @@
+{
+  "number": 60,
+  "date": "2026-09-13",
+  "originalVideo": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/1d79e6c5-f1c6-4449-8f2a-f4809258cfb0.mp4",
+  "originalEditableArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/716a429c-e2d6-48e3-a572-9ba55feb1c72.zip",
+  "originalDuration": 292.794,
+  "cut": [
+    157.875,
+    159
+  ],
+  "removedSeconds": 1.125,
+  "removedVideoFrames": 27,
+  "duration": 291.676,
+  "method": "Removed only the first duplicated spoken phrase \"A life option\"; retained the full second sentence. Both endpoints lie in quiet gaps. Identical frame-aligned cut applied to picture and sound. Caption word sequence preserved and later times shifted. No generated speech.",
+  "boundaryQuietIntervals": [
+    {
+      "start": 156.134208,
+      "end": 156.385979,
+      "duration": 0.251771
+    },
+    {
+      "start": 157.706917,
+      "end": 158.0255,
+      "duration": 0.318583
+    },
+    {
+      "start": 158.884172,
+      "end": 159.15888,
+      "duration": 0.274708
+    }
+  ],
+  "fullDecodeExit": 0,
+  "blackIntervals": [],
+  "silenceIntervals": [
+    {
+      "start": 0.22500399999999998,
+      "end": 1.1034,
+      "duration": 0.878396
+    },
+    {
+      "start": 5.027774,
+      "end": 5.90067,
+      "duration": 0.872896
+    },
+    {
+      "start": 40.291629,
+      "end": 41.1254,
+      "duration": 0.833771
+    },
+    {
+      "start": 51.712304,
+      "end": 52.6642,
+      "duration": 0.951896
+    },
+    {
+      "start": 82.376133,
+      "end": 83.1888,
+      "duration": 0.812667
+    },
+    {
+      "start": 91.023917,
+      "end": 92.0,
+      "duration": 0.976083
+    },
+    {
+      "start": 131.063417,
+      "end": 132.0,
+      "duration": 0.936583
+    },
+    {
+      "start": 190.339917,
+      "end": 191.246,
+      "duration": 0.906083
+    },
+    {
+      "start": 245.156563,
+      "end": 246.049,
+      "duration": 0.892437
+    },
+    {
+      "start": 267.88154199999997,
+      "end": 268.866,
+      "duration": 0.984458
+    },
+    {
+      "start": 274.6501,
+      "end": 275.673,
+      "duration": 1.0229
+    },
+    {
+      "start": 283.279271,
+      "end": 284.277,
+      "duration": 0.997729
+    },
+    {
+      "start": 290.25618999999995,
+      "end": 291.691,
+      "duration": 1.43481
+    }
+  ],
+  "joinTranscripts": [
+    {
+      "model": "small.en",
+      "segments": [
+        {
+          "text": " features. Pure life pays $900 monthly, while Rosa lives and stops at her death. A life",
+          "words": [
+            {
+              "word": " features.",
+              "start": 150.875,
+              "end": 151.395
+            },
+            {
+              "word": " Pure",
+              "start": 152.255,
+              "end": 152.255
+            },
+            {
+              "word": " life",
+              "start": 152.255,
+              "end": 152.595
+            },
+            {
+              "word": " pays",
+              "start": 152.595,
+              "end": 152.955
+            },
+            {
+              "word": " $900",
+              "start": 152.955,
+              "end": 153.695
+            },
+            {
+              "word": " monthly,",
+              "start": 153.695,
+              "end": 154.535
+            },
+            {
+              "word": " while",
+              "start": 154.915,
+              "end": 155.175
+            },
+            {
+              "word": " Rosa",
+              "start": 155.175,
+              "end": 155.535
+            },
+            {
+              "word": " lives",
+              "start": 155.535,
+              "end": 155.935
+            },
+            {
+              "word": " and",
+              "start": 155.935,
+              "end": 156.515
+            },
+            {
+              "word": " stops",
+              "start": 156.515,
+              "end": 156.915
+            },
+            {
+              "word": " at",
+              "start": 156.915,
+              "end": 157.135
+            },
+            {
+              "word": " her",
+              "start": 157.135,
+              "end": 157.275
+            },
+            {
+              "word": " death.",
+              "start": 157.275,
+              "end": 157.535
+            },
+            {
+              "word": " A",
+              "start": 158.035,
+              "end": 158.135
+            },
+            {
+              "word": " life",
+              "start": 158.135,
+              "end": 158.355
+            }
+          ]
+        },
+        {
+          "text": " option with a 10-year certain period pays $850 monthly, continuing for her life and",
+          "words": [
+            {
+              "word": " option",
+              "start": 158.355,
+              "end": 158.675
+            },
+            {
+              "word": " with",
+              "start": 158.675,
+              "end": 158.855
+            },
+            {
+              "word": " a",
+              "start": 158.855,
+              "end": 159.015
+            },
+            {
+              "word": " 10",
+              "start": 159.015,
+              "end": 159.215
+            },
+            {
+              "word": "-year",
+              "start": 159.215,
+              "end": 159.435
+            },
+            {
+              "word": " certain",
+              "start": 159.435,
+              "end": 159.775
+            },
+            {
+              "word": " period",
+              "start": 159.775,
+              "end": 160.335
+            },
+            {
+              "word": " pays",
+              "start": 160.335,
+              "end": 161.055
+            },
+            {
+              "word": " $850",
+              "start": 161.055,
+              "end": 161.935
+            },
+            {
+              "word": " monthly,",
+              "start": 161.935,
+              "end": 162.935
+            },
+            {
+              "word": " continuing",
+              "start": 163.495,
+              "end": 163.995
+            },
+            {
+              "word": " for",
+              "start": 163.995,
+              "end": 164.415
+            },
+            {
+              "word": " her",
+              "start": 164.415,
+              "end": 164.595
+            },
+            {
+              "word": " life",
+              "start": 164.595,
+              "end": 164.895
+            },
+            {
+              "word": " and",
+              "start": 164.895,
+              "end": 165.515
+            }
+          ]
+        },
+        {
+          "text": " guaranteeing the stated minimum payment period. If she dies after exactly 24 monthly payments",
+          "words": [
+            {
+              "word": " guaranteeing",
+              "start": 165.515,
+              "end": 166.055
+            },
+            {
+              "word": " the",
+              "start": 166.055,
+              "end": 166.355
+            },
+            {
+              "word": " stated",
+              "start": 166.355,
+              "end": 166.675
+            },
+            {
+              "word": " minimum",
+              "start": 166.675,
+              "end": 167.015
+            },
+            {
+              "word": " payment",
+              "start": 167.015,
+              "end": 167.435
+            },
+            {
+              "word": " period.",
+              "start": 167.435,
+              "end": 167.915
+            },
+            {
+              "word": " If",
+              "start": 168.715,
+              "end": 168.875
+            },
+            {
+              "word": " she",
+              "start": 168.875,
+              "end": 169.035
+            },
+            {
+              "word": " dies",
+              "start": 169.035,
+              "end": 169.415
+            },
+            {
+              "word": " after",
+              "start": 169.415,
+              "end": 169.835
+            },
+            {
+              "word": " exactly",
+              "start": 169.835,
+              "end": 170.215
+            },
+            {
+              "word": " 24",
+              "start": 170.215,
+              "end": 170.855
+            },
+            {
+              "word": " monthly",
+              "start": 170.855,
+              "end": 171.195
+            },
+            {
+              "word": " payments",
+              "start": 171.195,
+              "end": 171.675
+            }
+          ]
+        },
+        {
+          "text": " under the second",
+          "words": [
+            {
+              "word": " under",
+              "start": 171.675,
+              "end": 172.29500000000002
+            },
+            {
+              "word": " the",
+              "start": 172.29500000000002,
+              "end": 172.495
+            },
+            {
+              "word": " second",
+              "start": 172.495,
+              "end": 172.715
+            }
+          ]
+        }
+      ],
+      "lifeOptionOccurrences": 1
+    },
+    {
+      "model": "base.en",
+      "segments": [
+        {
+          "text": " features. Pure Life pays $900 monthly, while Rosa lives and stops at her death. A life",
+          "words": [
+            {
+              "word": " features.",
+              "start": 150.875,
+              "end": 151.295
+            },
+            {
+              "word": " Pure",
+              "start": 152.195,
+              "end": 152.215
+            },
+            {
+              "word": " Life",
+              "start": 152.215,
+              "end": 152.535
+            },
+            {
+              "word": " pays",
+              "start": 152.535,
+              "end": 152.835
+            },
+            {
+              "word": " $900",
+              "start": 152.835,
+              "end": 153.635
+            },
+            {
+              "word": " monthly,",
+              "start": 153.635,
+              "end": 154.255
+            },
+            {
+              "word": " while",
+              "start": 154.975,
+              "end": 155.095
+            },
+            {
+              "word": " Rosa",
+              "start": 155.095,
+              "end": 155.315
+            },
+            {
+              "word": " lives",
+              "start": 155.315,
+              "end": 155.955
+            },
+            {
+              "word": " and",
+              "start": 155.955,
+              "end": 156.475
+            },
+            {
+              "word": " stops",
+              "start": 156.475,
+              "end": 156.795
+            },
+            {
+              "word": " at",
+              "start": 156.795,
+              "end": 157.115
+            },
+            {
+              "word": " her",
+              "start": 157.115,
+              "end": 157.215
+            },
+            {
+              "word": " death.",
+              "start": 157.215,
+              "end": 157.455
+            },
+            {
+              "word": " A",
+              "start": 158.055,
+              "end": 158.095
+            },
+            {
+              "word": " life",
+              "start": 158.095,
+              "end": 158.235
+            }
+          ]
+        },
+        {
+          "text": " option with a 10-year certain period pays $850 monthly, continuing for her life and guaranteeing",
+          "words": [
+            {
+              "word": " option",
+              "start": 158.235,
+              "end": 158.555
+            },
+            {
+              "word": " with",
+              "start": 158.555,
+              "end": 158.795
+            },
+            {
+              "word": " a",
+              "start": 158.795,
+              "end": 158.915
+            },
+            {
+              "word": " 10",
+              "start": 158.915,
+              "end": 159.155
+            },
+            {
+              "word": "-year",
+              "start": 159.155,
+              "end": 159.395
+            },
+            {
+              "word": " certain",
+              "start": 159.395,
+              "end": 159.655
+            },
+            {
+              "word": " period",
+              "start": 159.655,
+              "end": 160.095
+            },
+            {
+              "word": " pays",
+              "start": 160.095,
+              "end": 160.935
+            },
+            {
+              "word": " $850",
+              "start": 160.935,
+              "end": 161.975
+            },
+            {
+              "word": " monthly,",
+              "start": 161.975,
+              "end": 162.715
+            },
+            {
+              "word": " continuing",
+              "start": 163.435,
+              "end": 163.975
+            },
+            {
+              "word": " for",
+              "start": 163.975,
+              "end": 164.355
+            },
+            {
+              "word": " her",
+              "start": 164.355,
+              "end": 164.515
+            },
+            {
+              "word": " life",
+              "start": 164.515,
+              "end": 164.795
+            },
+            {
+              "word": " and",
+              "start": 164.795,
+              "end": 165.435
+            },
+            {
+              "word": " guaranteeing",
+              "start": 165.435,
+              "end": 166.015
+            }
+          ]
+        },
+        {
+          "text": " the stated minimum payment period. If she dies after exactly 24 monthly payments under the",
+          "words": [
+            {
+              "word": " the",
+              "start": 166.015,
+              "end": 166.295
+            },
+            {
+              "word": " stated",
+              "start": 166.295,
+              "end": 166.615
+            },
+            {
+              "word": " minimum",
+              "start": 166.615,
+              "end": 166.875
+            },
+            {
+              "word": " payment",
+              "start": 166.875,
+              "end": 167.29500000000002
+            },
+            {
+              "word": " period.",
+              "start": 167.29500000000002,
+              "end": 167.79500000000002
+            },
+            {
+              "word": " If",
+              "start": 168.635,
+              "end": 168.835
+            },
+            {
+              "word": " she",
+              "start": 168.835,
+              "end": 168.975
+            },
+            {
+              "word": " dies",
+              "start": 168.975,
+              "end": 169.255
+            },
+            {
+              "word": " after",
+              "start": 169.255,
+              "end": 169.79500000000002
+            },
+            {
+              "word": " exactly",
+              "start": 169.79500000000002,
+              "end": 170.035
+            },
+            {
+              "word": " 24",
+              "start": 170.035,
+              "end": 170.695
+            },
+            {
+              "word": " monthly",
+              "start": 170.695,
+              "end": 171.035
+            },
+            {
+              "word": " payments",
+              "start": 171.035,
+              "end": 171.515
+            },
+            {
+              "word": " under",
+              "start": 171.515,
+              "end": 172.175
+            },
+            {
+              "word": " the",
+              "start": 172.175,
+              "end": 172.415
+            }
+          ]
+        },
+        {
+          "text": " second up.",
+          "words": [
+            {
+              "word": " second",
+              "start": 172.415,
+              "end": 172.675
+            },
+            {
+              "word": " up.",
+              "start": 172.675,
+              "end": 172.855
+            }
+          ]
+        }
+      ],
+      "lifeOptionOccurrences": 1
+    }
+  ],
+  "samples": [
+    {
+      "label": "before source",
+      "time": 157.525
+    },
+    {
+      "label": "after source",
+      "time": 159.05
+    },
+    {
+      "label": "repaired before join",
+      "time": 157.525
+    },
+    {
+      "label": "repaired after join",
+      "time": 157.925
+    },
+    {
+      "label": "repaired sentence",
+      "time": 158.875
+    },
+    {
+      "label": "repaired sentence",
+      "time": 161.875
+    }
+  ],
+  "technical": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "closed_captions": 0,
+        "film_grain": 0,
+        "has_b_frames": 2,
+        "pix_fmt": "yuv420p",
+        "level": 40,
+        "color_range": "tv",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709",
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "24/1",
+        "avg_frame_rate": "24/1",
+        "time_base": "1/12288",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 3584000,
+        "duration": "291.666667",
+        "bit_rate": "235132",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "7000",
+        "extradata_size": 50,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]",
+          "encoder": "Lavc59.37.100 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 1,
+        "channel_layout": "mono",
+        "bits_per_sample": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 14000448,
+        "duration": "291.676000",
+        "bit_rate": "174201",
+        "nb_frames": "13674",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      }
+    ],
+    "format": {
+      "filename": "/home/user/amg-part60-duplicate-repair/final.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "291.676000",
+      "size": "15125693",
+      "bit_rate": "414862",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf59.27.100"
+      }
+    }
+  },
+  "originalTechnical": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "closed_captions": 0,
+        "film_grain": 0,
+        "has_b_frames": 2,
+        "pix_fmt": "yuv420p",
+        "level": 40,
+        "color_range": "tv",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709",
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "24/1",
+        "avg_frame_rate": "21586944/899461",
+        "time_base": "1/12288",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 3597844,
+        "duration": "292.793294",
+        "bit_rate": "482410",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "7027",
+        "extradata_size": 49,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]",
+          "encoder": "Lavc59.37.100 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 1,
+        "channel_layout": "mono",
+        "bits_per_sample": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 14053968,
+        "duration": "292.791000",
+        "bit_rate": "149832",
+        "nb_frames": "13726",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      }
+    ],
+    "format": {
+      "filename": "/home/user/amg-part60-duplicate-repair/original.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "292.794000",
+      "size": "23341054",
+      "bit_rate": "637746",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf59.27.100"
+      }
+    }
+  },
+  "vtt": "WEBVTT\n\n1\n00:00:00.720 --> 00:00:04.280\nDavid and a business partner review what happens if one of\n\n2\n00:00:04.280 --> 00:00:08.100\nthem dies. If the company needs funds to replace the lost\n\n3\n00:00:08.100 --> 00:00:12.200\nservices of an essential worker, key-person coverage can address that\n\n4\n00:00:12.200 --> 00:00:16.320\nbusiness loss. The business generally owns the policy and receives the\n\n5\n00:00:16.320 --> 00:00:17.640\nbenefit under that arrangement.\n\n6\n00:00:18.380 --> 00:00:22.220\nA buy-sell agreement addresses a different problem: how an ownership interest\n\n7\n00:00:22.220 --> 00:00:24.520\nwill be purchased after a specified event.\n\n8\n00:00:25.100 --> 00:00:28.700\nLife insurance can fund the purchase obligation, but the agreement\n\n9\n00:00:28.700 --> 00:00:34.020\nestablishes the transaction. In a cross-purchase design, the owners typically\n\n10\n00:00:34.020 --> 00:00:39.320\ninsure one another; in an entity-purchase design, the business generally owns\n\n11\n00:00:39.320 --> 00:00:44.360\nthe policies. Do not assume a key-person payment automatically transfers the\n\n12\n00:00:44.360 --> 00:00:49.233\ndeceased owner's shares. David also has pretax retirement funds in a\n\n13\n00:00:49.233 --> 00:00:51.613\nformer employer's four-oh-one-k plan.\n\n14\n00:00:52.633 --> 00:00:56.633\nHe considers an eligible direct rollover into a traditional individual\n\n15\n00:00:56.633 --> 00:01:00.893\nretirement account. Direct payment goes to the eligible receiving arrangement\n\n16\n00:01:00.893 --> 00:01:03.773\nand avoids mandatory twenty percent withholding.\n\n17\n00:01:04.613 --> 00:01:08.653\nMoving eligible pretax funds into a Roth arrangement instead generally\n\n18\n00:01:08.653 --> 00:01:13.073\nintroduces conversion income. If an annuity is used inside the traditional\n\n19\n00:01:13.073 --> 00:01:16.633\naccount, the account already provides tax deferral.\n\n20\n00:01:17.193 --> 00:01:20.933\nThe annuity must be evaluated for its other actual features, charges\n\n21\n00:01:21.493 --> 00:01:25.853\nand restrictions. Do not describe an additional layer of tax deferral\n\n22\n00:01:25.853 --> 00:01:29.313\nas an automatic benefit of placing an annuity inside an already\n\n23\n00:01:29.313 --> 00:01:34.095\ntax-deferred retirement account. Rosa and David want reliable retirement\n\n24\n00:01:34.095 --> 00:01:38.895\nincome but also need access to money for near-term expenses and\n\n25\n00:01:38.895 --> 00:01:43.255\nemergencies. A recommendation that commits all their liquid resources to a\n\n26\n00:01:43.255 --> 00:01:47.535\nlong surrender schedule may conflict with those needs, even if its\n\n27\n00:01:47.535 --> 00:01:49.315\nillustrated income looks attractive.\n\n28\n00:01:50.315 --> 00:01:54.755\nReview the actual consumer profile, available alternatives, liquidity,\n\n29\n00:01:55.555 --> 00:02:00.295\ntime horizon, costs, surrender terms and the features supporting the\n\n30\n00:02:00.295 --> 00:02:05.095\nrecommendation. For a covered Maryland annuity recommendation, best interest\n\n31\n00:02:05.095 --> 00:02:10.775\nincludes the required care, disclosure, conflict and documentation duties.\n\n32\n00:02:11.855 --> 00:02:15.235\nAn agent's compensation cannot be the reason to put the consumer's\n\n33\n00:02:15.235 --> 00:02:19.635\ninterest second. The worksheet should explain why this specific arrangement\n\n34\n00:02:19.635 --> 00:02:24.975\nfits the known circumstances, including what resources remain available after\n\n35\n00:02:24.975 --> 00:02:29.227\nthe purchase. Compare two fictional income quotes with identical starting\n\n36\n00:02:29.227 --> 00:02:31.267\nfunds and no other features.\n\n37\n00:02:32.007 --> 00:02:36.467\nPure life pays nine hundred dollars monthly while Rosa lives and\n\n38\n00:02:36.467 --> 00:02:37.547\nstops at her death.\n\n39\n00:02:37.875 --> 00:02:41.432\nA life option with a ten-year certain period pays eight hundred\n\n40\n00:02:41.432 --> 00:02:46.602\nfifty dollars monthly, continuing for her life and guaranteeing the stated\n\n41\n00:02:46.602 --> 00:02:51.022\nminimum payment period. If she dies after exactly twenty-four monthly\n\n42\n00:02:51.022 --> 00:02:55.782\npayments under the second option, ninety-six guaranteed monthly payments\n\n43\n00:02:55.782 --> 00:02:59.202\nremain for the beneficiary under these assumptions.\n\n44\n00:03:00.142 --> 00:03:04.282\nIf she lives beyond ten years, her lifetime payments continue.\n\n45\n00:03:05.002 --> 00:03:09.122\nThe certain period is a minimum guarantee, not the end of\n\n46\n00:03:09.122 --> 00:03:14.282\nlifetime income. The quoted amounts are teaching assumptions; actual\n\n47\n00:03:14.282 --> 00:03:16.742\nrates depend on the contract and its pricing.\n\n48\n00:03:17.562 --> 00:03:21.922\nNow consider David's separate personally owned nonqualified annuity issued in\n\n49\n00:03:21.922 --> 00:03:25.856\n2020. It has a ninety thousand dollar value and sixty thousand\n\n50\n00:03:25.856 --> 00:03:30.282\ndollars of adjusted investment, with no earlier withdrawals, debt or other\n\n51\n00:03:30.282 --> 00:03:34.629\nadjustments. Before annuitization, he takes an ordinary twenty thousand\n\n52\n00:03:34.629 --> 00:03:38.682\ndollar partial withdrawal. The thirty thousand dollars of gain is reached\n\n53\n00:03:38.682 --> 00:03:42.842\nfirst, so the full twenty thousand withdrawn is taxable income under\n\n54\n00:03:42.842 --> 00:03:47.902\nthese facts. David is sixty-four, so the ordinary age-based ten percent\n\n55\n00:03:47.902 --> 00:03:51.062\nadditional tax does not apply, but the income tax remains.\n\n56\n00:03:51.882 --> 00:03:55.042\nThis is different from a properly qualifying exchange of the annuity\n\n57\n00:03:55.042 --> 00:03:59.662\ninto another annuity. That exchange can defer current gain recognition while\n\n58\n00:03:59.662 --> 00:04:03.002\ncarrying forward the relevant investment, rather than creating fresh\n\n59\n00:04:03.002 --> 00:04:05.042\nafter-tax basis at current value.\n\n60\n00:04:05.625 --> 00:04:10.305\nAcross these cases, begin by identifying the person or business being\n\n61\n00:04:10.305 --> 00:04:12.745\nprotected and the event that causes payment.\n\n62\n00:04:13.465 --> 00:04:17.385\nNext identify the legal arrangement, who owns it, who receives the\n\n63\n00:04:17.385 --> 00:04:20.305\nbenefit and which money is pretax or after-tax.\n\n64\n00:04:21.145 --> 00:04:25.785\nThen apply the actual time limit, contract provision or Maryland duty\n\n65\n00:04:25.785 --> 00:04:27.485\nbefore doing the arithmetic.\n\n66\n00:04:28.765 --> 00:04:32.425\nRead the question's assumptions instead of carrying a rule from a\n\n67\n00:04:32.425 --> 00:04:34.365\ndifferent product into the scenario.\n\n68\n00:04:35.625 --> 00:04:39.765\nDuring timed practice, flag difficult questions and return with the remaining\n\n69\n00:04:39.765 --> 00:04:43.185\ntime. Then review missed answers and the linked lessons.\n\n70\n00:04:44.125 --> 00:04:47.885\nCourse completion records study progress; applying knowledge to fresh\n\n71\n00:04:47.885 --> 00:04:50.125\nquestions tests understanding.\n\n",
+  "captionTextUnchanged": true,
+  "captionCueCount": 71,
+  "generationCalls": 0,
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/91be1334-5306-4343-9bcc-b6c0d51d245c.mp4",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/bac1a572-a8bb-4fa4-a71f-d85d3752cd4f.zip",
+  "joinReview": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/a0d94810-0f0e-48f6-9701-6ef9a05b7c35.jpg",
+  "joinAudio": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/af40a137-66a4-4899-83e7-7bd8026cfad2.mp3"
+}

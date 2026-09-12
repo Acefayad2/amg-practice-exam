@@ -1,0 +1,836 @@
+{
+  "as_of": "2026-09-13",
+  "verified_at_utc": "2026-09-12T21:52:40Z",
+  "method": "Final local media manifests after all second-review media repairs; 60 public video URLs checked against those manifests. Supplementary headings, text/definitions and examples counted; repeated transcripts excluded from study reading.",
+  "word_token_method": "Unicode word/digit sequences joined by internal apostrophes or hyphens; regex \\b[\\w]+(?:[’\\x27-][\\w]+)*\\b",
+  "totals": {
+    "lessons": 60,
+    "recorded_video_seconds": 16463.048,
+    "recorded_video_hms": "4:34:23.048",
+    "average_video_seconds": 274.3841333333333,
+    "shortest_lesson": 2,
+    "shortest_video_seconds": 198.763,
+    "longest_lesson": 28,
+    "longest_video_seconds": 297.46,
+    "required_questions": 512,
+    "supplementary_entries": 322,
+    "supplementary_words": 22319,
+    "question_and_feedback_words": 39325,
+    "diagnostic_questions": 32,
+    "timed_mock_questions": 270,
+    "full_mock_minutes": 315,
+    "first_exposure_item_encounters": 814,
+    "caption_cues": 3926
+  },
+  "lessons": [
+    {
+      "lesson": 1,
+      "seconds": 256.044,
+      "questions": 8,
+      "notes": 5,
+      "note_words": 203,
+      "narration_words": 555,
+      "question_stem_words": 150,
+      "media_manifest": "docs/course/part-01-manifest.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 2,
+      "seconds": 198.763,
+      "questions": 8,
+      "notes": 5,
+      "note_words": 196,
+      "narration_words": 442,
+      "question_stem_words": 126,
+      "media_manifest": "docs/course/part-02-manifest.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 3,
+      "seconds": 246.753,
+      "questions": 8,
+      "notes": 2,
+      "note_words": 123,
+      "narration_words": 493,
+      "question_stem_words": 99,
+      "media_manifest": "docs/course/full-course/media-03.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 4,
+      "seconds": 271.919,
+      "questions": 9,
+      "notes": 3,
+      "note_words": 207,
+      "narration_words": 501,
+      "question_stem_words": 128,
+      "media_manifest": "docs/course/full-course/media-04.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 5,
+      "seconds": 218.75,
+      "questions": 8,
+      "notes": 1,
+      "note_words": 70,
+      "narration_words": 501,
+      "question_stem_words": 118,
+      "media_manifest": "docs/course/full-course/media-05.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 6,
+      "seconds": 245.545,
+      "questions": 8,
+      "notes": 2,
+      "note_words": 125,
+      "narration_words": 519,
+      "question_stem_words": 107,
+      "media_manifest": "docs/course/full-course/media-06.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 7,
+      "seconds": 257.544,
+      "questions": 8,
+      "notes": 3,
+      "note_words": 189,
+      "narration_words": 518,
+      "question_stem_words": 122,
+      "media_manifest": "docs/course/full-course/media-07.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 8,
+      "seconds": 245.1,
+      "questions": 8,
+      "notes": 2,
+      "note_words": 139,
+      "narration_words": 495,
+      "question_stem_words": 106,
+      "media_manifest": "docs/course/full-course/media-08.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 9,
+      "seconds": 275.592,
+      "questions": 8,
+      "notes": 4,
+      "note_words": 282,
+      "narration_words": 538,
+      "question_stem_words": 122,
+      "media_manifest": "docs/course/full-course/media-09.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 10,
+      "seconds": 250.752,
+      "questions": 8,
+      "notes": 5,
+      "note_words": 364,
+      "narration_words": 505,
+      "question_stem_words": 142,
+      "media_manifest": "docs/course/full-course/media-10.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 11,
+      "seconds": 257.004,
+      "questions": 10,
+      "notes": 5,
+      "note_words": 388,
+      "narration_words": 540,
+      "question_stem_words": 182,
+      "media_manifest": "docs/course/full-course/media-11.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 12,
+      "seconds": 248.292,
+      "questions": 8,
+      "notes": 5,
+      "note_words": 347,
+      "narration_words": 518,
+      "question_stem_words": 144,
+      "media_manifest": "docs/course/full-course/media-12.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 13,
+      "seconds": 283.421,
+      "questions": 8,
+      "notes": 5,
+      "note_words": 340,
+      "narration_words": 530,
+      "question_stem_words": 141,
+      "media_manifest": "docs/course/full-course/media-13.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 14,
+      "seconds": 253.877,
+      "questions": 8,
+      "notes": 6,
+      "note_words": 449,
+      "narration_words": 518,
+      "question_stem_words": 126,
+      "media_manifest": "docs/course/full-course/media-14.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 15,
+      "seconds": 268.794,
+      "questions": 8,
+      "notes": 6,
+      "note_words": 440,
+      "narration_words": 527,
+      "question_stem_words": 139,
+      "media_manifest": "docs/course/full-course/media-15.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 16,
+      "seconds": 269.669,
+      "questions": 8,
+      "notes": 6,
+      "note_words": 426,
+      "narration_words": 528,
+      "question_stem_words": 165,
+      "media_manifest": "docs/course/full-course/media-16.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 17,
+      "seconds": 282.834,
+      "questions": 8,
+      "notes": 5,
+      "note_words": 376,
+      "narration_words": 550,
+      "question_stem_words": 175,
+      "media_manifest": "docs/course/full-course/media-17.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 18,
+      "seconds": 262.421,
+      "questions": 8,
+      "notes": 5,
+      "note_words": 383,
+      "narration_words": 543,
+      "question_stem_words": 158,
+      "media_manifest": "docs/course/full-course/media-18.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 19,
+      "seconds": 258.0,
+      "questions": 8,
+      "notes": 6,
+      "note_words": 466,
+      "narration_words": 551,
+      "question_stem_words": 154,
+      "media_manifest": "docs/course/full-course/media-19.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 20,
+      "seconds": 276.478,
+      "questions": 8,
+      "notes": 8,
+      "note_words": 647,
+      "narration_words": 553,
+      "question_stem_words": 119,
+      "media_manifest": "docs/course/full-course/media-20.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 21,
+      "seconds": 264.294,
+      "questions": 8,
+      "notes": 5,
+      "note_words": 315,
+      "narration_words": 548,
+      "question_stem_words": 154,
+      "media_manifest": "docs/course/full-course/media-21.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 22,
+      "seconds": 282.347,
+      "questions": 10,
+      "notes": 6,
+      "note_words": 370,
+      "narration_words": 568,
+      "question_stem_words": 165,
+      "media_manifest": "docs/course/full-course/media-22.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 23,
+      "seconds": 284.334,
+      "questions": 8,
+      "notes": 6,
+      "note_words": 384,
+      "narration_words": 578,
+      "question_stem_words": 118,
+      "media_manifest": "docs/course/full-course/media-23.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 24,
+      "seconds": 283.877,
+      "questions": 10,
+      "notes": 5,
+      "note_words": 322,
+      "narration_words": 588,
+      "question_stem_words": 166,
+      "media_manifest": "docs/course/full-course/media-24.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 25,
+      "seconds": 281.71,
+      "questions": 8,
+      "notes": 5,
+      "note_words": 305,
+      "narration_words": 566,
+      "question_stem_words": 163,
+      "media_manifest": "docs/course/full-course/media-25.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 26,
+      "seconds": 272.46,
+      "questions": 8,
+      "notes": 6,
+      "note_words": 370,
+      "narration_words": 573,
+      "question_stem_words": 123,
+      "media_manifest": "docs/course/full-course/media-26.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 27,
+      "seconds": 276.959,
+      "questions": 8,
+      "notes": 4,
+      "note_words": 233,
+      "narration_words": 585,
+      "question_stem_words": 154,
+      "media_manifest": "docs/course/full-course/media-27.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 28,
+      "seconds": 297.46,
+      "questions": 10,
+      "notes": 5,
+      "note_words": 331,
+      "narration_words": 590,
+      "question_stem_words": 205,
+      "media_manifest": "docs/course/full-course/media-28.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 29,
+      "seconds": 292.96,
+      "questions": 8,
+      "notes": 5,
+      "note_words": 299,
+      "narration_words": 594,
+      "question_stem_words": 115,
+      "media_manifest": "docs/course/full-course/media-29.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 30,
+      "seconds": 281.754,
+      "questions": 10,
+      "notes": 6,
+      "note_words": 422,
+      "narration_words": 614,
+      "question_stem_words": 199,
+      "media_manifest": "docs/course/full-course/media-30.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 31,
+      "seconds": 274.752,
+      "questions": 10,
+      "notes": 7,
+      "note_words": 475,
+      "narration_words": 567,
+      "question_stem_words": 173,
+      "media_manifest": "docs/course/full-course/media-31.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 32,
+      "seconds": 261.792,
+      "questions": 8,
+      "notes": 6,
+      "note_words": 433,
+      "narration_words": 581,
+      "question_stem_words": 140,
+      "media_manifest": "docs/course/full-course/media-32.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 33,
+      "seconds": 274.752,
+      "questions": 10,
+      "notes": 6,
+      "note_words": 541,
+      "narration_words": 587,
+      "question_stem_words": 206,
+      "media_manifest": "docs/course/full-course/media-33.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 34,
+      "seconds": 272.544,
+      "questions": 8,
+      "notes": 6,
+      "note_words": 459,
+      "narration_words": 583,
+      "question_stem_words": 151,
+      "media_manifest": "docs/course/full-course/media-34.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 35,
+      "seconds": 291.792,
+      "questions": 9,
+      "notes": 8,
+      "note_words": 730,
+      "narration_words": 606,
+      "question_stem_words": 186,
+      "media_manifest": "docs/course/full-course/media-35.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 36,
+      "seconds": 263.004,
+      "questions": 9,
+      "notes": 7,
+      "note_words": 528,
+      "narration_words": 605,
+      "question_stem_words": 192,
+      "media_manifest": "docs/course/full-course/media-36.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 37,
+      "seconds": 261.187,
+      "questions": 8,
+      "notes": 6,
+      "note_words": 436,
+      "narration_words": 596,
+      "question_stem_words": 176,
+      "media_manifest": "docs/course/full-course/media-37.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 38,
+      "seconds": 282.209,
+      "questions": 9,
+      "notes": 8,
+      "note_words": 658,
+      "narration_words": 602,
+      "question_stem_words": 148,
+      "media_manifest": "docs/course/full-course/media-38.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 39,
+      "seconds": 290.544,
+      "questions": 9,
+      "notes": 5,
+      "note_words": 364,
+      "narration_words": 618,
+      "question_stem_words": 146,
+      "media_manifest": "docs/course/full-course/media-39.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 40,
+      "seconds": 291.671,
+      "questions": 8,
+      "notes": 6,
+      "note_words": 371,
+      "narration_words": 650,
+      "question_stem_words": 157,
+      "media_manifest": "docs/course/full-course/media-40.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 41,
+      "seconds": 294.419,
+      "questions": 9,
+      "notes": 7,
+      "note_words": 481,
+      "narration_words": 633,
+      "question_stem_words": 150,
+      "media_manifest": "docs/course/full-course/media-41.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 42,
+      "seconds": 276.792,
+      "questions": 8,
+      "notes": 6,
+      "note_words": 381,
+      "narration_words": 626,
+      "question_stem_words": 173,
+      "media_manifest": "docs/course/full-course/media-42.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 43,
+      "seconds": 272.585,
+      "questions": 8,
+      "notes": 5,
+      "note_words": 322,
+      "narration_words": 631,
+      "question_stem_words": 150,
+      "media_manifest": "docs/course/full-course/media-43.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 44,
+      "seconds": 293.879,
+      "questions": 8,
+      "notes": 6,
+      "note_words": 335,
+      "narration_words": 628,
+      "question_stem_words": 145,
+      "media_manifest": "docs/course/full-course/media-44.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 45,
+      "seconds": 292.044,
+      "questions": 9,
+      "notes": 7,
+      "note_words": 412,
+      "narration_words": 627,
+      "question_stem_words": 153,
+      "media_manifest": "docs/course/full-course/media-45.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 46,
+      "seconds": 292.625,
+      "questions": 9,
+      "notes": 6,
+      "note_words": 348,
+      "narration_words": 639,
+      "question_stem_words": 169,
+      "media_manifest": "docs/course/full-course/media-46.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 47,
+      "seconds": 281.837,
+      "questions": 9,
+      "notes": 7,
+      "note_words": 453,
+      "narration_words": 640,
+      "question_stem_words": 175,
+      "media_manifest": "docs/course/full-course/media-47.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 48,
+      "seconds": 269.879,
+      "questions": 12,
+      "notes": 13,
+      "note_words": 954,
+      "narration_words": 626,
+      "question_stem_words": 216,
+      "media_manifest": "docs/course/full-course/media-48.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 49,
+      "seconds": 285.587,
+      "questions": 8,
+      "notes": 8,
+      "note_words": 599,
+      "narration_words": 648,
+      "question_stem_words": 194,
+      "media_manifest": "docs/course/full-course/media-49.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 50,
+      "seconds": 280.379,
+      "questions": 9,
+      "notes": 8,
+      "note_words": 602,
+      "narration_words": 657,
+      "question_stem_words": 187,
+      "media_manifest": "docs/course/full-course/media-50.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 51,
+      "seconds": 290.796,
+      "questions": 8,
+      "notes": 3,
+      "note_words": 172,
+      "narration_words": 635,
+      "question_stem_words": 178,
+      "media_manifest": "docs/course/full-course/media-51.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 52,
+      "seconds": 289.002,
+      "questions": 9,
+      "notes": 4,
+      "note_words": 323,
+      "narration_words": 648,
+      "question_stem_words": 183,
+      "media_manifest": "docs/course/full-course/media-52.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 53,
+      "seconds": 288.629,
+      "questions": 9,
+      "notes": 6,
+      "note_words": 514,
+      "narration_words": 654,
+      "question_stem_words": 197,
+      "media_manifest": "docs/course/full-course/media-53.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 54,
+      "seconds": 290.25,
+      "questions": 9,
+      "notes": 5,
+      "note_words": 368,
+      "narration_words": 641,
+      "question_stem_words": 190,
+      "media_manifest": "docs/course/full-course/media-54.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 55,
+      "seconds": 289.462,
+      "questions": 8,
+      "notes": 4,
+      "note_words": 289,
+      "narration_words": 646,
+      "question_stem_words": 152,
+      "media_manifest": "docs/course/full-course/media-55.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 56,
+      "seconds": 290.417,
+      "questions": 8,
+      "notes": 5,
+      "note_words": 317,
+      "narration_words": 659,
+      "question_stem_words": 148,
+      "media_manifest": "docs/course/full-course/media-56.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 57,
+      "seconds": 292.709,
+      "questions": 9,
+      "notes": 4,
+      "note_words": 268,
+      "narration_words": 670,
+      "question_stem_words": 153,
+      "media_manifest": "docs/course/full-course/media-57.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 58,
+      "seconds": 293.417,
+      "questions": 8,
+      "notes": 5,
+      "note_words": 311,
+      "narration_words": 677,
+      "question_stem_words": 140,
+      "media_manifest": "docs/course/full-course/media-58.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 59,
+      "seconds": 296.71,
+      "questions": 8,
+      "notes": 3,
+      "note_words": 191,
+      "narration_words": 647,
+      "question_stem_words": 148,
+      "media_manifest": "docs/course/full-course/media-59.json",
+      "public_video_matches_manifest": true
+    },
+    {
+      "lesson": 60,
+      "seconds": 291.676,
+      "questions": 8,
+      "notes": 3,
+      "note_words": 173,
+      "narration_words": 658,
+      "question_stem_words": 162,
+      "media_manifest": "docs/course/full-course/media-60.json",
+      "public_video_matches_manifest": true
+    }
+  ],
+  "question_word_counts": {
+    "stems": 9323,
+    "options": 13552,
+    "explanations": 16450
+  },
+  "assessment_forms": [
+    {
+      "id": "D",
+      "questions": 32,
+      "minutes": 0
+    },
+    {
+      "id": "A",
+      "questions": 90,
+      "minutes": 105
+    },
+    {
+      "id": "B",
+      "questions": 90,
+      "minutes": 105
+    },
+    {
+      "id": "C",
+      "questions": 90,
+      "minutes": 105
+    }
+  ],
+  "time_scenarios": {
+    "low": {
+      "assumptions": {
+        "playback_extra": 0.1,
+        "notes_wpm": 250,
+        "lesson_first_and_retry_seconds": 45,
+        "miss_or_uncertain_fraction": 0.1,
+        "lesson_immediate_retries": 52,
+        "assessment_items_reviewed": 31,
+        "review_queue_items": 83,
+        "delayed_question_seconds": 30,
+        "assessment_explanation_minutes": 2,
+        "navigation_seconds_per_lesson": 15
+      },
+      "hours": {
+        "recorded_video": 4.573068888888889,
+        "pause_replay": 0.45730688888888893,
+        "supplementary_notes": 1.4879333333333333,
+        "lesson_questions": 6.4,
+        "lesson_immediate_retry": 0.65,
+        "lesson_navigation": 0.25,
+        "diagnostic": 0.4,
+        "three_full_mocks": 5.25,
+        "assessment_explanation_review": 1.0333333333333334,
+        "three_delayed_reviews": 2.075
+      },
+      "lesson_course_hours": 13.81830911111111,
+      "full_path_hours": 22.576642444444445,
+      "assessment_additional_hours": 6.683333333333334,
+      "course_and_assessments_hours": 20.501642444444443,
+      "retention_additional_hours": 2.075,
+      "rounded_hours": {
+        "lesson_course_hours": 13.82,
+        "assessment_additional_hours": 6.68,
+        "course_and_assessments_hours": 20.5,
+        "retention_additional_hours": 2.08,
+        "full_path_hours": 22.58
+      }
+    },
+    "typical": {
+      "assumptions": {
+        "playback_extra": 0.25,
+        "notes_wpm": 175,
+        "lesson_first_and_retry_seconds": 60,
+        "miss_or_uncertain_fraction": 0.2,
+        "lesson_immediate_retries": 103,
+        "assessment_items_reviewed": 61,
+        "review_queue_items": 164,
+        "delayed_question_seconds": 45,
+        "assessment_explanation_minutes": 3,
+        "navigation_seconds_per_lesson": 30
+      },
+      "hours": {
+        "recorded_video": 4.573068888888889,
+        "pause_replay": 1.1432672222222222,
+        "supplementary_notes": 2.1256190476190477,
+        "lesson_questions": 8.533333333333333,
+        "lesson_immediate_retry": 1.7166666666666666,
+        "lesson_navigation": 0.5,
+        "diagnostic": 0.5333333333333333,
+        "three_full_mocks": 5.25,
+        "assessment_explanation_review": 3.05,
+        "three_delayed_reviews": 6.15
+      },
+      "lesson_course_hours": 18.59195515873016,
+      "full_path_hours": 33.57528849206349,
+      "assessment_additional_hours": 8.833333333333332,
+      "course_and_assessments_hours": 27.42528849206349,
+      "retention_additional_hours": 6.15,
+      "rounded_hours": {
+        "lesson_course_hours": 18.59,
+        "assessment_additional_hours": 8.83,
+        "course_and_assessments_hours": 27.43,
+        "retention_additional_hours": 6.15,
+        "full_path_hours": 33.58
+      }
+    },
+    "high": {
+      "assumptions": {
+        "playback_extra": 0.5,
+        "notes_wpm": 125,
+        "lesson_first_and_retry_seconds": 90,
+        "miss_or_uncertain_fraction": 0.35,
+        "lesson_immediate_retries": 180,
+        "assessment_items_reviewed": 106,
+        "review_queue_items": 286,
+        "delayed_question_seconds": 75,
+        "assessment_explanation_minutes": 4,
+        "navigation_seconds_per_lesson": 60
+      },
+      "hours": {
+        "recorded_video": 4.573068888888889,
+        "pause_replay": 2.2865344444444444,
+        "supplementary_notes": 2.9758666666666667,
+        "lesson_questions": 12.8,
+        "lesson_immediate_retry": 4.5,
+        "lesson_navigation": 1.0,
+        "diagnostic": 0.8,
+        "three_full_mocks": 5.25,
+        "assessment_explanation_review": 7.066666666666666,
+        "three_delayed_reviews": 17.875
+      },
+      "lesson_course_hours": 28.13547,
+      "full_path_hours": 59.12713666666667,
+      "assessment_additional_hours": 13.116666666666667,
+      "course_and_assessments_hours": 41.25213666666667,
+      "retention_additional_hours": 17.875,
+      "rounded_hours": {
+        "lesson_course_hours": 28.14,
+        "assessment_additional_hours": 13.12,
+        "course_and_assessments_hours": 41.25,
+        "retention_additional_hours": 17.88,
+        "full_path_hours": 59.13
+      }
+    }
+  },
+  "limits": [
+    "Planning scenarios, not empirical pilot averages or guaranteed exam outcomes.",
+    "All videos at1x; ordinary first answers/retries, diagnostic and full three105-minute mocks modeled separately from three later successful retrieval reviews.",
+    "High support includes substantial remediation and is neither mandatory course length nor a maximum.",
+    "One queued item can take11calendar days from first miss through three successful scheduled reviews."
+  ]
+}

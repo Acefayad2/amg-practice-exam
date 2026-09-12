@@ -1,0 +1,1254 @@
+[
+  {
+    "number": 8,
+    "date": "2026-09-13",
+    "originalVideo": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/e823a9af-b48d-48a0-b995-4d26446c4062.mp4",
+    "originalEditableArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/fb7a43ed-61d4-4129-9e09-a5a224468d6f.zip",
+    "originalDuration": 246.917,
+    "cut": [
+      114.25,
+      116.08333333333333
+    ],
+    "removedSeconds": 1.8333333333333286,
+    "duration": 245.1,
+    "fullDecodeExit": 0,
+    "blackIntervals": [],
+    "silenceIntervals": [
+      {
+        "start": 27.798016999999998,
+        "end": 28.6286,
+        "duration": 0.830583
+      },
+      {
+        "start": 33.788325,
+        "end": 34.7757,
+        "duration": 0.987375
+      },
+      {
+        "start": 42.405007999999995,
+        "end": 43.2613,
+        "duration": 0.856292
+      },
+      {
+        "start": 69.130933,
+        "end": 69.9351,
+        "duration": 0.804167
+      },
+      {
+        "start": 76.672438,
+        "end": 77.6315,
+        "duration": 0.959062
+      },
+      {
+        "start": 80.881825,
+        "end": 81.7557,
+        "duration": 0.873875
+      },
+      {
+        "start": 113.943083,
+        "end": 114.856,
+        "duration": 0.912917
+      },
+      {
+        "start": 117.607417,
+        "end": 118.447,
+        "duration": 0.839583
+      },
+      {
+        "start": 160.39969000000002,
+        "end": 161.461,
+        "duration": 1.06131
+      },
+      {
+        "start": 167.271458,
+        "end": 168.077,
+        "duration": 0.805542
+      },
+      {
+        "start": 173.60596,
+        "end": 174.667,
+        "duration": 1.06104
+      },
+      {
+        "start": 200.17866700000002,
+        "end": 201.127,
+        "duration": 0.948333
+      },
+      {
+        "start": 207.156188,
+        "end": 208.023,
+        "duration": 0.866812
+      },
+      {
+        "start": 214.671625,
+        "end": 215.526,
+        "duration": 0.854375
+      },
+      {
+        "start": 223.870479,
+        "end": 224.712,
+        "duration": 0.841521
+      },
+      {
+        "start": 233.251271,
+        "end": 234.238,
+        "duration": 0.986729
+      },
+      {
+        "start": 243.64133,
+        "end": 245.12,
+        "duration": 1.47867
+      }
+    ],
+    "joinTranscript": [
+      {
+        "text": " federal consent. Nor does this mean every conviction has exactly the same",
+        "words": [
+          {
+            "word": " federal",
+            "start": 107.25,
+            "end": 107.63
+          },
+          {
+            "word": " consent.",
+            "start": 107.63,
+            "end": 108.25
+          },
+          {
+            "word": " Nor",
+            "start": 109.23,
+            "end": 109.27
+          },
+          {
+            "word": " does",
+            "start": 109.27,
+            "end": 109.49
+          },
+          {
+            "word": " this",
+            "start": 109.49,
+            "end": 109.65
+          },
+          {
+            "word": " mean",
+            "start": 109.65,
+            "end": 109.87
+          },
+          {
+            "word": " every",
+            "start": 109.87,
+            "end": 110.21
+          },
+          {
+            "word": " conviction",
+            "start": 110.21,
+            "end": 110.59
+          },
+          {
+            "word": " has",
+            "start": 110.59,
+            "end": 110.89
+          },
+          {
+            "word": " exactly",
+            "start": 110.89,
+            "end": 111.31
+          },
+          {
+            "word": " the",
+            "start": 111.31,
+            "end": 111.57
+          },
+          {
+            "word": " same",
+            "start": 111.57,
+            "end": 111.85
+          }
+        ]
+      },
+      {
+        "text": " consequence. State licensing standard and federal restrictions must both be checked.",
+        "words": [
+          {
+            "word": " consequence.",
+            "start": 111.85,
+            "end": 112.39
+          },
+          {
+            "word": " State",
+            "start": 112.77,
+            "end": 112.83
+          },
+          {
+            "word": " licensing",
+            "start": 112.83,
+            "end": 113.29
+          },
+          {
+            "word": " standard",
+            "start": 113.29,
+            "end": 113.87
+          },
+          {
+            "word": " and",
+            "start": 113.87,
+            "end": 114.99
+          },
+          {
+            "word": " federal",
+            "start": 114.99,
+            "end": 115.31
+          },
+          {
+            "word": " restrictions",
+            "start": 115.31,
+            "end": 115.93
+          },
+          {
+            "word": " must",
+            "start": 115.93,
+            "end": 116.33
+          },
+          {
+            "word": " both",
+            "start": 116.33,
+            "end": 116.75
+          },
+          {
+            "word": " be",
+            "start": 116.75,
+            "end": 117.09
+          },
+          {
+            "word": " checked.",
+            "start": 117.09,
+            "end": 117.51
+          }
+        ]
+      },
+      {
+        "text": " Variable life and variable annuities combine insurance features with",
+        "words": [
+          {
+            "word": " Variable",
+            "start": 118.55,
+            "end": 118.81
+          },
+          {
+            "word": " life",
+            "start": 118.81,
+            "end": 119.23
+          },
+          {
+            "word": " and",
+            "start": 119.23,
+            "end": 119.49
+          },
+          {
+            "word": " variable",
+            "start": 119.49,
+            "end": 119.83
+          },
+          {
+            "word": " annuities",
+            "start": 119.83,
+            "end": 120.39
+          },
+          {
+            "word": " combine",
+            "start": 120.39,
+            "end": 120.81
+          },
+          {
+            "word": " insurance",
+            "start": 120.81,
+            "end": 121.23
+          },
+          {
+            "word": " features",
+            "start": 121.23,
+            "end": 121.69
+          },
+          {
+            "word": " with",
+            "start": 121.69,
+            "end": 122.01
+          }
+        ]
+      }
+    ],
+    "sampleTimes": [
+      113.6,
+      114.3,
+      114.9
+    ],
+    "technical": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 1920,
+          "height": 1080,
+          "coded_width": 1920,
+          "coded_height": 1080,
+          "closed_captions": 0,
+          "film_grain": 0,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 40,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "time_base": "1/12288",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 3011584,
+          "duration": "245.083333",
+          "bit_rate": "87054",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "5882",
+          "extradata_size": 50,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0
+          },
+          "tags": {
+            "language": "und",
+            "handler_name": "VideoHandler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "Lavc59.37.100 libx264"
+          }
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_long_name": "AAC (Advanced Audio Coding)",
+          "profile": "LC",
+          "codec_type": "audio",
+          "codec_tag_string": "mp4a",
+          "codec_tag": "0x6134706d",
+          "sample_fmt": "fltp",
+          "sample_rate": "48000",
+          "channels": 1,
+          "channel_layout": "mono",
+          "bits_per_sample": 0,
+          "id": "0x2",
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "time_base": "1/48000",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 11764800,
+          "duration": "245.100000",
+          "bit_rate": "183444",
+          "nb_frames": "11491",
+          "extradata_size": 5,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0
+          },
+          "tags": {
+            "language": "und",
+            "handler_name": "SoundHandler",
+            "vendor_id": "[0][0][0][0]"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/home/user/amg-pause-repairs/08/final.mp4",
+        "nb_streams": 2,
+        "nb_programs": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "245.100000",
+        "size": "8458753",
+        "bit_rate": "276091",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2avc1mp41",
+          "encoder": "Lavf59.27.100"
+        }
+      }
+    },
+    "vtt": "WEBVTT\n\n1\n00:00:00.000 --> 00:00:03.440\nAisha helps an applicant considering variable life insurance.\n\n2\n00:00:04.160 --> 00:00:08.820\nThe file involves state insurance licensing, possible consumer reports,\n\n3\n00:00:09.300 --> 00:00:12.860\nsecurities requirements and company procedures.\n\n4\n00:00:13.700 --> 00:00:16.400\nNo single organization does every job.\n\n5\n00:00:17.240 --> 00:00:20.860\nMaryland's Insurance Administration regulates insurance in the state.\n\n6\n00:00:21.640 --> 00:00:26.360\nFederal law can separately govern consumer reports, specified fraud and\n\n7\n00:00:26.360 --> 00:00:31.360\nsecurities activities. An insurer's procedure can add practical steps,\n\n8\n00:00:32.180 --> 00:00:33.720\nbut it cannot replace the law.\n\n9\n00:00:34.600 --> 00:00:39.240\nBegin each question by identifying the transaction and the organization or\n\n10\n00:00:39.240 --> 00:00:42.420\nrule that actually has responsibility for it.\n\n11\n00:00:43.026 --> 00:00:47.146\nThe Fair Credit Reporting Act governs consumer reports used for purposes\n\n12\n00:00:47.146 --> 00:00:49.506\nsuch as insurance underwriting.\n\n13\n00:00:50.126 --> 00:00:52.366\nA report must have a permitted purpose.\n\n14\n00:00:53.186 --> 00:00:56.366\nIf an insurer takes an adverse action based in whole or\n\n15\n00:00:56.366 --> 00:01:01.646\npart on a consumer report, required notice identifies the reporting agency,\n\n16\n00:01:01.646 --> 00:01:06.266\nexplains that the agency did not make the decision, and describes\n\n17\n00:01:06.266 --> 00:01:08.806\ndispute and free-report rights.\n\n18\n00:01:08.806 --> 00:01:14.146\nAdverse action can include denial or less favorable terms,\n\n19\n00:01:15.106 --> 00:01:16.386\nnot just a total rejection.\n\n20\n00:01:17.486 --> 00:01:23.046\nInvestigative reports based on personal interviews have additional disclosure\n\n21\n00:01:23.046 --> 00:01:28.012\nrequirements. Federal law addresses fraud and false statements in insurance\n\n22\n00:01:28.012 --> 00:01:32.892\naffecting interstate commerce. A person with a felony involving dishonesty or\n\n23\n00:01:32.892 --> 00:01:36.332\nbreach of trust, or a conviction for a specified federal insurance\n\n24\n00:01:36.332 --> 00:01:40.952\noffense, may be prohibited from willfully engaging in that business without\n\n25\n00:01:40.952 --> 00:01:43.972\nwritten consent from the appropriate insurance regulator.\n\n26\n00:01:44.372 --> 00:01:47.632\nA producer license alone is not a substitute for required federal\n\n27\n00:01:47.632 --> 00:01:51.752\nconsent. Nor does this mean every conviction has exactly the same\n\n28\n00:01:51.752 --> 00:01:54.959\nconsequence. State licensing standards and\n\n29\n00:01:54.959 --> 00:01:57.459\nfederal restrictions must both be checked.\n\n30\n00:01:58.317 --> 00:02:01.917\nVariable life and variable annuities combine insurance features with\n\n31\n00:02:01.917 --> 00:02:06.357\ninvestment exposure. State insurance authority remains necessary, and\n\n32\n00:02:06.357 --> 00:02:09.317\nsecurities registration and sales requirements also apply.\n\n33\n00:02:09.797 --> 00:02:12.397\nThe Securities and Exchange Commission oversees federal securities\n\n34\n00:02:12.397 --> 00:02:16.517\nregulation, while FINRA regulates its member broker-dealers and associated\n\n35\n00:02:16.517 --> 00:02:21.657\npersons. A prospectus explains investment risks, fees and other contract\n\n36\n00:02:21.657 --> 00:02:26.157\nfeatures. Registration is not a government endorsement or a guarantee of\n\n37\n00:02:26.157 --> 00:02:30.437\nreturns. A life-only license does not by itself grant every permission\n\n38\n00:02:30.437 --> 00:02:32.197\nneeded to sell variable products.\n\n39\n00:02:32.823 --> 00:02:36.783\nThe National Association of Insurance Commissioners supports state insurance\n\n40\n00:02:36.783 --> 00:02:40.103\nregulators with coordination, data and model standards.\n\n41\n00:02:41.043 --> 00:02:45.643\nA model law does not automatically become Maryland law simply because\n\n42\n00:02:45.643 --> 00:02:47.243\nthe association adopts it.\n\n43\n00:02:47.943 --> 00:02:52.283\nThe Interstate Insurance Product Regulation Commission administers the\n\n44\n00:02:52.283 --> 00:02:57.543\nInsurance Compact. It provides a coordinated filing and review process\n\n45\n00:02:57.543 --> 00:03:01.883\nfor covered products using uniform standards adopted under the compact.\n\n46\n00:03:02.473 --> 00:03:06.543\nThat product-review role is different from issuing an individual producer\n\n47\n00:03:06.543 --> 00:03:10.123\nlicense or resolving every consumer complaint.\n\n48\n00:03:10.683 --> 00:03:14.683\nKeep product standards separate from a producer's personal authority.\n\n49\n00:03:15.609 --> 00:03:20.109\nThe National Council of Insurance Legislators is commonly called N-coil.\n\n50\n00:03:20.949 --> 00:03:25.249\nThis organization brings state legislators together on insurance issues and\n\n51\n00:03:25.249 --> 00:03:30.169\ndevelops model legislation. Industry and producer associations provide\n\n52\n00:03:30.169 --> 00:03:34.429\neducation, representation and professional resources.\n\n53\n00:03:35.489 --> 00:03:39.149\nThey do not replace the regulator or issue a Maryland producer\n\n54\n00:03:39.149 --> 00:03:44.069\nlicense. Route a licensing question to the Insurance Administration, a\n\n55\n00:03:44.069 --> 00:03:49.169\ncompact product-standard question to the Compact, and\n\n56\n00:03:49.169 --> 00:03:52.929\na model-law discussion to the relevant organization.\n\n57\n00:03:54.069 --> 00:03:57.489\nOn the exam, a familiar acronym is not enough.\n\n58\n00:03:58.309 --> 00:04:03.529\nMatch the organization's actual function\nto the facts before selecting an answer.\n",
+    "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/49d3bcb7-b302-48e4-9768-35ca842d3d2f.mp4",
+    "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/0a613d02-a227-4807-9896-0088b4e3bb55.zip",
+    "joinReview": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/cd17f1b7-1ab6-471d-9f4e-b6dd524d66b4.jpg",
+    "method": "Removed only the middle of a confirmed silent interval, retaining speech margins; identical cut applied to picture and sound and later caption times shifted. No speech regeneration."
+  },
+  {
+    "number": 9,
+    "date": "2026-09-13",
+    "originalVideo": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/6e92d66b-6eda-4d71-abe9-48ce60aa5306.mp4",
+    "originalEditableArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/b8b734df-6825-4d05-a062-dfe1b5d5382b.zip",
+    "originalDuration": 279.419,
+    "cut": [
+      196.125,
+      199.95833333333334
+    ],
+    "removedSeconds": 3.833333333333343,
+    "duration": 275.592,
+    "fullDecodeExit": 0,
+    "blackIntervals": [],
+    "silenceIntervals": [
+      {
+        "start": 9.789154,
+        "end": 10.7378,
+        "duration": 0.948646
+      },
+      {
+        "start": 18.559483,
+        "end": 19.3899,
+        "duration": 0.830417
+      },
+      {
+        "start": 28.51614,
+        "end": 29.5166,
+        "duration": 1.00046
+      },
+      {
+        "start": 89.367479,
+        "end": 90.2075,
+        "duration": 0.840021
+      },
+      {
+        "start": 116.59075,
+        "end": 117.424,
+        "duration": 0.83325
+      },
+      {
+        "start": 122.63725,
+        "end": 123.541,
+        "duration": 0.90375
+      },
+      {
+        "start": 142.756146,
+        "end": 143.586,
+        "duration": 0.829854
+      },
+      {
+        "start": 149.790562,
+        "end": 150.706,
+        "duration": 0.915438
+      },
+      {
+        "start": 165.87043799999998,
+        "end": 166.825,
+        "duration": 0.954562
+      },
+      {
+        "start": 170.830229,
+        "end": 171.758,
+        "duration": 0.927771
+      },
+      {
+        "start": 174.10065,
+        "end": 175.586,
+        "duration": 1.48535
+      },
+      {
+        "start": 180.985083,
+        "end": 181.88,
+        "duration": 0.894917
+      },
+      {
+        "start": 190.55971,
+        "end": 191.56,
+        "duration": 1.00029
+      },
+      {
+        "start": 195.803021,
+        "end": 196.747,
+        "duration": 0.943979
+      },
+      {
+        "start": 203.315625,
+        "end": 204.246,
+        "duration": 0.930375
+      },
+      {
+        "start": 209.34354000000002,
+        "end": 210.698,
+        "duration": 1.35446
+      },
+      {
+        "start": 212.263042,
+        "end": 213.138,
+        "duration": 0.874958
+      },
+      {
+        "start": 218.339563,
+        "end": 219.227,
+        "duration": 0.887437
+      },
+      {
+        "start": 233.095563,
+        "end": 233.989,
+        "duration": 0.893437
+      },
+      {
+        "start": 248.988042,
+        "end": 249.847,
+        "duration": 0.858958
+      },
+      {
+        "start": 261.030542,
+        "end": 261.928,
+        "duration": 0.897458
+      },
+      {
+        "start": 268.13547900000003,
+        "end": 269.055,
+        "duration": 0.919521
+      },
+      {
+        "start": 274.35467,
+        "end": 275.605,
+        "duration": 1.25033
+      }
+    ],
+    "joinTranscript": [
+      {
+        "text": " a licensing exception. Changing that person's job to soliciting",
+        "words": [
+          {
+            "word": " a",
+            "start": 189.125,
+            "end": 189.345
+          },
+          {
+            "word": " licensing",
+            "start": 189.345,
+            "end": 189.745
+          },
+          {
+            "word": " exception.",
+            "start": 189.745,
+            "end": 190.365
+          },
+          {
+            "word": " Changing",
+            "start": 191.625,
+            "end": 191.805
+          },
+          {
+            "word": " that",
+            "start": 191.805,
+            "end": 192.105
+          },
+          {
+            "word": " person's",
+            "start": 192.105,
+            "end": 192.545
+          },
+          {
+            "word": " job",
+            "start": 192.545,
+            "end": 192.725
+          },
+          {
+            "word": " to",
+            "start": 192.725,
+            "end": 192.925
+          },
+          {
+            "word": " soliciting",
+            "start": 192.925,
+            "end": 193.385
+          }
+        ]
+      },
+      {
+        "text": " applicants changes the analysis. Another exception can apply to an employer",
+        "words": [
+          {
+            "word": " applicants",
+            "start": 193.385,
+            "end": 193.965
+          },
+          {
+            "word": " changes",
+            "start": 193.965,
+            "end": 194.785
+          },
+          {
+            "word": " the",
+            "start": 194.785,
+            "end": 195.065
+          },
+          {
+            "word": " analysis.",
+            "start": 195.065,
+            "end": 195.565
+          },
+          {
+            "word": " Another",
+            "start": 196.785,
+            "end": 197.005
+          },
+          {
+            "word": " exception",
+            "start": 197.005,
+            "end": 197.545
+          },
+          {
+            "word": " can",
+            "start": 197.545,
+            "end": 197.845
+          },
+          {
+            "word": " apply",
+            "start": 197.845,
+            "end": 198.185
+          },
+          {
+            "word": " to",
+            "start": 198.185,
+            "end": 198.385
+          },
+          {
+            "word": " an",
+            "start": 198.385,
+            "end": 198.505
+          },
+          {
+            "word": " employer",
+            "start": 198.505,
+            "end": 198.965
+          }
+        ]
+      },
+      {
+        "text": " administering its own employee benefits without insurer compensation.",
+        "words": [
+          {
+            "word": " administering",
+            "start": 198.965,
+            "end": 199.565
+          },
+          {
+            "word": " its",
+            "start": 199.565,
+            "end": 199.945
+          },
+          {
+            "word": " own",
+            "start": 199.945,
+            "end": 200.125
+          },
+          {
+            "word": " employee",
+            "start": 200.125,
+            "end": 200.585
+          },
+          {
+            "word": " benefits",
+            "start": 200.585,
+            "end": 201.145
+          },
+          {
+            "word": " without",
+            "start": 201.145,
+            "end": 201.865
+          },
+          {
+            "word": " insurer",
+            "start": 201.865,
+            "end": 202.305
+          },
+          {
+            "word": " compensation.",
+            "start": 202.305,
+            "end": 202.945
+          }
+        ]
+      }
+    ],
+    "sampleTimes": [
+      195.475,
+      196.175,
+      196.775
+    ],
+    "technical": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 1920,
+          "height": 1080,
+          "coded_width": 1920,
+          "coded_height": 1080,
+          "closed_captions": 0,
+          "film_grain": 0,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 40,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "time_base": "1/12288",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 3386368,
+          "duration": "275.583333",
+          "bit_rate": "82653",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "6614",
+          "extradata_size": 50,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0
+          },
+          "tags": {
+            "language": "und",
+            "handler_name": "VideoHandler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "Lavc59.37.100 libx264"
+          }
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_long_name": "AAC (Advanced Audio Coding)",
+          "profile": "LC",
+          "codec_type": "audio",
+          "codec_tag_string": "mp4a",
+          "codec_tag": "0x6134706d",
+          "sample_fmt": "fltp",
+          "sample_rate": "48000",
+          "channels": 1,
+          "channel_layout": "mono",
+          "bits_per_sample": 0,
+          "id": "0x2",
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "time_base": "1/48000",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 13228416,
+          "duration": "275.592000",
+          "bit_rate": "180281",
+          "nb_frames": "12920",
+          "extradata_size": 5,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0
+          },
+          "tags": {
+            "language": "und",
+            "handler_name": "SoundHandler",
+            "vendor_id": "[0][0][0][0]"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/home/user/amg-pause-repairs/09/final.mp4",
+        "nb_streams": 2,
+        "nb_programs": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "275.592000",
+        "size": "9280254",
+        "bit_rate": "269391",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2avc1mp41",
+          "encoder": "Lavf59.27.100"
+        }
+      }
+    },
+    "vtt": "WEBVTT\n\n1\n00:00:00.000 --> 00:00:03.980\nElena joins an insurance agency and is eager to help clients.\n\n2\n00:00:04.940 --> 00:00:08.660\nThe agency's license does not automatically authorize her to sell insurance\n\n3\n00:00:08.660 --> 00:00:13.900\npersonally. Maryland generally requires the appropriate producer license\n\n4\n00:00:13.900 --> 00:00:18.240\nbefore a person sells, solicits or negotiates insurance.\n\n5\n00:00:19.240 --> 00:00:21.880\nThe license identifies permitted lines of authority.\n\n6\n00:00:22.880 --> 00:00:27.580\nActing for an insurer also raises appointment requirements, which we examine\n\n7\n00:00:27.580 --> 00:00:33.320\nseparately. Licensing protects consumers by setting qualifications and\n\n8\n00:00:33.320 --> 00:00:38.500\naccountability. Passing a course or an exam is an important step,\n\n9\n00:00:38.920 --> 00:00:41.800\nbut neither is itself permission to start selling.\n\n10\n00:00:42.402 --> 00:00:46.442\nA regular resident individual applicant for a Maryland life producer license\n\n11\n00:00:46.442 --> 00:00:50.602\nmust be at least eighteen, have the required character and trustworthiness,\n\n12\n00:00:51.422 --> 00:00:55.362\nsatisfy the applicable examination requirement, submit a complete truthful\n\n13\n00:00:55.362 --> 00:00:57.622\napplication and pay the required fee.\n\n14\n00:00:58.342 --> 00:01:00.022\nAdditional documentation may be requested.\n\n15\n00:01:00.682 --> 00:01:04.902\nMaryland removed its mandatory prelicensing education requirement effective\n\n16\n00:01:04.902 --> 00:01:06.082\nOctober first, twenty twenty-four.\n\n17\n00:01:07.802 --> 00:01:11.422\nThat did not remove the licensing exam or continuing education for\n\n18\n00:01:11.422 --> 00:01:13.742\nrenewal. Preparation still matters.\n\n19\n00:01:14.282 --> 00:01:18.002\nIf an applicant fails an exam, Maryland law requires at least\n\n20\n00:01:18.002 --> 00:01:20.582\nfour days before taking another examination.\n\n21\n00:01:21.492 --> 00:01:26.152\nA producer's home state is connected to the person's principal residence\n\n22\n00:01:26.152 --> 00:01:29.072\nor business and resident license.\n\n23\n00:01:30.072 --> 00:01:35.392\nA nonresident Maryland applicant ordinarily relies on a current resident\n\n24\n00:01:35.392 --> 00:01:40.512\nlicense in good standing, the required application and fee, and\n\n25\n00:01:40.512 --> 00:01:45.672\nreciprocity. A home-state license is not a nationwide permission\n\n26\n00:01:45.672 --> 00:01:51.632\nslip. A business entity must obtain its own required authority and\n\n27\n00:01:51.632 --> 00:01:55.552\ndesignate a licensed producer as its principal contact with the\n\n28\n00:01:55.552 --> 00:02:01.072\nAdministration. That contact maintains required information and\n\n29\n00:02:01.072 --> 00:02:06.692\nhelps with investigations. An agency cannot avoid these obligations simply\n\n30\n00:02:06.692 --> 00:02:09.992\nby calling everyone an independent contractor.\n\n31\n00:02:10.806 --> 00:02:15.946\nMaryland separately defines insurance advisers, including compensated policy\n\n32\n00:02:15.946 --> 00:02:20.706\nanalysis and certain public representations of advisory services.\n\n33\n00:02:20.946 --> 00:02:25.926\nStatutory exceptions matter: a licensed producer acting as a producer for\n\n34\n00:02:25.926 --> 00:02:29.586\na client is among the exceptions to the adviser subtitle.\n\n35\n00:02:30.666 --> 00:02:35.106\nDo not assume every ordinary product explanation requires a second license.\n\n36\n00:02:35.826 --> 00:02:39.846\nEqually, do not assume a marketing title creates authority.\n\n37\n00:02:40.746 --> 00:02:45.306\nNow consider viatical settlements, in which an existing life policy is\n\n38\n00:02:45.306 --> 00:02:50.586\nsold. Settlement providers and brokers have separate registration rules.\n\n39\n00:02:51.726 --> 00:02:56.766\nA provider registers before acting; a broker must register\n\n40\n00:02:56.766 --> 00:03:00.386\nno later than thirty days after negotiating a settlement for a\n\n41\n00:03:01.134 --> 00:03:05.584\nviator. An employee who performs only qualifying clerical or administrative\n\n42\n00:03:05.584 --> 00:03:10.284\ntasks and receives no policy commissions may fit a licensing exception.\n\n43\n00:03:11.324 --> 00:03:15.404\nChanging that person's job to soliciting applicants changes the analysis.\n\n44\n00:03:16.471 --> 00:03:20.411\nAnother exception can apply to an employer administering its own employee\n\n45\n00:03:20.411 --> 00:03:22.831\nbenefits without insurer compensation.\n\n46\n00:03:23.591 --> 00:03:28.571\nThese are conditional exceptions, not blanket permission for unlicensed\n\n47\n00:03:28.571 --> 00:03:33.591\nselling. Consider Elena's assistant: scheduling\n\n48\n00:03:33.591 --> 00:03:36.811\nan appointment is different from persuading the client to choose a\n\n49\n00:03:36.811 --> 00:03:42.211\nparticular life policy. Review both the actual conduct and the compensation,\n\n50\n00:03:42.211 --> 00:03:44.751\nrather than relying on a job title.\n\n51\n00:03:45.313 --> 00:03:50.313\nIn this scenario, an agency owner dies and an eligible relative\n\n52\n00:03:50.313 --> 00:03:52.993\nneeds to help preserve the business.\n\n53\n00:03:53.813 --> 00:03:59.393\nMaryland may issue a temporary producer license without the usual examination\n\n54\n00:03:59.393 --> 00:04:04.493\nto specified otherwise-qualified relatives, representatives or\n\n55\n00:04:04.493 --> 00:04:08.773\nemployees connected to a deceased or disabled producer.\n\n56\n00:04:09.473 --> 00:04:12.133\nIt is not automatic inheritance of a license.\n\n57\n00:04:12.133 --> 00:04:17.253\nThe person applies, pays the fee and obtains the temporary\n\n58\n00:04:17.253 --> 00:04:20.833\nlicense and any required appointment before acting.\n\n59\n00:04:21.893 --> 00:04:25.773\nThe Commissioner must issue or refuse it in writing within thirty\n\n60\n00:04:25.773 --> 00:04:27.753\ndays of receiving the application.\n\n61\n00:04:27.753 --> 00:04:33.173\nThis Maryland temporary license expires fifteen months after\n\n62\n00:04:33.173 --> 00:04:34.233\nits effective date.\n",
+    "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/ab3e84ed-e005-4e98-998e-915b6b3b2572.mp4",
+    "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/46208258-695e-4900-92dc-31107fe40fc7.zip",
+    "joinReview": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/60597d33-f3dc-4f72-b278-c2ec7b178905.jpg",
+    "method": "Removed only the middle of a confirmed silent interval, retaining speech margins; identical cut applied to picture and sound and later caption times shifted. No speech regeneration."
+  },
+  {
+    "number": 20,
+    "date": "2026-09-13",
+    "originalVideo": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/b218335f-e9f6-4009-9917-524c5a1d5b7e.mp4",
+    "originalEditableArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/da0c70f7-7828-411b-a5ab-c096bb85ee00.zip",
+    "originalDuration": 279.042,
+    "cut": [
+      25.375,
+      27.958333333333332
+    ],
+    "removedSeconds": 2.583333333333332,
+    "duration": 276.478,
+    "fullDecodeExit": 0,
+    "blackIntervals": [],
+    "silenceIntervals": [
+      {
+        "start": 5.082978,
+        "end": 5.94679,
+        "duration": 0.863812
+      },
+      {
+        "start": 18.400454,
+        "end": 19.3756,
+        "duration": 0.975146
+      },
+      {
+        "start": 25.038358000000002,
+        "end": 25.9919,
+        "duration": 0.953542
+      },
+      {
+        "start": 41.180442,
+        "end": 42.0059,
+        "duration": 0.825458
+      },
+      {
+        "start": 53.230158,
+        "end": 54.0672,
+        "duration": 0.837042
+      },
+      {
+        "start": 70.537854,
+        "end": 71.446,
+        "duration": 0.908146
+      },
+      {
+        "start": 88.491988,
+        "end": 89.4333,
+        "duration": 0.941312
+      },
+      {
+        "start": 91.143075,
+        "end": 91.9652,
+        "duration": 0.822125
+      },
+      {
+        "start": 99.001017,
+        "end": 99.8986,
+        "duration": 0.897583
+      },
+      {
+        "start": 123.29835399999999,
+        "end": 124.136,
+        "duration": 0.837646
+      },
+      {
+        "start": 130.386438,
+        "end": 131.355,
+        "duration": 0.968562
+      },
+      {
+        "start": 163.84979199999998,
+        "end": 164.772,
+        "duration": 0.922208
+      },
+      {
+        "start": 180.32837500000002,
+        "end": 181.163,
+        "duration": 0.834625
+      },
+      {
+        "start": 184.81253999999998,
+        "end": 185.898,
+        "duration": 1.08546
+      },
+      {
+        "start": 203.135104,
+        "end": 203.954,
+        "duration": 0.818896
+      },
+      {
+        "start": 225.30599999999998,
+        "end": 226.225,
+        "duration": 0.919
+      },
+      {
+        "start": 243.141271,
+        "end": 244.135,
+        "duration": 0.993729
+      },
+      {
+        "start": 274.94579000000004,
+        "end": 276.48,
+        "duration": 1.53421
+      }
+    ],
+    "joinTranscript": [
+      {
+        "text": " It is also different from taking an accelerated benefit under the original contract.",
+        "words": [
+          {
+            "word": " It",
+            "start": 18.375,
+            "end": 19.455
+          },
+          {
+            "word": " is",
+            "start": 19.455,
+            "end": 19.595
+          },
+          {
+            "word": " also",
+            "start": 19.595,
+            "end": 19.935
+          },
+          {
+            "word": " different",
+            "start": 19.935,
+            "end": 20.335
+          },
+          {
+            "word": " from",
+            "start": 20.335,
+            "end": 20.795
+          },
+          {
+            "word": " taking",
+            "start": 20.795,
+            "end": 21.075
+          },
+          {
+            "word": " an",
+            "start": 21.075,
+            "end": 21.315
+          },
+          {
+            "word": " accelerated",
+            "start": 21.315,
+            "end": 21.915
+          },
+          {
+            "word": " benefit",
+            "start": 21.915,
+            "end": 22.575
+          },
+          {
+            "word": " under",
+            "start": 22.575,
+            "end": 23.395
+          },
+          {
+            "word": " the",
+            "start": 23.395,
+            "end": 23.615000000000002
+          },
+          {
+            "word": " original",
+            "start": 23.615000000000002,
+            "end": 24.095
+          },
+          {
+            "word": " contract.",
+            "start": 24.095,
+            "end": 24.955
+          }
+        ]
+      },
+      {
+        "text": " Maryland's viatical settlement definition generally involves value below the expected death benefit in...",
+        "words": [
+          {
+            "word": " Maryland's",
+            "start": 26.175,
+            "end": 26.695
+          },
+          {
+            "word": " viatical",
+            "start": 26.695,
+            "end": 27.295
+          },
+          {
+            "word": " settlement",
+            "start": 27.295,
+            "end": 27.775
+          },
+          {
+            "word": " definition",
+            "start": 27.775,
+            "end": 28.455
+          },
+          {
+            "word": " generally",
+            "start": 28.455,
+            "end": 29.015
+          },
+          {
+            "word": " involves",
+            "start": 29.015,
+            "end": 29.715
+          },
+          {
+            "word": " value",
+            "start": 29.715,
+            "end": 30.275
+          },
+          {
+            "word": " below",
+            "start": 30.275,
+            "end": 30.735
+          },
+          {
+            "word": " the",
+            "start": 30.735,
+            "end": 31.035
+          },
+          {
+            "word": " expected",
+            "start": 31.035,
+            "end": 31.575
+          },
+          {
+            "word": " death",
+            "start": 31.575,
+            "end": 31.994999999999997
+          },
+          {
+            "word": " benefit",
+            "start": 31.994999999999997,
+            "end": 32.555
+          },
+          {
+            "word": " in...",
+            "start": 32.555,
+            "end": 33.235
+          }
+        ]
+      }
+    ],
+    "sampleTimes": [
+      24.725,
+      25.425,
+      26.025
+    ],
+    "technical": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 1920,
+          "height": 1080,
+          "coded_width": 1920,
+          "coded_height": 1080,
+          "closed_captions": 0,
+          "film_grain": 0,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 40,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "time_base": "1/12288",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 3397120,
+          "duration": "276.458333",
+          "bit_rate": "209536",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "6635",
+          "extradata_size": 50,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0
+          },
+          "tags": {
+            "language": "und",
+            "handler_name": "VideoHandler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "Lavc59.37.100 libx264"
+          }
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_long_name": "AAC (Advanced Audio Coding)",
+          "profile": "LC",
+          "codec_type": "audio",
+          "codec_tag_string": "mp4a",
+          "codec_tag": "0x6134706d",
+          "sample_fmt": "fltp",
+          "sample_rate": "48000",
+          "channels": 1,
+          "channel_layout": "mono",
+          "bits_per_sample": 0,
+          "id": "0x2",
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "time_base": "1/48000",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 13270944,
+          "duration": "276.478000",
+          "bit_rate": "188031",
+          "nb_frames": "12961",
+          "extradata_size": 5,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0
+          },
+          "tags": {
+            "language": "und",
+            "handler_name": "SoundHandler",
+            "vendor_id": "[0][0][0][0]"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/home/user/amg-pause-repairs/20/final.mp4",
+        "nb_streams": 2,
+        "nb_programs": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "276.478000",
+        "size": "13932524",
+        "bit_rate": "403143",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2avc1mp41",
+          "encoder": "Lavf59.27.100"
+        }
+      }
+    },
+    "vtt": "WEBVTT\n\n1\n00:00:00.000 --> 00:00:04.740\nDaniel owns a life policy that no longer fits his circumstances.\n\n2\n00:00:05.940 --> 00:00:10.020\nA third party offers money now in exchange for ownership or\n\n3\n00:00:10.020 --> 00:00:15.080\ndeath-benefit rights. A settlement is different from surrendering the policy\n\n4\n00:00:15.080 --> 00:00:18.260\nto the insurer for its surrender value.\n\n5\n00:00:19.120 --> 00:00:23.560\nIt is also different from taking an accelerated benefit under the\n\n6\n00:00:23.560 --> 00:00:26.637\noriginal contract. Maryland's\n\n7\n00:00:26.637 --> 00:00:31.397\nviatical settlement definition generally involves value below the expected\n\n8\n00:00:31.397 --> 00:00:35.577\ndeath benefit in exchange for specified policy rights.\n\n9\n00:00:36.557 --> 00:00:40.937\nThe statute is not limited to terminally or chronically ill insureds.\n\n10\n00:00:41.757 --> 00:00:46.937\nEvaluate the actual transaction rather than relying only on its marketing\n\n11\n00:00:46.937 --> 00:00:52.115\nname. The viator is the owner or certificate holder seeking or\n\n12\n00:00:52.115 --> 00:00:56.595\nentering the settlement. A viatical settlement broker negotiates for the\n\n13\n00:00:56.595 --> 00:01:01.655\nviator for compensation and must have the required life-producer authority.\n\n14\n00:01:02.375 --> 00:01:05.715\nMaryland deems the broker to represent only the viator and to\n\n15\n00:01:05.715 --> 00:01:10.055\nowe that person a fiduciary duty, regardless of how compensation is\n\n16\n00:01:10.055 --> 00:01:14.375\npaid. The provider enters or effectuates the settlement contract.\n\n17\n00:01:14.955 --> 00:01:19.595\nA later purchaser or financing entity may acquire an interest from\n\n18\n00:01:19.595 --> 00:01:21.735\nthe provider. These are different roles.\n\n19\n00:01:22.635 --> 00:01:26.435\nA broker cannot secretly become the buyer of a policy covered\n\n20\n00:01:26.435 --> 00:01:28.335\nby that broker's brokerage agreement.\n\n21\n00:01:28.989 --> 00:01:34.149\nIn Maryland's settlement statute, terminally ill means an illness\n\n22\n00:01:34.149 --> 00:01:38.269\nor sickness reasonably expected to result in death within twenty-four months\n\n23\n00:01:38.269 --> 00:01:43.689\nor less. Chronically ill includes inability to perform at\n\n24\n00:01:43.689 --> 00:01:48.569\nleast two activities of daily living, substantial supervision needed because\n\n25\n00:01:48.569 --> 00:01:52.649\nof severe cognitive impairment, or the stated similar disability.\n\n26\n00:01:52.649 --> 00:01:57.629\nActivities of daily living include bathing, continence,\n\n27\n00:01:58.389 --> 00:02:02.929\ndressing, eating, toileting and transferring.\n\n28\n00:02:04.089 --> 00:02:08.609\nThese are statutory definitions for this context, not permission for an\n\n29\n00:02:08.609 --> 00:02:10.289\nagent to diagnose a person.\n\n30\n00:02:11.109 --> 00:02:15.789\nThey can affect specified transaction rules and must be supported through\n\n31\n00:02:15.789 --> 00:02:20.683\nthe appropriate process. Before making an offer, the provider must complete\n\n32\n00:02:20.683 --> 00:02:23.263\nthe required signed disclosure process.\n\n33\n00:02:23.923 --> 00:02:29.363\nDaniel should understand alternatives, possible taxes, creditor exposure,\n\n34\n00:02:30.143 --> 00:02:33.223\neffects on government benefits and rights that may be lost.\n\n35\n00:02:34.023 --> 00:02:38.583\nThe broker gives the required service disclosure at application and discloses\n\n36\n00:02:38.583 --> 00:02:43.663\ncompensation at least seventy-two hours before all parties sign the contract.\n\n37\n00:02:44.403 --> 00:02:49.663\nOffers and related responses must reach the viator within seventy-two hours\n\n38\n00:02:49.663 --> 00:02:53.003\nafter the broker receives them.\nThese are different clocks.\n\n40\n00:02:53.763 --> 00:02:58.943\nMedical and personal information also require the stated disclosure and\n\n41\n00:02:58.943 --> 00:03:04.323\nconsent process. A rushed signature does not replace informed consideration.\n\n42\n00:03:05.853 --> 00:03:07.573\nDaniel receives the settlement proceeds.\n\n43\n00:03:08.033 --> 00:03:12.453\nMaryland gives him fifteen calendar days after receipt to rescind, subject\n\n44\n00:03:12.453 --> 00:03:16.033\nto returning the required proceeds, premiums and loan interest.\n\n45\n00:03:16.653 --> 00:03:20.273\nIf the insured dies during that period, the contract is deemed\n\n46\n00:03:20.273 --> 00:03:22.833\nrescinded under the stated repayment conditions.\n\n47\n00:03:23.653 --> 00:03:27.353\nThe provider must send funds within three business days after receiving\n\n48\n00:03:27.353 --> 00:03:31.353\nthe specified acknowledgment of the policy transfer and beneficiary\n\n49\n00:03:31.353 --> 00:03:36.033\ndesignation. A separate rule generally restricts a settlement within two\n\n50\n00:03:36.033 --> 00:03:40.733\nyears after policy issue, with listed exceptions supported by certification\n\n51\n00:03:40.733 --> 00:03:44.973\nor independent evidence. Do not substitute another state's deadlines.\n\n52\n00:03:45.759 --> 00:03:50.199\nSomeone offers to alter Daniel's medical records to raise the settlement\n\n53\n00:03:50.199 --> 00:03:55.479\nprice. Knowingly presenting false or misleading material information for\n\n54\n00:03:55.479 --> 00:04:00.639\nan application, financing, transfer or settlement claim can be\n\n55\n00:04:00.639 --> 00:04:03.019\na fraudulent viatical settlement act.\n\n56\n00:04:03.999 --> 00:04:08.459\nCorrect an honest error through the proper process; never invent a\n\n57\n00:04:08.459 --> 00:04:13.019\ndiagnosis, conceal material facts or forge a signature.\n\n58\n00:04:13.689 --> 00:04:17.859\nThe broker should protect the viator's interests and disclose the required\n\n59\n00:04:17.859 --> 00:04:22.339\ninformation. Before proceeding, compare the alternatives,\n\n60\n00:04:23.099 --> 00:04:28.139\nconfirm authority and registration, review the offered value and\n\n61\n00:04:28.139 --> 00:04:32.879\ntransferred rights, and make sure Daniel understands what his original\n\n62\n00:04:32.879 --> 00:04:34.699\nbeneficiaries may lose.\n",
+    "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/57c33769-fe01-4e79-be69-db9b3c17a22e.mp4",
+    "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/eb1d61bb-0be5-4283-a53e-987988191d39.zip",
+    "joinReview": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/a196c821-6f3d-4577-9666-ef495bbce9ea.jpg",
+    "method": "Removed only the middle of a confirmed silent interval, retaining speech margins; identical cut applied to picture and sound and later caption times shifted. No speech regeneration."
+  }
+]

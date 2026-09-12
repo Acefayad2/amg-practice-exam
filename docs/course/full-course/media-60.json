@@ -1,10 +1,10 @@
 {
   "number": 60,
-  "duration": "292.794000",
-  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/1d79e6c5-f1c6-4449-8f2a-f4809258cfb0.mp4",
+  "duration": "291.676000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/91be1334-5306-4343-9bcc-b6c0d51d245c.mp4",
   "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/0b957e04-1101-4d09-8feb-387e5e256f89.png",
   "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/791e5c03-9128-4df0-a0a2-4d7db4636a78.jpg",
-  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/716a429c-e2d6-48e3-a572-9ba55feb1c72.zip",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/bac1a572-a8bb-4fa4-a71f-d85d3752cd4f.zip",
   "technical": {
     "programs": [],
     "streams": [
@@ -20,17 +20,36 @@
       }
     ],
     "format": {
-      "duration": "292.794000",
-      "size": "23341054"
+      "duration": "291.676000",
+      "size": "15125693"
     }
   },
   "review": {
     "layouts": "All eight corrected scenario and teaching layouts visually inspected; shortened labels remove overlap. Calculations, logo and spacing passed.",
-    "decode": "Complete FFmpeg decode passed.",
-    "speech": "All six final paced narration sections transcribed and read against the script after repairing identified speech faults. Ambiguous recognitions checked independently with small.en.",
+    "decode": "Corrected final fully decoded successfully; black-frame scan found no intervals at the documented threshold.",
+    "speech": "Second review removed only the first duplicated spoken phrase A life option. Both small.en and base.en retranscribed the repaired join with one complete life-option sentence and the preceding death sentence intact. No generated speech.",
     "analysis": "Completed whole-video analysis read in full; no additional material defect identified. Automated descriptions of photo movement are not treated as proof of actual motion.",
     "player": "Chromium: all 14 media, native ended-event, required-question, feedback, retry, first-answer history, resume, saved completion, caption and mobile-dialog checks passed without errors."
   },
   "status": "ready",
-  "coordinatorApproval": null
+  "coordinatorApproval": null,
+  "secondReview": {
+    "date": "2026-09-13",
+    "sourceVideo": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/1d79e6c5-f1c6-4449-8f2a-f4809258cfb0.mp4",
+    "sourceEditArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/716a429c-e2d6-48e3-a572-9ba55feb1c72.zip",
+    "correction": "Removed only the first duplicated spoken phrase \"A life option\"; retained the full second sentence. Both endpoints lie in quiet gaps. Identical frame-aligned cut applied to picture and sound. Caption word sequence preserved and later times shifted. No generated speech.",
+    "cut": [
+      157.875,
+      159
+    ],
+    "removedSeconds": 1.125,
+    "removedVideoFrames": 27,
+    "verificationReport": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/045d5e03-b0d1-4c6e-bf2d-90640c413f19.json",
+    "joinReview": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/a0d94810-0f0e-48f6-9701-6ef9a05b7c35.jpg",
+    "joinAudio": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/af40a137-66a4-4899-83e7-7bd8026cfad2.mp3",
+    "captionWordSequencePreserved": true,
+    "captionCueIdsPreserved": true,
+    "captionCueCount": 71,
+    "generationCalls": 0
+  }
 }

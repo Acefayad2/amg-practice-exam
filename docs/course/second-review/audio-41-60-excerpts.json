@@ -1,0 +1,761 @@
+{
+  "reviewDate": "2026-09-13",
+  "sourceScope": {
+    "lessons": "41–60",
+    "lessonCount": 20,
+    "sourceMediaSeconds": 5754.212,
+    "fullFileDifferenceCandidates": 363,
+    "primaryEvidence": "docs/course/second-review/media-41-60.json",
+    "wholeFileDecodeResults": "Parent-produced full native decode and black/silence report reviewed; not independently rerun in this follow-up.",
+    "perLesson": [
+      {
+        "lesson": 41,
+        "duration": 294.419,
+        "differences": 9,
+        "fullDecodeExit": 0,
+        "decodeErrors": [],
+        "blackIntervals": [],
+        "asrSimilarity": 0.9649259547934529,
+        "longSilences": []
+      },
+      {
+        "lesson": 42,
+        "duration": 276.792,
+        "differences": 12,
+        "fullDecodeExit": 0,
+        "decodeErrors": [],
+        "blackIntervals": [],
+        "asrSimilarity": 0.9577015163607342,
+        "longSilences": []
+      },
+      {
+        "lesson": 43,
+        "duration": 272.585,
+        "differences": 14,
+        "fullDecodeExit": 0,
+        "decodeErrors": [],
+        "blackIntervals": [],
+        "asrSimilarity": 0.9422924901185771,
+        "longSilences": []
+      },
+      {
+        "lesson": 44,
+        "duration": 293.879,
+        "differences": 7,
+        "fullDecodeExit": 0,
+        "decodeErrors": [],
+        "blackIntervals": [],
+        "asrSimilarity": 0.990521327014218,
+        "longSilences": []
+      },
+      {
+        "lesson": 45,
+        "duration": 292.044,
+        "differences": 12,
+        "fullDecodeExit": 0,
+        "decodeErrors": [],
+        "blackIntervals": [],
+        "asrSimilarity": 0.9590551181102362,
+        "longSilences": []
+      },
+      {
+        "lesson": 46,
+        "duration": 292.625,
+        "differences": 18,
+        "fullDecodeExit": 0,
+        "decodeErrors": [],
+        "blackIntervals": [],
+        "asrSimilarity": 0.9523076923076923,
+        "longSilences": []
+      },
+      {
+        "lesson": 47,
+        "duration": 281.837,
+        "differences": 15,
+        "fullDecodeExit": 0,
+        "decodeErrors": [],
+        "blackIntervals": [],
+        "asrSimilarity": 0.9641185647425897,
+        "longSilences": []
+      },
+      {
+        "lesson": 48,
+        "duration": 269.879,
+        "differences": 6,
+        "fullDecodeExit": 0,
+        "decodeErrors": [],
+        "blackIntervals": [],
+        "asrSimilarity": 0.9906396255850234,
+        "longSilences": []
+      },
+      {
+        "lesson": 49,
+        "duration": 285.587,
+        "differences": 20,
+        "fullDecodeExit": 0,
+        "decodeErrors": [],
+        "blackIntervals": [],
+        "asrSimilarity": 0.9398324447829398,
+        "longSilences": []
+      },
+      {
+        "lesson": 50,
+        "duration": 280.379,
+        "differences": 30,
+        "fullDecodeExit": 0,
+        "decodeErrors": [],
+        "blackIntervals": [],
+        "asrSimilarity": 0.90854119425548,
+        "longSilences": []
+      },
+      {
+        "lesson": 51,
+        "duration": 290.796,
+        "differences": 30,
+        "fullDecodeExit": 0,
+        "decodeErrors": [],
+        "blackIntervals": [],
+        "asrSimilarity": 0.9043887147335423,
+        "longSilences": []
+      },
+      {
+        "lesson": 52,
+        "duration": 289.002,
+        "differences": 16,
+        "fullDecodeExit": 0,
+        "decodeErrors": [],
+        "blackIntervals": [],
+        "asrSimilarity": 0.9431643625192012,
+        "longSilences": []
+      },
+      {
+        "lesson": 53,
+        "duration": 288.629,
+        "differences": 37,
+        "fullDecodeExit": 0,
+        "decodeErrors": [],
+        "blackIntervals": [],
+        "asrSimilarity": 0.8971820258948972,
+        "longSilences": []
+      },
+      {
+        "lesson": 54,
+        "duration": 290.25,
+        "differences": 24,
+        "fullDecodeExit": 0,
+        "decodeErrors": [],
+        "blackIntervals": [],
+        "asrSimilarity": 0.9274255156608098,
+        "longSilences": []
+      },
+      {
+        "lesson": 55,
+        "duration": 289.462,
+        "differences": 25,
+        "fullDecodeExit": 0,
+        "decodeErrors": [],
+        "blackIntervals": [],
+        "asrSimilarity": 0.9415292353823088,
+        "longSilences": []
+      },
+      {
+        "lesson": 56,
+        "duration": 290.417,
+        "differences": 14,
+        "fullDecodeExit": 0,
+        "decodeErrors": [],
+        "blackIntervals": [],
+        "asrSimilarity": 0.9663928304705004,
+        "longSilences": []
+      },
+      {
+        "lesson": 57,
+        "duration": 292.709,
+        "differences": 22,
+        "fullDecodeExit": 0,
+        "decodeErrors": [],
+        "blackIntervals": [],
+        "asrSimilarity": 0.9311621021465581,
+        "longSilences": []
+      },
+      {
+        "lesson": 58,
+        "duration": 293.417,
+        "differences": 15,
+        "fullDecodeExit": 0,
+        "decodeErrors": [],
+        "blackIntervals": [],
+        "asrSimilarity": 0.9585714285714285,
+        "longSilences": []
+      },
+      {
+        "lesson": 59,
+        "duration": 296.71,
+        "differences": 16,
+        "fullDecodeExit": 0,
+        "decodeErrors": [],
+        "blackIntervals": [],
+        "asrSimilarity": 0.9409020217729394,
+        "longSilences": []
+      },
+      {
+        "lesson": 60,
+        "duration": 292.794,
+        "differences": 21,
+        "fullDecodeExit": 0,
+        "decodeErrors": [],
+        "blackIntervals": [],
+        "asrSimilarity": 0.9455630126771066,
+        "longSilences": []
+      }
+    ]
+  },
+  "method": {
+    "processing": "Higgsfield native sandbox only; originals restored from parent report sourceVideo URLs into own folder after unrelated sandbox expiration.",
+    "models": [
+      "base.en",
+      "small.en"
+    ],
+    "configuration": "CPU int8, one thread/one worker, sequential, English, beam 5, temperature 0, no initial prompt, condition_on_previous_text false, word timestamps, VAD disabled.",
+    "targetedPairWindows": 27,
+    "widerPairWindows": 4,
+    "documentedFreshAsrPasses": 62,
+    "supplementaryBoundaryPairPasses": 2,
+    "initialWindowsSeconds": 241.399,
+    "widerWindowsSeconds": 119.379,
+    "windowDurationCaution": "Includes overlapping source time; not unique coverage.",
+    "locatorFailures": 0,
+    "cloudReportUpload": false
+  },
+  "phrases": [
+    {
+      "lesson": 42,
+      "id": "rider-repeat",
+      "query": "insured term rider and eligible children",
+      "start": 21.84,
+      "end": 30.84,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "legacy, Elena might be insured under an other insured term writer, and eligible children might have a children's term writer.",
+        "small.en": "Elena might be insured under an other insured term writer, and eligible children might have a children's term writer."
+      },
+      "classification": "candidate-not-reproduced",
+      "decision": "Neither short recognition repeats the rider phrase. Both spell rider as writer, a phonetic/lexical ambiguity rather than a confirmed change of taught concept."
+    },
+    {
+      "lesson": 42,
+      "id": "elena-repeat",
+      "query": "term rider on Elena if Elena",
+      "start": 44.96,
+      "end": 54.22,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "Suppose Marcus's policy includes a $50,000 term rider on Elena if Elena dies from a covered cause while that rider is",
+        "small.en": "Suppose Marcus's policy includes a $50,000 term rider on Elena, if Elena dies from a covered cause while that rider is"
+      },
+      "classification": "candidate-not-reproduced",
+      "decision": "Both fresh short recognitions preserve the intended target without the candidate extra/repeated wording. Excerpt-edge fragment differences are excluded."
+    },
+    {
+      "lesson": 44,
+      "id": "provisions-repeat",
+      "query": "or investment provisions Rosa may fund",
+      "start": 48.72,
+      "end": 58.04,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "The contract holds value under its crediting or investment provisions. Rosa may fund a contract with one premium or a permitted fee.",
+        "small.en": "the contract holds value under its crediting or investment provisions. ROSA may fund a contract with one premium or a permitted..."
+      },
+      "classification": "candidate-not-reproduced",
+      "decision": "Both fresh short recognitions preserve the intended target without the candidate extra/repeated wording. Excerpt-edge fragment differences are excluded."
+    },
+    {
+      "lesson": 44,
+      "id": "guarantee",
+      "query": "a product guarantee does not make",
+      "start": 271.78,
+      "end": 279.54,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "ensures ability to meet its obligations. A product guaranteed does not make every contract appropriate for every retiree.",
+        "small.en": "ensures ability to meet its obligations. A product guaranteed does not make every contract appropriate for every retiree."
+      },
+      "classification": "pronunciation-uncertain",
+      "decision": "Both short recognitions print product guaranteed does rather than product guarantee does. Word-boundary voicing may account for the final d; text ASR does not establish a changed concept or independently settle pronunciation."
+    },
+    {
+      "lesson": 45,
+      "id": "tax-free",
+      "query": "automatically income tax free life insurance",
+      "start": 261.16,
+      "end": 269.92,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "is $90,000. That is not automatically income-taxed free life insurance proceeds, merely because payment follows",
+        "small.en": "is $90,000. That is not automatically income tax-free life insurance proceeds merely because payment follows"
+      },
+      "classification": "model-disagreement",
+      "decision": "base.en prints income-taxed free while small.en recovers income tax-free. No consistent changed tax distinction."
+    },
+    {
+      "lesson": 46,
+      "id": "quotes-repeat",
+      "query": "or insurer quotes a client who",
+      "start": 227.81,
+      "end": 236.35,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "are teaching calculations, not lifetime guarantees or insurer quotes. A client who needs lifelong income must not mistake a chosen money.",
+        "small.en": "are teaching calculations, not lifetime guarantees or insurer quotes. A client who needs lifelong income, must not mistake a chosen model."
+      },
+      "classification": "candidate-not-reproduced",
+      "decision": "Both fresh short recognitions preserve the intended target without the candidate extra/repeated wording. Excerpt-edge fragment differences are excluded."
+    },
+    {
+      "lesson": 47,
+      "id": "formula-repeat",
+      "query": "covered by its formula such designs",
+      "start": 185.74,
+      "end": 194.38,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "period while adjusting value if the owner exits at a time covered by its formula. Such designs are also associated with the term modified",
+        "small.en": "period while adjusting value if the owner exits at a time covered by its formula. Such designs are also associated with the term modified gear."
+      },
+      "classification": "candidate-not-reproduced",
+      "decision": "Both fresh short recognitions preserve the intended target without the candidate extra/repeated wording. Excerpt-edge fragment differences are excluded."
+    },
+    {
+      "lesson": 48,
+      "id": "obtain-repeat",
+      "query": "documentation obligations obtain the consumer profile",
+      "start": 133.84,
+      "end": 142.98,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "When standard includes care, disclosure, conflict and documentation obligations, obtain the consumer profile, financial resources and needs, experience.",
+        "small.en": "One standard includes care, disclosure, conflict and documentation obligations. Obtain the consumer profile. Financial resources and needs, experience."
+      },
+      "classification": "candidate-not-reproduced",
+      "decision": "Both fresh short recognitions preserve the intended target without the candidate extra/repeated wording. Excerpt-edge fragment differences are excluded."
+    },
+    {
+      "lesson": 48,
+      "id": "estimate-repeat",
+      "query": "cash compensation estimate explain material product",
+      "start": 160.64,
+      "end": 169.86,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "relationships, compensation sources, and the right to request a cash compensation estimate. Explain material product features and restrictions. Identify and avoid",
+        "small.en": "relationships, compensation sources, and the right to request a cash compensation estimate. Explain material product features and restrictions. Identify and avoid."
+      },
+      "classification": "candidate-not-reproduced",
+      "decision": "Both fresh short recognitions preserve the intended target without the candidate extra/repeated wording. Excerpt-edge fragment differences are excluded."
+    },
+    {
+      "lesson": 49,
+      "id": "loan-repeat",
+      "query": "has no outstanding loan other payment",
+      "start": 151.8,
+      "end": 160.7,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "is $40,000 and the example has no outstanding loan, other payment or further adjustment. The 15th",
+        "small.en": "is $40,000, and the example has no outstanding loan, other payment, or further adjustment."
+      },
+      "classification": "candidate-not-reproduced",
+      "decision": "Both fresh short recognitions preserve the intended target without the candidate extra/repeated wording. Excerpt-edge fragment differences are excluded."
+    },
+    {
+      "lesson": 49,
+      "id": "disappear-repeat",
+      "query": "later interest disappear suppose the insurer",
+      "start": 205.46,
+      "end": 214.5,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "possible. Choosing installments does not make all later interest disappear. Suppose the insurer holds a $200,000 benefit for one",
+        "small.en": "the insurance."
+      },
+      "classification": "cleared-by-wider-context",
+      "decision": "The first small.en short recognition collapses to the insurance; it is not counted as confirming the phrase. Both wider recognitions recover choosing installments does not make all later interest disappear, without the candidate extra here."
+    },
+    {
+      "lesson": 50,
+      "id": "final-tax",
+      "query": "calculating the extra tax",
+      "start": 274.54,
+      "end": 280.379,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "then check age and the actual exception before calculating the extra tack.",
+        "small.en": "Then check age and the actual exception before calculating the extra tech"
+      },
+      "classification": "cleared-by-wider-context",
+      "decision": "Both first short recognitions misrender final tax (tack/tech). Both 22.379-second wider recognitions recover extra tax. No consistently clipped/missing tax instruction established."
+    },
+    {
+      "lesson": 51,
+      "id": "withdrawal-repeat",
+      "query": "taxable withdrawal and no applicable",
+      "start": 183.8,
+      "end": 192.1,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "to a 45-year-old with a $20,000 taxable withdrawal and no applicable exception. The additional federal tax on under...",
+        "small.en": "to a 45-year-old with a $20,000 taxable withdrawal and no applicable exception, the additional federal tax on under-"
+      },
+      "classification": "candidate-not-reproduced",
+      "decision": "Both fresh short recognitions preserve the intended target without the candidate extra/repeated wording. Excerpt-edge fragment differences are excluded."
+    },
+    {
+      "lesson": 51,
+      "id": "additional-repeat",
+      "query": "to the additional tax include distributions",
+      "start": 208.86,
+      "end": 217.04,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "remove either federal tax. Exceptions to the additional tax include distributions after age 59 and 1-half.",
+        "small.en": "remove either federal tax. Exceptions to the additional tax include distributions after age 59 and ½."
+      },
+      "classification": "candidate-not-reproduced",
+      "decision": "Both fresh short recognitions preserve the intended target without the candidate extra/repeated wording. Excerpt-edge fragment differences are excluded."
+    },
+    {
+      "lesson": 51,
+      "id": "age-half",
+      "query": "after age fifty nine and one half",
+      "start": 211.04,
+      "end": 220.42,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "Exceptions to the additional tax include distributions after age 59 and one half, qualifying disability, death, and certain",
+        "small.en": "Exceptions to the additional tax include distributions after age 59 and one-half, qualifying disability, death, and certain sub-"
+      },
+      "classification": "candidate-not-reproduced",
+      "decision": "Both short recognitions explicitly preserve after age fifty-nine and one-half."
+    },
+    {
+      "lesson": 53,
+      "id": "and-repeat",
+      "query": "contribution eligibility and deduction eligibility",
+      "start": 129.52,
+      "end": 137.92,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "So after tax money is not taxed again. Contribution eligibility and deduction eligibility are separate exam questions.",
+        "small.en": "So after-tax money is not taxed again. Contribution eligibility and deduction eligibility are separate exam questions."
+      },
+      "classification": "candidate-not-reproduced",
+      "decision": "Both fresh short recognitions preserve the intended target without the candidate extra/repeated wording. Excerpt-edge fragment differences are excluded."
+    },
+    {
+      "lesson": 56,
+      "id": "obligees",
+      "query": "contracts as the obligees",
+      "start": 114.64,
+      "end": 124.48,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "or persons to remain entitled under the contracts as the oblige's. Do not casually add or remove an owner, while it...",
+        "small.en": "or persons to remain entitled under the contracts as the obligees. Do not casually add or remove an owner while it is in the contract."
+      },
+      "classification": "orthographic-ambiguity",
+      "decision": "small.en recovers obligees; base.en prints oblige's. Both retain the contractual ownership identity; no confirmed different concept."
+    },
+    {
+      "lesson": 56,
+      "id": "insurers-repeat",
+      "query": "between the insurers an IRS ruling",
+      "start": 151.34,
+      "end": 160.26,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "as an actual direct exchange or assignment process between the insurers. An IRS ruling addressed a check issued to the owner, and then endorsed",
+        "small.en": "as an actual direct exchange or assignment processed between the insurers. An IRS ruling addressed a check issued to the owner, and then endorsed the owner."
+      },
+      "classification": "candidate-not-reproduced",
+      "decision": "Both fresh short recognitions preserve the intended target without the candidate extra/repeated wording. Excerpt-edge fragment differences are excluded."
+    },
+    {
+      "lesson": 56,
+      "id": "partial-repeat",
+      "query": "partial annuity exchanges have",
+      "start": 266.44,
+      "end": 273.82,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "recognition as proof that the replacement is better. Partial annuity exchanges have additional rules, including a timing test.",
+        "small.en": "Recognition as proof that the replacement is better partial annuity exchanges have additional rules including a timing test"
+      },
+      "classification": "candidate-not-reproduced",
+      "decision": "Both fresh short recognitions preserve the intended target without the candidate extra/repeated wording. Excerpt-edge fragment differences are excluded."
+    },
+    {
+      "lesson": 57,
+      "id": "assume-repeat",
+      "query": "fully vested assume the plan's lawful",
+      "start": 104.08,
+      "end": 112.14,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "to employer contributions. Her own deferrals are fully vested. Assume the plan's lawful schedule makes 60% of that employer portion ve-",
+        "small.en": "to employer contributions, her own deferrals are fully vested, assume the plan's lawful schedule makes 60% of that employer portion ve-"
+      },
+      "classification": "candidate-not-reproduced",
+      "decision": "Both fresh short recognitions preserve the intended target without the candidate extra/repeated wording. Excerpt-edge fragment differences are excluded."
+    },
+    {
+      "lesson": 57,
+      "id": "age-half-explanation",
+      "query": "reaching age fifty nine and one half removes that ordinary age based additional tax",
+      "start": 212.88,
+      "end": 224.06,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "from the 10% early distribution rule, reaching age 59 and 1 half, removes that ordinary age-based additional tax, but does not automatically remove income tax.",
+        "small.en": "from the 10% early distribution rule. Reaching age 59 and one-half removes that ordinary age-based additional tax, but does not automatically remove income tax."
+      },
+      "classification": "candidate-not-reproduced",
+      "decision": "Both short recognitions recover the full age fifty-nine and one-half clause and its separate ordinary income tax qualification."
+    },
+    {
+      "lesson": 57,
+      "id": "rmd-facts",
+      "query": "required minimum distributions depend on the applicable age plan and retirement facts",
+      "start": 239.94,
+      "end": 254.54,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "to an IRA. For traditional pre-tax benefits, required minimum distributions depend on the applicable age, plan, and retirement facts. Consider an employee reaching age 73 in 2026, who still works for the sponsoring employer.",
+        "small.en": "to an IRA. For traditional pre-tax benefits, required minimum distributions depend on the applicable age, plan, and retirement facts. Consider an employee reaching age 73 in 2026 who still works for the sponsoring employer."
+      },
+      "classification": "candidate-not-reproduced",
+      "decision": "Both short recognitions recover the entire required minimum distributions clause: applicable age, plan and retirement facts, followed by the age-73/still-working example."
+    },
+    {
+      "lesson": 58,
+      "id": "keogh",
+      "query": "a Keogh or H R ten plan",
+      "start": 51.52,
+      "end": 59.6,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "may call a retirement plan for a self-employed person, a Kyog, or HR 10 plan. These are older names associated with qualified retirement plans.",
+        "small.en": "may call a retirement plan for a self-employed person, a kiosk, or HR-10 plan. These are older names associated with qualified retire-"
+      },
+      "classification": "cleared-by-wider-context",
+      "decision": "Short recognitions print Kyog/kiosk; both wider recognitions identify Keog/KEOG and HR10 and the correct self-employed retirement-plan context. Orthographic/phonetic uncertainty remains, without a consistent different program identity."
+    },
+    {
+      "lesson": 58,
+      "id": "salary-repeat",
+      "query": "with an employee's salary reduction election",
+      "start": 124.42,
+      "end": 133,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "confuse employer discretion in a profit sharing contribution with an employee's salary reduction election. If a question describes Elena choosing",
+        "small.en": "confuse employer discretion in a profit sharing contribution with an employee's salary reduction election. If a question describes Elena choosing"
+      },
+      "classification": "candidate-not-reproduced",
+      "decision": "Both fresh short recognitions preserve the intended target without the candidate extra/repeated wording. Excerpt-edge fragment differences are excluded."
+    },
+    {
+      "lesson": 59,
+      "id": "benefits-repeat",
+      "query": "the actual benefits guarantees funding",
+      "start": 74.54,
+      "end": 84.28,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "required conditions are maintained. Compare the actual benefits, garan, teas, funding, and affordable duration.",
+        "small.en": "required conditions are maintained. Compare the actual benefits, guarantee, funding, and affordable duration."
+      },
+      "classification": "pronunciation-uncertain",
+      "decision": "Full-file recognizer inserted grants before guarantees. Four fresh recognitions segment this differently: garan/teas, guarantee, guarantee/fees, guarantee. No consistent new concept is established; pronunciation/segmentation of guarantees is not certified perfect."
+    },
+    {
+      "lesson": 59,
+      "id": "properly-repeat",
+      "query": "be handled properly if Marcus's health",
+      "start": 175.2,
+      "end": 183.96,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "and truthful and corrections should be handled properly. If Marcus's health changes before delivery, follow the",
+        "small.en": "and truthful and corrections should be handled properly if Marcus's health changes before delivery follow the"
+      },
+      "classification": "candidate-not-reproduced",
+      "decision": "Both fresh short recognitions preserve the intended target without the candidate extra/repeated wording. Excerpt-edge fragment differences are excluded."
+    },
+    {
+      "lesson": 60,
+      "id": "life-option-repeat",
+      "query": "a life option with a ten",
+      "start": 154.98,
+      "end": 163.56,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "while Rosa lives and stops at her death. A life option, a life option with a 10-year certain period, pays $850.",
+        "small.en": "While Rosa lives and stops at her death, a life option, a life option with a 10 year certain period, pays $850."
+      },
+      "classification": "confirmed-spoken-repeat",
+      "decision": "Full-file recognition and both fresh short recognitions reproduce a life option twice. Additional word-boundary recognition and physical silence analysis support a 27-frame trim of the first duplicate at 157.875–159.000 seconds. Parent delegated correction to content_41_60; this report does not assert final render verification."
+    }
+  ],
+  "widerFollowups": [
+    {
+      "lesson": 49,
+      "id": "disappear-wide",
+      "query": "later interest disappear suppose the insurer",
+      "start": 194,
+      "end": 226,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "plus $3,000 of separately stated interest. Assuming no exception to the ordinary death benefit exclusion, the benefit is excluded from federal gross income, and the interest is taxable. Choosing installments does not make all later interest disappear. Suppose the insurer holds a $200,000 benefit for 100 installments of $2400 each. Under the stated fixed installment calculation, $2,000 of each payment recovers the benefit and $400 is in",
+        "small.en": "plus $3,000 of separately stated interest. Assuming no exception to the ordinary death benefit exclusion, the benefit is excluded from federal gross income and the interest is taxable. Choosing installments does not make all later interest disappear. Suppose the insurer holds a $200,000 benefit for 100 installments of $2,400 each. Under the stated fixed installment calculation, Again, $2,000 of each payment recovers the benefit, and $400 is introduced."
+      }
+    },
+    {
+      "lesson": 50,
+      "id": "final-tax-wide",
+      "query": "calculating the extra tax",
+      "start": 258,
+      "end": 280.379,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "qualifying disability and qualifying substantially equal periodic payments. An exception to the additional tax does not automatically remove ordinary income tax on the gain. On an exam, establish MEC status. Calculate the gain portion. Then check age and the actual exception before calculating the extra tax.",
+        "small.en": "qualifying disability and qualifying substantially equal periodic payments. An exception to the additional tax does not automatically remove ordinary income tax on the gain. On an exam, establish MEC status, calculate the gain portion, then check age and the actual exception before calculating the extra tax."
+      }
+    },
+    {
+      "lesson": 58,
+      "id": "keogh-wide",
+      "query": "a Keogh or H R ten plan",
+      "start": 44,
+      "end": 76,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "hold the contributed funds. Keep those layers distinct when identifying the product on an exam. A question may call a retirement plan for a self-employed person a Keog or HR 10 plan. These are older names associated with qualified retirement plans for self-employed individuals and unincorporated businesses. They do not identify one unique insurance policy or one guaranteed investment return. A self-employed business can use different qualified design, including defined contribution or defined benefit array.",
+        "small.en": "hold the contributed funds. Keep those layers distinct when identifying the product on an exam. A question may call a retirement plan for a self-employed person a KEOG or HR 10 plan. These are older names associated with qualified retirement plans for self-employed individuals and unincorporated businesses. They do not identify one unique insurance policy or one guaranteed investment return. A self-employed business can use different qualified designs, including defined contribution or defined benefit arrangement."
+      }
+    },
+    {
+      "lesson": 59,
+      "id": "guarantees-wide",
+      "query": "the actual benefits guarantees funding",
+      "start": 65,
+      "end": 98,
+      "status": "complete",
+      "recognitions": {
+        "base.en": "costs, deadlines, and premiums. Whole life uses a different structure, with permanent protection and contractual cash values when its required conditions are maintained. Compare the actual benefits, guarantee, fees, funding, and affordable duration. If existing coverage might be replaced, follow Maryland's replacement process and assess lost benefits and costs before asking the family to end that policy. In the proposed arrangement, Marcus owns a policy.",
+        "small.en": "benefits, deadlines, and premiums. Whole life uses a different structure, with permanent protection and contractual cash values when its required conditions are maintained. Compare the actual benefits, guarantee, funding, and affordable duration. If existing coverage might be replaced, follow Maryland's replacement process and assess lost benefits and costs before asking the family to end that policy. In the proposed arrangement, Marcus owns a policy."
+      }
+    }
+  ],
+  "confirmedRepair": {
+    "lesson": 60,
+    "sourcePath": "docs/course/full-course/lessons-59-60.mjs:34",
+    "sourceText": "Pure life pays nine hundred dollars monthly while Rosa lives and stops at her death. A life option with a ten-year certain period pays eight hundred fifty dollars monthly, continuing for her life and guaranteeing the stated minimum payment period.",
+    "observed": "A life option, a life option with a ten-year certain period",
+    "boundaryExcerpt": {
+      "nativePath": "/home/user/amg-excerpt41/repeat-60-boundary.wav",
+      "start": 153,
+      "end": 165
+    },
+    "physicalSilenceThresholdDb": -40,
+    "physicalQuietGaps": [
+      {
+        "start": 157.70694,
+        "end": 158.02556
+      },
+      {
+        "start": 158.88419,
+        "end": 159.16044
+      }
+    ],
+    "wordBoundaryEvidence": {
+      "base.en": {
+        "death": [
+          157.2,
+          157.48
+        ],
+        "firstA": [
+          158.06,
+          158.08
+        ],
+        "firstLife": [
+          158.08,
+          158.24
+        ],
+        "firstOption": [
+          158.24,
+          158.56
+        ],
+        "secondA": [
+          158.9,
+          159.22
+        ],
+        "secondLife": [
+          159.22,
+          159.34
+        ],
+        "secondOption": [
+          159.34,
+          159.76
+        ]
+      },
+      "small.en": {
+        "death": [
+          157.28,
+          157.6
+        ],
+        "firstA": [
+          158.14,
+          158.14
+        ],
+        "firstLife": [
+          158.14,
+          158.34
+        ],
+        "firstOption": [
+          158.34,
+          158.74
+        ],
+        "secondA": [
+          159.06,
+          159.26
+        ],
+        "secondLife": [
+          159.26,
+          159.46
+        ],
+        "secondOption": [
+          159.46,
+          159.82
+        ]
+      }
+    },
+    "approvedCut": {
+      "start": 157.875,
+      "end": 159,
+      "duration": 1.125,
+      "frameRate": 24,
+      "removedFrames": 27,
+      "retainedPhysicalPauseSeconds": 0.3285
+    },
+    "captionConcern": "Original cue39 starts158.047 inside removed interval. Remap/clamp at join, preserving all words exactly once and source/public parity.",
+    "status": "Parent approved and delegated native trim/QA to content_41_60. This subagent made no media changes."
+  },
+  "limits": [
+    "Two related ASR models can share errors; these results do not certify perfect pronunciation, face/lip motion, visuals, instructional accuracy or student comprehension.",
+    "Full-file candidates were screened across all20 lessons, but fresh ASR was targeted at identified phrases; this is not a claim of human listening to the entire source runtime.",
+    "Number/currency typography, obvious homophones, split/joined terms and capitalization were distinguished from conceptual insertions/omissions. Unfinished excerpt-edge words were excluded.",
+    "Part44 product guarantee/guaranteed and Part59 guarantees segmentation remain pronunciation uncertainty; no consistent consequential changed meaning was established.",
+    "No external review-report cloud upload occurred; results returned as tool text and local audit artifacts."
+  ]
+}

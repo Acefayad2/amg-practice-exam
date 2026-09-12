@@ -1,0 +1,15 @@
+# Audio follow-up — Parts 1–20
+
+Review date: September 13, 2026. Read alongside the original full-file [media evidence](media-01-20.json), [paired excerpts](excerpt-01-20.json), [additional checks](extra-audio-checks.json) and final repair records. Recognition output is diagnostic evidence, not a verbatim certified transcript or a substitute for continuous listening.
+
+The lead reviewer examined all 152 original speech-difference candidates for these twenty videos. Number rendering, contractions, compound words, punctuation and word boundaries accounted for most differences. Twenty-one targeted original excerpts received both `base.en` and `small.en` passes; four further original excerpts checked Part 1's hazard, deception and parental-support passages and Part 19's cash-accumulation passage. The replacement Part 2 sentence also received paired checks before and after assembly.
+
+## Disposition
+
+- **Part 2 — repaired:** both fresh original-excerpt recognizers returned “Pair” for the intended opening “Compare.” Replaced only the original-script sentence in the existing Gideon voice, fitted it to the same interval and preserved the complete video stream. Both recognizers recover “Compare” in the final export. Full decoding passed. The sole generation charge for this review was **0.6 credits**. See [technical evidence](part-02-audio-repair.json).
+- **Parts 1, 3, 6–7, 9–10, 12, 14–18 — contextual recognition checks:** the targeted excerpts recover the instructional distinction, including lawful purpose, exclusions and limits, application types, conditional exceptions, CE's earlier deadline, replacement disclosures, group coverage, guaranty limitations and insurable interest. Clip-edge fragments and inconsistent renderings such as Maryland/Harreland or parental/apparent do not establish a changed legal claim. The Part 5 “an express”/“and express” boundary and Part 6 indemnity spelling are recognition/word-boundary limitations; the surrounding restriction and indemnity explanations remain intact.
+- **Part 18 — no corroborated repetition:** the smaller recognizer inserted a second “His”; the larger recognizer recovers the intended single phrase and economic-loss example. This was not treated as evidence to regenerate speech.
+- **Part 19 — no confirmed narration omission:** both wider-context passes recover cash accumulation during life subject to contract, charges and funding. Corrected caption timing separately so it no longer advances ahead of the relevant phrases.
+- **Parts 8, 9 and 20 — pacing repaired:** shortened identified excessive silence with aligned picture/sound cuts and matching caption shifts. The final files passed full decoding and contextual join checks. See [pause batch A](pause-repairs-a.json).
+
+The root also visually inspected the freshly exported twelve-frame contact sheets for Parts 1–3. No obvious black frames, clipped titles, branding errors or static presenter distortion were identified in those samples. Remaining visual samples and final edited joins are recorded in the separate visual reports. Sampling does not establish perfect motion or lip synchronization between inspected frames.

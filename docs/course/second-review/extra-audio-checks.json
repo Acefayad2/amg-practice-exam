@@ -1,0 +1,1657 @@
+[
+  {
+    "number": 1,
+    "start": 119,
+    "end": 135,
+    "source": "/home/user/amg-second-review/01/final.mp4",
+    "models": {
+      "base.en": [
+        {
+          "text": " The contract controls the benefit.",
+          "words": [
+            {
+              "word": " The",
+              "start": 119.0,
+              "end": 119.38
+            },
+            {
+              "word": " contract",
+              "start": 119.38,
+              "end": 119.78
+            },
+            {
+              "word": " controls",
+              "start": 119.78,
+              "end": 120.38
+            },
+            {
+              "word": " the",
+              "start": 120.38,
+              "end": 120.74
+            },
+            {
+              "word": " benefit.",
+              "start": 120.74,
+              "end": 121.08
+            }
+          ]
+        },
+        {
+          "text": " Now add hazard.",
+          "words": [
+            {
+              "word": " Now",
+              "start": 122.34,
+              "end": 122.34
+            },
+            {
+              "word": " add",
+              "start": 122.34,
+              "end": 122.66
+            },
+            {
+              "word": " hazard.",
+              "start": 122.66,
+              "end": 123.08
+            }
+          ]
+        },
+        {
+          "text": " A hazard is a condition that increases the likelihood or severity of loss.",
+          "words": [
+            {
+              "word": " A",
+              "start": 124.12,
+              "end": 124.2
+            },
+            {
+              "word": " hazard",
+              "start": 124.2,
+              "end": 124.52
+            },
+            {
+              "word": " is",
+              "start": 124.52,
+              "end": 124.74
+            },
+            {
+              "word": " a",
+              "start": 124.74,
+              "end": 124.86
+            },
+            {
+              "word": " condition",
+              "start": 124.86,
+              "end": 125.08
+            },
+            {
+              "word": " that",
+              "start": 125.08,
+              "end": 125.46
+            },
+            {
+              "word": " increases",
+              "start": 125.46,
+              "end": 125.8
+            },
+            {
+              "word": " the",
+              "start": 125.8,
+              "end": 126.18
+            },
+            {
+              "word": " likelihood",
+              "start": 126.18,
+              "end": 126.6
+            },
+            {
+              "word": " or",
+              "start": 126.6,
+              "end": 126.9
+            },
+            {
+              "word": " severity",
+              "start": 126.9,
+              "end": 127.22
+            },
+            {
+              "word": " of",
+              "start": 127.22,
+              "end": 127.58
+            },
+            {
+              "word": " loss.",
+              "start": 127.58,
+              "end": 127.82
+            }
+          ]
+        },
+        {
+          "text": " Imagine defective safety equipment at a workplace.",
+          "words": [
+            {
+              "word": " Imagine",
+              "start": 129.28,
+              "end": 129.3
+            },
+            {
+              "word": " defective",
+              "start": 129.3,
+              "end": 129.48
+            },
+            {
+              "word": " safety",
+              "start": 129.48,
+              "end": 130.12
+            },
+            {
+              "word": " equipment",
+              "start": 130.12,
+              "end": 130.66
+            },
+            {
+              "word": " at",
+              "start": 130.66,
+              "end": 130.9
+            },
+            {
+              "word": " a",
+              "start": 130.9,
+              "end": 130.98
+            },
+            {
+              "word": " workplace.",
+              "start": 130.98,
+              "end": 131.22
+            }
+          ]
+        },
+        {
+          "text": " The equipment is a hazard before any accident.",
+          "words": [
+            {
+              "word": " The",
+              "start": 132.54,
+              "end": 132.58
+            },
+            {
+              "word": " equipment",
+              "start": 132.58,
+              "end": 132.86
+            },
+            {
+              "word": " is",
+              "start": 132.86,
+              "end": 133.16
+            },
+            {
+              "word": " a",
+              "start": 133.16,
+              "end": 133.28
+            },
+            {
+              "word": " hazard",
+              "start": 133.28,
+              "end": 133.66
+            },
+            {
+              "word": " before",
+              "start": 133.66,
+              "end": 133.92
+            },
+            {
+              "word": " any",
+              "start": 133.92,
+              "end": 134.32
+            },
+            {
+              "word": " accident.",
+              "start": 134.32,
+              "end": 134.72
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "text": " The contract controls the benefit.",
+          "words": [
+            {
+              "word": " The",
+              "start": 119.0,
+              "end": 119.44
+            },
+            {
+              "word": " contract",
+              "start": 119.44,
+              "end": 119.94
+            },
+            {
+              "word": " controls",
+              "start": 119.94,
+              "end": 120.52
+            },
+            {
+              "word": " the",
+              "start": 120.52,
+              "end": 120.82
+            },
+            {
+              "word": " benefit.",
+              "start": 120.82,
+              "end": 121.2
+            }
+          ]
+        },
+        {
+          "text": " Now add hazard.",
+          "words": [
+            {
+              "word": " Now",
+              "start": 122.4,
+              "end": 122.44
+            },
+            {
+              "word": " add",
+              "start": 122.44,
+              "end": 122.76
+            },
+            {
+              "word": " hazard.",
+              "start": 122.76,
+              "end": 123.2
+            }
+          ]
+        },
+        {
+          "text": " A hazard is a condition that increases the likelihood or severity of loss.",
+          "words": [
+            {
+              "word": " A",
+              "start": 124.22,
+              "end": 124.24
+            },
+            {
+              "word": " hazard",
+              "start": 124.24,
+              "end": 124.58
+            },
+            {
+              "word": " is",
+              "start": 124.58,
+              "end": 124.78
+            },
+            {
+              "word": " a",
+              "start": 124.78,
+              "end": 124.94
+            },
+            {
+              "word": " condition",
+              "start": 124.94,
+              "end": 125.2
+            },
+            {
+              "word": " that",
+              "start": 125.2,
+              "end": 125.52
+            },
+            {
+              "word": " increases",
+              "start": 125.52,
+              "end": 125.94
+            },
+            {
+              "word": " the",
+              "start": 125.94,
+              "end": 126.24
+            },
+            {
+              "word": " likelihood",
+              "start": 126.24,
+              "end": 126.62
+            },
+            {
+              "word": " or",
+              "start": 126.62,
+              "end": 126.96
+            },
+            {
+              "word": " severity",
+              "start": 126.96,
+              "end": 127.34
+            },
+            {
+              "word": " of",
+              "start": 127.34,
+              "end": 127.64
+            },
+            {
+              "word": " loss.",
+              "start": 127.64,
+              "end": 127.98
+            }
+          ]
+        },
+        {
+          "text": " Imagine defective safety equipment at a workplace.",
+          "words": [
+            {
+              "word": " Imagine",
+              "start": 129.08,
+              "end": 129.34
+            },
+            {
+              "word": " defective",
+              "start": 129.34,
+              "end": 129.86
+            },
+            {
+              "word": " safety",
+              "start": 129.86,
+              "end": 130.22
+            },
+            {
+              "word": " equipment",
+              "start": 130.22,
+              "end": 130.7
+            },
+            {
+              "word": " at",
+              "start": 130.7,
+              "end": 130.94
+            },
+            {
+              "word": " a",
+              "start": 130.94,
+              "end": 131.06
+            },
+            {
+              "word": " workplace.",
+              "start": 131.06,
+              "end": 131.46
+            }
+          ]
+        },
+        {
+          "text": " The equipment is a hazard before any accident.",
+          "words": [
+            {
+              "word": " The",
+              "start": 132.52,
+              "end": 132.62
+            },
+            {
+              "word": " equipment",
+              "start": 132.62,
+              "end": 132.9
+            },
+            {
+              "word": " is",
+              "start": 132.9,
+              "end": 133.2
+            },
+            {
+              "word": " a",
+              "start": 133.2,
+              "end": 133.34
+            },
+            {
+              "word": " hazard",
+              "start": 133.34,
+              "end": 133.68
+            },
+            {
+              "word": " before",
+              "start": 133.68,
+              "end": 134.06
+            },
+            {
+              "word": " any",
+              "start": 134.06,
+              "end": 134.38
+            },
+            {
+              "word": " accident.",
+              "start": 134.38,
+              "end": 134.82
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "number": 1,
+    "start": 146,
+    "end": 160,
+    "source": "/home/user/amg-second-review/01/final.mp4",
+    "models": {
+      "base.en": [
+        {
+          "text": " involves dishonesty.",
+          "words": [
+            {
+              "word": " involves",
+              "start": 146.0,
+              "end": 146.2
+            },
+            {
+              "word": " dishonesty.",
+              "start": 146.2,
+              "end": 146.98
+            }
+          ]
+        },
+        {
+          "text": " An example is intentionally falsifying documents to obtain an insurance payment.",
+          "words": [
+            {
+              "word": " An",
+              "start": 147.94,
+              "end": 147.94
+            },
+            {
+              "word": " example",
+              "start": 147.94,
+              "end": 148.28
+            },
+            {
+              "word": " is",
+              "start": 148.28,
+              "end": 148.56
+            },
+            {
+              "word": " intentionally",
+              "start": 148.56,
+              "end": 149.06
+            },
+            {
+              "word": " falsifying",
+              "start": 149.06,
+              "end": 149.74
+            },
+            {
+              "word": " documents",
+              "start": 149.74,
+              "end": 150.1
+            },
+            {
+              "word": " to",
+              "start": 150.1,
+              "end": 150.54
+            },
+            {
+              "word": " obtain",
+              "start": 150.54,
+              "end": 150.84
+            },
+            {
+              "word": " an",
+              "start": 150.84,
+              "end": 151.02
+            },
+            {
+              "word": " insurance",
+              "start": 151.02,
+              "end": 151.26
+            },
+            {
+              "word": " payment.",
+              "start": 151.26,
+              "end": 151.82
+            }
+          ]
+        },
+        {
+          "text": " The important clue is deliberate deception.",
+          "words": [
+            {
+              "word": " The",
+              "start": 152.76,
+              "end": 152.8
+            },
+            {
+              "word": " important",
+              "start": 152.8,
+              "end": 153.02
+            },
+            {
+              "word": " clue",
+              "start": 153.02,
+              "end": 153.42
+            },
+            {
+              "word": " is",
+              "start": 153.42,
+              "end": 153.76
+            },
+            {
+              "word": " deliberate",
+              "start": 153.76,
+              "end": 154.06
+            },
+            {
+              "word": " deception.",
+              "start": 154.06,
+              "end": 154.52
+            }
+          ]
+        },
+        {
+          "text": " An accidental paperwork mistake is different from deliberate deception.",
+          "words": [
+            {
+              "word": " An",
+              "start": 155.74,
+              "end": 155.82
+            },
+            {
+              "word": " accidental",
+              "start": 155.82,
+              "end": 156.14
+            },
+            {
+              "word": " paperwork",
+              "start": 156.14,
+              "end": 156.66
+            },
+            {
+              "word": " mistake",
+              "start": 156.66,
+              "end": 157.26
+            },
+            {
+              "word": " is",
+              "start": 157.26,
+              "end": 157.54
+            },
+            {
+              "word": " different",
+              "start": 157.54,
+              "end": 157.84
+            },
+            {
+              "word": " from",
+              "start": 157.84,
+              "end": 158.06
+            },
+            {
+              "word": " deliberate",
+              "start": 158.06,
+              "end": 158.34
+            },
+            {
+              "word": " deception.",
+              "start": 158.34,
+              "end": 158.86
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "text": " involves dishonesty. An example is intentionally falsifying documents to obtain an insurance",
+          "words": [
+            {
+              "word": " involves",
+              "start": 146.0,
+              "end": 146.28
+            },
+            {
+              "word": " dishonesty.",
+              "start": 146.28,
+              "end": 147.06
+            },
+            {
+              "word": " An",
+              "start": 147.96,
+              "end": 147.98
+            },
+            {
+              "word": " example",
+              "start": 147.98,
+              "end": 148.36
+            },
+            {
+              "word": " is",
+              "start": 148.36,
+              "end": 148.6
+            },
+            {
+              "word": " intentionally",
+              "start": 148.6,
+              "end": 149.14
+            },
+            {
+              "word": " falsifying",
+              "start": 149.14,
+              "end": 149.84
+            },
+            {
+              "word": " documents",
+              "start": 149.84,
+              "end": 150.34
+            },
+            {
+              "word": " to",
+              "start": 150.34,
+              "end": 150.58
+            },
+            {
+              "word": " obtain",
+              "start": 150.58,
+              "end": 150.88
+            },
+            {
+              "word": " an",
+              "start": 150.88,
+              "end": 151.08
+            },
+            {
+              "word": " insurance",
+              "start": 151.08,
+              "end": 151.44
+            }
+          ]
+        },
+        {
+          "text": " payment. The important clue is deliberate deception. An accidental paperwork mistake",
+          "words": [
+            {
+              "word": " payment.",
+              "start": 151.44,
+              "end": 151.82
+            },
+            {
+              "word": " The",
+              "start": 152.76,
+              "end": 152.84
+            },
+            {
+              "word": " important",
+              "start": 152.84,
+              "end": 153.16
+            },
+            {
+              "word": " clue",
+              "start": 153.16,
+              "end": 153.54
+            },
+            {
+              "word": " is",
+              "start": 153.54,
+              "end": 153.8
+            },
+            {
+              "word": " deliberate",
+              "start": 153.8,
+              "end": 154.18
+            },
+            {
+              "word": " deception.",
+              "start": 154.18,
+              "end": 154.78
+            },
+            {
+              "word": " An",
+              "start": 155.74,
+              "end": 155.86
+            },
+            {
+              "word": " accidental",
+              "start": 155.86,
+              "end": 156.34
+            },
+            {
+              "word": " paperwork",
+              "start": 156.34,
+              "end": 156.82
+            },
+            {
+              "word": " mistake",
+              "start": 156.82,
+              "end": 157.32
+            }
+          ]
+        },
+        {
+          "text": " is different from deliberate deception.",
+          "words": [
+            {
+              "word": " is",
+              "start": 157.32,
+              "end": 157.6
+            },
+            {
+              "word": " different",
+              "start": 157.6,
+              "end": 157.88
+            },
+            {
+              "word": " from",
+              "start": 157.88,
+              "end": 158.12
+            },
+            {
+              "word": " deliberate",
+              "start": 158.12,
+              "end": 158.48
+            },
+            {
+              "word": " deception.",
+              "start": 158.48,
+              "end": 159.12
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "number": 1,
+    "start": 202,
+    "end": 217,
+    "source": "/home/user/amg-second-review/01/final.mp4",
+    "models": {
+      "base.en": [
+        {
+          "text": " of apparent financial support is a pure risk. Speculative risk includes a chance of gain",
+          "words": [
+            {
+              "word": " of",
+              "start": 202.0,
+              "end": 202.3
+            },
+            {
+              "word": " apparent",
+              "start": 202.3,
+              "end": 202.62
+            },
+            {
+              "word": " financial",
+              "start": 202.62,
+              "end": 203.36
+            },
+            {
+              "word": " support",
+              "start": 203.36,
+              "end": 203.72
+            },
+            {
+              "word": " is",
+              "start": 203.72,
+              "end": 204.48
+            },
+            {
+              "word": " a",
+              "start": 204.48,
+              "end": 204.58
+            },
+            {
+              "word": " pure",
+              "start": 204.58,
+              "end": 204.82
+            },
+            {
+              "word": " risk.",
+              "start": 204.82,
+              "end": 205.4
+            },
+            {
+              "word": " Speculative",
+              "start": 206.3,
+              "end": 206.9
+            },
+            {
+              "word": " risk",
+              "start": 206.9,
+              "end": 207.28
+            },
+            {
+              "word": " includes",
+              "start": 207.28,
+              "end": 207.56
+            },
+            {
+              "word": " a",
+              "start": 207.56,
+              "end": 207.82
+            },
+            {
+              "word": " chance",
+              "start": 207.82,
+              "end": 207.98
+            },
+            {
+              "word": " of",
+              "start": 207.98,
+              "end": 208.3
+            },
+            {
+              "word": " gain",
+              "start": 208.3,
+              "end": 208.46
+            }
+          ]
+        },
+        {
+          "text": " as well as loss. Buying a stock that could rise or fall is an example. Insurance generally",
+          "words": [
+            {
+              "word": " as",
+              "start": 208.46,
+              "end": 208.8
+            },
+            {
+              "word": " well",
+              "start": 208.8,
+              "end": 208.94
+            },
+            {
+              "word": " as",
+              "start": 208.94,
+              "end": 209.12
+            },
+            {
+              "word": " loss.",
+              "start": 209.12,
+              "end": 209.38
+            },
+            {
+              "word": " Buying",
+              "start": 210.36,
+              "end": 210.9
+            },
+            {
+              "word": " a",
+              "start": 210.9,
+              "end": 210.98
+            },
+            {
+              "word": " stock",
+              "start": 210.98,
+              "end": 211.26
+            },
+            {
+              "word": " that",
+              "start": 211.26,
+              "end": 211.56
+            },
+            {
+              "word": " could",
+              "start": 211.56,
+              "end": 211.72
+            },
+            {
+              "word": " rise",
+              "start": 211.72,
+              "end": 211.98
+            },
+            {
+              "word": " or",
+              "start": 211.98,
+              "end": 212.24
+            },
+            {
+              "word": " fall",
+              "start": 212.24,
+              "end": 212.6
+            },
+            {
+              "word": " is",
+              "start": 212.6,
+              "end": 213.24
+            },
+            {
+              "word": " an",
+              "start": 213.24,
+              "end": 213.36
+            },
+            {
+              "word": " example.",
+              "start": 213.36,
+              "end": 213.82
+            },
+            {
+              "word": " Insurance",
+              "start": 215.12,
+              "end": 215.42
+            },
+            {
+              "word": " generally",
+              "start": 215.42,
+              "end": 216.08
+            }
+          ]
+        },
+        {
+          "text": " deals with pure",
+          "words": [
+            {
+              "word": " deals",
+              "start": 216.08,
+              "end": 216.4
+            },
+            {
+              "word": " with",
+              "start": 216.4,
+              "end": 216.68
+            },
+            {
+              "word": " pure",
+              "start": 216.68,
+              "end": 216.88
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "text": " Loss of a parent's financial support is a pure risk.",
+          "words": [
+            {
+              "word": " Loss",
+              "start": 202.0,
+              "end": 202.08
+            },
+            {
+              "word": " of",
+              "start": 202.08,
+              "end": 202.32
+            },
+            {
+              "word": " a",
+              "start": 202.32,
+              "end": 202.44
+            },
+            {
+              "word": " parent's",
+              "start": 202.44,
+              "end": 203.38
+            },
+            {
+              "word": " financial",
+              "start": 203.38,
+              "end": 203.38
+            },
+            {
+              "word": " support",
+              "start": 203.38,
+              "end": 203.96
+            },
+            {
+              "word": " is",
+              "start": 203.96,
+              "end": 204.52
+            },
+            {
+              "word": " a",
+              "start": 204.52,
+              "end": 204.68
+            },
+            {
+              "word": " pure",
+              "start": 204.68,
+              "end": 204.9
+            },
+            {
+              "word": " risk.",
+              "start": 204.9,
+              "end": 205.4
+            }
+          ]
+        },
+        {
+          "text": " Speculative risk includes a chance of gain as well as loss.",
+          "words": [
+            {
+              "word": " Speculative",
+              "start": 206.6,
+              "end": 207.02
+            },
+            {
+              "word": " risk",
+              "start": 207.02,
+              "end": 207.28
+            },
+            {
+              "word": " includes",
+              "start": 207.28,
+              "end": 207.66
+            },
+            {
+              "word": " a",
+              "start": 207.66,
+              "end": 207.88
+            },
+            {
+              "word": " chance",
+              "start": 207.88,
+              "end": 208.1
+            },
+            {
+              "word": " of",
+              "start": 208.1,
+              "end": 208.34
+            },
+            {
+              "word": " gain",
+              "start": 208.34,
+              "end": 208.62
+            },
+            {
+              "word": " as",
+              "start": 208.62,
+              "end": 208.84
+            },
+            {
+              "word": " well",
+              "start": 208.84,
+              "end": 209.0
+            },
+            {
+              "word": " as",
+              "start": 209.0,
+              "end": 209.18
+            },
+            {
+              "word": " loss.",
+              "start": 209.18,
+              "end": 209.48
+            }
+          ]
+        },
+        {
+          "text": " Buying a stock that could rise or fall is an example.",
+          "words": [
+            {
+              "word": " Buying",
+              "start": 210.66,
+              "end": 210.92
+            },
+            {
+              "word": " a",
+              "start": 210.92,
+              "end": 211.06
+            },
+            {
+              "word": " stock",
+              "start": 211.06,
+              "end": 211.34
+            },
+            {
+              "word": " that",
+              "start": 211.34,
+              "end": 211.62
+            },
+            {
+              "word": " could",
+              "start": 211.62,
+              "end": 211.78
+            },
+            {
+              "word": " rise",
+              "start": 211.78,
+              "end": 212.1
+            },
+            {
+              "word": " or",
+              "start": 212.1,
+              "end": 212.32
+            },
+            {
+              "word": " fall",
+              "start": 212.32,
+              "end": 212.72
+            },
+            {
+              "word": " is",
+              "start": 212.72,
+              "end": 213.3
+            },
+            {
+              "word": " an",
+              "start": 213.3,
+              "end": 213.4
+            },
+            {
+              "word": " example.",
+              "start": 213.4,
+              "end": 213.92
+            }
+          ]
+        },
+        {
+          "text": " Insurance generally deals with pure risk.",
+          "words": [
+            {
+              "word": " Insurance",
+              "start": 215.16,
+              "end": 215.58
+            },
+            {
+              "word": " generally",
+              "start": 215.58,
+              "end": 216.12
+            },
+            {
+              "word": " deals",
+              "start": 216.12,
+              "end": 216.48
+            },
+            {
+              "word": " with",
+              "start": 216.48,
+              "end": 216.8
+            },
+            {
+              "word": " pure",
+              "start": 216.8,
+              "end": 216.98
+            },
+            {
+              "word": " risk.",
+              "start": 216.98,
+              "end": 216.98
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "number": 19,
+    "start": 188,
+    "end": 207,
+    "source": "/home/user/amg-second-review/19/final.mp4",
+    "models": {
+      "base.en": [
+        {
+          "text": " fishery, and legal arrangement. It is broader than simply buying a policy.",
+          "words": [
+            {
+              "word": " fishery,",
+              "start": 188.0,
+              "end": 188.62
+            },
+            {
+              "word": " and",
+              "start": 188.94,
+              "end": 189.26
+            },
+            {
+              "word": " legal",
+              "start": 189.26,
+              "end": 189.52
+            },
+            {
+              "word": " arrangement.",
+              "start": 189.52,
+              "end": 190.16
+            },
+            {
+              "word": " It",
+              "start": 191.26,
+              "end": 191.44
+            },
+            {
+              "word": " is",
+              "start": 191.44,
+              "end": 191.56
+            },
+            {
+              "word": " broader",
+              "start": 191.56,
+              "end": 191.94
+            },
+            {
+              "word": " than",
+              "start": 191.94,
+              "end": 193.06
+            },
+            {
+              "word": " simply",
+              "start": 193.06,
+              "end": 193.46
+            },
+            {
+              "word": " buying",
+              "start": 193.46,
+              "end": 194.32
+            },
+            {
+              "word": " a",
+              "start": 194.32,
+              "end": 194.54
+            },
+            {
+              "word": " policy.",
+              "start": 194.54,
+              "end": 194.92
+            }
+          ]
+        },
+        {
+          "text": " Some permanent policies offer cash accumulation during life, subject to their contract, charges,",
+          "words": [
+            {
+              "word": " Some",
+              "start": 196.26,
+              "end": 196.56
+            },
+            {
+              "word": " permanent",
+              "start": 196.56,
+              "end": 197.08
+            },
+            {
+              "word": " policies",
+              "start": 197.08,
+              "end": 197.7
+            },
+            {
+              "word": " offer",
+              "start": 197.7,
+              "end": 198.28
+            },
+            {
+              "word": " cash",
+              "start": 198.28,
+              "end": 198.82
+            },
+            {
+              "word": " accumulation",
+              "start": 198.82,
+              "end": 199.56
+            },
+            {
+              "word": " during",
+              "start": 199.56,
+              "end": 200.42
+            },
+            {
+              "word": " life,",
+              "start": 200.42,
+              "end": 200.82
+            },
+            {
+              "word": " subject",
+              "start": 201.52,
+              "end": 201.74
+            },
+            {
+              "word": " to",
+              "start": 201.74,
+              "end": 202.08
+            },
+            {
+              "word": " their",
+              "start": 202.08,
+              "end": 202.24
+            },
+            {
+              "word": " contract,",
+              "start": 202.24,
+              "end": 202.74
+            },
+            {
+              "word": " charges,",
+              "start": 203.46,
+              "end": 203.82
+            }
+          ]
+        },
+        {
+          "text": " and funding. Keep that",
+          "words": [
+            {
+              "word": " and",
+              "start": 204.68,
+              "end": 204.92000000000002
+            },
+            {
+              "word": " funding.",
+              "start": 204.92000000000002,
+              "end": 205.32
+            },
+            {
+              "word": " Keep",
+              "start": 206.44,
+              "end": 206.56
+            },
+            {
+              "word": " that",
+              "start": 206.56,
+              "end": 206.82
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "text": " beneficiary, and legal arrangement. It is broader than simply buying a policy.",
+          "words": [
+            {
+              "word": " beneficiary,",
+              "start": 188.0,
+              "end": 188.48
+            },
+            {
+              "word": " and",
+              "start": 189.1,
+              "end": 189.3
+            },
+            {
+              "word": " legal",
+              "start": 189.3,
+              "end": 189.66
+            },
+            {
+              "word": " arrangement.",
+              "start": 189.66,
+              "end": 190.32
+            },
+            {
+              "word": " It",
+              "start": 191.38,
+              "end": 191.46
+            },
+            {
+              "word": " is",
+              "start": 191.46,
+              "end": 191.64
+            },
+            {
+              "word": " broader",
+              "start": 191.64,
+              "end": 192.06
+            },
+            {
+              "word": " than",
+              "start": 192.06,
+              "end": 193.12
+            },
+            {
+              "word": " simply",
+              "start": 193.12,
+              "end": 193.68
+            },
+            {
+              "word": " buying",
+              "start": 193.68,
+              "end": 194.38
+            },
+            {
+              "word": " a",
+              "start": 194.38,
+              "end": 194.62
+            },
+            {
+              "word": " policy.",
+              "start": 194.62,
+              "end": 195.12
+            }
+          ]
+        },
+        {
+          "text": " Some permanent policies offer cash accumulation during life, subject to their contract, charges, and funding.",
+          "words": [
+            {
+              "word": " Some",
+              "start": 196.32,
+              "end": 196.66
+            },
+            {
+              "word": " permanent",
+              "start": 196.66,
+              "end": 197.18
+            },
+            {
+              "word": " policies",
+              "start": 197.18,
+              "end": 197.84
+            },
+            {
+              "word": " offer",
+              "start": 197.84,
+              "end": 198.48
+            },
+            {
+              "word": " cash",
+              "start": 198.48,
+              "end": 199.02
+            },
+            {
+              "word": " accumulation",
+              "start": 199.02,
+              "end": 199.9
+            },
+            {
+              "word": " during",
+              "start": 199.9,
+              "end": 200.5
+            },
+            {
+              "word": " life,",
+              "start": 200.5,
+              "end": 201.0
+            },
+            {
+              "word": " subject",
+              "start": 201.54,
+              "end": 201.78
+            },
+            {
+              "word": " to",
+              "start": 201.78,
+              "end": 202.14
+            },
+            {
+              "word": " their",
+              "start": 202.14,
+              "end": 202.28
+            },
+            {
+              "word": " contract,",
+              "start": 202.28,
+              "end": 203.0
+            },
+            {
+              "word": " charges,",
+              "start": 203.7,
+              "end": 204.02
+            },
+            {
+              "word": " and",
+              "start": 204.8,
+              "end": 204.98
+            },
+            {
+              "word": " funding.",
+              "start": 204.98,
+              "end": 205.42000000000002
+            }
+          ]
+        },
+        {
+          "text": " Keep that.",
+          "words": [
+            {
+              "word": " Keep",
+              "start": 206.1,
+              "end": 206.62
+            },
+            {
+              "word": " that.",
+              "start": 206.62,
+              "end": 206.88
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "number": 0,
+    "start": 0,
+    "end": 8.28,
+    "source": "/home/user/amg-second-review/part2-repair.mp3",
+    "models": {
+      "base.en": [
+        {
+          "text": " Compare one extra claim in two groups, with the same assumed 1% probability.",
+          "words": [
+            {
+              "word": " Compare",
+              "start": 1.1400000000000006,
+              "end": 1.98
+            },
+            {
+              "word": " one",
+              "start": 1.98,
+              "end": 2.34
+            },
+            {
+              "word": " extra",
+              "start": 2.34,
+              "end": 2.78
+            },
+            {
+              "word": " claim",
+              "start": 2.78,
+              "end": 3.16
+            },
+            {
+              "word": " in",
+              "start": 3.16,
+              "end": 3.44
+            },
+            {
+              "word": " two",
+              "start": 3.44,
+              "end": 3.66
+            },
+            {
+              "word": " groups,",
+              "start": 3.66,
+              "end": 4.06
+            },
+            {
+              "word": " with",
+              "start": 4.92,
+              "end": 5.1
+            },
+            {
+              "word": " the",
+              "start": 5.1,
+              "end": 5.26
+            },
+            {
+              "word": " same",
+              "start": 5.26,
+              "end": 5.52
+            },
+            {
+              "word": " assumed",
+              "start": 5.52,
+              "end": 6.0
+            },
+            {
+              "word": " 1",
+              "start": 6.0,
+              "end": 6.54
+            },
+            {
+              "word": "%",
+              "start": 6.54,
+              "end": 6.98
+            },
+            {
+              "word": " probability.",
+              "start": 6.98,
+              "end": 7.56
+            }
+          ]
+        }
+      ],
+      "small.en": [
+        {
+          "text": " Compare one extra claim in two groups with the same assumed 1% probability.",
+          "words": [
+            {
+              "word": " Compare",
+              "start": 1.2000000000000002,
+              "end": 2.04
+            },
+            {
+              "word": " one",
+              "start": 2.04,
+              "end": 2.44
+            },
+            {
+              "word": " extra",
+              "start": 2.44,
+              "end": 2.86
+            },
+            {
+              "word": " claim",
+              "start": 2.86,
+              "end": 3.26
+            },
+            {
+              "word": " in",
+              "start": 3.26,
+              "end": 3.5
+            },
+            {
+              "word": " two",
+              "start": 3.5,
+              "end": 3.8
+            },
+            {
+              "word": " groups",
+              "start": 3.8,
+              "end": 4.26
+            },
+            {
+              "word": " with",
+              "start": 4.26,
+              "end": 5.16
+            },
+            {
+              "word": " the",
+              "start": 5.16,
+              "end": 5.34
+            },
+            {
+              "word": " same",
+              "start": 5.34,
+              "end": 5.62
+            },
+            {
+              "word": " assumed",
+              "start": 5.62,
+              "end": 6.24
+            },
+            {
+              "word": " 1",
+              "start": 6.24,
+              "end": 6.62
+            },
+            {
+              "word": "%",
+              "start": 6.62,
+              "end": 7.1
+            },
+            {
+              "word": " probability.",
+              "start": 7.1,
+              "end": 7.6
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

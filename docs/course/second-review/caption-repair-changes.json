@@ -1,0 +1,1012 @@
+{
+  "date": "2026-09-13",
+  "method": "Merge preceding related cue and short tail with original outer timestamps; preserve preceding identifier; do not renumber other cues",
+  "lessons": [
+    {
+      "lesson": 2,
+      "old_cues": 54,
+      "new_cues": 52,
+      "repairs": 2,
+      "before_sha256": "070ceb12fd68a50ccd2f70cab376057877d4bb709f9b3926e24d54ca3e0f3fb4",
+      "after_sha256": "232544bb79bfbaa6420fa03989178dd24b6a56df9e5a6ceda86423767b422569",
+      "public": "public/course/lesson-02/scene-captions.vtt",
+      "source": null
+    },
+    {
+      "lesson": 4,
+      "old_cues": 60,
+      "new_cues": 59,
+      "repairs": 1,
+      "before_sha256": "59e6f0af66da00b2bf27fe5c9590889b9687005a9aa64e8452ef988ef65584e3",
+      "after_sha256": "03b1ccfeae46c49eb3ef870047dbe370b5b98891df95dda5067cb8f25b3cc30f",
+      "public": "public/course/lesson-04/scene-captions.vtt",
+      "source": "docs/course/full-course/captions-04.vtt"
+    },
+    {
+      "lesson": 5,
+      "old_cues": 54,
+      "new_cues": 53,
+      "repairs": 1,
+      "before_sha256": "9df0b3dd322d4d51050c7c859f10ae0e544d3306f3b403560af6d92b11885c73",
+      "after_sha256": "0a60be7e08ebdf3813243557ebd33ca077b4c6707fb1ffc62026681fa6fb2075",
+      "public": "public/course/lesson-05/scene-captions.vtt",
+      "source": "docs/course/full-course/captions-05.vtt"
+    },
+    {
+      "lesson": 7,
+      "old_cues": 59,
+      "new_cues": 58,
+      "repairs": 1,
+      "before_sha256": "b12cf46a6a72c8b7d198991e0709d45071ed5ad1e29e892320a6dfffcb070fb2",
+      "after_sha256": "fac54620d3775d1be2793015df82cac3fbc581ba68ea87ee8994d61798c3b389",
+      "public": "public/course/lesson-07/scene-captions.vtt",
+      "source": "docs/course/full-course/captions-07.vtt"
+    },
+    {
+      "lesson": 8,
+      "old_cues": 59,
+      "new_cues": 58,
+      "repairs": 1,
+      "before_sha256": "2ff1498ad371d3292f9995352183bedf24c6613b667df2aaa327e88efe171d41",
+      "after_sha256": "7028627a92da8736b5aee8f5c1cf76a602e8ae1030ebd42757e65a9b1e2cb003",
+      "public": "public/course/lesson-08/scene-captions.vtt",
+      "source": "docs/course/full-course/captions-08.vtt"
+    },
+    {
+      "lesson": 10,
+      "old_cues": 58,
+      "new_cues": 57,
+      "repairs": 1,
+      "before_sha256": "3916a9f758cca65db12dd7692c19e4af981e1da2c0664d32cdf42ad4e1e0d9c1",
+      "after_sha256": "294a6f35a72e16849769f79cf2ca6001d50a76a6df512f6f7f5c3c8c2e6666aa",
+      "public": "public/course/lesson-10/scene-captions.vtt",
+      "source": "docs/course/full-course/captions-10.vtt"
+    },
+    {
+      "lesson": 11,
+      "old_cues": 61,
+      "new_cues": 60,
+      "repairs": 1,
+      "before_sha256": "d0fd132bb4a5f2dc9872ee8d72659b9ec00a4a2d9778d4a55b9513ad5d8532cf",
+      "after_sha256": "8968392b335bc9bc5134ebfff153c1df5848da9d2480eccce4e132f215e6d530",
+      "public": "public/course/lesson-11/scene-captions.vtt",
+      "source": "docs/course/full-course/captions-11.vtt"
+    },
+    {
+      "lesson": 19,
+      "old_cues": 63,
+      "new_cues": 62,
+      "repairs": 1,
+      "before_sha256": "5b627bd6e6b7c753b6964ee21f28b5114ce576c1131b9f23ea5b5123301dc6c2",
+      "after_sha256": "177faeba02752948ebbd9e592298114434d030133a2934c06e3f5fed8fae78b5",
+      "public": "public/course/lesson-19/scene-captions.vtt",
+      "source": "docs/course/full-course/captions-19.vtt"
+    },
+    {
+      "lesson": 20,
+      "old_cues": 62,
+      "new_cues": 61,
+      "repairs": 1,
+      "before_sha256": "e213797020ce92d828e0f1349cd8369859bbddb2a416560868fa9c641d5128fa",
+      "after_sha256": "39356bd700f711edb89ceaffba04be1c2bd48a7d932cb86b5442333824750d45",
+      "public": "public/course/lesson-20/scene-captions.vtt",
+      "source": "docs/course/full-course/captions-20.vtt"
+    },
+    {
+      "lesson": 22,
+      "old_cues": 65,
+      "new_cues": 64,
+      "repairs": 1,
+      "before_sha256": "d945ec273fe37c67ce3838ef8c9dba7dc007ca21518b28857ed0a789819781ac",
+      "after_sha256": "89a6393f02abac6d78d5d06cf344d709daaa3c2425cefd9aacacacd0fd86751b",
+      "public": "public/course/lesson-22/scene-captions.vtt",
+      "source": "docs/course/full-course/captions-22.vtt"
+    },
+    {
+      "lesson": 28,
+      "old_cues": 70,
+      "new_cues": 69,
+      "repairs": 1,
+      "before_sha256": "4b6181ab688e0575a25fae4723bb8d403b067bf5014a78f554e1df536ff87f1e",
+      "after_sha256": "96fe6c825202d8571174d5b99221a32f9b47be54dd0f759663cf6e704968eaad",
+      "public": "public/course/lesson-28/scene-captions.vtt",
+      "source": "docs/course/full-course/captions-28.vtt"
+    },
+    {
+      "lesson": 32,
+      "old_cues": 66,
+      "new_cues": 65,
+      "repairs": 1,
+      "before_sha256": "bf873db3a8d9dceba98188fb5f5207a27d6523ec6061e9db025fab60cba49e4d",
+      "after_sha256": "76db773cdaa102d281672391c62da4ce4a7773efa7b61f33b4b8f956c71e616f",
+      "public": "public/course/lesson-32/scene-captions.vtt",
+      "source": "docs/course/full-course/captions-32.vtt"
+    },
+    {
+      "lesson": 35,
+      "old_cues": 69,
+      "new_cues": 68,
+      "repairs": 1,
+      "before_sha256": "be943bc6525c184f70e7435c8fb05bcdb58834f4f1986ad5a42de2dd8613b187",
+      "after_sha256": "0c1e317ee9849f1af3fa1eb6fec38f828e75f64f0b1f37f4c8b12c23614e1346",
+      "public": "public/course/lesson-35/scene-captions.vtt",
+      "source": "docs/course/full-course/captions-35.vtt"
+    },
+    {
+      "lesson": 37,
+      "old_cues": 64,
+      "new_cues": 62,
+      "repairs": 2,
+      "before_sha256": "978de596ba8b4fde6d00b5907c94729374b3f815ae43a64afc3b47cecaad3261",
+      "after_sha256": "51ab25b7ffea9bc08234ef234ed59960786489eaab6139ccc8760ea92ee86014",
+      "public": "public/course/lesson-37/scene-captions.vtt",
+      "source": "docs/course/full-course/captions-37.vtt"
+    },
+    {
+      "lesson": 44,
+      "old_cues": 71,
+      "new_cues": 70,
+      "repairs": 1,
+      "before_sha256": "01a5e4f282bce14ddb15c04ea3ed22add1c9ac3075066e49dbaeb1be046e9af2",
+      "after_sha256": "98a7375b3c735aa6632c0f8f5a482bb489dd3a1eb08197a6c00d6a69d269c15f",
+      "public": "public/course/lesson-44/scene-captions.vtt",
+      "source": "docs/course/full-course/captions-44.vtt"
+    },
+    {
+      "lesson": 50,
+      "old_cues": 72,
+      "new_cues": 70,
+      "repairs": 2,
+      "before_sha256": "8bd89c1a4e7aced21f4b3b38e338c20c0998db04a565dea537c7ef234452dd2d",
+      "after_sha256": "5a95e24bf54481238ba22f2676a478b0290702c83b0bc8790ca61b3aa391e050",
+      "public": "public/course/lesson-50/scene-captions.vtt",
+      "source": "docs/course/full-course/captions-50.vtt"
+    },
+    {
+      "lesson": 54,
+      "old_cues": 75,
+      "new_cues": 74,
+      "repairs": 1,
+      "before_sha256": "4d36d9576cd6028503033faf068b4aced2bd17170f7e696c65592ec6f4b1a5fd",
+      "after_sha256": "1ef6a5b99a525bd724b4477e2b678b9c0e0c72cf045333b4507b0ff0189b2e87",
+      "public": "public/course/lesson-54/scene-captions.vtt",
+      "source": "docs/course/full-course/captions-54.vtt"
+    },
+    {
+      "lesson": 55,
+      "old_cues": 71,
+      "new_cues": 70,
+      "repairs": 1,
+      "before_sha256": "9a878f11f8e0e81ec25d284eeb567e9aefa4e430e5245525cb3b6da40d131d60",
+      "after_sha256": "c6ec677d2e7a9d662c8a8eda847e3c538fc907207151d9f96aef9e8a1493997d",
+      "public": "public/course/lesson-55/scene-captions.vtt",
+      "source": "docs/course/full-course/captions-55.vtt"
+    },
+    {
+      "lesson": 56,
+      "old_cues": 71,
+      "new_cues": 70,
+      "repairs": 1,
+      "before_sha256": "0c39ce570236548fc9ee2e91e9dd1c55af8be0571ff93918606fa18dd35151f0",
+      "after_sha256": "744bee43621730a646a7d5ecd1f01efb29d267b9e16fec0864e5441c7bb00509",
+      "public": "public/course/lesson-56/scene-captions.vtt",
+      "source": "docs/course/full-course/captions-56.vtt"
+    }
+  ],
+  "changes": [
+    {
+      "lesson": 2,
+      "original_cues": [
+        19,
+        20
+      ],
+      "before": [
+        {
+          "id": [
+            "19"
+          ],
+          "start": "00:01:20.492",
+          "end": "00:01:24.512",
+          "text": "more predictable average loss experience."
+        },
+        {
+          "id": [
+            "20"
+          ],
+          "start": "00:01:25.852",
+          "end": "00:01:26.832",
+          "text": "The key word is average."
+        }
+      ],
+      "after": {
+        "id": [
+          "19"
+        ],
+        "start": "00:01:20.492",
+        "end": "00:01:26.832",
+        "text": "more predictable average loss experience.\nThe key word is average."
+      },
+      "original_tail_duration_ms": 980,
+      "new_duration_ms": 6340,
+      "max_line_chars": 41,
+      "new_cps": 10.41
+    },
+    {
+      "lesson": 2,
+      "original_cues": [
+        53,
+        54
+      ],
+      "before": [
+        {
+          "id": [
+            "53"
+          ],
+          "start": "00:03:13.910",
+          "end": "00:03:16.890",
+          "text": "Now answer the eight lesson questions, and review any mistakes before"
+        },
+        {
+          "id": [
+            "54"
+          ],
+          "start": "00:03:16.890",
+          "end": "00:03:17.370",
+          "text": "finishing."
+        }
+      ],
+      "after": {
+        "id": [
+          "53"
+        ],
+        "start": "00:03:13.910",
+        "end": "00:03:17.370",
+        "text": "Now answer the eight lesson questions,\nand review any mistakes before finishing."
+      },
+      "original_tail_duration_ms": 480,
+      "new_duration_ms": 3460,
+      "max_line_chars": 41,
+      "new_cps": 23.121
+    },
+    {
+      "lesson": 4,
+      "original_cues": [
+        3,
+        4
+      ],
+      "before": [
+        {
+          "id": [
+            "3"
+          ],
+          "start": "00:00:09.780",
+          "end": "00:00:12.320",
+          "text": "Is it stock, foreign, or admitted?"
+        },
+        {
+          "id": [
+            "4"
+          ],
+          "start": "00:00:13.420",
+          "end": "00:00:14.400",
+          "text": "It can be all three."
+        }
+      ],
+      "after": {
+        "id": [
+          "3"
+        ],
+        "start": "00:00:09.780",
+        "end": "00:00:14.400",
+        "text": "Is it stock, foreign, or admitted?\nIt can be all three."
+      },
+      "original_tail_duration_ms": 980,
+      "new_duration_ms": 4620,
+      "max_line_chars": 34,
+      "new_cps": 11.905
+    },
+    {
+      "lesson": 5,
+      "original_cues": [
+        24,
+        25
+      ],
+      "before": [
+        {
+          "id": [
+            "24"
+          ],
+          "start": "00:01:26.488",
+          "end": "00:01:30.068",
+          "text": "promising an underwriting result is not justified merely because it would"
+        },
+        {
+          "id": [
+            "25"
+          ],
+          "start": "00:01:30.068",
+          "end": "00:01:30.848",
+          "text": "help make a sale."
+        }
+      ],
+      "after": {
+        "id": [
+          "24"
+        ],
+        "start": "00:01:26.488",
+        "end": "00:01:30.848",
+        "text": "promising an underwriting result is not justified\nmerely because it would help make a sale."
+      },
+      "original_tail_duration_ms": 780,
+      "new_duration_ms": 4360,
+      "max_line_chars": 49,
+      "new_cps": 20.872
+    },
+    {
+      "lesson": 7,
+      "original_cues": [
+        58,
+        59
+      ],
+      "before": [
+        {
+          "id": [
+            "58"
+          ],
+          "start": "00:04:10.910",
+          "end": "00:04:15.930",
+          "text": "avoidable disputes through accurate records and clear explanations from the"
+        },
+        {
+          "id": [
+            "59"
+          ],
+          "start": "00:04:15.930",
+          "end": "00:04:16.210",
+          "text": "start."
+        }
+      ],
+      "after": {
+        "id": [
+          "58"
+        ],
+        "start": "00:04:10.910",
+        "end": "00:04:16.210",
+        "text": "avoidable disputes through accurate records\nand clear explanations from the start."
+      },
+      "original_tail_duration_ms": 280,
+      "new_duration_ms": 5300,
+      "max_line_chars": 43,
+      "new_cps": 15.472
+    },
+    {
+      "lesson": 8,
+      "original_cues": [
+        58,
+        59
+      ],
+      "before": [
+        {
+          "id": [
+            "58"
+          ],
+          "start": "00:04:00.142",
+          "end": "00:04:04.962",
+          "text": "Match the organization's actual function to the facts before selecting an"
+        },
+        {
+          "id": [
+            "59"
+          ],
+          "start": "00:04:04.962",
+          "end": "00:04:05.362",
+          "text": "answer."
+        }
+      ],
+      "after": {
+        "id": [
+          "58"
+        ],
+        "start": "00:04:00.142",
+        "end": "00:04:05.362",
+        "text": "Match the organization's actual function\nto the facts before selecting an answer."
+      },
+      "original_tail_duration_ms": 400,
+      "new_duration_ms": 5220,
+      "max_line_chars": 40,
+      "new_cps": 15.517
+    },
+    {
+      "lesson": 10,
+      "original_cues": [
+        4,
+        5
+      ],
+      "before": [
+        {
+          "id": [
+            "4"
+          ],
+          "start": "00:00:11.400",
+          "end": "00:00:16.060",
+          "text": "every two years. An individual's expiration is tied to the end"
+        },
+        {
+          "id": [
+            "5"
+          ],
+          "start": "00:00:16.060",
+          "end": "00:00:16.980",
+          "text": "of the birth month."
+        }
+      ],
+      "after": {
+        "id": [
+          "4"
+        ],
+        "start": "00:00:11.400",
+        "end": "00:00:16.980",
+        "text": "every two years. An individual's expiration\nis tied to the end of the birth month."
+      },
+      "original_tail_duration_ms": 920,
+      "new_duration_ms": 5580,
+      "max_line_chars": 43,
+      "new_cps": 14.695
+    },
+    {
+      "lesson": 11,
+      "original_cues": [
+        60,
+        61
+      ],
+      "before": [
+        {
+          "id": [
+            "60"
+          ],
+          "start": "00:04:09.690",
+          "end": "00:04:14.830",
+          "text": "Preserve the facts, use the required reporting process and cooperate within"
+        },
+        {
+          "id": [
+            "61"
+          ],
+          "start": "00:04:14.830",
+          "end": "00:04:15.310",
+          "text": "the law."
+        }
+      ],
+      "after": {
+        "id": [
+          "60"
+        ],
+        "start": "00:04:09.690",
+        "end": "00:04:15.310",
+        "text": "Preserve the facts, use the required reporting\nprocess and cooperate within the law."
+      },
+      "original_tail_duration_ms": 480,
+      "new_duration_ms": 5620,
+      "max_line_chars": 46,
+      "new_cps": 14.947
+    },
+    {
+      "lesson": 19,
+      "original_cues": [
+        62,
+        63
+      ],
+      "before": [
+        {
+          "id": [
+            "62"
+          ],
+          "start": "00:04:11.078",
+          "end": "00:04:15.978",
+          "text": "resources, affordable coverage and the changes that should trigger a new"
+        },
+        {
+          "id": [
+            "63"
+          ],
+          "start": "00:04:15.978",
+          "end": "00:04:16.338",
+          "text": "review."
+        }
+      ],
+      "after": {
+        "id": [
+          "62"
+        ],
+        "start": "00:04:11.078",
+        "end": "00:04:16.338",
+        "text": "resources, affordable coverage and the changes\nthat should trigger a new review."
+      },
+      "original_tail_duration_ms": 360,
+      "new_duration_ms": 5260,
+      "max_line_chars": 46,
+      "new_cps": 15.209
+    },
+    {
+      "lesson": 20,
+      "original_cues": [
+        38,
+        39
+      ],
+      "before": [
+        {
+          "id": [
+            "38"
+          ],
+          "start": "00:02:52.246",
+          "end": "00:02:54.206",
+          "text": "after the broker receives them."
+        },
+        {
+          "id": [
+            "39"
+          ],
+          "start": "00:02:54.626",
+          "end": "00:02:55.586",
+          "text": "These are different clocks."
+        }
+      ],
+      "after": {
+        "id": [
+          "38"
+        ],
+        "start": "00:02:52.246",
+        "end": "00:02:55.586",
+        "text": "after the broker receives them.\nThese are different clocks."
+      },
+      "original_tail_duration_ms": 960,
+      "new_duration_ms": 3340,
+      "max_line_chars": 31,
+      "new_cps": 17.665
+    },
+    {
+      "lesson": 22,
+      "original_cues": [
+        64,
+        65
+      ],
+      "before": [
+        {
+          "id": [
+            "64"
+          ],
+          "start": "00:04:45.206",
+          "end": "00:04:50.206",
+          "text": "cost, and payment mode describes the schedule on which premiums are"
+        },
+        {
+          "id": [
+            "65"
+          ],
+          "start": "00:04:50.206",
+          "end": "00:04:50.586",
+          "text": "collected."
+        }
+      ],
+      "after": {
+        "id": [
+          "64"
+        ],
+        "start": "00:04:45.206",
+        "end": "00:04:50.586",
+        "text": "cost, and payment mode describes the schedule\non which premiums are collected."
+      },
+      "original_tail_duration_ms": 380,
+      "new_duration_ms": 5380,
+      "max_line_chars": 45,
+      "new_cps": 14.498
+    },
+    {
+      "lesson": 28,
+      "original_cues": [
+        69,
+        70
+      ],
+      "before": [
+        {
+          "id": [
+            "69"
+          ],
+          "start": "00:04:49.510",
+          "end": "00:04:54.750",
+          "text": "protection need to an affordable funding plan and the contract's"
+        },
+        {
+          "id": [
+            "70"
+          ],
+          "start": "00:04:54.750",
+          "end": "00:04:55.690",
+          "text": "actual conditions."
+        }
+      ],
+      "after": {
+        "id": [
+          "69"
+        ],
+        "start": "00:04:49.510",
+        "end": "00:04:55.690",
+        "text": "protection need to an affordable funding plan\nand the contract's actual conditions."
+      },
+      "original_tail_duration_ms": 940,
+      "new_duration_ms": 6180,
+      "max_line_chars": 45,
+      "new_cps": 13.43
+    },
+    {
+      "lesson": 32,
+      "original_cues": [
+        34,
+        35
+      ],
+      "before": [
+        {
+          "id": [
+            "34"
+          ],
+          "start": "00:02:16.278",
+          "end": "00:02:20.778",
+          "text": "Now assume Elena retains ownership but pledges specified policy rights to"
+        },
+        {
+          "id": [
+            "35"
+          ],
+          "start": "00:02:20.778",
+          "end": "00:02:21.618",
+          "text": "a lender as collateral."
+        }
+      ],
+      "after": {
+        "id": [
+          "34"
+        ],
+        "start": "00:02:16.278",
+        "end": "00:02:21.618",
+        "text": "Now assume Elena retains ownership but pledges\nspecified policy rights to a lender as collateral."
+      },
+      "original_tail_duration_ms": 840,
+      "new_duration_ms": 5340,
+      "max_line_chars": 50,
+      "new_cps": 18.165
+    },
+    {
+      "lesson": 35,
+      "original_cues": [
+        26,
+        27
+      ],
+      "before": [
+        {
+          "id": [
+            "26"
+          ],
+          "start": "00:01:46.332",
+          "end": "00:01:49.912",
+          "text": "The correct-age premium for that same stated coverage would have been"
+        },
+        {
+          "id": [
+            "27"
+          ],
+          "start": "00:01:49.912",
+          "end": "00:01:50.892",
+          "text": "two hundred fifty dollars."
+        }
+      ],
+      "after": {
+        "id": [
+          "26"
+        ],
+        "start": "00:01:46.332",
+        "end": "00:01:50.892",
+        "text": "The correct-age premium for that same stated\ncoverage would have been two hundred fifty dollars."
+      },
+      "original_tail_duration_ms": 980,
+      "new_duration_ms": 4560,
+      "max_line_chars": 51,
+      "new_cps": 21.053
+    },
+    {
+      "lesson": 37,
+      "original_cues": [
+        24,
+        25
+      ],
+      "before": [
+        {
+          "id": [
+            "24"
+          ],
+          "start": "00:01:25.625",
+          "end": "00:01:29.485",
+          "text": "protection at the original face amount for as long as that"
+        },
+        {
+          "id": [
+            "25"
+          ],
+          "start": "00:01:29.485",
+          "end": "00:01:30.425",
+          "text": "value purchases."
+        }
+      ],
+      "after": {
+        "id": [
+          "24"
+        ],
+        "start": "00:01:25.625",
+        "end": "00:01:30.425",
+        "text": "protection at the original face amount\nfor as long as that value purchases."
+      },
+      "original_tail_duration_ms": 940,
+      "new_duration_ms": 4800,
+      "max_line_chars": 38,
+      "new_cps": 15.625
+    },
+    {
+      "lesson": 37,
+      "original_cues": [
+        63,
+        64
+      ],
+      "before": [
+        {
+          "id": [
+            "63"
+          ],
+          "start": "00:04:21.667",
+          "end": "00:04:25.247",
+          "text": "tax effects and the actual written values before an owner makes"
+        },
+        {
+          "id": [
+            "64"
+          ],
+          "start": "00:04:25.247",
+          "end": "00:04:25.987",
+          "text": "a real decision."
+        }
+      ],
+      "after": {
+        "id": [
+          "63"
+        ],
+        "start": "00:04:21.667",
+        "end": "00:04:25.987",
+        "text": "tax effects and the actual written values\nbefore an owner makes a real decision."
+      },
+      "original_tail_duration_ms": 740,
+      "new_duration_ms": 4320,
+      "max_line_chars": 41,
+      "new_cps": 18.519
+    },
+    {
+      "lesson": 44,
+      "original_cues": [
+        41,
+        42
+      ],
+      "before": [
+        {
+          "id": [
+            "41"
+          ],
+          "start": "00:02:53.378",
+          "end": "00:02:56.138",
+          "text": "The owner and annuitant may be the same person, but the"
+        },
+        {
+          "id": [
+            "42"
+          ],
+          "start": "00:02:56.138",
+          "end": "00:02:57.058",
+          "text": "roles are not identical."
+        }
+      ],
+      "after": {
+        "id": [
+          "41"
+        ],
+        "start": "00:02:53.378",
+        "end": "00:02:57.058",
+        "text": "The owner and annuitant may be the same person,\nbut the roles are not identical."
+      },
+      "original_tail_duration_ms": 920,
+      "new_duration_ms": 3680,
+      "max_line_chars": 47,
+      "new_cps": 21.739
+    },
+    {
+      "lesson": 50,
+      "original_cues": [
+        19,
+        20
+      ],
+      "before": [
+        {
+          "id": [
+            "19"
+          ],
+          "start": "00:01:05.134",
+          "end": "00:01:08.274",
+          "text": "seven-pay annual limit and a twenty thousand dollar cumulative limit at"
+        },
+        {
+          "id": [
+            "20"
+          ],
+          "start": "00:01:08.274",
+          "end": "00:01:09.134",
+          "text": "the end of year two."
+        }
+      ],
+      "after": {
+        "id": [
+          "19"
+        ],
+        "start": "00:01:05.134",
+        "end": "00:01:09.134",
+        "text": "seven-pay annual limit and a twenty thousand dollar\ncumulative limit at the end of year two."
+      },
+      "original_tail_duration_ms": 860,
+      "new_duration_ms": 4000,
+      "max_line_chars": 51,
+      "new_cps": 23.0
+    },
+    {
+      "lesson": 50,
+      "original_cues": [
+        71,
+        72
+      ],
+      "before": [
+        {
+          "id": [
+            "71"
+          ],
+          "start": "00:04:34.946",
+          "end": "00:04:38.546",
+          "text": "then check age and the actual exception before calculating the extra"
+        },
+        {
+          "id": [
+            "72"
+          ],
+          "start": "00:04:38.546",
+          "end": "00:04:39.006",
+          "text": "tax."
+        }
+      ],
+      "after": {
+        "id": [
+          "71"
+        ],
+        "start": "00:04:34.946",
+        "end": "00:04:39.006",
+        "text": "then check age and the actual exception\nbefore calculating the extra tax."
+      },
+      "original_tail_duration_ms": 460,
+      "new_duration_ms": 4060,
+      "max_line_chars": 39,
+      "new_cps": 17.98
+    },
+    {
+      "lesson": 54,
+      "original_cues": [
+        74,
+        75
+      ],
+      "before": [
+        {
+          "id": [
+            "74"
+          ],
+          "start": "00:04:43.825",
+          "end": "00:04:47.965",
+          "text": "choice. On the exam, identify the tax treatment the stated facts"
+        },
+        {
+          "id": [
+            "75"
+          ],
+          "start": "00:04:47.965",
+          "end": "00:04:48.885",
+          "text": "actually support."
+        }
+      ],
+      "after": {
+        "id": [
+          "74"
+        ],
+        "start": "00:04:43.825",
+        "end": "00:04:48.885",
+        "text": "choice. On the exam, identify the tax treatment\nthe stated facts actually support."
+      },
+      "original_tail_duration_ms": 920,
+      "new_duration_ms": 5060,
+      "max_line_chars": 47,
+      "new_cps": 16.206
+    },
+    {
+      "lesson": 55,
+      "original_cues": [
+        70,
+        71
+      ],
+      "before": [
+        {
+          "id": [
+            "70"
+          ],
+          "start": "00:04:42.417",
+          "end": "00:04:47.417",
+          "text": "Compare the actual investments, charges, protections and access rights as a"
+        },
+        {
+          "id": [
+            "71"
+          ],
+          "start": "00:04:47.417",
+          "end": "00:04:48.037",
+          "text": "separate decision."
+        }
+      ],
+      "after": {
+        "id": [
+          "70"
+        ],
+        "start": "00:04:42.417",
+        "end": "00:04:48.037",
+        "text": "Compare the actual investments, charges, protections\nand access rights as a separate decision."
+      },
+      "original_tail_duration_ms": 620,
+      "new_duration_ms": 5620,
+      "max_line_chars": 52,
+      "new_cps": 16.726
+    },
+    {
+      "lesson": 56,
+      "original_cues": [
+        70,
+        71
+      ],
+      "before": [
+        {
+          "id": [
+            "70"
+          ],
+          "start": "00:04:44.672",
+          "end": "00:04:48.492",
+          "text": "result, then keep the separate contract and recommendation consequences in"
+        },
+        {
+          "id": [
+            "71"
+          ],
+          "start": "00:04:48.492",
+          "end": "00:04:48.732",
+          "text": "view."
+        }
+      ],
+      "after": {
+        "id": [
+          "70"
+        ],
+        "start": "00:04:44.672",
+        "end": "00:04:48.732",
+        "text": "result, then keep the separate contract\nand recommendation consequences in view."
+      },
+      "original_tail_duration_ms": 240,
+      "new_duration_ms": 4060,
+      "max_line_chars": 40,
+      "new_cps": 19.704
+    }
+  ]
+}

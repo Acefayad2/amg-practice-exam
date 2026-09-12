@@ -1,0 +1,189 @@
+[
+  {
+    "lesson": 2,
+    "file": "public/course/lesson-02/scene-captions.vtt",
+    "cue": 20,
+    "start": "00:01:25.852",
+    "end": "00:01:26.832",
+    "duration": 0.98,
+    "chars": 24,
+    "cps": 24.49,
+    "text": "The key word is average.",
+    "line": 80,
+    "flags": [
+      "shorter_than_1s"
+    ],
+    "previous": "more predictable average loss experience.",
+    "next": "A large pool may have more total claims than a small"
+  },
+  {
+    "lesson": 2,
+    "file": "public/course/lesson-02/scene-captions.vtt",
+    "cue": 54,
+    "start": "00:03:16.890",
+    "end": "00:03:17.370",
+    "duration": 0.48,
+    "chars": 10,
+    "cps": 20.833,
+    "text": "finishing.",
+    "line": 216,
+    "flags": [
+      "shorter_than_1s"
+    ],
+    "previous": "Now answer the eight lesson questions, and review any mistakes before",
+    "next": null
+  },
+  {
+    "lesson": 4,
+    "file": "public/course/lesson-04/scene-captions.vtt",
+    "cue": 4,
+    "start": "00:00:13.420",
+    "end": "00:00:14.400",
+    "duration": 0.98,
+    "chars": 20,
+    "cps": 20.408,
+    "text": "It can be all three.",
+    "line": 16,
+    "flags": [
+      "shorter_than_1s"
+    ],
+    "previous": "Is it stock, foreign, or admitted?",
+    "next": "Stock describes ownership. Foreign describes where the company was formed"
+  },
+  {
+    "lesson": 5,
+    "file": "public/course/lesson-05/scene-captions.vtt",
+    "cue": 25,
+    "start": "00:01:30.068",
+    "end": "00:01:30.848",
+    "duration": 0.78,
+    "chars": 17,
+    "cps": 21.795,
+    "text": "help make a sale.",
+    "line": 100,
+    "flags": [
+      "shorter_than_1s"
+    ],
+    "previous": "promising an underwriting result is not justified merely because it would",
+    "next": "Always connect the incidental action to the task the principal actually"
+  },
+  {
+    "lesson": 7,
+    "file": "public/course/lesson-07/scene-captions.vtt",
+    "cue": 59,
+    "start": "00:04:15.930",
+    "end": "00:04:16.210",
+    "duration": 0.28,
+    "chars": 6,
+    "cps": 21.429,
+    "text": "start.",
+    "line": 236,
+    "flags": [
+      "shorter_than_1s"
+    ],
+    "previous": "avoidable disputes through accurate records and clear explanations from the",
+    "next": null
+  },
+  {
+    "lesson": 8,
+    "file": "public/course/lesson-08/scene-captions.vtt",
+    "cue": 59,
+    "start": "00:04:04.962",
+    "end": "00:04:05.362",
+    "duration": 0.4,
+    "chars": 7,
+    "cps": 17.5,
+    "text": "answer.",
+    "line": 236,
+    "flags": [
+      "shorter_than_1s"
+    ],
+    "previous": "Match the organization's actual function to the facts before selecting an",
+    "next": null
+  },
+  {
+    "lesson": 10,
+    "file": "public/course/lesson-10/scene-captions.vtt",
+    "cue": 5,
+    "start": "00:00:16.060",
+    "end": "00:00:16.980",
+    "duration": 0.92,
+    "chars": 19,
+    "cps": 20.652,
+    "text": "of the birth month.",
+    "line": 20,
+    "flags": [
+      "shorter_than_1s"
+    ],
+    "previous": "every two years. An individual's expiration is tied to the end",
+    "next": "Renewal requires the appropriate application, fees and qualifications."
+  },
+  {
+    "lesson": 11,
+    "file": "public/course/lesson-11/scene-captions.vtt",
+    "cue": 61,
+    "start": "00:04:14.830",
+    "end": "00:04:15.310",
+    "duration": 0.48,
+    "chars": 8,
+    "cps": 16.667,
+    "text": "the law.",
+    "line": 244,
+    "flags": [
+      "shorter_than_1s"
+    ],
+    "previous": "Preserve the facts, use the required reporting process and cooperate within",
+    "next": null
+  },
+  {
+    "lesson": 19,
+    "file": "public/course/lesson-19/scene-captions.vtt",
+    "cue": 39,
+    "start": "00:02:34.450",
+    "end": "00:02:36.810",
+    "duration": 2.36,
+    "chars": 75,
+    "cps": 31.78,
+    "text": "other commitments and whether a survivor can realistically earn the assumed",
+    "line": 156,
+    "flags": [
+      "over_30_chars_per_sec"
+    ],
+    "previous": "Verify whether employer coverage continues, whether assets have",
+    "next": "income. A resource should not be counted twice or treated as"
+  },
+  {
+    "lesson": 19,
+    "file": "public/course/lesson-19/scene-captions.vtt",
+    "cue": 63,
+    "start": "00:04:15.978",
+    "end": "00:04:16.338",
+    "duration": 0.36,
+    "chars": 7,
+    "cps": 19.444,
+    "text": "review.",
+    "line": 252,
+    "flags": [
+      "shorter_than_1s"
+    ],
+    "previous": "resources, affordable coverage and the changes that should trigger a new",
+    "next": null
+  },
+  {
+    "lesson": 20,
+    "file": "public/course/lesson-20/scene-captions.vtt",
+    "cue": 39,
+    "start": "00:02:54.626",
+    "end": "00:02:55.586",
+    "duration": 0.96,
+    "chars": 27,
+    "cps": 28.125,
+    "text": "These are different clocks.",
+    "line": 156,
+    "flags": [
+      "shorter_than_1s"
+    ],
+    "previous": "after the broker receives them.",
+    "next": "Medical and personal information also require the stated disclosure and"
+  }
+]
