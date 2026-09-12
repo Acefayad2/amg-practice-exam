@@ -440,12 +440,36 @@
       {
         "lesson": "11",
         "title": "Three different kinds of permission"
+      },
+      {
+        "lesson": "17",
+        "title": "Start with the contract and the claim"
+      },
+      {
+        "lesson": "17",
+        "title": "A denial needs a sound basis"
+      },
+      {
+        "lesson": "17",
+        "title": "Form approval has a defined process"
       }
     ],
     "questions": [
       {
         "lesson": "11",
         "id": "L11-10"
+      },
+      {
+        "lesson": "17",
+        "id": "L17-01"
+      },
+      {
+        "lesson": "17",
+        "id": "L17-02"
+      },
+      {
+        "lesson": "17",
+        "id": "L17-08"
       }
     ],
     "coordinatorApproval": null
@@ -981,8 +1005,50 @@
   {
     "id": "1.3.05",
     "title": "Guaranty corporation purpose, eligibility, limits and advertising restrictions",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "17",
+        "title": "If the insurer becomes insolvent"
+      },
+      {
+        "lesson": "17",
+        "title": "Understand the limits before applying them"
+      },
+      {
+        "lesson": "17",
+        "title": "Protection is not a sales incentive"
+      },
+      {
+        "lesson": "17",
+        "title": "Eligibility is more than a policy’s purchase location"
+      },
+      {
+        "lesson": "17",
+        "title": "The ceilings do not create a second payout"
+      },
+      {
+        "lesson": "17",
+        "title": "Several excluded obligations require care"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "17",
+        "id": "L17-04"
+      },
+      {
+        "lesson": "17",
+        "id": "L17-05"
+      },
+      {
+        "lesson": "17",
+        "id": "L17-06"
+      },
+      {
+        "lesson": "17",
+        "id": "L17-07"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
@@ -1404,12 +1470,24 @@
       {
         "lesson": "04",
         "title": "Permission and financial strength"
+      },
+      {
+        "lesson": "17",
+        "title": "If the insurer becomes insolvent"
+      },
+      {
+        "lesson": "17",
+        "title": "Understand the limits before applying them"
       }
     ],
     "questions": [
       {
         "lesson": "04",
         "id": "L04-06"
+      },
+      {
+        "lesson": "17",
+        "id": "L17-04"
       }
     ],
     "coordinatorApproval": null
@@ -2036,225 +2114,865 @@
   {
     "id": "3.1.01",
     "title": "Family and economic interest",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "18",
+        "title": "Family relationships can establish interest"
+      },
+      {
+        "lesson": "18",
+        "title": "Economic interest protects continued life"
+      },
+      {
+        "lesson": "18",
+        "title": "Consent is a separate checkpoint"
+      },
+      {
+        "lesson": "18",
+        "title": "A trust does not automatically solve an interest problem"
+      },
+      {
+        "lesson": "18",
+        "title": "Business and charity provisions have their own facts"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "18",
+        "id": "L18-04"
+      },
+      {
+        "lesson": "18",
+        "id": "L18-05"
+      },
+      {
+        "lesson": "18",
+        "id": "L18-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.1.02",
     "title": "Time the contract is made",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "18",
+        "title": "Test the interest at the right time"
+      },
+      {
+        "lesson": "18",
+        "title": "Consent is a separate checkpoint"
+      },
+      {
+        "lesson": "18",
+        "title": "Timing does not settle every later beneficiary dispute"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "18",
+        "id": "L18-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.1.03",
     "title": "Own-life purchases versus insurance on another",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "18",
+        "title": "Four roles can involve different people"
+      },
+      {
+        "lesson": "18",
+        "title": "Insurance on your own life"
+      },
+      {
+        "lesson": "18",
+        "title": "Test the interest at the right time"
+      },
+      {
+        "lesson": "18",
+        "title": "Consent is a separate checkpoint"
+      },
+      {
+        "lesson": "18",
+        "title": "Read the Maryland consent exceptions precisely"
+      },
+      {
+        "lesson": "18",
+        "title": "A trust does not automatically solve an interest problem"
+      },
+      {
+        "lesson": "18",
+        "title": "Business and charity provisions have their own facts"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "18",
+        "id": "L18-01"
+      },
+      {
+        "lesson": "18",
+        "id": "L18-02"
+      },
+      {
+        "lesson": "18",
+        "id": "L18-03"
+      },
+      {
+        "lesson": "18",
+        "id": "L18-07"
+      },
+      {
+        "lesson": "18",
+        "id": "L18-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.2.01",
     "title": "Survivor support",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "19",
+        "title": "Begin with the family, then the policy"
+      },
+      {
+        "lesson": "19",
+        "title": "Government benefits are a verified resource"
+      },
+      {
+        "lesson": "19",
+        "title": "Household services have financial value"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "19",
+        "id": "L19-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.2.02",
     "title": "Estate planning",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "19",
+        "title": "Protection can preserve an estate"
+      },
+      {
+        "lesson": "19",
+        "title": "Cash accumulation and estate liquidity are different uses"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "19",
+        "id": "L19-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.2.03",
     "title": "Cash accumulation",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "19",
+        "title": "Protection can preserve an estate"
+      },
+      {
+        "lesson": "19",
+        "title": "Cash accumulation and estate liquidity are different uses"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "19",
+        "id": "L19-07"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.2.04",
     "title": "Liquidity",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "19",
+        "title": "Protection can preserve an estate"
+      },
+      {
+        "lesson": "19",
+        "title": "Cash accumulation and estate liquidity are different uses"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "19",
+        "id": "L19-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.2.05",
     "title": "Estate conservation",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "19",
+        "title": "Protection can preserve an estate"
+      },
+      {
+        "lesson": "19",
+        "title": "Cash accumulation and estate liquidity are different uses"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "19",
+        "id": "L19-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.2.06",
     "title": "Personal mortgage debt protection",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "19",
+        "title": "Separate immediate needs from ongoing income"
+      },
+      {
+        "lesson": "19",
+        "title": "Cash accumulation and estate liquidity are different uses"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "19",
+        "id": "L19-05"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.3.01",
     "title": "Purpose and transaction structure",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "20",
+        "title": "A settlement transfers something valuable"
+      },
+      {
+        "lesson": "20",
+        "title": "Maryland uses a broad settlement framework"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "20",
+        "id": "L20-01"
+      },
+      {
+        "lesson": "20",
+        "id": "L20-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.3.02",
     "title": "Broker authority and licensing",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "20",
+        "title": "Know whose interests each person serves"
+      },
+      {
+        "lesson": "20",
+        "title": "Authority and registration are distinct requirements"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "20",
+        "id": "L20-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.3.03",
     "title": "Consumer disclosures",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "20",
+        "title": "Disclose the tradeoffs before the decision"
+      },
+      {
+        "lesson": "20",
+        "title": "The health-status contact limits depend on life expectancy"
+      },
+      {
+        "lesson": "20",
+        "title": "Rescission returns the required amounts"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "20",
+        "id": "L20-05"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.3.04",
     "title": "General transaction rules",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "20",
+        "title": "A settlement transfers something valuable"
+      },
+      {
+        "lesson": "20",
+        "title": "Disclose the tradeoffs before the decision"
+      },
+      {
+        "lesson": "20",
+        "title": "Use the correct payment and rescission clocks"
+      },
+      {
+        "lesson": "20",
+        "title": "Maryland uses a broad settlement framework"
+      },
+      {
+        "lesson": "20",
+        "title": "The two-year restriction has specific exceptions"
+      },
+      {
+        "lesson": "20",
+        "title": "Verify coverage and keep the deadlines separate"
+      },
+      {
+        "lesson": "20",
+        "title": "Rescission returns the required amounts"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "20",
+        "id": "L20-06"
+      },
+      {
+        "lesson": "20",
+        "id": "L20-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.3.05",
     "title": "Settlement fraud",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "20",
+        "title": "An honest file protects the owner"
+      },
+      {
+        "lesson": "20",
+        "title": "Material deception is different from a corrected mistake"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "20",
+        "id": "L20-07"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.3.06",
     "title": "Chronic illness and terminal illness definitions",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "20",
+        "title": "Illness definitions have a specific purpose"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "20",
+        "id": "L20-04"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.3.07",
     "title": "Fraudulent settlement acts",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "20",
+        "title": "An honest file protects the owner"
+      },
+      {
+        "lesson": "20",
+        "title": "Material deception is different from a corrected mistake"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "20",
+        "id": "L20-07"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.3.08",
     "title": "Broker, provider, purchaser and viator roles",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "20",
+        "title": "Know whose interests each person serves"
+      },
+      {
+        "lesson": "20",
+        "title": "A broker’s fiduciary duty is owed to the viator"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "20",
+        "id": "L20-02"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.4.01",
     "title": "Human-life-value method",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "19",
+        "title": "Two methods answer different questions"
+      },
+      {
+        "lesson": "19",
+        "title": "A simple human-life-value calculation needs explicit assumptions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "19",
+        "id": "L19-01"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.4.02",
     "title": "Needs-based method",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "19",
+        "title": "Two methods answer different questions"
+      },
+      {
+        "lesson": "19",
+        "title": "Subtract resources that are truly available"
+      },
+      {
+        "lesson": "19",
+        "title": "The calculation deliberately leaves out real-world variables"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "19",
+        "id": "L19-02"
+      },
+      {
+        "lesson": "19",
+        "id": "L19-04"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.4.03",
     "title": "Fact gathering",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "19",
+        "title": "Begin with the family, then the policy"
+      },
+      {
+        "lesson": "19",
+        "title": "Subtract resources that are truly available"
+      },
+      {
+        "lesson": "19",
+        "title": "The calculation deliberately leaves out real-world variables"
+      },
+      {
+        "lesson": "19",
+        "title": "Household services have financial value"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "19",
+        "id": "L19-05"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.4.04",
     "title": "Lump-sum obligations",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "19",
+        "title": "Separate immediate needs from ongoing income"
+      },
+      {
+        "lesson": "19",
+        "title": "The calculation deliberately leaves out real-world variables"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "19",
+        "id": "L19-04"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.4.05",
     "title": "Income replacement",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "19",
+        "title": "Separate immediate needs from ongoing income"
+      },
+      {
+        "lesson": "19",
+        "title": "A simple human-life-value calculation needs explicit assumptions"
+      },
+      {
+        "lesson": "19",
+        "title": "The calculation deliberately leaves out real-world variables"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "19",
+        "id": "L19-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.4.06",
     "title": "Social Security survivor benefits",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "19",
+        "title": "Government benefits are a verified resource"
+      },
+      {
+        "lesson": "19",
+        "title": "Recognize the survivor-benefit timing gap"
+      },
+      {
+        "lesson": "19",
+        "title": "Other survivor categories and limits matter"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "19",
+        "id": "L19-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.5.01",
     "title": "Buy-sell funding",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "21",
+        "title": "Identify the loss the business faces"
+      },
+      {
+        "lesson": "21",
+        "title": "A buy-sell agreement sets the obligation"
+      },
+      {
+        "lesson": "21",
+        "title": "Cross-purchase: owners buy from the estate"
+      },
+      {
+        "lesson": "21",
+        "title": "Entity-purchase: the business buys"
+      },
+      {
+        "lesson": "21",
+        "title": "The same death can create separate needs"
+      },
+      {
+        "lesson": "21",
+        "title": "Two-owner cross-purchase has two policies in the simple example"
+      },
+      {
+        "lesson": "21",
+        "title": "A funding shortfall does not rewrite the agreement"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "21",
+        "id": "L21-01"
+      },
+      {
+        "lesson": "21",
+        "id": "L21-02"
+      },
+      {
+        "lesson": "21",
+        "id": "L21-03"
+      },
+      {
+        "lesson": "21",
+        "id": "L21-06"
+      },
+      {
+        "lesson": "21",
+        "id": "L21-07"
+      },
+      {
+        "lesson": "21",
+        "id": "L21-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.5.02",
     "title": "Key-person protection",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "21",
+        "title": "Identify the loss the business faces"
+      },
+      {
+        "lesson": "21",
+        "title": "Key-person insurance addresses an operating loss"
+      },
+      {
+        "lesson": "21",
+        "title": "The same death can create separate needs"
+      },
+      {
+        "lesson": "21",
+        "title": "Consent, interest and tax treatment remain separate"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "21",
+        "id": "L21-04"
+      },
+      {
+        "lesson": "21",
+        "id": "L21-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.5.03",
     "title": "Executive bonus arrangements",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "21",
+        "title": "Identify the loss the business faces"
+      },
+      {
+        "lesson": "21",
+        "title": "An executive bonus supports the employee"
+      },
+      {
+        "lesson": "21",
+        "title": "A bonus does not automatically become a qualified plan"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "21",
+        "id": "L21-05"
+      },
+      {
+        "lesson": "21",
+        "id": "L21-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.6.01",
     "title": "Individual versus group",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "22",
+        "title": "One policy can have several labels"
+      },
+      {
+        "lesson": "22",
+        "title": "Product classifications overlap"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "22",
+        "id": "L22-01"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.6.02",
     "title": "Ordinary life",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "22",
+        "title": "One policy can have several labels"
+      },
+      {
+        "lesson": "22",
+        "title": "Product classifications overlap"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "22",
+        "id": "L22-01"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.6.03",
     "title": "Permanent versus temporary protection",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "22",
+        "title": "One policy can have several labels"
+      },
+      {
+        "lesson": "22",
+        "title": "Product classifications overlap"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "22",
+        "id": "L22-01"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.6.04",
     "title": "Participating versus nonparticipating",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "22",
+        "title": "One policy can have several labels"
+      },
+      {
+        "lesson": "22",
+        "title": "Read guarantees and participation carefully"
+      },
+      {
+        "lesson": "22",
+        "title": "Product classifications overlap"
+      },
+      {
+        "lesson": "22",
+        "title": "Expense loading is not a guaranteed policy dividend"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "22",
+        "id": "L22-01"
+      },
+      {
+        "lesson": "22",
+        "id": "L22-02"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.6.05",
     "title": "Fixed versus variable life and annuity designs",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "22",
+        "title": "One policy can have several labels"
+      },
+      {
+        "lesson": "22",
+        "title": "Read guarantees and participation carefully"
+      },
+      {
+        "lesson": "22",
+        "title": "Variable authority has two sides"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "22",
+        "id": "L22-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.6.06",
     "title": "Variable products and FINRA",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "22",
+        "title": "Read guarantees and participation carefully"
+      },
+      {
+        "lesson": "22",
+        "title": "Variable authority has two sides"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "22",
+        "id": "L22-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
@@ -2267,43 +2985,167 @@
   {
     "id": "3.7.01",
     "title": "Mortality assumption",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "22",
+        "title": "Three foundations of a life premium"
+      },
+      {
+        "lesson": "22",
+        "title": "A net single premium isolates the benefit cost"
+      },
+      {
+        "lesson": "22",
+        "title": "Check the simple arithmetic and its limits"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "22",
+        "id": "L22-04"
+      },
+      {
+        "lesson": "22",
+        "id": "L22-07"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.7.02",
     "title": "Interest assumption",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "22",
+        "title": "Three foundations of a life premium"
+      },
+      {
+        "lesson": "22",
+        "title": "A net single premium isolates the benefit cost"
+      },
+      {
+        "lesson": "22",
+        "title": "Check the simple arithmetic and its limits"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "22",
+        "id": "L22-05"
+      },
+      {
+        "lesson": "22",
+        "id": "L22-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.7.03",
     "title": "Expenses",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "22",
+        "title": "Three foundations of a life premium"
+      },
+      {
+        "lesson": "22",
+        "title": "Expense loading is not a guaranteed policy dividend"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "22",
+        "id": "L22-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.7.04",
     "title": "Net single premium",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "22",
+        "title": "A net single premium isolates the benefit cost"
+      },
+      {
+        "lesson": "22",
+        "title": "Annual and gross premiums add other questions"
+      },
+      {
+        "lesson": "22",
+        "title": "Check the simple arithmetic and its limits"
+      },
+      {
+        "lesson": "22",
+        "title": "Premium timing is part of the calculation"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "22",
+        "id": "L22-07"
+      },
+      {
+        "lesson": "22",
+        "id": "L22-08"
+      },
+      {
+        "lesson": "22",
+        "id": "L22-09"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.7.05",
     "title": "Gross annual premium",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "22",
+        "title": "Annual and gross premiums add other questions"
+      },
+      {
+        "lesson": "22",
+        "title": "Expense loading is not a guaranteed policy dividend"
+      },
+      {
+        "lesson": "22",
+        "title": "Premium timing is part of the calculation"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "22",
+        "id": "L22-06"
+      },
+      {
+        "lesson": "22",
+        "id": "L22-09"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.7.06",
     "title": "Payment mode",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "22",
+        "title": "Payment mode changes when money is collected"
+      },
+      {
+        "lesson": "22",
+        "title": "Mode and premium pattern are different"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "22",
+        "id": "L22-10"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
@@ -2326,8 +3168,18 @@
   {
     "id": "3.8.02",
     "title": "Sales presentations and guaranty advertising restrictions",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "17",
+        "title": "Protection is not a sales incentive"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "17",
+        "id": "L17-07"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
@@ -2481,6 +3333,14 @@
       {
         "lesson": "14",
         "title": "Life underwriting can involve health information"
+      },
+      {
+        "lesson": "23",
+        "title": "Notice and consent serve different purposes"
+      },
+      {
+        "lesson": "24",
+        "title": "MIB information helps identify discrepancies"
       }
     ],
     "questions": [
@@ -2491,6 +3351,10 @@
       {
         "lesson": "14",
         "id": "L14-08"
+      },
+      {
+        "lesson": "23",
+        "id": "L23-05"
       }
     ],
     "coordinatorApproval": null
@@ -2498,8 +3362,26 @@
   {
     "id": "3.8.08",
     "title": "Field underwriting",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "23",
+        "title": "Field underwriting starts with accurate facts"
+      },
+      {
+        "lesson": "23",
+        "title": "Submit the file and explain what comes next"
+      },
+      {
+        "lesson": "23",
+        "title": "The actual application controls what must be answered"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "23",
+        "id": "L23-01"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
@@ -2513,12 +3395,36 @@
       {
         "lesson": "14",
         "title": "Initial and annual notices are different"
+      },
+      {
+        "lesson": "23",
+        "title": "Notice and consent serve different purposes"
+      },
+      {
+        "lesson": "23",
+        "title": "Submit the file and explain what comes next"
+      },
+      {
+        "lesson": "24",
+        "title": "A consumer report is not a policy decision"
+      },
+      {
+        "lesson": "24",
+        "title": "The adverse-action notice has concrete rights"
       }
     ],
     "questions": [
       {
         "lesson": "14",
         "id": "L14-06"
+      },
+      {
+        "lesson": "23",
+        "id": "L23-08"
+      },
+      {
+        "lesson": "24",
+        "id": "L24-10"
       }
     ],
     "coordinatorApproval": null
@@ -2526,43 +3432,142 @@
   {
     "id": "3.8.10",
     "title": "Application signatures",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "23",
+        "title": "Complete the record before signatures"
+      },
+      {
+        "lesson": "23",
+        "title": "Corrections remain visible to the proper parties"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "23",
+        "id": "L23-02"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.8.11",
     "title": "Application corrections and incompleteness",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "23",
+        "title": "Complete the record before signatures"
+      },
+      {
+        "lesson": "23",
+        "title": "A representation still has to be accurate"
+      },
+      {
+        "lesson": "23",
+        "title": "The actual application controls what must be answered"
+      },
+      {
+        "lesson": "23",
+        "title": "Corrections remain visible to the proper parties"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "23",
+        "id": "L23-02"
+      },
+      {
+        "lesson": "23",
+        "id": "L23-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.8.12",
     "title": "Representations versus warranties",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "23",
+        "title": "A representation still has to be accurate"
+      },
+      {
+        "lesson": "23",
+        "title": "Maryland’s misstatement rule is broader than intentional fraud alone"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "23",
+        "id": "L23-04"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.8.13",
     "title": "Initial premium and receipt conditions",
-    "teaching": [],
+    "teaching": [
+      {
+        "lesson": "23",
+        "title": "Submit the file and explain what comes next"
+      }
+    ],
     "questions": [],
     "coordinatorApproval": null
   },
   {
     "id": "3.8.14",
     "title": "Point-of-sale privacy and HIV consent",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "23",
+        "title": "Notice and consent serve different purposes"
+      },
+      {
+        "lesson": "23",
+        "title": "HIV consent is a specific process"
+      },
+      {
+        "lesson": "24",
+        "title": "Medical evidence is handled through consent"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "23",
+        "id": "L23-05"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.8.15",
     "title": "PATRIOT Act and anti-money-laundering duties",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "23",
+        "title": "Recognize unusual money movements"
+      },
+      {
+        "lesson": "23",
+        "title": "An agent participates in the insurer’s AML program"
+      },
+      {
+        "lesson": "23",
+        "title": "Covered products have a defined scope"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "23",
+        "id": "L23-06"
+      },
+      {
+        "lesson": "23",
+        "id": "L23-07"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
@@ -2582,78 +3587,264 @@
   {
     "id": "3.9.01",
     "title": "Application and producer report",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "23",
+        "title": "Field underwriting starts with accurate facts"
+      },
+      {
+        "lesson": "23",
+        "title": "Submit the file and explain what comes next"
+      },
+      {
+        "lesson": "23",
+        "title": "The actual application controls what must be answered"
+      },
+      {
+        "lesson": "24",
+        "title": "Different evidence answers different questions"
+      },
+      {
+        "lesson": "24",
+        "title": "Compare the information sources"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "23",
+        "id": "L23-01"
+      },
+      {
+        "lesson": "24",
+        "id": "L24-04"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.9.02",
     "title": "Attending physician statement",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "24",
+        "title": "Different evidence answers different questions"
+      },
+      {
+        "lesson": "24",
+        "title": "Compare the information sources"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "24",
+        "id": "L24-01"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.9.03",
     "title": "Investigative consumer report",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "24",
+        "title": "A consumer report is not a policy decision"
+      },
+      {
+        "lesson": "24",
+        "title": "Compare the information sources"
+      },
+      {
+        "lesson": "24",
+        "title": "The adverse-action notice has concrete rights"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "24",
+        "id": "L24-03"
+      },
+      {
+        "lesson": "24",
+        "id": "L24-10"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.9.04",
     "title": "MIB information",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "24",
+        "title": "MIB information helps identify discrepancies"
+      },
+      {
+        "lesson": "24",
+        "title": "The adverse-action notice has concrete rights"
+      },
+      {
+        "lesson": "24",
+        "title": "Not everyone has an MIB consumer file"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "24",
+        "id": "L24-04"
+      },
+      {
+        "lesson": "24",
+        "id": "L24-10"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.9.05",
     "title": "Medical examination, laboratory results and HIV",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "24",
+        "title": "Medical evidence is handled through consent"
+      },
+      {
+        "lesson": "24",
+        "title": "Compare the information sources"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "24",
+        "id": "L24-02"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.9.06",
     "title": "Permitted selection and unfair discrimination",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "24",
+        "title": "Fair selection has legal limits"
+      },
+      {
+        "lesson": "24",
+        "title": "Domestic-violence protection is specific"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "24",
+        "id": "L24-09"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.9.07",
     "title": "Domestic-violence protections",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "24",
+        "title": "Fair selection has legal limits"
+      },
+      {
+        "lesson": "24",
+        "title": "Domestic-violence protection is specific"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "24",
+        "id": "L24-09"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.9.08",
     "title": "Preferred risk",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "24",
+        "title": "Classify the risk described by the facts"
+      },
+      {
+        "lesson": "24",
+        "title": "A rating is an offered classification"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "24",
+        "id": "L24-05"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.9.09",
     "title": "Standard risk",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "24",
+        "title": "Classify the risk described by the facts"
+      },
+      {
+        "lesson": "24",
+        "title": "A rating is an offered classification"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "24",
+        "id": "L24-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.9.10",
     "title": "Substandard risk",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "24",
+        "title": "Classify the risk described by the facts"
+      },
+      {
+        "lesson": "24",
+        "title": "A rating is an offered classification"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "24",
+        "id": "L24-07"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.9.11",
     "title": "Declined application",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "24",
+        "title": "Classify the risk described by the facts"
+      },
+      {
+        "lesson": "24",
+        "title": "A rating is an offered classification"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "24",
+        "id": "L24-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
@@ -2897,8 +4088,22 @@
   {
     "id": "5.1.01",
     "title": "Owner rights",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "18",
+        "title": "Four roles can involve different people"
+      },
+      {
+        "lesson": "18",
+        "title": "Authority follows the role and the contract"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "18",
+        "id": "L18-02"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
@@ -2974,8 +4179,22 @@
   {
     "id": "5.1.12",
     "title": "Interest on proceeds",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "17",
+        "title": "Interest has its own timing rule"
+      },
+      {
+        "lesson": "17",
+        "title": "Apply the late-proof interest exception"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "17",
+        "id": "L17-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {

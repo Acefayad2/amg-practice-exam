@@ -1,0 +1,192 @@
+{
+  "result": {
+    "id": "c6cb2edc-9f5b-47fa-8844-1d5c33976254",
+    "video_input_id": "5c2ea551-d7cf-4382-a442-ff5c0d03e22b",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/5c2ea551-d7cf-4382-a442-ff5c0d03e22b.mp4",
+    "scenes": [
+      {
+        "audio": "Marcus applies for life insurance on himself, pays the premium and names his sister Aisha as beneficiary. Marcus is the insured because the contract covers his life.",
+        "label": "Opening Hook",
+        "visual": "Static shot, minimalist off-white slide. Header top left. Single central bar appears. Gold circular logo bottom left. High-key lighting, flat corporate aesthetic.",
+        "shot_type": "Wide Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:07",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "He is also the policy owner, with the rights granted by the contract, and the premium payer.",
+        "label": "Product Information",
+        "visual": "Same slide layout. Three more horizontal bars appear sequentially below the first. Background remains static off-white. Neutral color palette.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:17",
+        "timestamp_start": "0:07"
+      },
+      {
+        "audio": "Aisha is the designated recipient of the death benefit under the policy's terms.",
+        "label": "Product Selling Points",
+        "visual": "Same layout. Focus shifts to the bottom horizontal bar. Gold logo visible in the bottom left corner.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:22",
+        "timestamp_start": "0:17"
+      },
+      {
+        "audio": "In another arrangement, these roles can belong to different people. Always identify each role from the facts. Paying a premium alone does not prove that the payer owns the contract or controls its beneficiary designation.",
+        "label": "Product Information",
+        "visual": "Slide remains static. Text rows are highlighted as the voiceover continues. Uniform bright lighting, professional presentation style.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:36",
+        "timestamp_start": "0:22"
+      },
+      {
+        "audio": "Maryland permits an individual with competent legal capacity to obtain coverage on that individual's own life for the benefit of any person.",
+        "label": "Product Information",
+        "visual": "Slide change. New header top left. Large teal-to-white rectangular box appears on the left. High-key lighting, minimalist design.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:50",
+        "timestamp_start": "0:37"
+      },
+      {
+        "audio": "Marcus can therefore make a genuine own-life purchase and name the beneficiary he chooses, subject to the contract and applicable law.",
+        "label": "Product Information",
+        "visual": "Same layout. Second rectangular box with gold accent appears in the center. Static framing. Consistent lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:00",
+        "timestamp_start": "0:51"
+      },
+      {
+        "audio": "Do not confuse this with an unrelated investor causing a policy to be purchased on Marcus for the investor's benefit. The actual procurement matters. A signature used to disguise a stranger's scheme does not establish that the transaction was genuinely Marcus's own decision and purchase.",
+        "label": "Product Information",
+        "visual": "Same layout. Third rectangular box appears on the right. Static wide shot of the off-white background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:16",
+        "timestamp_start": "1:01"
+      },
+      {
+        "audio": "Now Elena wants to obtain coverage on her spouse. Maryland recognizes a substantial interest based on love and affection for people closely related by blood or law.",
+        "label": "Usage Scenarios",
+        "visual": "Slide change. New title header. Left-side box appears on an off-white background. Gold logo persists bottom left.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:30",
+        "timestamp_start": "1:17"
+      },
+      {
+        "audio": "This is not a requirement that every spouse prove a specific unpaid debt. Other relationships need their own analysis. Friendship alone does not automatically establish the statutory family interest.",
+        "label": "Product Information",
+        "visual": "Same layout. Center box appears. Static camera, flat graphic design, high-key lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:45",
+        "timestamp_start": "1:31"
+      },
+      {
+        "audio": "The law also addresses prospective adoption with defined events and required conditions. Read the relationship carefully, then apply the appropriate rule. A producer should not replace the legal test with assumptions about a person's name, appearance, or community.",
+        "label": "Product Information",
+        "visual": "Same layout. Right-side box appears. Screen remains static with three columns. Professional aesthetic.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "2:03",
+        "timestamp_start": "1:46"
+      },
+      {
+        "audio": "A small firm depends on Daniel's specialized work. His death would create a real economic loss through recruiting, training, and interrupted operations.",
+        "label": "Product Information",
+        "visual": "Slide change. New header. Rectangular boxes appear on left and center. Static off-white backdrop.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "2:15",
+        "timestamp_start": "2:04"
+      },
+      {
+        "audio": "A lawful and substantial economic interest in his continued life can support an insurable interest subject to the applicable requirements.",
+        "label": "Product Selling Points",
+        "visual": "Same slide. Focus remains on the central boxes. High-key lighting, minimalist corporate style.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:30",
+        "timestamp_start": "2:16"
+      },
+      {
+        "audio": "Contrast an unrelated stranger who profits only if Daniel dies. An interest created only by death, or increased in value by death, is not the required economic interest. Insurance should protect a legitimate relationship or exposure. It should not create a wager on a stranger's death.",
+        "label": "Product Information",
+        "visual": "Same slide. Third box appears on the right. Camera static. Flat graphics.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:47",
+        "timestamp_start": "2:31"
+      },
+      {
+        "audio": "For a person procuring coverage on another individual, Maryland's general rule permits the benefits to be payable to the insured, the insured's personal representative, or a person with an insurable interest when the contract is made.",
+        "label": "Product Information",
+        "visual": "Slide change. Header top left. A flow chart with numbered circles and arrows appears center. Teal/gray accents.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "3:00",
+        "timestamp_start": "2:48"
+      },
+      {
+        "audio": "Focus on that starting point. Do not move the test automatically to the claim date. Later ownership changes, assignments, and beneficiary questions require their own rules.",
+        "label": "Usage Scenarios",
+        "visual": "Same slide. Arrows point to the second and third steps in the flow chart. Static frame, bright lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "3:15",
+        "timestamp_start": "3:01"
+      },
+      {
+        "audio": "Likewise, a changed family relationship can raise separate legal issues. Establishing insurable interest when the policy begins is one question, determining who receives a later benefit is another.",
+        "label": "Product Information",
+        "visual": "Same layout. Highlights shift along the flow chart. Background is consistent off-white.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:30",
+        "timestamp_start": "3:16"
+      },
+      {
+        "audio": "Insurable interest does not by itself answer every consent question. For an ordinary individual contract within Maryland's general rule, the insured must have competent legal capacity and apply for or consent in writing to the contract.",
+        "label": "Product Information",
+        "visual": "Slide change. New title. A list with three items appears horizontally. Professional, clean layout.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:45",
+        "timestamp_start": "3:31"
+      },
+      {
+        "audio": "The statute has specific exceptions involving spouses, minors, family policies, and a person unable to consent. Group life is outside that subsection.",
+        "label": "Product Information",
+        "visual": "Same slide. The list remains central. Uniform high-key lighting across the frame.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "4:00",
+        "timestamp_start": "3:46"
+      },
+      {
+        "audio": "Apply the actual exception rather than announcing that written consent is either always required or never required.",
+        "label": "Product Information",
+        "visual": "Same slide. Fourth item added to the horizontal list. Static camera, corporate aesthetic.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "4:15",
+        "timestamp_start": "4:01"
+      },
+      {
+        "audio": "Before submitting a file, confirm the roles, the interest, the required application, and the insurer's documentation process.",
+        "label": "Call to Action",
+        "visual": "Final static shot of the completed list slide. Gold logo bottom left. Off-white background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "4:24",
+        "timestamp_start": "4:16"
+      }
+    ]
+  }
+}

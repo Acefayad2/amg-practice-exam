@@ -1,0 +1,236 @@
+{
+  "voice": "Gideon",
+  "model": "seed_audio",
+  "requests": [
+    {
+      "index": 1900,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Marcus and Elena sit down with their household budget. They want the children to stay in their home and finish school if either parent dies. The first step is fact gathering: income, expenses, debts, dependents, existing coverage, savings, goals and an affordable premium. Include unpaid work such as childcare and household management. Losing that support can create a replacement cost even without losing a paycheck. The agent should understand who depends on each person and for how long. A product name or an income multiplier cannot answer those questions by itself."
+      }
+    },
+    {
+      "index": 1901,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "The human-life-value approach looks at the financial value of future earnings or contributions. A detailed estimate uses expected working years and present-value assumptions, with appropriate adjustments for amounts not supporting survivors. The needs approach starts with the specific money the survivors would require, then subtracts resources available to meet those needs. These methods can produce different estimates because their assumptions differ. Neither number measures a person's worth. The purpose is to estimate a financial exposure. Make the assumptions visible and review them as the household's circumstances change."
+      }
+    },
+    {
+      "index": 1902,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Suppose the family identifies one hundred fifty thousand dollars for a mortgage payoff, thirty thousand for final expenses and other debts, and forty thousand for education. Those stated lump-sum needs total two hundred twenty thousand dollars. They also estimate an ongoing income shortfall of three thousand dollars per month for ten years. In a deliberately simplified calculation with no interest or inflation, that income need is three hundred sixty thousand dollars. Keep the categories separate. If the mortgage is paid off, do not also include the same mortgage payments in the future monthly shortfall."
+      }
+    },
+    {
+      "index": 1903,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "The simplified needs total is five hundred eighty thousand dollars. The family identifies eighty thousand dollars of savings actually available for these needs and one hundred thousand dollars of existing death protection assumed to remain in force. Subtracting both leaves a four hundred thousand dollar gap. This is a teaching example, not a quote or a recommendation. Verify whether employer coverage continues, whether assets have other commitments and whether a survivor can realistically earn the assumed income. A resource should not be counted twice or treated as immediately available when access is restricted."
+      }
+    },
+    {
+      "index": 1904,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "A family may own a valuable home or business but have little ready cash. Liquidity means money is available to meet obligations without a forced sale. A life benefit may help with final expenses, debts or applicable estate costs and help preserve assets for survivors. Estate planning also considers the owner, beneficiary and legal arrangement; it is broader than simply buying a policy. Some permanent policies offer cash accumulation during life, subject to their contract, charges and funding. Keep that feature distinct from the death benefit and from money guaranteed to be immediately accessible."
+      }
+    },
+    {
+      "index": 1905,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Social Security survivor benefits may help eligible spouses, children or dependent parents based on the deceased worker's record. They do not automatically replace the household's full income. Eligibility, ages, work history, earnings and family maximums can affect payment. A child's benefit and a surviving spouse's caregiving benefit can end at different times, creating an income gap. Use an actual benefit estimate and the expected payment period rather than assuming an amount. Then review the full plan: immediate needs, ongoing support, available resources, affordable coverage and the changes that should trigger a new review."
+      }
+    },
+    {
+      "index": 2000,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Daniel owns a life policy that no longer fits his circumstances. A third party offers money now in exchange for ownership or death-benefit rights. A settlement is different from surrendering the policy to the insurer for its surrender value. It is also different from taking an accelerated benefit under the original contract. Maryland's viatical settlement definition generally involves value below the expected death benefit in exchange for specified policy rights. The statute is not limited to terminally or chronically ill insureds. Evaluate the actual transaction rather than relying only on its marketing name."
+      }
+    },
+    {
+      "index": 2001,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "The viator is the owner or certificate holder seeking or entering the settlement. A viatical settlement broker negotiates for the viator for compensation and must have the required life-producer authority. Maryland deems the broker to represent only the viator and to owe that person a fiduciary duty, regardless of how compensation is paid. The provider enters or effectuates the settlement contract. A later purchaser or financing entity may acquire an interest from the provider. These are different roles. A broker cannot secretly become the buyer of a policy covered by that broker's brokerage agreement."
+      }
+    },
+    {
+      "index": 2002,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "In Maryland's settlement statute, terminally ill means an illness or sickness reasonably expected to result in death within twenty-four months or less. Chronically ill includes inability to perform at least two activities of daily living, substantial supervision needed because of severe cognitive impairment, or the stated similar disability. Activities of daily living include bathing, continence, dressing, eating, toileting and transferring. These are statutory definitions for this context, not permission for an agent to diagnose a person. They can affect specified transaction rules and must be supported through the appropriate process."
+      }
+    },
+    {
+      "index": 2003,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Before making an offer, the provider must complete the required signed disclosure process. Daniel should understand alternatives, possible taxes, creditor exposure, effects on government benefits and rights that may be lost. The broker gives the required service disclosure at application and discloses compensation at least seventy-two hours before all parties sign the contract. Offers and related responses must reach the viator within seventy-two hours after the broker receives them. These are different clocks. Medical and personal information also require the stated disclosure and consent process. A rushed signature does not replace informed consideration."
+      }
+    },
+    {
+      "index": 2004,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Daniel receives the settlement proceeds. Maryland gives him fifteen calendar days after receipt to rescind, subject to returning the required proceeds, premiums and loan interest. If the insured dies during that period, the contract is deemed rescinded under the stated repayment conditions. The provider must send funds within three business days after receiving the specified acknowledgment of the policy transfer and beneficiary designation. A separate rule generally restricts a settlement within two years after policy issue, with listed exceptions supported by certification or independent evidence. Do not substitute another state's deadlines."
+      }
+    },
+    {
+      "index": 2005,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Someone offers to alter Daniel's medical records to raise the settlement price. Knowingly presenting false or misleading material information for an application, financing, transfer or settlement claim can be a fraudulent viatical settlement act. Correct an honest error through the proper process; never invent a diagnosis, conceal material facts or forge a signature. The broker should protect the viator's interests and disclose the required information. Before proceeding, compare the alternatives, confirm authority and registration, review the offered value and transferred rights, and make sure Daniel understands what his original beneficiaries may lose."
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 1900,
+      "job_id": "50dbbe84-86f9-4907-ae5a-d60b9500ff33",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_040348_50dbbe84-86f9-4907-ae5a-d60b9500ff33.mp3"
+    },
+    {
+      "index": 1901,
+      "job_id": "26cbee0b-52c8-4d12-94a8-7e3998e40bc6",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_040348_26cbee0b-52c8-4d12-94a8-7e3998e40bc6.mp3"
+    },
+    {
+      "index": 1902,
+      "job_id": "7cbf90ba-5c85-4e54-9d84-1b7b92ad81eb",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_040348_7cbf90ba-5c85-4e54-9d84-1b7b92ad81eb.mp3"
+    },
+    {
+      "index": 1903,
+      "job_id": "92da573c-6181-402d-8c7f-412599458939",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_040348_92da573c-6181-402d-8c7f-412599458939.mp3"
+    },
+    {
+      "index": 1904,
+      "job_id": "1c82f68f-e264-40e6-ad1b-25283cf6f99d",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_040348_1c82f68f-e264-40e6-ad1b-25283cf6f99d.mp3"
+    },
+    {
+      "index": 1905,
+      "job_id": "f47fc8e5-a086-47b7-ba66-3c94359c8a30",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_040348_f47fc8e5-a086-47b7-ba66-3c94359c8a30.mp3"
+    },
+    {
+      "index": 2000,
+      "job_id": "53bdb654-3c8f-49f1-9dc7-10e83e909146",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_040604_53bdb654-3c8f-49f1-9dc7-10e83e909146.mp3"
+    },
+    {
+      "index": 2001,
+      "job_id": "1c0be5a6-2593-431d-8087-777e4b9d755e",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_040603_1c0be5a6-2593-431d-8087-777e4b9d755e.mp3"
+    },
+    {
+      "index": 2002,
+      "job_id": "c2cfba40-9c3c-447c-973b-d849a41b48cf",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_040605_c2cfba40-9c3c-447c-973b-d849a41b48cf.mp3"
+    },
+    {
+      "index": 2003,
+      "job_id": "5189edcd-78b2-452f-847c-2a277508e254",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_040603_5189edcd-78b2-452f-847c-2a277508e254.mp3"
+    },
+    {
+      "index": 2004,
+      "job_id": "173621bb-ece3-43e1-a344-d57dd7e1788b",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_040603_173621bb-ece3-43e1-a344-d57dd7e1788b.mp3"
+    },
+    {
+      "index": 2005,
+      "job_id": "6b51630d-7138-4ebb-8be7-dd8d44e92fa9",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_040603_6b51630d-7138-4ebb-8be7-dd8d44e92fa9.mp3"
+    }
+  ]
+}

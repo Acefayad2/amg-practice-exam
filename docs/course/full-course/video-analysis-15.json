@@ -1,0 +1,201 @@
+{
+  "result": {
+    "id": "107223c5-f3fd-4c12-bebd-d6d995077a27",
+    "video_input_id": "1302de04-8191-4dbb-b9bd-280c0c66dcd5",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/1302de04-8191-4dbb-b9bd-280c0c66dcd5.mp4",
+    "scenes": [
+      {
+        "audio": "Marcus is offered a new life policy.",
+        "label": "Opening Hook",
+        "visual": "Static graphic on cream background. A single white box titled 'New purchase' appears on the left with dark green text. The frame is lit with even, digital brightness.",
+        "shot_type": "Wide Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:10",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "He plans to reduce his existing policy to paid-up coverage so he can afford the new premium.",
+        "label": "Product Information",
+        "visual": "A second box titled 'Existing coverage' appears in the center, highlighted with a teal top border. The layout is symmetrical and minimalist.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:25",
+        "timestamp_start": "0:11"
+      },
+      {
+        "audio": "That can be a replacement even though the old policy is not completely canceled. Maryland's definition includes specified reductions, surrenders, lapses, and other changes caused by buying new coverage.",
+        "label": "Product Information",
+        "visual": "A third box titled 'Connection' appears on the right. All three boxes remain static on the screen. The color palette is restricted to cream, teal, and charcoal.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:39",
+        "timestamp_start": "0:26"
+      },
+      {
+        "audio": "The test concerns what the proposing producer knows or should know about the transaction. Start by asking what existing coverage the applicant has and exactly how the new purchase will affect it.",
+        "label": "Usage Scenarios",
+        "visual": "New graphic slide. A white box numbered '01' titled 'Existing policy' appears. A teal arrow points to the right toward an empty space.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:54",
+        "timestamp_start": "0:40"
+      },
+      {
+        "audio": "Ayesha wants to keep her old policy, borrow from its cash value, and use that money to pay the new life policy's premium.",
+        "label": "Product Information",
+        "visual": "A second box numbered '02' titled 'Premium funding' appears. It is dark teal with white text, creating a high-contrast focal point.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "1:09",
+        "timestamp_start": "0:55"
+      },
+      {
+        "audio": "This is a financed purchase under the replacement definition. Keeping both policies does not remove the issue.",
+        "label": "Product Information",
+        "visual": "A third box numbered '03' titled 'Financed purchase' appears. The three boxes are linked by teal arrows, illustrating a sequential process.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:18",
+        "timestamp_start": "1:10"
+      },
+      {
+        "audio": "The borrowing can reduce available values and affect the amount eventually payable under the old policy. Compare the continuing costs of both contracts, the loan interest, and the consequences if the plan performs differently than expected.",
+        "label": "Product Information",
+        "visual": "Header text appears over a horizontal list. Item '01' and '02' populate with teal and light green background bars respectively.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:33",
+        "timestamp_start": "1:19"
+      },
+      {
+        "audio": "A producer should not describe borrowed policy money as a free new benefit.",
+        "label": "Product Information",
+        "visual": "Item '03' titled 'Sign and leave' populates the list. The animation is a simple fade-in transition on a cream background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:48",
+        "timestamp_start": "1:34"
+      },
+      {
+        "audio": "For a covered application, the applicant and producer sign a statement about existing life insurance or annuities.",
+        "label": "Product Information",
+        "visual": "Item '04' titled 'Submit materials' appears at the bottom of the list. The graphic is static once populated.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "2:00",
+        "timestamp_start": "1:49"
+      },
+      {
+        "audio": "If existing coverage is present, the producer presents the replacement notice no later than taking the application and reads it unless the applicant declines that reading.",
+        "label": "Product Information",
+        "visual": "The screen remains on the completed list of producer duties. Lighting is consistent and digital.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "2:07",
+        "timestamp_start": "2:01"
+      },
+      {
+        "audio": "The notice is signed and left with the applicant. It identifies the affected contracts and whether each is replaced or used for financing.",
+        "label": "Product Information",
+        "visual": "Graphic changes to a horizontal layout with header text. One box labeled 'Replacing insurer' appears on the left with a dark teal header.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "2:22",
+        "timestamp_start": "2:08"
+      },
+      {
+        "audio": "Required sales materials also go to the applicant and the insurer. Do not wait until delivery to discover an undisclosed replacement.",
+        "label": "Product Information",
+        "visual": "A middle box labeled 'Five business days' appears. It features a light green header and dark text on a white body.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:37",
+        "timestamp_start": "2:23"
+      },
+      {
+        "audio": "The replacing insurer verifies the required forms and notifies another affected existing insurer within five business days after the specified completed application receipt or identification of the replacement.",
+        "label": "Product Information",
+        "visual": "A third box labeled 'Requested information' appears on the right. The three boxes are now aligned horizontally.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:46",
+        "timestamp_start": "2:38"
+      },
+      {
+        "audio": "When the existing insurer requests the proposed illustration or summary, another five business day requirement applies to providing the available document.",
+        "label": "Product Information",
+        "visual": "The graphic remains static with all three boxes visible. The environment is a flat 2D graphic space.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "2:55",
+        "timestamp_start": "2:47"
+      },
+      {
+        "audio": "Registered variable contracts have a specific alternative involving contributions and prospectus identification. The producer's paperwork does not replace these insurer duties.",
+        "label": "Product Information",
+        "visual": "Header changes to 'The replacement return right'. One box titled '30 days' appears on the left.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "3:10",
+        "timestamp_start": "2:56"
+      },
+      {
+        "audio": "Keeping responsibilities separate helps you answer a question that names the insurer, the producer, or the applicant.",
+        "label": "Product Information",
+        "visual": "A second box titled 'Ordinary refund' appears in the center, featuring a teal top accent.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:25",
+        "timestamp_start": "3:11"
+      },
+      {
+        "audio": "For a covered replacement, the owner receives notice of a right to return the new contract within 30 days after delivery.",
+        "label": "Product Information",
+        "visual": "A third box titled 'Variable contract' appears on the right. The layout mirrors previous scenes.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:38",
+        "timestamp_start": "3:26"
+      },
+      {
+        "audio": "The rule ordinarily provides a full refund of premiums or considerations, including fees and charges. Variable contracts use a different formula: cash surrender value plus the specified deducted or imposed fees and charges.",
+        "label": "Product Information",
+        "visual": "Graphic transitions to a vertical list under the header 'Compare the complete outcome'. Items '01' and '02' populate the top slots.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "3:53",
+        "timestamp_start": "3:39"
+      },
+      {
+        "audio": "Do not promise that variable investment losses disappear. The chapter also gives credit for a lapsed contestability and suicide periods in specified same-insurer or affiliated-insurer replacements.",
+        "label": "Product Information",
+        "visual": "Item '03' titled 'Rights' appears in the list. The background is a clean, uniform cream tone.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "4:08",
+        "timestamp_start": "3:54"
+      },
+      {
+        "audio": "Check the actual transaction. Marcus should compare both policies before giving up his old coverage.",
+        "label": "Call to Action",
+        "visual": "The final item '04' titled 'Decision' populates the list. The graphic is now fully populated.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "4:19",
+        "timestamp_start": "4:09"
+      },
+      {
+        "audio": "He needs to understand whether the new coverage is effective, what guarantees change, which costs restart, and how existing loans affect the result. Changed health can affect new underwriting.",
+        "label": "Call to Action",
+        "visual": "Final static frame showing all four decision-making criteria. No camera movement or changes in lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 21,
+        "timestamp_end": "4:29",
+        "timestamp_start": "4:20"
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "voice": "Gideon",
+  "model": "seed_audio",
+  "requests": [
+    {
+      "index": 1700,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Aisha contacts the insurer after her husband's death. The producer helps her locate the policy, identify the beneficiary designation and obtain the required claim instructions. The insurer evaluates the claim under the contract and applicable law. Maryland's form-review process generally requires covered life policy forms to be filed and approved, subject to stated exceptions. That oversight does not allow a producer to rewrite a benefit at claim time. Explain the actual provisions, help the family provide the needed information and avoid promising an outcome before the facts are reviewed."
+      }
+    },
+    {
+      "index": 1701,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "An insurer cannot refuse a claim for an arbitrary reason, misrepresent a relevant policy provision or quietly rely on an altered application. Maryland also requires a prompt, reasonable explanation on request for a claim denial. Another section addresses specified unfair practices committed often enough to indicate a general business practice. That includes repeated failures to investigate reasonably or respond promptly. Do not conclude that an isolated prohibited act becomes acceptable because there is no pattern. The two sections address overlapping conduct with different requirements. Identify the facts and the applicable rule."
+      }
+    },
+    {
+      "index": 1702,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "For life policies issued in Maryland, the basic interest rule runs from the insured's death until payment. The insurer need not pay interest if it pays the proceeds within thirty days after death. If proof of death arrives more than one hundred eighty days after death, interest instead runs from submission of that proof until payment. The rate is at least the rate payable on death proceeds left on deposit with the insurer. Maryland has corresponding individual and group life provisions. Keep this interest calculation separate from whether the underlying death benefit is payable."
+      }
+    },
+    {
+      "index": 1703,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Now suppose the insurer fails financially. Maryland's Life and Health Insurance Guaranty Corporation exists to protect eligible people against specified failures of member insurers, within legal limits. It is a private, nonprofit, nonstock corporation, not a state department. Member insurers fund its work through assessments. Depending on the circumstances, protection may involve continuing covered obligations or arranging a transfer to another insurer. Owners should follow the receiver's instructions and keep required premiums current to maintain coverage. Insolvency does not automatically make a policy free or turn every promise into a state debt."
+      }
+    },
+    {
+      "index": 1704,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "The Maryland life limits include up to three hundred thousand dollars in death benefits, with no more than one hundred thousand dollars in net cash surrender or withdrawal values. The annuity limit is two hundred fifty thousand dollars in present value benefits. These are statutory ceilings, not additional benefits added to the policy. Contractual obligations, eligibility, exclusions and the aggregate limit still matter. Multiple policies on one life do not multiply the protection. Investment risk borne by a policyholder and nonguaranteed portions are excluded under the stated rule. Check the complete contract and the law."
+      }
+    },
+    {
+      "index": 1705,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "A producer tells Elena to ignore an insurer's financial condition because guaranty protection makes the purchase risk free. That is wrong. Maryland prohibits using this protection in the sale of insurance. The law separately requires a written notice for a delivered contract that exceeds the stated limits or is outside the coverage, explaining those limits and the corporation's private status. A required disclosure is different from a sales inducement. Explain the insurer, its actual promises and the product's risks accurately. Guaranty protection never replaces a careful, suitable coverage decision."
+      }
+    },
+    {
+      "index": 1800,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Marcus applies for life insurance on himself, pays the premium and names his sister Aisha as beneficiary. Marcus is the insured because the contract covers his life. He is also the policyowner, with the rights granted by the contract, and the premium payer. Aisha is the designated recipient of the death benefit under the policy's terms. In another arrangement, these roles can belong to different people. Always identify each role from the facts. Paying a premium alone does not prove that the payer owns the contract or controls its beneficiary designation."
+      }
+    },
+    {
+      "index": 1801,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Maryland permits an individual with competent legal capacity to obtain coverage on that individual's own life for the benefit of any person. Marcus can therefore make a genuine own-life purchase and name the beneficiary he chooses, subject to the contract and applicable law. Do not confuse this with an unrelated investor causing a policy to be purchased on Marcus for the investor's benefit. The actual procurement matters. A signature used to disguise a stranger's scheme does not establish that the transaction was genuinely Marcus's own decision and purchase."
+      }
+    },
+    {
+      "index": 1802,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Now Elena wants to obtain coverage on her spouse. Maryland recognizes a substantial interest based on love and affection for people closely related by blood or law. This is not a requirement that every spouse prove a specific unpaid debt. Other relationships need their own analysis. Friendship alone does not automatically establish the statutory family interest. The law also addresses prospective adoption with defined events and required conditions. Read the relationship carefully, then apply the appropriate rule. A producer should not replace the legal test with assumptions about a person's name, appearance or community."
+      }
+    },
+    {
+      "index": 1803,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "A small firm depends on Daniel's specialized work. His death would create a real economic loss through recruiting, training and interrupted operations. A lawful and substantial economic interest in his continued life can support an insurable interest, subject to the applicable requirements. Contrast an unrelated stranger who profits only if Daniel dies. An interest created only by death, or increased in value by death, is not the required economic interest. Insurance should protect a legitimate relationship or exposure. It should not create a wager on a stranger's death."
+      }
+    },
+    {
+      "index": 1804,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "For a person procuring coverage on another individual, Maryland's general rule permits the benefits to be payable to the insured, the insured's personal representative or a person with an insurable interest when the contract is made. Focus on that starting point. Do not move the test automatically to the claim date. Later ownership changes, assignments and beneficiary questions require their own rules. Likewise, a changed family relationship can raise separate legal issues. Establishing insurable interest when the policy begins is one question; determining who receives a later benefit is another."
+      }
+    },
+    {
+      "index": 1805,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Insurable interest does not by itself answer every consent question. For an ordinary individual contract within Maryland's general rule, the insured must have competent legal capacity and apply for or consent in writing to the contract. The statute has specific exceptions involving spouses, minors, family policies and a person unable to consent. Group life is outside that subsection. Apply the actual exception rather than announcing that written consent is either always required or never required. Before submitting a file, confirm the roles, the interest, the required application and the insurer's documentation process."
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 1700,
+      "job_id": "5683d799-e378-477e-ab81-60ee52f08e1a",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_035035_5683d799-e378-477e-ab81-60ee52f08e1a.mp3"
+    },
+    {
+      "index": 1701,
+      "job_id": "19db174a-a93d-46ad-8a9d-e1c4540cae68",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_035035_19db174a-a93d-46ad-8a9d-e1c4540cae68.mp3"
+    },
+    {
+      "index": 1702,
+      "job_id": "d404a86c-8fa3-464d-b6a0-c63667a8f296",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_035035_d404a86c-8fa3-464d-b6a0-c63667a8f296.mp3"
+    },
+    {
+      "index": 1703,
+      "job_id": "7840cb37-f15c-4f33-9bb1-e84f152c2edf",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_035035_7840cb37-f15c-4f33-9bb1-e84f152c2edf.mp3"
+    },
+    {
+      "index": 1704,
+      "job_id": "f6784b35-892b-4956-b97d-cbe58b2561c5",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_035036_f6784b35-892b-4956-b97d-cbe58b2561c5.mp3"
+    },
+    {
+      "index": 1705,
+      "job_id": "5715963f-d7db-40e1-9ed8-3938cf5f8b63",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_035035_5715963f-d7db-40e1-9ed8-3938cf5f8b63.mp3"
+    },
+    {
+      "index": 1800,
+      "job_id": "d2cc8d16-fc64-4a90-a5fe-04c7c8ecd0ab",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_035221_d2cc8d16-fc64-4a90-a5fe-04c7c8ecd0ab.mp3"
+    },
+    {
+      "index": 1801,
+      "job_id": "2699ad93-1344-43a2-bd8e-0c67d63b5c5e",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_035221_2699ad93-1344-43a2-bd8e-0c67d63b5c5e.mp3"
+    },
+    {
+      "index": 1802,
+      "job_id": "1ee8acc8-ca02-4459-8255-c5a0db29e594",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_035221_1ee8acc8-ca02-4459-8255-c5a0db29e594.mp3"
+    },
+    {
+      "index": 1803,
+      "job_id": "e343676f-40bb-4a10-b75e-488719d4e286",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_035221_e343676f-40bb-4a10-b75e-488719d4e286.mp3"
+    },
+    {
+      "index": 1804,
+      "job_id": "6f3aad8a-e2e5-4c0b-abcb-615a5f018398",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_035221_6f3aad8a-e2e5-4c0b-abcb-615a5f018398.mp3"
+    },
+    {
+      "index": 1805,
+      "job_id": "4c036bc9-0573-4f00-8177-b8de90352ae7",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_035221_4c036bc9-0573-4f00-8177-b8de90352ae7.mp3"
+    }
+  ]
+}

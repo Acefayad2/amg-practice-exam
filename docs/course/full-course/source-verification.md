@@ -34,3 +34,32 @@ Specific general-law sources include the [Maryland agency opinion](https://www.c
 - Maryland group conversion includes the specified new-group offset, notice-extension conditions and separate whole-group termination rule.
 
 Remaining tax, product and settlement lessons require their own primary-source review before generation. No automated check constitutes coordinator sign-off or a promise of an exam result.
+
+## Parts 17–18: claims, guaranty protection and insurable interest
+
+Verified September 12, 2026 against Maryland Insurance §§12–203, 27–303/304, 16–109, 17–102, 9–402/403/405/407/409/414, 12–201/202 and the Maryland Life & Health Insurance Guaranty Corporation FAQ. The lesson links point directly to those primary sources.
+
+- Separate the individual unfair-claim prohibitions from the general-business-practice provision; a missing pattern does not excuse an independently prohibited act.
+- Life-claim interest starts at death, with the payment-within-30-days and proof-after-180-days exceptions. These are not generic claim-payment permissions.
+- Guaranty protection is private and assessment-funded: $300,000 life death benefits, $100,000 life net cash-value sublimit, $250,000 annuity present-value limit, subject to contractual obligations, exclusions and the applicable $300,000 aggregate. Multiple policies on one life do not multiply the ceiling.
+- §9–414(f) prohibits using protection to sell; subsection (h) separately requires the specified noncoverage/excess notice. The debts are not State debts.
+- Insurable interest is tested at contract formation for the stated procurement-on-another rule. Genuine own-life procurement has a different beneficiary rule. Consent under §12–202 is a separate checkpoint with explicit spouse, minor, family and capacity exceptions; its subsection excludes group life.
+
+Publication checkpoint: commit 06a89b2 pushed to GitHub; Netlify production deploy 6aa4cac0dcefc0fdf732050f verified with 12 course rows and playable Part 12. Required questions begin locked. This checkpoint does not claim the remaining course is finished or coordinator-approved.
+
+## Parts 19–20: needs analysis and life-policy settlements
+
+Verified against MIA life materials, SSA eligibility/amount/current survivor booklet, Guardian’s human-life-value explanation and Maryland Insurance §§8–601 through 8–610.1 (selected provisions), plus §27–403. The household calculations are original, explicit zero-interest/zero-inflation examples; they avoid counting a mortgage payoff and the same future mortgage payments twice.
+
+Maryland’s settlement framework is not limited to terminal/chronic illness (§8–605). Brokers represent only the viator with a fiduciary duty regardless of compensation source. The authority note distinguishes provider registration before acting from the express broker registration deadline in §8–603 and preserves §8–610’s registration requirement. Required service/compensation disclosures, offer forwarding, payment, rescission and verification each have separate triggers. The illness definitions are Maryland settlement definitions, not a diagnosis or universal federal tax definition. The two-year restriction includes only the stated documented exceptions. Original questions test the distinction without reproducing actual exam items.
+
+Native audio review corrected unwanted introductory speech in Parts 17 and 18 using silence-verified trims at 4.60 and 3.05 seconds, with 0.15 seconds of leading silence. All intended narration was retained and transcribed again; these edits cost zero generation credits. Corresponding source archives and receipts are recorded separately.
+
+
+## September 12, 2026 — Applications and underwriting
+
+Parts 21–22: pricing relationships checked against NAIC regulator education and glossary; variable investment risk against SEC Investor.gov. Broken draft source URLs replaced with verified primary pages. Business ownership flows checked against the cited insurers’ planning materials and Maryland §§12-201–202; no general tax-treatment promise.
+
+Parts 23–24: Maryland §§12-207 and 27-504 read directly from the General Assembly’s current statutory text. COMAR 31.04.17.06 checked for application content, knowledge/belief or representation language, and the multi-person signature provision. §12-207 is not reduced to an intentional-fraud-only test. Domestic-violence victim-status protection is taught alongside §27-504(e)’s separate medical-condition rule. Protective’s August 2025 Maryland application packet is identified as a carrier-specific example of notices and HIV consent; no blanket claim that one form serves all insurers. FTC insurance consumer-report guidance checked for medical-information permission, partial contribution to adverse decisions and the 60-day free-report request. FinCEN’s insurance FAQ checked for covered-product scope and integration of agents into the insurer’s AML program. MIB/CFPB primary consumer materials checked for access and correction rights.
+
+Parts 17–20 media: unwanted prefatory or trailing speech was removed only at verified word boundaries and silence gaps. Part 19 section 3 (human indexing) was regenerated for a clipped opening. Part 22 section 3 was held and regenerated after both base and small speech recognition found an unintelligible opening sentence. Questions and native graphics used no image/video-generation credits. Two scenario photographs were generated at 6.5 credits each and visually reviewed.

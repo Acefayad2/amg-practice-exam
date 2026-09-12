@@ -1,0 +1,36 @@
+{
+  "number": 20,
+  "duration": "279.042000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/b218335f-e9f6-4009-9917-524c5a1d5b7e.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/9cb8e63d-8708-4204-a4ea-2285f1971849.png",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/69046a66-4eda-4547-82fd-b1e12d79598c.jpg",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/da0c70f7-7828-411b-a5ab-c096bb85ee00.zip",
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "279.042000",
+      "size": "22135494"
+    }
+  },
+  "review": {
+    "layouts": "All six teaching layouts plus the two photograph compositions visually inspected; logo circle and text fit checked.",
+    "decode": "Complete FFmpeg decode passed.",
+    "speech": "All six sections compared. An unwanted trailing phrase was cut after the intended last word; the clean section and captions were checked again.",
+    "analysis": "Submitted; pending.",
+    "player": "Pending."
+  },
+  "status": "review",
+  "coordinatorApproval": null
+}

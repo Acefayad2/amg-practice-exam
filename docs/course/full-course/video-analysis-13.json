@@ -1,0 +1,192 @@
+{
+  "result": {
+    "id": "0e0ed690-8e70-45d9-b4ee-3f7b90b18fba",
+    "video_input_id": "b9bae57f-bcda-4cae-b889-32685c3e89b2",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/b9bae57f-bcda-4cae-b889-32685c3e89b2.mp4",
+    "scenes": [
+      {
+        "audio": "Marcus wants to reduce his insurance costs.",
+        "label": "Opening Hook",
+        "visual": "Static graphic with a beige background. A teal header bar contains company branding. A single white box labeled 'Misrepresentation' appears on the left.",
+        "shot_type": "Wide Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:02",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "A producer says a new policy has identical benefits,",
+        "label": "Product Information",
+        "visual": "A second box labeled 'Twisting' slides in next to the first box. The overall lighting is flat and digital.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:04",
+        "timestamp_start": "0:02"
+      },
+      {
+        "audio": "but hides a shorter guarantee and a new surrender charge.",
+        "label": "Product Information",
+        "visual": "A third box labeled 'Proper comparison' appears on the right. Three distinct white rectangles are now visible across the frame.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:15",
+        "timestamp_start": "0:04"
+      },
+      {
+        "audio": "Misrepresentation means giving a false or misleading account of the policy.",
+        "label": "Product Selling Points",
+        "visual": "The 'Misrepresentation' box is highlighted with a teal border. Text descriptions appear within the box.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:21",
+        "timestamp_start": "0:15"
+      },
+      {
+        "audio": "Twisting involves misleading statements or incomplete comparisons intended to induce a policy decision such as surrender, exchange, or lapse.",
+        "label": "Product Selling Points",
+        "visual": "The highlight shifts to the 'Twisting' box. Bulleted points are added under the heading.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:33",
+        "timestamp_start": "0:21"
+      },
+      {
+        "audio": "Maryland's rule also covers inducing someone to retain a policy through that conduct.",
+        "label": "Product Selling Points",
+        "visual": "The layout remains static while the audio continues describing regional legal specifics. Minimalist icons are used for branding at the bottom left.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "0:38",
+        "timestamp_start": "0:33"
+      },
+      {
+        "audio": "An honest, complete comparison can support a legitimate replacement. A replacement is not automatically twisting. Deception is the issue.",
+        "label": "Product Selling Points",
+        "visual": "The highlight shifts to 'Proper comparison'. Text within the box clarifies the difference between replacement and twisting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "0:50",
+        "timestamp_start": "0:38"
+      },
+      {
+        "audio": "Elena hears another agency",
+        "label": "Product Information",
+        "visual": "The screen refreshes with a new header title. A single box for 'Defamation' appears.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "0:51",
+        "timestamp_start": "0:50"
+      },
+      {
+        "audio": "repeat a false claim that an insurer is insolvent.",
+        "label": "Product Information",
+        "visual": "A second box for 'False records' is added to the center of the beige canvas.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "0:53",
+        "timestamp_start": "0:51"
+      },
+      {
+        "1:43": "1:43",
+        "audio": "Insurance defamation includes a false or maliciously critical statement about an insurer's financial condition... Altering records is not sales enthusiasm. Use verifiable facts.",
+        "label": "Product Selling Points",
+        "visual": "Boxes for Defamation, False Records, and Accurate Comparison are highlighted sequentially. Text points populate each box as they are discussed.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_start": "0:53"
+      },
+      {
+        "1:45": "1:45",
+        "audio": "A producer offers to return part of a life premium personally if Aisha buys today.",
+        "label": "Product Information",
+        "visual": "Screen updates with header about inducements. Box for 'Off-contract rebate' appears on left.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_start": "1:43"
+      },
+      {
+        "1:47": "1:47",
+        "audio": "An off-contract premium rebate used to induce the sale can violate Maryland law.",
+        "label": "Product Information",
+        "visual": "Box for 'Specified materials' appears in the center.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_start": "1:45"
+      },
+      {
+        "2:24": "2:24",
+        "audio": "The state permits promotional materials costing no more than $50, but receipt cannot depend on buying insurance... A low dollar amount alone does not authorize a reward.",
+        "label": "Product Selling Points",
+        "visual": "A third box for 'Purchase condition' is added. Each box is highlighted to explain the $50 limit and anti-rebate rules.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_start": "1:47"
+      },
+      {
+        "2:25": "2:25",
+        "audio": "Unfair discrimination is not the same as every difference in premium.",
+        "label": "Product Information",
+        "visual": "Title changes to Fair Treatment. Box for 'Comparable applicants' appears.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_start": "2:24"
+      },
+      {
+        "2:26": "2:26",
+        "audio": "Maryland prohibits unfair differences among life insurance applicants",
+        "label": "Product Information",
+        "visual": "Box for 'Risk classification' appears next to the first box.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_start": "2:25"
+      },
+      {
+        "3:16": "3:16",
+        "audio": "Legitimate underwriting differences must respect statutory protections... The life statute has rules for blindness, hearing impairment, and genetic traits. Do not use stereotypes.",
+        "label": "Product Selling Points",
+        "visual": "A third box for 'Protected circumstances' appears. Highlighted text lists specific traits like blindness and hearing impairment.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_start": "2:26"
+      },
+      {
+        "3:18": "3:18",
+        "audio": "Suppose a lender says Elena may obtain a loan only if she buys insurance through a chosen producer.",
+        "label": "Product Information",
+        "visual": "Title changes to Pressure. Three boxes labeled 01, 02, and 03 appear with arrows between them.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_start": "3:16"
+      },
+      {
+        "3:55": "3:55",
+        "audio": "Maryland prohibits tying access to credit to buying insurance through a particular producer... Another rule addresses concerted boycott or intimidation. Look for actual pressure.",
+        "label": "Product Selling Points",
+        "visual": "The boxes fill with text regarding legitimate need, free choice, and prohibited pressure. Arrows indicate the flow of legal logic.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_start": "3:18"
+      },
+      {
+        "3:56": "3:56",
+        "audio": "A receptionist without a producer license can connect a customer with a licensed producer.",
+        "label": "Product Information",
+        "visual": "Title changes to Referrals and forms. Four numbered boxes (01-04) appear in a vertical stack.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_start": "3:55"
+      },
+      {
+        "4:42": "4:42",
+        "audio": "That does not authorize the receptionist to recommend policy terms... Do not ask a client to sign a blank application. Complete the facts accurately and obtain signatures.",
+        "label": "Product Selling Points",
+        "visual": "The boxes for Referral, Compensation, Application, and Correction are highlighted. Each box displays compliance text.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_start": "3:56"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "credits": 0,
+  "reason": "Removed unwanted generated lead-in speech using verified silence gaps; retained all intended narration.",
+  "cuts": [
+    {
+      "lesson": 17,
+      "section": 0,
+      "trimStart": 4.6,
+      "leadingSilence": 0.15,
+      "sourceJob": "5683d799-e378-477e-ab81-60ee52f08e1a",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/13dcd286-2c35-4762-8c93-ce7e80407d38.mp3"
+    },
+    {
+      "lesson": 18,
+      "section": 3,
+      "trimStart": 3.05,
+      "leadingSilence": 0.15,
+      "sourceJob": "e343676f-40bb-4a10-b75e-488719d4e286",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/4733c7a2-6c2c-4eb8-ab5a-bdef1228867f.mp3"
+    }
+  ]
+}

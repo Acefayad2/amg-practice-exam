@@ -1,0 +1,312 @@
+{
+  "requests": [
+    {
+      "index": 210,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Daniel and Elena own a repair company. They face several different problems if someone dies. An owner's family may inherit a business interest without wanting to operate the company. Losing a key manager may interrupt revenue and require a costly replacement. The company may also want to reward and retain a valuable employee. Life insurance can play a role in each situation, but the owner, beneficiary and intended use of proceeds differ. Start with the business objective. Then trace who owns the policy, whose life is insured and who receives the money."
+      }
+    },
+    {
+      "index": 211,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Daniel and Elena want the surviving owner to buy the deceased owner's business interest at an agreed value or under an agreed valuation method. The buy-sell agreement creates the purchase framework. Life insurance can supply money for the death-triggered purchase. The agreement and the policy are separate documents. A policy alone does not decide the share price, force a transfer or resolve every ownership issue. The business must coordinate the legal agreement, valuation, ownership structure and insurance amount. Review the arrangement when the business value or the owners change."
+      }
+    },
+    {
+      "index": 212,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "In a simple two-owner cross-purchase arrangement, Elena owns and is beneficiary of a policy on Daniel. Daniel owns and is beneficiary of a policy on Elena. If Daniel dies and the policy pays, Elena receives the proceeds. She uses the money under the buy-sell agreement to purchase Daniel's interest from his estate or other lawful successor. The surviving owner is the buyer in this example. The family receives the purchase price for the interest. Do not assume that the deceased owner's family is also the beneficiary of the funding policy."
+      }
+    },
+    {
+      "index": 213,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Change the structure. The repair company owns and is beneficiary of policies on its owners. If Daniel dies, the company receives the covered proceeds and uses them under the agreement to buy back his interest. This is an entity-purchase arrangement, also called a stock-redemption arrangement in a corporate setting. The business, rather than Elena individually, makes the purchase. Do not choose between structures from a slogan about taxes. Their legal, valuation and tax consequences differ. The learning task is to follow the ownership and payment flow and recognize the arrangement described."
+      }
+    },
+    {
+      "index": 214,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Now suppose the company depends on Marcus, a specialist whose relationships and technical skills support important contracts. The company buys life coverage on Marcus to protect its own lawful economic interest, with the required application and consent process. The company generally owns the policy, pays the premiums and receives the covered death benefit. It may use the funds for recruiting, training, lost revenue or debt obligations. This does not automatically buy an ownership interest or pay a personal family benefit. Key-person coverage protects the business against its loss from a valuable person's death."
+      }
+    },
+    {
+      "index": 215,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "For a separate retention goal, the company helps a valued executive obtain personally owned life insurance through a bonus arrangement. The executive owns the policy and chooses the beneficiary under its terms. The employer provides the agreed compensation support; that payment alone does not make the employer the policyowner. The arrangement can include tax-related bonus planning, which needs its own review. Keep the core distinction clear: a buy-sell funds an ownership purchase, key-person coverage protects the business, and an executive bonus supports employee-owned protection. Follow the stated objective and the actual contract roles."
+      }
+    },
+    {
+      "index": 220,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Elena compares a personally owned whole life policy with coverage offered through work. Individual and group describe how coverage is arranged. Temporary and permanent describe the intended protection pattern. Participating and nonparticipating describe whether the contract provides for policy dividends. Fixed and variable describe important differences in guarantees and investment risk. These labels answer different questions. One policy can be individual, permanent, participating and fixed at the same time. Ordinary life is a broad individual-life category; do not assume that every use of the word ordinary means one particular premium schedule."
+      }
+    },
+    {
+      "index": 221,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "A participating life policy may pay dividends, but those dividends are not guaranteed merely because the policy participates. A fixed design provides the guarantees stated in its contract; the label does not erase charges, funding requirements or exclusions. Variable life uses investment options whose results can affect values and benefits within the policy's terms. The owner bears the specified investment risk. Variable products also involve securities requirements in addition to insurance authority. Before discussing price, know what protection, guarantees, charges and risks are actually being compared. Similar labels do not prove identical contracts."
+      }
+    },
+    {
+      "index": 222,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Mortality assumptions estimate the pattern of deaths in the insured group. Interest assumptions reflect earnings on funds held before benefits are paid. Expenses include the costs of acquiring, administering and servicing the business, with appropriate pricing provisions. Holding other assumptions constant, higher expected mortality tends to increase the cost of death protection. Higher assumed interest can reduce the amount that must be collected now for the same future benefit. Greater expense needs increase the gross price. These are pricing relationships, not promises that the premium on an existing policy changes whenever market conditions move."
+      }
+    },
+    {
+      "index": 223,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Use a simplified one-year example. Assume a two-in-one-thousand chance of death and a one hundred thousand dollar benefit paid at year end. The expected benefit cost is two hundred dollars per policy before expenses and discounting. If the explicitly assumed interest rate is five percent, dividing two hundred by one point zero five gives a present value of about one hundred ninety dollars and forty-eight cents. This illustrates a net single premium under the stated assumptions. Real life pricing uses fuller mortality and timing data. It is not simply the face amount divided by a guessed lifespan."
+      }
+    },
+    {
+      "index": 224,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "A net single premium is paid once in the simplified model. A net level annual premium spreads funding over the assumed premium-paying period while accounting for timing, interest and the possibility that premiums stop at death. The gross annual premium adds the applicable expense and other pricing provisions. Do not compare a net single amount with a gross annual quote as if they described the same payment. The insurer's actual quoted premium reflects the selected product, risk classification, benefit, guarantees and payment arrangement. A teaching calculation explains a principle; it does not replace an insurer's approved quote."
+      }
+    },
+    {
+      "index": 225,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Elena can pay four hundred eighty dollars annually or forty-two dollars monthly for the stated coverage. Twelve monthly payments total five hundred four dollars, which is twenty-four dollars more per year. Payment mode means frequency, such as annual, semiannual, quarterly or monthly. The monthly amount is not necessarily the annual premium divided by twelve. Compare the total cost as well as affordability and the contract's payment conditions. Keep the final distinctions clear: the product describes the coverage, pricing assumptions help determine its cost, and payment mode describes the schedule on which premiums are collected."
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 210,
+      "job_id": "acd82660-a2b5-4ed0-8c6c-f5dc51b9f91f",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_042408_acd82660-a2b5-4ed0-8c6c-f5dc51b9f91f.mp3"
+    },
+    {
+      "index": 211,
+      "job_id": "0ad88a7f-0eed-418b-b15b-0c1d9bad97ad",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_042409_0ad88a7f-0eed-418b-b15b-0c1d9bad97ad.mp3"
+    },
+    {
+      "index": 212,
+      "job_id": "251be987-f044-4a2d-80bb-985419606d94",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_042409_251be987-f044-4a2d-80bb-985419606d94.mp3"
+    },
+    {
+      "index": 213,
+      "job_id": "d0382a24-872b-43ad-a358-be63861a1e28",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_042408_d0382a24-872b-43ad-a358-be63861a1e28.mp3"
+    },
+    {
+      "index": 214,
+      "job_id": "bf969dc0-b5fd-4e77-8b53-7ff36e39d56e",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_042408_bf969dc0-b5fd-4e77-8b53-7ff36e39d56e.mp3"
+    },
+    {
+      "index": 215,
+      "job_id": "194b9586-0be4-49a6-b202-80f65a5dbed4",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_042408_194b9586-0be4-49a6-b202-80f65a5dbed4.mp3"
+    },
+    {
+      "index": 220,
+      "job_id": "5b52361d-b15c-4691-9f26-d10334d625b7",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_042704_5b52361d-b15c-4691-9f26-d10334d625b7.mp3"
+    },
+    {
+      "index": 221,
+      "job_id": "550f3778-8546-43dd-9d76-096ad4edb132",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_042704_550f3778-8546-43dd-9d76-096ad4edb132.mp3"
+    },
+    {
+      "index": 222,
+      "job_id": "f14e0650-20b3-4d14-9cb2-2692acc1fd42",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_042704_f14e0650-20b3-4d14-9cb2-2692acc1fd42.mp3"
+    },
+    {
+      "index": 223,
+      "job_id": "16fad144-df9e-4c69-aac4-a989fd681b1a",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_042704_16fad144-df9e-4c69-aac4-a989fd681b1a.mp3"
+    },
+    {
+      "index": 224,
+      "job_id": "0964e3b3-5be2-4767-8a3e-a8410cb59efb",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_042704_0964e3b3-5be2-4767-8a3e-a8410cb59efb.mp3"
+    },
+    {
+      "index": 225,
+      "job_id": "381fa193-be7b-4642-a4e8-2c374acbea5b",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_042704_381fa193-be7b-4642-a4e8-2c374acbea5b.mp3"
+    }
+  ],
+  "costs": {
+    "lesson21": [
+      {
+        "cost": {
+          "credits": 3.8,
+          "credits_exact": 3.8
+        }
+      },
+      {
+        "cost": {
+          "credits": 4,
+          "credits_exact": 4
+        }
+      },
+      {
+        "cost": {
+          "credits": 3.7,
+          "credits_exact": 3.7
+        }
+      },
+      {
+        "cost": {
+          "credits": 4,
+          "credits_exact": 4
+        }
+      },
+      {
+        "cost": {
+          "credits": 4.2,
+          "credits_exact": 4.2
+        }
+      },
+      {
+        "cost": {
+          "credits": 4.4,
+          "credits_exact": 4.4
+        }
+      }
+    ],
+    "lesson22": [
+      {
+        "cost": {
+          "credits": 4.4,
+          "credits_exact": 4.4
+        }
+      },
+      {
+        "cost": {
+          "credits": 4.5,
+          "credits_exact": 4.5
+        }
+      },
+      {
+        "cost": {
+          "credits": 4.4,
+          "credits_exact": 4.4
+        }
+      },
+      {
+        "cost": {
+          "credits": 4.1,
+          "credits_exact": 4.1
+        }
+      },
+      {
+        "cost": {
+          "credits": 4.3,
+          "credits_exact": 4.3
+        }
+      },
+      {
+        "cost": {
+          "credits": 4.3,
+          "credits_exact": 4.3
+        }
+      }
+    ]
+  }
+}

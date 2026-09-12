@@ -1,0 +1,36 @@
+{
+  "number": 13,
+  "duration": "283.421000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/b9bae57f-bcda-4cae-b889-32685c3e89b2.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/51c1c2e3-4bf1-4402-b4d4-e09f967a7b71.png",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/93ae5577-e1d2-4a6a-a3cc-5a8207f8cbcd.zip",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/3ffcf395-dece-47e3-bc21-2feaaa9f1b32.jpg",
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "283.421000",
+      "size": "12193172"
+    }
+  },
+  "review": {
+    "layouts": "All six settled layouts visually inspected.",
+    "decode": "Complete FFmpeg decode passed.",
+    "speech": "All six sections compared; sections 2 and 6 regenerated to fix confirmed defects; corrected speech checked with base.en and small.en.",
+    "analysis": "Completed scene analysis reviewed against script and native timing; no unresolved discrepancy. Timings in the analysis are approximate, so native timing and speech checks determine synchronization.",
+    "player": "Chromium check passed: native video end, all 8 required questions, wrong-answer retry, saved first answers, resume and completion reload, mobile captions and dialog; no JavaScript errors."
+  },
+  "status": "ready",
+  "coordinatorApproval": null
+}

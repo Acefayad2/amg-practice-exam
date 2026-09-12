@@ -1,0 +1,192 @@
+{
+  "result": {
+    "id": "5b3065af-6fcf-4a10-ac3b-725a61de49ba",
+    "video_input_id": "ff2ec031-4dfc-425d-9fe7-bedc9275b48f",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/ff2ec031-4dfc-425d-9fe7-bedc9275b48f.mp4",
+    "scenes": [
+      {
+        "audio": "Aisha contacts the insurer after her husband's death. The producer helps her locate the policy, identify the beneficiary designation, and obtain the required claim instructions. The insurer evaluates the claim under the contract and applicable law.",
+        "label": "Product Information",
+        "visual": "Static shot. Beige background with teal top bar. White rectangular graphic box appears on the left. Flat digital lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:13",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "Maryland's form review process generally requires covered life policy forms to be filed and approved, subject to stated exceptions. That oversight does not allow a producer to rewrite a benefit at claim time.",
+        "label": "Product Information",
+        "visual": "Static shot. Dark teal rectangular box appears in the center with a white arrow. Layout remains static. Flat lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:27",
+        "timestamp_start": "0:13"
+      },
+      {
+        "audio": "Explain the actual provisions. Help the family provide the needed information and avoid promising an outcome before the facts are reviewed.",
+        "label": "Product Information",
+        "visual": "Static shot. A second white graphic box appears on the right with a teal arrow. Balanced horizontal layout. Even lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:38",
+        "timestamp_start": "0:27"
+      },
+      {
+        "audio": "An insurer cannot refuse a claim for an arbitrary reason, misrepresent a relevant policy provision, or quietly rely on an altered application. Maryland also requires a prompt, reasonable explanation on request for a claim denial.",
+        "label": "Product Information",
+        "visual": "Static view of three informational boxes. Minimalist corporate design. Professional palette and flat lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:46",
+        "timestamp_start": "0:38"
+      },
+      {
+        "audio": "An insurer cannot refuse a claim for an arbitrary reason, misrepresent a relevant policy provision, or quietly rely on an altered application. Maryland also requires a prompt, reasonable explanation on request for a claim denial.",
+        "label": "Product Information",
+        "visual": "Screen wipe transition. New header appears. White graphic box appears on the left. Professional flat aesthetic.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "1:01",
+        "timestamp_start": "0:46"
+      },
+      {
+        "audio": "Another section addresses specified unfair practices committed often enough to indicate a general business practice. That includes repeated failures to investigate reasonably or respond promptly.",
+        "label": "Product Information",
+        "visual": "Static shot. Center teal rectangular box appears. Balanced framing with flat digital graphics and neutral lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:15",
+        "timestamp_start": "1:01"
+      },
+      {
+        "audio": "Do not conclude that an isolated prohibited act becomes acceptable because there is no pattern. The two sections address overlapping conduct with different requirements. Identify the facts and the applicable rule.",
+        "label": "Product Information",
+        "visual": "Static shot. Right white graphic box appears. Symmetrical three-column layout. Flat digital lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:27",
+        "timestamp_start": "1:15"
+      },
+      {
+        "audio": "Identify the facts and the applicable rule.",
+        "label": "Product Information",
+        "visual": "Static view of current slide graphics. Minimalist background and neutral lighting. Static camera.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:36",
+        "timestamp_start": "1:27"
+      },
+      {
+        "audio": "For life policies issued in Maryland, the basic interest rule runs from the insured's death until payment. The insurer need not pay interest if it pays the proceeds within 30 days after death.",
+        "label": "Product Information",
+        "visual": "Screen wipe transition. New title. Left white box appears. Minimalist corporate layout with flat lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:51",
+        "timestamp_start": "1:36"
+      },
+      {
+        "audio": "If proof of death arrives more than 180 days after death, interest instead runs from submission of that proof until payment. The rate is at least the rate payable on death proceeds left on deposit with the insurer.",
+        "label": "Product Information",
+        "visual": "Static shot. Center teal rectangular box appears with a teal arrow. Flat digital graphics and even lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "2:06",
+        "timestamp_start": "1:51"
+      },
+      {
+        "audio": "Maryland has corresponding individual and group life provisions. Keep this interest calculation separate from whether the underlying death benefit is payable.",
+        "label": "Product Information",
+        "visual": "Static shot. Right white graphic box appears. Symmetrical horizontal layout. Digital lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "2:16",
+        "timestamp_start": "2:06"
+      },
+      {
+        "audio": "Now suppose the insurer fails financially. Maryland's Life and Health Insurance Guaranty Corporation exists to protect eligible people against specified failures of member insurers within legal limits.",
+        "label": "Product Information",
+        "visual": "Screen wipe transition. New title. Left white rectangular box appears. Professional flat design and neutral lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:31",
+        "timestamp_start": "2:16"
+      },
+      {
+        "audio": "It is a private, non-profit, non-stock corporation, not a state department. Member insurers fund its work through assessments.",
+        "label": "Product Information",
+        "visual": "Static shot. Center teal rectangular box appears. Static camera with flat digital assets and neutral lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:46",
+        "timestamp_start": "2:31"
+      },
+      {
+        "audio": "Depending on the circumstances, protection may involve continuing covered obligations or arranging a transfer to another insurer. Owners should follow the receiver's instructions and keep required premiums current to maintain coverage. Insolvency does not automatically make a policy free or turn every promise into a state debt.",
+        "label": "Product Information",
+        "visual": "Static shot. Right white graphic box appears. Symmetrical horizontal layout. Flat digital lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "3:05",
+        "timestamp_start": "2:46"
+      },
+      {
+        "audio": "The Maryland life limits include up to $300,000 in death benefits with no more than $100,000 in net cash surrender or withdrawal values.",
+        "label": "Product Information",
+        "visual": "Screen wipe transition. New title. Left white rectangular box appears. Professional flat design and neutral lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "3:20",
+        "timestamp_start": "3:05"
+      },
+      {
+        "audio": "The annuity limit is $250,000 in present value benefits. These are statutory ceilings, not additional benefits added to the policy.",
+        "label": "Product Information",
+        "visual": "Static shot. Center teal rectangular box appears. Static camera with flat digital assets and even lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:35",
+        "timestamp_start": "3:20"
+      },
+      {
+        "audio": "Contractual obligations, eligibility, exclusions, and the aggregate limit still matter. Multiple policies on one life do not multiply the protection. Investment risk borne by a policyholder and non-guaranteed portions are excluded under the stated rule. Check the complete contract and the law.",
+        "label": "Product Information",
+        "visual": "Static shot. Right white graphic box appears. Symmetrical horizontal layout. Flat digital lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:53",
+        "timestamp_start": "3:35"
+      },
+      {
+        "audio": "A producer tells Elena to ignore an insurer's financial condition because guarantee protection makes the purchase risk-free. That is wrong.",
+        "label": "Product Information",
+        "visual": "Screen wipe transition. New title. Left white rectangular box appears. Professional flat design and neutral lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "4:08",
+        "timestamp_start": "3:53"
+      },
+      {
+        "audio": "Maryland prohibits using this protection in the sale of insurance. The law separately requires a written notice for a delivered contract that exceeds the stated limits or is outside the coverage, explaining those limits and the corporation's private status.",
+        "label": "Product Information",
+        "visual": "Static shot. Center teal rectangular box appears. Static camera with flat digital assets and even lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "4:23",
+        "timestamp_start": "4:08"
+      },
+      {
+        "audio": "A required disclosure is different from a sales inducement. Explain the insurer, its actual promises, and the product's risks accurately. Guarantee protection never replaces a careful, suitable coverage decision.",
+        "label": "Product Information",
+        "visual": "Static shot. Right white graphic box appears. Symmetrical horizontal layout. Flat digital lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "4:42",
+        "timestamp_start": "4:23"
+      }
+    ]
+  }
+}

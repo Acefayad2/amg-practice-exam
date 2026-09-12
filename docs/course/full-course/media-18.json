@@ -1,0 +1,36 @@
+{
+  "number": 18,
+  "duration": "262.421000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/5c2ea551-d7cf-4382-a442-ff5c0d03e22b.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/6ad43869-f837-4c40-8097-a4aef8d1f6c6.png",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/849c719e-e998-46ef-8d2c-b5049dfe17cd.zip",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/ae26e15e-d873-44d0-be80-07f4f2c0e103.jpg",
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "262.421000",
+      "size": "12512114"
+    }
+  },
+  "review": {
+    "layouts": "All six layouts visually inspected.",
+    "decode": "Complete FFmpeg decode passed.",
+    "speech": "All six spoken sections compared against the script. An unwanted opening phrase was removed using a native audio cut, then the complete speech and captions were checked again.",
+    "analysis": "Completed scene analysis reviewed; native speech and timing checked. No unresolved discrepancy.",
+    "player": "Chromium checks passed: native ended event, all 8 required questions, retry feedback, first-answer history, resume and completion reload, mobile captions and viewport; no JavaScript errors."
+  },
+  "status": "ready",
+  "coordinatorApproval": null
+}

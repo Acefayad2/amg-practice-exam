@@ -1,0 +1,36 @@
+{
+  "number": 19,
+  "duration": "258.000000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/eec46f55-7147-49b9-bdb7-e99a82000113.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/eac2f54e-b811-4673-a1ce-a8dad7165459.png",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/2689f29d-0647-462e-9aec-6a5cd38633e7.jpg",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/d49da4b9-76b6-4a06-b77c-27c4feca0751.zip",
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "258.000000",
+      "size": "22033470"
+    }
+  },
+  "review": {
+    "layouts": "All six teaching layouts plus the two photograph compositions visually inspected; logo circle and text fit checked.",
+    "decode": "Complete FFmpeg decode passed.",
+    "speech": "All six sections compared; clipped opening regenerated. Small-model review confirmed the resource sentence was fully spoken.",
+    "analysis": "Submitted; pending.",
+    "player": "Pending."
+  },
+  "status": "review",
+  "coordinatorApproval": null
+}

@@ -1,0 +1,309 @@
+{
+  "result": {
+    "id": "c1b99f2e-7dc2-41b2-b564-505a1a203aed",
+    "video_input_id": "8a412902-14e3-405d-ba60-7e3267b4840b",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/8a412902-14e3-405d-ba60-7e3267b4840b.mp4",
+    "scenes": [
+      {
+        "audio": "Elena's employer provides group life insurance.",
+        "label": "Opening Hook",
+        "visual": "Static graphic. Light-green background. White rectangle on left. Gold emblem bottom-left. Green arrow points right. Neutral lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:01",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "The employer or eligible trustees hold the master policy,",
+        "label": "Product Information",
+        "visual": "A dark-green rectangle appears in the center. Same background and logo.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:02",
+        "timestamp_start": "0:01"
+      },
+      {
+        "audio": "while Elena is an insured employee. She receives a certificate describing her protection,",
+        "label": "Product Information",
+        "visual": "A white rectangle appears on the right. Slide now contains three rectangles.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:15",
+        "timestamp_start": "0:02"
+      },
+      {
+        "audio": "who receives benefits and important rights. Under Maryland’s employer group rule, this coverage benefits people other than the employer. It is different from a business buying key person coverage for its own loss.",
+        "label": "Product Information",
+        "visual": "Static slide with three rectangles. Neutral digital lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:30",
+        "timestamp_start": "0:15"
+      },
+      {
+        "audio": "Eligible employees may include all employees or qualifying classes. Read the policy’s eligibility terms rather than assuming that every worker, contractor or family member is automatically covered.",
+        "label": "Product Information",
+        "visual": "Static slide remains. Same color palette and brand emblem.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:43",
+        "timestamp_start": "0:30"
+      },
+      {
+        "audio": "Group premiums may come from the employer,",
+        "label": "Product Selling Points",
+        "visual": "New slide. Light-green backdrop. White rectangle on the left. Header text at top.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "0:44",
+        "timestamp_start": "0:43"
+      },
+      {
+        "audio": "employees,",
+        "label": "Product Selling Points",
+        "visual": "A light-green rectangle appears in the center.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "0:45",
+        "timestamp_start": "0:44"
+      },
+      {
+        "audio": "or both. When employees contribute, the plan is contributory. When they do not, it is noncontributory. Maryland’s employer group rule generally requires coverage of all eligible employees in a noncontributory plan,",
+        "label": "Product Selling Points",
+        "visual": "A white rectangle appears on the right.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:00",
+        "timestamp_start": "0:45"
+      },
+      {
+        "audio": "except written rejections and the stated insurability exception. Covered arrangements may extend protection to a spouse, domestic partner or dependent children.",
+        "label": "Product Selling Points",
+        "visual": "Static slide with three colored rectangles. Brand logo bottom-left.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:15",
+        "timestamp_start": "1:00"
+      },
+      {
+        "audio": "The amount on a dependent cannot exceed the employee’s amount under the rule taught here. A dependent’s coverage and conversion rights require their own attention.",
+        "label": "Product Selling Points",
+        "visual": "Static slide remains. Neutral lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "1:28",
+        "timestamp_start": "1:15"
+      },
+      {
+        "audio": "Marcus leaves his job and loses the covered group life insurance.",
+        "label": "Problem Solving",
+        "visual": "New slide. Light-green background. White rectangle on left. Green arrow points right.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "1:30",
+        "timestamp_start": "1:28"
+      },
+      {
+        "audio": "Maryland’s conversion rule lets",
+        "label": "Problem Solving",
+        "visual": "A dark-green rectangle appears in the center. Arrow points right.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "1:31",
+        "timestamp_start": "1:30"
+      },
+      {
+        "audio": "an eligible insured obtain individual life coverage from the insurer without new evidence of insurability. The ordinary application and first premium deadline is 31 days after termination",
+        "label": "Problem Solving",
+        "visual": "A white rectangle appears on the right.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "1:45",
+        "timestamp_start": "1:31"
+      },
+      {
+        "audio": "of employment or eligible membership. The available form is a form the insurer customarily issues, other than term insurance, subject to the stated conditions.",
+        "label": "Problem Solving",
+        "visual": "Static slide with three rectangles. Neutral lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "2:00",
+        "timestamp_start": "1:45"
+      },
+      {
+        "audio": "Conversion preserves an opportunity for coverage, not the old group price.",
+        "label": "Problem Solving",
+        "visual": "Static slide remains. Brand emblem in corner.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "2:10",
+        "timestamp_start": "2:00"
+      },
+      {
+        "audio": "The premium reflects the permitted form, amount, risk class and attained age.",
+        "label": "Problem Solving",
+        "visual": "Slide remains until transition.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "2:17",
+        "timestamp_start": "2:10"
+      },
+      {
+        "audio": "Suppose Marcus loses",
+        "label": "Product Information",
+        "visual": "New slide. Light-green background. White rectangle on the left.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "2:19",
+        "timestamp_start": "2:17"
+      },
+      {
+        "audio": "$80,000 of group coverage but becomes",
+        "label": "Product Information",
+        "visual": "A light-green rectangle appears in the center.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "2:20",
+        "timestamp_start": "2:19"
+      },
+      {
+        "audio": "eligible for $30,000 under another group policy within the stated 31-day period. Under the Maryland conversion amount rule, the maximum is $50,000.",
+        "label": "Product Information",
+        "visual": "A white rectangle appears on the right.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "2:35",
+        "timestamp_start": "2:20"
+      },
+      {
+        "audio": "The statute also requires written notice of conversion rights and provides an extension when that notice is missing or late, within its outer limit.",
+        "label": "Product Information",
+        "visual": "Static slide with three rectangles. High contrast text boxes.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "2:50",
+        "timestamp_start": "2:35"
+      },
+      {
+        "audio": "If an insured dies while entitled to convert but before the individual policy is effective, the amount available for conversion is payable under the group policy, even without the application or first premium.",
+        "label": "Product Information",
+        "visual": "Slide remains. Brand emblem visible.",
+        "shot_type": "Wide Shot",
+        "scene_number": 21,
+        "timestamp_end": "2:59",
+        "timestamp_start": "2:50"
+      },
+      {
+        "audio": "Now change the facts.",
+        "label": "Usage Scenarios",
+        "visual": "New slide. Light-green background. White rectangle on the left.",
+        "shot_type": "Wide Shot",
+        "scene_number": 22,
+        "timestamp_end": "3:00",
+        "timestamp_start": "2:59"
+      },
+      {
+        "audio": "The employer’s entire group policy ends",
+        "label": "Usage Scenarios",
+        "visual": "A light-green rectangle appears in the center.",
+        "shot_type": "Wide Shot",
+        "scene_number": 23,
+        "timestamp_end": "3:02",
+        "timestamp_start": "3:00"
+      },
+      {
+        "audio": "or a covered class is removed. Instead of Marcus simply leaving his job, a separate Maryland provision addresses this event.",
+        "label": "Usage Scenarios",
+        "visual": "A white rectangle appears on the right.",
+        "shot_type": "Wide Shot",
+        "scene_number": 24,
+        "timestamp_end": "3:15",
+        "timestamp_start": "3:02"
+      },
+      {
+        "audio": "It protects an insured who has been covered for at least five years before termination, subject to the conversion conditions.",
+        "label": "Usage Scenarios",
+        "visual": "Static slide with three boxes. Neutral lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 25,
+        "timestamp_end": "3:30",
+        "timestamp_start": "3:15"
+      },
+      {
+        "audio": "The policy may limit the individual amount to the lesser of the lost coverage after the specified new group offset or $10,000. Do not apply this five-year requirement and possible cap to every ordinary employment termination conversion question.",
+        "label": "Usage Scenarios",
+        "visual": "Slide remains. Solid backdrop.",
+        "shot_type": "Wide Shot",
+        "scene_number": 26,
+        "timestamp_end": "3:39",
+        "timestamp_start": "3:30"
+      },
+      {
+        "audio": "Maryland permits an insured",
+        "label": "Product Information",
+        "visual": "New slide. Light-green background. White rectangle at the top of a list.",
+        "shot_type": "Wide Shot",
+        "scene_number": 27,
+        "timestamp_end": "3:40",
+        "timestamp_start": "3:39"
+      },
+      {
+        "audio": "to assign group life rights and",
+        "label": "Product Information",
+        "visual": "A light-green rectangle appears below the first.",
+        "shot_type": "Wide Shot",
+        "scene_number": 28,
+        "timestamp_end": "3:42",
+        "timestamp_start": "3:40"
+      },
+      {
+        "audio": "benefits under an arrangement among",
+        "label": "Product Information",
+        "visual": "A white rectangle appears third in the list.",
+        "shot_type": "Wide Shot",
+        "scene_number": 29,
+        "timestamp_end": "3:43",
+        "timestamp_start": "3:42"
+      },
+      {
+        "audio": "the insured, policyholder and insurer. The assigned rights can include conversion and naming a beneficiary. The assignee receives the rights actually assigned.",
+        "label": "Product Information",
+        "visual": "A light-green rectangle appears at the bottom. Slide has four rectangles.",
+        "shot_type": "Wide Shot",
+        "scene_number": 30,
+        "timestamp_end": "3:55",
+        "timestamp_start": "3:43"
+      },
+      {
+        "audio": "Follow the arrangement and the insurer’s notice process. Do not assume that every assignment transfers every right. Elena should understand what she controls after an assignment",
+        "label": "Product Information",
+        "visual": "Static slide with list of four rectangles. Logo at bottom-left.",
+        "shot_type": "Wide Shot",
+        "scene_number": 31,
+        "timestamp_end": "4:10",
+        "timestamp_start": "3:55"
+      },
+      {
+        "audio": "and who can exercise the transferred rights. For an exam scenario, identify the event first, then the right,",
+        "label": "Call to Action",
+        "visual": "Static slide remains. Neutral digital lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 32,
+        "timestamp_end": "4:20",
+        "timestamp_start": "4:10"
+      },
+      {
+        "audio": "the responsible person, the amount and the deadline.",
+        "label": "Call to Action",
+        "visual": "Static slide remains until video end.",
+        "shot_type": "Wide Shot",
+        "scene_number": 33,
+        "timestamp_end": "4:29",
+        "timestamp_start": "4:20"
+      }
+    ]
+  }
+}

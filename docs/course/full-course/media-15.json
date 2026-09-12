@@ -1,0 +1,36 @@
+{
+  "number": 15,
+  "duration": "268.794000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/1302de04-8191-4dbb-b9bd-280c0c66dcd5.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/2f8a1230-fef3-4ada-80d7-73b7a467ae37.png",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/60f589c1-b796-4ebe-938b-788f5767f5a9.zip",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/1f1b59cc-80be-4ad1-a4d6-9e331220163f.jpg",
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "268.794000",
+      "size": "12354680"
+    }
+  },
+  "review": {
+    "layouts": "All six settled layouts visually inspected.",
+    "decode": "Complete FFmpeg decode passed.",
+    "speech": "All six sections compared; clipped Before in the final section was confirmed using two recognizers. Replaced that section with a clearer opening; corrected speech matches the script.",
+    "analysis": "Completed scene analysis reviewed against script and native timing; no unresolved discrepancy. Timings in the analysis are approximate, so native timing and speech checks determine synchronization.",
+    "player": "Chromium check passed: native video end, all 8 required questions, wrong-answer retry, saved first answers, resume and completion reload, mobile captions and dialog; no JavaScript errors."
+  },
+  "status": "ready",
+  "coordinatorApproval": null
+}
