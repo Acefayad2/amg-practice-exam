@@ -1,0 +1,36 @@
+{
+  "number": 32,
+  "duration": "261.792000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/8ad8511c-15c0-4a16-8e10-05db1e9e1900.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/2b13d19f-a3b3-409d-bc6a-433ece12c02d.png",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/3eef8af2-fdac-4411-8f10-e9eda8415efa.jpg",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/c173d707-b097-4e3c-8f1c-4a4197fba3f4.zip",
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "261.792000",
+      "size": "21819784"
+    }
+  },
+  "review": {
+    "layouts": "All eight layout frames inspected; ownership, assignment, entitlement and circular logo checked.",
+    "decode": "Complete FFmpeg decode passed.",
+    "speech": "All six sections transcribed and compared; confirmed omitted ending phrase replaced and all corrected speech reviewed. Secondary transcription resolved an apparent repeated word.",
+    "analysis": "Submitted; pending.",
+    "player": "Chromium checks passed: required questions, native ended event, wrong answer and retry, first-answer history, saved position and completion reload, mobile captions and dialog, and no JavaScript errors."
+  },
+  "status": "review",
+  "coordinatorApproval": null
+}

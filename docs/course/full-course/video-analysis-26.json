@@ -1,0 +1,201 @@
+{
+  "result": {
+    "id": "f3771bde-13cc-437d-b77d-addafe5c6457",
+    "video_input_id": "1904e10c-72e5-425d-9ec7-7dc2192ded4e",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/1904e10c-72e5-425d-9ec7-7dc2192ded4e.mp4",
+    "scenes": [
+      {
+        "audio": "Marcus wants protection while his children are financially dependent. A term policy covers a specified period if the contract stays in force.",
+        "label": "Opening Hook",
+        "visual": "A man and a woman are sitting side-by-side at a wooden kitchen table. The man, approximately 40 years old, has dark skin, a short black beard, and wears a navy blue button-down shirt. The woman, approximately 35 years old, has brown skin, long wavy dark hair, and wears an olive green button-down blouse. They are focused on a white paper document held by the woman in her right hand; the man holds a silver pen. An open silver laptop sits to their left. The background shows a brightly lit, modern kitchen with white cabinets and soft, warm lighting from a nearby lamp. The scene is static with shallow depth of field.",
+        "shot_type": "Medium Close-Up",
+        "scene_number": 1,
+        "timestamp_end": "0:07",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "Ordinary term generally has no cash accumulation. Ask four separate questions. How long protection lasts, how the death benefit changes...",
+        "label": "Product Information",
+        "visual": "A clean, minimalist graphic on a cream-colored background. The top header is dark teal. A vertical list appears titled 'Separate four questions about the policy'. Item 01 'Duration' and 02 'Benefit' are visible in white boxes with teal and orange accents respectively. Descriptions 'When does protection end?' and 'Level, decreasing or increasing?' are aligned to the right. The color palette is muted with teal, orange, and gold accents.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:20",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "...how long the premium is guaranteed, and what rights exist afterward. A level benefit does not by itself promise a level premium forever. Read the schedules.",
+        "label": "Product Information",
+        "visual": "The same graphic continues, adding items 03 'Premium' ('What period and schedule?') and 04 'Future rights' ('Renewal and conversion terms'). The lighting on the graphic is perfectly even with no shadows. The layout is structured and professional.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:35",
+        "timestamp_start": "0:21"
+      },
+      {
+        "audio": "Maryland also requires clear language about whether a death on the term's expiry date is covered. A single word such as 'term' cannot settle all those questions.",
+        "label": "Product Information",
+        "visual": "The graphic remains static as the narrator discusses legal requirements. The dominant tones are off-white and deep teal. The overall aesthetic is educational and corporate.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:41",
+        "timestamp_start": "0:36"
+      },
+      {
+        "audio": "A stated 20-year policy keeps a $500,000 death benefit and a guaranteed annual premium of $600 during that period. The benefit and premium are both level under these particular terms.",
+        "label": "Product Selling Points",
+        "visual": "A new graphic titled 'Level benefit and level premium are different'. Three distinct boxes are displayed: 'Level benefit' (white), 'Level premium period' (gold), and 'Annual renewal' (grey). The central gold box is highlighted. The camera angle is straight-on and static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:55",
+        "timestamp_start": "0:42"
+      },
+      {
+        "audio": "If the contract permits renewal afterward at a higher scheduled rate, that does not extend the original $600 guarantee. Annual renewable term uses one-year periods...",
+        "label": "Product Selling Points",
+        "visual": "The focus shifts to the grey 'Annual renewal' box on the far right of the graphic. The text 'Read the future premium schedule' is visible. The color grading is consistent with previous scenes, favoring clean, professional tones.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:10",
+        "timestamp_start": "0:56"
+      },
+      {
+        "audio": "...and commonly increases its renewal premium as the insured ages. A lower starting premium should be compared with future costs and the length of the need, not treated as the price for every future year.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains static. The layout emphasizes the distinction between initial costs and long-term expenses through the three-box structure. The depth of field is flat as it is a 2D motion graphic.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:20",
+        "timestamp_start": "1:11"
+      },
+      {
+        "audio": "A renewable provision gives the owner the stated right to continue term coverage without new evidence of insurability. The right still has conditions, such as age limits...",
+        "label": "Product Selling Points",
+        "visual": "A new graphic titled 'Renewal continues term protection'. It displays a flow chart with two steps: 01 'Term ends' and 02 'Exercise the right' inside rounded white and dark teal boxes respectively. A teal arrow connects them. The background remains a consistent cream color.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:35",
+        "timestamp_start": "1:21"
+      },
+      {
+        "audio": "...premium payment, and the available renewal period. It does not guarantee the old premium or permit renewal after every stated limit.",
+        "label": "Product Selling Points",
+        "visual": "Step 03 'New term' appears in the flow chart, indicating 'Coverage at the stated renewal price'. The visual transition is a simple slide-in effect. The lighting is artificial and uniform across the frame.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:50",
+        "timestamp_start": "1:36"
+      },
+      {
+        "audio": "Maryland requires the actual renewal premiums to appear in an individual renewable term policy. For Marcus, worsening health makes an available renewal right valuable, but he must still consider the renewal price.",
+        "label": "Product Selling Points",
+        "visual": "The full flow chart remains on screen. The text is sharp and highly legible. The palette remains strictly within the brand colors of teal, gold, and cream.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "2:07",
+        "timestamp_start": "1:51"
+      },
+      {
+        "audio": "A conversion provision allows an eligible owner to exchange term coverage for an available permanent policy without new evidence of insurability within the stated limits. Conversion is different from renewing.",
+        "label": "Product Selling Points",
+        "visual": "Transition to a graphic titled 'Conversion changes the kind of protection'. Three white boxes are shown: 'Renew', 'Convert' (highlighted with a gold top border), and 'Check the terms'. The 'Convert' box describes moving to an eligible permanent design.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "2:22",
+        "timestamp_start": "2:08"
+      },
+      {
+        "audio": "Marcus develops a medical condition but still has an available conversion right. He should check the deadline, eligible permanent products, allowed amount, and premium basis.",
+        "label": "Product Selling Points",
+        "visual": "The focus moves to the 'Check the terms' box, which lists: Deadline, amount, product and premium. The graphic design uses bold headers and clean sans-serif typography.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:37",
+        "timestamp_start": "2:23"
+      },
+      {
+        "audio": "The new premium is commonly based on attained age, meaning his age at conversion under the contract's rules. No new health evidence does not mean no new premium. Missing the conversion window can remove that right.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains static. The layout uses white space effectively to emphasize the bulleted list in the third box. The saturation of the gold and teal accents is moderate, creating a professional look.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:54",
+        "timestamp_start": "2:38"
+      },
+      {
+        "audio": "A decreasing term design reduces its death benefit according to a schedule, often to address a declining obligation. Its premium does not necessarily decrease; many designs keep it level.",
+        "label": "Product Selling Points",
+        "visual": "A graphic titled 'Match the benefit pattern to the need' appears. It features three line graphs showing 'Death benefit' vs 'Time'. The first graph 'Level' shows a horizontal teal line. The second graph 'Decreasing' shows a downward-sloping teal line. The third graph 'Increasing' shows an upward-sloping gold line.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "3:10",
+        "timestamp_start": "2:55"
+      },
+      {
+        "audio": "In an increasing term design, the benefit grows under the stated formula or schedule. These labels concern the benefit, not a cash value account.",
+        "label": "Product Selling Points",
+        "visual": "The three graphs remain visible. Small captions explain each pattern: 'Benefit stays the same', 'Illustrative declining schedule', and 'Illustrative growth schedule'. The camera remains static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "3:25",
+        "timestamp_start": "3:11"
+      },
+      {
+        "audio": "Suppose a teaching policy starts at $100,000 and adds $5,000 at each anniversary. After two increases, its benefit is $110,000.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains on screen as the narrator provides a numerical example. The visual emphasizes the upward trend of the 'Increasing' graph. Lighting remains consistent and flat.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:40",
+        "timestamp_start": "3:26"
+      },
+      {
+        "audio": "Use the stated formula rather than assuming every increasing design compounds a percentage.",
+        "label": "Product Selling Points",
+        "visual": "The three-graph comparison remains as the final summary for this section. The layout is balanced and clear. No camera movement occurs.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:51",
+        "timestamp_start": "3:41"
+      },
+      {
+        "audio": "Return of premium term adds a contractual refund feature if the insured survives the stated period and the required conditions are met.",
+        "label": "Product Selling Points",
+        "visual": "The scene returns to Marcus and the woman in the kitchen. They are in the same positions as the opening scene, looking at the same document. Marcus points at the paper with his pen. The lighting is warm and natural-looking, focused on the couple and the table.",
+        "shot_type": "Medium Close-Up",
+        "scene_number": 18,
+        "timestamp_end": "3:59",
+        "timestamp_start": "3:52"
+      },
+      {
+        "audio": "It commonly costs more than otherwise comparable term without that feature. Do not promise a full refund after any early cancellation or assume every rider charge is included.",
+        "label": "Call to Action",
+        "visual": "A final graphic titled 'A premium refund depends on the contract'. It lists four points in white boxes: 01 Survival condition, 02 Qualifying payments, 03 Early exit, and 04 Decision. Each has a corresponding short description to the right.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "4:15",
+        "timestamp_start": "4:00"
+      },
+      {
+        "audio": "In a simplified example, $1,000 of qualifying annual premiums paid for 20 years totals $20,000. That arithmetic does not create a guaranteed investment return.",
+        "label": "Call to Action",
+        "visual": "The graphic remains static as the narrator explains the arithmetic. The teal and cream palette provides a professional conclusion to the video. The typography remains consistent throughout.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "4:30",
+        "timestamp_start": "4:16"
+      },
+      {
+        "audio": "Compare the protection, total cost, refund conditions, and alternatives. The policy should fit the client's need and sustainable budget.",
+        "label": "Call to Action",
+        "visual": "The full graphic remains on screen for the final seconds. A brand logo (stylized 'M' inside a circle) is visible in the bottom left corner, consistently present in all graphic scenes.",
+        "shot_type": "Wide Shot",
+        "scene_number": 21,
+        "timestamp_end": "4:34",
+        "timestamp_start": "4:31"
+      }
+    ]
+  }
+}

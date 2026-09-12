@@ -1,0 +1,36 @@
+{
+  "number": 30,
+  "duration": "281.754000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/e8cf24ad-3fb0-4797-96b6-3b59fad2403b.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/ce068574-843c-41e2-a9e7-c854ee8b863d.png",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/24af6a54-e2c6-469d-91ea-33c3d4de8329.jpg",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/153f78f9-7f88-47d0-9b32-e60f58c64325.zip",
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "281.754000",
+      "size": "21691477"
+    }
+  },
+  "review": {
+    "layouts": "All six layouts and both photo compositions visually inspected; insured lives, benefit timing, arrows, text and circular logo checked.",
+    "decode": "Complete FFmpeg decode passed.",
+    "speech": "All six sections transcribed and compared. Two unclear or repeated phrases were replaced. Secondary small.en transcription of the complete repaired section and a focused excerpt resolved an apparent base-model repetition; no material discrepancy remained.",
+    "analysis": "Completed: all 11 returned scenes read against the final narrative and visual sequence. Native speech, layout and full-decode checks independently support release.",
+    "player": "Chromium checks passed: all required questions, native ended event, wrong answer and retry, first-answer history, resume and completion reload, mobile captions and dialog, no JavaScript errors."
+  },
+  "status": "ready",
+  "coordinatorApproval": null
+}

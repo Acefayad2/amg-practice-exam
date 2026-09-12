@@ -1,0 +1,36 @@
+{
+  "number": 29,
+  "duration": "292.960000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/31c66575-72b4-485c-9a44-e22a8bd70dfb.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/b662e51c-4f1d-4be3-bb2a-ef842035c75e.png",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/ad2bd5b8-6fea-49ae-8aea-214b4cd6c034.jpg",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/0b97b6cf-d9fc-4efc-b355-3943a3ade81a.zip",
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "292.960000",
+      "size": "22754680"
+    }
+  },
+  "review": {
+    "layouts": "All six layouts and both photo compositions visually inspected; text, calculation, arrows and circular logo checked.",
+    "decode": "Complete FFmpeg decode passed.",
+    "speech": "All six sections transcribed and compared. Native edit removed a confirmed extraneous vocalization; pitch-preserving 1.06 pacing brought the complete lesson below five minutes. Corrected narration fully retranscribed and reviewed.",
+    "analysis": "Completed scene analysis reviewed across all 21 returned scenes; consistent with the intended variable and adjustable life lesson. Native timing, full speech and visual checks remain authoritative.",
+    "player": "Chromium checks passed: all required questions, native ended event, wrong answer and retry, first-answer history, resume and completion reload, mobile captions and dialog, no JavaScript errors."
+  },
+  "status": "ready",
+  "coordinatorApproval": null
+}

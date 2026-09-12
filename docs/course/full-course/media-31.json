@@ -1,0 +1,36 @@
+{
+  "number": 31,
+  "duration": "274.752000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/6d21f3f4-85be-4308-9f7b-0048f05c43cb.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/2944356d-d8da-4b4b-9b9b-6fc7d2a36925.png",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/3ea81585-5b71-498a-9ac7-f805b56b7718.jpg",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/041d9409-627b-4a22-ac33-e6bcabf77574.zip",
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "274.752000",
+      "size": "22282791"
+    }
+  },
+  "review": {
+    "layouts": "All eight layout frames inspected. Workplace photo reframed so all three people remain visible; roles, arrows, text and circular logo checked.",
+    "decode": "Complete FFmpeg decode passed.",
+    "speech": "All six sections transcribed and compared; secondary small.en review resolved three uncertain readings. No material discrepancy remained.",
+    "analysis": "Submitted; pending.",
+    "player": "Chromium checks passed: required questions, native ended event, wrong answer and retry, first-answer history, saved position and completion reload, mobile captions and dialog, and no JavaScript errors."
+  },
+  "status": "review",
+  "coordinatorApproval": null
+}

@@ -1,0 +1,111 @@
+{
+  "result": {
+    "id": "fde32bb1-28c0-4249-8c70-a1dce3e2d685",
+    "video_input_id": "e8cf24ad-3fb0-4797-96b6-3b59fad2403b",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/e8cf24ad-3fb0-4797-96b6-3b59fad2403b.mp4",
+    "scenes": [
+      {
+        "audio": "Marcus and Elena are reviewing protection for themselves and their children. A family plan can combine a principal insured's base coverage with separate spouse or child coverage through riders.",
+        "label": "Opening Hook",
+        "visual": "A man and a woman are seated at a white table in a brightly lit, modern kitchen environment. The man, approximately 40-45 years old with dark skin, short black hair, and a trimmed beard, is wearing a navy blue long-sleeved button-up shirt and holding a pen. The woman, approximately 40-45 years old with a light tan complexion and long dark wavy hair, wears an olive green button-up shirt. They are looking down at a white paper held by the woman. A silver laptop, a ceramic mug, and a dark leather-bound notebook sit on the table. The lighting is soft and natural from a side window, creating a warm domestic atmosphere with shallow depth of field, blurring the kitchen background.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:08",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "A common arrangement combines permanent coverage on one adult with term coverage on eligible family members.",
+        "label": "Product Information",
+        "visual": "A clean, graphic slide with a dark teal header and off-white background. A single white rectangular card with a thin gray border appears on the left side. The card contains teal and gray text. A small gold circular logo is in the bottom left corner. The camera is static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:13",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "The actual contract determines amounts, eligibility, expiration, and any conversion rights. Under a child life rider, the insured child's covered death triggers the benefit. The adult owner's death is a different event. Listing children as beneficiaries on an adult's policy is different from insuring their lives. Begin by identifying every insured person and each separate benefit.",
+        "label": "Product Information",
+        "visual": "The graphic slide updates to display three horizontal white cards side-by-side. Each card has a different colored top border (light green, tan, teal). The text on the cards explains policy components. The layout is balanced and symmetrical against the off-white background. The small gold logo remains in the bottom left corner.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:46",
+        "timestamp_start": "0:13"
+      },
+      {
+        "audio": "In a simplified joint first death contract, Marcus and Elena are both insured under one policy.",
+        "label": "Product Selling Points",
+        "visual": "A new graphic slide titled with a dark teal header. A white rectangular card with a teal top border and the number '01' appears on the left. A teal arrow points to the right toward an empty space. The overall color palette is muted and professional.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:50",
+        "timestamp_start": "0:46"
+      },
+      {
+        "audio": "It pays one stated death benefit when the first insured dies while coverage is in force. Assume there are no additional riders or continuation provisions. After that payment, this base coverage does not promise another benefit when the surviving insured later dies. This design can address a need that arises at the first death, such as replacing lost household income. It differs from two separate individual policies, each of which can have its own death claim. Count the promised benefits instead of counting only the insured names.",
+        "label": "Product Selling Points",
+        "visual": "The graphic slide fills with three numbered cards ('01', '02', '03') connected by teal arrows, forming a linear flow chart. Card 01 is on the left, 02 in the center with a teal border, and 03 on the right with a green border. The text explains the sequence of events in a first-death policy.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "1:34",
+        "timestamp_start": "0:50"
+      },
+      {
+        "audio": "Now replace that contract with a last survivor policy, often called second-to-die coverage for two insured lives.",
+        "label": "Usage Scenarios",
+        "visual": "A graphic slide titled with a dark teal header regarding survivorship coverage. A single white card with a teal border and the number '01' is shown on the left, with an arrow pointing to a grayed-out second card in the middle.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:38",
+        "timestamp_start": "1:34"
+      },
+      {
+        "audio": "Its base death benefit becomes payable after the second insured dies while the contract remains in force. It can address a need expected after both parents are gone, such as a legacy or money for estate obligations. It does not, by itself, replace income for the surviving spouse at the first death. Additional riders can change a real contract's benefits, so keep the example's assumptions explicit. The first death and second death designs answer different timing needs, even though both name two insured people.",
+        "label": "Usage Scenarios",
+        "visual": "The graphic slide updates to show a three-part flow chart. Card 01 is on the left, Card 02 in the middle is grayed out, and Card 03 on the right has a teal border and is the focus. Teal arrows connect them, showing the logic of benefits paying only after the second death.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "2:25",
+        "timestamp_start": "1:38"
+      },
+      {
+        "audio": "Elena owns a juvenile whole life policy on her daughter. Elena is the owner, her daughter is the insured, and the named beneficiary receives the covered death benefit. The policy does not insure Elena's life merely because she pays. Ownership can later be transferred through the applicable process, but adulthood alone does not prove that every contract automatically transfers it. A student or juvenile label also does not establish the amount, premium schedule, or future purchase rights. Check the policy and any guaranteed insurability feature. A payer rider, if included, has separate conditions for protecting premium payments. It does not change whose life the base policy insures.",
+        "label": "Product Selling Points",
+        "visual": "A graphic slide titled with a dark teal header about juvenile life insurance. Three rectangular cards are arranged horizontally. Card 1 has an orange border, Card 2 has a light green border, and Card 3 has a tan border. Each card contains specific roles and descriptions related to the policy structure.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "3:14",
+        "timestamp_start": "2:25"
+      },
+      {
+        "audio": "Marcus borrows money and is offered credit life insurance. Maryland defines it as insurance on a debtor's life, connected to a specific loan or credit transaction. Individual credit life is issued to a debtor on a term plan. Group credit life uses a policy issued to the creditor covering debtors on a term plan, with the debtor receiving a certificate. The covered death benefit addresses the insured debt under the contract. It is different from a personally owned policy, naming family members who may choose how to use proceeds. Credit life is not coverage for every reason a borrower might miss a payment.",
+        "label": "Product Selling Points",
+        "visual": "A graphic slide with a teal title concerning credit life insurance. It features three white cards with different colored top borders (teal, tan, light green) explaining individual versus group credit life and the covered purpose. Static camera shot.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "3:55",
+        "timestamp_start": "3:14"
+      },
+      {
+        "audio": "Maryland generally limits the initial credit life amount to the total repayable under the debt contract, with specific statutory exceptions.",
+        "label": "Usage Scenarios",
+        "visual": "Return to the scene of Marcus and Elena in the kitchen. Marcus is now writing on the paper with his pen, while Elena watches closely, pointing at a section of the document. The lighting and environment are identical to the opening scene. Handheld camera feel with slight organic movement.",
+        "shot_type": "Medium Shot",
+        "scene_number": 10,
+        "timestamp_end": "4:03",
+        "timestamp_start": "3:55"
+      },
+      {
+        "audio": "Determine the credit life claim as of the debtor's death and use the actual benefit form. Net payoff coverage includes the specified earned interest and past due amounts. If a payable benefit exceeds what is due the creditor, the excess belongs to the person entitled under the rule, not automatically to the lender. Early termination requires the applicable refund or credit under approved rules and the minimum refund provision. Refinancing does not justify silently stacking the old coverage and a new charge. Read the documents and explain the transaction.",
+        "label": "Call to Action",
+        "visual": "A final graphic slide titled 'Use Maryland's benefit and refund rules'. It lists four numbered points (01 to 04) on white horizontal bars with rounded corners. The gold logo remains in the bottom left corner against the off-white background. Professional and clean typography.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "4:41",
+        "timestamp_start": "4:03"
+      }
+    ]
+  }
+}

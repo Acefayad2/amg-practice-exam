@@ -337,6 +337,80 @@
         "3.8"
       ],
       "status": "ready"
+    },
+    {
+      "id": "26",
+      "number": 26,
+      "version": 1,
+      "title": "Read term insurance along a timeline",
+      "subtitle": "Separate the benefit schedule, premium period, renewal right and conversion deadline.",
+      "duration": 274.709,
+      "questions": 8,
+      "module": "Policy designs",
+      "outline": [
+        "4.1"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "27",
+      "number": 27,
+      "version": 1,
+      "title": "Whole life: coverage and payment schedules",
+      "subtitle": "Separate lifetime protection from the years in which premiums are due.",
+      "duration": 276.959,
+      "questions": 8,
+      "module": "Policy designs",
+      "outline": [
+        "4.2"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "28",
+      "number": 28,
+      "version": 1,
+      "title": "Universal and indexed life: follow the funding",
+      "subtitle": "Trace premiums, charges, crediting rules and the conditions behind guarantees.",
+      "duration": 297.46,
+      "questions": 10,
+      "module": "Policy designs",
+      "outline": [
+        "4.2",
+        "4.3"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "29",
+      "number": 29,
+      "version": 1,
+      "title": "Variable and adjustable life: identify the moving part",
+      "subtitle": "Separate investment risk, premium flexibility and changes to protection.",
+      "duration": 292.96,
+      "questions": 8,
+      "module": "Policy designs",
+      "outline": [
+        "4.2",
+        "4.3",
+        "3.6"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "30",
+      "number": 30,
+      "version": 1,
+      "title": "Family, joint, juvenile and credit life",
+      "subtitle": "Identify the insured life, payment trigger and intended recipient.",
+      "duration": 281.754,
+      "questions": 10,
+      "module": "Policy designs",
+      "outline": [
+        "4.4",
+        "4.6"
+      ],
+      "status": "ready"
     }
   ]
 }

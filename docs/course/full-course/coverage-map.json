@@ -2844,12 +2844,24 @@
       {
         "lesson": "22",
         "title": "Product classifications overlap"
+      },
+      {
+        "lesson": "31",
+        "title": "A master policy covers eligible members"
+      },
+      {
+        "lesson": "31",
+        "title": "Certificates and master contracts have different roles"
       }
     ],
     "questions": [
       {
         "lesson": "22",
         "id": "L22-01"
+      },
+      {
+        "lesson": "31",
+        "id": "L31-01"
       }
     ],
     "coordinatorApproval": null
@@ -2965,12 +2977,20 @@
       {
         "lesson": "22",
         "title": "Variable authority has two sides"
+      },
+      {
+        "lesson": "29",
+        "title": "FINRA requirements accompany variable-product authority"
       }
     ],
     "questions": [
       {
         "lesson": "22",
         "id": "L22-03"
+      },
+      {
+        "lesson": "29",
+        "id": "L29-08"
       }
     ],
     "coordinatorApproval": null
@@ -2978,8 +2998,26 @@
   {
     "id": "3.6.07",
     "title": "U.S. government life programs",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "31",
+        "title": "Recognize the federal program names"
+      },
+      {
+        "lesson": "31",
+        "title": "Use current federal eligibility guidance"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "31",
+        "id": "L31-09"
+      },
+      {
+        "lesson": "31",
+        "id": "L31-10"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
@@ -4612,78 +4650,232 @@
   {
     "id": "4.5.01",
     "title": "Master contract and certificates",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "31",
+        "title": "A master policy covers eligible members"
+      },
+      {
+        "lesson": "31",
+        "title": "Certificates and master contracts have different roles"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "31",
+        "id": "L31-01"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.5.02",
     "title": "Employer groups",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "31",
+        "title": "A master policy covers eligible members"
+      },
+      {
+        "lesson": "31",
+        "title": "Recognize the qualifying group"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "31",
+        "id": "L31-01"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.5.03",
     "title": "Debtor groups",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "31",
+        "title": "Other groups have their own legal structure"
+      },
+      {
+        "lesson": "31",
+        "title": "Recognize the qualifying group"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "31",
+        "id": "L31-05"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.5.04",
     "title": "Labor unions",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "31",
+        "title": "A master policy covers eligible members"
+      },
+      {
+        "lesson": "31",
+        "title": "Recognize the qualifying group"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "31",
+        "id": "L31-02"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.5.05",
     "title": "Trust groups",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "31",
+        "title": "Other groups have their own legal structure"
+      },
+      {
+        "lesson": "31",
+        "title": "Recognize the qualifying group"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "31",
+        "id": "L31-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.5.06",
     "title": "Associations",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "31",
+        "title": "Other groups have their own legal structure"
+      },
+      {
+        "lesson": "31",
+        "title": "Recognize the qualifying group"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "31",
+        "id": "L31-04"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.5.07",
     "title": "Group underwriting",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "31",
+        "title": "Group underwriting still manages selection"
+      },
+      {
+        "lesson": "31",
+        "title": "Contributions do not establish one universal enrollment percentage"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "31",
+        "id": "L31-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.5.08",
     "title": "Benefit payment",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "31",
+        "title": "Funding and benefits answer different questions"
+      },
+      {
+        "lesson": "31",
+        "title": "Benefit payment includes specific exceptions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "31",
+        "id": "L31-07"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.5.09",
     "title": "Dependents and covered lives",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "31",
+        "title": "Funding and benefits answer different questions"
+      },
+      {
+        "lesson": "31",
+        "title": "Dependent coverage is separately defined"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "31",
+        "id": "L31-07"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.5.10",
     "title": "Individual conversion",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "31",
+        "title": "Conversion protects a limited opportunity"
+      },
+      {
+        "lesson": "31",
+        "title": "Different conversion events have different rules"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "31",
+        "id": "L31-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.5.11",
     "title": "Contributory and noncontributory funding",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "31",
+        "title": "Funding and benefits answer different questions"
+      },
+      {
+        "lesson": "31",
+        "title": "Contributions do not establish one universal enrollment percentage"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "31",
+        "id": "L31-07"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
@@ -4779,12 +4971,36 @@
       {
         "lesson": "18",
         "title": "Authority follows the role and the contract"
+      },
+      {
+        "lesson": "32",
+        "title": "Ownership identifies who can exercise rights"
+      },
+      {
+        "lesson": "32",
+        "title": "A beneficiary’s status can limit an owner’s action"
+      },
+      {
+        "lesson": "32",
+        "title": "Control follows the right, not just a name"
+      },
+      {
+        "lesson": "32",
+        "title": "Use the actual beneficiary-change process"
       }
     ],
     "questions": [
       {
         "lesson": "18",
         "id": "L18-02"
+      },
+      {
+        "lesson": "32",
+        "id": "L32-01"
+      },
+      {
+        "lesson": "32",
+        "id": "L32-02"
       }
     ],
     "coordinatorApproval": null
@@ -4792,71 +5008,327 @@
   {
     "id": "5.1.02",
     "title": "Assignment",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "32",
+        "title": "Absolute assignment transfers ownership rights"
+      },
+      {
+        "lesson": "32",
+        "title": "Collateral assignment secures a debt"
+      },
+      {
+        "lesson": "32",
+        "title": "Release the security when the obligation ends"
+      },
+      {
+        "lesson": "32",
+        "title": "Absolute and collateral assignments have different aims"
+      },
+      {
+        "lesson": "32",
+        "title": "Compute the claim from the stated payable amount"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "32",
+        "id": "L32-03"
+      },
+      {
+        "lesson": "32",
+        "id": "L32-04"
+      },
+      {
+        "lesson": "32",
+        "id": "L32-05"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.1.03",
     "title": "Entire contract",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "32",
+        "title": "The entire contract identifies the governing documents"
+      },
+      {
+        "lesson": "32",
+        "title": "Keep application evidence and corrections separate"
+      },
+      {
+        "lesson": "32",
+        "title": "Standard individual provisions have a defined scope"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "32",
+        "id": "L32-06"
+      },
+      {
+        "lesson": "32",
+        "id": "L32-07"
+      },
+      {
+        "lesson": "32",
+        "id": "L32-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.1.04",
     "title": "Free look",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "34",
+        "title": "Three clocks protect different decisions"
+      },
+      {
+        "lesson": "34",
+        "title": "Read Maryland’s return notice and refund language"
+      },
+      {
+        "lesson": "34",
+        "title": "Do not substitute a generic full refund for the statute"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "34",
+        "id": "L34-01"
+      },
+      {
+        "lesson": "34",
+        "id": "L34-02"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.1.05",
     "title": "Premium payments",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "34",
+        "title": "A premium schedule creates continuing obligations"
+      },
+      {
+        "lesson": "34",
+        "title": "A payment mode is not paid-up status"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "34",
+        "id": "L34-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.1.06",
     "title": "Grace",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "34",
+        "title": "Three clocks protect different decisions"
+      },
+      {
+        "lesson": "34",
+        "title": "Individual-life grace keeps protection in force"
+      },
+      {
+        "lesson": "34",
+        "title": "Solve the event before doing the arithmetic"
+      },
+      {
+        "lesson": "34",
+        "title": "Grace periods depend on the contract category"
+      },
+      {
+        "lesson": "34",
+        "title": "Universal and variable life can require another notice"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "34",
+        "id": "L34-04"
+      },
+      {
+        "lesson": "34",
+        "id": "L34-05"
+      },
+      {
+        "lesson": "34",
+        "id": "L34-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.1.07",
     "title": "Reinstatement",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "35",
+        "title": "Reinstatement restores an eligible lapsed policy"
+      },
+      {
+        "lesson": "35",
+        "title": "A reinstatement application has its own accuracy issue"
+      },
+      {
+        "lesson": "35",
+        "title": "Reinstatement includes financial and underwriting conditions"
+      },
+      {
+        "lesson": "35",
+        "title": "A restored policy is not a blank check to contest everything"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "35",
+        "id": "L35-01"
+      },
+      {
+        "lesson": "35",
+        "id": "L35-02"
+      },
+      {
+        "lesson": "35",
+        "id": "L35-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.1.08",
     "title": "Incontestability",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "34",
+        "title": "Three clocks protect different decisions"
+      },
+      {
+        "lesson": "34",
+        "title": "Incontestability limits validity challenges"
+      },
+      {
+        "lesson": "34",
+        "title": "Solve the event before doing the arithmetic"
+      },
+      {
+        "lesson": "34",
+        "title": "Incontestability is not unlimited coverage"
+      },
+      {
+        "lesson": "34",
+        "title": "A contestable claim is reviewed under legal standards"
+      },
+      {
+        "lesson": "35",
+        "title": "A reinstatement application has its own accuracy issue"
+      },
+      {
+        "lesson": "35",
+        "title": "A restored policy is not a blank check to contest everything"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "34",
+        "id": "L34-06"
+      },
+      {
+        "lesson": "34",
+        "id": "L34-07"
+      },
+      {
+        "lesson": "34",
+        "id": "L34-08"
+      },
+      {
+        "lesson": "35",
+        "id": "L35-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.1.09",
     "title": "Misstated age and gender",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "35",
+        "title": "Correct the benefit using the applicable rate"
+      },
+      {
+        "lesson": "35",
+        "title": "The age rule has a precise exception"
+      },
+      {
+        "lesson": "35",
+        "title": "Age and sex clauses are not identical in every product"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "35",
+        "id": "L35-04"
+      },
+      {
+        "lesson": "35",
+        "id": "L35-05"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.1.10",
     "title": "Suicide exclusion",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "35",
+        "title": "A suicide exclusion has a defined period"
+      },
+      {
+        "lesson": "35",
+        "title": "Maryland’s suicide continuity and payment provisions matter"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "35",
+        "id": "L35-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.1.11",
     "title": "War exclusion",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "35",
+        "title": "War and other restrictions must be permitted"
+      },
+      {
+        "lesson": "35",
+        "title": "Restrictions have different scopes and time limits"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "35",
+        "id": "L35-07"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
@@ -4870,12 +5342,24 @@
       {
         "lesson": "17",
         "title": "Apply the late-proof interest exception"
+      },
+      {
+        "lesson": "36",
+        "title": "Interest before payment is a separate Maryland rule"
+      },
+      {
+        "lesson": "36",
+        "title": "Use the actual death-claim dates"
       }
     ],
     "questions": [
       {
         "lesson": "17",
         "id": "L17-03"
+      },
+      {
+        "lesson": "36",
+        "id": "L36-08"
       }
     ],
     "coordinatorApproval": null
@@ -4883,120 +5367,382 @@
   {
     "id": "5.1.13",
     "title": "Prohibited provisions and backdating",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "35",
+        "title": "Do not falsify an application date"
+      },
+      {
+        "lesson": "35",
+        "title": "Backdating a policy is different from falsifying the application"
+      },
+      {
+        "lesson": "35",
+        "title": "Prohibited provisions require the statutory facts"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "35",
+        "id": "L35-08"
+      },
+      {
+        "lesson": "35",
+        "id": "L35-09"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.2.01",
     "title": "Individual and class designations",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "33",
+        "title": "Names, classes and priority answer different questions"
+      },
+      {
+        "lesson": "33",
+        "title": "Use an explicit class-distribution example"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "33",
+        "id": "L33-02"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.2.02",
     "title": "Estate beneficiary",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "33",
+        "title": "Plan how a minor’s benefit will be managed"
+      },
+      {
+        "lesson": "33",
+        "title": "Minor, trust and estate designations need different administration"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "33",
+        "id": "L33-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.2.03",
     "title": "Minor beneficiary",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "33",
+        "title": "Plan how a minor’s benefit will be managed"
+      },
+      {
+        "lesson": "33",
+        "title": "Minor, trust and estate designations need different administration"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "33",
+        "id": "L33-04"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.2.04",
     "title": "Trust beneficiary",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "33",
+        "title": "Plan how a minor’s benefit will be managed"
+      },
+      {
+        "lesson": "33",
+        "title": "Minor, trust and estate designations need different administration"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "33",
+        "id": "L33-05"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.2.05",
     "title": "Primary and contingent succession",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "33",
+        "title": "Names, classes and priority answer different questions"
+      },
+      {
+        "lesson": "33",
+        "title": "Contingent does not mean simultaneous half-owner"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "33",
+        "id": "L33-01"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.2.06",
     "title": "Revocable and irrevocable designation",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "33",
+        "title": "Revocable and irrevocable designations differ"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "33",
+        "id": "L33-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.2.07",
     "title": "Annulment and divorce",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "33",
+        "title": "Family changes call for an actual review"
+      },
+      {
+        "lesson": "33",
+        "title": "Divorce does not supply one answer for every document"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "33",
+        "id": "L33-07"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.2.08",
     "title": "Common disaster",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "33",
+        "title": "A common disaster requires a survival rule"
+      },
+      {
+        "lesson": "33",
+        "title": "Maryland simultaneous-death law changes October 1, 2026"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "33",
+        "id": "L33-08"
+      },
+      {
+        "lesson": "33",
+        "id": "L33-09"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.2.09",
     "title": "Facility of payment",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "33",
+        "title": "Facility of payment is a limited contract provision"
+      },
+      {
+        "lesson": "33",
+        "title": "The facility-of-payment statute has specific conditions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "33",
+        "id": "L33-10"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.3.01",
     "title": "Lump sum",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "36",
+        "title": "Start with the claim and the available choices"
+      },
+      {
+        "lesson": "36",
+        "title": "Choose only from rights actually available"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "36",
+        "id": "L36-01"
+      },
+      {
+        "lesson": "36",
+        "id": "L36-09"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.3.02",
     "title": "Interest-only payments",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "36",
+        "title": "Interest-only payments preserve the stated principal"
+      },
+      {
+        "lesson": "36",
+        "title": "A stated interest-only rate is an assumption, not a quote"
+      },
+      {
+        "lesson": "36",
+        "title": "Proceeds held by an insurer have specific legal terms"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "36",
+        "id": "L36-02"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.3.03",
     "title": "Fixed period",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "36",
+        "title": "Fixed period selects the length of time"
+      },
+      {
+        "lesson": "36",
+        "title": "Fixed period and fixed amount answer different questions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "36",
+        "id": "L36-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.3.04",
     "title": "Fixed amount",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "36",
+        "title": "Fixed amount selects the payment size"
+      },
+      {
+        "lesson": "36",
+        "title": "Fixed period and fixed amount answer different questions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "36",
+        "id": "L36-04"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.3.05",
     "title": "Lifetime income",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "36",
+        "title": "Lifetime income depends on whose life is covered"
+      },
+      {
+        "lesson": "36",
+        "title": "A lifetime promise differs from a minimum period"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "36",
+        "id": "L36-05"
+      },
+      {
+        "lesson": "36",
+        "id": "L36-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.3.06",
     "title": "Single life",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "36",
+        "title": "Lifetime income depends on whose life is covered"
+      },
+      {
+        "lesson": "36",
+        "title": "A lifetime promise differs from a minimum period"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "36",
+        "id": "L36-05"
+      },
+      {
+        "lesson": "36",
+        "id": "L36-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.3.07",
     "title": "Joint and survivor income",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "36",
+        "title": "Lifetime income depends on whose life is covered"
+      },
+      {
+        "lesson": "36",
+        "title": "Joint-and-survivor is an income form"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "36",
+        "id": "L36-07"
+      }
+    ],
     "coordinatorApproval": null
   },
   {

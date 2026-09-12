@@ -1,20 +1,11 @@
 # AMG Maryland Life — development status
 
-Updated September 12, 2026. Life only; release one part at a time for user/coordinator review. User has authorized GitHub and Netlify development releases.
+Updated September 12, 2026. The user has authorized the complete life-only course and continuing GitHub/Netlify releases.
 
-## Available for review
+Parts 1–25 are live at the current verified deployment. Parts 26–29 have completed their native media and browser checks. Part 30 has completed narration, layout, decode and browser checks; an additional scene-analysis job is in progress. Parts 31–32 are being rendered after speech and framing repairs. Parts 33–34 have source-checked scripts and original required questions in production.
 
-- Part 1: risk, exposure, peril, hazard and loss; a rebuilt 4:16 lesson with Marcus, Gideon narration, animated diagrams, AMG logo, captions and eight required four-option questions. The questions open at video end; all must be correct after review/retries before completion.
-- Part 2: rebuilt 3:19 lesson covering pooling, large numbers, expected claims and adverse selection; approved Marcus visuals, Gideon narration, animated examples, circular AMG logo, captions, interactive group-size lab and eight required four-option questions. All answers must be correct after review/retries before completion.
-- Earlier Lesson 06: term/whole-life prototype in the old video-question format. Retained for comparison.
-- Full curriculum audit: 48 outline subsections, 307 teaching groups, 27 revised bank items, 11 held items, and a 79-question life practice drill. Coordinator brief and downloadable checklists are on the course review page.
+The planned course has 60 short lessons mapped to 48 Prometric outline subsections and 307 teaching groups. The authored source currently has 32 new lessons, 270 original questions and teaching/question mappings for 190 groups. These development figures do not mean every planned lesson is published.
 
-## Next review unit
+Questions and diagrams are authored directly. Narration and selected reusable scenario photographs use Higgsfield credits. Completed lessons include transcripts, captions, required questions, option explanations, retry feedback and saved browser progress.
 
-Review the rebuilt Part 2 before beginning Part 3. Part 3 is proposed as risk-handling methods, insurable-risk features and reinsurance. Foundation bridge and an early Maryland licensing/conduct block follow. See [COORDINATOR-REVIEW.md](COORDINATOR-REVIEW.md) for the revised production and assessment sequence. The original 32 lesson slots are planning references and will be split where needed.
-
-## Remaining work
-
-Most dedicated instruction, source validation of remaining bank details, held-item replacements, legacy Word study-guide review, independent timed forms, delayed review, outcome measurement and coordinator approvals remain unfinished. No passing guarantee or validated pass rate exists.
-
-No video-generation credits were used for the audit. Credit figures in the original production brief describe the earlier prototype run and are not current balances.
+Remaining work includes the later policy, rider, annuity, taxation and retirement lessons; final mapping of every teaching group; a diagnostic and independent timed mock forms; delayed review and course-wide readiness tracking; final content and browser regression; and the remaining production releases. Coordinator approval and measured learner outcomes remain separate. No passing guarantee or validated pass rate is claimed.

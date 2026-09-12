@@ -1,0 +1,246 @@
+{
+  "result": {
+    "id": "8c9a280a-3feb-4b27-baa3-03001b07340b",
+    "video_input_id": "c6fc95a3-3652-418a-b0d0-0890dab21303",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/c6fc95a3-3652-418a-b0d0-0890dab21303.mp4",
+    "scenes": [
+      {
+        "audio": "Elena owns Universal Life coverage and wants to reduce her payments while changing jobs. Universal Life separates premium funding, interest credits, and policy deductions.",
+        "label": "Opening Hook",
+        "visual": "A man and a woman are seated at a dark wood kitchen table. The man, in his early 40s with a dark complexion, short black hair, and a groomed beard, wears a navy blue button-down shirt. He leans over an open silver laptop. The woman, in her late 30s with a tanned complexion and long dark wavy hair, wears an olive green button-down shirt. She holds a white document, pointing at it while they both focus on the paper. The background is a brightly lit, modern kitchen with white cabinetry and large windows providing soft natural light. A ceramic mug sits in the foreground.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:08",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "The owner may have flexibility within the contract, but insurance costs and administrative charges continue.",
+        "label": "Product Information",
+        "visual": "Transition to a static graphic on a pale cream background. A single white rectangular box with a numerical label in the top left corner appears on the left. A green arrow points horizontally from this box toward the center of the frame.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:12",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "A planned premium is not automatically the amount guaranteed to sustain coverage forever. If payments and earnings do not support the deductions, the available value can decline.",
+        "label": "Product Information",
+        "visual": "A second dark teal rectangular box appears in the center of the frame, next to the first one. Another green arrow points from the center box to the right side of the frame.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:27",
+        "timestamp_start": "0:12"
+      },
+      {
+        "audio": "Without an applicable protection provision, insufficient funding can lead to lapse after the required process.",
+        "label": "Product Information",
+        "visual": "A third white rectangular box appears on the right side of the frame, completing a horizontal row of three elements. The background remains a flat, pale cream color with consistent lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:42",
+        "timestamp_start": "0:27"
+      },
+      {
+        "audio": "First, read the policy's funding conditions and current statement, then discuss the effect of the proposed change.",
+        "label": "Product Information",
+        "visual": "The three boxes remain static on the screen. The layout is balanced and centered.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:48",
+        "timestamp_start": "0:42"
+      },
+      {
+        "audio": "Use a deliberately simplified teaching account. It begins with $1,000. A $200 payment adds $190 after an assumed $10 premium charge.",
+        "label": "Usage Scenarios",
+        "visual": "The screen cuts to a new graphic layout on a pale cream background. A large white rectangular box appears on the left containing mathematical figures and symbols. The lighting is uniform and artificial.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:03",
+        "timestamp_start": "0:48"
+      },
+      {
+        "audio": "Assume $20 of interest is credited and $130 of insurance and other charges are deducted. The ending value is $1,080.",
+        "label": "Usage Scenarios",
+        "visual": "A second white rectangular box appears to the right of the first, containing additional mathematical symbols and figures.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:18",
+        "timestamp_start": "1:03"
+      },
+      {
+        "audio": "Now remove the payment while keeping the other assumptions fixed. The ending value becomes $890.",
+        "label": "Usage Scenarios",
+        "visual": "The existing boxes shift slightly as new numerical values appear below the original ones to represent a secondary scenario.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:33",
+        "timestamp_start": "1:18"
+      },
+      {
+        "audio": "This example illustrates separate flows, not a real carrier's calculation order or guaranteed monthly return. Missing a payment does not make the insurance charges disappear.",
+        "label": "Usage Scenarios",
+        "visual": "The static graphic remains on screen, displaying two sets of comparative numerical calculations.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:36",
+        "timestamp_start": "1:33"
+      },
+      {
+        "audio": "Interest-sensitive and current assumption designs respond to the pricing and crediting terms stated in the contract.",
+        "label": "Product Selling Points",
+        "visual": "Transition to a three-column graphic layout. On the far left, a white box with a blue header appears. The background is consistent with previous scenes.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "1:51",
+        "timestamp_start": "1:36"
+      },
+      {
+        "audio": "An indeterminate premium whole life design may change its current premium within a guaranteed maximum.",
+        "label": "Product Selling Points",
+        "visual": "A second column with a green header appears in the center of the frame.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "2:06",
+        "timestamp_start": "1:51"
+      },
+      {
+        "audio": "Universal life instead presents flexible funding and separately identified charges and credits. Do not treat those structures as identical. The insurer's current credited rate or illustrated performance may differ from the contractual minimum.",
+        "label": "Product Selling Points",
+        "visual": "A third column with a pale yellow header appears on the far right.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:21",
+        "timestamp_start": "2:06"
+      },
+      {
+        "audio": "Rising insurance costs or lower earnings can affect the funding needed. A no-lapse guarantee, when included, has its own required payment pattern, period, and conditions.",
+        "label": "Product Selling Points",
+        "visual": "The three-column graphic remains static, showing three distinct sections of information.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:25",
+        "timestamp_start": "2:21"
+      },
+      {
+        "audio": "Indexed life links a credited interest calculation to a named external index under the policy's rules.",
+        "label": "Product Information",
+        "visual": "Cut to a new graphic showing a numbered list. The first item appears at the top left with a teal label. The background is pale cream.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "2:40",
+        "timestamp_start": "2:25"
+      },
+      {
+        "audio": "An indexed universal life policy does not directly invest the owner's policy value in that stock index. A participation rate determines the share of the stated index change used.",
+        "label": "Product Information",
+        "visual": "A second numbered item appears below the first one. The design is clean and minimalist.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "2:55",
+        "timestamp_start": "2:40"
+      },
+      {
+        "audio": "A cap limits the credited rate while a spread can reduce the rate under a different stated formula. A floor provides the stated minimum for that crediting calculation.",
+        "label": "Product Information",
+        "visual": "Third and fourth numbered items appear sequentially down the left side of the screen.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:10",
+        "timestamp_start": "2:55"
+      },
+      {
+        "audio": "Methods and available rates differ by contract and strategy. Do not present the index's headline return as the policy's actual return or assume that stock dividends are included.",
+        "label": "Product Information",
+        "visual": "The full list of four numbered items is displayed on the screen.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:14",
+        "timestamp_start": "3:10"
+      },
+      {
+        "audio": "Assume a teaching strategy uses an 8% positive index change, 75% participation, a 5% cap, and a 0% floor with no spread.",
+        "label": "Usage Scenarios",
+        "visual": "Cut to a graphic containing three white rectangular boxes arranged horizontally. The first box on the left contains mathematical equations.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "3:29",
+        "timestamp_start": "3:14"
+      },
+      {
+        "audio": "Participation produces 6%. The cap reduces the credited rate to 5%.",
+        "label": "Usage Scenarios",
+        "visual": "The center box populates with a calculation result involving a percentage limit.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "3:44",
+        "timestamp_start": "3:29"
+      },
+      {
+        "audio": "Under the same strategy, a negative index change would produce 0% interest because of the floor.",
+        "label": "Usage Scenarios",
+        "visual": "The third box on the right populates with final notes regarding deductions and returns.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "3:59",
+        "timestamp_start": "3:44"
+      },
+      {
+        "audio": "These are illustrative assumptions, not currently offered rates. Policy charges still apply. Zero index interest can accompany a falling policy value after deductions.",
+        "label": "Usage Scenarios",
+        "visual": "The three-box graphic remains static, showing the comparative results of the mathematical demonstration.",
+        "shot_type": "Wide Shot",
+        "scene_number": 21,
+        "timestamp_end": "4:02",
+        "timestamp_start": "3:59"
+      },
+      {
+        "audio": "Elena should review the death benefit option, current account and surrender values, deductions, premium history, and any guarantee's status.",
+        "label": "Real Experience",
+        "visual": "Return to the scene of the man and woman from the start of the video. They are still at the kitchen table, looking at the same document. The woman nods slightly, and the man remains focused on the paper. The lighting and environment are identical to the first scene.",
+        "shot_type": "Medium Shot",
+        "scene_number": 22,
+        "timestamp_end": "4:10",
+        "timestamp_start": "4:02"
+      },
+      {
+        "audio": "Some universal designs offer a level benefit while others add the account value to a stated amount. Use the actual option and policy rules.",
+        "label": "Call to Action",
+        "visual": "Transition to a final graphic showing a numbered list of four items. The first item appears at the top left with a teal numerical indicator.",
+        "shot_type": "Wide Shot",
+        "scene_number": 23,
+        "timestamp_end": "4:25",
+        "timestamp_start": "4:10"
+      },
+      {
+        "audio": "Do not assume every policy pays both amounts. Benefit increases may require new evidence of insurability.",
+        "label": "Call to Action",
+        "visual": "The second and third items on the list appear below the first.",
+        "shot_type": "Wide Shot",
+        "scene_number": 24,
+        "timestamp_end": "4:40",
+        "timestamp_start": "4:25"
+      },
+      {
+        "audio": "Request an updated in-force illustration using appropriate assumptions when reviewing future funding. Explain which figures are guaranteed and which are projections.",
+        "label": "Call to Action",
+        "visual": "The fourth item appears at the bottom of the list, completing the graphic.",
+        "shot_type": "Wide Shot",
+        "scene_number": 25,
+        "timestamp_end": "4:55",
+        "timestamp_start": "4:40"
+      },
+      {
+        "audio": "A sound review connects the client's continuing protection need to an affordable funding plan and the contract's actual conditions.",
+        "label": "Call to Action",
+        "visual": "The final graphic with all four points remains static on the screen until the end of the clip.",
+        "shot_type": "Wide Shot",
+        "scene_number": 26,
+        "timestamp_end": "5:02",
+        "timestamp_start": "4:55"
+      }
+    ]
+  }
+}

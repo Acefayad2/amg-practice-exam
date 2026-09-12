@@ -1,0 +1,210 @@
+{
+  "result": {
+    "id": "b96dfdc8-e830-4272-a7a1-ded554c1cb30",
+    "video_input_id": "967768ec-20e2-4a4b-92ed-4cc73047710a",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/967768ec-20e2-4a4b-92ed-4cc73047710a.mp4",
+    "scenes": [
+      {
+        "audio": "Elena wants a dependable benefit for a lifelong family obligation. Traditional whole life combines permanent death protection with scheduled premiums and contractual cash values.",
+        "label": "Opening Hook",
+        "visual": "A man and a woman sit at a wooden dining table in a bright, modern kitchen. The man, approximately 40 years old with a dark complexion, short black hair, and a groomed beard, wears a dark blue long-sleeved button-down shirt. The woman, approximately 35 years old with a light tan complexion and long dark wavy hair, wears a muted green button-down shirt. They are both focused on a white document the man is holding with both hands. A silver laptop, a white ceramic mug, and a black notebook sit on the table. The lighting is soft and warm, coming from the side, with a shallow depth of field showing a kitchen counter with a fruit bowl in the background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:08",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "The guarantees depend on meeting the policy's requirements. Compare the guaranteed schedule with any additional illustrated values and check the sustainable cost.",
+        "label": "Product Information",
+        "visual": "A static graphic with three white rectangular boxes arranged horizontally against a pale cream background. The boxes are labeled 'Protection', 'Funding', and 'Values'. Under 'Protection', text reads 'Intended for a lifelong need'. The composition is clean and minimalist.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:23",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "An early surrender may return much less than the premiums paid. The word permanent describes the intended coverage pattern. It does not excuse unpaid required premiums or erase loan obligations.",
+        "label": "Product Information",
+        "visual": "The same static graphic continues. Under 'Funding', text reads 'Required contractual premiums'. Under 'Values', text reads 'Read guaranteed and illustrated columns'. The lighting in the graphic is perfectly even and artificial.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:38",
+        "timestamp_start": "0:23"
+      },
+      {
+        "audio": "A permanent need can make whole life relevant, but the amount and funding still need to fit the client's circumstances.",
+        "label": "Product Information",
+        "visual": "The graphic remains on screen. The layout is balanced with a dark green sidebar on the left featuring a gold circular logo. The text remains sharp and legible.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:48",
+        "timestamp_start": "0:38"
+      },
+      {
+        "audio": "An ordinary continuous pay whole life design requires level scheduled premiums over the contract's stated long payment period, commonly through the insured's lifetime or a stated age.",
+        "label": "Product Information",
+        "visual": "A new static graphic appears with three numbered boxes: '01 Early years', '02 Payment schedule', and '03 Contract values'. A green arrow points from the first to the second box. Under box 01, it says 'Funding supports a long-term promise'.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "1:03",
+        "timestamp_start": "0:48"
+      },
+      {
+        "audio": "The premium can stay level even though the cost associated with aging does not. Early funding and the insurer's reserves support the long-term promise.",
+        "label": "Product Information",
+        "visual": "The graphic remains. A second green arrow appears between box 02 and 03. Box 02 subtext reads 'Level premiums over the stated period'. Box 03 subtext reads 'Guaranteed schedule and maturity terms'.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:18",
+        "timestamp_start": "1:03"
+      },
+      {
+        "audio": "Do not interpret a level premium as a statement that every dollar is placed in a personal savings account. Review the actual guaranteed cash value schedule.",
+        "label": "Product Information",
+        "visual": "The graphic persists. The colors are muted, with box 02 highlighted in dark green and box 03 highlighted in a medium blue-green tone.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:33",
+        "timestamp_start": "1:18"
+      },
+      {
+        "audio": "Also read any stated maturity age and provision, instead of assuming every policy ends or pays out at one universal age.",
+        "label": "Product Information",
+        "visual": "Final static view of the three-box flow diagram. The design is consistent with the previous scenes.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:37",
+        "timestamp_start": "1:33"
+      },
+      {
+        "audio": "Marcus buys a 20-pay whole life policy at age 35. He makes all 20 required annual payments. The scheduled premium obligation is then complete while the whole life protection continues under the contract.",
+        "label": "Product Selling Points",
+        "visual": "A new graphic screen with the header 'Limited pay shortens payments, not protection'. Three boxes appear: '20-pay whole life', 'Whole life paid up at 65', and '20-year term'. Under the first, it notes 'Twenty payments; continuing protection'.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:52",
+        "timestamp_start": "1:37"
+      },
+      {
+        "audio": "This is not a 20-year term policy. A paid-up at 65 design instead defines the payment period by the stated age. For otherwise comparable coverage, compressing premiums into fewer years generally requires a higher annual payment.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains. The second box is highlighted, with subtext 'Payment period defined by age'. The third box subtext notes 'Protection period is limited'.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "2:07",
+        "timestamp_start": "1:52"
+      },
+      {
+        "audio": "Paid-up means the required policy premiums have been satisfied. It does not mean the insured has died, the policy has been surrendered, or a death benefit has already been paid.",
+        "label": "Product Selling Points",
+        "visual": "The limited-pay comparison graphic stays on screen. The layout maintains the pale cream background and dark green accents.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "2:21",
+        "timestamp_start": "2:07"
+      },
+      {
+        "audio": "Elena compares another whole life design funded with one substantial premium at issue. A single premium whole life policy is a form of limited payment coverage.",
+        "label": "Product Information",
+        "visual": "Graphic header: 'Single premium completes funding at issue'. Three boxes show: 'One premium' (Required policy funding at issue), 'Continuing policy' (Coverage and stated cash values), and 'Separate tax test' (Do not promise unrestricted tax-free access).",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:36",
+        "timestamp_start": "2:21"
+      },
+      {
+        "audio": "Its required premium is paid once and it provides the protection and immediate cash values stated in the contract. Paying once does not mean the policy pays the beneficiary once at issue, nor does it make future loans or withdrawals free of consequences.",
+        "label": "Product Information",
+        "visual": "The single premium graphic remains. The second and third boxes are clearly delineated with bullet points of explanatory text.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:51",
+        "timestamp_start": "2:36"
+      },
+      {
+        "audio": "Large early funding can affect federal modified endowment contract treatment. That tax classification requires its own test, which we will study later. Keep the payment design separate from promises about access to money or tax results.",
+        "label": "Product Information",
+        "visual": "Final view of the single premium policy graphic before the next transition.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "2:56",
+        "timestamp_start": "2:51"
+      },
+      {
+        "audio": "A graded premium whole life design starts with lower scheduled premiums and increases them during an initial period before they become level as the contract states. In a teaching schedule, the annual premium is $300 in year one, $400 in year two, and $500 in year three and afterward.",
+        "label": "Product Information",
+        "visual": "Graphic header: 'Graded premiums follow a changing schedule'. Three boxes show cost increases: '$300 Year 1 scheduled premium', '$400 Year 2 scheduled premium', and '$500 Year 3 onward; continuing premium'.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "3:11",
+        "timestamp_start": "2:56"
+      },
+      {
+        "audio": "The death benefit stays level in this example. A graded premium is different from a graded death benefit, which limits or changes the benefit during stated early years.",
+        "label": "Product Information",
+        "visual": "The graded premium graphic remains. Each box has a different shade of light green, darkening as the price increases.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:26",
+        "timestamp_start": "3:11"
+      },
+      {
+        "audio": "Read what is being graded. Do not mistake an attractive first-year price for the continuing premium commitment.",
+        "label": "Product Information",
+        "visual": "The graphic remains static, showing the step-up in annual premium values clearly.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:35",
+        "timestamp_start": "3:26"
+      },
+      {
+        "audio": "Suppose Marcus's in-force whole life policy states a $100,000 death benefit and has $20,000 of cash value.",
+        "label": "Usage Scenarios",
+        "visual": "Return to the couple from the first scene. They are in the same positions at the dining table, still reviewing the document together. The man points to a specific line on the paper. The lighting is identical to Scene 1.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "3:42",
+        "timestamp_start": "3:35"
+      },
+      {
+        "audio": "Assume no loans, added insurance, or other adjustments. The stated death benefit is $100,000, not automatically $120,000. Cash value is a living policy value governed by the contract.",
+        "label": "Product Information",
+        "visual": "Graphic header: 'Cash value is not an extra automatic death payment'. A numbered list appears: '01 Death benefit' (Apply the actual benefit provision), '02 Cash value' (Living policy value; not automatically added).",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "3:57",
+        "timestamp_start": "3:42"
+      },
+      {
+        "audio": "Surrender and a death claim are different events. Participating policies may provide dividends, but future dividends are not guaranteed.",
+        "label": "Product Information",
+        "visual": "The list continues: '03 Paid up' (Required premiums satisfied), '04 Dividends' (Future amounts are not guaranteed). The background remains the pale cream color.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "4:12",
+        "timestamp_start": "3:57"
+      },
+      {
+        "audio": "An illustration showing dividends covering premiums is different from a contractual limited pay schedule.",
+        "label": "Product Information",
+        "visual": "The graphic persists, showing the full four-item list of policy components.",
+        "shot_type": "Wide Shot",
+        "scene_number": 21,
+        "timestamp_end": "4:27",
+        "timestamp_start": "4:12"
+      },
+      {
+        "audio": "Read the guaranteed payment obligation before telling someone they can stop paying.",
+        "label": "Call to Action",
+        "visual": "Final static view of the informative list graphic. The gold circular logo in the green sidebar is prominent.",
+        "shot_type": "Wide Shot",
+        "scene_number": 22,
+        "timestamp_end": "4:37",
+        "timestamp_start": "4:27"
+      }
+    ]
+  }
+}

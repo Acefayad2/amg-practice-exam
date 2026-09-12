@@ -1,0 +1,36 @@
+{
+  "number": 27,
+  "duration": "276.959000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/967768ec-20e2-4a4b-92ed-4cc73047710a.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/689572b4-c30d-43cc-b8d6-705580cdaf97.png",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/ea24e026-f253-482d-94f0-c061ef3864fa.jpg",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/2d64d7ac-677d-40de-adff-4f5250e1494d.zip",
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "276.959000",
+      "size": "22722051"
+    }
+  },
+  "review": {
+    "layouts": "All layouts visually inspected. An overlapping calculation label was shortened; all corrected layouts re-inspected.",
+    "decode": "Complete FFmpeg decode passed.",
+    "speech": "All six spoken sections transcribed and compared with the script; no material discrepancy identified.",
+    "analysis": "Completed analysis reviewed across every returned scene; content consistent with the intended lesson. Service timestamps are approximate; final media duration is verified independently.",
+    "player": "Chromium checks passed: all required questions, native ended event, wrong answer and retry, first-answer history, resume and completion reload, mobile captions and dialog, no JavaScript errors."
+  },
+  "status": "ready",
+  "coordinatorApproval": null
+}

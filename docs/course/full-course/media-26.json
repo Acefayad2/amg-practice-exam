@@ -28,9 +28,9 @@
     "layouts": "All six layouts and two photo compositions visually inspected; text, arrows, dates and circular logo checked. Native level/decreasing/increasing benefit diagrams inspected.",
     "decode": "Complete FFmpeg decode passed.",
     "speech": "All six sections transcribed and compared. Secondary small.en review verified the unclear base transcription; no material speech discrepancy remained.",
-    "analysis": "Submitted; pending.",
+    "analysis": "Completed retry reviewed across all 21 returned scenes; consistent with the intended term-life lesson. Native duration and speech checks remain authoritative.",
     "player": "Chromium checks passed: all required questions, native ended event, wrong answer and retry, first-answer history, resume and completion reload, mobile captions and dialog, no JavaScript errors."
   },
-  "status": "review",
+  "status": "ready",
   "coordinatorApproval": null
 }

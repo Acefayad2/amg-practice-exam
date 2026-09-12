@@ -77,7 +77,7 @@ export default async({project})=>{
    const photograph=await p.add(ROOT+'/'+b.visual.photo);
    p.compose(<frame width={1920} height={1080} layout="none" clip={true} background={C.ink}>
     <frame width={1920} height={1080} origin="center" layout="none" duration={photoDuration} motion={{enter:{from:{scale:1},to:{scale:1.035},duration:photoDuration,easing:'linear'}}}>
-     <media file={photograph} x={0} y={0} width={1920} height={1080} fit="cover"/>
+     <media file={photograph} x={b.visual.photoContain?590:0} y={b.visual.photoContain?166:0} width={b.visual.photoContain?1330:1920} height={b.visual.photoContain?748:1080} fit={b.visual.photoContain?"contain":"cover"}/>
     </frame>
     <rect x={0} y={0} width={590} height={1080} fill={C.ink}/>
     {text(64,84,466,58,'AMG LIFE  /  PART '+L.number,24,'#d6bd7a',700)}
