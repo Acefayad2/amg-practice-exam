@@ -19,8 +19,6 @@ export default async ({ project }) => {
   </>;
   const footer=()=> <>
     <media file={logo} x={70} y={814} width={146} height={137} fit="contain" mask={{shape:"ellipse",x:21.34,y:14.22,width:103.32,height:103.32}}/>
-    {txt(248,868,1200,38,'MARYLAND LIFE  ·  UNDERSTAND THE CONCEPT',21,C.muted,600)}
-    {line(248,936,1572,C.line)}
   </>;
   const scene=(i,label,title,children)=> {
     const at=STARTS[i], dur=(STARTS[i+1]||END)-at;

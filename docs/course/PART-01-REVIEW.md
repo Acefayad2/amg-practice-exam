@@ -51,6 +51,6 @@ The earlier 15-second client scene cost 37.5 credits and remains in GitHub histo
 
 These support general concepts. Examples and questions are original. The coordinator should review content, pacing, casting and difficulty before this format is applied to Part 2. No exam-pass guarantee or approved prelicensing credit is claimed.
 
-## Logo correction — September 12
+## Logo and caption-area correction — September 12
 
-The opening and all diagrams now clip the logo to its gold circle. This edit used zero additional generation credits; the original soundtrack is preserved byte for byte. Lesson progress still uses version 2 and is not reset. A reported glitch near 3:45 remains under investigation pending a description of the sound or picture problem.
+The opening and all diagrams now clip the logo to its gold circle. This edit used zero additional generation credits; the original soundtrack is preserved byte for byte. Lesson progress still uses version 2 and is not reset. A caption/footer collision was confirmed at 3:45 when the player controls were visible. The repeated footer text and rule have been removed from all diagrams, preserving clear space for captions. No narration or question content was regenerated.
