@@ -411,6 +411,120 @@
         "4.6"
       ],
       "status": "ready"
+    },
+    {
+      "id": "31",
+      "number": 31,
+      "version": 1,
+      "title": "Group life: follow the contract and the covered lives",
+      "subtitle": "Identify eligible groups, enrollment conditions, conversion and federal programs.",
+      "duration": 274.752,
+      "questions": 10,
+      "module": "Policy designs",
+      "outline": [
+        "4.5",
+        "3.6"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "32",
+      "number": 32,
+      "version": 1,
+      "title": "Policy ownership: rights, assignments and the contract",
+      "subtitle": "Follow who can act, what was transferred and which documents govern.",
+      "duration": 261.792,
+      "questions": 8,
+      "module": "Policy operation",
+      "outline": [
+        "5.1"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "33",
+      "number": 33,
+      "version": 1,
+      "title": "Beneficiaries: follow the intended payment",
+      "subtitle": "Read names, classes, trusts, family changes and survival conditions carefully.",
+      "duration": 274.752,
+      "questions": 10,
+      "module": "Policy operation",
+      "outline": [
+        "5.2"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "34",
+      "number": 34,
+      "version": 1,
+      "title": "Policy clocks: return, premium grace and contestability",
+      "subtitle": "Use the right starting event and the right Maryland provision.",
+      "duration": 272.544,
+      "questions": 8,
+      "module": "Policy operation",
+      "outline": [
+        "5.1"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "35",
+      "number": 35,
+      "version": 1,
+      "title": "Reinstatement, exclusions and accurate policy dates",
+      "subtitle": "Separate restoring coverage, correcting an age and applying a permitted exclusion.",
+      "duration": 291.792,
+      "questions": 9,
+      "module": "Policy operation",
+      "outline": [
+        "5.1"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "36",
+      "number": 36,
+      "version": 1,
+      "title": "Death-benefit payment options: what is fixed?",
+      "subtitle": "Compare cash, interest, a selected period, a selected amount and lifetime income.",
+      "duration": 263.004,
+      "questions": 9,
+      "module": "Policy operation",
+      "outline": [
+        "5.1",
+        "5.3"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "37",
+      "number": 37,
+      "version": 1,
+      "title": "Stopping premiums: preserve the value already built",
+      "subtitle": "Compare cash surrender, extended term and reduced paid-up insurance.",
+      "duration": 267.46,
+      "questions": 8,
+      "module": "Policy operation",
+      "outline": [
+        "5.4"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "38",
+      "number": 38,
+      "version": 1,
+      "title": "Policy loans and withdrawals: follow the remaining value",
+      "subtitle": "Borrowing, automatic premium loans and taking money out have different effects.",
+      "duration": 282.209,
+      "questions": 9,
+      "module": "Policy operation",
+      "outline": [
+        "5.5"
+      ],
+      "status": "ready"
     }
   ]
 }

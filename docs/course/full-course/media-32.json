@@ -28,9 +28,9 @@
     "layouts": "All eight layout frames inspected; ownership, assignment, entitlement and circular logo checked.",
     "decode": "Complete FFmpeg decode passed.",
     "speech": "All six sections transcribed and compared; confirmed omitted ending phrase replaced and all corrected speech reviewed. Secondary transcription resolved an apparent repeated word.",
-    "analysis": "Submitted; pending.",
+    "analysis": "Completed; all nine returned scenes read and compared with source. Automated visual descriptions are approximate and supported by independent native frame and speech checks.",
     "player": "Chromium checks passed: required questions, native ended event, wrong answer and retry, first-answer history, saved position and completion reload, mobile captions and dialog, and no JavaScript errors."
   },
-  "status": "review",
+  "status": "ready",
   "coordinatorApproval": null
 }

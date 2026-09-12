@@ -1,0 +1,228 @@
+{
+  "result": {
+    "id": "107df9ec-61ca-44ee-af8e-15231712c43b",
+    "video_input_id": "6d21f3f4-85be-4308-9f7b-0048f05c43cb",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/6d21f3f4-85be-4308-9f7b-0048f05c43cb.mp4",
+    "scenes": [
+      {
+        "audio": "Elena enrolls in life coverage through her employer. The employer or qualifying trustees hold the master contract.",
+        "label": "Opening Hook",
+        "visual": "A diverse trio sits at a dark wood table in a sunlit modern office. A Hispanic woman (~40, olive skin, long dark hair, olive blouse) and a Black man (~40, dark skin, beard, grey suit) review a document. A Caucasian woman (~40, blonde hair, navy dress) observes. High-key natural lighting from large windows. Shallow depth of field.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:06",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "Elena receives a certificate explaining her individual protection and rights.",
+        "label": "Product Information",
+        "visual": "Minimalist graphic on cream background. A green box labeled '01' contains 'Master policyholder'. A green arrow points right. Clean, sans-serif typography. Static frame.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:10",
+        "timestamp_start": "0:06"
+      },
+      {
+        "audio": "The group policyholder, insured employee, and beneficiary perform different roles. An employer group covers eligible employees or defined classes under the policy.",
+        "label": "Product Information",
+        "visual": "Graphic adds '02 Insured member' in a dark teal box and '03 Certificate' in a white box. Teal and green accents throughout. Static camera.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:20",
+        "timestamp_start": "0:10"
+      },
+      {
+        "audio": "A labor union can instead hold coverage for eligible members. Maryland's rules for these arrangements direct benefits to people other than the employer or union.",
+        "label": "Product Information",
+        "visual": "Same three-step graphic remains on screen. Static composition with professional, muted color palette.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:30",
+        "timestamp_start": "0:20"
+      },
+      {
+        "audio": "Do not confuse employee group protection with a business owning key person insurance for its own financial loss.",
+        "label": "Product Information",
+        "visual": "Three-step graphic remains static. Palette focuses on teal, green, and cream tones.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:36",
+        "timestamp_start": "0:30"
+      },
+      {
+        "audio": "A trust can hold group coverage for participating employers or unions under Maryland's rules. The trust or trustees become the policyholder.",
+        "label": "Product Information",
+        "visual": "Transition to a new graphic title 'Other groups have their own legal structure'. A green box 'Trust group' appears on the left.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "0:47",
+        "timestamp_start": "0:36"
+      },
+      {
+        "audio": "A qualifying association can also sponsor coverage, but merely gathering names to buy insurance does not satisfy the association requirements.",
+        "label": "Product Information",
+        "visual": "A second green box 'Association' appears in the center of the frame. Minimalist styling consistent with previous graphics.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "0:57",
+        "timestamp_start": "0:47"
+      },
+      {
+        "audio": "A debtor group is different again. The creditor, or another authorized holder, insures eligible debtors in connection with their obligations.",
+        "label": "Product Information",
+        "visual": "A third dark teal box 'Debtor group' appears on the right. All three categories are now visible in a row.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:11",
+        "timestamp_start": "0:57"
+      },
+      {
+        "audio": "The payment addresses the insured debt, with any payable excess handled under the applicable rule. Identify the legal group and its purpose.",
+        "label": "Product Information",
+        "visual": "Static graphic of the three legal group types. High contrast between teal/green elements and the light background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:23",
+        "timestamp_start": "1:11"
+      },
+      {
+        "audio": "An insurer evaluates the group's characteristics, eligibility rules, and participation. Stable membership and defined benefit classes can reduce chances of adverse selection.",
+        "label": "Product Information",
+        "visual": "New graphic: 'Group underwriting still manages selection'. A vertical list '01 Group profile' and '02 Eligibility' fades in.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "1:33",
+        "timestamp_start": "1:23"
+      },
+      {
+        "audio": "That is a selection issue, not a promise that no individual ever needs evidence of insurability.",
+        "label": "Product Information",
+        "visual": "The list adds '03 Enrollment' and '04 Evidence'. Static frame on the four underwriting pillars.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "1:47",
+        "timestamp_start": "1:33"
+      },
+      {
+        "audio": "A late entrant, or a person requesting an amount above a stated evidence-free limit, may face additional requirements under the actual plan.",
+        "label": "Product Information",
+        "visual": "Underwriting list remains static. The color scheme emphasizes professional trust with dark teals and light creams.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:01",
+        "timestamp_start": "1:47"
+      },
+      {
+        "audio": "Maryland also permits specified individual insurability exclusions or limits in these group statutes. Read the enrollment window carefully.",
+        "label": "Product Information",
+        "visual": "Final static view of the underwriting graphic before the next transition.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:10",
+        "timestamp_start": "2:01"
+      },
+      {
+        "audio": "If Elena contributes toward her insurance premium, the plan is contributory. If the employer pays the full premium, it is noncontributory.",
+        "label": "Product Information",
+        "visual": "Graphic: 'Funding and benefits answer different questions'. Three vertical columns: 'Contributory', 'Noncontributory', and 'Benefit recipient'.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "2:22",
+        "timestamp_start": "2:10"
+      },
+      {
+        "audio": "Maryland's employer rule generally covers all eligible employees in that noncontributory arrangement, subject to written rejections.",
+        "label": "Product Information",
+        "visual": "Funding graphic remains static. The 'Noncontributory' column is visually balanced with the 'Contributory' side.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "2:37",
+        "timestamp_start": "2:22"
+      },
+      {
+        "audio": "Funding alone does not make the employer the death beneficiary. Benefits ordinarily follow the insured's designation and policy provisions.",
+        "label": "Product Information",
+        "visual": "Funding graphic remains static. Focus transitions to the 'Benefit recipient' column.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "2:48",
+        "timestamp_start": "2:37"
+      },
+      {
+        "audio": "Eligible dependents may have separate coverage. A spouse listed only as beneficiary is not thereby an insured spouse.",
+        "label": "Product Information",
+        "visual": "Graphic remains static. Muted saturation levels for a professional instructional look.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:00",
+        "timestamp_start": "2:48"
+      },
+      {
+        "audio": "Marcus leaves covered employment. Under Maryland conversion, an eligible person applies and pays the first premium within 31 days.",
+        "label": "Product Information",
+        "visual": "Graphic: 'Conversion protects a limited opportunity'. Steps '01 Qualifying loss', '02 Apply and pay', and '03 Individual coverage' appear in sequence.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "3:14",
+        "timestamp_start": "3:00"
+      },
+      {
+        "audio": "New evidence of insurability is not required. The individual form, amount, and premium follow the statute and available contract terms.",
+        "label": "Product Information",
+        "visual": "Conversion steps graphic remains static. Sharp, high-contrast text for legibility.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "3:28",
+        "timestamp_start": "3:14"
+      },
+      {
+        "audio": "Conversion is different from portability. Ending the entire group policy also invokes a separate conversion provision. Revisit part 16 for limits.",
+        "label": "Product Information",
+        "visual": "Final view of the conversion graphic. Clean layout with ample white space.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "3:46",
+        "timestamp_start": "3:28"
+      },
+      {
+        "audio": "Federal Employees Group Life Insurance, or FEGLI, provides group term coverage for eligible federal employees.",
+        "label": "Usage Scenarios",
+        "visual": "Return to the office scene. The Hispanic woman, Black man, and blonde woman continue their discussion at the table. Same lighting and character appearances.",
+        "shot_type": "Medium Shot",
+        "scene_number": 21,
+        "timestamp_end": "3:54",
+        "timestamp_start": "3:46"
+      },
+      {
+        "audio": "Basic and elected optional coverage are provided. It does not build a cash value.",
+        "label": "Product Information",
+        "visual": "Graphic: 'Recognize the federal program names'. Three boxes appear: 'FEGLI', 'SGLI', and 'VGLI' with brief descriptions.",
+        "shot_type": "Wide Shot",
+        "scene_number": 22,
+        "timestamp_end": "4:06",
+        "timestamp_start": "3:54"
+      },
+      {
+        "audio": "SGLI provides term coverage to service members. VGLI can continue term protection after military service.",
+        "label": "Product Information",
+        "visual": "Federal programs graphic remains static. The palette uses teal, gold, and dark grey accents.",
+        "shot_type": "Wide Shot",
+        "scene_number": 23,
+        "timestamp_end": "4:20",
+        "timestamp_start": "4:06"
+      },
+      {
+        "audio": "These are different programs with their own deadlines. Use current government guidance. Do not replace federal rules with generic state deadlines.",
+        "label": "Call to Action",
+        "visual": "Static graphic of federal programs remains until the video end. Clean, branded aesthetic.",
+        "shot_type": "Wide Shot",
+        "scene_number": 24,
+        "timestamp_end": "4:34",
+        "timestamp_start": "4:20"
+      }
+    ]
+  }
+}

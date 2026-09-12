@@ -1,0 +1,376 @@
+[
+  {
+    "number": 35,
+    "requests": [
+      {
+        "index": 350,
+        "params": {
+          "model": "seed_audio",
+          "voice_type": "preset",
+          "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+          "format": "mp3",
+          "speech_rate": 5,
+          "prompt": "Marcus let an ordinary individual life policy lapse after its premium grace period. Reinstatement may restore that policy when the required conditions are satisfied. Maryland's standard provision allows an application within three years from the due date of the first premium in default. It requires a written application, satisfactory evidence of insurability, overdue premiums, and payment or reinstatement of other policy debt with the allowed interest. It does not apply when the policy was surrendered for cash, its cash value was exhausted by debt, or paid-up term coverage has expired. Check eligibility before promising that a late payment alone restores insurance."
+        }
+      },
+      {
+        "index": 351,
+        "params": {
+          "model": "seed_audio",
+          "voice_type": "preset",
+          "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+          "format": "mp3",
+          "speech_rate": 5,
+          "prompt": "Suppose Marcus applies within the permitted period but gives an inaccurate answer about a health change material to reinstatement. Maryland permits a contest of a reinstated life policy for fraud or misrepresentation material to that reinstatement, under the same period, conditions and exceptions that apply after original issue. The period is measured after reinstatement. This is different from treating every old statement as newly contestable without examining what the statute permits. Industrial life also has a different standard reinstatement window of two years. Keep the policy category, first default date, reinstatement date and actual disputed statement on a clear timeline."
+        }
+      },
+      {
+        "index": 352,
+        "params": {
+          "model": "seed_audio",
+          "voice_type": "preset",
+          "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+          "format": "mp3",
+          "speech_rate": 5,
+          "prompt": "An age correction ordinarily adjusts the benefit to what the premium would have purchased at the correct age under Maryland's standard provision. Assume a teaching policy states one hundred thousand dollars, with two hundred dollars paid for the relevant premium period. The correct-age premium for that same stated coverage would have been two hundred fifty dollars. Under the stated proportional formula, two hundred divided by two hundred fifty equals eighty percent. The adjusted benefit is eighty thousand dollars. Actual policy formulas and statutory age-limit exceptions matter. Where a contract also adjusts for misstated sex, use its lawful rate and adjustment provision."
+        }
+      },
+      {
+        "index": 353,
+        "params": {
+          "model": "seed_audio",
+          "voice_type": "preset",
+          "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+          "format": "mp3",
+          "speech_rate": 5,
+          "prompt": "A suicide exclusion is separate from an incontestability provision. Maryland permits the stated individual-life exclusion for suicide, whether sane or insane, within two years from issue, subject to its special continuity rules when other insurance is replaced. Do not assume every new policy automatically restarts the full period for all previously insured benefits. The contract and statute also determine the amount payable when an allowed exclusion applies. Maryland sets a minimum tied to the policy's statutory reserve and specified adjustments. A more favorable policy may promise a premium refund. Read that actual promise instead of calling every excluded claim a zero payment."
+        }
+      },
+      {
+        "index": 354,
+        "params": {
+          "model": "seed_audio",
+          "voice_type": "preset",
+          "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+          "format": "mp3",
+          "speech_rate": 5,
+          "prompt": "Maryland allows particular war or military-service restrictions and other specified exclusions. Read whether a policy uses a status-based restriction or one tied to the cause of death. A statement about military membership is different from a statement about death caused by war. The statute also addresses aviation, specified hazardous work or recreation, and certain residence conditions, with different limits. It prohibits excluding death from terrorism when the insured was a victim who did not participate. A producer must explain the actual policy restriction accurately. A general claim that every life policy excludes every military death would be wrong."
+        }
+      },
+      {
+        "index": 355,
+        "params": {
+          "model": "seed_audio",
+          "voice_type": "preset",
+          "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+          "format": "mp3",
+          "speech_rate": 5,
+          "prompt": "Maryland prohibits knowingly issuing premium-saving life insurance more than six months before the actual application date under the statutory conditions. It separately prohibits a producer from falsely dating the application earlier to obtain that lower age-based premium. Limited permitted policy backdating does not authorize changing when the client actually applied. Other prohibited provisions also matter. For example, a policy cannot reduce its benefit merely because the same insurer issued another policy on that life. Some medical-history or prior-rejection provisions have specific statutory limits rather than unrestricted cancellation power. Record the true facts, read the lawful contract, and identify the exact rule involved."
+        }
+      }
+    ],
+    "jobs": {
+      "jobs": [
+        {
+          "index": 350,
+          "job_id": "3c437392-87bf-4660-b458-c72c4de98221",
+          "status": "pending"
+        },
+        {
+          "index": 351,
+          "job_id": "71cbb727-5591-4815-adbf-e2bb7fe9a2a1",
+          "status": "pending"
+        },
+        {
+          "index": 352,
+          "job_id": "6d016d0e-0df6-4f8a-bd23-2f894862c75a",
+          "status": "pending"
+        },
+        {
+          "index": 353,
+          "job_id": "49ee303f-9107-4e3a-a321-d39e3d2b1c40",
+          "status": "pending"
+        },
+        {
+          "index": 354,
+          "job_id": "eba4f2f4-0ff6-43bc-81cb-3cdb8a6f214d",
+          "status": "pending"
+        },
+        {
+          "index": 355,
+          "job_id": "09f017ca-891b-4549-abb3-b820beb31f81",
+          "status": "pending"
+        }
+      ],
+      "submitted_count": 6,
+      "failed_count": 0
+    },
+    "results": {
+      "jobs": [
+        {
+          "index": 350,
+          "job_id": "3c437392-87bf-4660-b458-c72c4de98221",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_062525_3c437392-87bf-4660-b458-c72c4de98221.mp3"
+        },
+        {
+          "index": 351,
+          "job_id": "71cbb727-5591-4815-adbf-e2bb7fe9a2a1",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_062525_71cbb727-5591-4815-adbf-e2bb7fe9a2a1.mp3"
+        },
+        {
+          "index": 352,
+          "job_id": "6d016d0e-0df6-4f8a-bd23-2f894862c75a",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_062525_6d016d0e-0df6-4f8a-bd23-2f894862c75a.mp3"
+        },
+        {
+          "index": 353,
+          "job_id": "49ee303f-9107-4e3a-a321-d39e3d2b1c40",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_062525_49ee303f-9107-4e3a-a321-d39e3d2b1c40.mp3"
+        },
+        {
+          "index": 354,
+          "job_id": "eba4f2f4-0ff6-43bc-81cb-3cdb8a6f214d",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_062526_eba4f2f4-0ff6-43bc-81cb-3cdb8a6f214d.mp3"
+        },
+        {
+          "index": 355,
+          "job_id": "09f017ca-891b-4549-abb3-b820beb31f81",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_062525_09f017ca-891b-4549-abb3-b820beb31f81.mp3"
+        }
+      ],
+      "summary": {
+        "total": 6,
+        "completed": 6,
+        "failed": 0,
+        "active": 0,
+        "errors": 0
+      },
+      "all_terminal": true
+    },
+    "repairs": {
+      "jobs": [
+        {
+          "index": 353,
+          "job_id": "a79b6c47-4a15-45e8-b8dd-b98b8212baca",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_063529_a79b6c47-4a15-45e8-b8dd-b98b8212baca.mp3"
+        }
+      ],
+      "summary": {
+        "total": 1,
+        "completed": 1,
+        "failed": 0,
+        "active": 0,
+        "errors": 0
+      },
+      "all_terminal": true
+    }
+  },
+  {
+    "number": 36,
+    "requests": [
+      {
+        "index": 360,
+        "params": {
+          "model": "seed_audio",
+          "voice_type": "preset",
+          "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+          "format": "mp3",
+          "speech_rate": 5,
+          "prompt": "Elena is entitled to a payable life insurance benefit. A lump sum gives her the benefit in one payment. Other settlement options may spread proceeds over time, when the contract makes them available and any binding owner instructions permit the choice. A settlement payment option is different from selling a policy to an investor during the insured's lifetime. Maryland requires a policy offering installments or an annuity to state that feature and include determinable payment information. Begin with the actual contract, eligible payee and payment instructions. A textbook list of options does not mean every carrier offers every option on every policy."
+        }
+      },
+      {
+        "index": 361,
+        "params": {
+          "model": "seed_audio",
+          "voice_type": "preset",
+          "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+          "format": "mp3",
+          "speech_rate": 5,
+          "prompt": "Assume an available interest-only arrangement leaves one hundred thousand dollars with the insurer and pays Elena the interest. At a hypothetical three percent annual rate, that principal generates three thousand dollars for a full year under a simple annual calculation. The payment uses interest rather than deliberately spending down principal. The contract governs withdrawal access, rate changes and what happens when Elena dies. Funds retained by an insurer are different from a bank deposit. Maryland permits the specified proceeds to remain among the insurer's general assets. Review the insurer's obligations and actual agreement instead of assuming federal bank-deposit insurance applies."
+        }
+      },
+      {
+        "index": 362,
+        "params": {
+          "model": "seed_audio",
+          "voice_type": "preset",
+          "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+          "format": "mp3",
+          "speech_rate": 5,
+          "prompt": "Elena wants the proceeds distributed over a stated number of years. Under a fixed-period option, the selected period determines the payment schedule, while the proceeds and applicable interest help determine each payment. Use a deliberately simplified example with no interest or fees: one hundred twenty thousand dollars divided into one hundred twenty monthly payments produces one thousand dollars per month for ten years. Real tables can include interest and other contract details. A fixed ten-year period is not a promise of income for Elena's entire lifetime. Read the remaining-payment provision if she dies before the selected period ends."
+        }
+      },
+      {
+        "index": 363,
+        "params": {
+          "model": "seed_audio",
+          "voice_type": "preset",
+          "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+          "format": "mp3",
+          "speech_rate": 5,
+          "prompt": "Now Elena specifies two thousand dollars each month. Under a fixed-amount option, the chosen payment and the available proceeds with applicable interest determine how long payments continue. With one hundred twenty thousand dollars and no interest or fees in this teaching example, the money supplies sixty monthly payments, or five years. Choosing one thousand dollars instead would make the same assumed principal last twice as long. This is not automatically a lifetime guarantee. Compare it with fixed period by asking what Elena selected first: the monthly amount or the number of years. Read how actual credited interest affects the remaining schedule."
+        }
+      },
+      {
+        "index": 364,
+        "params": {
+          "model": "seed_audio",
+          "voice_type": "preset",
+          "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+          "format": "mp3",
+          "speech_rate": 5,
+          "prompt": "A life-income option promises payments for the covered lifetime instead of merely until a chosen period or fund schedule ends. A straight single-life form stops when its measuring life dies, with no additional guarantee assumed. Life income with a period certain can add minimum remaining payments under its terms. Joint-and-survivor income uses two lives and continues the specified payment to the survivor. The survivor amount may stay the same or be reduced according to the selected option. For example, seventy-five percent of a stated two thousand dollar payment is fifteen hundred dollars. These are payment forms, not first-death versus second-death life policies."
+        }
+      },
+      {
+        "index": 365,
+        "params": {
+          "model": "seed_audio",
+          "voice_type": "preset",
+          "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+          "format": "mp3",
+          "speech_rate": 5,
+          "prompt": "Do not confuse electing interest-only income with interest owed on an unpaid death claim. Maryland generally measures interest from the insured's death until payment. An insurer need not pay that interest when proceeds are paid within thirty days after death. If proof of death arrives more than one hundred eighty days after death, the statutory interest begins when that proof is submitted. The rate cannot be lower than the insurer's rate on death proceeds left on deposit. These interest rules do not grant permission to delay a valid claim. Determine the claim dates first, then analyze any later settlement choice separately."
+        }
+      }
+    ],
+    "jobs": {
+      "jobs": [
+        {
+          "index": 360,
+          "job_id": "2123b94b-25fe-41ad-8b44-320ffe44863b",
+          "status": "pending"
+        },
+        {
+          "index": 361,
+          "job_id": "12dd95d1-155f-4b2f-91b4-c6c4e8a7cfaf",
+          "status": "pending"
+        },
+        {
+          "index": 362,
+          "job_id": "39c366da-f9e8-454d-aed1-5e4583dcc0c3",
+          "status": "pending"
+        },
+        {
+          "index": 363,
+          "job_id": "6c46aa6d-b0fa-4e14-ab33-560129bad96d",
+          "status": "pending"
+        },
+        {
+          "index": 364,
+          "job_id": "194a204d-d5f7-4d42-8109-88f605928cd5",
+          "status": "pending"
+        },
+        {
+          "index": 365,
+          "job_id": "9aab4868-ae20-4d03-abb3-39fc3e14b086",
+          "status": "pending"
+        }
+      ],
+      "submitted_count": 6,
+      "failed_count": 0
+    },
+    "results": {
+      "jobs": [
+        {
+          "index": 360,
+          "job_id": "2123b94b-25fe-41ad-8b44-320ffe44863b",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_062639_2123b94b-25fe-41ad-8b44-320ffe44863b.mp3"
+        },
+        {
+          "index": 361,
+          "job_id": "12dd95d1-155f-4b2f-91b4-c6c4e8a7cfaf",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_062639_12dd95d1-155f-4b2f-91b4-c6c4e8a7cfaf.mp3"
+        },
+        {
+          "index": 362,
+          "job_id": "39c366da-f9e8-454d-aed1-5e4583dcc0c3",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_062640_39c366da-f9e8-454d-aed1-5e4583dcc0c3.mp3"
+        },
+        {
+          "index": 363,
+          "job_id": "6c46aa6d-b0fa-4e14-ab33-560129bad96d",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_062639_6c46aa6d-b0fa-4e14-ab33-560129bad96d.mp3"
+        },
+        {
+          "index": 364,
+          "job_id": "194a204d-d5f7-4d42-8109-88f605928cd5",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_062639_194a204d-d5f7-4d42-8109-88f605928cd5.mp3"
+        },
+        {
+          "index": 365,
+          "job_id": "9aab4868-ae20-4d03-abb3-39fc3e14b086",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_062639_9aab4868-ae20-4d03-abb3-39fc3e14b086.mp3"
+        }
+      ],
+      "summary": {
+        "total": 6,
+        "completed": 6,
+        "failed": 0,
+        "active": 0,
+        "errors": 0
+      },
+      "all_terminal": true
+    },
+    "repairs": {
+      "jobs": [
+        {
+          "index": 362,
+          "job_id": "f2b09ad6-d130-4607-a19c-eb8301ec1e46",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_063320_f2b09ad6-d130-4607-a19c-eb8301ec1e46.mp3"
+        }
+      ],
+      "summary": {
+        "total": 1,
+        "completed": 1,
+        "failed": 0,
+        "active": 0,
+        "errors": 0
+      },
+      "all_terminal": true
+    }
+  }
+]

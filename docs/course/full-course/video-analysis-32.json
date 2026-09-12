@@ -1,0 +1,93 @@
+{
+  "result": {
+    "id": "35275126-e37e-41f1-994e-6bb322c78acc",
+    "video_input_id": "8ad8511c-15c0-4a16-8e10-05db1e9e1900",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/8ad8511c-15c0-4a16-8e10-05db1e9e1900.mp4",
+    "scenes": [
+      {
+        "audio": "Elena owns a policy on Marcus's life and names their adult daughter as revocable beneficiary. Elena controls the policy owner's rights under the contract.",
+        "label": "Opening Hook",
+        "visual": "A man and a woman are seated side-by-side at a light-colored kitchen table. The man, approximately 40-45 years old with dark skin, short dark hair, and a neatly trimmed beard, is wearing a navy blue button-down shirt. The woman, late 30s with light-brown skin and long, wavy dark hair, wears an olive green blouse. The man holds a white sheet of paper with both hands, looking down at it. The woman is also looking down at the paper, pointing to a specific line with her left hand. A laptop is open to their left, and a dark notebook and coffee mug are on the table in front of them. The kitchen background is brightly lit with warm, natural light and features white cabinets and soft-focus greenery in the distance.",
+        "shot_type": "Medium Close-Up",
+        "scene_number": 1,
+        "timestamp_end": "0:07",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "Marcus is the insured and the daughter is the designated recipient of a covered death benefit.",
+        "label": "Product Information",
+        "visual": "A graphic diagram appears on a light beige background. A single white rectangular card with the word 'Owner' in bold teal text sits on the left side. Beneath the title, smaller gray text describes the role as exercising contractual rights. The layout is clean and minimalist with a thin teal line above the card.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:10",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "The person sending premium payments does not automatically become the owner. Owner rights can include changing a revocable beneficiary, assigning the contract, choosing available options, and accessing policy values when the contract provides them. Each right remains subject to policy terms and other valid interests. A term policy does not acquire a cash value merely because its owner asks for a loan.",
+        "label": "Product Information",
+        "visual": "The diagram expands to show three white cards side-by-side. The left card is 'Owner', the middle card is 'Insured' (with a mustard yellow accent line), and the right card is 'Beneficiary' (with a teal accent line). Each card contains a brief description of the role in small text. The background remains light beige and static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:43",
+        "timestamp_start": "0:11"
+      },
+      {
+        "audio": "With a revocable designation, the reserved right to change beneficiaries ordinarily remains with the owner. An irrevocable designation creates an interest that can restrict changes without the required consent. An existing assignment can also affect what the owner may do. Maryland permits the policy to require insurer endorsement or acceptance before a beneficiary change binds the insurer. A verbal request to a producer is not a reliable substitute for completing the required process. Identify the current owner, designation, and assignments first, then obtain the proper documents before describing the change as complete.",
+        "label": "Problem Solving",
+        "visual": "A new graphic appears showing a three-step horizontal process flow. Step 1 'Identify rights' is highlighted in white on the left, followed by Step 2 'Submit request' in teal, and Step 3 'Confirm effect' on the right. Teal arrows connect the steps. As the audio progresses, teal boxes appear under each step detailing specific requirements and considerations like 'Owner, beneficiary status' and 'Use the required authorization'.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "1:30",
+        "timestamp_start": "0:44"
+      },
+      {
+        "audio": "Suppose Elena executes a valid absolute assignment to her adult daughter. An absolute assignment transfers the ownership rights described by that complete transfer. The daughter becomes the new owner through the required process. This is different from naming her beneficiary, which only addresses who receives an applicable benefit. Changing ownership does not ordinarily change the person whose life is insured. It also does not erase existing policy limitations, loans, or superior interests. The parties should review the actual assignment and obtain any required consent or recording. A transfer can have tax consequences that deserve separate review.",
+        "label": "Usage Scenarios",
+        "visual": "The three-step process graphic updates with new content. Step 1 is 'Before', showing 'Elena owns the policy'. Step 2 is 'Valid absolute transfer', and Step 3 is 'After', showing 'Daughter owns; Marcus remains insured'. The graphic uses the same teal and white color scheme and horizontal flow with arrows.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "2:15",
+        "timestamp_start": "1:31"
+      },
+      {
+        "audio": "Now assume Elena retains ownership, but pledges specified policy rights to a lender as collateral. A collateral assignment secures an obligation instead of simply giving the lender the whole beneficial interest forever. Read the document. It can grant enforcement rights and limit the owner's actions while the debt exists. In a simplified covered death claim, the payable benefit is one hundred thousand dollars, and the secured amount due is twenty thousand dollars, assume no other claims or deductions. The lender receives twenty thousand dollars and the designated beneficiary receives the remaining eighty thousand dollars.",
+        "label": "Usage Scenarios",
+        "visual": "An infographic shows three columns of data representing a financial calculation. The left column shows '$100,000' as the payable death benefit. The middle column shows '- $20,000' in a teal box as the secured amount due to the lender. The right column shows '$80,000' as the remaining benefit for the beneficiary. The background is light beige with bold teal text for the numbers.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "2:50",
+        "timestamp_start": "2:16"
+      },
+      {
+        "audio": "After the secured obligation is satisfied, obtain the appropriate release of the collateral assignment and follow the insurer's recording process. Do not assume the company's records update because the lender cashed a final payment. An assignment can be subject to an insurer's prior lien and specific reserved rights. Its exact wording matters more than a blanket statement that every assignment transfers every right. An insurer's acknowledgment generally records the transaction under its process. It is not a promise that every legal or tax consequence has been reviewed. Keep copies and confirm who can exercise each affected right.",
+        "label": "Usage Scenarios",
+        "visual": "A vertical four-step checklist appears. Step 1 is 'Read', Step 2 is 'Satisfy', Step 3 is 'Release', and Step 4 is 'Record'. Each step is numbered and has a short teal description to its right. The list populates from top to bottom against the beige background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "3:31",
+        "timestamp_start": "2:51"
+      },
+      {
+        "audio": "Maryland's individual life provision treats the policy, or the policy with an endorsed or attached application, as the entire contract between the parties.",
+        "label": "Product Information",
+        "visual": "Return to the live-action scene of the man and woman in the kitchen. They are still seated at the table, focused on the document. The man is holding a pen in his right hand as if preparing to sign or take notes, while the woman continues to look closely at the paper. The soft, warm morning light remains consistent from the first scene.",
+        "shot_type": "Medium Close-Up",
+        "scene_number": 8,
+        "timestamp_end": "3:39",
+        "timestamp_start": "3:32"
+      },
+      {
+        "audio": "Where the application is included, its statements are representations rather than warranties in the absence of fraud. Required riders and endorsements form part of the actual contract as incorporated. Sales material is separate from the policy. A producer cannot amend the coverage through an informal promise. Check the documents: insured amount, options, and accepted changes. Application copies and corrections also have Maryland rules. Use the actual contract to resolve rights instead of relying on a remembered sales conversation.",
+        "label": "Product Information",
+        "visual": "A final infographic shows three cards: 'Policy', 'Application', and 'Outside statements'. The 'Policy' and 'Application' cards have teal accent lines and descriptive text, while the 'Outside statements' card has a gray accent line. The 'Policy' card is highlighted with a teal border initially.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "4:22",
+        "timestamp_start": "3:40"
+      }
+    ]
+  }
+}

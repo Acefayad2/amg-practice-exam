@@ -1,0 +1,342 @@
+[
+  {
+    "number": 41,
+    "requests": {
+      "requests": [
+        {
+          "index": 410,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "In this scenario, Marcus is seriously ill and asks whether his life policy can provide money while he is living. An accelerated benefit pays an eligible amount early under the policy's qualifying conditions and reduces the death benefit otherwise payable. It is not automatically an extra benefit on top of the full original death protection. It also differs from borrowing against cash value or selling a policy to an outside settlement provider. Identify the actual feature first. Maryland's accelerated-benefit chapter requires terminal illness among its qualifying events for products within that chapter. It does not mean every illness automatically qualifies for payment."
+          }
+        },
+        {
+          "index": 411,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "A contract may describe a limited life expectancy, a condition requiring extraordinary intervention, or expected permanent confinement in an eligible institution. These are specific triggers, not interchangeable labels for any hospital visit. A short rehabilitation stay is not automatically confinement expected to last for the rest of the insured's life. Some approved designs include chronic-illness conditions involving daily activities or severe cognitive impairment. Read the required certification, degree of assistance, permanence and other conditions. A family member's description of being very sick is important context, but it does not replace the medical evidence required by the actual benefit provision."
+          }
+        },
+        {
+          "index": 412,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Activities of daily living include bathing, continence, dressing, eating, toileting and transferring. Transferring means moving between positions such as a bed and a chair. Shopping, driving and managing investments are not substitutes for those named activities. Suppose a fictional rider requires permanent inability to perform two specified activities without substantial assistance. A physician's evidence of qualifying help with bathing and dressing addresses two named activities, but the remaining rider conditions still must be met. Do not turn that example into a universal two-activity rule for every acceleration product. A separate cognitive-impairment trigger can require substantial supervision under the actual wording."
+          }
+        },
+        {
+          "index": 413,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Assume a two hundred thousand dollar death benefit and an approved acceleration of one hundred thousand dollars of that benefit. In this simplified example, a stated ten thousand dollar discount reduces the immediate cash payment to ninety thousand dollars. The remaining death benefit is one hundred thousand dollars, because one hundred thousand of the original benefit was accelerated. It is not one hundred ten thousand merely because the owner received ninety thousand cash. Real contracts can use different charges, discounts or lien methods. Read the insurer's before-and-after statement and any outstanding debt. Never infer remaining protection by subtracting only the check from the old face amount."
+          }
+        },
+        {
+          "index": 414,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "The death-benefit change is only one part of the calculation. Acceleration can affect cash value, accumulation accounts, outstanding loans, future loan access and premium obligations. Maryland's actuarial rule addresses proportional cash-value reduction and an alternative lien approach. A lien and its permitted interest can reduce value available later. Do not promise that all existing policy debt disappears or that every premium stops. At the time the benefit is claimed, the insurer must explain continuing premium requirements needed to keep the policy in force. Marcus needs those continuing obligations in writing so he can understand what coverage and resources remain after the payment."
+          }
+        },
+        {
+          "index": 415,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "For an agent-solicited application under Maryland's rule, the written benefit description and effects disclosure is provided before or with the application and acknowledged by the applicant and writing agent. Additional information is required when acceleration is requested. Tax treatment requires its own analysis: qualifying terminal-illness benefits can be excluded from federal income, while chronic-illness exclusions have additional rules. Do not promise every payment is tax-free or that government-benefit eligibility is unaffected. The insurer must provide the required tax and benefit-eligibility disclosures. An assignee or irrevocable beneficiary may also have a required concurrence. Review the trigger, calculation and continuing obligations together before treating the transaction as understood."
+          }
+        }
+      ]
+    },
+    "jobs": {
+      "jobs": [
+        {
+          "index": 410,
+          "job_id": "d6fe449d-e1f6-4fe9-94a0-14db099cabb2",
+          "status": "pending"
+        },
+        {
+          "index": 411,
+          "job_id": "451ecd4f-3477-48f5-b42a-6b57deea711e",
+          "status": "pending"
+        },
+        {
+          "index": 412,
+          "job_id": "b2404ca1-a2cd-4175-85a7-6324c95ebee5",
+          "status": "pending"
+        },
+        {
+          "index": 413,
+          "job_id": "0c853e22-05b2-4400-aa3d-a6d12f149641",
+          "status": "pending"
+        },
+        {
+          "index": 414,
+          "job_id": "fddd6b06-f4b7-4d2c-a0de-09185226e37b",
+          "status": "pending"
+        },
+        {
+          "index": 415,
+          "job_id": "f49ca1be-4d68-4cd2-bb8c-cedb5c4246fd",
+          "status": "pending"
+        }
+      ],
+      "submitted_count": 6,
+      "failed_count": 0
+    },
+    "results": {
+      "jobs": [
+        {
+          "index": 410,
+          "job_id": "d6fe449d-e1f6-4fe9-94a0-14db099cabb2",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_071139_d6fe449d-e1f6-4fe9-94a0-14db099cabb2.mp3"
+        },
+        {
+          "index": 411,
+          "job_id": "451ecd4f-3477-48f5-b42a-6b57deea711e",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_071139_451ecd4f-3477-48f5-b42a-6b57deea711e.mp3"
+        },
+        {
+          "index": 412,
+          "job_id": "b2404ca1-a2cd-4175-85a7-6324c95ebee5",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_071139_b2404ca1-a2cd-4175-85a7-6324c95ebee5.mp3"
+        },
+        {
+          "index": 413,
+          "job_id": "0c853e22-05b2-4400-aa3d-a6d12f149641",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_071139_0c853e22-05b2-4400-aa3d-a6d12f149641.mp3"
+        },
+        {
+          "index": 414,
+          "job_id": "fddd6b06-f4b7-4d2c-a0de-09185226e37b",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_071139_fddd6b06-f4b7-4d2c-a0de-09185226e37b.mp3"
+        },
+        {
+          "index": 415,
+          "job_id": "f49ca1be-4d68-4cd2-bb8c-cedb5c4246fd",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_071139_f49ca1be-4d68-4cd2-bb8c-cedb5c4246fd.mp3"
+        }
+      ],
+      "summary": {
+        "total": 6,
+        "completed": 6,
+        "failed": 0,
+        "active": 0,
+        "errors": 0
+      },
+      "all_terminal": true
+    },
+    "repairs": null
+  },
+  {
+    "number": 42,
+    "requests": {
+      "requests": [
+        {
+          "index": 420,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Marcus has a two hundred fifty thousand dollar base policy on his own life. He wants to understand available protection for Elena and their children. A rider can add coverage on another eligible person without making that person the base insured. Keep a simple map: Marcus is insured under the base policy, Elena might be insured under an other-insured term rider, and eligible children might have a children's term rider. Ownership and beneficiary designations remain separate questions. Being named as a beneficiary does not itself insure that person's life. Read the person and benefit identified in each part of the issued contract."
+          }
+        },
+        {
+          "index": 421,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Suppose Marcus's policy includes a fifty thousand dollar term rider on Elena. If Elena dies from a covered cause while that rider is in force, the stated rider benefit is fifty thousand dollars. Marcus is still living, so his two hundred fifty thousand dollar base death benefit is not triggered by her death. An other-insured rider may cover a spouse or another eligible person under the contract; the product's name and eligibility rules matter. The additional coverage can have its own term, cost and conversion conditions. Do not assume it is permanent just because the base policy is whole life."
+          }
+        },
+        {
+          "index": 422,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Now suppose an issued children's rider provides ten thousand dollars on each eligible child. If one covered child dies while the rider is in force, the stated benefit is ten thousand dollars for that child. Three eligible children do not automatically create a thirty thousand dollar benefit on the death of just one child. A single rider can cover multiple eligible children, but read the entry requirements, newborn timing, adopted-child provisions, maximum ages and any required notification. A family relationship alone does not establish that every relative is covered. Use the contract's definition of an eligible child and the actual amount per child."
+          }
+        },
+        {
+          "index": 423,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "A family term arrangement combines the relevant term coverage for a spouse and children with the base insured's policy, depending on the product design. Some insurers use separate riders instead of one form called a family rider. The important exam task is to match each life to its benefit. This is different from a joint first-death policy paying once when the first of two insured people dies, and different from survivorship insurance paying at the second death. A household label does not tell you the claim trigger. Use the schedule of insured people, amounts and terms rather than adding every amount into one imagined family death benefit."
+          }
+        },
+        {
+          "index": 424,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "A children's term rider may permit conversion to permanent insurance during a specified opportunity without new evidence of insurability. That right can be valuable if the child's health has changed, but it does not mean unlimited coverage, no premium or no deadline. Suppose a fictional rider permits conversion of ten thousand dollars of child coverage into up to five times that amount. The stated maximum is fifty thousand dollars. Apply the actual election window and the insurer's permitted conversion products and pricing. Do not teach one carrier's conversion age or multiplier as Maryland's rule for every family policy. A missed deadline can change the available options."
+          }
+        },
+        {
+          "index": 425,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "The base insured's death, surrender or lapse can affect attached family coverage. Some issued child riders continue paid-up term protection after the base insured dies; some other-insured riders terminate while offering a defined conversion opportunity. These are contract provisions, not interchangeable promises. Marcus should ask what happens to each family's coverage if his own policy ends, and what deadlines Elena or the children would face. For an exam, identify the actual event and read the supplied rider terms before selecting the result. Start with whose life is insured, then the amount, the ending conditions and any conversion right. That sequence prevents confusing a beneficiary with an insured person."
+          }
+        }
+      ]
+    },
+    "jobs": {
+      "jobs": [
+        {
+          "index": 420,
+          "job_id": "ddeb141d-6053-459f-9591-0d04efac5403",
+          "status": "pending"
+        },
+        {
+          "index": 421,
+          "job_id": "8f0054fa-7129-45dd-a180-0aff4b13a199",
+          "status": "pending"
+        },
+        {
+          "index": 422,
+          "job_id": "60739586-8c4c-41ef-b6b4-371ef5cf180b",
+          "status": "pending"
+        },
+        {
+          "index": 423,
+          "job_id": "aa49c66b-44ca-4acd-b151-61da5a5ee070",
+          "status": "pending"
+        },
+        {
+          "index": 424,
+          "job_id": "118914ff-7948-4657-af02-6a479d78646c",
+          "status": "pending"
+        },
+        {
+          "index": 425,
+          "job_id": "e515a12a-86ef-4720-838e-2fa93bebd59b",
+          "status": "pending"
+        }
+      ],
+      "submitted_count": 6,
+      "failed_count": 0
+    },
+    "results": {
+      "jobs": [
+        {
+          "index": 420,
+          "job_id": "ddeb141d-6053-459f-9591-0d04efac5403",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_071330_ddeb141d-6053-459f-9591-0d04efac5403.mp3"
+        },
+        {
+          "index": 421,
+          "job_id": "8f0054fa-7129-45dd-a180-0aff4b13a199",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_071330_8f0054fa-7129-45dd-a180-0aff4b13a199.mp3"
+        },
+        {
+          "index": 422,
+          "job_id": "60739586-8c4c-41ef-b6b4-371ef5cf180b",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_071330_60739586-8c4c-41ef-b6b4-371ef5cf180b.mp3"
+        },
+        {
+          "index": 423,
+          "job_id": "aa49c66b-44ca-4acd-b151-61da5a5ee070",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_071330_aa49c66b-44ca-4acd-b151-61da5a5ee070.mp3"
+        },
+        {
+          "index": 424,
+          "job_id": "118914ff-7948-4657-af02-6a479d78646c",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_071330_118914ff-7948-4657-af02-6a479d78646c.mp3"
+        },
+        {
+          "index": 425,
+          "job_id": "e515a12a-86ef-4720-838e-2fa93bebd59b",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_071330_e515a12a-86ef-4720-838e-2fa93bebd59b.mp3"
+        }
+      ],
+      "summary": {
+        "total": 6,
+        "completed": 6,
+        "failed": 0,
+        "active": 0,
+        "errors": 0
+      },
+      "all_terminal": true
+    },
+    "repairs": null
+  }
+]

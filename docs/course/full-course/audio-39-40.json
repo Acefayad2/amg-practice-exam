@@ -1,0 +1,361 @@
+[
+  {
+    "number": 39,
+    "requests": {
+      "requests": [
+        {
+          "index": 390,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Elena owns a participating whole life policy. Participating means it can share in the insurer's divisible surplus through policy dividends under its terms. A nonparticipating policy does not provide that participation. Neither label tells us whether the coverage is temporary or permanent. A declared dividend can reflect the insurer's experience with claims, investments and expenses. It is not a guaranteed future amount merely because dividends have been paid before. Keep the policy's contractual guarantees separate from a current dividend illustration. Maryland requires the stated annual determination and apportionment for participating policies, but that does not guarantee a positive dividend every year."
+          }
+        },
+        {
+          "index": 391,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Assume Elena's insurer has declared a four hundred dollar dividend. Under the cash option, she receives that available dividend as money. Under premium reduction, the dividend is applied toward the premium due. If that premium is twelve hundred dollars, applying four hundred leaves eight hundred dollars to pay from other funds. The dividend has not erased every later premium. It is being used for this payment. Taking cash also does not mean surrendering the entire policy. Follow the selected transaction carefully: distributing a dividend, paying a premium and surrendering protection are different actions with different consequences for the contract."
+          }
+        },
+        {
+          "index": 392,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Elena can instead leave the declared dividend with the insurer to accumulate interest under the policy's available option. Assume four hundred dollars remains for a full year at a hypothetical three percent simple annual rate, with no additions or withdrawals. Twelve dollars of interest brings the total to four hundred twelve dollars. The interest-crediting terms and access rights come from the actual arrangement. The declared dividend and the interest earned afterward are separate items. Interest on accumulated dividends generally creates taxable interest income, covered more fully in the tax lessons. Do not label the accumulation balance an extra death benefit purchased with insurance."
+          }
+        },
+        {
+          "index": 393,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Under an available one-year term dividend option, the dividend buys additional temporary protection for the specified year under the contract's conditions. A paid-up-additions option instead buys an additional amount of permanent insurance that requires no more premiums for that purchased addition. Suppose a stated offer uses Elena's four hundred dollar dividend to buy two thousand dollars of paid-up additional whole life. The two thousand is added insurance, not a four hundred dollar cash account and not proof that her entire base policy is paid up. The amount a dividend buys depends on the applicable purchase basis. Check availability, eligibility and the actual quotation."
+          }
+        },
+        {
+          "index": 394,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Another outline concept is using dividends toward paid-up insurance or shortening the premium-paying period. Under an available arrangement, accumulated dividend values can help fund the amount needed to make the existing policy paid up sooner. That goal is different from buying a small paid-up addition each year. It is also different from choosing reduced paid-up nonforfeiture and accepting a smaller base benefit. Most importantly, a projection that future dividends will cover premiums is not confirmation that the policy is already paid up. If dividends fall, an owner relying on premium offset may need to resume payments from other money. Confirm actual contractual status with the insurer."
+          }
+        },
+        {
+          "index": 395,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Maryland's participating-policy provision includes the stated cash, premium-payment, paid-up-addition and interest-accumulation choices, with a term-policy exception for the latter two. An insurer may offer additional choices. This does not make every textbook option mandatory on every policy. An ordinary participating policy must specify what happens if a different option is not elected within the stated thirty-day period after the dividend becomes payable. Elena therefore checks the actual option and deadline before deciding. On an exam, first identify whether the question asks about receiving cash, reducing a premium, earning interest, adding temporary coverage, adding permanent coverage or making the existing insurance paid up."
+          }
+        }
+      ]
+    },
+    "jobs": {
+      "jobs": [
+        {
+          "index": 390,
+          "job_id": "22bed2dc-49af-4044-b294-e425c6637976",
+          "status": "pending"
+        },
+        {
+          "index": 391,
+          "job_id": "00b4e54c-c34d-4503-98cd-8910198a9b62",
+          "status": "pending"
+        },
+        {
+          "index": 392,
+          "job_id": "6e61e4fe-0ee3-47b1-a4a9-51191dda71ad",
+          "status": "pending"
+        },
+        {
+          "index": 393,
+          "job_id": "bc3150aa-6a87-4e3f-a44f-0cdaba3fb283",
+          "status": "pending"
+        },
+        {
+          "index": 394,
+          "job_id": "71e54b99-2625-4de8-8188-936557dd0a66",
+          "status": "pending"
+        },
+        {
+          "index": 395,
+          "job_id": "a83ba4e2-d859-4fd6-83b7-7c431a302fb7",
+          "status": "pending"
+        }
+      ],
+      "submitted_count": 6,
+      "failed_count": 0
+    },
+    "results": {
+      "jobs": [
+        {
+          "index": 390,
+          "job_id": "22bed2dc-49af-4044-b294-e425c6637976",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_065913_22bed2dc-49af-4044-b294-e425c6637976.mp3"
+        },
+        {
+          "index": 391,
+          "job_id": "00b4e54c-c34d-4503-98cd-8910198a9b62",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_065913_00b4e54c-c34d-4503-98cd-8910198a9b62.mp3"
+        },
+        {
+          "index": 392,
+          "job_id": "6e61e4fe-0ee3-47b1-a4a9-51191dda71ad",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_065914_6e61e4fe-0ee3-47b1-a4a9-51191dda71ad.mp3"
+        },
+        {
+          "index": 393,
+          "job_id": "bc3150aa-6a87-4e3f-a44f-0cdaba3fb283",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_065913_bc3150aa-6a87-4e3f-a44f-0cdaba3fb283.mp3"
+        },
+        {
+          "index": 394,
+          "job_id": "71e54b99-2625-4de8-8188-936557dd0a66",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_065913_71e54b99-2625-4de8-8188-936557dd0a66.mp3"
+        },
+        {
+          "index": 395,
+          "job_id": "a83ba4e2-d859-4fd6-83b7-7c431a302fb7",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_065913_a83ba4e2-d859-4fd6-83b7-7c431a302fb7.mp3"
+        }
+      ],
+      "summary": {
+        "total": 6,
+        "completed": 6,
+        "failed": 0,
+        "active": 0,
+        "errors": 0
+      },
+      "all_terminal": true
+    },
+    "repairs": {
+      "jobs": [
+        {
+          "index": 390,
+          "job_id": "bbfabe00-27b8-4361-893c-aeddd10a2b56",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_070728_bbfabe00-27b8-4361-893c-aeddd10a2b56.mp3"
+        }
+      ],
+      "summary": {
+        "total": 1,
+        "completed": 1,
+        "failed": 0,
+        "active": 0,
+        "errors": 0
+      },
+      "all_terminal": true
+    }
+  },
+  {
+    "number": 40,
+    "requests": {
+      "requests": [
+        {
+          "index": 400,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Marcus has a life policy and worries about keeping it funded if he becomes unable to work. A disability-related life rider can address that concern, but its title alone is not enough. Identify the person whose disability matters, the definition of qualifying disability, the required duration, the age limits and the benefit provided. Losing a job is not automatically a qualifying disability. Being approved under another program does not automatically satisfy this rider's definition either. These are supplemental benefits attached to life insurance. We are studying their life-policy functions here, not building a separate health-insurance course. Read the issued rider before promising that a benefit applies."
+          }
+        },
+        {
+          "index": 401,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "A waiver-of-premium rider waives the premiums specified by the rider when the insured meets its qualifying disability conditions. Suppose Marcus's hypothetical rider approves waiver of a one hundred dollar monthly base premium. That covered premium no longer has to come from his household during the approved benefit period. It does not mean the insurer sends him an extra one hundred dollar spending check. Review which premiums and riders are included, when waiver begins and when it ends. The contract may require premiums during the waiting and claim-review period, with later reimbursement or credit if its terms provide that result. Do not tell a client to stop paying merely because a claim was submitted."
+          }
+        },
+        {
+          "index": 402,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Universal life separates premium payments from the charges deducted inside the policy. A cost-of-insurance or monthly-deduction waiver may waive the stated charges during qualifying disability. Read precisely which charges are covered. Suppose Marcus normally plans to pay two hundred dollars monthly, while the covered monthly deduction is sixty dollars. Waiving sixty dollars of deductions is not the same as depositing the full two hundred dollar planned payment. It does not automatically fund every future growth assumption or eliminate every lapse risk. Policy loans, investment results, unwaived charges and other terms can still matter. An actual monthly-deduction rider may cover more than the cost of insurance alone."
+          }
+        },
+        {
+          "index": 403,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "A disability income benefit attached to life insurance provides the specified income payment when its conditions are met. It may be combined with a waiver, but those are still separate benefits. In a hypothetical example, a rider pays two hundred fifty dollars of monthly income and also waives a sixty dollar policy charge. The spendable income is two hundred fifty dollars. The sixty dollar waived charge is not another cash payment to the client. Read the income amount, benefit duration, waiting period and termination conditions. Do not assume the rider replaces the insured's entire salary or continues for life simply because the base life policy is permanent."
+          }
+        },
+        {
+          "index": 404,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Elena owns a life policy on her child and pays its premiums. A juvenile payor benefit can protect those premium payments if the covered adult payer dies or becomes disabled as specified in the rider. The child is the insured under the base life policy, while the payor rider addresses the adult's qualifying event. Suppose this hypothetical rider continues covered premiums only until the child's twenty-first birthday. That age belongs to the stated rider, not a universal rule. A parent's death does not trigger the child's base death benefit while the child is living. Confirm which adult is covered, the rider's eligibility requirements and the actual ending conditions."
+          }
+        },
+        {
+          "index": 405,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "A sample rider requires total disability for six consecutive months before benefits qualify. An insured disabled for two months has not yet met that particular duration requirement. Another rider may use different terms. Distinguish the waiting period from a maximum benefit period and distinguish the insured's age limit from a child's payor-benefit ending age. The producer should help the client identify the proper claim process and required proof without inventing approval. For an exam scenario, trace the same sequence each time: identify the covered person, confirm the stated trigger, apply the timing conditions and identify the exact benefit. Waived premiums, waived charges, income and payor protection are related but different."
+          }
+        }
+      ]
+    },
+    "jobs": {
+      "jobs": [
+        {
+          "index": 400,
+          "job_id": "a5a756f6-2efc-40a2-ae0a-7c9556a29e10",
+          "status": "pending"
+        },
+        {
+          "index": 401,
+          "job_id": "dcd84002-4fcd-4443-be68-e5205540eda7",
+          "status": "pending"
+        },
+        {
+          "index": 402,
+          "job_id": "b1a2ce25-e5d3-43ea-8c33-81407bb2fb3a",
+          "status": "pending"
+        },
+        {
+          "index": 403,
+          "job_id": "15fb1a1a-e4cb-4a7f-a028-75812ca3b13b",
+          "status": "pending"
+        },
+        {
+          "index": 404,
+          "job_id": "ecdec709-838d-48ef-9198-dd3b9f938273",
+          "status": "pending"
+        },
+        {
+          "index": 405,
+          "job_id": "35bad405-0966-4aaa-9205-da7c558996ad",
+          "status": "pending"
+        }
+      ],
+      "submitted_count": 6,
+      "failed_count": 0
+    },
+    "results": {
+      "jobs": [
+        {
+          "index": 400,
+          "job_id": "a5a756f6-2efc-40a2-ae0a-7c9556a29e10",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_070206_a5a756f6-2efc-40a2-ae0a-7c9556a29e10.mp3"
+        },
+        {
+          "index": 401,
+          "job_id": "dcd84002-4fcd-4443-be68-e5205540eda7",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_070206_dcd84002-4fcd-4443-be68-e5205540eda7.mp3"
+        },
+        {
+          "index": 402,
+          "job_id": "b1a2ce25-e5d3-43ea-8c33-81407bb2fb3a",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_070206_b1a2ce25-e5d3-43ea-8c33-81407bb2fb3a.mp3"
+        },
+        {
+          "index": 403,
+          "job_id": "15fb1a1a-e4cb-4a7f-a028-75812ca3b13b",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_070206_15fb1a1a-e4cb-4a7f-a028-75812ca3b13b.mp3"
+        },
+        {
+          "index": 404,
+          "job_id": "ecdec709-838d-48ef-9198-dd3b9f938273",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_070206_ecdec709-838d-48ef-9198-dd3b9f938273.mp3"
+        },
+        {
+          "index": 405,
+          "job_id": "35bad405-0966-4aaa-9205-da7c558996ad",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_070206_35bad405-0966-4aaa-9205-da7c558996ad.mp3"
+        }
+      ],
+      "summary": {
+        "total": 6,
+        "completed": 6,
+        "failed": 0,
+        "active": 0,
+        "errors": 0
+      },
+      "all_terminal": true
+    },
+    "repairs": null
+  }
+]

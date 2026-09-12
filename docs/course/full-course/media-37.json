@@ -1,0 +1,36 @@
+{
+  "number": 37,
+  "duration": "267.460000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/918f0c34-eb60-4893-aaa3-271b88653c6f.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/d97df1fb-400a-4ead-bc99-88ceaca069db.png",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/9142f6b3-23f7-4ddd-a6df-4d5ca18a0cc2.jpg",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/8f0a85d2-df07-43e0-91a0-ab6efda0b1f5.zip",
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "267.460000",
+      "size": "22208158"
+    }
+  },
+  "review": {
+    "layouts": "All eight scenario and teaching frames visually inspected; calculations, option comparisons, flow and circular logo checked.",
+    "decode": "Complete FFmpeg decode passed.",
+    "speech": "All six sections compared against script; a mispronounced phrase was replaced, the opening was paced more slowly, and secondary transcription confirmed the corrected terminology and full ending.",
+    "analysis": "Optional whole-video service queued; independent complete speech comparison, native frame inspection, full decode and player checks passed. Follow-up analysis remains tracked.",
+    "player": "Chromium required-question, native ended-event, wrong-answer/retry, first-answer history, resume/completion reload and mobile caption/dialog checks passed without page errors."
+  },
+  "status": "ready",
+  "coordinatorApproval": null
+}

@@ -2927,6 +2927,14 @@
       {
         "lesson": "22",
         "title": "Expense loading is not a guaranteed policy dividend"
+      },
+      {
+        "lesson": "39",
+        "title": "Participation is eligibility, not a promised payment"
+      },
+      {
+        "lesson": "39",
+        "title": "A dividend scale is not the owner’s personal return"
       }
     ],
     "questions": [
@@ -2937,6 +2945,10 @@
       {
         "lesson": "22",
         "id": "L22-02"
+      },
+      {
+        "lesson": "39",
+        "id": "L39-01"
       }
     ],
     "coordinatorApproval": null
@@ -5748,211 +5760,1083 @@
   {
     "id": "5.4.01",
     "title": "Cash surrender",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "37",
+        "title": "A cash-value policy can offer more than cancellation"
+      },
+      {
+        "lesson": "37",
+        "title": "Cash surrender ends the surrendered protection"
+      },
+      {
+        "lesson": "37",
+        "title": "Read the election deadline and automatic default"
+      },
+      {
+        "lesson": "37",
+        "title": "Match the choice to the stated objective"
+      },
+      {
+        "lesson": "37",
+        "title": "Nonforfeiture rights depend on the applicable insurance plan"
+      },
+      {
+        "lesson": "37",
+        "title": "Do not treat cash value as the entire death benefit"
+      },
+      {
+        "lesson": "37",
+        "title": "Maryland’s statutory minimums are not promises of zero earlier value"
+      },
+      {
+        "lesson": "37",
+        "title": "Default and payment timing have separate rules"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "37",
+        "id": "L37-01"
+      },
+      {
+        "lesson": "37",
+        "id": "L37-02"
+      },
+      {
+        "lesson": "37",
+        "id": "L37-07"
+      },
+      {
+        "lesson": "37",
+        "id": "L37-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.4.02",
     "title": "Extended term",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "37",
+        "title": "A cash-value policy can offer more than cancellation"
+      },
+      {
+        "lesson": "37",
+        "title": "Extended term trades permanent duration for time"
+      },
+      {
+        "lesson": "37",
+        "title": "Read the election deadline and automatic default"
+      },
+      {
+        "lesson": "37",
+        "title": "Match the choice to the stated objective"
+      },
+      {
+        "lesson": "37",
+        "title": "Nonforfeiture rights depend on the applicable insurance plan"
+      },
+      {
+        "lesson": "37",
+        "title": "Use the actual table for extended-term duration"
+      },
+      {
+        "lesson": "37",
+        "title": "Maryland’s statutory minimums are not promises of zero earlier value"
+      },
+      {
+        "lesson": "37",
+        "title": "Default and payment timing have separate rules"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "37",
+        "id": "L37-03"
+      },
+      {
+        "lesson": "37",
+        "id": "L37-05"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.4.03",
     "title": "Reduced paid-up coverage",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "37",
+        "title": "A cash-value policy can offer more than cancellation"
+      },
+      {
+        "lesson": "37",
+        "title": "Reduced paid-up trades face amount for permanence"
+      },
+      {
+        "lesson": "37",
+        "title": "Read the election deadline and automatic default"
+      },
+      {
+        "lesson": "37",
+        "title": "Match the choice to the stated objective"
+      },
+      {
+        "lesson": "37",
+        "title": "Nonforfeiture rights depend on the applicable insurance plan"
+      },
+      {
+        "lesson": "37",
+        "title": "Reduced paid-up is different from a paid-up addition"
+      },
+      {
+        "lesson": "37",
+        "title": "Maryland’s statutory minimums are not promises of zero earlier value"
+      },
+      {
+        "lesson": "37",
+        "title": "Default and payment timing have separate rules"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "37",
+        "id": "L37-04"
+      },
+      {
+        "lesson": "37",
+        "id": "L37-05"
+      },
+      {
+        "lesson": "37",
+        "id": "L37-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.5.01",
     "title": "Cash-value loan",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "38",
+        "title": "A policy loan uses the policy as security"
+      },
+      {
+        "lesson": "38",
+        "title": "Count principal and unpaid interest at the claim"
+      },
+      {
+        "lesson": "38",
+        "title": "Read Maryland’s interest and notice rules carefully"
+      },
+      {
+        "lesson": "38",
+        "title": "Maryland’s statutory loan conditions have a defined scope"
+      },
+      {
+        "lesson": "38",
+        "title": "Do not subtract the same debt twice"
+      },
+      {
+        "lesson": "38",
+        "title": "Policy-loan rate limits must be read together"
+      },
+      {
+        "lesson": "38",
+        "title": "Notice, termination and deferral are separate matters"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "38",
+        "id": "L38-01"
+      },
+      {
+        "lesson": "38",
+        "id": "L38-02"
+      },
+      {
+        "lesson": "38",
+        "id": "L38-07"
+      },
+      {
+        "lesson": "38",
+        "id": "L38-08"
+      },
+      {
+        "lesson": "38",
+        "id": "L38-09"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.5.02",
     "title": "Automatic premium loan",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "38",
+        "title": "An automatic premium loan pays a premium with debt"
+      },
+      {
+        "lesson": "38",
+        "title": "Read Maryland’s interest and notice rules carefully"
+      },
+      {
+        "lesson": "38",
+        "title": "Provision required is different from use required"
+      },
+      {
+        "lesson": "38",
+        "title": "An automatic premium loan is not nonforfeiture or disability waiver"
+      },
+      {
+        "lesson": "38",
+        "title": "Notice, termination and deferral are separate matters"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "38",
+        "id": "L38-03"
+      },
+      {
+        "lesson": "38",
+        "id": "L38-04"
+      },
+      {
+        "lesson": "38",
+        "id": "L38-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.5.03",
     "title": "Partial withdrawal/surrender",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "38",
+        "title": "A withdrawal removes value instead of creating a loan"
+      },
+      {
+        "lesson": "38",
+        "title": "A partial withdrawal can affect future funding"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "38",
+        "id": "L38-05"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.5.04",
     "title": "Educational loans",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "38",
+        "title": "Using a loan for education does not change its mechanics"
+      },
+      {
+        "lesson": "38",
+        "title": "An educational use is still an insurance transaction"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "38",
+        "id": "L38-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.5.05",
     "title": "Required automatic option referenced by the outline",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "38",
+        "title": "An automatic premium loan pays a premium with debt"
+      },
+      {
+        "lesson": "38",
+        "title": "Read Maryland’s interest and notice rules carefully"
+      },
+      {
+        "lesson": "38",
+        "title": "Provision required is different from use required"
+      },
+      {
+        "lesson": "38",
+        "title": "An automatic premium loan is not nonforfeiture or disability waiver"
+      },
+      {
+        "lesson": "38",
+        "title": "Notice, termination and deferral are separate matters"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "38",
+        "id": "L38-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.6.01",
     "title": "Cash dividend",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "39",
+        "title": "Participation is eligibility, not a promised payment"
+      },
+      {
+        "lesson": "39",
+        "title": "Cash and premium reduction solve different needs"
+      },
+      {
+        "lesson": "39",
+        "title": "Read the available choices and default election"
+      },
+      {
+        "lesson": "39",
+        "title": "A dividend scale is not the owner’s personal return"
+      },
+      {
+        "lesson": "39",
+        "title": "Read Maryland’s actual list and timing"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "39",
+        "id": "L39-03"
+      },
+      {
+        "lesson": "39",
+        "id": "L39-09"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.6.02",
     "title": "Premium reduction",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "39",
+        "title": "Cash and premium reduction solve different needs"
+      },
+      {
+        "lesson": "39",
+        "title": "Earlier paid-up status requires sufficient actual values"
+      },
+      {
+        "lesson": "39",
+        "title": "Read the available choices and default election"
+      },
+      {
+        "lesson": "39",
+        "title": "Read Maryland’s actual list and timing"
+      },
+      {
+        "lesson": "39",
+        "title": "Paid up is stronger than a projection of no out-of-pocket payments"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "39",
+        "id": "L39-02"
+      },
+      {
+        "lesson": "39",
+        "id": "L39-07"
+      },
+      {
+        "lesson": "39",
+        "id": "L39-09"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.6.03",
     "title": "Interest accumulation",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "39",
+        "title": "Accumulation leaves the dividend to earn interest"
+      },
+      {
+        "lesson": "39",
+        "title": "Read the available choices and default election"
+      },
+      {
+        "lesson": "39",
+        "title": "Read Maryland’s actual list and timing"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "39",
+        "id": "L39-04"
+      },
+      {
+        "lesson": "39",
+        "id": "L39-09"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.6.04",
     "title": "One-year term purchase",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "39",
+        "title": "One-year term and paid-up additions buy different coverage"
+      },
+      {
+        "lesson": "39",
+        "title": "Read the available choices and default election"
+      },
+      {
+        "lesson": "39",
+        "title": "One-year term is an available-contract feature"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "39",
+        "id": "L39-05"
+      },
+      {
+        "lesson": "39",
+        "id": "L39-09"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.6.05",
     "title": "Paid-up additions",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "39",
+        "title": "One-year term and paid-up additions buy different coverage"
+      },
+      {
+        "lesson": "39",
+        "title": "Earlier paid-up status requires sufficient actual values"
+      },
+      {
+        "lesson": "39",
+        "title": "Read the available choices and default election"
+      },
+      {
+        "lesson": "39",
+        "title": "Read Maryland’s actual list and timing"
+      },
+      {
+        "lesson": "39",
+        "title": "A dividend can buy more insurance than its dollar amount"
+      },
+      {
+        "lesson": "39",
+        "title": "Paid up is stronger than a projection of no out-of-pocket payments"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "39",
+        "id": "L39-06"
+      },
+      {
+        "lesson": "39",
+        "id": "L39-09"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.6.06",
     "title": "Paid-up insurance",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "39",
+        "title": "Earlier paid-up status requires sufficient actual values"
+      },
+      {
+        "lesson": "39",
+        "title": "Read the available choices and default election"
+      },
+      {
+        "lesson": "39",
+        "title": "Paid up is stronger than a projection of no out-of-pocket payments"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "39",
+        "id": "L39-07"
+      },
+      {
+        "lesson": "39",
+        "id": "L39-08"
+      },
+      {
+        "lesson": "39",
+        "id": "L39-09"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.7.01",
     "title": "Premium waiver",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "40",
+        "title": "Start with whose condition activates the rider"
+      },
+      {
+        "lesson": "40",
+        "title": "Premium waiver removes the qualifying premium obligation"
+      },
+      {
+        "lesson": "40",
+        "title": "Read the claim conditions before choosing the answer"
+      },
+      {
+        "lesson": "40",
+        "title": "Definitions and proof vary"
+      },
+      {
+        "lesson": "40",
+        "title": "Waiver does not authorize premature nonpayment"
+      },
+      {
+        "lesson": "40",
+        "title": "Keep the different clocks separate"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "40",
+        "id": "L40-01"
+      },
+      {
+        "lesson": "40",
+        "id": "L40-05"
+      },
+      {
+        "lesson": "40",
+        "id": "L40-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.7.02",
     "title": "Cost-of-insurance waiver",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "40",
+        "title": "Start with whose condition activates the rider"
+      },
+      {
+        "lesson": "40",
+        "title": "A cost waiver does not deposit the planned premium"
+      },
+      {
+        "lesson": "40",
+        "title": "An income rider supplies a separate payment benefit"
+      },
+      {
+        "lesson": "40",
+        "title": "Read the claim conditions before choosing the answer"
+      },
+      {
+        "lesson": "40",
+        "title": "Definitions and proof vary"
+      },
+      {
+        "lesson": "40",
+        "title": "Read the scope of monthly deductions"
+      },
+      {
+        "lesson": "40",
+        "title": "Income and waiver are separately measurable"
+      },
+      {
+        "lesson": "40",
+        "title": "Keep the different clocks separate"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "40",
+        "id": "L40-02"
+      },
+      {
+        "lesson": "40",
+        "id": "L40-05"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.7.03",
     "title": "Disability income benefit",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "40",
+        "title": "Start with whose condition activates the rider"
+      },
+      {
+        "lesson": "40",
+        "title": "An income rider supplies a separate payment benefit"
+      },
+      {
+        "lesson": "40",
+        "title": "Read the claim conditions before choosing the answer"
+      },
+      {
+        "lesson": "40",
+        "title": "Income and waiver are separately measurable"
+      },
+      {
+        "lesson": "40",
+        "title": "Keep the different clocks separate"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "40",
+        "id": "L40-03"
+      },
+      {
+        "lesson": "40",
+        "id": "L40-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.7.04",
     "title": "Juvenile payor life/disability benefit",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "40",
+        "title": "Juvenile payor protection follows the adult payer"
+      },
+      {
+        "lesson": "40",
+        "title": "Read the claim conditions before choosing the answer"
+      },
+      {
+        "lesson": "40",
+        "title": "Juvenile payor is about the covered adult’s event"
+      },
+      {
+        "lesson": "40",
+        "title": "Keep the different clocks separate"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "40",
+        "id": "L40-04"
+      },
+      {
+        "lesson": "40",
+        "id": "L40-07"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.8.01",
     "title": "Terminal or catastrophic illness",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "41",
+        "title": "An acceleration pays part of a life benefit earlier"
+      },
+      {
+        "lesson": "41",
+        "title": "Read the medical trigger instead of guessing"
+      },
+      {
+        "lesson": "41",
+        "title": "Keep acceleration and long-term care product rules distinct"
+      },
+      {
+        "lesson": "41",
+        "title": "Medical triggers are defined in the contract"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "41",
+        "id": "L41-01"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.8.02",
     "title": "Permanent confinement",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "41",
+        "title": "Read the medical trigger instead of guessing"
+      },
+      {
+        "lesson": "41",
+        "title": "Medical triggers are defined in the contract"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "41",
+        "id": "L41-02"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.8.03",
     "title": "ADL triggers",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "41",
+        "title": "Read the medical trigger instead of guessing"
+      },
+      {
+        "lesson": "41",
+        "title": "Daily activities are specific personal-care functions"
+      },
+      {
+        "lesson": "41",
+        "title": "Keep acceleration and long-term care product rules distinct"
+      },
+      {
+        "lesson": "41",
+        "title": "Medical triggers are defined in the contract"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "41",
+        "id": "L41-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.8.04",
     "title": "Written disclosures",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "41",
+        "title": "Disclosures come before an informed decision"
+      },
+      {
+        "lesson": "41",
+        "title": "Keep acceleration and long-term care product rules distinct"
+      },
+      {
+        "lesson": "41",
+        "title": "Maryland identifies disclosure timing and recipients"
+      },
+      {
+        "lesson": "41",
+        "title": "Concurrence and effectiveness have separate provisions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "41",
+        "id": "L41-05"
+      },
+      {
+        "lesson": "41",
+        "id": "L41-09"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.8.05",
     "title": "Death-benefit reduction",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "41",
+        "title": "An acceleration pays part of a life benefit earlier"
+      },
+      {
+        "lesson": "41",
+        "title": "The reduction can exceed the cash received"
+      },
+      {
+        "lesson": "41",
+        "title": "Compare all values under the actual financing method"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "41",
+        "id": "L41-01"
+      },
+      {
+        "lesson": "41",
+        "id": "L41-04"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.8.06",
     "title": "Effects on cash value",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "41",
+        "title": "Cash value, debt and premiums need their own review"
+      },
+      {
+        "lesson": "41",
+        "title": "Compare all values under the actual financing method"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "41",
+        "id": "L41-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.8.07",
     "title": "Loans and interest",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "41",
+        "title": "The reduction can exceed the cash received"
+      },
+      {
+        "lesson": "41",
+        "title": "Cash value, debt and premiums need their own review"
+      },
+      {
+        "lesson": "41",
+        "title": "Compare all values under the actual financing method"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "41",
+        "id": "L41-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.8.08",
     "title": "Tax treatment",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "41",
+        "title": "Disclosures come before an informed decision"
+      },
+      {
+        "lesson": "41",
+        "title": "Contract eligibility and federal tax eligibility are different questions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "41",
+        "id": "L41-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.8.09",
     "title": "Premium effects",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "41",
+        "title": "Cash value, debt and premiums need their own review"
+      },
+      {
+        "lesson": "41",
+        "title": "Disclosures come before an informed decision"
+      },
+      {
+        "lesson": "41",
+        "title": "Acceleration does not automatically waive premiums"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "41",
+        "id": "L41-07"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.9.01",
     "title": "Spouse or other-insured term rider",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "42",
+        "title": "One policy can contain coverage on different people"
+      },
+      {
+        "lesson": "42",
+        "title": "A spouse rider pays for the spouse’s covered death"
+      },
+      {
+        "lesson": "42",
+        "title": "Check what happens when the base policy changes"
+      },
+      {
+        "lesson": "42",
+        "title": "Insured, owner and beneficiary are separate roles"
+      },
+      {
+        "lesson": "42",
+        "title": "A rider’s term does not inherit the base policy’s duration"
+      },
+      {
+        "lesson": "42",
+        "title": "Base-policy termination and insured death can have different effects"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "42",
+        "id": "L42-01"
+      },
+      {
+        "lesson": "42",
+        "id": "L42-07"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.9.02",
     "title": "Children’s term rider",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "42",
+        "title": "One policy can contain coverage on different people"
+      },
+      {
+        "lesson": "42",
+        "title": "Children’s term often states a benefit for each child"
+      },
+      {
+        "lesson": "42",
+        "title": "Conversion protects an opportunity within stated limits"
+      },
+      {
+        "lesson": "42",
+        "title": "Check what happens when the base policy changes"
+      },
+      {
+        "lesson": "42",
+        "title": "Insured, owner and beneficiary are separate roles"
+      },
+      {
+        "lesson": "42",
+        "title": "Read the child-coverage unit correctly"
+      },
+      {
+        "lesson": "42",
+        "title": "Conversion examples are product-specific"
+      },
+      {
+        "lesson": "42",
+        "title": "Base-policy termination and insured death can have different effects"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "42",
+        "id": "L42-02"
+      },
+      {
+        "lesson": "42",
+        "id": "L42-03"
+      },
+      {
+        "lesson": "42",
+        "id": "L42-05"
+      },
+      {
+        "lesson": "42",
+        "id": "L42-06"
+      },
+      {
+        "lesson": "42",
+        "id": "L42-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "5.9.03",
     "title": "Family term rider",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "42",
+        "title": "One policy can contain coverage on different people"
+      },
+      {
+        "lesson": "42",
+        "title": "Family coverage is a structure, not one universal benefit"
+      },
+      {
+        "lesson": "42",
+        "title": "Check what happens when the base policy changes"
+      },
+      {
+        "lesson": "42",
+        "title": "Insured, owner and beneficiary are separate roles"
+      },
+      {
+        "lesson": "42",
+        "title": "A family package is not automatically a joint-life policy"
+      },
+      {
+        "lesson": "42",
+        "title": "Base-policy termination and insured death can have different effects"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "42",
+        "id": "L42-04"
+      },
+      {
+        "lesson": "42",
+        "id": "L42-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {

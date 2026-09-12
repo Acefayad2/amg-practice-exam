@@ -28,9 +28,9 @@
     "layouts": "All eight layout frames inspected. Workplace photo reframed so all three people remain visible; roles, arrows, text and circular logo checked.",
     "decode": "Complete FFmpeg decode passed.",
     "speech": "All six sections transcribed and compared; secondary small.en review resolved three uncertain readings. No material discrepancy remained.",
-    "analysis": "Submitted; pending.",
+    "analysis": "Completed: all 24 returned scenes reviewed against the final narrative, workplace framing and teaching sequence. Independent full-speech, frame and decode checks passed.",
     "player": "Chromium checks passed: required questions, native ended event, wrong answer and retry, first-answer history, saved position and completion reload, mobile captions and dialog, and no JavaScript errors."
   },
-  "status": "review",
+  "status": "ready",
   "coordinatorApproval": null
 }

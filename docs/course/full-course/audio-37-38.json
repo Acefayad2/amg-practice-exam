@@ -1,0 +1,347 @@
+[
+  {
+    "number": 37,
+    "requests": [
+      {
+        "index": 370,
+        "params": {
+          "model": "seed_audio",
+          "voice_type": "preset",
+          "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+          "format": "mp3",
+          "speech_rate": 5,
+          "prompt": "Marcus can no longer afford the continuing premiums on his whole life policy. Before he gives it up, he reviews its nonforfeiture choices. These choices use the value already built under the policy when premium payments stop. The familiar alternatives are taking available cash, using value for extended term insurance, or keeping a smaller amount of paid-up permanent insurance. They preserve different things. A no-cash-value term policy does not suddenly acquire those values because its premium is missed. Start with the actual policy, current values and any outstanding debt. Then compare what protection would remain under each available choice."
+        }
+      },
+      {
+        "index": 371,
+        "params": {
+          "model": "seed_audio",
+          "voice_type": "preset",
+          "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+          "format": "mp3",
+          "speech_rate": 5,
+          "prompt": "Cash surrender pays the available surrender amount to the owner and ends the surrendered policy's protection. It is not an advance death claim. Suppose the insurer's statement shows twelve thousand dollars available before a separately listed two thousand dollar policy debt, with no other adjustment. The net cash payment is ten thousand dollars. If the quoted amount already includes that debt, do not deduct it again. Surrender can also have tax consequences, addressed in the tax lessons. The owner should understand the lost death protection before signing. A later change of mind does not create an automatic right to reinstate a cash-surrendered policy."
+        }
+      },
+      {
+        "index": 372,
+        "params": {
+          "model": "seed_audio",
+          "voice_type": "preset",
+          "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+          "format": "mp3",
+          "speech_rate": 5,
+          "prompt": "Under the simplified extended-term choice, the available value buys term protection at the original face amount for as long as that value purchases. No further premiums are required for that purchased period. Assume a debt-free policy with a one hundred thousand dollar face amount. Its actual table offers one hundred thousand dollars of extended term for eight years. A covered death in year seven falls within that period. Death in year nine does not. Eight years comes from this hypothetical table, not a universal formula. Debt, additions and the contract can affect the actual benefit and duration."
+        }
+      },
+      {
+        "index": 373,
+        "params": {
+          "model": "seed_audio",
+          "voice_type": "preset",
+          "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+          "format": "mp3",
+          "speech_rate": 5,
+          "prompt": "Reduced paid-up insurance uses available value to continue a smaller amount of permanent life protection with no further required premiums for that reduced base benefit. Assume the same policy offers thirty-two thousand dollars of reduced paid-up whole life. The family gives up part of the former one hundred thousand dollar amount but keeps the smaller permanent benefit. This is different from paying the final scheduled premium on a limited-pay contract and keeping its original promised amount. It is also different from purchasing paid-up additions with a dividend. Review whether riders continue and how debt affects the actual option."
+        }
+      },
+      {
+        "index": 374,
+        "params": {
+          "model": "seed_audio",
+          "voice_type": "preset",
+          "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+          "format": "mp3",
+          "speech_rate": 5,
+          "prompt": "Maryland's standard nonforfeiture provision gives the specified election opportunity within sixty days after the due date of the premium in default. If the entitled person does not choose another available option in that period, the policy's specified paid-up nonforfeiture benefit takes effect. Do not automatically name extended term as the required default for every Maryland policy. Read the policy's own provision and the statute's applicability rules. The standard statute also distinguishes paid-up benefit eligibility from ordinary and industrial cash-surrender minimums. A more favorable contract may provide value earlier. Contact the insurer promptly while the choice remains available."
+        }
+      },
+      {
+        "index": 375,
+        "params": {
+          "model": "seed_audio",
+          "voice_type": "preset",
+          "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+          "format": "mp3",
+          "speech_rate": 5,
+          "prompt": "Marcus compares the three hypothetical offers. If his stated priority is ten thousand dollars of immediate net cash and ending this protection, cash surrender matches that objective. If he wants the stated one hundred thousand dollar benefit for the next eight years without more premiums, extended term matches it. If he wants some permanent protection without continuing premiums, the thirty-two thousand dollar reduced paid-up option matches that goal. Those are exam comparisons using supplied facts, not a recommendation for every family. Review current protection needs, remaining resources, tax effects and the actual written values before an owner makes a real decision."
+        }
+      }
+    ],
+    "jobs": {
+      "jobs": [
+        {
+          "index": 370,
+          "job_id": "655987ce-14dc-4c25-a794-4d59e46830e0",
+          "status": "pending"
+        },
+        {
+          "index": 371,
+          "job_id": "bba623d2-623c-43fb-b631-89cdbe150d75",
+          "status": "pending"
+        },
+        {
+          "index": 372,
+          "job_id": "26450af0-d48e-4008-a621-a08ae8fa4c13",
+          "status": "pending"
+        },
+        {
+          "index": 373,
+          "job_id": "d60297a8-f55e-45f8-8626-f7f33c6a8199",
+          "status": "pending"
+        },
+        {
+          "index": 374,
+          "job_id": "bcf8f2ee-d80d-4e0f-ba2c-359fa8a615d8",
+          "status": "pending"
+        },
+        {
+          "index": 375,
+          "job_id": "2187b440-452a-476b-a8ec-5b96e9ca8f53",
+          "status": "pending"
+        }
+      ],
+      "submitted_count": 6,
+      "failed_count": 0
+    },
+    "results": {
+      "jobs": [
+        {
+          "index": 370,
+          "job_id": "655987ce-14dc-4c25-a794-4d59e46830e0",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_063744_655987ce-14dc-4c25-a794-4d59e46830e0.mp3"
+        },
+        {
+          "index": 371,
+          "job_id": "bba623d2-623c-43fb-b631-89cdbe150d75",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_063744_bba623d2-623c-43fb-b631-89cdbe150d75.mp3"
+        },
+        {
+          "index": 372,
+          "job_id": "26450af0-d48e-4008-a621-a08ae8fa4c13",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_063744_26450af0-d48e-4008-a621-a08ae8fa4c13.mp3"
+        },
+        {
+          "index": 373,
+          "job_id": "d60297a8-f55e-45f8-8626-f7f33c6a8199",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_063744_d60297a8-f55e-45f8-8626-f7f33c6a8199.mp3"
+        },
+        {
+          "index": 374,
+          "job_id": "bcf8f2ee-d80d-4e0f-ba2c-359fa8a615d8",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_063744_bcf8f2ee-d80d-4e0f-ba2c-359fa8a615d8.mp3"
+        },
+        {
+          "index": 375,
+          "job_id": "2187b440-452a-476b-a8ec-5b96e9ca8f53",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_063744_2187b440-452a-476b-a8ec-5b96e9ca8f53.mp3"
+        }
+      ],
+      "summary": {
+        "total": 6,
+        "completed": 6,
+        "failed": 0,
+        "active": 0,
+        "errors": 0
+      },
+      "all_terminal": true
+    },
+    "repairs": {
+      "jobs": [
+        {
+          "index": 374,
+          "job_id": "cbc85642-e551-4462-94b1-b96fa61ec763",
+          "status": "completed",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_065210_cbc85642-e551-4462-94b1-b96fa61ec763.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "number": 38,
+    "requests": [
+      {
+        "index": 380,
+        "params": {
+          "model": "seed_audio",
+          "voice_type": "preset",
+          "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+          "format": "mp3",
+          "speech_rate": 5,
+          "prompt": "Marcus wants money for a family expense while keeping his life policy. If his contract has sufficient available loan value and he has the required rights, he can request a policy loan. The insurer advances money with the policy as security. This is different from an unrelated bank loan and different from withdrawing part of the policy's value. Policy debt carries interest and affects the amount ultimately available on surrender or death. The face amount alone does not establish how much Marcus can borrow. Read the current loan value, existing debt, applicable rate and conditions before explaining the available amount."
+        }
+      },
+      {
+        "index": 381,
+        "params": {
+          "model": "seed_audio",
+          "voice_type": "preset",
+          "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+          "format": "mp3",
+          "speech_rate": 5,
+          "prompt": "Assume a covered death benefit of two hundred thousand dollars. The policy has twenty thousand dollars of unpaid loan principal and one thousand dollars of accrued unpaid loan interest. With no other adjustments, the net benefit is one hundred seventy-nine thousand dollars. Leaving out the interest would overstate the payment. A policy loan does not always require scheduled repayment like a bank installment loan, but unpaid debt still has consequences. Interest can be added to principal under the contract. If debt consumes the available value, the policy can face termination under the applicable conditions and notice requirements. Monitor the actual statements."
+        }
+      },
+      {
+        "index": 382,
+        "params": {
+          "model": "seed_audio",
+          "voice_type": "preset",
+          "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+          "format": "mp3",
+          "speech_rate": 5,
+          "prompt": "Marcus misses a premium after previously electing his policy's automatic premium loan provision. If the provision's conditions are met and enough value is available, the insurer makes a loan to pay that premium. The protection can continue, but the owner now owes policy debt and interest. This is not a free premium waiver. Maryland requires policies subject to its loan section to provide this provision, except the stated weekly-premium category, and makes its use subject to the entitled person's election. The section excludes term policies, term riders and industrial life. Do not present it as an automatic benefit on every life policy."
+        }
+      },
+      {
+        "index": 383,
+        "params": {
+          "model": "seed_audio",
+          "voice_type": "preset",
+          "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+          "format": "mp3",
+          "speech_rate": 5,
+          "prompt": "Elena requests a partial withdrawal from a universal life policy that permits it. A withdrawal takes value out permanently under that transaction instead of recording a loan balance to repay. It may reduce the death benefit, incur charges and make future funding less secure under the contract. A full surrender instead ends the surrendered policy's protection. Whole life may allow access through different features, such as surrendering paid-up additions, rather than the same universal-life withdrawal mechanism. Identify the actual feature before quoting an effect. The same five thousand dollar cash need can produce different continuing obligations under a loan and a withdrawal."
+        }
+      },
+      {
+        "index": 384,
+        "params": {
+          "model": "seed_audio",
+          "voice_type": "preset",
+          "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+          "format": "mp3",
+          "speech_rate": 5,
+          "prompt": "Marcus considers borrowing five thousand dollars against available policy value to help pay tuition. Paying a college bill does not transform that advance into a scholarship, federal student loan or tax-favored education account. It remains a policy loan with its own interest, effect on benefits and risk if debt grows. Compare the family's remaining protection needs and other funding resources before committing. The word educational describes the intended use in this example, not a universal separate policy rider. A producer should explain the real terms and avoid promising unlimited or cost-free access to the policy's death benefit."
+        }
+      },
+      {
+        "index": 385,
+        "params": {
+          "model": "seed_audio",
+          "voice_type": "preset",
+          "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+          "format": "mp3",
+          "speech_rate": 5,
+          "prompt": "Maryland's modern policy-loan interest provision permits either the specified fixed maximum or an adjustable maximum calculated under the statute. Do not call six percent the universal cap for every policy loan. The contract must identify its applicable rate mechanism. Adjustable-rate loans have notice and adjustment rules. The standard loan provision also addresses termination when total debt reaches the loan value, including at least thirty days' notice to the specified parties. A loan for paying a premium is treated differently from other loans under the six-month deferral provision. Identify the transaction and controlling section before choosing a deadline or interest rule."
+        }
+      }
+    ],
+    "jobs": {
+      "jobs": [
+        {
+          "index": 380,
+          "job_id": "765b43a1-a39d-47c4-9a59-ea746ee90121",
+          "status": "pending"
+        },
+        {
+          "index": 381,
+          "job_id": "a6a264b1-a44b-4c1d-94fa-c820253bdb8e",
+          "status": "pending"
+        },
+        {
+          "index": 382,
+          "job_id": "606fbaa8-6347-43f1-a542-7c0a9b43f77d",
+          "status": "pending"
+        },
+        {
+          "index": 383,
+          "job_id": "f713fef8-2560-4fd4-8ead-3e31336f6f96",
+          "status": "pending"
+        },
+        {
+          "index": 384,
+          "job_id": "23cf2063-00da-4a60-99e9-ed61711fd019",
+          "status": "pending"
+        },
+        {
+          "index": 385,
+          "job_id": "dcd31f33-4f75-4233-8ef1-8b3f90d3ea7b",
+          "status": "pending"
+        }
+      ],
+      "submitted_count": 6,
+      "failed_count": 0
+    },
+    "results": {
+      "jobs": [
+        {
+          "index": 380,
+          "job_id": "765b43a1-a39d-47c4-9a59-ea746ee90121",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_064200_765b43a1-a39d-47c4-9a59-ea746ee90121.mp3"
+        },
+        {
+          "index": 381,
+          "job_id": "a6a264b1-a44b-4c1d-94fa-c820253bdb8e",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_064200_a6a264b1-a44b-4c1d-94fa-c820253bdb8e.mp3"
+        },
+        {
+          "index": 382,
+          "job_id": "606fbaa8-6347-43f1-a542-7c0a9b43f77d",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_064200_606fbaa8-6347-43f1-a542-7c0a9b43f77d.mp3"
+        },
+        {
+          "index": 383,
+          "job_id": "f713fef8-2560-4fd4-8ead-3e31336f6f96",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_064200_f713fef8-2560-4fd4-8ead-3e31336f6f96.mp3"
+        },
+        {
+          "index": 384,
+          "job_id": "23cf2063-00da-4a60-99e9-ed61711fd019",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_064200_23cf2063-00da-4a60-99e9-ed61711fd019.mp3"
+        },
+        {
+          "index": 385,
+          "job_id": "dcd31f33-4f75-4233-8ef1-8b3f90d3ea7b",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_064200_dcd31f33-4f75-4233-8ef1-8b3f90d3ea7b.mp3"
+        }
+      ],
+      "summary": {
+        "total": 6,
+        "completed": 6,
+        "failed": 0,
+        "active": 0,
+        "errors": 0
+      },
+      "all_terminal": true
+    },
+    "repairs": null
+  }
+]

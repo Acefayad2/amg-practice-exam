@@ -1,0 +1,36 @@
+{
+  "number": 33,
+  "duration": "274.752000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/e30790f3-c71f-4088-9b84-334a0d65ee80.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/81f2ea12-389f-4cce-aa25-e28fadb88cce.png",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/5918cac6-23a2-49c7-ba9c-7848b2461978.jpg",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/954f1aba-607b-4c15-a73f-85d45204d571.zip",
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "274.752000",
+      "size": "22281893"
+    }
+  },
+  "review": {
+    "layouts": "All eight frames visually inspected. Opening graphic changed from flow to comparison to distinguish designation types without implying a third succession rank. Survival timeline, text and circular logo verified.",
+    "decode": "Complete FFmpeg decode passed.",
+    "speech": "All six sections compared. A confirmed repeated phrase in section 4 was replaced; complete small.en review confirmed the repaired narrative and resolved a spurious initial base-transcription word. Per-stirpes spelling was reviewed separately.",
+    "analysis": "Optional whole-video service queued; independent complete speech comparison, native frame inspection, full decode and player checks passed. Follow-up analysis remains tracked.",
+    "player": "Chromium required-question, native ended-event, wrong-answer/retry, first-answer history, resume/completion reload and mobile caption/dialog checks passed without page errors."
+  },
+  "status": "ready",
+  "coordinatorApproval": null
+}
