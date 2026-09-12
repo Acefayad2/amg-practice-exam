@@ -28,3 +28,11 @@ Tested with a separate Playwright browser session, including a 390×844 mobile v
 `npm run build` passed. The main practice application's output bundle remains `index-VD5SXPZA.js`.
 
 Progress is local to the learner's browser. Video-ended gating permits seeking and does not verify full watch time. This is a formative learning workflow, not account-backed certification or protection against manual browser-state edits. Licensing-coordinator review of the teaching and pacing remains the next step before rebuilding Part 2.
+
+## Circular logo correction
+
+- Native elliptical masks were checked on the opening, diagram and recap frames; the gold ring and dark center remain, with the surrounding rectangle removed.
+- Re-rendered video remains 1920×1080 at 24fps and 256.044 seconds. Full decode passed with no diagnostics or compositor fallbacks.
+- Original and corrected AAC packet hashes match: e4bf34d447bb9cfdb4d63ced64c2468f89757669542426a4dffd3d5a87fc9f51.
+- The reported 3:45 issue was not reproduced as a visible fault in quarter-second source frames around 3:42–3:50 or continuous browser playback from 3:41–3:52. The browser recorded one dropped frame and a waiting event at the initial seek only; no media error. This does not establish that the user’s reported glitch is resolved.
+- Zero additional generation credits. Questions, captions, narration and browser progress schema are unchanged.

@@ -18,7 +18,7 @@ export default async ({ project }) => {
     {txt(1720,66,100,36,n,25,C.gold,700)}
   </>;
   const footer=()=> <>
-    <media file={logo} x={70} y={814} width={146} height={137} fit="contain"/>
+    <media file={logo} x={70} y={814} width={146} height={137} fit="contain" mask={{shape:"ellipse",x:21.34,y:14.22,width:103.32,height:103.32}}/>
     {txt(248,868,1200,38,'MARYLAND LIFE  ·  UNDERSTAND THE CONCEPT',21,C.muted,600)}
     {line(248,936,1572,C.line)}
   </>;
@@ -28,7 +28,7 @@ export default async ({ project }) => {
   };
   p.cut(film,{from:0,dur:12,at:0,fit:'cover'});
   p.compose(<frame width={1920} height={1080} layout="none">
-    <media file={logo} x={64} y={729} width={195} height={183} fit="contain"/>
+    <media file={logo} x={64} y={729} width={195} height={183} fit="contain" mask={{shape:"ellipse",x:28.5,y:19,width:138,height:138}}/>
     {box(1020,60,800,126,C.ink)}
     {txt(1050,78,740,32,'PART 1  /  MEET MARCUS',22,'#bde8dd',700)}
     {txt(1050,122,740,47,'A family. A financial responsibility.',31,C.white,600)}

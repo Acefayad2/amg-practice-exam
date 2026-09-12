@@ -10,7 +10,7 @@ https://amg-exam-portal.netlify.app/course/lesson-01/
 
 - 4 minutes 16 seconds of video: a client scene, Gideon narration and animated diagrams.
 - Marcus is a fictional Black working father with a medium-brown complexion, neat beard and navy shirt. Aisha remains the Black female agent in cream. His professionalism is conveyed through behavior and styling.
-- The gold circular AMG logo stays at bottom-left. English captions and a complete transcript accompany the video.
+- The gold circular AMG logo stays at bottom-left with the outer black rectangle removed. English captions and a complete transcript accompany the video.
 - The eight original formative questions now each have four options and per-option explanations. They open in a dialog after the video ends.
 - Every question must be answered correctly after review/retries before the learner can select Finish Part 1. First answers and attempt counts are preserved separately.
 - Closing the dialog, refreshing, or answering incorrectly does not complete the part. Learners can reopen the questions. A new practice attempt clears the answers and completion, retaining the finished-video state.
@@ -50,3 +50,7 @@ The earlier 15-second client scene cost 37.5 credits and remains in GitHub histo
 - NAIC life insurance overview: https://content.naic.org/insurance-topics/life-insurance
 
 These support general concepts. Examples and questions are original. The coordinator should review content, pacing, casting and difficulty before this format is applied to Part 2. No exam-pass guarantee or approved prelicensing credit is claimed.
+
+## Logo correction — September 12
+
+The opening and all diagrams now clip the logo to its gold circle. This edit used zero additional generation credits; the original soundtrack is preserved byte for byte. Lesson progress still uses version 2 and is not reset. A reported glitch near 3:45 remains under investigation pending a description of the sound or picture problem.
