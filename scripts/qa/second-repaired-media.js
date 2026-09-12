@@ -12,7 +12,7 @@ async page => {
     const check=(ok,label)=>{if(!ok)throw Error('Part '+n+': '+label);checks++;};
     await page.setViewportSize({width:390,height:844});
     await page.goto(base+'/course/lesson-'+id+'/?review=20260913',{waitUntil:'domcontentloaded'});
-    await page.waitForFunction(()=>window.AMG_LESSON&&document.querySelector('video')?.readyState>=1&&document.querySelector('track')?.track.cues?.length>0,null,{timeout:60000});
+    await page.waitForFunction(()=>window.AMG_LESSON&&document.querySelector('video')?.readyState>=1&&document.querySelector('track')?.readyState===2&&document.querySelector('track').track.cues?.length>0,null,{timeout:60000});
     const state=await page.evaluate(()=>{const v=document.querySelector('video'),d=window.AMG_LESSON;return{number:d.number,video:d.video,currentSrc:v.currentSrc,duration:v.duration,expectedDuration:d.duration,questionCount:d.questions.length,cues:Array.from(document.querySelector('track').track.cues).map(c=>({start:c.startTime,end:c.endTime,text:c.text}))};});
     check(state.number===n,'correct lesson');check(state.currentSrc===state.video,'current export loaded');
     check(state.duration>=180&&state.duration<=300,'3–5 minute media');check(Math.abs(state.duration-state.expectedDuration)<1,'manifest duration');

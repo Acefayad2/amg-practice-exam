@@ -1,8 +1,8 @@
 # AMG Maryland LIFE course — coordinator review summary
 
-**Review date: September 13, 2026. Status: extensive second review and targeted repairs completed; integrated production publication is being verified. Coordinator approval is tracked separately.**
+**Review date: September 13, 2026. Status: extensive second review and targeted repairs completed, pushed to GitHub and verified live on Netlify. Coordinator approval is tracked separately.**
 
-The course contains **60 lessons, 512 required lesson questions, a 32-question diagnostic and three 90-question timed mock exams**. The review found specific content, presentation and usability issues and addressed them without remaking the course or changing its narrator. Every replacement has its own verification record; final publication identifiers are recorded below after deployment.
+The course contains **60 lessons, 512 required lesson questions, a 32-question diagnostic and three 90-question timed mock exams**. The review found specific content, presentation and usability issues and addressed them without remaking the course or changing its narrator. Every replacement has its own verification record; publication identifiers and live checks are recorded below.
 
 ## What was checked
 
@@ -54,11 +54,12 @@ At roughly **two hours per study day, allow three to four weeks** for the fuller
 
 **Validate with real learners.** No exam-outcome pilot, measured learner timing study or licensing-coordinator approval has been supplied. The application's readiness target is a study aid, not a validated pass predictor; completion cannot guarantee passage. Progress is stored in the learner's browser, so it should not be treated as a central company attendance or compliance record. Use a coordinator pilot to assess difficult concepts, timing and results before making outcome claims.
 
-## Release record — pending lead verification
+## Verified release record
 
 - All nine replacement videos passed their documented final-file checks. The integrated repaired-media/caption player check passed **152 local browser assertions across 11 affected lessons**, with zero page errors. [Ten-lesson result](local-repaired-media-results.json), [Part 60 result](local-part60-results.json).
 - Final runtime: **16,463.048 seconds / 4h 34m 23.048s**. All **3,926 caption cues** passed final timing, reading-speed, exact wording preservation and source/public parity checks. [Final captions](final-caption-verification.json).
-- Integrated build, GitHub revision and Netlify deployment verification: **not yet recorded here**.
+- Build passed. Application revision: [`00ae816`](https://github.com/Acefayad2/amg-practice-exam/commit/00ae816cebdfc5274bb1701c141ededebbc2b4bf). Netlify production deploy: `6aa5ca0117e0443dfba1335a`. [Live course](https://amg-exam-portal.netlify.app/course/).
+- Production verification: **152 repaired-media browser assertions**, **16 course/dashboard smoke assertions**, zero page errors; **125/125** deployed data/caption/shared files exactly match the release by SHA-256. [Media check](live-repaired-media-final.json), [dashboard check](live-release-results.json), [asset check](live-asset-verification.json), [release record](release.json).
 - Licensing-coordinator approval and learner pilot: **not claimed**.
 
-The lead reviewer will update this record with verified replacement status, measured runtime and release identifiers. Earlier detailed reports retain the scope and timestamps of their own checks; a report describing a pre-repair file must not be read as approval of a later replacement.
+Earlier detailed reports retain the scope and timestamps of their own checks; original-media findings are superseded by the explicit replacement reports and final production evidence. The consolidated Part 9 browser check includes a repeat after its complete caption track loaded; this was a test-harness timing correction, with no product edit required.

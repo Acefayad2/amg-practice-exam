@@ -1,0 +1,39 @@
+{
+  "date": "2026-09-13",
+  "verifiedAtUTC": "2026-09-12T21:58:36.411362+00:00",
+  "applicationCommit": "00ae816cebdfc5274bb1701c141ededebbc2b4bf",
+  "repository": "https://github.com/Acefayad2/amg-practice-exam",
+  "netlify": {
+    "site_id": "40829c93-d6a6-4b8a-bbf7-c64e20d06701",
+    "site_name": "amg-exam-portal",
+    "deploy_id": "6aa5ca0117e0443dfba1335a",
+    "deploy_url": "https://6aa5ca0117e0443dfba1335a--amg-exam-portal.netlify.app",
+    "logs": "https://app.netlify.com/projects/amg-exam-portal/deploys/6aa5ca0117e0443dfba1335a",
+    "function_logs": "https://app.netlify.com/projects/amg-exam-portal/logs/functions",
+    "edge_function_logs": "https://app.netlify.com/projects/amg-exam-portal/logs/edge-functions",
+    "url": "https://amg-exam-portal.netlify.app"
+  },
+  "runtimeSeconds": 16463.048,
+  "lessons": 60,
+  "requiredLessonQuestions": 512,
+  "assessmentQuestions": 302,
+  "captionCues": 3926,
+  "replacementVideos": 9,
+  "generationCreditsSpent": 0.6,
+  "narratorChanged": false,
+  "checks": {
+    "lessonPlayerBrowserAssertions": 5936,
+    "assessmentIntegrityAssertions": 6410,
+    "assessmentBrowserAssertions": 380,
+    "finalLocalRepairedMediaAssertions": 152,
+    "finalLiveRepairedMediaAssertions": 152,
+    "liveReleaseAssertions": 16,
+    "exactLiveAssetMatches": 125,
+    "liveAssetErrors": 0
+  },
+  "limitations": [
+    "Full-file technical/speech checks and sampled visual inspection; no claim of continuous human playback or perfect lip synchronization.",
+    "No licensing-coordinator signoff, learner timing pilot or guaranteed exam result.",
+    "September 2026 law reviewed; Part 33 documents an October 1, 2026 law change for coordinator maintenance."
+  ]
+}

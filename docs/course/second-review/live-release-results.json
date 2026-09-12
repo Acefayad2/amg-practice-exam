@@ -1,0 +1,21 @@
+{
+  "checks": [
+    "60 live lesson links",
+    "Published study-time guide",
+    "Final measured video runtime displayed",
+    "All three study planning paths shown",
+    "Course and study guide fit mobile",
+    "Course navigation opens published dashboard",
+    "Diagnostic and three timed forms available",
+    "Live diagnostic starts",
+    "Live answer controls appear",
+    "Attempt resumes after refresh",
+    "Live assessment fits mobile",
+    "Final lesson continues to assessments",
+    "Final video loads with expected duration",
+    "48 live subsection evidence records",
+    "Coordinator page reflects final practice release",
+    "No browser errors on live routes"
+  ],
+  "errors": []
+}

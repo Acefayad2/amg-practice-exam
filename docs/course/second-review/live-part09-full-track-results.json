@@ -1,0 +1,15 @@
+{
+  "origin": "https://amg-exam-portal.netlify.app",
+  "lessons": 1,
+  "checks": 12,
+  "results": [
+    {
+      "number": 9,
+      "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/ab3e84ed-e005-4e98-998e-915b6b3b2572.mp4",
+      "duration": 275.592,
+      "cues": 62,
+      "checks": 12
+    }
+  ],
+  "errors": []
+}
