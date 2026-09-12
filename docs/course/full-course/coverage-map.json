@@ -3511,9 +3511,46 @@
       {
         "lesson": "23",
         "title": "Submit the file and explain what comes next"
+      },
+      {
+        "lesson": "25",
+        "title": "Payment alone does not answer the question"
+      },
+      {
+        "lesson": "25",
+        "title": "Use the conditional receipt’s starting point"
+      },
+      {
+        "lesson": "25",
+        "title": "Change the receipt and the answer may change"
+      },
+      {
+        "lesson": "25",
+        "title": "The dates in the example are assumptions"
+      },
+      {
+        "lesson": "25",
+        "title": "Approval-type and insurability-type wording differ"
       }
     ],
-    "questions": [],
+    "questions": [
+      {
+        "lesson": "25",
+        "id": "L25-01"
+      },
+      {
+        "lesson": "25",
+        "id": "L25-02"
+      },
+      {
+        "lesson": "25",
+        "id": "L25-03"
+      },
+      {
+        "lesson": "25",
+        "id": "L25-04"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
@@ -3573,15 +3610,75 @@
   {
     "id": "3.8.16",
     "title": "Delivery review and effective date",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "25",
+        "title": "Delivery can include outstanding conditions"
+      },
+      {
+        "lesson": "25",
+        "title": "Report changes and explain modified offers"
+      },
+      {
+        "lesson": "25",
+        "title": "Make delivery a useful client review"
+      },
+      {
+        "lesson": "25",
+        "title": "A modified offer needs the applicant’s response"
+      },
+      {
+        "lesson": "25",
+        "title": "Constructive delivery depends on the circumstances"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "25",
+        "id": "L25-05"
+      },
+      {
+        "lesson": "25",
+        "id": "L25-07"
+      },
+      {
+        "lesson": "25",
+        "id": "L25-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "3.8.17",
     "title": "Premium collection and good-health statement",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "25",
+        "title": "Delivery can include outstanding conditions"
+      },
+      {
+        "lesson": "25",
+        "title": "Report changes and explain modified offers"
+      },
+      {
+        "lesson": "25",
+        "title": "Make delivery a useful client review"
+      },
+      {
+        "lesson": "25",
+        "title": "A good-health statement must be truthful"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "25",
+        "id": "L25-05"
+      },
+      {
+        "lesson": "25",
+        "id": "L25-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
@@ -3850,148 +3947,666 @@
   {
     "id": "4.1.01",
     "title": "Level benefit",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "26",
+        "title": "Separate four questions about the policy"
+      },
+      {
+        "lesson": "26",
+        "title": "Level benefit and level premium are different"
+      },
+      {
+        "lesson": "26",
+        "title": "Match the benefit pattern to the need"
+      },
+      {
+        "lesson": "26",
+        "title": "Maryland requires clear term-expiry language"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "26",
+        "id": "L26-01"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.1.02",
     "title": "Annual renewal",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "26",
+        "title": "Level benefit and level premium are different"
+      },
+      {
+        "lesson": "26",
+        "title": "Renewal continues term protection"
+      },
+      {
+        "lesson": "26",
+        "title": "Renewal and conversion may have different deadlines"
+      },
+      {
+        "lesson": "26",
+        "title": "Renewable does not mean an unchanged price"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "26",
+        "id": "L26-02"
+      },
+      {
+        "lesson": "26",
+        "id": "L26-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.1.03",
     "title": "Level premium period",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "26",
+        "title": "Separate four questions about the policy"
+      },
+      {
+        "lesson": "26",
+        "title": "Level benefit and level premium are different"
+      },
+      {
+        "lesson": "26",
+        "title": "Maryland requires clear term-expiry language"
+      },
+      {
+        "lesson": "26",
+        "title": "Renewable does not mean an unchanged price"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "26",
+        "id": "L26-01"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.1.04",
     "title": "Conversion",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "26",
+        "title": "Conversion changes the kind of protection"
+      },
+      {
+        "lesson": "26",
+        "title": "Renewal and conversion may have different deadlines"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "26",
+        "id": "L26-04"
+      },
+      {
+        "lesson": "26",
+        "id": "L26-05"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.1.05",
     "title": "Decreasing benefit",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "26",
+        "title": "Match the benefit pattern to the need"
+      },
+      {
+        "lesson": "26",
+        "title": "Decreasing benefits can have level premiums"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "26",
+        "id": "L26-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.1.06",
     "title": "Increasing benefit",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "26",
+        "title": "Match the benefit pattern to the need"
+      },
+      {
+        "lesson": "26",
+        "title": "Increasing can mean a fixed addition or a percentage"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "26",
+        "id": "L26-07"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.1.07",
     "title": "Return-of-premium term",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "26",
+        "title": "A premium refund depends on the contract"
+      },
+      {
+        "lesson": "26",
+        "title": "Return-of-premium features are not all identical"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "26",
+        "id": "L26-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.2.01",
     "title": "Ordinary and continuous-pay whole life",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "27",
+        "title": "Start with how long the need lasts"
+      },
+      {
+        "lesson": "27",
+        "title": "Continuous pay spreads the required premiums"
+      },
+      {
+        "lesson": "27",
+        "title": "Cash value is not an extra automatic death payment"
+      },
+      {
+        "lesson": "27",
+        "title": "Paid-up and maturity describe different events"
+      },
+      {
+        "lesson": "27",
+        "title": "An illustration is not a paid-up guarantee"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "27",
+        "id": "L27-01"
+      },
+      {
+        "lesson": "27",
+        "id": "L27-07"
+      },
+      {
+        "lesson": "27",
+        "id": "L27-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.2.02",
     "title": "Limited-pay whole life",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "27",
+        "title": "Limited pay shortens payments, not protection"
+      },
+      {
+        "lesson": "27",
+        "title": "Cash value is not an extra automatic death payment"
+      },
+      {
+        "lesson": "27",
+        "title": "Paid-up and maturity describe different events"
+      },
+      {
+        "lesson": "27",
+        "title": "An illustration is not a paid-up guarantee"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "27",
+        "id": "L27-02"
+      },
+      {
+        "lesson": "27",
+        "id": "L27-03"
+      },
+      {
+        "lesson": "27",
+        "id": "L27-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.2.03",
     "title": "Interest-sensitive and current-assumption designs",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "28",
+        "title": "Current assumptions and guarantees are different"
+      },
+      {
+        "lesson": "28",
+        "title": "Review the policy instead of relying on a headline"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "28",
+        "id": "L28-04"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.2.04",
     "title": "Indexed/equity-indexed designs",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "28",
+        "title": "Indexed crediting uses a contract formula"
+      },
+      {
+        "lesson": "28",
+        "title": "Apply the stated formula before discussing results"
+      },
+      {
+        "lesson": "28",
+        "title": "Review the policy instead of relying on a headline"
+      },
+      {
+        "lesson": "28",
+        "title": "Separate indexed crediting from indexed benefit changes"
+      },
+      {
+        "lesson": "28",
+        "title": "A spread example must state its formula"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "28",
+        "id": "L28-05"
+      },
+      {
+        "lesson": "28",
+        "id": "L28-06"
+      },
+      {
+        "lesson": "28",
+        "id": "L28-07"
+      },
+      {
+        "lesson": "28",
+        "id": "L28-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.2.05",
     "title": "Graded premiums",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "27",
+        "title": "Graded premiums follow a changing schedule"
+      },
+      {
+        "lesson": "27",
+        "title": "The graded example states a level death benefit"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "27",
+        "id": "L27-05"
+      },
+      {
+        "lesson": "27",
+        "id": "L27-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.2.06",
     "title": "Single premiums",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "27",
+        "title": "Single premium completes funding at issue"
+      },
+      {
+        "lesson": "27",
+        "title": "Single premium does not settle tax classification"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "27",
+        "id": "L27-04"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.2.07",
     "title": "Variable whole life",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "29",
+        "title": "Variable describes investment exposure"
+      },
+      {
+        "lesson": "29",
+        "title": "Variable whole life can retain scheduled premiums"
+      },
+      {
+        "lesson": "29",
+        "title": "Variable universal life adds funding flexibility"
+      },
+      {
+        "lesson": "29",
+        "title": "Show how loss and charges combine"
+      },
+      {
+        "lesson": "29",
+        "title": "Review the documents and use the right authority"
+      },
+      {
+        "lesson": "29",
+        "title": "A fixed required premium is not a fixed investment result"
+      },
+      {
+        "lesson": "29",
+        "title": "Use the stated order for a calculation"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "29",
+        "id": "L29-01"
+      },
+      {
+        "lesson": "29",
+        "id": "L29-02"
+      },
+      {
+        "lesson": "29",
+        "id": "L29-03"
+      },
+      {
+        "lesson": "29",
+        "id": "L29-04"
+      },
+      {
+        "lesson": "29",
+        "id": "L29-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.2.08",
     "title": "Variable universal life",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "29",
+        "title": "Variable describes investment exposure"
+      },
+      {
+        "lesson": "29",
+        "title": "Variable universal life adds funding flexibility"
+      },
+      {
+        "lesson": "29",
+        "title": "Show how loss and charges combine"
+      },
+      {
+        "lesson": "29",
+        "title": "Review the documents and use the right authority"
+      },
+      {
+        "lesson": "29",
+        "title": "Variable universal life requires ongoing funding review"
+      },
+      {
+        "lesson": "29",
+        "title": "Use the stated order for a calculation"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "29",
+        "id": "L29-01"
+      },
+      {
+        "lesson": "29",
+        "id": "L29-03"
+      },
+      {
+        "lesson": "29",
+        "id": "L29-04"
+      },
+      {
+        "lesson": "29",
+        "id": "L29-05"
+      },
+      {
+        "lesson": "29",
+        "id": "L29-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.3.01",
     "title": "Adjustable life changes",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "29",
+        "title": "Adjustable protection follows the contract’s choices"
+      },
+      {
+        "lesson": "29",
+        "title": "Review the documents and use the right authority"
+      },
+      {
+        "lesson": "29",
+        "title": "Keep adjustable-life mechanics explicit"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "29",
+        "id": "L29-06"
+      },
+      {
+        "lesson": "29",
+        "id": "L29-07"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.3.02",
     "title": "Universal life funding, charges and guarantees",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "28",
+        "title": "A flexible payment does not remove the monthly costs"
+      },
+      {
+        "lesson": "28",
+        "title": "Trace a simplified account for one month"
+      },
+      {
+        "lesson": "28",
+        "title": "Current assumptions and guarantees are different"
+      },
+      {
+        "lesson": "28",
+        "title": "Apply the stated formula before discussing results"
+      },
+      {
+        "lesson": "28",
+        "title": "Review the policy instead of relying on a headline"
+      },
+      {
+        "lesson": "28",
+        "title": "The monthly arithmetic isolates each flow"
+      },
+      {
+        "lesson": "28",
+        "title": "A no-lapse guarantee has its own test"
+      },
+      {
+        "lesson": "28",
+        "title": "Read the death-benefit option"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "28",
+        "id": "L28-01"
+      },
+      {
+        "lesson": "28",
+        "id": "L28-02"
+      },
+      {
+        "lesson": "28",
+        "id": "L28-03"
+      },
+      {
+        "lesson": "28",
+        "id": "L28-06"
+      },
+      {
+        "lesson": "28",
+        "id": "L28-09"
+      },
+      {
+        "lesson": "28",
+        "id": "L28-10"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.4.01",
     "title": "Family protection and family plans",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "30",
+        "title": "One family can have several insured benefits"
+      },
+      {
+        "lesson": "30",
+        "title": "Family plan is a coverage arrangement"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "30",
+        "id": "L30-01"
+      },
+      {
+        "lesson": "30",
+        "id": "L30-02"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.4.02",
     "title": "First-death joint coverage",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "30",
+        "title": "First-death joint life pays at the first covered death"
+      },
+      {
+        "lesson": "30",
+        "title": "Two lives do not necessarily mean two payments"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "30",
+        "id": "L30-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.4.03",
     "title": "Last-survivor coverage",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "30",
+        "title": "Survivorship coverage waits for the last insured death"
+      },
+      {
+        "lesson": "30",
+        "title": "Two lives do not necessarily mean two payments"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "30",
+        "id": "L30-04"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.4.04",
     "title": "Juvenile and student coverage",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "30",
+        "title": "Juvenile life insures the child’s life"
+      },
+      {
+        "lesson": "30",
+        "title": "Juvenile ownership and consent are separate questions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "30",
+        "id": "L30-05"
+      },
+      {
+        "lesson": "30",
+        "id": "L30-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
@@ -4074,15 +4689,83 @@
   {
     "id": "4.6.01",
     "title": "Individual credit life",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "30",
+        "title": "Credit life connects protection to a specific debt"
+      },
+      {
+        "lesson": "30",
+        "title": "Use Maryland’s benefit and refund rules"
+      },
+      {
+        "lesson": "30",
+        "title": "Credit-life limits include specific exceptions"
+      },
+      {
+        "lesson": "30",
+        "title": "Determine who receives any excess"
+      },
+      {
+        "lesson": "30",
+        "title": "Early termination and delivery have distinct rules"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "30",
+        "id": "L30-08"
+      },
+      {
+        "lesson": "30",
+        "id": "L30-09"
+      },
+      {
+        "lesson": "30",
+        "id": "L30-10"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "4.6.02",
     "title": "Group credit life",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "30",
+        "title": "Credit life connects protection to a specific debt"
+      },
+      {
+        "lesson": "30",
+        "title": "Use Maryland’s benefit and refund rules"
+      },
+      {
+        "lesson": "30",
+        "title": "Credit-life limits include specific exceptions"
+      },
+      {
+        "lesson": "30",
+        "title": "Determine who receives any excess"
+      },
+      {
+        "lesson": "30",
+        "title": "Early termination and delivery have distinct rules"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "30",
+        "id": "L30-07"
+      },
+      {
+        "lesson": "30",
+        "id": "L30-09"
+      },
+      {
+        "lesson": "30",
+        "id": "L30-10"
+      }
+    ],
     "coordinatorApproval": null
   },
   {

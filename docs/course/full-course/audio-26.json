@@ -1,0 +1,120 @@
+{
+  "jobs": [
+    {
+      "index": 260,
+      "job_id": "e7c89444-5159-4c62-af45-08a15efdda10",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_045552_e7c89444-5159-4c62-af45-08a15efdda10.mp3"
+    },
+    {
+      "index": 261,
+      "job_id": "8a443a4b-132f-478b-8116-01e7c550a3e7",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_045552_8a443a4b-132f-478b-8116-01e7c550a3e7.mp3"
+    },
+    {
+      "index": 262,
+      "job_id": "20aab8bd-4c26-4eba-863d-8fdbde3ca431",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_045552_20aab8bd-4c26-4eba-863d-8fdbde3ca431.mp3"
+    },
+    {
+      "index": 263,
+      "job_id": "5808b9fa-ecdf-475d-af6e-03e7e5fef5a6",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_045552_5808b9fa-ecdf-475d-af6e-03e7e5fef5a6.mp3"
+    },
+    {
+      "index": 264,
+      "job_id": "5938ed86-2f91-48da-95ab-269f8bb24292",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_045552_5938ed86-2f91-48da-95ab-269f8bb24292.mp3"
+    },
+    {
+      "index": 265,
+      "job_id": "6417d5b8-f40a-4a9e-8f9d-6a69ab31a6ca",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_045552_6417d5b8-f40a-4a9e-8f9d-6a69ab31a6ca.mp3"
+    }
+  ],
+  "params": [
+    {
+      "index": 260,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Marcus wants protection while his children are financially dependent. A term policy covers a specified period if the contract stays in force. Ordinary term generally has no cash accumulation. Ask four separate questions: how long protection lasts, how the death benefit changes, how long the premium is guaranteed, and what rights exist afterward. A level benefit does not by itself promise a level premium forever. Read the schedules. Maryland also requires clear language about whether a death on the term's expiry date is covered. A single word such as term cannot settle all those questions."
+      }
+    },
+    {
+      "index": 261,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "A stated twenty-year policy keeps a five hundred thousand dollar death benefit and a guaranteed annual premium of six hundred dollars during that period. The benefit and premium are both level under these particular terms. If the contract permits renewal afterward at a higher scheduled rate, that does not extend the original six hundred dollar guarantee. Annual renewable term uses one-year periods and commonly increases its renewal premium as the insured ages. A lower starting premium should be compared with future costs and the length of the need, not treated as the price for every future year."
+      }
+    },
+    {
+      "index": 262,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "A renewable provision gives the owner the stated right to continue term coverage without new evidence of insurability. The right still has conditions, such as age limits, premium payment and the available renewal period. It does not guarantee the old premium or permit renewal after every stated limit. Maryland requires the actual renewal premiums to appear in an individual renewable term policy. Its rule has a separate provision for wholesale and group coverage. For Marcus, worsening health makes an available renewal right valuable, but he must still consider the renewal price and exercise the right on time."
+      }
+    },
+    {
+      "index": 263,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "A conversion provision allows an eligible owner to exchange term coverage for an available permanent policy without new evidence of insurability, within the stated limits. Conversion is different from renewing another term period. Marcus develops a medical condition but still has an available conversion right. He should check the deadline, eligible permanent products, allowed amount and premium basis. The new premium is commonly based on attained age, meaning his age at conversion, under the contract's rules. No new health evidence does not mean no new premium. Missing the conversion window can remove that particular right."
+      }
+    },
+    {
+      "index": 264,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "A decreasing term design reduces its death benefit according to a schedule, often to address a declining obligation. Its premium does not necessarily decrease; many designs keep it level. In an increasing term design, the benefit grows under the stated formula or schedule. These labels concern the benefit, not a cash-value account. Suppose a teaching policy starts at one hundred thousand dollars and adds five thousand dollars at each anniversary. After two increases, its benefit is one hundred ten thousand dollars. Use the stated formula rather than assuming every increasing design compounds a percentage."
+      }
+    },
+    {
+      "index": 265,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Return-of-premium term adds a contractual refund feature if the insured survives the stated period and the required conditions are met. It commonly costs more than otherwise comparable term without that feature. Do not promise a full refund after any early cancellation or assume every rider charge is included. In a simplified example, one thousand dollars of qualifying annual premiums paid for twenty years totals twenty thousand dollars. That arithmetic does not create a guaranteed investment return. Compare the protection, total cost, refund conditions and alternatives. The policy should fit the client's need and sustainable budget."
+      }
+    }
+  ]
+}

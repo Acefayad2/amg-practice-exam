@@ -20,6 +20,22 @@ export default async({project})=>{
  };
  const layout=(v)=>{
   const items=v.items;if(items.length<1||items.length>5)throw new Error('Unsupported item count');
+  if(v.type==='benefit_timeline'){
+   if(items.length!==3)throw new Error('A benefit timeline requires three comparisons');
+   const w=1640/3,gap=40;
+   return items.map(([a,b],j)=>{
+    const x=100+j*(w+gap),shape=['M 0 45 L 438 45','M 0 20 L 438 110','M 0 110 L 438 20'][j];
+    return appear(j*1.5,<>
+     {rect(x,290,w,482,j===1?C.wash:C.white)}
+     {text(x+35,328,w-70,85,a,40,C.ink,700)}
+     {text(x+55,419,w-110,35,'Death benefit',23,C.muted,500)}
+     <path x={x+55} y={468} width={w-110} height={134} d="M 0 0 L 0 130 L 438 130" stroke={{color:C.line,width:3}}/>
+     <path x={x+55} y={468} width={w-110} height={134} d={shape} stroke={{color:j===2?C.gold:C.teal,width:7,cap:'round'}}/>
+     {text(x+55,619,w-110,37,'Time →',23,C.muted,500)}
+     {text(x+35,683,w-70,70,wrap(b,27),27,C.ink,500)}
+    </>);
+   });
+  }
   if(v.type==='recap'||items.length>3){
    const rh=Math.min(124,500/items.length);
    return items.map(([a,b],j)=>appear(j*1.2,<>

@@ -1,0 +1,306 @@
+{
+  "requests": [
+    {
+      "index": 230,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Marcus applies for life insurance. The producer asks the questions on the approved application, records his answers and gathers the requested supporting facts. This is field underwriting. It helps the insurer evaluate the risk, but it does not give the producer unlimited authority to approve coverage. The producer's report records relevant observations and transaction information truthfully. A blank answer is not automatically a no. An unfamiliar medication is not a diagnosis the agent should invent. Ask for clarification and follow the carrier's process. Explain that underwriting and any temporary protection depend on their actual requirements."
+      }
+    },
+    {
+      "index": 231,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Elena notices that the application lists the wrong medication date. Correct it through the insurer's approved process and obtain the required acknowledgment. Never erase a material answer secretly after signature or ask a client to sign a blank form for later completion. Verify the proposed insured, owner and other required signatures and each person's authority. When more than one person completes a Maryland application, the signature area must identify the portion to which each signature applies. A lawful electronic signature process can be used when accepted. Convenience does not authorize signing someone else's name."
+      }
+    },
+    {
+      "index": 232,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Maryland treats statements in a life application as representations, not warranties. Health questions must use the applicant's knowledge and belief standard or include the required representation statement. That does not make false answers harmless. Under Maryland law, a fraudulent or material misstatement can affect recovery, and the statute also considers whether correct facts would have changed the insurer's good-faith decision to issue, price or cover the risk. Do not teach that fraud is the only possible problem. An agent should record the truth and refer an uncertain answer for clarification, not coach the applicant to hide it."
+      }
+    },
+    {
+      "index": 233,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "The applicant should understand what information may be collected, how it may be used and the rights described in the applicable notice. Giving an information-practices notice is not the same as obtaining every required authorization. A consumer report containing medical information requires the applicant's permission before the reporting agency provides it. If underwriting calls for an HIV test, use the appropriate informed-consent and confidentiality process rather than treating an ordinary signature as permission for every test. Explain the current carrier forms. Collect only relevant information through authorized channels and protect it from unnecessary disclosure."
+      }
+    },
+    {
+      "index": 234,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "An applicant wants a large cash-value policy, seems unconcerned about protection and asks how quickly an unrelated person can receive a surrender payment. This combination calls for the insurer's anti-money-laundering review. The federal insurance rule focuses on covered products, including individual permanent life and individual annuities, with the stated cash-value and investment features. It does not impose an identical rule on every insurance product. The insurer must integrate relevant agents and brokers into its program. Follow training, identity and customer-information procedures, document the facts and escalate concerns. Do not promise confidentiality that would defeat a required report."
+      }
+    },
+    {
+      "index": 235,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Before submission, check the plan, amount, riders, ownership, beneficiary information, answers, signatures, notices and any premium receipt. Tell Marcus what additional underwriting evidence may be needed. A submitted application is not the same as an issued policy or a promise of immediate coverage. If a consumer report contributes to an adverse decision, the required notice identifies the reporting agency and explains the consumer's report and dispute rights. The reporting agency did not make the insurer's decision. Help the applicant follow the review process while protecting privacy. Never solve a disappointing result by changing facts or hiding another application."
+      }
+    },
+    {
+      "index": 240,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "The underwriter reviews Marcus's application and the producer's report. A recent treatment answer may lead to an attending physician statement, often called an A P S. That statement comes from the treating medical professional and can clarify history, diagnosis, treatment or follow-up. It is different from the producer's observations and different from a newly ordered examination. The insurer may use several sources together. A producer should arrange the authorized process, not ask a client to rewrite the doctor's record. If information conflicts, obtain clarification through the proper source instead of choosing whichever version produces a better price."
+      }
+    },
+    {
+      "index": 241,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "An insurer may request an examination, laboratory information or other permitted evidence under its underwriting process. The requirements depend on the product, amount and applicant facts. No examination does not necessarily mean no underwriting. Accelerated processes can still evaluate authorized information. If an HIV test is required, follow the applicable informed-consent process and protect the result. An agent does not diagnose HIV from appearance, behavior or a laboratory number. Do not promise that a medical condition always produces a particular outcome. The insurer evaluates permitted evidence under its standards and the law, with the required authorizations and notices."
+      }
+    },
+    {
+      "index": 242,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "An investigative consumer report can include information gathered through personal interviews about character, general reputation, personal characteristics or mode of living. It is distinct from a physician's statement. Consumer-report rules protect access, accuracy and privacy. The insurer must have a permissible purpose and follow the applicable notice and disclosure requirements. If report information contributes to a denial, higher rate or other adverse action, the required notice identifies the reporting agency, states that it did not make the decision, and explains dispute and free-report rights. Even a partial contribution can trigger the notice."
+      }
+    },
+    {
+      "index": 243,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "M I B is a consumer-reporting source used by participating insurers. Its information can alert an underwriter to facts that need clarification, including a discrepancy with an application. It is not a complete medical chart and does not itself issue or deny the policy. Obtain the required permission for medical report information and investigate the actual facts through authorized sources. Marcus can request his consumer file and dispute inaccurate information using the stated process. Do not assume every person has a file, or that an old report proves the same circumstances exist today. Accurate current evidence matters."
+      }
+    },
+    {
+      "index": 244,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "A preferred risk meets the insurer's more favorable criteria and may qualify for a lower rate. A standard risk fits the insurer's ordinary assumptions for that class. A substandard risk is an accepted higher risk and may receive a rated premium or other permitted terms. A declined application means the insurer does not accept that application under its current requirements. Substandard and declined are not the same result. Classification depends on the actual carrier and product. A producer should explain the offered terms accurately and avoid promising that another insurer must make the same decision."
+      }
+    },
+    {
+      "index": 245,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "A higher premium is not automatically unfair discrimination when a lawful, supported risk difference explains it. But stereotypes and prohibited classifications are not underwriting evidence. Maryland protects applicants against specified unfair treatment and restricts use of domestic-violence information. An insurer cannot use a person's status as an abuse victim to impose the prohibited adverse treatment. The statute separately permits consideration of mental or physical medical conditions regardless of cause. It also does not require payment to someone who willfully caused the covered injury. Read the actual facts and rule. Fair underwriting combines relevant evidence, lawful standards and a clear explanation of the result."
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 230,
+      "job_id": "8a7b6906-dd5e-480c-9c1c-d4d9e41b82c6",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_043820_8a7b6906-dd5e-480c-9c1c-d4d9e41b82c6.mp3"
+    },
+    {
+      "index": 231,
+      "job_id": "3f8b8458-19e3-42b8-bb13-3f554280edf6",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_043820_3f8b8458-19e3-42b8-bb13-3f554280edf6.mp3"
+    },
+    {
+      "index": 232,
+      "job_id": "c0dfa80c-1467-4774-a481-32c631837426",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_043820_c0dfa80c-1467-4774-a481-32c631837426.mp3"
+    },
+    {
+      "index": 233,
+      "job_id": "e4b64207-0bcd-463d-8f87-01ade836def8",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_043820_e4b64207-0bcd-463d-8f87-01ade836def8.mp3"
+    },
+    {
+      "index": 234,
+      "job_id": "d8ab97d2-2667-408d-a8e7-e0c1467d9070",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_043820_d8ab97d2-2667-408d-a8e7-e0c1467d9070.mp3"
+    },
+    {
+      "index": 235,
+      "job_id": "5fda931a-abc3-4576-ac77-7e4328d07944",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_043820_5fda931a-abc3-4576-ac77-7e4328d07944.mp3"
+    },
+    {
+      "index": 240,
+      "job_id": "b3c60b90-28a3-494e-a160-e4e931fe0cfb",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_043951_b3c60b90-28a3-494e-a160-e4e931fe0cfb.mp3"
+    },
+    {
+      "index": 241,
+      "job_id": "bcf8ff1f-91f0-4d49-82bb-a97f33d34d5c",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_043951_bcf8ff1f-91f0-4d49-82bb-a97f33d34d5c.mp3"
+    },
+    {
+      "index": 242,
+      "job_id": "4ea81df1-ee73-4574-b04a-cb6a9e0723a7",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_043951_4ea81df1-ee73-4574-b04a-cb6a9e0723a7.mp3"
+    },
+    {
+      "index": 243,
+      "job_id": "1c8aa331-84d1-4c53-8b13-144b19ffaf24",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_043951_1c8aa331-84d1-4c53-8b13-144b19ffaf24.mp3"
+    },
+    {
+      "index": 244,
+      "job_id": "01a24535-923d-4b50-a223-687990d06622",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_043951_01a24535-923d-4b50-a223-687990d06622.mp3"
+    },
+    {
+      "index": 245,
+      "job_id": "41779b4d-82d8-450c-8af2-273b8d3e25bf",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_043951_41779b4d-82d8-450c-8af2-273b8d3e25bf.mp3"
+    }
+  ],
+  "costs": [
+    {
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "cost": {
+        "credits": 4.8,
+        "credits_exact": 4.8
+      }
+    },
+    {
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "error": "Request failed with status 503 Service Unavailable",
+      "error_code": "INVALID_ARGUMENT"
+    },
+    {
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "cost": {
+        "credits": 5,
+        "credits_exact": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "result": {
+    "id": "d3874e10-84a9-4fc9-99ef-707bce6c40ad",
+    "video_input_id": "10ee14b5-49f6-4b5d-9f83-13ab64ef42e4",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/10ee14b5-49f6-4b5d-9f83-13ab64ef42e4.mp4",
+    "scenes": [
+      {
+        "audio": "The underwriter reviews Marcus's application and the producer's report. A recent treatment answer may lead to an attending physician statement, often called an APS.",
+        "label": "Opening Hook",
+        "visual": "A man and a woman sit side-by-side at a light-colored wooden table in a brightly lit modern kitchen and dining space. The man, in his mid-40s with a dark complexion, short black hair, and a trimmed beard, wears a dark blue long-sleeve button-down shirt. The woman, in her late 30s with a medium complexion and long dark hair, wears a sage green long-sleeve button-down shirt. The woman holds a white document while the man points at the text with a silver pen. On the table, a silver laptop is open, next to a textured grey mug and a black notebook. The background features white cabinetry, a kitchen island with fruit, and soft warm interior lighting.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:07",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "That statement comes from the treating medical professional and can clarify history, diagnosis, treatment or follow-up.",
+        "label": "Product Information",
+        "visual": "A static graphic on a cream-colored background with a teal header. Three rectangular boxes are arranged horizontally. The first box, titled 'Application,' contains the text 'The applicant's responses.' The second, 'Producer report,' mentions 'Relevant field observations.' The third, 'Physician statement,' lists 'Treating clinician's information.' A teal vertical bar accents the left side of the frame.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:22",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "It is different from the producer's observations and different from a newly ordered examination.",
+        "label": "Product Information",
+        "visual": "The graphic from the previous scene remains static. The three information boxes are centered in the frame against the cream background. The teal header and side bar are consistent.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:35",
+        "timestamp_start": "0:22"
+      },
+      {
+        "audio": "The insurer may use several sources together. A producer should arrange the authorized process, not ask a client to rewrite the doctor's record. If information conflicts, obtain clarification through the proper source, instead of choosing whichever version produces a better price.",
+        "label": "Product Information",
+        "visual": "The same graphic of information source boxes continues. The lighting is artificial and even across the digital frame, with high contrast on the teal and dark grey text.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:48",
+        "timestamp_start": "0:35"
+      },
+      {
+        "audio": "An insurer may request an examination, laboratory information, or other permitted evidence under its underwriting process. The requirements depend on the product, amount, and applicant facts.",
+        "label": "Product Selling Points",
+        "visual": "A new static graphic appears with a teal header titled 'Medical evidence is handled through consent.' Three boxes are shown: 'No examination' (May still involve underwriting), 'Medical evidence' (Use authorized professional sources), and 'Testing result' (Protect confidentiality and follow process). The palette remains cream and teal.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "1:04",
+        "timestamp_start": "0:49"
+      },
+      {
+        "audio": "No examination does not necessarily mean no underwriting. Accelerated processes can still evaluate authorized information. If an HIV test is required, follow the applicable informed consent process and protect the result.",
+        "label": "Product Selling Points",
+        "visual": "The medical evidence graphic remains static. The layout is balanced with text clearly legible in the three boxes.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:19",
+        "timestamp_start": "1:04"
+      },
+      {
+        "audio": "An agent does not diagnose HIV from appearance, behavior, or a laboratory number. Do not promise that a medical condition always produces a particular outcome.",
+        "label": "Product Selling Points",
+        "visual": "The medical evidence graphic continues. The focus remains on the 'Testing result' and 'Medical evidence' boxes.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:33",
+        "timestamp_start": "1:19"
+      },
+      {
+        "audio": "The insurer evaluates permitted evidence under its standards and the law, with the required authorizations and notices.",
+        "label": "Product Selling Points",
+        "visual": "The medical evidence graphic remains on screen for the final summary of the section.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:39",
+        "timestamp_start": "1:33"
+      },
+      {
+        "audio": "An investigative consumer report can include information gathered through personal interviews about character, general reputation, personal characteristics, or mode of living.",
+        "label": "Problem Solving",
+        "visual": "A graphic flowchart appears on the cream background with the header 'A consumer report is not a policy decision.' Three numbered boxes are connected by teal arrows: '01 Information source' (Report from the reporting agency), '02 Decision maker' (The insurer assesses the application), and '03 Consumer rights' (Notice, report access and dispute).",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:55",
+        "timestamp_start": "1:40"
+      },
+      {
+        "audio": "It is distinct from a physician's statement. Consumer report rules protect access, accuracy, and privacy. The insurer must have a permissible purpose and follow the applicable notice and disclosure requirements.",
+        "label": "Problem Solving",
+        "visual": "The consumer report flowchart remains static, with the teal arrows showing the progression from information source to consumer rights.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "2:10",
+        "timestamp_start": "1:55"
+      },
+      {
+        "audio": "If report information contributes to a denial, higher rate, or other adverse action, the required notice identifies the reporting agency, states that it did not make the decision, and explains dispute and free report rights.",
+        "label": "Problem Solving",
+        "visual": "The consumer report flowchart graphic continues, highlighting the consumer rights section.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "2:25",
+        "timestamp_start": "2:10"
+      },
+      {
+        "audio": "Even a partial contribution can trigger the notice.",
+        "label": "Problem Solving",
+        "visual": "Final static view of the flowchart graphic.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:28",
+        "timestamp_start": "2:25"
+      },
+      {
+        "audio": "MIB is a consumer reporting source used by participating insurers. Its information can alert an underwriter to facts that need clarification, including a discrepancy with an application.",
+        "label": "Usage Scenarios",
+        "visual": "A static graphic with the teal header 'MIB information helps identify discrepancies.' Three boxes are displayed: 'MIB information' (Can identify facts needing clarification), 'Verification' (Resolve discrepancies through authorized sources), and 'Applicant rights' (Request and dispute report information).",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:44",
+        "timestamp_start": "2:29"
+      },
+      {
+        "audio": "It is not a complete medical chart and does not itself issue or deny the policy. Obtain the required permission for medical report information and investigate the actual facts through authorized sources.",
+        "label": "Usage Scenarios",
+        "visual": "The MIB information graphic remains static, focusing on the 'Verification' process box.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "2:59",
+        "timestamp_start": "2:44"
+      },
+      {
+        "audio": "Marcus can request his consumer file and dispute inaccurate information using the stated process. Do not assume every person has a file or that an old report proves the same circumstances exist today. Accurate current evidence matters.",
+        "label": "Usage Scenarios",
+        "visual": "The MIB information graphic continues, concluding the explanation of applicant rights.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "3:12",
+        "timestamp_start": "2:59"
+      },
+      {
+        "audio": "A preferred risk meets the insurer's more favorable criteria and may qualify for a lower rate. A standard risk fits the insurer's ordinary assumptions for that class.",
+        "label": "Real Experience",
+        "visual": "A graphic list appears under the header 'Classify the risk described by the facts.' It lists four categories: '01 Preferred' (Meets more favorable criteria), '02 Standard' (Fits the ordinary class assumptions), '03 Substandard' (Accepted at permitted higher-risk terms), and '04 Declined' (Application is not accepted).",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:28",
+        "timestamp_start": "3:13"
+      },
+      {
+        "audio": "A substandard risk is an accepted higher risk and may receive a rated premium or other permitted terms. A declined application means the insurer does not accept that application under its current requirements.",
+        "label": "Real Experience",
+        "visual": "The risk classification graphic remains static, showing the distinctions between substandard and declined applications.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:43",
+        "timestamp_start": "3:28"
+      },
+      {
+        "audio": "Substandard and declined are not the same result. Classification depends on the actual carrier and product. A producer should explain the offered terms accurately and avoid promising that another insurer must make the same decision.",
+        "label": "Real Experience",
+        "visual": "The risk classification list remains on screen for the final explanation of carrier decisions.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "3:56",
+        "timestamp_start": "3:43"
+      },
+      {
+        "audio": "A higher premium is not automatically unfair discrimination when a lawful, supported risk difference explains it.",
+        "label": "Call to Action",
+        "visual": "Return to the live-action scene from the beginning. The man and woman are seated at the table, leaning in to look at the documents together. The man gestures slightly with his hand while speaking. The lighting and environment are identical to scene 1.",
+        "shot_type": "Medium Shot",
+        "scene_number": 19,
+        "timestamp_end": "4:04",
+        "timestamp_start": "3:57"
+      },
+      {
+        "audio": "But stereotypes and prohibited classifications are not underwriting evidence. Maryland protects applicants against specified unfair treatment and restricts use of domestic violence information.",
+        "label": "Usage Scenarios",
+        "visual": "A final graphic appears with the header 'Fair selection has legal limits.' Three boxes: 'Permitted selection' (Relevant, lawful risk evidence), 'Protected status' (No prohibited abuse-victim penalty), and 'Medical condition' (Apply the statute's separate rule).",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "4:18",
+        "timestamp_start": "4:05"
+      },
+      {
+        "audio": "An insurer cannot use a person's status as an abuse victim to take an adverse action forbidden by the statute. The statute separately permits consideration of mental or physical medical conditions regardless of cause.",
+        "label": "Usage Scenarios",
+        "visual": "The legal limits graphic remains static, highlighting the protection of abuse victims and medical condition rules.",
+        "shot_type": "Wide Shot",
+        "scene_number": 21,
+        "timestamp_end": "4:32",
+        "timestamp_start": "4:18"
+      },
+      {
+        "audio": "It also does not require payment to someone who willfully caused the covered injury. Apply the actual facts and the legal rule. Fair underwriting combines relevant evidence, lawful standards, and a clear explanation of the result.",
+        "label": "Usage Scenarios",
+        "visual": "The final graphic remains on screen as the summary of fair underwriting concludes. The teal header and cream background are consistent with the previous graphics.",
+        "shot_type": "Wide Shot",
+        "scene_number": 22,
+        "timestamp_end": "4:44",
+        "timestamp_start": "4:32"
+      }
+    ]
+  }
+}

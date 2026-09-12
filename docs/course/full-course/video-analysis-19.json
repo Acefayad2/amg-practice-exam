@@ -1,0 +1,201 @@
+{
+  "result": {
+    "id": "21ed07d7-bca5-429c-8d57-339a452929ae",
+    "video_input_id": "eec46f55-7147-49b9-bdb7-e99a82000113",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/eec46f55-7147-49b9-bdb7-e99a82000113.mp4",
+    "scenes": [
+      {
+        "audio": "Marcus and Elena sit down with their household budget. They want the children to stay in their home and finish school if either parent dies.",
+        "label": "Opening Hook",
+        "visual": "A man in his 40s with dark skin, short dark hair, and a trimmed beard, wearing a navy blue button-down shirt, sits next to a woman in her 40s with light brown skin and long dark hair, wearing an olive green blouse. They are seated at a light wood table in a well-lit kitchen area with white tiles in the background. A laptop is open on the left, and the woman holds a paper document in the center which they both review. The man holds a silver pen. The lighting is soft and natural from the side, creating a warm, domestic atmosphere. The color grading is natural with muted earthy tones.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:08",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "The first step is fact-gathering. Income, expenses, debts, dependents, existing coverage, savings, goals, and an affordable premium.",
+        "label": "Product Information",
+        "visual": "Static camera angle on a graphic presentation. The background is off-white with a dark green vertical bar on the left. A list of numbered items (01 to 04) titled with a specific topic appears. Item 01 'People' and 02 'Obligations' are highlighted in light grey boxes with teal text descriptions. The design is minimalist and clean with a flat aesthetic.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:20",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "Include unpaid work such as childcare and household management. Losing that support can create a replacement cost even without losing a paycheck.",
+        "label": "Product Information",
+        "visual": "Same static graphic as the previous scene. Item 03 'Resources' is now highlighted. The overall color palette remains consistent with white, teal, and dark green. The layout is balanced and uses ample white space.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:30",
+        "timestamp_start": "0:20"
+      },
+      {
+        "audio": "The agent should understand who depends on each person and for how long. A product name or an income multiplier cannot answer those questions by itself.",
+        "label": "Product Information",
+        "visual": "Same static graphic as the previous scene. Item 04 'Time and budget' is highlighted. The text is crisp and easy to read. The lighting is digital and uniform across the frame.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:41",
+        "timestamp_start": "0:30"
+      },
+      {
+        "audio": "The human life value approach looks at the financial value of future earnings or contributions. A detailed estimate uses expected working years and present value assumptions,",
+        "label": "Product Selling Points",
+        "visual": "A new static graphic appears. It shows two white boxes titled 'Human life value' and 'Needs analysis' with descriptions below. A gold-bordered box highlights 'Human life value'. The design maintains the off-white background and clean typography.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:56",
+        "timestamp_start": "0:41"
+      },
+      {
+        "audio": "with appropriate adjustments for amounts not supporting survivors. The needs approach starts with the specific money the survivors would require, then subtracts resources available to meet those needs.",
+        "label": "Product Selling Points",
+        "visual": "The same graphic from the previous scene, but the focus shifts as a gold-bordered box highlights 'Needs analysis'. A third box on the right titled 'Both require' becomes visible. The layout is symmetrical and informative.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:10",
+        "timestamp_start": "0:56"
+      },
+      {
+        "audio": "These methods can produce different estimates because their assumptions differ. Neither number measures a person's worth. The purpose is to estimate a financial exposure. Make the assumptions visible and review them as the household's circumstances change.",
+        "label": "Product Selling Points",
+        "visual": "The same graphic continues. All three comparison boxes are fully visible. The color grading remains consistent with the educational theme of the video.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:25",
+        "timestamp_start": "1:10"
+      },
+      {
+        "audio": "The family identifies $150,000 for a mortgage payoff, $30,000 for final expenses and other debts, and $40,000 for education. Those stated lump-sum needs total $220,000.",
+        "label": "Usage Scenarios",
+        "visual": "A static graphic showing white cards on an off-white background. The first card on the left displays '$220,000' in large bold numbers. Below it is a description of lump-sum obligations. The aesthetic is professional and data-driven.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:40",
+        "timestamp_start": "1:25"
+      },
+      {
+        "audio": "They also estimate an ongoing income shortfall of $3,000 per month for 10 years. In a deliberately simplified calculation with no interest or inflation, that income need is $360,000.",
+        "label": "Usage Scenarios",
+        "visual": "The same graphic continues. A second card in the center appears showing '$360,000' with a teal bar on top. It details monthly calculations. The layout uses horizontal alignment to show the progression of the calculation.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:55",
+        "timestamp_start": "1:40"
+      },
+      {
+        "audio": "Keep the categories separate. If the mortgage is paid off, do not also include the same mortgage payments in the future monthly shortfall.",
+        "label": "Usage Scenarios",
+        "visual": "The same graphic continues. A third card on the right appears showing '$580,000', which is the sum of the first two cards. The visual elements are clear and logical.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "2:04",
+        "timestamp_start": "1:55"
+      },
+      {
+        "audio": "The simplified needs total is $580,000. The family identifies $80,000 of savings actually available for these needs and $100,000 of existing death protection assumed to remain in force.",
+        "label": "Usage Scenarios",
+        "visual": "Static graphic showing a new calculation. The first card on the left shows the '$580,000' combined need. A second card to the right shows '- $180,000' in bold text with a light grey background, representing available savings and coverage.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "2:19",
+        "timestamp_start": "2:04"
+      },
+      {
+        "audio": "Subtracting both leaves a $400,000 gap. This is a teaching example, not a quote or a recommendation. Verify whether employer coverage continues, whether assets have other commitments,",
+        "label": "Usage Scenarios",
+        "visual": "The same graphic continues. A final card on the right shows '$400,000' as the remaining gap. The visual hierarchy leads the eye from left to right through the subtraction process.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:33",
+        "timestamp_start": "2:19"
+      },
+      {
+        "audio": "and whether a survivor can realistically earn the assumed income. A resource should not be counted twice or treated as immediately available when access is restricted.",
+        "label": "Usage Scenarios",
+        "visual": "The same graphic remains on screen as the audio concludes the point. The composition is static and focuses entirely on the numerical data.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:43",
+        "timestamp_start": "2:33"
+      },
+      {
+        "audio": "A family may own a valuable home or business but have little ready cash. Liquidity means money is available to meet obligations without a forced sale.",
+        "label": "Product Selling Points",
+        "visual": "Static graphic with three vertical boxes titled 'Liquidity', 'Estate conservation', and 'Cash accumulation'. The 'Liquidity' box is highlighted with a gold bar on top. The design remains consistent with previous graphics.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "2:56",
+        "timestamp_start": "2:43"
+      },
+      {
+        "audio": "A life benefit may help with final expenses, debts, or applicable estate costs and help preserve assets for survivors. Estate planning also considers the owner, beneficiary, and legal arrangement.",
+        "label": "Product Selling Points",
+        "visual": "The same graphic continues, now with the center box 'Estate conservation' highlighted with a gold bar. The text explains asset preservation. The lighting is uniform and digital.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "3:10",
+        "timestamp_start": "2:56"
+      },
+      {
+        "audio": "It is broader than simply buying a policy. Some permanent policies offer cash accumulation during life, subject to their contract, charges and funding.",
+        "label": "Product Selling Points",
+        "visual": "The same graphic continues, with the rightmost box 'Cash accumulation' highlighted. The teal and gold accents pop against the white cards and off-white background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:25",
+        "timestamp_start": "3:10"
+      },
+      {
+        "audio": "Keep that feature distinct from the death benefit and from money guaranteed to be immediately accessible.",
+        "label": "Product Selling Points",
+        "visual": "The same three-box graphic remains on screen as the narration finishes the explanation of cash accumulation features.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:33",
+        "timestamp_start": "3:25"
+      },
+      {
+        "audio": "Social Security survivor benefits may help eligible spouses, children, or dependent parents based on the deceased worker's record. They do not automatically replace the household's full income.",
+        "label": "Real Experience",
+        "visual": "Returns to the live-action scene of the man and woman from Scene 1. They are still sitting at the table, leaning in toward each other as they study the paper. The man points to a specific line on the document with his pen. The lighting remains warm and domestic, emphasizing their collaborative focus.",
+        "shot_type": "Medium Shot",
+        "scene_number": 18,
+        "timestamp_end": "3:41",
+        "timestamp_start": "3:33"
+      },
+      {
+        "audio": "Eligibility, ages, work history, earnings, and family maximums can affect payment. A child's benefit and a surviving spouse's caregiving benefit can end at different times,",
+        "label": "Product Information",
+        "visual": "Static graphic with a numbered list (01 to 04). Items 01 'Eligibility' and 02 'Amount' are highlighted in light grey boxes. The left-hand dark green bar and minimalist design are used once more.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "3:55",
+        "timestamp_start": "3:41"
+      },
+      {
+        "audio": "creating an income gap. Use an actual benefit estimate and the expected payment period rather than assuming an amount. Then review the full plan: immediate needs, ongoing support, available resources,",
+        "label": "Product Information",
+        "visual": "The same static graphic continues. Item 03 'Duration' and 04 'Review' are highlighted. The visual flow is consistent with the earlier instructional segments.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "4:10",
+        "timestamp_start": "3:55"
+      },
+      {
+        "audio": "affordable coverage, and the changes that should trigger a new review.",
+        "label": "Product Information",
+        "visual": "The final graphic remains on screen, showing the complete list of government benefit verification steps. The video ends on this static, clean educational summary.",
+        "shot_type": "Wide Shot",
+        "scene_number": 21,
+        "timestamp_end": "4:18",
+        "timestamp_start": "4:10"
+      }
+    ]
+  }
+}

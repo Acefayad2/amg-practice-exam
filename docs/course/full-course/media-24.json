@@ -1,0 +1,36 @@
+{
+  "number": 24,
+  "duration": "283.877000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/10ee14b5-49f6-4b5d-9f83-13ab64ef42e4.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/7d878b09-54c8-44de-a7d9-a9905c57adf0.png",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/3a0b372e-0fbc-49d2-ad49-6bac198318cb.jpg",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/5df66216-7e79-4c40-8772-dd4af82664f0.zip",
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "283.877000",
+      "size": "22834814"
+    }
+  },
+  "review": {
+    "layouts": "All six teaching layouts and opening/closing photo compositions visually inspected; text, arrows and circular logo checked.",
+    "decode": "Complete FFmpeg decode passed.",
+    "speech": "All six sections checked. Spoken punctuation and a repeated word in the final section were regenerated and the replacement matched the script.",
+    "analysis": "Completed replacement scene analysis read and compared with the native narration and layouts; no material content discrepancy.",
+    "player": "Chromium checks passed: all required questions, native ended event, wrong answer and retry, first-answer history, resume and completion reload, mobile captions and dialog, no JavaScript errors."
+  },
+  "status": "ready",
+  "coordinatorApproval": null
+}

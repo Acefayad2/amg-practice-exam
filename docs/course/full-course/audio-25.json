@@ -1,0 +1,120 @@
+{
+  "jobs": [
+    {
+      "index": 250,
+      "job_id": "31fa7e58-f334-453e-95c5-5b15ad54be77",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_045326_31fa7e58-f334-453e-95c5-5b15ad54be77.mp3"
+    },
+    {
+      "index": 251,
+      "job_id": "8b495072-206e-431f-9d02-8f970aecc51f",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_045326_8b495072-206e-431f-9d02-8f970aecc51f.mp3"
+    },
+    {
+      "index": 252,
+      "job_id": "4b46f83b-66a9-402e-b5b8-8104b845a218",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_045326_4b46f83b-66a9-402e-b5b8-8104b845a218.mp3"
+    },
+    {
+      "index": 253,
+      "job_id": "0b7a2398-9d5b-42b5-9b26-1f29447a8e94",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_045326_0b7a2398-9d5b-42b5-9b26-1f29447a8e94.mp3"
+    },
+    {
+      "index": 254,
+      "job_id": "7301d11b-f7b7-4b38-8e2b-e04eae406f47",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_045326_7301d11b-f7b7-4b38-8e2b-e04eae406f47.mp3"
+    },
+    {
+      "index": 255,
+      "job_id": "4de4911f-0a44-4a1a-9dbe-497c155c333d",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_045326_4de4911f-0a44-4a1a-9dbe-497c155c333d.mp3"
+    }
+  ],
+  "params": [
+    {
+      "index": 250,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Marcus signs a life application and pays the requested initial premium. The producer gives him the insurer's receipt and explains its terms. That receipt may provide conditional protection, a defined temporary agreement or only the stated acknowledgment. It is not a blank promise that every death will be covered immediately. Identify the amount paid, the required signatures, eligibility conditions, benefit limits and termination events. A producer must stay within the insurer's actual authority. Never replace a written condition with a reassuring statement that the applicant is definitely covered."
+      }
+    },
+    {
+      "index": 251,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Consider a teaching receipt that requires the applicant to be insurable exactly as applied for on the later of the application date and the required examination date. All other stated conditions are assumed satisfied. Marcus applies and pays on June third, completes the examination on June seventh and receives approval on June twelfth. Under this example, the conditional starting date is June seventh. The later approval confirms that the stated insurability condition was met. Do not move every conditional receipt to the application date or approval date. Read the particular receipt."
+      }
+    },
+    {
+      "index": 252,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Now a different teaching receipt expressly requires home-office approval before any protection starts. The application and payment dates stay the same, but approval occurs on June twelfth. Apply that approval condition instead of borrowing the June seventh answer from the prior example. A separate temporary insurance agreement can have its own eligibility, amount and end date. None of these labels removes the need to read the terms. If an applicant dies while underwriting is pending, send the facts for a proper claim review. Pending underwriting does not by itself prove either coverage or no coverage."
+      }
+    },
+    {
+      "index": 253,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Elena submits an application without paying the initial premium and has no temporary insurance agreement. The insurer sends a policy for delivery subject to payment and the required confirmation of unchanged health. Mailing that policy to the producer does not prove these conditions are complete. Collect the required premium, obtain the truthful delivery documentation and follow the insurer's instructions. In a different case, unconditional release of an accepted policy for delivery may constitute constructive delivery. Distinguish unconditional release from a file with outstanding conditions. The physical handoff and the legal effective date are not always the same event."
+      }
+    },
+    {
+      "index": 254,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Before the conditional delivery is completed, Elena reports a new hospitalization. Do not have her sign an unchanged-health statement that is false. Follow the insurer's instructions and submit the new facts for review. If the insurer offers a different amount, premium or classification, explain the change and obtain the required acceptance. The applicant does not have to accept a modified offer simply because an application was signed. Likewise, a new fact does not authorize an agent to erase coverage that already became effective under a valid agreement. Resolve the status from the contract and the actual timeline."
+      }
+    },
+    {
+      "index": 255,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "At delivery, review the insured, owner, beneficiary, coverage amount, riders, premium schedule, guarantees and important limitations. Explain the applicable return right and how to contact the insurer. Check that the delivered policy matches the accepted offer and record the delivery through the approved process. A policy date may be used to measure anniversaries or insurance age; that printed date alone does not answer every coverage question. Keep the application date, receipt date, effective date and delivery date distinct. The client should leave knowing what is in force, what must be paid and which rights have a deadline."
+      }
+    }
+  ]
+}

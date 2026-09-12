@@ -1,0 +1,36 @@
+{
+  "number": 25,
+  "duration": "281.710000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/cdd8283f-2ed5-4840-a1d1-35b6e353bee5.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/93fbea98-ff19-4641-9263-8bf86688cfb5.png",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/af48677a-e827-4d11-97c5-1962ceb83322.jpg",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/ecb8dcd4-39d1-45cd-a76d-063021a35ec6.zip",
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "281.710000",
+      "size": "23043093"
+    }
+  },
+  "review": {
+    "layouts": "All six layouts and two photo compositions visually inspected; text, arrows, dates and circular logo checked.",
+    "decode": "Complete FFmpeg decode passed.",
+    "speech": "All six sections transcribed and compared. Secondary small.en review verified the unclear base transcription; no material speech discrepancy remained.",
+    "analysis": "Scene-analysis content was reviewed. Its claimed opening music and approximate speech times were not reliable: a fresh transcription of the final-video opening confirmed intended narration beginning at 0.0 seconds. Native source timing, caption alignment, all speech, layouts and final decode were used for verification.",
+    "player": "Chromium checks passed: all required questions, native ended event, wrong answer and retry, first-answer history, resume and completion reload, mobile captions and dialog, no JavaScript errors."
+  },
+  "status": "ready",
+  "coordinatorApproval": null
+}

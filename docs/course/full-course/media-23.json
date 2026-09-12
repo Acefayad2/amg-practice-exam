@@ -1,0 +1,36 @@
+{
+  "number": 23,
+  "duration": "284.334000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/652ad1c8-93b4-4bb1-a4c2-d9a1237afbc6.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/aa5ec7bd-93b3-412b-9034-ab714187b6ab.png",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/8dac0cad-9c73-4304-85b3-4ef771912e6c.jpg",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/0172668a-2a22-4664-9505-f94744896ab3.zip",
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "284.334000",
+      "size": "22767502"
+    }
+  },
+  "review": {
+    "layouts": "All six teaching layouts and opening/closing photo compositions visually inspected; text, arrows and circular logo checked.",
+    "decode": "Complete FFmpeg decode passed.",
+    "speech": "All six sections checked. An unintended phrase in the first section was regenerated; complete replacement rechecked.",
+    "analysis": "Completed scene analysis read and compared with the native timeline. No unresolved content discrepancy.",
+    "player": "Chromium checks passed: all required questions, native ended event, wrong answer and retry, first-answer history, resume and completion reload, mobile captions and dialog, no JavaScript errors."
+  },
+  "status": "ready",
+  "coordinatorApproval": null
+}

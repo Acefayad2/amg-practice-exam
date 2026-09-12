@@ -1,0 +1,47 @@
+{
+  "params": [
+    {
+      "index": 230,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Marcus is applying for a life policy. The producer asks the questions on the approved application, records his answers and gathers the requested supporting facts. This is field underwriting. It helps the insurer evaluate the risk, but it does not give the producer unlimited authority to approve coverage. The producer's report records relevant observations and transaction information truthfully. A blank answer is not automatically a no. An unfamiliar medication is not a diagnosis the agent should invent. Ask for clarification and follow the carrier's approved procedure. Explain that underwriting and any temporary protection depend on their actual requirements."
+      }
+    }
+  ],
+  "jobs": {
+    "jobs": [
+      {
+        "index": 230,
+        "job_id": "034b30bc-454f-4353-822b-ac8c99e10d0d",
+        "status": "pending"
+      }
+    ],
+    "submitted_count": 1,
+    "failed_count": 0
+  },
+  "status": {
+    "jobs": [
+      {
+        "index": 230,
+        "job_id": "034b30bc-454f-4353-822b-ac8c99e10d0d",
+        "status": "completed",
+        "type": "audio",
+        "model": "seed_audio",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_044549_034b30bc-454f-4353-822b-ac8c99e10d0d.mp3"
+      }
+    ],
+    "summary": {
+      "total": 1,
+      "completed": 1,
+      "failed": 0,
+      "active": 0,
+      "errors": 0
+    },
+    "all_terminal": true
+  },
+  "prep": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/3117282f-4ff0-42e5-8006-1697a371149b.zip"
+}

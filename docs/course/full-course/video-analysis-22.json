@@ -1,0 +1,264 @@
+{
+  "result": {
+    "id": "4980f06e-fa08-4e2e-a088-6212679d9138",
+    "video_input_id": "8276e087-b4f4-44bc-8d31-2d369e6b74b0",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/8276e087-b4f4-44bc-8d31-2d369e6b74b0.mp4",
+    "scenes": [
+      {
+        "audio": "Elena compares a personally owned whole life policy with coverage offered through work.",
+        "label": "Opening Hook",
+        "visual": "Static camera shot of a couple seated at a light-grained wooden table. A man, approximately 40-45 years old with dark skin, short black hair, and a groomed beard, wearing a navy blue button-up shirt, looks down at a document. Next to him, a woman, approximately 35-40 years old with an olive complexion and long dark brown hair, wearing a sage green blouse, holds a white sheet of paper and looks at it intently. A silver laptop is open to their left, and a white ceramic mug sits in the foreground. The lighting is soft and warm, coming from the side, and the background is a blurred home interior with natural light.",
+        "shot_type": "Medium Close-Up",
+        "scene_number": 1,
+        "timestamp_end": "0:08",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "Individual and group describe how coverage is arranged. Temporary and permanent describe the intended protection pattern.",
+        "label": "Product Selling Points",
+        "visual": "A digital educational slide with a white background and a teal header. The text 'One policy can have several labels' is in the header. Below, two numbered items appear: '01 Arrangement' with 'Individual or group' and '02 Duration' with 'Temporary or permanent'. The design is clean, using teal accents for numbers and category headers.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:20",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "Participating and non-participating describe whether the contract provides for policy dividends. Fixed and variable describe important differences in guarantees and investment risk.",
+        "label": "Product Selling Points",
+        "visual": "The same slide layout from the previous scene. Two more items appear: '03 Participation' with 'Policy dividends or nonparticipating' and '04 Investment design' with 'Fixed or variable features'. The font is black and sans-serif.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:30",
+        "timestamp_start": "0:20"
+      },
+      {
+        "audio": "These labels answer different questions. One policy can be individual, permanent, participating, and fixed at the same time.",
+        "label": "Product Selling Points",
+        "visual": "The slide remains visible with all four categories listed. The lighting is artificial and perfectly even across the digital frame. The colors are flat with high contrast between the white background and teal text elements.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:38",
+        "timestamp_start": "0:30"
+      },
+      {
+        "audio": "Ordinary life is a broad individual life category. Do not assume that every use of the word ordinary means one particular premium schedule.",
+        "label": "Product Selling Points",
+        "visual": "The slide content shifts slightly to explain categories. The layout remains static with the teal header at the top and the list of four labels centered vertically. No camera movement occurs.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:49",
+        "timestamp_start": "0:38"
+      },
+      {
+        "audio": "A participating life policy may pay dividends, but those dividends are not guaranteed merely because the policy participates.",
+        "label": "Product Selling Points",
+        "visual": "New slide titled 'Read guarantees and participation carefully'. A white box with a teal top border labeled 'Participating' appears on the left, containing the text 'Dividends may be paid; not guaranteed'.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "0:58",
+        "timestamp_start": "0:49"
+      },
+      {
+        "audio": "A fixed design provides the guarantees stated in its contract. The label does not erase charges, funding requirements, or exclusions.",
+        "label": "Product Selling Points",
+        "visual": "A second box labeled 'Fixed' appears in the center of the slide. It contains the text 'Read the actual contractual guarantees'. The color palette remains consistent with white and teal.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:08",
+        "timestamp_start": "0:58"
+      },
+      {
+        "audio": "Variable life uses investment options whose results can affect values and benefits within the policy's terms. The owner bears the specified investment risk.",
+        "label": "Product Selling Points",
+        "visual": "A third box labeled 'Variable' appears on the right of the slide. It contains the text 'Owner bears specified investment risk'. The three boxes are now aligned horizontally.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:20",
+        "timestamp_start": "1:08"
+      },
+      {
+        "audio": "Variable products also involve securities requirements in addition to insurance authority.",
+        "label": "Product Selling Points",
+        "visual": "The slide with the three boxes (Participating, Fixed, Variable) remains. The text within the boxes is clear and high-contrast. No physical movement is present in the scene.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:29",
+        "timestamp_start": "1:20"
+      },
+      {
+        "audio": "Before discussing price, know what protection, guarantees, charges, and risks are actually being compared. Similar labels do not prove identical contracts.",
+        "label": "Product Selling Points",
+        "visual": "The slide view remains static. The overall tone is academic and informational. The background is a clean white with no depth of field as it is a graphics-based shot.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "1:38",
+        "timestamp_start": "1:29"
+      },
+      {
+        "audio": "The insurer studies mortality—the expected pattern of deaths in the insured group. Interest assumptions reflect earnings on funds held before benefits are paid.",
+        "label": "Product Selling Points",
+        "visual": "New slide titled 'Three foundations of a life premium'. Three boxes appear sequentially: 'Mortality' (Expected timing and frequency of death), 'Interest' (Earnings before benefits are paid), and 'Expenses' (Costs of providing and servicing coverage).",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "1:50",
+        "timestamp_start": "1:38"
+      },
+      {
+        "audio": "Expenses include the costs of acquiring, administering, and servicing the business with appropriate pricing provisions.",
+        "label": "Product Selling Points",
+        "visual": "The slide with the three foundations is fully populated. The layout is balanced, with equal spacing between the boxes. The colors are muted teal and grey against the white background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:00",
+        "timestamp_start": "1:50"
+      },
+      {
+        "audio": "Holding other assumptions constant, higher expected mortality tends to increase the cost of death protection. Higher assumed interest can reduce the amount that must be collected now for the same future benefit.",
+        "label": "Product Selling Points",
+        "visual": "The graphics remain static while the voiceover explains the relationship between the foundations. The text is crisp, and the lighting is a simulated digital white.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:15",
+        "timestamp_start": "2:00"
+      },
+      {
+        "audio": "Greater expense needs increase the gross price. These are pricing relationships, not promises that the premium on an existing policy changes whenever market conditions move.",
+        "label": "Product Selling Points",
+        "visual": "The foundations slide remains on screen. The focus is entirely on the text content. No transitions or animations are currently occurring.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "2:24",
+        "timestamp_start": "2:15"
+      },
+      {
+        "audio": "Use a simplified one-year example. Assume a two-in-one-thousand chance of death and a $100,000 benefit paid at year end.",
+        "label": "Product Selling Points",
+        "visual": "New slide titled 'A net single premium isolates the benefit cost'. A large box on the left shows '$200' and the calculation '0.002 x $100,000 expected benefit'.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "2:32",
+        "timestamp_start": "2:24"
+      },
+      {
+        "audio": "The expected benefit cost is $200 per policy before expenses and discounting.",
+        "label": "Product Selling Points",
+        "visual": "The slide remains static. The graphics are simple, using bold black numbers and teal subtext. The background is a clean white canvas.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "2:40",
+        "timestamp_start": "2:32"
+      },
+      {
+        "audio": "If the explicitly assumed interest rate is 5%, dividing 200 by 1.05 gives a present value of about $190.48.",
+        "label": "Product Selling Points",
+        "visual": "A second box appears in the center showing 'divide by 1.05' and 'Discount one year at assumed 5%'. The visual layout continues to build across the screen from left to right.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "2:52",
+        "timestamp_start": "2:40"
+      },
+      {
+        "audio": "This illustrates a net single premium under the stated assumptions.",
+        "label": "Product Selling Points",
+        "visual": "A third box appears on the right showing '$190.48' and 'Illustrative net single premium'. All three steps of the calculation are now visible.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "3:03",
+        "timestamp_start": "2:52"
+      },
+      {
+        "audio": "Real-life pricing uses fuller mortality and timing data. It is not simply the face amount divided by a guessed lifespan.",
+        "label": "Product Selling Points",
+        "visual": "The full calculation remains on screen. The lighting is uniform. The slide design is professional and minimalist.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "3:17",
+        "timestamp_start": "3:03"
+      },
+      {
+        "audio": "A net single premium is paid once in the simplified model. A net level annual premium spreads funding over the assumed premium paying period while accounting for timing, interest, and the possibility that premiums stop at death.",
+        "label": "Product Selling Points",
+        "visual": "New slide titled 'Annual and gross premiums add other questions'. A diagram flow shows '01 Net benefit cost' connecting to '02 Payment pattern' (Single or a defined periodic stream).",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "3:32",
+        "timestamp_start": "3:17"
+      },
+      {
+        "audio": "The gross annual premium adds the applicable expense and other pricing provisions.",
+        "label": "Product Selling Points",
+        "visual": "A third step, '03 Gross price' (Add applicable pricing provisions), is added to the flowchart. The boxes are dark teal with white text.",
+        "shot_type": "Wide Shot",
+        "scene_number": 21,
+        "timestamp_end": "3:45",
+        "timestamp_start": "3:32"
+      },
+      {
+        "audio": "Do not compare a net single amount with a gross annual quote as if they describe the same payment.",
+        "label": "Product Selling Points",
+        "visual": "The flow diagram with three boxes is complete. The teal and white color scheme creates a cohesive look for the presentation.",
+        "shot_type": "Wide Shot",
+        "scene_number": 22,
+        "timestamp_end": "3:53",
+        "timestamp_start": "3:45"
+      },
+      {
+        "audio": "The insurer's actual quoted premium reflects the selected product, risk classification, benefit, guarantees, and payment arrangement. A teaching calculation explains a principle; it does not replace an insurer's approved quote.",
+        "label": "Product Selling Points",
+        "visual": "The diagram remains static. The font size is legible, and the screen layout is balanced with a high degree of symmetry.",
+        "shot_type": "Wide Shot",
+        "scene_number": 23,
+        "timestamp_end": "4:01",
+        "timestamp_start": "3:53"
+      },
+      {
+        "audio": "Elena can pay $480 annually or $42 monthly for the stated coverage.",
+        "label": "Product Information",
+        "visual": "Return to the scene with the man and woman from scene 1. The man is pointing at a document while the woman listens attentively. The lighting is soft and warm. The environment is a clean home setting with a wooden table, silver laptop, and ceramic mug visible in the frame.",
+        "shot_type": "Medium Close-Up",
+        "scene_number": 24,
+        "timestamp_end": "4:08",
+        "timestamp_start": "4:01"
+      },
+      {
+        "audio": "12 monthly payments total $504, which is $24 more per year.",
+        "label": "Product Selling Points",
+        "visual": "New slide titled 'Payment mode changes when money is collected'. Three boxes show: '$480' (Stated annual payment), '$504' ($42 monthly x 12), and '$24' (Additional yearly cost in this example).",
+        "shot_type": "Wide Shot",
+        "scene_number": 25,
+        "timestamp_end": "4:23",
+        "timestamp_start": "4:08"
+      },
+      {
+        "audio": "Payment mode means frequency, such as annual, semi-annual, quarterly, or monthly.",
+        "label": "Product Selling Points",
+        "visual": "The slide with the cost comparison remains. The layout uses vertical teal dividers to separate the three numerical examples.",
+        "shot_type": "Wide Shot",
+        "scene_number": 26,
+        "timestamp_end": "4:31",
+        "timestamp_start": "4:23"
+      },
+      {
+        "audio": "The monthly amount is not necessarily the annual premium divided by 12. Compare the total cost as well as affordability and the contract's payment conditions.",
+        "label": "Product Selling Points",
+        "visual": "The visual remains static. The text is clear and direct. The digital palette is consistent throughout the video.",
+        "shot_type": "Wide Shot",
+        "scene_number": 27,
+        "timestamp_end": "4:40",
+        "timestamp_start": "4:31"
+      },
+      {
+        "audio": "Keep the final distinctions clear. The product describes the coverage, pricing assumptions help determine its cost, and payment mode describes the schedule on which premiums are collected.",
+        "label": "Call to Action",
+        "visual": "A final summary slide appears. It restates three key points: 'The product describes the coverage', 'Pricing assumptions help determine its cost', and 'Payment mode describes the schedule'. The teal header remains at the top.",
+        "shot_type": "Wide Shot",
+        "scene_number": 28,
+        "timestamp_end": "4:51",
+        "timestamp_start": "4:40"
+      }
+    ]
+  }
+}

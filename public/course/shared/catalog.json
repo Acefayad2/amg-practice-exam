@@ -235,6 +235,108 @@
         "5.1"
       ],
       "status": "ready"
+    },
+    {
+      "id": "19",
+      "number": 19,
+      "version": 1,
+      "title": "Build a protection plan from real needs",
+      "subtitle": "Turn a family’s responsibilities, income and resources into a clear, reasoned estimate.",
+      "duration": 258,
+      "questions": 8,
+      "module": "Life decisions",
+      "outline": [
+        "3.2",
+        "3.4"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "20",
+      "number": 20,
+      "version": 1,
+      "title": "Selling a life policy: settlements",
+      "subtitle": "Follow the money, the rights and the Maryland safeguards before an owner sells coverage.",
+      "duration": 279.042,
+      "questions": 8,
+      "module": "Life decisions",
+      "outline": [
+        "3.3"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "21",
+      "number": 21,
+      "version": 1,
+      "title": "Protect the business and its people",
+      "subtitle": "Separate ownership succession, key-person protection and an executive bonus.",
+      "duration": 264.294,
+      "questions": 8,
+      "module": "Life decisions",
+      "outline": [
+        "3.5"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "22",
+      "number": 22,
+      "version": 1,
+      "title": "Classify coverage and understand its price",
+      "subtitle": "Keep product labels separate and see how mortality, interest and expenses shape premiums.",
+      "duration": 292.085,
+      "questions": 10,
+      "module": "Life decisions",
+      "outline": [
+        "3.6",
+        "3.7"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "23",
+      "number": 23,
+      "version": 1,
+      "title": "Build an accurate application file",
+      "subtitle": "Follow a client from fact gathering to a complete, honestly documented submission.",
+      "duration": 284.334,
+      "questions": 8,
+      "module": "Life decisions",
+      "outline": [
+        "3.8",
+        "3.9"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "24",
+      "number": 24,
+      "version": 1,
+      "title": "Understand a fair underwriting decision",
+      "subtitle": "Distinguish evidence, risk classifications and the limits on how information may be used.",
+      "duration": 283.877,
+      "questions": 10,
+      "module": "Life decisions",
+      "outline": [
+        "3.9",
+        "3.8"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "25",
+      "number": 25,
+      "version": 1,
+      "title": "Know when protection actually begins",
+      "subtitle": "Read premium receipts, effective dates and delivery conditions as a connected timeline.",
+      "duration": 281.71,
+      "questions": 8,
+      "module": "Life decisions",
+      "outline": [
+        "3.8"
+      ],
+      "status": "ready"
     }
   ]
 }

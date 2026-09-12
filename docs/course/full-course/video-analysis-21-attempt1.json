@@ -1,0 +1,66 @@
+{
+  "result": {
+    "id": "b0e4c6da-6447-440c-99ea-42563a2a5d2b",
+    "video_input_id": "fdc09be8-883b-4913-bc81-f974afdf38ef",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/fdc09be8-883b-4913-bc81-f974afdf38ef.mp4",
+    "scenes": [
+      {
+        "audio": "Have you ever wondered why your morning coffee just isn't hitting the same way anymore?",
+        "label": "Opening Hook",
+        "visual": "A man in his late 20s with light skin, short dark brown hair, and a trimmed beard is wearing a plain grey crew-neck t-shirt. He is positioned in the center of the frame against a blurred living room background. He looks directly into the camera with an expressive, slightly concerned facial expression, gesturing with his right hand toward his temple. The lighting is soft and natural from the front-left, creating a bright and clean aesthetic with neutral color grading.",
+        "shot_type": "Close-Up",
+        "scene_number": 1,
+        "timestamp_end": "0:02",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "It's not the beans, and it's definitely not the caffeine content. It's the temperature consistency.",
+        "label": "Product Information",
+        "visual": "A pair of hands with clean, trimmed nails holds a matte black ceramic mug. A dark, rich liquid is being poured from a stainless steel carafe into the mug. The camera uses a slow-motion speed ramp as the liquid splashes slightly against the side. The lighting is warm and moody, highlighting the steam rising in thin wisps. The background is a dark wood kitchen countertop with a shallow depth of field.",
+        "shot_type": "Extreme Close-Up",
+        "scene_number": 2,
+        "timestamp_end": "0:05",
+        "timestamp_start": "0:02"
+      },
+      {
+        "audio": "This smart coaster maintains the perfect temperature from the first sip to the very last drop.",
+        "label": "Product Selling Points",
+        "visual": "The camera looks down at a sleek, circular metallic base sitting on a marble surface. The matte black mug from the previous scene is lowered onto the center of the base. A small white LED light on the front of the base pulses once. The lighting is cool-toned and professional, emphasizing the metallic texture of the product. The hand is steady and movements are deliberate.",
+        "shot_type": "POV Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:08",
+        "timestamp_start": "0:05"
+      },
+      {
+        "audio": "Whether you're stuck in a back-to-back meeting or focused on a deep-work session, your drink stays exactly how you like it.",
+        "label": "Usage Scenarios",
+        "visual": "The man from the first scene is now sitting at a minimalist white desk in a home office. He is wearing the same grey t-shirt and silver watch on his left wrist. He is typing on a laptop, then pauses to pick up the black mug from the metallic base. He takes a sip, nods with a satisfied expression, and places it back down. The room is brightly lit with high-key artificial light, creating a productive atmosphere.",
+        "shot_type": "Medium Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:12",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "Honestly, I can't go back to a regular coaster. This has been a total game changer for my workflow.",
+        "label": "Real Experience",
+        "visual": "The man leans back in his office chair, smiling broadly at the camera. He holds the mug in both hands near his chest. The camera has a slight handheld shake to give a more authentic, vlogger-style feel. The color saturation is slightly increased to make the skin tones appear warmer and more vibrant.",
+        "shot_type": "Medium Close-Up",
+        "scene_number": 5,
+        "timestamp_end": "0:14",
+        "timestamp_start": "0:12"
+      },
+      {
+        "audio": "Click the link below to grab yours today and stop drinking cold coffee forever.",
+        "label": "Call to Action",
+        "visual": "A final shot of the product sitting alone on a dark table. The camera performs a slow dolly-in movement toward the base. The lighting shifts to a dramatic rim light, silhouetting the edges of the mug and base against a dark background. The scene fades to black slowly.",
+        "shot_type": "Close-Up",
+        "scene_number": 6,
+        "timestamp_end": "0:17",
+        "timestamp_start": "0:14"
+      }
+    ]
+  }
+}

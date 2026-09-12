@@ -1,0 +1,36 @@
+{
+  "number": 26,
+  "duration": "274.709000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/1904e10c-72e5-425d-9ec7-7dc2192ded4e.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/05edb717-160c-4700-850f-e25986949f9f.png",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/d8959a36-c91a-485b-aaa3-d85ca426c228.jpg",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/d711937f-cb96-4ae1-9eeb-dfd2f5bf39c3.zip",
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "274.709000",
+      "size": "22521558"
+    }
+  },
+  "review": {
+    "layouts": "All six layouts and two photo compositions visually inspected; text, arrows, dates and circular logo checked. Native level/decreasing/increasing benefit diagrams inspected.",
+    "decode": "Complete FFmpeg decode passed.",
+    "speech": "All six sections transcribed and compared. Secondary small.en review verified the unclear base transcription; no material speech discrepancy remained.",
+    "analysis": "Submitted; pending.",
+    "player": "Chromium checks passed: all required questions, native ended event, wrong answer and retry, first-answer history, resume and completion reload, mobile captions and dialog, no JavaScript errors."
+  },
+  "status": "review",
+  "coordinatorApproval": null
+}

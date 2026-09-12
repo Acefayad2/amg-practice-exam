@@ -1,0 +1,201 @@
+{
+  "result": {
+    "id": "b50b710f-bf2b-4a57-bdf9-3a1197ecf6cf",
+    "video_input_id": "652ad1c8-93b4-4bb1-a4c2-d9a1237afbc6",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/652ad1c8-93b4-4bb1-a4c2-d9a1237afbc6.mp4",
+    "scenes": [
+      {
+        "audio": "Marcus is applying for a life policy. The producer asks the questions on the approved application, records his answers, and gathers the requested supporting facts.",
+        "label": "Opening Hook",
+        "visual": "A man and a woman sit side-by-side at a white marble kitchen island. The man, approximately 40-45 with dark skin, short black hair, and a trimmed beard, wears a dark navy button-down shirt. He holds a white document and a silver pen. The woman, mid-30s with a tan complexion and long dark wavy hair, wears a sage green blouse and leans in to look at the paper. A silver laptop is open on the left. A gray ceramic mug and a black binder sit in the foreground. The background is a bright kitchen with white subway tile and light wood shelves. Lighting is bright and natural from the left.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:07",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "This is field underwriting. It helps the insurer evaluate the risk, but it does not give the producer unlimited authority to approve coverage.",
+        "label": "Product Information",
+        "visual": "A clean motion graphic on a light beige background with a dark teal vertical bar on the far left. A white rectangular card labeled '01' with text appears on the left. A teal arrow points right as a second card labeled '02' appears. A third card labeled '03' follows. The lighting is flat and digital, with a palette of beige, teal, and white.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:21",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "The producer's report records relevant observations and transaction information truthfully. A blank answer is not automatically a no.",
+        "label": "Product Information",
+        "visual": "The same graphic from the previous scene. The second white card is now highlighted with a thicker dark border while the others remain slightly dimmed. The background and layout are static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:35",
+        "timestamp_start": "0:22"
+      },
+      {
+        "audio": "An unfamiliar medication is not a diagnosis the agent should invent. Ask for clarification and follow the carrier's approved procedure. Explain that underwriting and any temporary protection depend on their actual requirement.",
+        "label": "Product Information",
+        "visual": "The graphic continues with the central card remaining highlighted. No camera movement. The overall color grading is warm and professional.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:48",
+        "timestamp_start": "0:36"
+      },
+      {
+        "audio": "Elena notices that the application lists the wrong medication date; correct it through the insurer's approved process and obtain the required acknowledgment.",
+        "label": "Product Selling Points",
+        "visual": "A new graphic screen appears with a different title at the top. Below the title, a list of four numbered items (01, 02, 03, 04) begins to appear one by one. Each item consists of a short title and a one-line description on a white rectangular card background. The teal sidebar remains on the left.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "1:05",
+        "timestamp_start": "0:49"
+      },
+      {
+        "audio": "Never erase a material answer secretly after signature or ask a client to sign a blank form for later completion. Verify the proposed insured, owner, and other required signatures, and each person's authority.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains on screen. The text in the fourth card is now highlighted. The background maintains a high depth of field focus on the central cards.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:20",
+        "timestamp_start": "1:06"
+      },
+      {
+        "audio": "When more than one person completes a Maryland application, the signature area must identify the portion to which each signature applies. A lawful electronic signature process can be used when accepted.",
+        "label": "Product Selling Points",
+        "visual": "The same graphic. The animation focuses on the final point regarding electronic signatures. The lighting is soft and even across the digital elements.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:29",
+        "timestamp_start": "1:21"
+      },
+      {
+        "audio": "Convenience does not authorize signing someone else's name. Maryland treats statements in a life application as representations, not warranties.",
+        "label": "Product Selling Points",
+        "visual": "A new graphic screen transitions in with a fresh title header. Three white cards appear in a row horizontally. Each card has a specific header and short explanatory text. The first card on the left is currently highlighted.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:44",
+        "timestamp_start": "1:30"
+      },
+      {
+        "audio": "Health questions must use the applicant's knowledge and belief standard or include the required representation statement. That does not make false answers harmless.",
+        "label": "Product Selling Points",
+        "visual": "The graphic from the previous scene continues. The highlight shifts from the left card to the middle card. No camera movement or changes in lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:59",
+        "timestamp_start": "1:45"
+      },
+      {
+        "audio": "Under Maryland law, a fraudulent or material misstatement can affect recovery. An agent should record the truth and refer an uncertain answer for clarification, not coach the applicant to hide it.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains static with the third card on the right now highlighted. The background is a consistent cream color.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "2:15",
+        "timestamp_start": "2:00"
+      },
+      {
+        "audio": "The applicant should understand what information may be collected, how it may be used, and the rights described in the applicable notice.",
+        "label": "Product Selling Points",
+        "visual": "A new graphic screen appears with another title header. Three cards titled 'Notice', 'Authorization', and 'HIV testing' appear horizontally. The 'Notice' card is highlighted.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "2:30",
+        "timestamp_start": "2:16"
+      },
+      {
+        "audio": "Giving an information practices notice is not the same as obtaining every required authorization. If underwriting calls for an HIV test, use the appropriate informed-consent and confidentiality process.",
+        "label": "Product Selling Points",
+        "visual": "The same graphic continues. The highlight moves to the second card 'Authorization' and then to the third card 'HIV testing'.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:45",
+        "timestamp_start": "2:31"
+      },
+      {
+        "audio": "Explain the current carrier forms, collect only relevant information through authorized channels, and protect it from unnecessary disclosure.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains on screen. The layout is static as the audio finishes describing the carrier forms and information collection.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "3:00",
+        "timestamp_start": "2:46"
+      },
+      {
+        "audio": "An applicant wants a large cash value policy, seems unconcerned about protection, and asks how quickly an unrelated person can receive a surrender payment.",
+        "label": "Product Selling Points",
+        "visual": "Transition to a new graphic screen with a title about money movements. A horizontal row of three cards labeled '01', '02', and '03' appears. Card '01' is highlighted.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "3:15",
+        "timestamp_start": "3:01"
+      },
+      {
+        "audio": "This combination calls for the insurer's anti-money laundering review. The federal insurance rule focuses on covered products, including individual permanent life and annuities.",
+        "label": "Product Selling Points",
+        "visual": "The graphic continues. The second card '02' is now highlighted. The overall color palette remains consistent with teal accents.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "3:30",
+        "timestamp_start": "3:16"
+      },
+      {
+        "audio": "The insurer must integrate relevant agents and brokers into its program. Follow training, identity, and customer information procedures, document the facts, and escalate concerns.",
+        "label": "Product Selling Points",
+        "visual": "The graphic continues. The third card '03' is highlighted. The text within the card points to internal escalation.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:45",
+        "timestamp_start": "3:31"
+      },
+      {
+        "audio": "Do not promise confidentiality that would defeat a required report.",
+        "label": "Product Selling Points",
+        "visual": "Final segment of the money movement graphic. No movement. All cards are visible.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:53",
+        "timestamp_start": "3:46"
+      },
+      {
+        "audio": "Before submission, check the plan, amount, riders, ownership, beneficiary information, answers, signatures, notices, and any premium receipt.",
+        "label": "Usage Scenarios",
+        "visual": "Return to the man and woman from Scene 1 in the kitchen. They are in the same clothing. The man points to the paper with his pen as they both review it carefully. The lighting is still bright and natural.",
+        "shot_type": "Medium Shot",
+        "scene_number": 18,
+        "timestamp_end": "4:01",
+        "timestamp_start": "3:54"
+      },
+      {
+        "audio": "Tell Marcus what additional underwriting evidence may be needed. A submitted application is not the same as an issued policy or a promise of immediate coverage.",
+        "label": "Call to Action",
+        "visual": "Transition to a final graphic screen with a new title. Four numbered cards (01-04) appear in a vertical list. The first and second cards are currently the focus.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "4:16",
+        "timestamp_start": "4:02"
+      },
+      {
+        "audio": "If a consumer report contributes to an adverse decision, the required notice identifies the reporting agency and explains the consumer's report and dispute rights.",
+        "label": "Call to Action",
+        "visual": "The graphic continues. The third card is highlighted. The background is static beige with the teal sidebar on the left.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "4:31",
+        "timestamp_start": "4:17"
+      },
+      {
+        "audio": "Help the applicant follow the review process while protecting privacy. Never solve a disappointing result by changing facts or hiding another application.",
+        "label": "Call to Action",
+        "visual": "The final graphic remains on screen, focusing on the last point. The screen fades slightly toward the end of the audio.",
+        "shot_type": "Wide Shot",
+        "scene_number": 21,
+        "timestamp_end": "4:45",
+        "timestamp_start": "4:32"
+      }
+    ]
+  }
+}

@@ -28,9 +28,9 @@
     "layouts": "All six teaching layouts plus the two photograph compositions visually inspected; logo circle and text fit checked.",
     "decode": "Complete FFmpeg decode passed.",
     "speech": "All six sections compared; clipped opening regenerated. Small-model review confirmed the resource sentence was fully spoken.",
-    "analysis": "Submitted; pending.",
-    "player": "Pending."
+    "analysis": "Completed scene analysis read and compared with the source and native narration; no unresolved discrepancy.",
+    "player": "Chromium checks passed for all 8 questions, native ended event, wrong-answer retry, resume and completion reload, mobile captions and dialog. A first test was interrupted when the concurrent deployment rebuilt public files; it passed after separating the build and preview."
   },
-  "status": "review",
+  "status": "ready",
   "coordinatorApproval": null
 }

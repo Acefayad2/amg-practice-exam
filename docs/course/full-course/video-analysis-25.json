@@ -1,0 +1,210 @@
+{
+  "result": {
+    "id": "ec23aca0-497b-4624-8f95-9824ec522b67",
+    "video_input_id": "cdd8283f-2ed5-4840-a1d1-35b6e353bee5",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/cdd8283f-2ed5-4840-a1d1-35b6e353bee5.mp4",
+    "scenes": [
+      {
+        "audio": "[Low-tempo, professional acoustic guitar melody begins and continues throughout the video.]",
+        "label": "Opening Hook",
+        "visual": "A middle-aged black man (approx. 40-45) with short, dark hair and a neatly trimmed beard, wearing a navy blue button-down shirt, and a middle-aged woman (approx. 35-40) with tan skin and long, straight dark brown hair, wearing an olive-green long-sleeved shirt, sit side-by-side at a light-colored wooden table in a brightly lit kitchen. The camera is static. The woman points with her right index finger at a white document resting on the table, while the man leans forward, holding a silver pen in his right hand and looking intently at the paper. A silver laptop is open to the left, and a white mug and black notebook are visible on the table. The lighting is soft and natural, casting light shadows, with a neutral-toned kitchen background slightly out of focus.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:07",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "Marcus signs a life application and pays the requested initial premium. The producer gives him the insurer's receipt and explains its terms.",
+        "label": "Product Information",
+        "visual": "A light-colored graphic background displays a list of four points appearing sequentially. Point 01: 'Payment - Was the required amount paid?'. Point 02: 'Receipt - What document was actually issued?'. Point 03: 'Conditions - Eligibility, amount and timing'. Point 04: 'Explanation - Describe the protection accurately'. The layout is minimalist with clean typography and a professional aesthetic. The camera remains static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:20",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "That receipt may provide conditional protection, a defined temporary agreement, or only the stated acknowledgment.",
+        "label": "Product Information",
+        "visual": "The screen remains static on the previously established four-point graphic. The lighting is artificial and uniform across the frame, highlighting the text against the cream-colored background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:35",
+        "timestamp_start": "0:21"
+      },
+      {
+        "audio": "It is not a blank promise that every death will be covered immediately. Identify the amount paid, the required signatures, eligibility conditions, benefit limits, and termination events.",
+        "label": "Product Information",
+        "visual": "Static view of the four-point graphic continues. No character movement or camera motion is present. The color palette is composed of muted greens, creams, and dark grays.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:51",
+        "timestamp_start": "0:36"
+      },
+      {
+        "audio": "A producer must stay within the insurer's actual authority. Never replace a written condition with a reassuring statement that the applicant is definitely covered. Consider a teaching receipt that requires the applicant to be insurable...",
+        "label": "Product Information",
+        "visual": "A new timeline graphic appears on a light background. Box 1: 'June 3 - Application and required premium'. Box 2 (dark gray): 'June 7 - Required examination completed'. Box 3: 'June 12 - Approval confirms the stated condition'. Teal arrows connect the boxes from left to right. The camera is static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "1:06",
+        "timestamp_start": "0:52"
+      },
+      {
+        "audio": "...exactly as applied for on the later of the application date and the required examination date. All other stated conditions are assumed satisfied.",
+        "label": "Product Information",
+        "visual": "Static view of the timeline graphic from the previous scene. The graphic remains centered in the frame with high contrast between the text and the colored boxes.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:21",
+        "timestamp_start": "1:07"
+      },
+      {
+        "audio": "Marcus applies and pays on June 3rd, completes the examination on June 7th, and receives approval on June 12th. Under this example, the conditional starting date is June 7th.",
+        "label": "Product Information",
+        "visual": "Static view of the timeline graphic continues. The overall color grading is clean and bright, maintaining the established instructional aesthetic.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:35",
+        "timestamp_start": "1:22"
+      },
+      {
+        "audio": "The later approval confirms that the stated insurability condition was met.",
+        "label": "Product Information",
+        "visual": "Brief static hold on the timeline graphic before the transition to the next slide.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:38",
+        "timestamp_start": "1:36"
+      },
+      {
+        "audio": "Do not move every conditional receipt to the application date or approval date. Read the particular receipt. Now a different teaching receipt expressly requires home office approval before any protection starts.",
+        "label": "Product Selling Points",
+        "visual": "A graphic featuring three vertical colored boxes appears. Left box (white): 'Insurability condition - Test the specified earlier date'. Middle box (gold): 'Approval condition - Approval must occur as stated'. Right box (teal): 'Temporary agreement - Apply its own protection terms'. The camera is static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:53",
+        "timestamp_start": "1:39"
+      },
+      {
+        "audio": "The application and payment dates stay the same, but approval occurs on June 12th. Apply that approval condition instead of borrowing the June 7th answer from the prior example.",
+        "label": "Product Selling Points",
+        "visual": "Static view of the three-box graphic continues. The lighting remains even and the color saturation is natural.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "2:08",
+        "timestamp_start": "1:54"
+      },
+      {
+        "audio": "A separate temporary insurance agreement can have its own eligibility, amount, and end date. None of these labels removes the need to read the terms.",
+        "label": "Product Selling Points",
+        "visual": "Static view of the three-box graphic continues. The typography is dark gray against the light boxes, ensuring readability.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "2:23",
+        "timestamp_start": "2:09"
+      },
+      {
+        "audio": "If an applicant dies while underwriting is pending, send the facts for a proper claim review. Pending underwriting does not by itself prove either coverage or no coverage. Elena submits an application without paying the initial premium...",
+        "label": "Product Information",
+        "visual": "A new timeline graphic appears. Box 1: 'Issued for delivery - Read any outstanding conditions'. Box 2 (dark gray): 'Complete the conditions - Premium and required documentation'. Box 3: 'Effective protection - Apply the actual agreement and date'. Arrows point from Box 1 to 2, and 2 to 3. The camera is static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:38",
+        "timestamp_start": "2:24"
+      },
+      {
+        "audio": "...and has no temporary insurance agreement. The insurer sends a policy for delivery, subject to payment and the required confirmation of unchanged health.",
+        "label": "Product Information",
+        "visual": "Static view of the second timeline graphic continues. The background remains a light, solid cream color.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:53",
+        "timestamp_start": "2:39"
+      },
+      {
+        "audio": "Mailing that policy to the producer does not prove these conditions are complete. Collect the required premium, obtain the truthful delivery documentation, and follow the insurer's instructions.",
+        "label": "Product Information",
+        "visual": "Static view of the second timeline graphic continues. The visual presentation is consistent with previous segments.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "3:08",
+        "timestamp_start": "2:54"
+      },
+      {
+        "audio": "In a different case, unconditional release of an accepted policy for delivery may constitute constructive delivery.",
+        "label": "Product Information",
+        "visual": "Final static hold on the second timeline graphic before the transition.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "3:13",
+        "timestamp_start": "3:09"
+      },
+      {
+        "audio": "Distinguish unconditional release from a file with outstanding conditions. The physical handoff and the legal effective date are not always the same event. Before the conditional delivery is completed, Elena reports a new hospitalization.",
+        "label": "Problem Solving",
+        "visual": "A three-box graphic returns with new content. Left box (white): 'Changed health - Report it truthfully'. Middle box (gold): 'Modified offer - Explain terms and obtain acceptance'. Right box (teal): 'Existing protection - Do not invent a cancellation'. The camera is static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:28",
+        "timestamp_start": "3:14"
+      },
+      {
+        "audio": "Do not have her sign an unchanged health statement that is false. Follow the insurer's instructions and submit the new facts for review. If the insurer offers a different amount, premium, or classification, explain the change and obtain the required acceptance.",
+        "label": "Problem Solving",
+        "visual": "Static view of the 'Problem Solving' three-box graphic continues. The colors remain teal, gold, and white.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:43",
+        "timestamp_start": "3:29"
+      },
+      {
+        "audio": "The applicant does not have to accept a modified offer simply because an application was signed. Likewise, a new fact does not authorize an agent to erase coverage that already became effective under a valid agreement. Resolve the status from the contract and the actual timeline.",
+        "label": "Problem Solving",
+        "visual": "Final static view of the 'Problem Solving' three-box graphic. Text remains sharp and centered.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "3:58",
+        "timestamp_start": "3:44"
+      },
+      {
+        "audio": "At delivery, review the insured, owner, beneficiary, coverage amount, riders, premium schedule, guarantees, and important limitations.",
+        "label": "Usage Scenarios",
+        "visual": "The video cuts back to the couple at the wooden table in the kitchen. The middle-aged black man and the woman with tan skin are still reviewing the document together. The man is pointing at a line on the paper while the woman listens intently. The environment, lighting, and clothing are identical to the first scene.",
+        "shot_type": "Medium Shot",
+        "scene_number": 19,
+        "timestamp_end": "4:06",
+        "timestamp_start": "3:59"
+      },
+      {
+        "audio": "Explain the applicable return right and how to contact the insurer. Check that the delivered policy matches the accepted offer and record the delivery through the approved process.",
+        "label": "Call to Action",
+        "visual": "A final four-point checklist graphic appears. 01: 'Match - Policy terms and accepted offer'. 02: 'Explain - Costs, benefits, limits and return right'. 03: 'Document - Delivery and required acknowledgments'. 04: 'Confirm - What is in force and when'. The camera is static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "4:21",
+        "timestamp_start": "4:07"
+      },
+      {
+        "audio": "A policy date may be used to measure anniversaries or insurance age. That printed date alone does not answer every coverage question. Keep the application date, receipt date, effective date, and delivery date distinct.",
+        "label": "Call to Action",
+        "visual": "Static view of the four-point checklist continues. The cream-colored background maintains the professional branding.",
+        "shot_type": "Wide Shot",
+        "scene_number": 21,
+        "timestamp_end": "4:36",
+        "timestamp_start": "4:22"
+      },
+      {
+        "audio": "The client should leave knowing what is in force, what must be paid, and which rights have a deadline.",
+        "label": "Call to Action",
+        "visual": "Final static hold on the checklist graphic. A small gold logo icon is visible in the bottom left corner.",
+        "shot_type": "Wide Shot",
+        "scene_number": 22,
+        "timestamp_end": "4:42",
+        "timestamp_start": "4:37"
+      }
+    ]
+  }
+}

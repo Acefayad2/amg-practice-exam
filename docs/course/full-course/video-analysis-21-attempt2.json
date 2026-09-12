@@ -1,0 +1,75 @@
+{
+  "result": {
+    "id": "9bab1f1c-2880-42f1-a7d7-0468dc1e13b6",
+    "video_input_id": "fdc09be8-883b-4913-bc81-f974afdf38ef",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/fdc09be8-883b-4913-bc81-f974afdf38ef.mp4",
+    "scenes": [
+      {
+        "audio": "You guys are not going to believe how much dirt was actually hiding in my couch until I used this.",
+        "label": "Opening Hook",
+        "visual": "A woman in her late 20s with fair skin, long wavy brown hair, wearing a white ribbed knit sweater and gold hoop earrings, is positioned in the center of the frame. She has a surprised expression, with wide eyes and her mouth slightly open. She is holding a sleek, matte black handheld vacuum cleaner in her right hand at chest level. The background is a minimalist modern living room with a soft-focus beige sofa and a warm wooden side table. Lighting is bright and natural from a window to the left, creating soft highlights on her hair and a gentle rim light on the product.",
+        "shot_type": "Medium Close-Up",
+        "scene_number": 1,
+        "timestamp_end": "0:03",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "Sound of a high-pitched motor whirring up, accompanied by a low-frequency bass synth beat.",
+        "label": "Product Information",
+        "visual": "The matte black vacuum cleaner is held horizontally across the frame. A thumb presses a circular metallic power button. The camera uses a slight zoom-in movement. The surface of the vacuum has a subtle texture, and the lighting is cool-toned, highlighting the metallic finish of the button and the seamless seams of the device.",
+        "shot_type": "Extreme Close-Up",
+        "scene_number": 2,
+        "timestamp_end": "0:05",
+        "timestamp_start": "0:03"
+      },
+      {
+        "audio": "Upbeat, fast-paced lo-fi hip hop track with rhythmic snapping sounds.",
+        "label": "Problem Solving",
+        "visual": "The camera follows the nozzle of the vacuum as it slides between the cushions of a light gray fabric sofa. Small crumbs, hair, and dust particles are visibly sucked into the clear plastic attachment at the front. The movement is a steady forward push. High-contrast lighting emphasizes the texture of the fabric and the debris.",
+        "shot_type": "POV Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:08",
+        "timestamp_start": "0:05"
+      },
+      {
+        "audio": "It has three different suction modes and the battery lasts long enough to do the whole house and the car.",
+        "label": "Product Selling Points",
+        "visual": "The woman from scene 1 is seen from a side profile, smiling as she easily detaches the dust bin from the vacuum. She tilts the bin over a white trash can, and a significant amount of grey dust falls out. The lighting is warm and domestic. Her hand movements are fluid and effortless, demonstrating the 'one-click' release mechanism.",
+        "shot_type": "Close-Up",
+        "scene_number": 4,
+        "timestamp_end": "0:12",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "I even take it out to the car for those hard-to-reach spots under the seats.",
+        "label": "Usage Scenarios",
+        "visual": "The woman is seen in a different setting—the interior of a dark car. She is using a brush attachment to clean the black floor mats. The lighting is more dramatic here, with shadows from the car's interior and bright sunlight hitting the mat area, showing the dust being removed in real-time. She is wearing the same white sweater.",
+        "shot_type": "Medium Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:15",
+        "timestamp_start": "0:12"
+      },
+      {
+        "audio": "Honestly, this is the best purchase I've made for my home this year. 10 out of 10.",
+        "label": "Real Experience",
+        "visual": "Back in the living room, the woman holds the vacuum next to her face, nodding approvingly and giving a thumbs-up to the camera. She has a genuine, satisfied smile. The camera has a very slight handheld shake to give a 'vlog' feel. The color grading is warm with high saturation in the wood tones.",
+        "shot_type": "Medium Close-Up",
+        "scene_number": 6,
+        "timestamp_end": "0:18",
+        "timestamp_start": "0:15"
+      },
+      {
+        "audio": "Check the link in my bio to grab yours while the sale is still on!",
+        "label": "Call to Action",
+        "visual": "The vacuum is placed neatly on a white marble countertop next to its charging base. The camera performs a slow dolly-out. The lighting is bright and clean, making the product look like a high-end tech gadget. The background is blurred into a soft bokeh of kitchen cabinets.",
+        "shot_type": "Close-Up",
+        "scene_number": 7,
+        "timestamp_end": "0:21",
+        "timestamp_start": "0:18"
+      }
+    ]
+  }
+}
