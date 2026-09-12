@@ -2134,6 +2134,14 @@
       {
         "lesson": "18",
         "title": "Business and charity provisions have their own facts"
+      },
+      {
+        "lesson": "59",
+        "title": "Name each role before discussing the benefit"
+      },
+      {
+        "lesson": "59",
+        "title": "An insured person is not the same as a beneficiary"
       }
     ],
     "questions": [
@@ -2148,6 +2156,10 @@
       {
         "lesson": "18",
         "id": "L18-08"
+      },
+      {
+        "lesson": "59",
+        "id": "L59-03"
       }
     ],
     "coordinatorApproval": null
@@ -2208,6 +2220,14 @@
       {
         "lesson": "18",
         "title": "Business and charity provisions have their own facts"
+      },
+      {
+        "lesson": "59",
+        "title": "Name each role before discussing the benefit"
+      },
+      {
+        "lesson": "59",
+        "title": "An insured person is not the same as a beneficiary"
       }
     ],
     "questions": [
@@ -2230,6 +2250,10 @@
       {
         "lesson": "18",
         "id": "L18-08"
+      },
+      {
+        "lesson": "59",
+        "id": "L59-03"
       }
     ],
     "coordinatorApproval": null
@@ -2596,6 +2620,14 @@
       {
         "lesson": "19",
         "title": "The calculation deliberately leaves out real-world variables"
+      },
+      {
+        "lesson": "59",
+        "title": "Start with obligations and available resources"
+      },
+      {
+        "lesson": "59",
+        "title": "The needs example deliberately uses simplified assumptions"
       }
     ],
     "questions": [
@@ -2606,6 +2638,14 @@
       {
         "lesson": "19",
         "id": "L19-04"
+      },
+      {
+        "lesson": "59",
+        "id": "L59-02"
+      },
+      {
+        "lesson": "59",
+        "id": "L59-07"
       }
     ],
     "coordinatorApproval": null
@@ -2629,12 +2669,24 @@
       {
         "lesson": "19",
         "title": "Household services have financial value"
+      },
+      {
+        "lesson": "59",
+        "title": "Start with obligations and available resources"
+      },
+      {
+        "lesson": "59",
+        "title": "The needs example deliberately uses simplified assumptions"
       }
     ],
     "questions": [
       {
         "lesson": "19",
         "id": "L19-05"
+      },
+      {
+        "lesson": "59",
+        "id": "L59-07"
       }
     ],
     "coordinatorApproval": null
@@ -2650,12 +2702,24 @@
       {
         "lesson": "19",
         "title": "The calculation deliberately leaves out real-world variables"
+      },
+      {
+        "lesson": "59",
+        "title": "Start with obligations and available resources"
+      },
+      {
+        "lesson": "59",
+        "title": "The needs example deliberately uses simplified assumptions"
       }
     ],
     "questions": [
       {
         "lesson": "19",
         "id": "L19-04"
+      },
+      {
+        "lesson": "59",
+        "id": "L59-02"
       }
     ],
     "coordinatorApproval": null
@@ -2675,12 +2739,24 @@
       {
         "lesson": "19",
         "title": "The calculation deliberately leaves out real-world variables"
+      },
+      {
+        "lesson": "59",
+        "title": "Start with obligations and available resources"
+      },
+      {
+        "lesson": "59",
+        "title": "The needs example deliberately uses simplified assumptions"
       }
     ],
     "questions": [
       {
         "lesson": "19",
         "id": "L19-03"
+      },
+      {
+        "lesson": "59",
+        "id": "L59-01"
       }
     ],
     "coordinatorApproval": null
@@ -2741,6 +2817,18 @@
       {
         "lesson": "21",
         "title": "A funding shortfall does not rewrite the agreement"
+      },
+      {
+        "lesson": "60",
+        "title": "Separate the business losses before choosing the arrangement"
+      },
+      {
+        "lesson": "60",
+        "title": "Use a repeatable decision process under exam conditions"
+      },
+      {
+        "lesson": "60",
+        "title": "Different business purposes may require different structures"
       }
     ],
     "questions": [
@@ -2767,6 +2855,10 @@
       {
         "lesson": "21",
         "id": "L21-08"
+      },
+      {
+        "lesson": "60",
+        "id": "L60-02"
       }
     ],
     "coordinatorApproval": null
@@ -2790,6 +2882,14 @@
       {
         "lesson": "21",
         "title": "Consent, interest and tax treatment remain separate"
+      },
+      {
+        "lesson": "60",
+        "title": "Separate the business losses before choosing the arrangement"
+      },
+      {
+        "lesson": "60",
+        "title": "Different business purposes may require different structures"
       }
     ],
     "questions": [
@@ -2800,6 +2900,10 @@
       {
         "lesson": "21",
         "id": "L21-08"
+      },
+      {
+        "lesson": "60",
+        "id": "L60-01"
       }
     ],
     "coordinatorApproval": null
@@ -3346,6 +3450,10 @@
       {
         "lesson": "15",
         "title": "A replacement does not have one automatic tax result"
+      },
+      {
+        "lesson": "59",
+        "title": "Match the duration without promising every design does the same job"
       }
     ],
     "questions": [
@@ -3360,6 +3468,10 @@
       {
         "lesson": "15",
         "id": "L15-08"
+      },
+      {
+        "lesson": "59",
+        "id": "L59-08"
       }
     ],
     "coordinatorApproval": null
@@ -3519,6 +3631,10 @@
       {
         "lesson": "23",
         "title": "Corrections remain visible to the proper parties"
+      },
+      {
+        "lesson": "59",
+        "title": "An application is not a promise of immediate coverage"
       }
     ],
     "questions": [
@@ -3581,6 +3697,10 @@
       {
         "lesson": "25",
         "title": "Approval-type and insurability-type wording differ"
+      },
+      {
+        "lesson": "59",
+        "title": "An application is not a promise of immediate coverage"
       }
     ],
     "questions": [
@@ -3599,6 +3719,10 @@
       {
         "lesson": "25",
         "id": "L25-04"
+      },
+      {
+        "lesson": "59",
+        "id": "L59-04"
       }
     ],
     "coordinatorApproval": null
@@ -3680,6 +3804,10 @@
       {
         "lesson": "25",
         "title": "Constructive delivery depends on the circumstances"
+      },
+      {
+        "lesson": "59",
+        "title": "An application is not a promise of immediate coverage"
       }
     ],
     "questions": [
@@ -3694,6 +3822,10 @@
       {
         "lesson": "25",
         "id": "L25-08"
+      },
+      {
+        "lesson": "59",
+        "id": "L59-04"
       }
     ],
     "coordinatorApproval": null
@@ -3717,6 +3849,10 @@
       {
         "lesson": "25",
         "title": "A good-health statement must be truthful"
+      },
+      {
+        "lesson": "59",
+        "title": "An application is not a promise of immediate coverage"
       }
     ],
     "questions": [
@@ -3727,6 +3863,10 @@
       {
         "lesson": "25",
         "id": "L25-06"
+      },
+      {
+        "lesson": "59",
+        "id": "L59-04"
       }
     ],
     "coordinatorApproval": null
@@ -4013,6 +4153,10 @@
       {
         "lesson": "26",
         "title": "Maryland requires clear term-expiry language"
+      },
+      {
+        "lesson": "59",
+        "title": "Match the duration without promising every design does the same job"
       }
     ],
     "questions": [
@@ -4075,6 +4219,10 @@
       {
         "lesson": "26",
         "title": "Renewable does not mean an unchanged price"
+      },
+      {
+        "lesson": "59",
+        "title": "Match the duration without promising every design does the same job"
       }
     ],
     "questions": [
@@ -4096,6 +4244,10 @@
       {
         "lesson": "26",
         "title": "Renewal and conversion may have different deadlines"
+      },
+      {
+        "lesson": "59",
+        "title": "Match the duration without promising every design does the same job"
       }
     ],
     "questions": [
@@ -4999,6 +5151,14 @@
       {
         "lesson": "32",
         "title": "Use the actual beneficiary-change process"
+      },
+      {
+        "lesson": "59",
+        "title": "Name each role before discussing the benefit"
+      },
+      {
+        "lesson": "59",
+        "title": "Calculate the stated benefit and preserve the claim record"
       }
     ],
     "questions": [
@@ -5013,6 +5173,10 @@
       {
         "lesson": "32",
         "id": "L32-02"
+      },
+      {
+        "lesson": "59",
+        "id": "L59-03"
       }
     ],
     "coordinatorApproval": null
@@ -5106,6 +5270,10 @@
       {
         "lesson": "34",
         "title": "Do not substitute a generic full refund for the statute"
+      },
+      {
+        "lesson": "59",
+        "title": "Keep policy time limits and continuing rights distinct"
       }
     ],
     "questions": [
@@ -5131,6 +5299,10 @@
       {
         "lesson": "34",
         "title": "A payment mode is not paid-up status"
+      },
+      {
+        "lesson": "59",
+        "title": "Match the duration without promising every design does the same job"
       }
     ],
     "questions": [
@@ -5164,6 +5336,14 @@
       {
         "lesson": "34",
         "title": "Universal and variable life can require another notice"
+      },
+      {
+        "lesson": "59",
+        "title": "Keep policy time limits and continuing rights distinct"
+      },
+      {
+        "lesson": "59",
+        "title": "Use the exact Maryland grace-period scope"
       }
     ],
     "questions": [
@@ -5178,6 +5358,10 @@
       {
         "lesson": "34",
         "id": "L34-08"
+      },
+      {
+        "lesson": "59",
+        "id": "L59-05"
       }
     ],
     "coordinatorApproval": null
@@ -5201,6 +5385,10 @@
       {
         "lesson": "35",
         "title": "A restored policy is not a blank check to contest everything"
+      },
+      {
+        "lesson": "59",
+        "title": "Keep policy time limits and continuing rights distinct"
       }
     ],
     "questions": [
@@ -5215,6 +5403,10 @@
       {
         "lesson": "35",
         "id": "L35-03"
+      },
+      {
+        "lesson": "59",
+        "id": "L59-05"
       }
     ],
     "coordinatorApproval": null
@@ -5250,6 +5442,10 @@
       {
         "lesson": "35",
         "title": "A restored policy is not a blank check to contest everything"
+      },
+      {
+        "lesson": "59",
+        "title": "Keep policy time limits and continuing rights distinct"
       }
     ],
     "questions": [
@@ -5458,6 +5654,14 @@
       {
         "lesson": "33",
         "title": "Minor, trust and estate designations need different administration"
+      },
+      {
+        "lesson": "59",
+        "title": "Name each role before discussing the benefit"
+      },
+      {
+        "lesson": "59",
+        "title": "An insured person is not the same as a beneficiary"
       }
     ],
     "questions": [
@@ -5479,6 +5683,14 @@
       {
         "lesson": "33",
         "title": "Minor, trust and estate designations need different administration"
+      },
+      {
+        "lesson": "59",
+        "title": "Name each role before discussing the benefit"
+      },
+      {
+        "lesson": "59",
+        "title": "An insured person is not the same as a beneficiary"
       }
     ],
     "questions": [
@@ -5500,6 +5712,18 @@
       {
         "lesson": "33",
         "title": "Contingent does not mean simultaneous half-owner"
+      },
+      {
+        "lesson": "59",
+        "title": "Name each role before discussing the benefit"
+      },
+      {
+        "lesson": "59",
+        "title": "Calculate the stated benefit and preserve the claim record"
+      },
+      {
+        "lesson": "59",
+        "title": "An insured person is not the same as a beneficiary"
       }
     ],
     "questions": [
@@ -5947,6 +6171,10 @@
       {
         "lesson": "38",
         "title": "Notice, termination and deferral are separate matters"
+      },
+      {
+        "lesson": "59",
+        "title": "Calculate the stated benefit and preserve the claim record"
       }
     ],
     "questions": [
@@ -5969,6 +6197,10 @@
       {
         "lesson": "38",
         "id": "L38-09"
+      },
+      {
+        "lesson": "59",
+        "id": "L59-06"
       }
     ],
     "coordinatorApproval": null
@@ -7124,6 +7356,10 @@
       {
         "lesson": "44",
         "title": "Suitability starts with the actual consumer profile"
+      },
+      {
+        "lesson": "60",
+        "title": "An income plan must leave room for the next unexpected bill"
       }
     ],
     "questions": [
@@ -7340,6 +7576,14 @@
       {
         "lesson": "46",
         "title": "Nominal guarantees and purchasing power are different"
+      },
+      {
+        "lesson": "60",
+        "title": "Read what continues when the annuitant dies"
+      },
+      {
+        "lesson": "60",
+        "title": "The annuity income comparison states hypothetical quotes"
       }
     ],
     "questions": [
@@ -7350,6 +7594,10 @@
       {
         "lesson": "46",
         "id": "L46-03"
+      },
+      {
+        "lesson": "60",
+        "id": "L60-06"
       }
     ],
     "coordinatorApproval": null
@@ -7385,6 +7633,18 @@
       {
         "lesson": "46",
         "title": "Cash and installment refund use different payment methods"
+      },
+      {
+        "lesson": "60",
+        "title": "Read what continues when the annuitant dies"
+      },
+      {
+        "lesson": "60",
+        "title": "Use a repeatable decision process under exam conditions"
+      },
+      {
+        "lesson": "60",
+        "title": "The annuity income comparison states hypothetical quotes"
       }
     ],
     "questions": [
@@ -7407,6 +7667,14 @@
       {
         "lesson": "46",
         "id": "L46-05"
+      },
+      {
+        "lesson": "60",
+        "id": "L60-05"
+      },
+      {
+        "lesson": "60",
+        "id": "L60-06"
       }
     ],
     "coordinatorApproval": null
@@ -7430,6 +7698,14 @@
       {
         "lesson": "46",
         "title": "Nominal guarantees and purchasing power are different"
+      },
+      {
+        "lesson": "60",
+        "title": "Read what continues when the annuitant dies"
+      },
+      {
+        "lesson": "60",
+        "title": "The annuity income comparison states hypothetical quotes"
       }
     ],
     "questions": [
@@ -7694,6 +7970,10 @@
       {
         "lesson": "48",
         "title": "Keep the tax arrangement separate from the contract"
+      },
+      {
+        "lesson": "60",
+        "title": "Identify the retirement arrangement before moving its money"
       }
     ],
     "questions": [
@@ -7715,6 +7995,10 @@
       {
         "lesson": "48",
         "title": "Keep the tax arrangement separate from the contract"
+      },
+      {
+        "lesson": "60",
+        "title": "Identify the retirement arrangement before moving its money"
       }
     ],
     "questions": [
@@ -7725,6 +8009,10 @@
       {
         "lesson": "48",
         "id": "L48-03"
+      },
+      {
+        "lesson": "60",
+        "id": "L60-04"
       }
     ],
     "coordinatorApproval": null
@@ -7744,6 +8032,10 @@
       {
         "lesson": "48",
         "title": "Tax deferral is not tax exemption"
+      },
+      {
+        "lesson": "60",
+        "title": "Identify the retirement arrangement before moving its money"
       }
     ],
     "questions": [
@@ -7754,6 +8046,10 @@
       {
         "lesson": "48",
         "id": "L48-04"
+      },
+      {
+        "lesson": "60",
+        "id": "L60-04"
       }
     ],
     "coordinatorApproval": null
@@ -7769,6 +8065,10 @@
       {
         "lesson": "48",
         "title": "Use is not a recommendation"
+      },
+      {
+        "lesson": "60",
+        "title": "An income plan must leave room for the next unexpected bill"
       }
     ],
     "questions": [
@@ -7876,6 +8176,14 @@
       {
         "lesson": "48",
         "title": "Consumers retain complaint and cooperation rights"
+      },
+      {
+        "lesson": "60",
+        "title": "An income plan must leave room for the next unexpected bill"
+      },
+      {
+        "lesson": "60",
+        "title": "Use a repeatable decision process under exam conditions"
       }
     ],
     "questions": [
@@ -8267,6 +8575,18 @@
       {
         "lesson": "51",
         "title": "Tax exceptions are account-specific"
+      },
+      {
+        "lesson": "60",
+        "title": "Separate personal-annuity withdrawals from retirement-account rules"
+      },
+      {
+        "lesson": "60",
+        "title": "Use a repeatable decision process under exam conditions"
+      },
+      {
+        "lesson": "60",
+        "title": "Tax character survives an account or contract label"
       }
     ],
     "questions": [
@@ -8301,6 +8621,14 @@
       {
         "lesson": "51",
         "id": "L51-08"
+      },
+      {
+        "lesson": "60",
+        "id": "L60-07"
+      },
+      {
+        "lesson": "60",
+        "id": "L60-08"
       }
     ],
     "coordinatorApproval": null
@@ -8419,127 +8747,723 @@
   {
     "id": "7.4.01",
     "title": "Traditional contributions and deductibility",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "53",
+        "title": "An IRA is an individual tax arrangement"
+      },
+      {
+        "lesson": "53",
+        "title": "Use the tax year and the combined limit"
+      },
+      {
+        "lesson": "53",
+        "title": "Being allowed to contribute does not establish a deduction"
+      },
+      {
+        "lesson": "53",
+        "title": "2026 figures are dated teaching facts"
+      },
+      {
+        "lesson": "53",
+        "title": "Deduction and contribution restrictions are different"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "53",
+        "id": "L53-01"
+      },
+      {
+        "lesson": "53",
+        "id": "L53-02"
+      },
+      {
+        "lesson": "53",
+        "id": "L53-03"
+      },
+      {
+        "lesson": "53",
+        "id": "L53-04"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "7.4.02",
     "title": "Early-distribution additional tax",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "53",
+        "title": "Tax deferral is followed by distribution rules"
+      },
+      {
+        "lesson": "53",
+        "title": "Additional-tax exceptions require their own conditions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "53",
+        "id": "L53-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "7.4.03",
     "title": "Annuitization and benefit taxation",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "53",
+        "title": "Tax deferral is followed by distribution rules"
+      },
+      {
+        "lesson": "53",
+        "title": "Required distributions depend on the applicable age"
+      },
+      {
+        "lesson": "53",
+        "title": "After-tax basis is not selected account by account"
+      },
+      {
+        "lesson": "53",
+        "title": "RMD ages and deadlines must match the cohort"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "53",
+        "id": "L53-04"
+      },
+      {
+        "lesson": "53",
+        "id": "L53-05"
+      },
+      {
+        "lesson": "53",
+        "id": "L53-07"
+      },
+      {
+        "lesson": "53",
+        "id": "L53-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "7.4.04",
     "title": "Estate and beneficiary issues",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "53",
+        "title": "A beneficiary designation does not erase the tax rules"
+      },
+      {
+        "lesson": "53",
+        "title": "Inherited arrangements need classification"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "53",
+        "id": "L53-09"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "7.4.05",
     "title": "Roth contributions and limits",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "54",
+        "title": "Roth describes a different tax treatment"
+      },
+      {
+        "lesson": "54",
+        "title": "Traditional and Roth regular contributions share a limit"
+      },
+      {
+        "lesson": "54",
+        "title": "Owner rules and beneficiary rules are different"
+      },
+      {
+        "lesson": "54",
+        "title": "2026 direct Roth contribution income ranges"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "54",
+        "id": "L54-01"
+      },
+      {
+        "lesson": "54",
+        "id": "L54-02"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "7.4.06",
     "title": "Roth distributions",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "54",
+        "title": "Regular contributions come out before earnings"
+      },
+      {
+        "lesson": "54",
+        "title": "A qualified distribution needs the time test and a reason"
+      },
+      {
+        "lesson": "54",
+        "title": "A conversion has its own additional-tax clock"
+      },
+      {
+        "lesson": "54",
+        "title": "Owner rules and beneficiary rules are different"
+      },
+      {
+        "lesson": "54",
+        "title": "Order and aggregation prevent selective labeling"
+      },
+      {
+        "lesson": "54",
+        "title": "Five tax years is not five anniversaries of a deposit"
+      },
+      {
+        "lesson": "54",
+        "title": "Conversion is not a second taxation of basis"
+      },
+      {
+        "lesson": "54",
+        "title": "Death does not waive every Roth requirement"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "54",
+        "id": "L54-03"
+      },
+      {
+        "lesson": "54",
+        "id": "L54-04"
+      },
+      {
+        "lesson": "54",
+        "id": "L54-05"
+      },
+      {
+        "lesson": "54",
+        "id": "L54-06"
+      },
+      {
+        "lesson": "54",
+        "id": "L54-07"
+      },
+      {
+        "lesson": "54",
+        "id": "L54-08"
+      },
+      {
+        "lesson": "54",
+        "id": "L54-09"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "7.5.01",
     "title": "Rollovers",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "55",
+        "title": "The word move is not a complete instruction"
+      },
+      {
+        "lesson": "55",
+        "title": "A direct transfer keeps payment between the institutions"
+      },
+      {
+        "lesson": "55",
+        "title": "A payment to the owner starts a different process"
+      },
+      {
+        "lesson": "55",
+        "title": "Withholding creates a funding gap for a full rollover"
+      },
+      {
+        "lesson": "55",
+        "title": "The once-per-year rule is not an account-by-account allowance"
+      },
+      {
+        "lesson": "55",
+        "title": "Not every distribution is eligible to be rolled over"
+      },
+      {
+        "lesson": "55",
+        "title": "The 12-month period is measured from receipt"
+      },
+      {
+        "lesson": "55",
+        "title": "Withholding is neither an extra fee nor the final liability"
+      },
+      {
+        "lesson": "55",
+        "title": "Eligibility comes before the deadline"
+      },
+      {
+        "lesson": "55",
+        "title": "Inherited and Roth accounts retain their own restrictions"
+      },
+      {
+        "lesson": "60",
+        "title": "Identify the retirement arrangement before moving its money"
+      },
+      {
+        "lesson": "60",
+        "title": "Use a repeatable decision process under exam conditions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "55",
+        "id": "L55-02"
+      },
+      {
+        "lesson": "55",
+        "id": "L55-03"
+      },
+      {
+        "lesson": "55",
+        "id": "L55-04"
+      },
+      {
+        "lesson": "55",
+        "id": "L55-05"
+      },
+      {
+        "lesson": "55",
+        "id": "L55-06"
+      },
+      {
+        "lesson": "55",
+        "id": "L55-07"
+      },
+      {
+        "lesson": "60",
+        "id": "L60-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "7.5.02",
     "title": "Trustee transfers",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "55",
+        "title": "A direct transfer keeps payment between the institutions"
+      },
+      {
+        "lesson": "55",
+        "title": "The once-per-year rule is not an account-by-account allowance"
+      },
+      {
+        "lesson": "55",
+        "title": "Not every distribution is eligible to be rolled over"
+      },
+      {
+        "lesson": "55",
+        "title": "The 12-month period is measured from receipt"
+      },
+      {
+        "lesson": "55",
+        "title": "Inherited and Roth accounts retain their own restrictions"
+      },
+      {
+        "lesson": "60",
+        "title": "Identify the retirement arrangement before moving its money"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "55",
+        "id": "L55-01"
+      },
+      {
+        "lesson": "55",
+        "id": "L55-02"
+      },
+      {
+        "lesson": "55",
+        "id": "L55-08"
+      },
+      {
+        "lesson": "60",
+        "id": "L60-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "7.6.01",
     "title": "Section 1035 exchanges",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "56",
+        "title": "An exchange is a defined tax transaction"
+      },
+      {
+        "lesson": "56",
+        "title": "The direction of the exchange matters"
+      },
+      {
+        "lesson": "56",
+        "title": "Keep the required insured and ownership identity"
+      },
+      {
+        "lesson": "56",
+        "title": "Cash received and reinvested is not the same exchange"
+      },
+      {
+        "lesson": "56",
+        "title": "Deferred gain and basis follow the qualifying transaction"
+      },
+      {
+        "lesson": "56",
+        "title": "Tax eligibility and replacement quality are separate decisions"
+      },
+      {
+        "lesson": "56",
+        "title": "The current statute includes specified LTC directions"
+      },
+      {
+        "lesson": "56",
+        "title": "Annuity-to-life is an important prohibited reverse direction"
+      },
+      {
+        "lesson": "56",
+        "title": "The check ruling concerns actual payment to the owner"
+      },
+      {
+        "lesson": "56",
+        "title": "Partial annuity exchanges have a particular timing test"
+      },
+      {
+        "lesson": "56",
+        "title": "Carryover is not a basis reset"
+      },
+      {
+        "lesson": "60",
+        "title": "Separate personal-annuity withdrawals from retirement-account rules"
+      },
+      {
+        "lesson": "60",
+        "title": "Tax character survives an account or contract label"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "56",
+        "id": "L56-01"
+      },
+      {
+        "lesson": "56",
+        "id": "L56-02"
+      },
+      {
+        "lesson": "56",
+        "id": "L56-03"
+      },
+      {
+        "lesson": "56",
+        "id": "L56-04"
+      },
+      {
+        "lesson": "56",
+        "id": "L56-05"
+      },
+      {
+        "lesson": "56",
+        "id": "L56-06"
+      },
+      {
+        "lesson": "56",
+        "id": "L56-07"
+      },
+      {
+        "lesson": "56",
+        "id": "L56-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "8.1.01",
     "title": "General qualified-plan requirements",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "57",
+        "title": "Qualified describes a legal status"
+      },
+      {
+        "lesson": "57",
+        "title": "Nondiscrimination does not mean identical dollar deposits"
+      },
+      {
+        "lesson": "57",
+        "title": "Vesting means ownership, not immediate spending access"
+      },
+      {
+        "lesson": "57",
+        "title": "Eligibility depends on the current rules"
+      },
+      {
+        "lesson": "57",
+        "title": "Employee deferrals and employer vesting are separate"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "57",
+        "id": "L57-01"
+      },
+      {
+        "lesson": "57",
+        "id": "L57-02"
+      },
+      {
+        "lesson": "57",
+        "id": "L57-03"
+      },
+      {
+        "lesson": "57",
+        "id": "L57-04"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "8.2.01",
     "title": "Employer tax advantages",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "57",
+        "title": "Employer and employee advantages are different"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "57",
+        "id": "L57-05"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "8.2.02",
     "title": "Employee tax advantages",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "57",
+        "title": "Employer and employee advantages are different"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "57",
+        "id": "L57-06"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "8.2.03",
     "title": "Distribution tax and age conditions",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "57",
+        "title": "A distribution has both income and additional-tax questions"
+      },
+      {
+        "lesson": "57",
+        "title": "Required distributions and retirement dates are not identical"
+      },
+      {
+        "lesson": "57",
+        "title": "The separation exception belongs to particular employer-plan payments"
+      },
+      {
+        "lesson": "57",
+        "title": "Use current required-distribution rules"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "57",
+        "id": "L57-07"
+      },
+      {
+        "lesson": "57",
+        "id": "L57-08"
+      },
+      {
+        "lesson": "57",
+        "id": "L57-09"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "8.3.01",
     "title": "SEP",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "58",
+        "title": "SEP: employer contributions to individual arrangements"
+      },
+      {
+        "lesson": "58",
+        "title": "Match the facts before comparing the investments"
+      },
+      {
+        "lesson": "58",
+        "title": "SEP and an old SARSEP are different"
+      },
+      {
+        "lesson": "58",
+        "title": "Current Roth options prevent a blanket all-pretax rule"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "58",
+        "id": "L58-01"
+      },
+      {
+        "lesson": "58",
+        "id": "L58-02"
+      },
+      {
+        "lesson": "58",
+        "id": "L58-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "8.3.02",
     "title": "Keogh/HR-10",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "58",
+        "title": "Keogh identifies self-employed plan history"
+      },
+      {
+        "lesson": "58",
+        "title": "Match the facts before comparing the investments"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "58",
+        "id": "L58-03"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "8.3.03",
     "title": "Profit sharing and 401(k)",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "58",
+        "title": "Profit sharing and 401(k) describe different features"
+      },
+      {
+        "lesson": "58",
+        "title": "Match the facts before comparing the investments"
+      },
+      {
+        "lesson": "58",
+        "title": "Profit-sharing contributions do not require actual current profits"
+      },
+      {
+        "lesson": "60",
+        "title": "Identify the retirement arrangement before moving its money"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "58",
+        "id": "L58-04"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "8.3.04",
     "title": "SIMPLE",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "58",
+        "title": "SIMPLE IRA: small-employer saving with employer contributions"
+      },
+      {
+        "lesson": "58",
+        "title": "Match the facts before comparing the investments"
+      },
+      {
+        "lesson": "58",
+        "title": "SIMPLE details require the current plan facts"
+      },
+      {
+        "lesson": "58",
+        "title": "Current Roth options prevent a blanket all-pretax rule"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "58",
+        "id": "L58-05"
+      },
+      {
+        "lesson": "58",
+        "id": "L58-07"
+      },
+      {
+        "lesson": "58",
+        "id": "L58-08"
+      }
+    ],
     "coordinatorApproval": null
   },
   {
     "id": "8.3.05",
     "title": "403(b)",
-    "teaching": [],
-    "questions": [],
+    "teaching": [
+      {
+        "lesson": "58",
+        "title": "403(b): eligible schools and tax-exempt organizations"
+      },
+      {
+        "lesson": "58",
+        "title": "Match the facts before comparing the investments"
+      },
+      {
+        "lesson": "58",
+        "title": "Plan family does not determine a single investment"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "58",
+        "id": "L58-06"
+      }
+    ],
     "coordinatorApproval": null
   }
 ]

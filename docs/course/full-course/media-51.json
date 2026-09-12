@@ -1,0 +1,36 @@
+{
+  "number": 51,
+  "duration": "290.796000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/64d85eae-6304-4a56-b071-24979d331af0.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/84ca5bd1-e5d4-4823-9095-bcaa0856a66c.png",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/8e220ac4-da80-4fe2-aec6-24b7b1782df8.jpg",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/302dafa6-698f-4123-9a82-b10e4f05de62.zip",
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "290.796000",
+      "size": "23162882"
+    }
+  },
+  "review": {
+    "layouts": "All eight scenario and teaching layouts visually inspected; equations, labels, spacing and circular logo passed.",
+    "decode": "Complete FFmpeg decode passed.",
+    "speech": "All six final narration sections transcribed and compared with the script after targeted regeneration and native pacing adjustments. No missing teaching found.",
+    "analysis": "Optional whole-video analysis queued; independent frame, speech and file checks passed.",
+    "player": "Chromium: all 14 required-question, native ended-event, wrong-answer/retry, first-attempt history, resume, completion reload, caption and mobile-dialog checks passed without page errors."
+  },
+  "status": "ready",
+  "coordinatorApproval": null
+}

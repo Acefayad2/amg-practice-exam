@@ -1,0 +1,107 @@
+{
+  "lessons": [
+    57,
+    58
+  ],
+  "voice": "Gideon",
+  "model": "seed_audio",
+  "reviewState": "Narration generation and media review in progress",
+  "jobs": [
+    {
+      "index": 570,
+      "job_id": "5c143c04-7471-42ee-887b-eb1d0336271d",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_091122_5c143c04-7471-42ee-887b-eb1d0336271d.mp3"
+    },
+    {
+      "index": 571,
+      "job_id": "3a0d3c12-3ba1-46a8-9ede-c6915f1e57a9",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_091122_3a0d3c12-3ba1-46a8-9ede-c6915f1e57a9.mp3"
+    },
+    {
+      "index": 572,
+      "job_id": "018e81c6-c37f-4460-815a-d637a9a55ad7",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_091122_018e81c6-c37f-4460-815a-d637a9a55ad7.mp3"
+    },
+    {
+      "index": 573,
+      "job_id": "fad63f33-481b-464b-9366-4d7a85ad8635",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_091123_fad63f33-481b-464b-9366-4d7a85ad8635.mp3"
+    },
+    {
+      "index": 574,
+      "job_id": "9f32e3f6-672a-447a-8ebd-99be0994ad01",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_091122_9f32e3f6-672a-447a-8ebd-99be0994ad01.mp3"
+    },
+    {
+      "index": 575,
+      "job_id": "34185db8-a3ad-431e-90c9-ae8219287efd",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_091122_34185db8-a3ad-431e-90c9-ae8219287efd.mp3"
+    },
+    {
+      "index": 580,
+      "job_id": "4de8b1d7-071c-438b-82ee-32bc518af628",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_091256_4de8b1d7-071c-438b-82ee-32bc518af628.mp3"
+    },
+    {
+      "index": 581,
+      "job_id": "9d28662f-ed65-431a-900a-d2c77be8a925",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_091257_9d28662f-ed65-431a-900a-d2c77be8a925.mp3"
+    },
+    {
+      "index": 582,
+      "job_id": "c028306e-c1d3-4d40-a249-ac729b75b7f9",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_091256_c028306e-c1d3-4d40-a249-ac729b75b7f9.mp3"
+    },
+    {
+      "index": 583,
+      "job_id": "751ff8e5-5a3b-4ae1-a5d8-0da225c17bb3",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_091256_751ff8e5-5a3b-4ae1-a5d8-0da225c17bb3.mp3"
+    },
+    {
+      "index": 584,
+      "job_id": "9e0f1290-9e61-4b2e-8c85-7b296938ddd1",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_091256_9e0f1290-9e61-4b2e-8c85-7b296938ddd1.mp3"
+    },
+    {
+      "index": 585,
+      "job_id": "65575235-7ef1-4c5d-aa30-59c199847c31",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_091257_65575235-7ef1-4c5d-aa30-59c199847c31.mp3"
+    }
+  ]
+}

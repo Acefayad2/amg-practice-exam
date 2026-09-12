@@ -1,0 +1,237 @@
+{
+  "result": {
+    "id": "448abec6-e537-44f6-b9de-129d726b9cb8",
+    "video_input_id": "e05db841-4530-4dde-9653-0edc40c54d1f",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/e05db841-4530-4dde-9653-0edc40c54d1f.mp4",
+    "scenes": [
+      {
+        "audio": "In this scenario, Marcus is seriously ill and asks whether his life policy can provide money while he is living.",
+        "label": "Opening Hook",
+        "visual": "A man in his early 40s with a dark complexion, short black hair, and a groomed beard (Marcus), wearing a navy blue button-down shirt, sits at a kitchen table. Next to him is a woman in her early 40s with a dark complexion and long dark hair pulled back (the woman), wearing an olive green blouse. They are reviewing paperwork and looking at a laptop. The setting is a bright, modern kitchen with white cabinetry and soft side-lighting from a window. A ceramic mug and a black notebook are on the table.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:07",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "An accelerated benefit pays an eligible amount early under the policy's qualifying conditions and reduces the death benefit otherwise payable.",
+        "label": "Product Information",
+        "visual": "A wide shot of a full-screen infographic on a light cream background. A sequence of boxes numbered 01 to 03 appears with arrows connecting them. The boxes use a palette of dark navy and teal. The transition between boxes is a simple slide-in animation. The lighting is flat and artificial, consistent with motion graphics.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:21",
+        "timestamp_start": "0:07"
+      },
+      {
+        "audio": "It is not automatically an extra benefit on top of the full original death protection. It also differs from borrowing against cash value or selling a policy to an outside settlement provider.",
+        "label": "Product Selling Points",
+        "visual": "The same infographic from the previous scene continues to be displayed. The background remains light cream with teal and navy blue accents. The camera is static, focusing on the graphic layout.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:35",
+        "timestamp_start": "0:21"
+      },
+      {
+        "audio": "Identify the actual feature first. Maryland's accelerated benefit chapter requires terminal illness among its qualifying events for products within that chapter.",
+        "label": "Product Selling Points",
+        "visual": "The infographic remains on screen. A small logo consisting of stylized letters in a circle is visible at the bottom left. The layout is clean with significant white space.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:44",
+        "timestamp_start": "0:35"
+      },
+      {
+        "audio": "It does not mean every illness automatically qualifies for payment. A contract may describe a limited life expectancy,",
+        "label": "Product Information",
+        "visual": "A new infographic appears on a light cream background. Three distinct vertical columns with rounded headers in teal and navy blue are shown. The animation is a simple fade-in. The style matches the previous graphic presentation.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:58",
+        "timestamp_start": "0:44"
+      },
+      {
+        "audio": "a condition requiring extraordinary intervention or expected permanent confinement in an eligible institution. These are specific triggers, not interchangeable labels for any hospital visit.",
+        "label": "Product Selling Points",
+        "visual": "The infographic from the previous scene remains. The center column is highlighted slightly as the narration progresses. The background is static and neutral.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:12",
+        "timestamp_start": "0:58"
+      },
+      {
+        "audio": "A short rehabilitation stay is not automatically confinement expected to last for the rest of the insured's life. Some approved designs include chronic illness conditions involving daily activities or severe cognitive impairment.",
+        "label": "Product Selling Points",
+        "visual": "The infographic remains on screen. The rightmost column is now highlighted. The graphic design maintains high contrast with dark text on light backgrounds.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:26",
+        "timestamp_start": "1:12"
+      },
+      {
+        "audio": "Read the required certification, degree of assistance, permanence, and other conditions.",
+        "label": "Product Selling Points",
+        "visual": "Final static view of the second infographic before the next transition. The lighting remains consistent and digital.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:31",
+        "timestamp_start": "1:26"
+      },
+      {
+        "audio": "A family member's description of being very sick is important context, but it does not replace the medical evidence required by the actual benefit provision. Activities of daily living include bathing, dressing, eating, toileting, and transferring.",
+        "label": "Product Information",
+        "visual": "A third infographic is introduced, following the same design language. It shows three numbered steps in navy and teal boxes. The overall palette is cool-toned and professional.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:45",
+        "timestamp_start": "1:31"
+      },
+      {
+        "audio": "Continence, meaning control of bladder and bowel function, is also included. Transferring means moving between positions such as a bed and a chair.",
+        "label": "Product Selling Points",
+        "visual": "The third infographic continues. The icons and text inside the boxes are static while the narration elaborates on the content.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "1:59",
+        "timestamp_start": "1:45"
+      },
+      {
+        "audio": "Shopping, driving, and managing investments are not substitutes for those named activities. Suppose a fictional rider requires permanent inability to perform two specified activities without substantial assistance.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains on screen. The animation focus shifts to the third box. The style remains minimalist with sharp lines and flat colors.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "2:13",
+        "timestamp_start": "1:59"
+      },
+      {
+        "audio": "A physician's evidence of qualifying help with bathing and dressing addresses two named activities, but the remaining rider conditions still must be met. Do not turn that example into a universal two-activity rule for every acceleration product.",
+        "label": "Product Selling Points",
+        "visual": "Final frames of the third infographic. The layout is balanced with dark teal accents against a light beige-white background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:22",
+        "timestamp_start": "2:13"
+      },
+      {
+        "audio": "A separate cognitive impairment trigger can require substantial supervision under the actual wording. Assume a $200,000 death benefit and an approved acceleration of $100,000 of that benefit.",
+        "label": "Usage Scenarios",
+        "visual": "A fourth infographic appears, illustrating a financial example. Three distinct currency-focused boxes are displayed in teal and dark navy. The transition is a smooth slide-in from the right.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:36",
+        "timestamp_start": "2:22"
+      },
+      {
+        "audio": "In this simplified example, a stated $10,000 discount reduces the immediate cash payment to $90,000. The remaining death benefit is $100,000 because 100,000 of the original benefit was accelerated.",
+        "label": "Usage Scenarios",
+        "visual": "The financial infographic continues. The middle box showing a specific cash amount is highlighted. The palette remains consistent with previous scenes.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "2:50",
+        "timestamp_start": "2:36"
+      },
+      {
+        "audio": "It is not 110,000 merely because the owner received 90,000 cash. Real contracts can use different charges, discounts, or lien methods.",
+        "label": "Usage Scenarios",
+        "visual": "The graphic remains static while the voiceover continues. The background is a flat, off-white color. Shadows are absent, giving a very clean look.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "3:04",
+        "timestamp_start": "2:50"
+      },
+      {
+        "audio": "Read the insurer's before and after statement and any outstanding debt. Never infer remaining protection by subtracting only the check from the old face amount.",
+        "label": "Usage Scenarios",
+        "visual": "The final view of the financial example infographic. The teal logo remains in the bottom left corner.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:11",
+        "timestamp_start": "3:04"
+      },
+      {
+        "audio": "The death benefit change is only one part of the calculation. Acceleration can affect cash value, accumulation accounts, outstanding loans, future loan access, and premium obligations.",
+        "label": "Product Information",
+        "visual": "A fifth infographic appears, listing four points numbered 01 to 04 in a vertical list. The list items use alternating shades of light teal and white within navy boxes. The animation is a vertical stack revelation.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:25",
+        "timestamp_start": "3:11"
+      },
+      {
+        "audio": "Maryland's actuarial rule addresses proportional cash value reduction. An alternative approach places a lien against the policy with permitted interest that can reduce value available later.",
+        "label": "Product Selling Points",
+        "visual": "The list infographic remains on screen. The second point in the list is highlighted. The design follows a strict professional aesthetic with geometric shapes.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "3:39",
+        "timestamp_start": "3:25"
+      },
+      {
+        "audio": "Do not promise that all existing policy debt disappears or that every premium stops. At the time the benefit is claimed, the insurer must explain continuing premium requirements needed to keep the policy in force.",
+        "label": "Product Selling Points",
+        "visual": "The graphic continues, highlighting the third item in the list. The text and icons are sharp and clear, designed for high legibility.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "3:53",
+        "timestamp_start": "3:39"
+      },
+      {
+        "audio": "Marcus needs those continuing obligations in writing so he can understand what coverage and resources remain after the payment.",
+        "label": "Product Selling Points",
+        "visual": "The last item in the list is highlighted before the scene cuts back to the human subjects.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "3:58",
+        "timestamp_start": "3:53"
+      },
+      {
+        "audio": "For an agent solicited application under Maryland's rule, the written benefit description and effects disclosure is provided before or with the application",
+        "label": "Real Experience",
+        "visual": "Return to the man (Marcus) and the woman from scene 1 in the kitchen. They are leaning in, looking closely at the document the woman is holding. The man is nodding slightly while the woman points at a specific section of the paper with a pen. The lighting is warm and natural.",
+        "shot_type": "Medium Shot",
+        "scene_number": 21,
+        "timestamp_end": "4:05",
+        "timestamp_start": "3:58"
+      },
+      {
+        "audio": "and acknowledged by the applicant and writing agent. Additional information is required when acceleration is requested. Tax treatment requires its own analysis.",
+        "label": "Product Information",
+        "visual": "A final sixth infographic appears on a cream background, displaying three horizontal boxes labeled 01 through 03. The layout is clean, using the established navy and teal color scheme. The boxes are connected by arrows.",
+        "shot_type": "Wide Shot",
+        "scene_number": 22,
+        "timestamp_end": "4:19",
+        "timestamp_start": "4:05"
+      },
+      {
+        "audio": "Qualifying terminal illness benefits can be excluded from federal income, while chronic illness exclusions have additional rules. Do not promise every payment is tax-free or that government benefit eligibility is unaffected.",
+        "label": "Product Selling Points",
+        "visual": "The infographic continues with focus on the second box. The visual style is identical to previous infographics, maintaining brand consistency. The camera is static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 23,
+        "timestamp_end": "4:33",
+        "timestamp_start": "4:19"
+      },
+      {
+        "audio": "The insurer must provide the required tax and benefit eligibility disclosures. The person holding an assignment or an irrevocable beneficiary may also need to provide the required concurrence.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains, highlighting the third box. The composition is balanced and uses standard motion graphic transitions.",
+        "shot_type": "Wide Shot",
+        "scene_number": 24,
+        "timestamp_end": "4:47",
+        "timestamp_start": "4:33"
+      },
+      {
+        "audio": "Review the trigger, calculation, and continuing obligations together before treating the transaction as understood.",
+        "label": "Call to Action",
+        "visual": "The final frames of the infographic sequence. The screen remains static on the completed three-step flow chart before fading out. The logo remains visible in the corner.",
+        "shot_type": "Wide Shot",
+        "scene_number": 25,
+        "timestamp_end": "4:54",
+        "timestamp_start": "4:47"
+      }
+    ]
+  }
+}

@@ -168,7 +168,7 @@
       "all_terminal": true
     },
     "method": "All six narration sections compared with script via full speech transcription; ambiguous loan phrase in Part 50 checked again with small.en.",
-    "reviewState": "Final media render and browser review in progress."
+    "reviewState": "All six sections reviewed, all eight layouts inspected, complete decode passed and all 14 browser checks passed."
   },
   {
     "number": 50,
@@ -339,6 +339,6 @@
       "all_terminal": true
     },
     "method": "All six narration sections compared with script via full speech transcription; ambiguous loan phrase in Part 50 checked again with small.en.",
-    "reviewState": "Final media render and browser review in progress."
+    "reviewState": "All six sections reviewed, all eight layouts inspected, complete decode passed and all 14 browser checks passed."
   }
 ]

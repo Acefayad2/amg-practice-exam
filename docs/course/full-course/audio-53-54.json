@@ -1,0 +1,393 @@
+[
+  {
+    "number": 53,
+    "requests": {
+      "requests": [
+        {
+          "index": 530,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Marcus wants to save part of his earnings in a traditional individual retirement arrangement, usually called an I R A. It can be established through an eligible financial institution, including an insurance company. The account is individually owned, even when spouses use a joint tax return. Eligibility for a regular contribution generally requires qualifying compensation, such as wages or net self-employment income. A pension check or investment interest is not automatically that compensation. There is no upper age cutoff for regular contributions under current law, but the other requirements remain. A spousal contribution can be possible on a joint return using qualifying combined compensation; it still goes into a separate individual arrangement."
+          }
+        },
+        {
+          "index": 531,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "For tax year twenty twenty-six, the general combined limit for regular traditional and Roth I R A contributions is seven thousand five hundred dollars, or qualifying compensation if that is less. Someone age fifty or older can have an additional eleven hundred dollar catch-up, making the general dollar limit eighty-six hundred dollars. Suppose Marcus is forty-five and has only four thousand dollars of qualifying compensation, with no spousal rule. His regular contribution limit is four thousand dollars. If he has enough compensation and contributes three thousand dollars to a traditional account, that generally leaves forty-five hundred dollars of the combined annual limit, before checking Roth income restrictions."
+          }
+        },
+        {
+          "index": 532,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "A traditional I R A contribution may be fully deductible, partly deductible or nondeductible. Workplace retirement coverage, filing status and modified adjusted gross income affect the deduction rules. Being covered by an employer plan does not by itself prohibit a regular traditional contribution. It can instead limit the deduction. If neither spouse is covered by a workplace plan, the workplace-coverage deduction phaseouts do not apply, although contribution limits still do. A permitted nondeductible contribution must be tracked as basis, generally using Form eighty-six oh six. Keep that record so after-tax money is not taxed again. Contribution eligibility and deduction eligibility are separate exam questions."
+          }
+        },
+        {
+          "index": 533,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Growth in a traditional I R A generally is not taxed annually while it stays inside the arrangement. If it contains only deductible contributions and untaxed earnings, an ordinary distribution generally is fully taxable income. Buying an annuity inside that account does not create an after-tax investment that never existed. If nondeductible amounts are present, the required allocation can make distributions partly taxable; the owner cannot simply choose to withdraw only basis from one account. A taxable six thousand dollar distribution at age forty-five, with no exception, generally also produces six hundred dollars of additional federal tax. An exception to that additional tax does not automatically remove ordinary income tax."
+          }
+        },
+        {
+          "index": 534,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Consider an owner who turns seventy-three during twenty twenty-six. The first traditional I R A required minimum distribution is for that year and generally must be taken by April first of twenty twenty-seven. The next year's required distribution is due by December thirty-first of twenty twenty-seven, so delaying the first payment can put both in one tax year. Continuing to work does not postpone this traditional account requirement. Use the applicable birth-year rule rather than memorizing age seventy and one half from old material. Current law also schedules age seventy-five for younger cohorts. A required minimum distribution is a minimum withdrawal requirement, not an instruction to surrender every annuity or spend the entire account."
+          }
+        },
+        {
+          "index": 535,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "A surviving spouse can have choices that a nonspouse beneficiary does not, including an eligible election to treat an inherited account as their own. Many adult nonspouse designated beneficiaries instead face a ten-year distribution deadline. Do not assume that means no earlier annual payments: the owner's required beginning date and beneficiary category matter. For an owner dying after the required beginning date, annual beneficiary distributions generally continue as well as the applicable tenth-year deadline. A beneficiary's receipt of traditional account earnings is not automatically excluded life insurance proceeds. Identify the owner's death date, remaining basis, beneficiary relationship and applicable category before selecting a payout rule."
+          }
+        }
+      ]
+    },
+    "jobs": {
+      "jobs": [
+        {
+          "index": 530,
+          "job_id": "de6cfe7f-d690-4cc9-8f5e-d2e5e3699c03",
+          "status": "pending"
+        },
+        {
+          "index": 531,
+          "job_id": "6b625865-9072-4325-ba6b-97fe6e38140a",
+          "status": "pending"
+        },
+        {
+          "index": 532,
+          "job_id": "5274c2b5-e1b5-4535-96a4-628212e88136",
+          "status": "pending"
+        },
+        {
+          "index": 533,
+          "job_id": "34e5ebaa-828d-483a-8acf-b523ba1be83b",
+          "status": "pending"
+        },
+        {
+          "index": 534,
+          "job_id": "a8438fee-0d5e-4999-9829-2051572ad24f",
+          "status": "pending"
+        },
+        {
+          "index": 535,
+          "job_id": "9be4d4dc-28d9-4913-aa34-41b59dc1cc78",
+          "status": "pending"
+        }
+      ],
+      "submitted_count": 6,
+      "failed_count": 0
+    },
+    "completed": {
+      "jobs": [
+        {
+          "index": 530,
+          "job_id": "de6cfe7f-d690-4cc9-8f5e-d2e5e3699c03",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_084501_de6cfe7f-d690-4cc9-8f5e-d2e5e3699c03.mp3"
+        },
+        {
+          "index": 531,
+          "job_id": "6b625865-9072-4325-ba6b-97fe6e38140a",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_084501_6b625865-9072-4325-ba6b-97fe6e38140a.mp3"
+        },
+        {
+          "index": 532,
+          "job_id": "5274c2b5-e1b5-4535-96a4-628212e88136",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_084501_5274c2b5-e1b5-4535-96a4-628212e88136.mp3"
+        },
+        {
+          "index": 533,
+          "job_id": "34e5ebaa-828d-483a-8acf-b523ba1be83b",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_084501_34e5ebaa-828d-483a-8acf-b523ba1be83b.mp3"
+        },
+        {
+          "index": 534,
+          "job_id": "a8438fee-0d5e-4999-9829-2051572ad24f",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_084501_a8438fee-0d5e-4999-9829-2051572ad24f.mp3"
+        },
+        {
+          "index": 535,
+          "job_id": "9be4d4dc-28d9-4913-aa34-41b59dc1cc78",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_084501_9be4d4dc-28d9-4913-aa34-41b59dc1cc78.mp3"
+        }
+      ],
+      "summary": {
+        "total": 6,
+        "completed": 6,
+        "failed": 0,
+        "active": 0,
+        "errors": 0
+      },
+      "all_terminal": true
+    },
+    "repairs": {
+      "requests": {
+        "requests": [
+          {
+            "index": 532,
+            "params": {
+              "model": "seed_audio",
+              "voice_type": "preset",
+              "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+              "format": "mp3",
+              "speech_rate": 5,
+              "prompt": "A traditional I R A contribution may be fully deductible, partly deductible or nondeductible. Workplace retirement coverage, filing status and modified adjusted gross income affect the deduction rules. Being covered by an employer plan does not by itself prohibit a regular traditional contribution. It can instead limit the deduction. If neither spouse is covered by a workplace plan, those income phaseouts for deducting contributions do not apply, although contribution limits still do. A permitted nondeductible contribution must be tracked as basis, generally using Form eighty-six oh six. Keep that record so after-tax money is not taxed again. Contribution eligibility and deduction eligibility are separate exam questions."
+            }
+          }
+        ]
+      },
+      "jobs": {
+        "jobs": [
+          {
+            "index": 532,
+            "job_id": "04ae0ca9-a034-4b43-9f35-775e9d5bb983",
+            "status": "pending"
+          }
+        ],
+        "submitted_count": 1,
+        "failed_count": 0
+      },
+      "completed": {
+        "jobs": [
+          {
+            "index": 532,
+            "job_id": "04ae0ca9-a034-4b43-9f35-775e9d5bb983",
+            "status": "completed",
+            "type": "audio",
+            "model": "seed_audio",
+            "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_085007_04ae0ca9-a034-4b43-9f35-775e9d5bb983.mp3"
+          }
+        ],
+        "summary": {
+          "total": 1,
+          "completed": 1,
+          "failed": 0,
+          "active": 0,
+          "errors": 0
+        },
+        "all_terminal": true
+      }
+    },
+    "method": "Full six-section narration review; selected regeneration for clipped or spoken punctuation; native pacing when needed, followed by full retranscription.",
+    "reviewState": "Final narration or media review in progress; see ready media manifest for release status."
+  },
+  {
+    "number": 54,
+    "requests": {
+      "requests": [
+        {
+          "index": 540,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Elena considers a Roth individual retirement arrangement. Regular Roth contributions are made with after-tax money and are not deductible. That is different from a traditional contribution that qualifies for a current deduction. Roth eligibility still requires the applicable compensation and contribution rules, and direct regular contributions can be reduced or prohibited by modified adjusted gross income and filing status. A high income that prevents a direct Roth contribution is not the same rule as the traditional deduction phaseout. Nor does it automatically answer whether a conversion is possible. Separate regular contributions, transfers, conversions and distributions before applying a limit. Those words describe different transactions."
+          }
+        },
+        {
+          "index": 541,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "For twenty twenty-six, a person under age fifty generally has a seven thousand five hundred dollar combined regular contribution limit across traditional and Roth individual retirement arrangements, subject to compensation and other restrictions. It is not a fresh limit for every account. Suppose Elena is forty, has sufficient compensation, qualifies for a full direct Roth contribution and has already contributed three thousand dollars to a traditional account for the year. She generally has forty-five hundred dollars of that combined limit left. The age-fifty catch-up increases the general twenty twenty-six dollar limit by eleven hundred dollars, but does not override a lower compensation amount or Roth income restriction."
+          }
+        },
+        {
+          "index": 542,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "When a Roth distribution is not qualified, the ordering rules matter. Ordinary distributions reach regular contributions first, then conversions and applicable rollover amounts under their ordering rules, and earnings last. Aggregate the owner's Roth arrangements as required; opening another account does not restart the order. Suppose Elena has twelve thousand dollars of unrecovered regular Roth contributions and three thousand dollars of earnings, with no conversions, earlier distributions or other adjustments. An ordinary five thousand dollar withdrawal comes from regular contributions and is not subject to income tax or the usual early-distribution additional tax under these facts. Do not treat it as five thousand dollars of earnings merely because the account has grown."
+          }
+        },
+        {
+          "index": 543,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "A qualified Roth distribution can exclude earnings as well as contributions. It generally must occur after the five-tax-year period starting with the first year for which a Roth contribution was made for the owner, and satisfy a qualifying condition. Those conditions include reaching age fifty-nine and one half, qualifying disability, death or an eligible first-home payment within its lifetime limit. Suppose Rosa first contributed for twenty twenty-one and takes a distribution in twenty twenty-six at age sixty-one. The stated time and age conditions are met. Turning sixty-one alone would not satisfy the five-year condition if her first Roth contribution had only just occurred."
+          }
+        },
+        {
+          "index": 544,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Converting pretax traditional retirement money to a Roth arrangement generally includes the previously untaxed amount in income for the conversion year. It is not a deduction and does not use the regular contribution limit. A separate five-year additional-tax rule can apply if a younger owner soon withdraws an amount attributable to a taxable conversion. Each conversion has its own clock. For example, an age-forty-five owner converts in twenty twenty-six and withdraws taxable converted amounts in twenty twenty-eight with no applicable exception. An additional tax can apply even though the conversion amount was already included in income earlier. Do not confuse this conversion rule with the five-year qualified-distribution test."
+          }
+        },
+        {
+          "index": 545,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "A Roth owner does not have lifetime required minimum distributions from their Roth individual retirement arrangement. That does not mean beneficiaries can always leave inherited funds untouched forever. Death-distribution requirements still depend on beneficiary classification, and the earnings exclusion still requires the applicable qualification rules. Compare the two arrangements carefully. Traditional contributions may provide an eligible deduction now, with later pretax distributions generally taxed. Roth contributions provide no current deduction, but qualified distributions can be excluded. Both require attention to contribution rules and the actual transaction. Neither label by itself establishes a person's best choice. On the exam, identify the tax treatment the stated facts actually support."
+          }
+        }
+      ]
+    },
+    "jobs": {
+      "jobs": [
+        {
+          "index": 540,
+          "job_id": "16362114-f1d1-405d-a347-eaa255999b8c",
+          "status": "pending"
+        },
+        {
+          "index": 541,
+          "job_id": "6a9415d8-0e9f-41bf-b70c-680905a7904f",
+          "status": "pending"
+        },
+        {
+          "index": 542,
+          "job_id": "91b16a38-e3f5-4d7d-a03b-9083ef32a9f5",
+          "status": "pending"
+        },
+        {
+          "index": 543,
+          "job_id": "ed33c3e9-52ea-4259-bee7-20d5e75ba878",
+          "status": "pending"
+        },
+        {
+          "index": 544,
+          "job_id": "a7fca267-89d0-4505-9713-9558e09f2d63",
+          "status": "pending"
+        },
+        {
+          "index": 545,
+          "job_id": "be7ddf75-f8b4-48c2-9696-86a425adca27",
+          "status": "pending"
+        }
+      ],
+      "submitted_count": 6,
+      "failed_count": 0
+    },
+    "completed": {
+      "jobs": [
+        {
+          "index": 540,
+          "job_id": "16362114-f1d1-405d-a347-eaa255999b8c",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_084634_16362114-f1d1-405d-a347-eaa255999b8c.mp3"
+        },
+        {
+          "index": 541,
+          "job_id": "6a9415d8-0e9f-41bf-b70c-680905a7904f",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_084634_6a9415d8-0e9f-41bf-b70c-680905a7904f.mp3"
+        },
+        {
+          "index": 542,
+          "job_id": "91b16a38-e3f5-4d7d-a03b-9083ef32a9f5",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_084634_91b16a38-e3f5-4d7d-a03b-9083ef32a9f5.mp3"
+        },
+        {
+          "index": 543,
+          "job_id": "ed33c3e9-52ea-4259-bee7-20d5e75ba878",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_084634_ed33c3e9-52ea-4259-bee7-20d5e75ba878.mp3"
+        },
+        {
+          "index": 544,
+          "job_id": "a7fca267-89d0-4505-9713-9558e09f2d63",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_084634_a7fca267-89d0-4505-9713-9558e09f2d63.mp3"
+        },
+        {
+          "index": 545,
+          "job_id": "be7ddf75-f8b4-48c2-9696-86a425adca27",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_084634_be7ddf75-f8b4-48c2-9696-86a425adca27.mp3"
+        }
+      ],
+      "summary": {
+        "total": 6,
+        "completed": 6,
+        "failed": 0,
+        "active": 0,
+        "errors": 0
+      },
+      "all_terminal": true
+    },
+    "repairs": null,
+    "method": "Full six-section narration review; selected regeneration for clipped or spoken punctuation; native pacing when needed, followed by full retranscription.",
+    "reviewState": "Final narration or media review in progress; see ready media manifest for release status."
+  }
+]

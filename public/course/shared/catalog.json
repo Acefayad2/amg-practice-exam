@@ -666,6 +666,90 @@
         "6.5"
       ],
       "status": "ready"
+    },
+    {
+      "id": "49",
+      "number": 49,
+      "version": 1,
+      "title": "Life insurance taxes: identify the event first",
+      "subtitle": "Separate cash growth, dividends, loans, surrender, death proceeds and estate inclusion.",
+      "duration": 285.587,
+      "questions": 8,
+      "module": "Tax and retirement",
+      "outline": [
+        "7.1"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "50",
+      "number": 50,
+      "version": 1,
+      "title": "Modified endowment contracts: funding changes access taxes",
+      "subtitle": "Apply the seven-pay test and calculate earnings-first distributions without confusing them with death benefits.",
+      "duration": 280.379,
+      "questions": 9,
+      "module": "Tax and retirement",
+      "outline": [
+        "7.2"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "51",
+      "number": 51,
+      "version": 1,
+      "title": "Annuity withdrawals: find the gain before calculating tax",
+      "subtitle": "Use nonqualified annuity rules and keep insurer charges separate.",
+      "duration": 290.796,
+      "questions": 8,
+      "module": "Tax and retirement",
+      "outline": [
+        "7.3"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "52",
+      "number": 52,
+      "version": 1,
+      "title": "Annuity income, death payments and corporate ownership",
+      "subtitle": "Separate investment recovery, beneficiary timing and the identity of the tax owner.",
+      "duration": 289.002,
+      "questions": 9,
+      "module": "Tax and retirement",
+      "outline": [
+        "7.3"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "53",
+      "number": 53,
+      "version": 1,
+      "title": "Traditional IRAs: contribution, deduction and withdrawal",
+      "subtitle": "Keep eligibility, current tax savings and later distributions separate.",
+      "duration": 288.629,
+      "questions": 9,
+      "module": "Tax and retirement",
+      "outline": [
+        "7.4"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "54",
+      "number": 54,
+      "version": 1,
+      "title": "Roth IRAs: distinguish contributions, conversions and earnings",
+      "subtitle": "Use the ordering rules and both timing tests before deciding what is tax-free.",
+      "duration": 290.25,
+      "questions": 9,
+      "module": "Tax and retirement",
+      "outline": [
+        "7.4"
+      ],
+      "status": "ready"
     }
   ]
 }

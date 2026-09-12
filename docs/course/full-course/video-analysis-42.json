@@ -1,0 +1,84 @@
+{
+  "result": {
+    "id": "a51d31e9-a069-4600-899a-fdf29f9e9b71",
+    "video_input_id": "186cb90e-9b99-4640-8d0b-f10bcee0cb14",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/186cb90e-9b99-4640-8d0b-f10bcee0cb14.mp4",
+    "scenes": [
+      {
+        "audio": "Marcus has a two hundred fifty thousand dollar base policy on his own life. He wants to understand available protection for Elena and their children.",
+        "label": "Opening Hook",
+        "visual": "A man and a woman are seated at a white table in a brightly lit, modern kitchen. The man, in his late 30s to early 40s, has short-cropped black hair, a beard, and a medium complexion; he wears a dark blue, long-sleeved button-down shirt. The woman, also in her late 30s, has long dark brown hair and a light-to-medium complexion, wearing a light olive green collared shirt. They are looking at a white document held by the man; the woman points toward the paper. A silver laptop is open to their left, and a white mug and black notebook are on the table to their right. The background features white cabinetry and a blurred bowl of fruit on a counter, with soft, natural light coming from the right.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:07",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "A rider can add coverage on another eligible person without making that person the base insured. Keep a simple map. Marcus is insured under the base policy. Elena might be insured under an other insured term rider, and eligible children might have a children's term rider. Ownership and beneficiary designations remain separate questions. Being named as a beneficiary does not itself insure that person's life. Read the person and benefit identified in each part of the issued contract.",
+        "label": "Product Information",
+        "visual": "A graphic interface on a cream-colored background. Three rectangular white boxes appear sequentially from left to right. The first box is titled 'Base insured' and lists Marcus. The second box is titled 'Other insured' and lists Elena. The third box is titled 'Children'. The lighting is uniform and artificial, with a clean, corporate aesthetic.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:44",
+        "timestamp_start": "0:07"
+      },
+      {
+        "audio": "Suppose Marcus's policy includes a fifty thousand dollar term rider on Elena. If Elena dies from a covered cause while that rider is in force, the stated rider benefit is fifty thousand dollars. Marcus is still living, so his two hundred fifty thousand dollar base death benefit is not triggered by her death. An other insured rider may cover a spouse or another eligible person under the contract. The product's name and eligibility rules matter. The additional coverage can have its own term, cost, and conversion conditions. Do not assume it is permanent just because the base policy is whole life.",
+        "label": "Usage Scenarios",
+        "visual": "A new set of three graphic boxes appears on the same cream background. The left box is titled 'Elena's covered death' with a fifty thousand dollar benefit. The middle box is titled 'Marcus remains living' stating his base benefit is not triggered. The right box is titled 'Duration' mentioning the term rider's conditions. The layout is static and clean.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "1:31",
+        "timestamp_start": "0:44"
+      },
+      {
+        "audio": "Now suppose an issued children's rider provides ten thousand dollars on each eligible child. If one covered child dies while the rider is in force, the stated benefit is ten thousand dollars for that child. Three eligible children do not automatically create a thirty thousand dollar benefit on the death of just one child. A single rider can cover multiple eligible children, but read the entry requirements, newborn timing, adopted child provisions, maximum ages, and any required notification. A family relationship alone does not establish that every relative is covered. Use the contract's definition of an eligible child and the actual amount per child.",
+        "label": "Usage Scenarios",
+        "visual": "Transition to another graphic layout. Three white boxes: '3 eligible children' with a ten thousand dollar coverage note, '1 covered child dies' with a ten thousand dollar benefit note, and 'Not $30,000' stating benefits are not combined. The aesthetic remains consistent with previous graphics.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "2:19",
+        "timestamp_start": "1:31"
+      },
+      {
+        "audio": "A family term arrangement combines the relevant term coverage for a spouse and children with the base insured's policy. Depending on the product design, some insurers use separate riders instead of one form called a family rider. The important exam task is to match each life to its benefit. This is different from a joint first-death policy paying once when the first of two insured people dies, and different from survivorship insurance paying at the second death. A household label does not tell you the claim trigger. Use the schedule of insured people, amounts, and terms rather than adding every amount into one imagined family death benefit.",
+        "label": "Usage Scenarios",
+        "visual": "A new set of three boxes: 'Family rider structure', 'Joint first-death', and 'Survivorship'. The boxes are aligned horizontally, maintaining the same minimalist design.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "2:58",
+        "timestamp_start": "2:19"
+      },
+      {
+        "audio": "A children's term rider may permit conversion to permanent insurance during a specified opportunity without new evidence of insurability. That right can be valuable if the child's health has changed, but it does not mean unlimited coverage, no premium, or no deadline. Suppose a fictional rider permits conversion of ten thousand dollars of child coverage into up to five times that amount. The stated maximum is fifty thousand dollars. Apply the actual election window and the insurer's permitted conversion products and pricing. Do not teach one carrier's conversion age or multiplier as Maryland's rule for every family policy. A missed deadline can change the available options.",
+        "label": "Product Selling Points",
+        "visual": "Graphics showing 'ten thousand dollars' in the first box, 'x 5' in the second box, and 'fifty thousand dollars' in the third box. The labels describe hypothetical permitted conversion multiples.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "3:47",
+        "timestamp_start": "2:58"
+      },
+      {
+        "audio": "The base insured's death, surrender, or lapse can affect attached family coverage. Some issued child riders continue paid-up term protection after the base insured dies. Some other insured riders terminate while offering a defined conversion opportunity. These are contract provisions, not interchangeable promises.",
+        "label": "Usage Scenarios",
+        "visual": "Returns to the initial live-action scene of Marcus and Elena in the kitchen. They are still reviewing the document, with Marcus listening as Elena speaks. The camera is static, and the lighting is the same as the opening.",
+        "shot_type": "Medium Shot",
+        "scene_number": 7,
+        "timestamp_end": "3:55",
+        "timestamp_start": "3:47"
+      },
+      {
+        "audio": "Marcus should ask what happens to each family's coverage if his own policy ends and what deadlines Elena or the children would face. For an exam, identify the actual event and read the supplied rider terms before selecting the result. Start with whose life is insured, then the amount, the ending conditions, and any conversion right. That sequence prevents confusing a beneficiary with an insured person.",
+        "label": "Call to Action",
+        "visual": "A final vertical list graphic against a clean background with four numbered items: 01 Covered person, 02 Amount, 03 Continuation, and 04 Conversion. The text appears item by item with descriptions appearing to the right of each number.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "4:37",
+        "timestamp_start": "3:55"
+      }
+    ]
+  }
+}

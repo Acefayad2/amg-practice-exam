@@ -1,0 +1,432 @@
+[
+  {
+    "number": 51,
+    "requests": {
+      "requests": [
+        {
+          "index": 510,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Rosa bought a deferred annuity in her own name with money on which she already paid income tax. It is outside an individual retirement account or employer retirement plan. This is a nonqualified annuity for our examples. Its growth generally can accumulate without annual income tax while held by an individual, but access to the money can create taxable income. Before calculating anything, identify the owner, the contract's issue date and whether the payment is a withdrawal, full surrender or annuity income. Different rules apply to different events. A personal annuity does not become an individual retirement account merely because Rosa intends to use it during retirement."
+          }
+        },
+        {
+          "index": 511,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Assume Rosa's contract was issued in twenty twenty, has ninety thousand dollars of cash value and sixty thousand dollars of adjusted investment in the contract. There are no prior distributions or special adjustments. The difference is thirty thousand dollars of gain. Before the annuity starting date, an ordinary partial withdrawal from this contract generally takes taxable earnings before recovering investment. A twenty thousand dollar withdrawal is therefore entirely taxable ordinary income because thirty thousand dollars of gain is available. Do not divide the withdrawal in proportion to premiums and growth. Also do not copy the ordinary basis-first withdrawal treatment from a non-modified life insurance policy."
+          }
+        },
+        {
+          "index": 512,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Now return to the original ninety thousand dollar value and sixty thousand dollar investment, without making the earlier withdrawal. This time Rosa withdraws forty thousand dollars. The first thirty thousand dollars uses the available gain and is taxable. The remaining ten thousand dollars recovers investment without being taxed again. Her remaining investment is fifty thousand dollars under these simplified facts. The withdrawal is not forty thousand dollars of taxable gain, because the contract contained only thirty thousand dollars of gain. Nor is the entire payment a tax-free return of premiums. Establish the value, adjusted investment and actual transaction amount before choosing the taxable portion."
+          }
+        },
+        {
+          "index": 513,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "A full surrender ends the contract and returns its remaining surrender proceeds. Suppose the insurer states that Rosa would receive eighty-five thousand dollars after all applicable surrender charges, and her unrecovered investment is sixty thousand dollars. Assume no debt or other tax adjustment. The resulting taxable gain is twenty-five thousand dollars. That calculation uses the stated net proceeds for this full surrender. It should not be confused with the partial-withdrawal rule, where gain generally uses cash value before surrender charges. Read whether the question describes a partial payment or complete termination. The same displayed account value does not make those two transactions identical."
+          }
+        },
+        {
+          "index": 514,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Change the owner to a forty-five-year-old with a twenty thousand dollar taxable withdrawal and no applicable exception. The additional federal tax on an early nonqualified annuity distribution is generally ten percent of the taxable portion. In this example that is two thousand dollars, in addition to ordinary income tax. An insurer's free-withdrawal allowance concerns its contract charge and does not automatically remove either federal tax. Exceptions to the additional tax include distributions after age fifty-nine and one half, qualifying disability, death and certain substantially equal periodic payments. Use the exception that actually applies. An education or first-home exception associated with an individual retirement account is not a blanket commercial-annuity exception."
+          }
+        },
+        {
+          "index": 515,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "For a nonqualified annuity, taking a loan or pledging value generally can be treated as receiving a distribution under the applicable tax rule. Do not assume that the familiar loan treatment of an ordinary life policy applies to every insurance contract. The amount treated as distributed must still be evaluated using the correct gain and basis rules. Rosa should obtain the insurer's transaction details before deciding what to do. On the exam, follow a consistent sequence: identify the nonqualified contract, distinguish withdrawal from income or full surrender, calculate the taxable amount, and then consider any additional tax. Keeping those steps separate prevents several common answer traps."
+          }
+        }
+      ]
+    },
+    "jobs": {
+      "jobs": [
+        {
+          "index": 510,
+          "job_id": "cf42f3c4-c006-4547-bcf1-0271e265e27a",
+          "status": "pending"
+        },
+        {
+          "index": 511,
+          "job_id": "2ff77877-92a9-415f-a4f6-9cae617b4516",
+          "status": "pending"
+        },
+        {
+          "index": 512,
+          "job_id": "42704cca-5797-4035-b51f-4bcf07ee1572",
+          "status": "pending"
+        },
+        {
+          "index": 513,
+          "job_id": "10f74853-6e74-4e1c-9a5c-7904a22d4231",
+          "status": "pending"
+        },
+        {
+          "index": 514,
+          "job_id": "ae4dadd9-8739-4b06-a80c-618e2a34a0a0",
+          "status": "pending"
+        },
+        {
+          "index": 515,
+          "job_id": "b9c0a534-e5f4-4566-a338-b85aed97120b",
+          "status": "pending"
+        }
+      ],
+      "submitted_count": 6,
+      "failed_count": 0
+    },
+    "completed": {
+      "jobs": [
+        {
+          "index": 510,
+          "job_id": "cf42f3c4-c006-4547-bcf1-0271e265e27a",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_083427_cf42f3c4-c006-4547-bcf1-0271e265e27a.mp3"
+        },
+        {
+          "index": 511,
+          "job_id": "2ff77877-92a9-415f-a4f6-9cae617b4516",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_083428_2ff77877-92a9-415f-a4f6-9cae617b4516.mp3"
+        },
+        {
+          "index": 512,
+          "job_id": "42704cca-5797-4035-b51f-4bcf07ee1572",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_083427_42704cca-5797-4035-b51f-4bcf07ee1572.mp3"
+        },
+        {
+          "index": 513,
+          "job_id": "10f74853-6e74-4e1c-9a5c-7904a22d4231",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_083427_10f74853-6e74-4e1c-9a5c-7904a22d4231.mp3"
+        },
+        {
+          "index": 514,
+          "job_id": "ae4dadd9-8739-4b06-a80c-618e2a34a0a0",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_083427_ae4dadd9-8739-4b06-a80c-618e2a34a0a0.mp3"
+        },
+        {
+          "index": 515,
+          "job_id": "b9c0a534-e5f4-4566-a338-b85aed97120b",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_083428_b9c0a534-e5f4-4566-a338-b85aed97120b.mp3"
+        }
+      ],
+      "summary": {
+        "total": 6,
+        "completed": 6,
+        "failed": 0,
+        "active": 0,
+        "errors": 0
+      },
+      "all_terminal": true
+    },
+    "repairs": {
+      "requests": [
+        {
+          "index": 511,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Rosa's teaching contract was issued in twenty twenty, has ninety thousand dollars of cash value and sixty thousand dollars of adjusted investment in the contract. There are no prior distributions or special adjustments. The difference is thirty thousand dollars of gain. Before the annuity starting date, an ordinary partial withdrawal from this contract generally takes taxable earnings before recovering investment. A twenty thousand dollar withdrawal is therefore entirely taxable ordinary income because thirty thousand dollars of gain is available. Do not divide the withdrawal in proportion to premiums and growth. Also do not copy the ordinary basis-first withdrawal treatment from a non-modified life insurance policy."
+          }
+        }
+      ],
+      "jobs": [
+        {
+          "index": 511,
+          "job_id": "5598a211-822a-4216-9c22-eee047b759fb",
+          "status": "pending"
+        }
+      ],
+      "completed": [
+        {
+          "index": 511,
+          "job_id": "5598a211-822a-4216-9c22-eee047b759fb",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_084052_5598a211-822a-4216-9c22-eee047b759fb.mp3"
+        }
+      ]
+    },
+    "method": "Full six-section narration review; selected regeneration for clipped or spoken punctuation; native pacing when needed, followed by full retranscription.",
+    "reviewState": "Final narration or media review in progress; see ready media manifest for release status."
+  },
+  {
+    "number": 52,
+    "requests": {
+      "requests": [
+        {
+          "index": 520,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Rosa converts a personally owned nonqualified annuity to fixed lifetime payments. This is annuity income, not an ordinary partial withdrawal before payments start. Under the applicable General Rule, part of each payment can recover her investment and the balance can be taxable. Suppose the question gives one hundred thousand dollars of adjusted investment and two hundred thousand dollars of expected return for the calculation. Dividing investment by expected return gives a fifty percent exclusion percentage. Expected return is a tax calculation using the applicable payment terms and factors; it is not simply a promised investment profit. Use the supplied facts rather than guessing a life expectancy."
+          }
+        },
+        {
+          "index": 521,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Assume the fixed annual payment is twenty thousand dollars and the stated exclusion percentage is fifty percent. Ten thousand dollars recovers investment and ten thousand dollars is taxable each full year while unrecovered investment remains under these simplified facts. If the annuity starting date is in twenty twenty-six, total excluded payments cannot exceed the one hundred thousand dollar investment. Once that amount has been recovered, later payments are fully taxable under the stated rule. Lifetime payments can continue after investment is recovered; the tax treatment changes, not the lifetime promise. Variable payments use a different General Rule computation, so do not apply this fixed-payment ratio to every design."
+          }
+        },
+        {
+          "index": 522,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "David dies before his individually owned nonqualified annuity begins income payments. Assume a beneficiary receives one hundred twenty thousand dollars in one sum and the contract has eighty thousand dollars of unrecovered investment, with no other adjustment. Forty thousand dollars is the earnings portion and generally is taxable ordinary income. The beneficiary does not exclude the entire payment merely because it follows a death. Compare this with qualifying life insurance death proceeds, which follow a different exclusion rule. The contract's death-benefit formula establishes the amount payable. Tax law then determines the treatment of that amount. Those are two separate calculations, even when one insurer issues both types of products."
+          }
+        },
+        {
+          "index": 523,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "For the modern nonqualified contract in this example, an owner's death before the annuity starting date generally requires distribution of the entire interest within five years. A qualifying individual beneficiary can use the statutory life-expectancy alternative when its requirements are met, including timely commencement generally within one year. A surviving spouse designated as beneficiary can have a continuation option under the law. If death occurs after the annuity starting date, remaining payments generally must be made at least as rapidly as the existing method. These rules do not guarantee every payout option in every contract. They also are not the separate inherited-account rules for individual retirement arrangements."
+          }
+        },
+        {
+          "index": 524,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "A corporation buys an annuity with company money and owns all the contract rights. Naming David as the annuitant does not make him the owner. Under the general non-natural-owner rule, income on a nonqualified annuity held by a corporation or other non-natural person can be taxable currently as ordinary income, rather than receiving the usual individual-owner deferral. The law has specific exceptions. These include certain qualified arrangements, a qualifying immediate annuity and contracts acquired by an estate because of a death. A trust or entity genuinely holding as an agent for a natural person requires its actual ownership facts to be examined. Do not classify every trust the same way."
+          }
+        },
+        {
+          "index": 525,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Use four short questions to finish the analysis. Is the payment a withdrawal, annuity income or a death distribution? How much investment remains to be recovered? Who is the owner, and what tax arrangement holds the contract? Which timing requirement or exception applies to these facts? Rosa's fixed income example uses a stated exclusion calculation. David's beneficiary example separates earnings from unrecovered investment. The corporation example begins with ownership and the statutory exceptions. None can be solved by memorizing that all annuities are tax-free, or that every payment is fully taxable. The correct answer comes from matching the event and ownership facts with the applicable rule."
+          }
+        }
+      ]
+    },
+    "jobs": {
+      "jobs": [
+        {
+          "index": 520,
+          "job_id": "cbfa3f9f-d143-4e2f-9be6-b6c7910287b7",
+          "status": "pending"
+        },
+        {
+          "index": 521,
+          "job_id": "bfc3e9c0-7c3d-4b1c-9d32-4ed6ea0e7e42",
+          "status": "pending"
+        },
+        {
+          "index": 522,
+          "job_id": "9a341995-c81a-4653-a66c-2eee82b8c6b8",
+          "status": "pending"
+        },
+        {
+          "index": 523,
+          "job_id": "2b4c02a1-8c67-4875-bc38-bd5f0e1b8c26",
+          "status": "pending"
+        },
+        {
+          "index": 524,
+          "job_id": "aeeac420-23b2-4384-ac10-d095d9f6ec13",
+          "status": "pending"
+        },
+        {
+          "index": 525,
+          "job_id": "caa677c1-80c6-4b4b-b568-1fa3c22f599b",
+          "status": "pending"
+        }
+      ],
+      "submitted_count": 6,
+      "failed_count": 0
+    },
+    "completed": {
+      "jobs": [
+        {
+          "index": 520,
+          "job_id": "cbfa3f9f-d143-4e2f-9be6-b6c7910287b7",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_083549_cbfa3f9f-d143-4e2f-9be6-b6c7910287b7.mp3"
+        },
+        {
+          "index": 521,
+          "job_id": "bfc3e9c0-7c3d-4b1c-9d32-4ed6ea0e7e42",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_083549_bfc3e9c0-7c3d-4b1c-9d32-4ed6ea0e7e42.mp3"
+        },
+        {
+          "index": 522,
+          "job_id": "9a341995-c81a-4653-a66c-2eee82b8c6b8",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_083549_9a341995-c81a-4653-a66c-2eee82b8c6b8.mp3"
+        },
+        {
+          "index": 523,
+          "job_id": "2b4c02a1-8c67-4875-bc38-bd5f0e1b8c26",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_083549_2b4c02a1-8c67-4875-bc38-bd5f0e1b8c26.mp3"
+        },
+        {
+          "index": 524,
+          "job_id": "aeeac420-23b2-4384-ac10-d095d9f6ec13",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_083549_aeeac420-23b2-4384-ac10-d095d9f6ec13.mp3"
+        },
+        {
+          "index": 525,
+          "job_id": "caa677c1-80c6-4b4b-b568-1fa3c22f599b",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_083549_caa677c1-80c6-4b4b-b568-1fa3c22f599b.mp3"
+        }
+      ],
+      "summary": {
+        "total": 6,
+        "completed": 6,
+        "failed": 0,
+        "active": 0,
+        "errors": 0
+      },
+      "all_terminal": true
+    },
+    "repairs": {
+      "requests": [
+        {
+          "index": 524,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Consider a corporation that buys an annuity with company money and owns all the contract rights. Naming David as the annuitant does not make him the owner. Under the general non-natural-owner rule, income on a nonqualified annuity held by a corporation or other non-natural person can be taxable currently as ordinary income, rather than receiving the usual individual-owner deferral. The law has specific exceptions. These include certain qualified arrangements, a qualifying immediate annuity and contracts acquired by an estate because of a death. A trust or entity genuinely holding as an agent for a natural person requires its actual ownership facts to be examined. Do not classify every trust the same way."
+          }
+        },
+        {
+          "index": 525,
+          "params": {
+            "model": "seed_audio",
+            "voice_type": "preset",
+            "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+            "format": "mp3",
+            "speech_rate": 5,
+            "prompt": "Here are four questions that organize the analysis. Is the payment a withdrawal, annuity income or a death distribution? How much investment remains to be recovered? Who is the owner, and what tax arrangement holds the contract? Which timing requirement or exception applies to these facts? Rosa's fixed income example uses a stated exclusion calculation. David's beneficiary example separates earnings from unrecovered investment. The corporation example begins with ownership and the statutory exceptions. None can be solved by memorizing that all annuities are tax-free, or that every payment is fully taxable. The correct answer comes from matching the event and ownership facts with the applicable rule."
+          }
+        }
+      ],
+      "jobs": [
+        {
+          "index": 524,
+          "job_id": "81a308fe-aba4-459d-9b9a-bac1b4720950",
+          "status": "pending"
+        },
+        {
+          "index": 525,
+          "job_id": "26aa96d9-3158-483e-9515-5e9aafd2c2ef",
+          "status": "pending"
+        }
+      ],
+      "completed": [
+        {
+          "index": 524,
+          "job_id": "81a308fe-aba4-459d-9b9a-bac1b4720950",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_084052_81a308fe-aba4-459d-9b9a-bac1b4720950.mp3"
+        },
+        {
+          "index": 525,
+          "job_id": "26aa96d9-3158-483e-9515-5e9aafd2c2ef",
+          "status": "completed",
+          "type": "audio",
+          "model": "seed_audio",
+          "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_084052_26aa96d9-3158-483e-9515-5e9aafd2c2ef.mp3"
+        }
+      ]
+    },
+    "method": "Full six-section narration review; selected regeneration for clipped or spoken punctuation; native pacing when needed, followed by full retranscription.",
+    "reviewState": "Final narration or media review in progress; see ready media manifest for release status."
+  }
+]

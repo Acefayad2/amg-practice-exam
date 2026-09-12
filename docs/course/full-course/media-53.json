@@ -1,0 +1,36 @@
+{
+  "number": 53,
+  "duration": "288.629000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/df24e059-6e7d-4e8d-ad6c-3aaf01846af9.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/f88d4a26-cc92-46c4-a16c-803d5b43e46d.png",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/ee3448ac-89fb-4347-9816-1d2e074e2d43.jpg",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/8ef5d3ba-68ef-4c32-bd8a-9cd07e913e59.zip",
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "288.629000",
+      "size": "22890553"
+    }
+  },
+  "review": {
+    "layouts": "All eight layouts inspected visually; contribution amounts, arithmetic, date conditions, logo and spacing passed.",
+    "decode": "Complete FFmpeg decode passed.",
+    "speech": "All six final narration sections transcribed and read after native pacing. Part 53 deduction wording regenerated and checked.",
+    "analysis": "Optional whole-video analysis queued; independent speech, frame and file checks passed.",
+    "player": "Chromium: all 14 media, native ended-event, required-question, feedback, retry, first-answer history, resume, saved completion, caption and mobile-dialog checks passed without errors."
+  },
+  "status": "ready",
+  "coordinatorApproval": null
+}
