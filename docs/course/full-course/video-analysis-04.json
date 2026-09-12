@@ -1,0 +1,291 @@
+{
+  "result": {
+    "id": "67e06e64-c5ce-4e33-bc91-5c19f440d0bf",
+    "video_input_id": "c6e73f6a-5152-4e9f-b663-55e136d6b355",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/c6e73f6a-5152-4e9f-b663-55e136d6b355.mp4",
+    "scenes": [
+      {
+        "audio": "Elena reviews a life insurer,",
+        "label": "Opening Hook",
+        "visual": "Static digital graphic. Teal/white background. Header: 'Three labels can describe one insurer'. One white box 'Stock' appears. Minimalist UI. Flat lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:01",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "formed in Pennsylvania and authorized",
+        "label": "Product Information",
+        "visual": "Second box 'Foreign to Maryland' appears. Same layout, static camera. High-contrast black text on light grey/white panels.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:03",
+        "timestamp_start": "0:01"
+      },
+      {
+        "audio": "to operate in Maryland. Its shareholders own the company. Is it stock, foreign, or admitted? It can be all three.",
+        "label": "Product Information",
+        "visual": "Third box 'Admitted in Maryland' appears. The full set of three labels is displayed. Static framing. Corporate logo bottom left.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:15",
+        "timestamp_start": "0:03"
+      },
+      {
+        "audio": "Stock describes ownership. Foreign describes where the company was formed, relative to Maryland.",
+        "label": "Product Information",
+        "visual": "Boxes remain static. Digital presentation style with teal accent bar. Neutral color palette. Even, artificial lighting simulation.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:30",
+        "timestamp_start": "0:15"
+      },
+      {
+        "audio": "Admitted describes authorization in Maryland. Exam questions often put these separate dimensions together. Begin by asking which dimension the question actually tests. A company's location, ownership, and permission to transact business are not interchangeable labels.",
+        "label": "Product Information",
+        "visual": "Screen holds the three primary labels. Clean, professional graphic design. Uniform typography. No subject movement.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:43",
+        "timestamp_start": "0:30"
+      },
+      {
+        "audio": "Who owns the organization? A stock insurer is owned by shareholders.",
+        "label": "Product Information",
+        "visual": "Header changes to 'Who owns the organization?'. Body clears to one box: 'Stock'. Simplified digital environment.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "0:46",
+        "timestamp_start": "0:44"
+      },
+      {
+        "audio": "A mutual insurer is owned by its policyholders,",
+        "label": "Product Information",
+        "visual": "Second box 'Mutual / assessment' appears beside 'Stock'. Static graphic update. Professional teal/grey palette.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "0:47",
+        "timestamp_start": "0:46"
+      },
+      {
+        "audio": "with rights determined by its structure and law. Assessment arrangements may permit additional assessments of members under their terms. Do not assume that every mutual policy allows an extra assessment.",
+        "label": "Product Information",
+        "visual": "Third box 'Fraternal' appears. Screen fully populated with three ownership types. Static framing continues.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:02",
+        "timestamp_start": "0:47"
+      },
+      {
+        "audio": "Fraternal benefit societies are membership organizations organized around a common bond and operate under special laws.",
+        "label": "Product Information",
+        "visual": "Graphics remain static. Corporate branding remains consistent in the corner. Flat digital lighting across the text boxes.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:17",
+        "timestamp_start": "1:02"
+      },
+      {
+        "audio": "They can provide insurance benefits to members. Private insurers differ from government programs, whose eligibility and benefits come from their governing laws and program rules.",
+        "label": "Product Information",
+        "visual": "The interface holds the ownership categories. No visual transitions or animations. High readability focus.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "1:21",
+        "timestamp_start": "1:17"
+      },
+      {
+        "audio": "Where was it formed? Domicile refers to the jurisdiction of formation.",
+        "label": "Product Information",
+        "visual": "Header updates to 'Where was it formed?'. First box 'Domestic' appears. Clean slide transition. Static background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "1:24",
+        "timestamp_start": "1:22"
+      },
+      {
+        "audio": "For a Maryland question, an insurer formed in Maryland is domestic.",
+        "label": "Product Information",
+        "visual": "Second box 'Foreign' appears. Logical horizontal layout. Teal header bar. Static graphic elements.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "1:25",
+        "timestamp_start": "1:24"
+      },
+      {
+        "audio": "One formed in another U.S. state is foreign. One formed outside the United States is alien. These terms say nothing by themselves about whether the company is licensed in Maryland.",
+        "label": "Product Information",
+        "visual": "Third box 'Alien' appears. Screen displays Domestic, Foreign, and Alien. Constant lighting and colors.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "1:40",
+        "timestamp_start": "1:25"
+      },
+      {
+        "audio": "A foreign or alien insurer can be admitted. An office in Baltimore does not turn a Pennsylvania corporation into a Maryland domestic insurer.",
+        "label": "Product Information",
+        "visual": "Body panels remain static while audio elaborates. Professional minimalist aesthetic. Deep depth of field simulated.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "1:55",
+        "timestamp_start": "1:40"
+      },
+      {
+        "audio": "The formation jurisdiction, rather than the producer's office, controls this classification.",
+        "label": "Product Information",
+        "visual": "Static wide view of the formation categories. Graphic stays unchanged. High-resolution digital text.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "2:01",
+        "timestamp_start": "1:55"
+      },
+      {
+        "audio": "Permission and financial strength. An admitted insurer holds authority to transact the authorized insurance business in the state.",
+        "label": "Product Information",
+        "visual": "Header: 'Permission and financial strength'. Box 01 'Authorization' shown. Arrow pointing right from the panel.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "2:03",
+        "timestamp_start": "2:02"
+      },
+      {
+        "audio": "Non-admitted means it lacks that authority.",
+        "label": "Product Information",
+        "visual": "Box 02 'Financial review' appears. Arrow connects first to second box. Process-flow graphic design.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "2:05",
+        "timestamp_start": "2:03"
+      },
+      {
+        "audio": "This is not a shortcut for placing ordinary life insurance with any unlicensed company. Verify the insurer and the producer's authority for the transaction.",
+        "label": "Product Information",
+        "visual": "Box 03 'Guaranty system' added. Three connected panels in a horizontal line. Static framing. Corporate color scheme.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "2:20",
+        "timestamp_start": "2:05"
+      },
+      {
+        "audio": "Financial strength ratings are opinions from rating organizations, not government promises that every benefit will be paid.",
+        "label": "Product Information",
+        "visual": "The 'Authorization' flow diagram remains on screen. Body text details current financial status logic. Static background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "2:35",
+        "timestamp_start": "2:20"
+      },
+      {
+        "audio": "Ratings, capital, earnings, and operating results can change. Guaranty protection is a separate statutory system with eligibility rules, exclusions, and limits.",
+        "label": "Product Information",
+        "visual": "Body panels hold. No movement. Presentation focus on informational density. Professional digital graphic.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "2:51",
+        "timestamp_start": "2:35"
+      },
+      {
+        "audio": "How the policy reaches the customer. Insurers distribute coverage through several systems.",
+        "label": "Product Information",
+        "visual": "Header: 'How the policy reaches the customer'. Box 'Captive / exclusive' appears. Simple box-and-body text layout.",
+        "shot_type": "Wide Shot",
+        "scene_number": 21,
+        "timestamp_end": "2:54",
+        "timestamp_start": "2:52"
+      },
+      {
+        "audio": "Captive or exclusive producers generally represent one insurer or an affiliated group.",
+        "label": "Product Information",
+        "visual": "Second box 'Independent' appears. Static layout updates. Teal header bar stays fixed. High readability.",
+        "shot_type": "Wide Shot",
+        "scene_number": 22,
+        "timestamp_end": "2:55",
+        "timestamp_start": "2:54"
+      },
+      {
+        "audio": "Independent producers can represent multiple insurers, subject to their contracts and appointments. Direct response distribution can use the internet, mail, or telephone without the same producer relationship.",
+        "label": "Product Information",
+        "visual": "Third box 'Direct response' appears. The distribution trio is displayed. Teal accent on logo. Flat lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 23,
+        "timestamp_end": "3:10",
+        "timestamp_start": "2:55"
+      },
+      {
+        "audio": "The label independent does not mean authority to bind every insurer. A purchasing group is a group formed to buy insurance.",
+        "label": "Product Information",
+        "visual": "Static view of the three distribution methods. Text boxes provide descriptions. No graphic movement.",
+        "shot_type": "Wide Shot",
+        "scene_number": 24,
+        "timestamp_end": "3:25",
+        "timestamp_start": "3:10"
+      },
+      {
+        "audio": "It is not automatically an insurer. Federal risk purchasing groups chiefly concern liability insurance, so do not use that label as an ordinary life placement exception.",
+        "label": "Product Information",
+        "visual": "The screen remains fixed on the distribution categories. Minimalist design. Even digital illumination.",
+        "shot_type": "Wide Shot",
+        "scene_number": 25,
+        "timestamp_end": "3:42",
+        "timestamp_start": "3:25"
+      },
+      {
+        "audio": "Classify before comparing. Ownership. Domicile. Authorization. Distribution. Return to Elena's Pennsylvania company.",
+        "label": "Product Information",
+        "visual": "Header: 'Classify before comparing'. Row 01 'Ownership' appears. List-based summary format.",
+        "shot_type": "Wide Shot",
+        "scene_number": 26,
+        "timestamp_end": "3:44",
+        "timestamp_start": "3:43"
+      },
+      {
+        "audio": "It is foreign relative to Maryland.",
+        "label": "Product Information",
+        "visual": "Row 02 'Domicile' appears. Vertical accumulation of summary rows. Static framing.",
+        "shot_type": "Wide Shot",
+        "scene_number": 27,
+        "timestamp_end": "3:45",
+        "timestamp_start": "3:44"
+      },
+      {
+        "audio": "Stock because shareholders own it.",
+        "label": "Product Information",
+        "visual": "Row 03 'Authorization' appears. High contrast black on white rows. Digital interface.",
+        "shot_type": "Wide Shot",
+        "scene_number": 28,
+        "timestamp_end": "3:46",
+        "timestamp_start": "3:45"
+      },
+      {
+        "audio": "And admitted because Maryland has authorized it. If a rating organization gives it a strong rating, that adds an opinion about financial strength, not another type of license.",
+        "label": "Product Information",
+        "visual": "Row 04 'Distribution' added. The final summary table is complete. Static wide shot of information.",
+        "shot_type": "Wide Shot",
+        "scene_number": 29,
+        "timestamp_end": "4:01",
+        "timestamp_start": "3:46"
+      },
+      {
+        "audio": "If a producer represents the company, check that producer's authority separately. Keep five questions distinct. Who owns the insurer?",
+        "label": "Product Information",
+        "visual": "Full summary list displayed. Uniform professional styling. Nosubject interaction. Corporate branding constant.",
+        "shot_type": "Wide Shot",
+        "scene_number": 30,
+        "timestamp_end": "4:16",
+        "timestamp_start": "4:01"
+      },
+      {
+        "audio": "Where was it formed? Where may it operate? How does it distribute coverage? And what do current financial measures show?",
+        "label": "Call to Action",
+        "visual": "Screen holds on the 'Classify' summary. Final summary of the five key questions. Static end frame.",
+        "shot_type": "Wide Shot",
+        "scene_number": 31,
+        "timestamp_end": "4:32",
+        "timestamp_start": "4:16"
+      }
+    ]
+  }
+}

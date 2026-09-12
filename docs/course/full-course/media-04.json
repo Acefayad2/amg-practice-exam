@@ -1,0 +1,36 @@
+{
+  "number": 4,
+  "duration": "271.919000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/c6e73f6a-5152-4e9f-b663-55e136d6b355.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/ff2f2d61-a970-4870-9723-68c939ae0e47.png",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/f5a066d8-891e-407e-ad5f-eedca0310ada.zip",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/cad93b6f-af68-4214-b16e-a2ec2a0dad9f.jpg",
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "271.919000",
+      "size": "11287886"
+    }
+  },
+  "review": {
+    "layouts": "Six settled layouts inspected. Titles, labels and circular logo readable without overlap.",
+    "decode": "Complete FFmpeg decode passed.",
+    "speech": "Full transcript alignment reviewed; repaired mutual-assessment section and rechecked. See audio-04-repair.json.",
+    "analysis": "Completed scene analysis reviewed alongside script and rendered layouts. See video-analysis-04.json.",
+    "player": "Chromium end-to-end check passed: native video end, every required question, wrong-answer retry, persisted first attempt, resume and mobile captions/dialog."
+  },
+  "status": "ready",
+  "coordinatorApproval": null
+}

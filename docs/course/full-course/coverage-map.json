@@ -1,0 +1,3779 @@
+[
+  {
+    "id": "1.1.01",
+    "title": "Why licensing exists; definitions",
+    "teaching": [
+      {
+        "lesson": "09",
+        "title": "A license belongs to its holder"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "09",
+        "id": "L09-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.1.02",
+    "title": "Initial eligibility, examination, application and fee",
+    "teaching": [
+      {
+        "lesson": "09",
+        "title": "Qualify and apply accurately"
+      },
+      {
+        "lesson": "09",
+        "title": "The application is a legal disclosure"
+      },
+      {
+        "lesson": "09",
+        "title": "Fees and exam scheduling"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "09",
+        "id": "L09-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.1.03",
+    "title": "Producer, adviser, nonresident and business-entity licenses",
+    "teaching": [
+      {
+        "lesson": "09",
+        "title": "A license belongs to its holder"
+      },
+      {
+        "lesson": "09",
+        "title": "Resident, nonresident and agency"
+      },
+      {
+        "lesson": "09",
+        "title": "Advice and specialized transactions"
+      },
+      {
+        "lesson": "09",
+        "title": "The application is a legal disclosure"
+      },
+      {
+        "lesson": "09",
+        "title": "Read exceptions narrowly"
+      },
+      {
+        "lesson": "10",
+        "title": "Keep contact and business details current"
+      },
+      {
+        "lesson": "10",
+        "title": "Moving across state lines"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "09",
+        "id": "L09-01"
+      },
+      {
+        "lesson": "09",
+        "id": "L09-03"
+      },
+      {
+        "lesson": "09",
+        "id": "L09-04"
+      },
+      {
+        "lesson": "09",
+        "id": "L09-07"
+      },
+      {
+        "lesson": "10",
+        "id": "L10-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.1.04",
+    "title": "Viatical licensing; exceptions and temporary authority",
+    "teaching": [
+      {
+        "lesson": "09",
+        "title": "Advice and specialized transactions"
+      },
+      {
+        "lesson": "09",
+        "title": "Exceptions depend on actual duties"
+      },
+      {
+        "lesson": "09",
+        "title": "Temporary authority is specific"
+      },
+      {
+        "lesson": "09",
+        "title": "Read exceptions narrowly"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "09",
+        "id": "L09-05"
+      },
+      {
+        "lesson": "09",
+        "id": "L09-06"
+      },
+      {
+        "lesson": "09",
+        "id": "L09-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.1.05",
+    "title": "License duration, termination, renewal and CE",
+    "teaching": [
+      {
+        "lesson": "10",
+        "title": "Renewal and education are different clocks"
+      },
+      {
+        "lesson": "10",
+        "title": "The regular continuing-education rule"
+      },
+      {
+        "lesson": "10",
+        "title": "If a license expires"
+      },
+      {
+        "lesson": "10",
+        "title": "Build a reliable compliance calendar"
+      },
+      {
+        "lesson": "10",
+        "title": "The current CE deadline controls this lesson"
+      },
+      {
+        "lesson": "10",
+        "title": "Special CE rules are not a blanket age exemption"
+      },
+      {
+        "lesson": "10",
+        "title": "Reinstatement details"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "10",
+        "id": "L10-01"
+      },
+      {
+        "lesson": "10",
+        "id": "L10-02"
+      },
+      {
+        "lesson": "10",
+        "id": "L10-03"
+      },
+      {
+        "lesson": "10",
+        "id": "L10-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.1.06",
+    "title": "Address/name changes and assumed names",
+    "teaching": [
+      {
+        "lesson": "09",
+        "title": "The application is a legal disclosure"
+      },
+      {
+        "lesson": "10",
+        "title": "Keep contact and business details current"
+      },
+      {
+        "lesson": "10",
+        "title": "Build a reliable compliance calendar"
+      },
+      {
+        "lesson": "10",
+        "title": "Moving across state lines"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "10",
+        "id": "L10-05"
+      },
+      {
+        "lesson": "10",
+        "id": "L10-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.1.07",
+    "title": "Criminal and other-jurisdiction reporting",
+    "teaching": [
+      {
+        "lesson": "10",
+        "title": "Report the event the statute identifies"
+      },
+      {
+        "lesson": "10",
+        "title": "Build a reliable compliance calendar"
+      },
+      {
+        "lesson": "10",
+        "title": "Supporting documents matter"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "10",
+        "id": "L10-06"
+      },
+      {
+        "lesson": "10",
+        "id": "L10-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.1.08",
+    "title": "Producer contract versus appointment; individual versus agency appointment",
+    "teaching": [
+      {
+        "lesson": "09",
+        "title": "A license belongs to its holder"
+      },
+      {
+        "lesson": "09",
+        "title": "Resident, nonresident and agency"
+      },
+      {
+        "lesson": "11",
+        "title": "Three different kinds of permission"
+      },
+      {
+        "lesson": "11",
+        "title": "Document and maintain the appointment"
+      },
+      {
+        "lesson": "11",
+        "title": "The register and written documentation are different"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "09",
+        "id": "L09-01"
+      },
+      {
+        "lesson": "11",
+        "id": "L11-01"
+      },
+      {
+        "lesson": "11",
+        "id": "L11-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.1.09",
+    "title": "Solicitation before appointment and appointment after licensing",
+    "teaching": [
+      {
+        "lesson": "11",
+        "title": "The narrow life-application exception"
+      },
+      {
+        "lesson": "11",
+        "title": "The register and written documentation are different"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "11",
+        "id": "L11-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.1.10",
+    "title": "Appointment notice, cessation, termination and lack of active appointments",
+    "teaching": [
+      {
+        "lesson": "11",
+        "title": "When the relationship ends"
+      },
+      {
+        "lesson": "11",
+        "title": "Not every termination notice has the same recipient or trigger"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "11",
+        "id": "L11-05"
+      },
+      {
+        "lesson": "11",
+        "id": "L11-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.1.11",
+    "title": "Probation, suspension, revocation, denial and nonrenewal",
+    "teaching": [
+      {
+        "lesson": "11",
+        "title": "The Commissioner enforces the law"
+      },
+      {
+        "lesson": "11",
+        "title": "Consequences and the right response"
+      },
+      {
+        "lesson": "11",
+        "title": "Recognize additional discipline grounds"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "11",
+        "id": "L11-06"
+      },
+      {
+        "lesson": "11",
+        "id": "L11-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.1.12",
+    "title": "Cease-and-desist orders, penalties and hearing rights",
+    "teaching": [
+      {
+        "lesson": "11",
+        "title": "The Commissioner enforces the law"
+      },
+      {
+        "lesson": "11",
+        "title": "Consequences and the right response"
+      },
+      {
+        "lesson": "11",
+        "title": "Hearings and judicial review"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "11",
+        "id": "L11-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.1.13",
+    "title": "Insurance fraud",
+    "teaching": [
+      {
+        "lesson": "11",
+        "title": "Consequences and the right response"
+      },
+      {
+        "lesson": "11",
+        "title": "Recognize additional discipline grounds"
+      },
+      {
+        "lesson": "11",
+        "title": "Fraud reporting is based on good-faith cause"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "11",
+        "id": "L11-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.2.01",
+    "title": "MIA powers and duties",
+    "teaching": [
+      {
+        "lesson": "11",
+        "title": "The Commissioner enforces the law"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "11",
+        "id": "L11-09"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.2.02",
+    "title": "Insurer authorization, forms and claims oversight",
+    "teaching": [
+      {
+        "lesson": "11",
+        "title": "Three different kinds of permission"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "11",
+        "id": "L11-10"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.2.03",
+    "title": "Acting for an unauthorized insurer",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.2.04",
+    "title": "Records and permitted work by unlicensed people",
+    "teaching": [
+      {
+        "lesson": "11",
+        "title": "Document and maintain the appointment"
+      },
+      {
+        "lesson": "12",
+        "title": "Who can receive sales compensation?"
+      },
+      {
+        "lesson": "12",
+        "title": "Records have different clocks"
+      },
+      {
+        "lesson": "12",
+        "title": "Compensation is tied to the real activity"
+      },
+      {
+        "lesson": "12",
+        "title": "Record periods are not interchangeable"
+      },
+      {
+        "lesson": "13",
+        "title": "Referrals and forms need boundaries"
+      },
+      {
+        "lesson": "13",
+        "title": "A referral label cannot authorize selling"
+      },
+      {
+        "lesson": "14",
+        "title": "Revised terms require a revised presentation"
+      },
+      {
+        "lesson": "15",
+        "title": "Retention depends on the document and party"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "11",
+        "id": "L11-04"
+      },
+      {
+        "lesson": "12",
+        "id": "L12-08"
+      },
+      {
+        "lesson": "13",
+        "id": "L13-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.2.05",
+    "title": "Commissions, sharing, fees and compensation exceptions",
+    "teaching": [
+      {
+        "lesson": "12",
+        "title": "Who can receive sales compensation?"
+      },
+      {
+        "lesson": "12",
+        "title": "A fee needs legal authority"
+      },
+      {
+        "lesson": "12",
+        "title": "Compensation is tied to the real activity"
+      },
+      {
+        "lesson": "12",
+        "title": "Actual credit-card expenses and payment choices"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "12",
+        "id": "L12-06"
+      },
+      {
+        "lesson": "12",
+        "id": "L12-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.2.06",
+    "title": "Fiduciary duties, commingling and trust accounts",
+    "teaching": [
+      {
+        "lesson": "12",
+        "title": "Premium money has a purpose"
+      },
+      {
+        "lesson": "12",
+        "title": "Prompt remittance or a premium account"
+      },
+      {
+        "lesson": "12",
+        "title": "Permitted deposits and withdrawals"
+      },
+      {
+        "lesson": "12",
+        "title": "A permitted voluntary deposit is not ordinary commingling"
+      },
+      {
+        "lesson": "12",
+        "title": "Commission and interest transfers have conditions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "12",
+        "id": "L12-01"
+      },
+      {
+        "lesson": "12",
+        "id": "L12-02"
+      },
+      {
+        "lesson": "12",
+        "id": "L12-03"
+      },
+      {
+        "lesson": "12",
+        "id": "L12-04"
+      },
+      {
+        "lesson": "12",
+        "id": "L12-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.2.07",
+    "title": "Advertising and misleading policy descriptions",
+    "teaching": [
+      {
+        "lesson": "13",
+        "title": "A comparison must tell the truth"
+      },
+      {
+        "lesson": "14",
+        "title": "A sales message must be accurate"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "13",
+        "id": "L13-01"
+      },
+      {
+        "lesson": "14",
+        "id": "L14-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.2.08",
+    "title": "False advertising, defamation and false financial statements",
+    "teaching": [
+      {
+        "lesson": "13",
+        "title": "Reputation and financial statements"
+      },
+      {
+        "lesson": "13",
+        "title": "Ordinary recordkeeping is not financial falsification"
+      },
+      {
+        "lesson": "14",
+        "title": "A sales message must be accurate"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "13",
+        "id": "L13-02"
+      },
+      {
+        "lesson": "13",
+        "id": "L13-08"
+      },
+      {
+        "lesson": "14",
+        "id": "L14-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.2.09",
+    "title": "Boycott, coercion and intimidation",
+    "teaching": [
+      {
+        "lesson": "13",
+        "title": "Pressure can cross a legal line"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "13",
+        "id": "L13-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.2.10",
+    "title": "Inducements, rebating and unfair discrimination",
+    "teaching": [
+      {
+        "lesson": "13",
+        "title": "An inducement is not a policy benefit"
+      },
+      {
+        "lesson": "13",
+        "title": "Fair treatment and risk differences"
+      },
+      {
+        "lesson": "13",
+        "title": "The $50 exception has both a type and a condition"
+      },
+      {
+        "lesson": "13",
+        "title": "Specific life underwriting protections"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "13",
+        "id": "L13-03"
+      },
+      {
+        "lesson": "13",
+        "id": "L13-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.2.11",
+    "title": "Blank forms, twisting and referrals",
+    "teaching": [
+      {
+        "lesson": "13",
+        "title": "A comparison must tell the truth"
+      },
+      {
+        "lesson": "13",
+        "title": "Referrals and forms need boundaries"
+      },
+      {
+        "lesson": "13",
+        "title": "Twisting can involve retention as well as replacement"
+      },
+      {
+        "lesson": "13",
+        "title": "A referral label cannot authorize selling"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "13",
+        "id": "L13-01"
+      },
+      {
+        "lesson": "13",
+        "id": "L13-06"
+      },
+      {
+        "lesson": "13",
+        "id": "L13-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.2.12",
+    "title": "Information and privacy protection",
+    "teaching": [
+      {
+        "lesson": "14",
+        "title": "Privacy involves purpose and permission"
+      },
+      {
+        "lesson": "14",
+        "title": "Apply exceptions carefully"
+      },
+      {
+        "lesson": "14",
+        "title": "Initial and annual notices are different"
+      },
+      {
+        "lesson": "14",
+        "title": "An opt-out opportunity must be meaningful"
+      },
+      {
+        "lesson": "14",
+        "title": "Life underwriting can involve health information"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "14",
+        "id": "L14-06"
+      },
+      {
+        "lesson": "14",
+        "id": "L14-07"
+      },
+      {
+        "lesson": "14",
+        "id": "L14-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.3.01",
+    "title": "Replacement definitions, duties and notices",
+    "teaching": [
+      {
+        "lesson": "15",
+        "title": "Replacement is broader than cancellation"
+      },
+      {
+        "lesson": "15",
+        "title": "Borrowing can finance a replacement"
+      },
+      {
+        "lesson": "15",
+        "title": "The producer documents the facts"
+      },
+      {
+        "lesson": "15",
+        "title": "The new insurer has its own duties"
+      },
+      {
+        "lesson": "15",
+        "title": "The replacement return right"
+      },
+      {
+        "lesson": "15",
+        "title": "Compare the complete outcome"
+      },
+      {
+        "lesson": "15",
+        "title": "The old contract need not disappear"
+      },
+      {
+        "lesson": "15",
+        "title": "Review the chapter’s exclusions"
+      },
+      {
+        "lesson": "15",
+        "title": "Sales-material delivery has a special electronic rule"
+      },
+      {
+        "lesson": "15",
+        "title": "Retention depends on the document and party"
+      },
+      {
+        "lesson": "15",
+        "title": "Existing-policy values need their own warning"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "15",
+        "id": "L15-01"
+      },
+      {
+        "lesson": "15",
+        "id": "L15-02"
+      },
+      {
+        "lesson": "15",
+        "id": "L15-03"
+      },
+      {
+        "lesson": "15",
+        "id": "L15-04"
+      },
+      {
+        "lesson": "15",
+        "id": "L15-05"
+      },
+      {
+        "lesson": "15",
+        "id": "L15-06"
+      },
+      {
+        "lesson": "15",
+        "id": "L15-07"
+      },
+      {
+        "lesson": "15",
+        "id": "L15-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.3.02",
+    "title": "Group eligibility and dependent coverage",
+    "teaching": [
+      {
+        "lesson": "16",
+        "title": "One master policy, individual protection"
+      },
+      {
+        "lesson": "16",
+        "title": "Contributions and eligible dependents"
+      },
+      {
+        "lesson": "16",
+        "title": "Dependent coverage has Maryland-specific definitions"
+      },
+      {
+        "lesson": "16",
+        "title": "The standard-provision scope matters"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "16",
+        "id": "L16-01"
+      },
+      {
+        "lesson": "16",
+        "id": "L16-02"
+      },
+      {
+        "lesson": "16",
+        "id": "L16-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.3.03",
+    "title": "Required group provisions and conversion",
+    "teaching": [
+      {
+        "lesson": "16",
+        "title": "Leaving employment can trigger conversion"
+      },
+      {
+        "lesson": "16",
+        "title": "Amount, notice and a death during conversion"
+      },
+      {
+        "lesson": "16",
+        "title": "The whole group policy ends"
+      },
+      {
+        "lesson": "16",
+        "title": "The conversion notice can extend the application period"
+      },
+      {
+        "lesson": "16",
+        "title": "Conversion does not carry every supplementary benefit"
+      },
+      {
+        "lesson": "16",
+        "title": "Grace period and incontestability have different purposes"
+      },
+      {
+        "lesson": "16",
+        "title": "The standard-provision scope matters"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "16",
+        "id": "L16-04"
+      },
+      {
+        "lesson": "16",
+        "id": "L16-05"
+      },
+      {
+        "lesson": "16",
+        "id": "L16-06"
+      },
+      {
+        "lesson": "16",
+        "id": "L16-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.3.04",
+    "title": "Assignment of group proceeds",
+    "teaching": [
+      {
+        "lesson": "16",
+        "title": "Rights can be assigned"
+      },
+      {
+        "lesson": "16",
+        "title": "Assignment transfers specified rights"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "16",
+        "id": "L16-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.3.05",
+    "title": "Guaranty corporation purpose, eligibility, limits and advertising restrictions",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.01",
+    "title": "Risk",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.02",
+    "title": "Exposure",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.03",
+    "title": "Hazard",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.04",
+    "title": "Peril",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.05",
+    "title": "Loss",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.06",
+    "title": "Avoidance",
+    "teaching": [
+      {
+        "lesson": "03",
+        "title": "Start with the action"
+      },
+      {
+        "lesson": "03",
+        "title": "Avoid, reduce or retain"
+      },
+      {
+        "lesson": "03",
+        "title": "Use the distinction"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "03",
+        "id": "L03-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.07",
+    "title": "Retention",
+    "teaching": [
+      {
+        "lesson": "03",
+        "title": "Start with the action"
+      },
+      {
+        "lesson": "03",
+        "title": "Avoid, reduce or retain"
+      },
+      {
+        "lesson": "03",
+        "title": "Use the distinction"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "03",
+        "id": "L03-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.08",
+    "title": "Sharing",
+    "teaching": [
+      {
+        "lesson": "03",
+        "title": "Start with the action"
+      },
+      {
+        "lesson": "03",
+        "title": "Share or transfer"
+      },
+      {
+        "lesson": "03",
+        "title": "Sharing and reinsurance use different relationships"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "03",
+        "id": "L03-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.09",
+    "title": "Reduction",
+    "teaching": [
+      {
+        "lesson": "03",
+        "title": "Start with the action"
+      },
+      {
+        "lesson": "03",
+        "title": "Avoid, reduce or retain"
+      },
+      {
+        "lesson": "03",
+        "title": "Use the distinction"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "03",
+        "id": "L03-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.10",
+    "title": "Transfer",
+    "teaching": [
+      {
+        "lesson": "03",
+        "title": "Start with the action"
+      },
+      {
+        "lesson": "03",
+        "title": "Share or transfer"
+      },
+      {
+        "lesson": "03",
+        "title": "Use the distinction"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "03",
+        "id": "L03-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.11",
+    "title": "Insurable-risk characteristics",
+    "teaching": [
+      {
+        "lesson": "03",
+        "title": "What makes a risk insurable?"
+      },
+      {
+        "lesson": "03",
+        "title": "Insurability is not underwriting approval"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "03",
+        "id": "L03-06"
+      },
+      {
+        "lesson": "03",
+        "id": "L03-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.12",
+    "title": "Adverse selection",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.13",
+    "title": "Law of large numbers",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.14",
+    "title": "Reinsurance",
+    "teaching": [
+      {
+        "lesson": "03",
+        "title": "The insurer can transfer risk too"
+      },
+      {
+        "lesson": "03",
+        "title": "Use the distinction"
+      },
+      {
+        "lesson": "03",
+        "title": "Sharing and reinsurance use different relationships"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "03",
+        "id": "L03-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.2.01",
+    "title": "Stock and mutual-assessment organizations",
+    "teaching": [
+      {
+        "lesson": "04",
+        "title": "Three labels can describe one insurer"
+      },
+      {
+        "lesson": "04",
+        "title": "Who owns the organization?"
+      },
+      {
+        "lesson": "04",
+        "title": "Classify before comparing"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "04",
+        "id": "L04-01"
+      },
+      {
+        "lesson": "04",
+        "id": "L04-03"
+      },
+      {
+        "lesson": "04",
+        "id": "L04-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.2.02",
+    "title": "Fraternal societies",
+    "teaching": [
+      {
+        "lesson": "04",
+        "title": "Who owns the organization?"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "04",
+        "id": "L04-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.2.03",
+    "title": "Private and governmental insurers and plans",
+    "teaching": [
+      {
+        "lesson": "04",
+        "title": "Who owns the organization?"
+      },
+      {
+        "lesson": "04",
+        "title": "Government programs remain separate"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "04",
+        "id": "L04-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.2.04",
+    "title": "Admitted and nonadmitted status",
+    "teaching": [
+      {
+        "lesson": "04",
+        "title": "Three labels can describe one insurer"
+      },
+      {
+        "lesson": "04",
+        "title": "Permission and financial strength"
+      },
+      {
+        "lesson": "04",
+        "title": "Classify before comparing"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "04",
+        "id": "L04-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.2.05",
+    "title": "Purchasing groups",
+    "teaching": [
+      {
+        "lesson": "04",
+        "title": "How the policy reaches the customer"
+      },
+      {
+        "lesson": "04",
+        "title": "Purchasing groups do not become benefit-paying insurers"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "04",
+        "id": "L04-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.2.06",
+    "title": "Domestic, foreign and alien domicile",
+    "teaching": [
+      {
+        "lesson": "04",
+        "title": "Three labels can describe one insurer"
+      },
+      {
+        "lesson": "04",
+        "title": "Where was it formed?"
+      },
+      {
+        "lesson": "04",
+        "title": "Classify before comparing"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "04",
+        "id": "L04-01"
+      },
+      {
+        "lesson": "04",
+        "id": "L04-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.2.07",
+    "title": "Financial ratings and operating results",
+    "teaching": [
+      {
+        "lesson": "04",
+        "title": "Permission and financial strength"
+      },
+      {
+        "lesson": "04",
+        "title": "Classify before comparing"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "04",
+        "id": "L04-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.2.08",
+    "title": "Distribution systems",
+    "teaching": [
+      {
+        "lesson": "04",
+        "title": "How the policy reaches the customer"
+      },
+      {
+        "lesson": "04",
+        "title": "Classify before comparing"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "04",
+        "id": "L04-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.2.09",
+    "title": "Guaranty corporation relationship",
+    "teaching": [
+      {
+        "lesson": "04",
+        "title": "Permission and financial strength"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "04",
+        "id": "L04-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.3.01",
+    "title": "Captive and independent producers",
+    "teaching": [
+      {
+        "lesson": "05",
+        "title": "Captive and independent relationships"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "05",
+        "id": "L05-05"
+      },
+      {
+        "lesson": "05",
+        "id": "L05-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.3.02",
+    "title": "Insurer as principal and producer as agent",
+    "teaching": [
+      {
+        "lesson": "05",
+        "title": "Who is acting for whom?"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "05",
+        "id": "L05-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.3.03",
+    "title": "Express authority",
+    "teaching": [
+      {
+        "lesson": "05",
+        "title": "Express authority"
+      },
+      {
+        "lesson": "05",
+        "title": "Captive and independent relationships"
+      },
+      {
+        "lesson": "05",
+        "title": "Put the client’s file first"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "05",
+        "id": "L05-02"
+      },
+      {
+        "lesson": "05",
+        "id": "L05-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.3.04",
+    "title": "Implied authority",
+    "teaching": [
+      {
+        "lesson": "05",
+        "title": "Implied authority"
+      },
+      {
+        "lesson": "05",
+        "title": "Put the client’s file first"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "05",
+        "id": "L05-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.3.05",
+    "title": "Apparent authority",
+    "teaching": [
+      {
+        "lesson": "05",
+        "title": "Apparent authority"
+      },
+      {
+        "lesson": "05",
+        "title": "Put the client’s file first"
+      },
+      {
+        "lesson": "05",
+        "title": "Apparent authority is not self-created"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "05",
+        "id": "L05-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.3.06",
+    "title": "Duties to applicants and insureds",
+    "teaching": [
+      {
+        "lesson": "05",
+        "title": "Who is acting for whom?"
+      },
+      {
+        "lesson": "05",
+        "title": "Express authority"
+      },
+      {
+        "lesson": "05",
+        "title": "Put the client’s file first"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "05",
+        "id": "L05-06"
+      },
+      {
+        "lesson": "05",
+        "id": "L05-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.4.01",
+    "title": "Offer and acceptance",
+    "teaching": [
+      {
+        "lesson": "06",
+        "title": "From application to agreement"
+      },
+      {
+        "lesson": "06",
+        "title": "Read the facts in order"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "06",
+        "id": "L06-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.4.02",
+    "title": "Consideration",
+    "teaching": [
+      {
+        "lesson": "06",
+        "title": "What each side gives"
+      },
+      {
+        "lesson": "06",
+        "title": "Read the facts in order"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "06",
+        "id": "L06-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.4.03",
+    "title": "Capacity and lawful purpose",
+    "teaching": [
+      {
+        "lesson": "06",
+        "title": "From application to agreement"
+      },
+      {
+        "lesson": "06",
+        "title": "What each side gives"
+      },
+      {
+        "lesson": "06",
+        "title": "Read the facts in order"
+      },
+      {
+        "lesson": "06",
+        "title": "Do not confuse legal capacity with underwriting eligibility"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "06",
+        "id": "L06-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.4.04",
+    "title": "Adhesion",
+    "teaching": [
+      {
+        "lesson": "06",
+        "title": "Adhesion and an unequal exchange"
+      },
+      {
+        "lesson": "06",
+        "title": "Read the facts in order"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "06",
+        "id": "L06-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.4.05",
+    "title": "Aleatory exchange",
+    "teaching": [
+      {
+        "lesson": "06",
+        "title": "Adhesion and an unequal exchange"
+      },
+      {
+        "lesson": "06",
+        "title": "Read the facts in order"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "06",
+        "id": "L06-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.4.06",
+    "title": "Personal-contract concept and life-policy assignability",
+    "teaching": [
+      {
+        "lesson": "06",
+        "title": "A stated benefit, not every actual expense"
+      },
+      {
+        "lesson": "06",
+        "title": "Assignment does not insure a different person"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "06",
+        "id": "L06-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.4.07",
+    "title": "Unilateral and conditional promises",
+    "teaching": [
+      {
+        "lesson": "06",
+        "title": "Unilateral and conditional"
+      },
+      {
+        "lesson": "06",
+        "title": "Read the facts in order"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "06",
+        "id": "L06-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.4.08",
+    "title": "Ambiguity and reasonable expectations",
+    "teaching": [
+      {
+        "lesson": "07",
+        "title": "Read the whole contract"
+      },
+      {
+        "lesson": "07",
+        "title": "Choose the rule before the answer"
+      },
+      {
+        "lesson": "07",
+        "title": "How Maryland resolves an ambiguity"
+      },
+      {
+        "lesson": "07",
+        "title": "Do not turn definitions into automatic legal outcomes"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "07",
+        "id": "L07-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.4.09",
+    "title": "Indemnity compared with a stated life benefit",
+    "teaching": [
+      {
+        "lesson": "06",
+        "title": "A stated benefit, not every actual expense"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "06",
+        "id": "L06-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.4.10",
+    "title": "Utmost good faith",
+    "teaching": [
+      {
+        "lesson": "07",
+        "title": "Good faith, concealment and fraud"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "07",
+        "id": "L07-04"
+      },
+      {
+        "lesson": "07",
+        "id": "L07-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.4.11",
+    "title": "Representations and misrepresentations",
+    "teaching": [
+      {
+        "lesson": "07",
+        "title": "Representations and warranties"
+      },
+      {
+        "lesson": "07",
+        "title": "Why materiality matters"
+      },
+      {
+        "lesson": "07",
+        "title": "Choose the rule before the answer"
+      },
+      {
+        "lesson": "07",
+        "title": "Two Maryland application rules"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "07",
+        "id": "L07-02"
+      },
+      {
+        "lesson": "07",
+        "id": "L07-03"
+      },
+      {
+        "lesson": "07",
+        "id": "L07-07"
+      },
+      {
+        "lesson": "07",
+        "id": "L07-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.4.12",
+    "title": "Warranties",
+    "teaching": [
+      {
+        "lesson": "07",
+        "title": "Representations and warranties"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "07",
+        "id": "L07-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.4.13",
+    "title": "Concealment and fraud",
+    "teaching": [
+      {
+        "lesson": "07",
+        "title": "Good faith, concealment and fraud"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "07",
+        "id": "L07-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.4.14",
+    "title": "Waiver and estoppel",
+    "teaching": [
+      {
+        "lesson": "07",
+        "title": "Waiver and estoppel"
+      },
+      {
+        "lesson": "07",
+        "title": "Choose the rule before the answer"
+      },
+      {
+        "lesson": "07",
+        "title": "Do not turn definitions into automatic legal outcomes"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "07",
+        "id": "L07-05"
+      },
+      {
+        "lesson": "07",
+        "id": "L07-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.5.01",
+    "title": "Consumer reports and FCRA rights",
+    "teaching": [
+      {
+        "lesson": "08",
+        "title": "Several layers can apply"
+      },
+      {
+        "lesson": "08",
+        "title": "Consumer reports and adverse action"
+      },
+      {
+        "lesson": "08",
+        "title": "A report is not the insurer’s decision"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "08",
+        "id": "L08-01"
+      },
+      {
+        "lesson": "08",
+        "id": "L08-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.5.02",
+    "title": "Federal insurance fraud and false statements",
+    "teaching": [
+      {
+        "lesson": "08",
+        "title": "Several layers can apply"
+      },
+      {
+        "lesson": "08",
+        "title": "Federal restrictions on insurance work"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "08",
+        "id": "L08-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.5.03",
+    "title": "Securities oversight of variable products",
+    "teaching": [
+      {
+        "lesson": "08",
+        "title": "Several layers can apply"
+      },
+      {
+        "lesson": "08",
+        "title": "Insurance and securities requirements"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "08",
+        "id": "L08-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.6.01",
+    "title": "NAIC role",
+    "teaching": [
+      {
+        "lesson": "08",
+        "title": "NAIC and the Insurance Compact"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "08",
+        "id": "L08-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.6.02",
+    "title": "Interstate insurance product compact and IIPRC role",
+    "teaching": [
+      {
+        "lesson": "08",
+        "title": "NAIC and the Insurance Compact"
+      },
+      {
+        "lesson": "08",
+        "title": "Older names in study materials"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "08",
+        "id": "L08-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.6.03",
+    "title": "NCOIL role",
+    "teaching": [
+      {
+        "lesson": "08",
+        "title": "Legislators and professional associations"
+      },
+      {
+        "lesson": "08",
+        "title": "Older names in study materials"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "08",
+        "id": "L08-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.6.04",
+    "title": "Industry and producer associations",
+    "teaching": [
+      {
+        "lesson": "08",
+        "title": "Legislators and professional associations"
+      },
+      {
+        "lesson": "08",
+        "title": "Older names in study materials"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "08",
+        "id": "L08-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.1.01",
+    "title": "Family and economic interest",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.1.02",
+    "title": "Time the contract is made",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.1.03",
+    "title": "Own-life purchases versus insurance on another",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.2.01",
+    "title": "Survivor support",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.2.02",
+    "title": "Estate planning",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.2.03",
+    "title": "Cash accumulation",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.2.04",
+    "title": "Liquidity",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.2.05",
+    "title": "Estate conservation",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.2.06",
+    "title": "Personal mortgage debt protection",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.3.01",
+    "title": "Purpose and transaction structure",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.3.02",
+    "title": "Broker authority and licensing",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.3.03",
+    "title": "Consumer disclosures",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.3.04",
+    "title": "General transaction rules",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.3.05",
+    "title": "Settlement fraud",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.3.06",
+    "title": "Chronic illness and terminal illness definitions",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.3.07",
+    "title": "Fraudulent settlement acts",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.3.08",
+    "title": "Broker, provider, purchaser and viator roles",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.4.01",
+    "title": "Human-life-value method",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.4.02",
+    "title": "Needs-based method",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.4.03",
+    "title": "Fact gathering",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.4.04",
+    "title": "Lump-sum obligations",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.4.05",
+    "title": "Income replacement",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.4.06",
+    "title": "Social Security survivor benefits",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.5.01",
+    "title": "Buy-sell funding",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.5.02",
+    "title": "Key-person protection",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.5.03",
+    "title": "Executive bonus arrangements",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.6.01",
+    "title": "Individual versus group",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.6.02",
+    "title": "Ordinary life",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.6.03",
+    "title": "Permanent versus temporary protection",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.6.04",
+    "title": "Participating versus nonparticipating",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.6.05",
+    "title": "Fixed versus variable life and annuity designs",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.6.06",
+    "title": "Variable products and FINRA",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.6.07",
+    "title": "U.S. government life programs",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.7.01",
+    "title": "Mortality assumption",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.7.02",
+    "title": "Interest assumption",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.7.03",
+    "title": "Expenses",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.7.04",
+    "title": "Net single premium",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.7.05",
+    "title": "Gross annual premium",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.7.06",
+    "title": "Payment mode",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.8.01",
+    "title": "Life and annuity advertising",
+    "teaching": [
+      {
+        "lesson": "14",
+        "title": "A sales message must be accurate"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "14",
+        "id": "L14-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.8.02",
+    "title": "Sales presentations and guaranty advertising restrictions",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.8.03",
+    "title": "Illustrations",
+    "teaching": [
+      {
+        "lesson": "14",
+        "title": "Read the two kinds of values"
+      },
+      {
+        "lesson": "14",
+        "title": "Match the illustration to the policy"
+      },
+      {
+        "lesson": "14",
+        "title": "A complete illustration carries its assumptions"
+      },
+      {
+        "lesson": "14",
+        "title": "Revised terms require a revised presentation"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "14",
+        "id": "L14-02"
+      },
+      {
+        "lesson": "14",
+        "id": "L14-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.8.04",
+    "title": "Policy summary and buyer guide",
+    "teaching": [
+      {
+        "lesson": "14",
+        "title": "Guide, summary and illustration"
+      },
+      {
+        "lesson": "14",
+        "title": "The summary explains the particular policy"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "14",
+        "id": "L14-04"
+      },
+      {
+        "lesson": "14",
+        "id": "L14-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.8.05",
+    "title": "Cost and benefit disclosure",
+    "teaching": [
+      {
+        "lesson": "14",
+        "title": "Read the two kinds of values"
+      },
+      {
+        "lesson": "14",
+        "title": "Guide, summary and illustration"
+      },
+      {
+        "lesson": "14",
+        "title": "A complete illustration carries its assumptions"
+      },
+      {
+        "lesson": "14",
+        "title": "The summary explains the particular policy"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "14",
+        "id": "L14-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.8.06",
+    "title": "Replacement",
+    "teaching": [
+      {
+        "lesson": "15",
+        "title": "Replacement is broader than cancellation"
+      },
+      {
+        "lesson": "15",
+        "title": "Borrowing can finance a replacement"
+      },
+      {
+        "lesson": "15",
+        "title": "The producer documents the facts"
+      },
+      {
+        "lesson": "15",
+        "title": "Compare the complete outcome"
+      },
+      {
+        "lesson": "15",
+        "title": "Sales-material delivery has a special electronic rule"
+      },
+      {
+        "lesson": "15",
+        "title": "A replacement does not have one automatic tax result"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "15",
+        "id": "L15-01"
+      },
+      {
+        "lesson": "15",
+        "id": "L15-03"
+      },
+      {
+        "lesson": "15",
+        "id": "L15-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.8.07",
+    "title": "Use of insurance information",
+    "teaching": [
+      {
+        "lesson": "14",
+        "title": "Privacy involves purpose and permission"
+      },
+      {
+        "lesson": "14",
+        "title": "Apply exceptions carefully"
+      },
+      {
+        "lesson": "14",
+        "title": "An opt-out opportunity must be meaningful"
+      },
+      {
+        "lesson": "14",
+        "title": "Life underwriting can involve health information"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "14",
+        "id": "L14-06"
+      },
+      {
+        "lesson": "14",
+        "id": "L14-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.8.08",
+    "title": "Field underwriting",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.8.09",
+    "title": "Information-practices notices and adverse decisions",
+    "teaching": [
+      {
+        "lesson": "14",
+        "title": "Privacy involves purpose and permission"
+      },
+      {
+        "lesson": "14",
+        "title": "Initial and annual notices are different"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "14",
+        "id": "L14-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.8.10",
+    "title": "Application signatures",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.8.11",
+    "title": "Application corrections and incompleteness",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.8.12",
+    "title": "Representations versus warranties",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.8.13",
+    "title": "Initial premium and receipt conditions",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.8.14",
+    "title": "Point-of-sale privacy and HIV consent",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.8.15",
+    "title": "PATRIOT Act and anti-money-laundering duties",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.8.16",
+    "title": "Delivery review and effective date",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.8.17",
+    "title": "Premium collection and good-health statement",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.9.01",
+    "title": "Application and producer report",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.9.02",
+    "title": "Attending physician statement",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.9.03",
+    "title": "Investigative consumer report",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.9.04",
+    "title": "MIB information",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.9.05",
+    "title": "Medical examination, laboratory results and HIV",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.9.06",
+    "title": "Permitted selection and unfair discrimination",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.9.07",
+    "title": "Domestic-violence protections",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.9.08",
+    "title": "Preferred risk",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.9.09",
+    "title": "Standard risk",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.9.10",
+    "title": "Substandard risk",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.9.11",
+    "title": "Declined application",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.1.01",
+    "title": "Level benefit",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.1.02",
+    "title": "Annual renewal",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.1.03",
+    "title": "Level premium period",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.1.04",
+    "title": "Conversion",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.1.05",
+    "title": "Decreasing benefit",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.1.06",
+    "title": "Increasing benefit",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.1.07",
+    "title": "Return-of-premium term",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.2.01",
+    "title": "Ordinary and continuous-pay whole life",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.2.02",
+    "title": "Limited-pay whole life",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.2.03",
+    "title": "Interest-sensitive and current-assumption designs",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.2.04",
+    "title": "Indexed/equity-indexed designs",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.2.05",
+    "title": "Graded premiums",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.2.06",
+    "title": "Single premiums",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.2.07",
+    "title": "Variable whole life",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.2.08",
+    "title": "Variable universal life",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.3.01",
+    "title": "Adjustable life changes",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.3.02",
+    "title": "Universal life funding, charges and guarantees",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.4.01",
+    "title": "Family protection and family plans",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.4.02",
+    "title": "First-death joint coverage",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.4.03",
+    "title": "Last-survivor coverage",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.4.04",
+    "title": "Juvenile and student coverage",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.5.01",
+    "title": "Master contract and certificates",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.5.02",
+    "title": "Employer groups",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.5.03",
+    "title": "Debtor groups",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.5.04",
+    "title": "Labor unions",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.5.05",
+    "title": "Trust groups",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.5.06",
+    "title": "Associations",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.5.07",
+    "title": "Group underwriting",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.5.08",
+    "title": "Benefit payment",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.5.09",
+    "title": "Dependents and covered lives",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.5.10",
+    "title": "Individual conversion",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.5.11",
+    "title": "Contributory and noncontributory funding",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.6.01",
+    "title": "Individual credit life",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.6.02",
+    "title": "Group credit life",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.1.01",
+    "title": "Owner rights",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.1.02",
+    "title": "Assignment",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.1.03",
+    "title": "Entire contract",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.1.04",
+    "title": "Free look",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.1.05",
+    "title": "Premium payments",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.1.06",
+    "title": "Grace",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.1.07",
+    "title": "Reinstatement",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.1.08",
+    "title": "Incontestability",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.1.09",
+    "title": "Misstated age and gender",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.1.10",
+    "title": "Suicide exclusion",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.1.11",
+    "title": "War exclusion",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.1.12",
+    "title": "Interest on proceeds",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.1.13",
+    "title": "Prohibited provisions and backdating",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.2.01",
+    "title": "Individual and class designations",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.2.02",
+    "title": "Estate beneficiary",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.2.03",
+    "title": "Minor beneficiary",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.2.04",
+    "title": "Trust beneficiary",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.2.05",
+    "title": "Primary and contingent succession",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.2.06",
+    "title": "Revocable and irrevocable designation",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.2.07",
+    "title": "Annulment and divorce",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.2.08",
+    "title": "Common disaster",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.2.09",
+    "title": "Facility of payment",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.3.01",
+    "title": "Lump sum",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.3.02",
+    "title": "Interest-only payments",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.3.03",
+    "title": "Fixed period",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.3.04",
+    "title": "Fixed amount",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.3.05",
+    "title": "Lifetime income",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.3.06",
+    "title": "Single life",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.3.07",
+    "title": "Joint and survivor income",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.4.01",
+    "title": "Cash surrender",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.4.02",
+    "title": "Extended term",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.4.03",
+    "title": "Reduced paid-up coverage",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.5.01",
+    "title": "Cash-value loan",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.5.02",
+    "title": "Automatic premium loan",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.5.03",
+    "title": "Partial withdrawal/surrender",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.5.04",
+    "title": "Educational loans",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.5.05",
+    "title": "Required automatic option referenced by the outline",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.6.01",
+    "title": "Cash dividend",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.6.02",
+    "title": "Premium reduction",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.6.03",
+    "title": "Interest accumulation",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.6.04",
+    "title": "One-year term purchase",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.6.05",
+    "title": "Paid-up additions",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.6.06",
+    "title": "Paid-up insurance",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.7.01",
+    "title": "Premium waiver",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.7.02",
+    "title": "Cost-of-insurance waiver",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.7.03",
+    "title": "Disability income benefit",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.7.04",
+    "title": "Juvenile payor life/disability benefit",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.8.01",
+    "title": "Terminal or catastrophic illness",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.8.02",
+    "title": "Permanent confinement",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.8.03",
+    "title": "ADL triggers",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.8.04",
+    "title": "Written disclosures",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.8.05",
+    "title": "Death-benefit reduction",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.8.06",
+    "title": "Effects on cash value",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.8.07",
+    "title": "Loans and interest",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.8.08",
+    "title": "Tax treatment",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.8.09",
+    "title": "Premium effects",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.9.01",
+    "title": "Spouse or other-insured term rider",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.9.02",
+    "title": "Children’s term rider",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.9.03",
+    "title": "Family term rider",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.10.01",
+    "title": "Accidental death",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.10.02",
+    "title": "Guaranteed insurability",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.10.03",
+    "title": "Cost-of-living adjustment",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.10.04",
+    "title": "Return-of-premium rider",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.1.01",
+    "title": "Accumulation phase",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.1.02",
+    "title": "Annuitization phase",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.1.03",
+    "title": "Owner",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.1.04",
+    "title": "Annuitant",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.1.05",
+    "title": "Beneficiary",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.1.06",
+    "title": "Insurance function",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.1.07",
+    "title": "Suitability",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.2.01",
+    "title": "Single-premium immediate income",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.2.02",
+    "title": "Deferred accumulation",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.2.03",
+    "title": "Premium payment choices",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.2.04",
+    "title": "Nonforfeiture values",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.2.05",
+    "title": "Surrender charges",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.2.06",
+    "title": "Bailout provisions",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.2.07",
+    "title": "Death benefits",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.3.01",
+    "title": "Life-contingent income",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.3.02",
+    "title": "Pure life and guaranteed minimum payments",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.3.03",
+    "title": "Single and multiple lives",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.3.04",
+    "title": "Fixed-period certain",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.3.05",
+    "title": "Fixed-amount certain",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.4.01",
+    "title": "Fixed: general account, minimum/current rate and level-benefit design",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.4.02",
+    "title": "Variable: separate-account investment exposure and variable benefits",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.4.03",
+    "title": "Indexed crediting",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.4.04",
+    "title": "Market-value-adjusted/modified-guaranteed contracts",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.5.01",
+    "title": "Lump-sum funding",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.5.02",
+    "title": "Qualified group/individual plans",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.5.03",
+    "title": "IRAs",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.5.04",
+    "title": "Tax deferral",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.5.05",
+    "title": "Retirement income",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.5.06",
+    "title": "Education funding",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.5.07",
+    "title": "Charitable gift annuities",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.5.08",
+    "title": "Suitability in transactions",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.1.01",
+    "title": "Owner cash values",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.1.02",
+    "title": "Dividends",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.1.03",
+    "title": "Policy loans",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.1.04",
+    "title": "Surrenders",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.1.05",
+    "title": "Beneficiary general rule and exceptions",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.1.06",
+    "title": "Tax treatment of settlement payments",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.1.07",
+    "title": "Estate inclusion",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.2.01",
+    "title": "MEC versus non-MEC status",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.2.02",
+    "title": "Seven-pay test",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.2.03",
+    "title": "Distribution and loan taxation",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.3.01",
+    "title": "Accumulation withdrawals",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.3.02",
+    "title": "Annuitized payments and exclusion ratio",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.3.03",
+    "title": "Death distributions",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.3.04",
+    "title": "Corporate ownership",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.4.01",
+    "title": "Traditional contributions and deductibility",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.4.02",
+    "title": "Early-distribution additional tax",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.4.03",
+    "title": "Annuitization and benefit taxation",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.4.04",
+    "title": "Estate and beneficiary issues",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.4.05",
+    "title": "Roth contributions and limits",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.4.06",
+    "title": "Roth distributions",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.5.01",
+    "title": "Rollovers",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.5.02",
+    "title": "Trustee transfers",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.6.01",
+    "title": "Section 1035 exchanges",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "8.1.01",
+    "title": "General qualified-plan requirements",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "8.2.01",
+    "title": "Employer tax advantages",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "8.2.02",
+    "title": "Employee tax advantages",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "8.2.03",
+    "title": "Distribution tax and age conditions",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "8.3.01",
+    "title": "SEP",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "8.3.02",
+    "title": "Keogh/HR-10",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "8.3.03",
+    "title": "Profit sharing and 401(k)",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "8.3.04",
+    "title": "SIMPLE",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "8.3.05",
+    "title": "403(b)",
+    "teaching": [],
+    "questions": [],
+    "coordinatorApproval": null
+  }
+]

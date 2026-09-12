@@ -1,0 +1,236 @@
+{
+  "voice": "Gideon",
+  "model": "seed_audio",
+  "requests": [
+    {
+      "index": 1500,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Marcus is offered a new life policy. He plans to reduce his existing policy to paid-up coverage so he can afford the new premium. That can be a replacement even though the old policy is not completely canceled. Maryland's definition includes specified reductions, surrenders, lapses and other changes caused by buying new coverage. The test concerns what the proposing producer knows or should know about the transaction. Start by asking what existing coverage the applicant has and exactly how the new purchase will affect it."
+      }
+    },
+    {
+      "index": 1501,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Aisha wants to keep her old policy, borrow from its cash value and use that money to pay the new life policy's premium. This is a financed purchase under the replacement definition. Keeping both policies does not remove the issue. The borrowing can reduce available values and affect the amount eventually payable under the old policy. Compare the continuing costs of both contracts, the loan interest and the consequences if the plan performs differently than expected. A producer should not describe borrowed policy money as a free new benefit."
+      }
+    },
+    {
+      "index": 1502,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "For a covered application, the applicant and producer sign a statement about existing life insurance or annuities. If existing coverage is present, the producer presents the replacement notice no later than taking the application and reads it unless the applicant declines that reading. The notice is signed and left with the applicant. It identifies the affected contracts and whether each is replaced or used for financing. Required sales materials also go to the applicant and the insurer. Do not wait until delivery to discover an undisclosed replacement."
+      }
+    },
+    {
+      "index": 1503,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "The replacing insurer verifies the required forms and notifies another affected existing insurer within five business days after the specified completed-application receipt or identification of the replacement. When the existing insurer requests the proposed illustration or summary, another five-business-day requirement applies to providing the available document. Registered variable contracts have a specific alternative involving contributions and prospectus identification. The producer's paperwork does not replace these insurer duties. Keeping responsibilities separate helps you answer a question that names the insurer, the producer or the applicant."
+      }
+    },
+    {
+      "index": 1504,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "For a covered replacement, the owner receives notice of a right to return the new contract within thirty days after delivery. The rule ordinarily provides a full refund of premiums or considerations, including fees and charges. Variable contracts use a different formula: cash surrender value plus the specified deducted or imposed fees and charges. Do not promise that variable investment losses disappear. The chapter also gives credit for elapsed contestability and suicide periods in specified same-insurer or affiliated-insurer replacements, within the stated amount limits. Check the actual transaction."
+      }
+    },
+    {
+      "index": 1505,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Before Marcus gives up old coverage, he should understand whether the new coverage is effective, what guarantees change, which costs restart and how existing loans affect the result. Changed health can affect new underwriting. A replacement may meet a real need, but a sales illustration alone is not a complete comparison. Maryland also exempts specified transactions from this chapter, such as certain contractual conversions. Identify the scope before applying a deadline. The professional goal is an informed decision supported by accurate documents, not replacement for its own sake."
+      }
+    },
+    {
+      "index": 1600,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Elena's employer provides group life insurance. The employer or eligible trustees hold the master policy, while Elena is an insured employee. She receives a certificate describing her protection, who receives benefits and important rights. Under Maryland's employer-group rule, this coverage benefits people other than the employer. It is different from a business buying key-person coverage for its own loss. Eligible employees may include all employees or qualifying classes. Read the policy's eligibility terms rather than assuming that every worker, contractor or family member is automatically covered."
+      }
+    },
+    {
+      "index": 1601,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Group premiums may come from the employer, employees or both. When employees contribute, the plan is contributory. When they do not, it is noncontributory. Maryland's employer-group rule generally requires coverage of all eligible employees in a noncontributory plan, except written rejections and the stated insurability exception. Covered arrangements may extend protection to a spouse, domestic partner or dependent children. The amount on a dependent cannot exceed the employee's amount under the rule taught here. A dependent's coverage and conversion rights require their own attention."
+      }
+    },
+    {
+      "index": 1602,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Marcus leaves his job and loses the covered group life insurance. Maryland's conversion rule lets an eligible insured obtain individual life coverage from the insurer without new evidence of insurability. The ordinary application and first-premium deadline is thirty-one days after termination of employment or eligible membership. The available form is a form the insurer customarily issues, other than term insurance, subject to the stated conditions. Conversion preserves an opportunity for coverage, not the old group price. The premium reflects the permitted form, amount, risk class and attained age."
+      }
+    },
+    {
+      "index": 1603,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Suppose Marcus loses eighty thousand dollars of group coverage but becomes eligible for thirty thousand dollars under another group policy within the stated thirty-one-day period. Under the Maryland conversion amount rule, the maximum is fifty thousand dollars. The statute also requires written notice of conversion rights and provides an extension when that notice is missing or late, within its outer limit. If an insured dies while entitled to convert but before the individual policy is effective, the amount available for conversion is payable under the group policy, even without the application or first premium."
+      }
+    },
+    {
+      "index": 1604,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Now change the facts. The employer's entire group policy ends, or a covered class is removed, instead of Marcus simply leaving his job. A separate Maryland provision addresses this event. It protects an insured who has been covered for at least five years before termination, subject to the conversion conditions. The policy may limit the individual amount to the lesser of the lost coverage after the specified new-group offset, or ten thousand dollars. Do not apply this five-year requirement and possible cap to every ordinary employment-termination conversion question."
+      }
+    },
+    {
+      "index": 1605,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Maryland permits an insured to assign group-life rights and benefits under an arrangement among the insured, policyholder and insurer. The assigned rights can include conversion and naming a beneficiary. The assignee receives the rights actually assigned. Follow the arrangement and the insurer's notice process; do not assume that every assignment transfers every right. Elena should understand what she controls after an assignment and who can exercise the transferred rights. For an exam scenario, identify the event first, then the right, the responsible person, the amount and the deadline."
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 1500,
+      "job_id": "0e70ec15-4888-43c5-93b6-f5e63f8844ed",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_032702_0e70ec15-4888-43c5-93b6-f5e63f8844ed.mp3"
+    },
+    {
+      "index": 1501,
+      "job_id": "73079773-1550-4026-bff0-26dd420a26ea",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_032702_73079773-1550-4026-bff0-26dd420a26ea.mp3"
+    },
+    {
+      "index": 1502,
+      "job_id": "ebc79bfe-8e0c-4245-b00e-e1018e7b8a11",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_032702_ebc79bfe-8e0c-4245-b00e-e1018e7b8a11.mp3"
+    },
+    {
+      "index": 1503,
+      "job_id": "23af2a4d-e47e-4fff-ab09-9aed7df9b6aa",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_032702_23af2a4d-e47e-4fff-ab09-9aed7df9b6aa.mp3"
+    },
+    {
+      "index": 1504,
+      "job_id": "d53d4f81-7ffd-4a92-87f8-26d7d5d24c8b",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_032702_d53d4f81-7ffd-4a92-87f8-26d7d5d24c8b.mp3"
+    },
+    {
+      "index": 1505,
+      "job_id": "5ef63882-da5a-4ea9-8b2b-e0057502b5a5",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_032702_5ef63882-da5a-4ea9-8b2b-e0057502b5a5.mp3"
+    },
+    {
+      "index": 1600,
+      "job_id": "5960b8e2-958e-4124-b2cd-a79c665e1846",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_033006_5960b8e2-958e-4124-b2cd-a79c665e1846.mp3"
+    },
+    {
+      "index": 1601,
+      "job_id": "6f494056-7dbd-43d9-ba5e-06a4577bf25b",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_033007_6f494056-7dbd-43d9-ba5e-06a4577bf25b.mp3"
+    },
+    {
+      "index": 1602,
+      "job_id": "07cbbd45-b458-49e0-92da-0f0067a744f6",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_033007_07cbbd45-b458-49e0-92da-0f0067a744f6.mp3"
+    },
+    {
+      "index": 1603,
+      "job_id": "2d4d226d-c709-439e-a46b-050eb27f89e0",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_033007_2d4d226d-c709-439e-a46b-050eb27f89e0.mp3"
+    },
+    {
+      "index": 1604,
+      "job_id": "8dc43928-c086-4836-9970-1985f6fd55c4",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_033006_8dc43928-c086-4836-9970-1985f6fd55c4.mp3"
+    },
+    {
+      "index": 1605,
+      "job_id": "7e8abb39-77f7-414d-97bc-3cb96a4fc2de",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_033007_7e8abb39-77f7-414d-97bc-3cb96a4fc2de.mp3"
+    }
+  ]
+}

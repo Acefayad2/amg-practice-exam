@@ -1,0 +1,183 @@
+{
+  "result": {
+    "id": "4aa9a378-f6b4-4ab0-8004-82d76426f4d0",
+    "video_input_id": "3e9df926-62e6-471e-b6e7-93ad006ea0af",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/3e9df926-62e6-471e-b6e7-93ad006ea0af.mp4",
+    "scenes": [
+      {
+        "audio": "Aisha is a licensed life producer.",
+        "label": "Opening Hook",
+        "visual": "Off-white background slide with teal top border. Single white rectangular box on left; teal arrow points right. Gold crest logo in bottom-left. Static camera, flat digital lighting, muted corporate palette.",
+        "shot_type": "Wide Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:02",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "Marcus asks whether she can promise that every application will be approved.",
+        "label": "Product Information",
+        "visual": "Second dark grey box appears to the right of the first, connected by the teal arrow. Layout is centered horizontally. Background remains off-white with teal header.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:03",
+        "timestamp_start": "0:02"
+      },
+      {
+        "audio": "She cannot. A producer's role and authority have limits.",
+        "label": "Product Information",
+        "visual": "Third teal box appears on the far right. Three boxes now form a row connected by arrows. Logo remains static in the bottom-left corner.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:08",
+        "timestamp_start": "0:03"
+      },
+      {
+        "audio": "In a typical insurer agency relationship, the insurer is the principal and the producer is its agent. The principal authorizes the agent to perform specified acts on its behalf.",
+        "label": "Product Information",
+        "visual": "Static view of the three-box graphic. No camera movement. Lighting is even and artificial. Teal, white, and grey tones dominate the frame.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:23",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "The producer may have duties to applicants and insureds as well. The word agent identifies a relationship. It does not mean permission to rewrite a policy or ignore underwriting.",
+        "label": "Product Information",
+        "visual": "Slide remains static. Minimalist graphic presentation on light grey canvas. Circular gold emblem visible in the corner.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:34",
+        "timestamp_start": "0:23"
+      },
+      {
+        "audio": "Express authority is specifically granted, often in the producer's written agreement. For example, an insurer may authorize Aisha to solicit applications and collect an initial premium using its approved receipt.",
+        "label": "Usage Scenarios",
+        "visual": "New slide transition. Teal top border and off-white background. Single white rectangular box positioned on the left side. Static camera.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "0:49",
+        "timestamp_start": "0:34"
+      },
+      {
+        "audio": "She should read what the grant permits and what it excludes. A life producer ordinarily does not have unrestricted power to bind coverage or waive application requirements.",
+        "label": "Usage Scenarios",
+        "visual": "Two additional boxes (pale green and blue-grey) appear in the center and right. Total of three boxes in a horizontal row. Lighting is flat.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:04",
+        "timestamp_start": "0:49"
+      },
+      {
+        "audio": "Implied authority includes actions reasonably necessary to carry out the express grant. If Aisha is authorized to solicit and submit applications, explaining how to complete the approved form may be incidental to that work.",
+        "label": "Usage Scenarios",
+        "visual": "New slide. Clean off-white background with teal header. One white box on left with right-pointing teal arrow. Static wide shot.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:19",
+        "timestamp_start": "1:04"
+      },
+      {
+        "audio": "Implied authority is not a way to bypass an express restriction. Changing a premium rate, deleting an exclusion, or promising an underwriting result is not justified merely because it would help make a sale.",
+        "label": "Usage Scenarios",
+        "visual": "Second and third boxes appear sequentially on the slide. Three rectangular shapes now populate the screen. Saturated teal accents.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:29",
+        "timestamp_start": "1:19"
+      },
+      {
+        "audio": "Always connect the incidental action to the task the principal actually authorized.",
+        "label": "Usage Scenarios",
+        "visual": "Graphic remains static. Wide shot of the diagram on the presentation slide. Logo remains in bottom-left.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "1:36",
+        "timestamp_start": "1:29"
+      },
+      {
+        "audio": "Apparent authority concerns what a third party reasonably believes because of the principal's words or conduct. Suppose the insurer presents a person to customers as authorized to perform a particular task...",
+        "label": "Usage Scenarios",
+        "visual": "New slide. Teal top header. One white box on the left with an arrow pointing right. Static, flat corporate lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "1:51",
+        "timestamp_start": "1:36"
+      },
+      {
+        "audio": "...and a customer reasonably relies on that presentation. That can create an apparent authority issue, even if a private instruction is narrower.",
+        "label": "Usage Scenarios",
+        "visual": "Two additional boxes (grey and blue-grey) appear. Three boxes horizontally aligned. Background is consistent light grey.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:06",
+        "timestamp_start": "1:51"
+      },
+      {
+        "audio": "The producer's unsupported statement, 'I can do anything,' is not enough by itself. Look for conduct attributable to the principal and reasonable reliance. Whether an insurer is legally bound depends on the actual facts and applicable law.",
+        "label": "Usage Scenarios",
+        "visual": "Static diagram view. No camera movement. Gold 'M' emblem is clearly visible in the lower corner.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:16",
+        "timestamp_start": "2:06"
+      },
+      {
+        "audio": "A captive or exclusive producer generally represents one insurer or affiliated group. An independent producer may work with several insurers.",
+        "label": "Usage Scenarios",
+        "visual": "New slide. Teal header. One grey box on the left. Minimalist design with high depth of focus.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "2:31",
+        "timestamp_start": "2:16"
+      },
+      {
+        "audio": "Neither label replaces licensing, appointment, or contract requirements. In Maryland, written appointment documentation and the insurer's producer register have their own rules.",
+        "label": "Usage Scenarios",
+        "visual": "Two more boxes appear to complete the row of three. Palette remains muted with teal, beige, and grey tones.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "2:46",
+        "timestamp_start": "2:31"
+      },
+      {
+        "audio": "A business entity's relationship and an individual's authority should not be assumed identical. For this lesson, remember that a producer's contract governs the working relationship while a state license and an insurer appointment answer separate regulatory and authorization questions.",
+        "label": "Usage Scenarios",
+        "visual": "Static graphic remains on screen. Even digital lighting. No transitions or camera zooms.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:00",
+        "timestamp_start": "2:46"
+      },
+      {
+        "audio": "Aisha's useful work is accurate fact gathering, honest explanation, careful handling of premiums and private information, and prompt transmission of the application.",
+        "label": "Call to Action",
+        "visual": "New slide. Teal header. One box at the top; items appear vertically below in a list format. Off-white background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:15",
+        "timestamp_start": "3:00"
+      },
+      {
+        "audio": "She must not forge a signature, conceal a material answer, or describe a non-guaranteed value as guaranteed. If she lacks an answer, she should verify it.",
+        "label": "Call to Action",
+        "visual": "List continues to display on screen. Logo remains in bottom-left. Static wide shot of the presentation.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "3:30",
+        "timestamp_start": "3:15"
+      },
+      {
+        "audio": "When you classify authority on an exam, ask where it came from: a direct grant, a necessary incidental action, or the principal's appearance to the customer. Then choose the action that remains within that authority.",
+        "label": "Call to Action",
+        "visual": "Final static shot of the completed list on the presentation slide. Uniform lighting and saturated teal accents.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "3:38",
+        "timestamp_start": "3:30"
+      }
+    ]
+  }
+}

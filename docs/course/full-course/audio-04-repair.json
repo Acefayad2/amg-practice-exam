@@ -1,0 +1,28 @@
+{
+  "reason": "Both base.en and small.en transcribed assessable as accessible; revised wording for clarity before video render.",
+  "params": {
+    "index": 401,
+    "params": {
+      "model": "seed_audio",
+      "voice_type": "preset",
+      "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+      "format": "mp3",
+      "speech_rate": 0,
+      "prompt": "A stock insurer is owned by shareholders. A mutual insurer is owned by its policyholders, with rights determined by its structure and law. Assessment arrangements may permit additional assessments of members under their terms; do not assume that every mutual policy allows an extra assessment. Fraternal benefit societies are membership organizations organized around a common bond and operate under special laws. They can provide insurance benefits to members. Private insurers differ from government programs, whose eligibility and benefits come from their governing laws and program rules."
+    }
+  },
+  "cost": {
+    "cost": {
+      "credits": 4,
+      "credits_exact": 4
+    }
+  },
+  "job": {
+    "index": 401,
+    "job_id": "acaca111-ec9b-4ca7-9ac4-64b24d0469a1",
+    "status": "completed",
+    "type": "audio",
+    "model": "seed_audio",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_014950_acaca111-ec9b-4ca7-9ac4-64b24d0469a1.mp3"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "number": 12,
+  "duration": "248.292000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/fcebefa6-274c-4f90-96cd-9c1024a42852.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/73cf918e-0fab-4792-ad21-762880420e75.png",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/48996288-aee4-4351-80c4-d0de1a6ae859.zip",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/7b7cf9f8-10b9-4c64-a72b-040179c18554.jpg",
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "248.292000",
+      "size": "10763244"
+    }
+  },
+  "review": {
+    "layouts": "All six settled layouts visually inspected.",
+    "decode": "Complete FFmpeg decode passed.",
+    "speech": "All six sections transcribed and compared; low alignment scores were numerical formatting differences.",
+    "analysis": "Completed scene analysis reviewed alongside script and rendered layouts. See video-analysis-12.json.",
+    "player": "Chromium end-to-end check passed: native video end, every required question, wrong-answer retry, persisted first attempt, resume and mobile captions/dialog."
+  },
+  "status": "ready",
+  "coordinatorApproval": null
+}

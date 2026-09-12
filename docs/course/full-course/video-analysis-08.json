@@ -1,0 +1,192 @@
+{
+  "result": {
+    "id": "97d48fb4-22cd-4a16-87e3-3bb36b0d5141",
+    "video_input_id": "e823a9af-b48d-48a0-b995-4d26446c4062",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/e823a9af-b48d-48a0-b995-4d26446c4062.mp4",
+    "scenes": [
+      {
+        "audio": "Aisha helps an applicant considering variable life insurance. The file involves state insurance licensing, possible consumer reports, securities requirements, and company procedures.",
+        "label": "Opening Hook",
+        "visual": "Cream backdrop with 'Several layers can apply' header. Cards for state rules, federal requirements, and company processes. Static frame.",
+        "shot_type": "Wide Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:13",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "No single organization does every job. Maryland’s Insurance Administration regulates insurance in the state.",
+        "label": "Opening Hook",
+        "visual": "Title 'Several layers can apply'. Minimalist graphic showing three regulation layers in white cards. Corporate logo in corner.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:26",
+        "timestamp_start": "0:13"
+      },
+      {
+        "audio": "Federal law can separately govern consumer reports, specified fraud and securities activities.",
+        "label": "Opening Hook",
+        "visual": "Text graphic listing 'State insurance rules', 'Federal requirements', and 'Company process'. Soft lighting, warm palette.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:35",
+        "timestamp_start": "0:26"
+      },
+      {
+        "audio": "An insurer’s procedure can add practical steps, but it cannot replace the law. Begin each question by identifying the transaction and the organization or rule that actually has responsibility for it.",
+        "label": "Opening Hook",
+        "visual": "Final layout of regulatory hierarchy cards. Flat design with dark green headers and black text.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:42",
+        "timestamp_start": "0:35"
+      },
+      {
+        "audio": "The Fair Credit Reporting Act governs consumer reports used for purposes such as insurance underwriting. A report must have a permitted purpose.",
+        "label": "Product Information",
+        "visual": "Title 'Consumer reports and adverse action'. Three cards (01-03) connected by green arrows. High-contrast typography.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:58",
+        "timestamp_start": "0:43"
+      },
+      {
+        "audio": "If an insurer takes an adverse action based in whole or part on a consumer report, required notice identifies the reporting agency, explains that the agency did not make the decision, and describes dispute and free report rights.",
+        "label": "Product Information",
+        "visual": "Slide focusing on cards for Underwriting decision and Required notice. Arrows indicate procedural flow. Minimalist surface.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:13",
+        "timestamp_start": "0:58"
+      },
+      {
+        "audio": "Adverse action can include denial or less favorable terms, not just a total rejection. Investigative reports based on personal interviews have additional disclosure requirements.",
+        "label": "Product Information",
+        "visual": "Close detail of numbered cards on adverse action flow. Static graphic on off-white background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:24",
+        "timestamp_start": "1:13"
+      },
+      {
+        "audio": "Federal law addresses fraud and false statements in insurance affecting interstate commerce. A person with a felony involving dishonesty or breach of trust...",
+        "label": "Product Information",
+        "visual": "Header 'Federal restrictions on insurance work'. Cards for state license and federal restriction shown. Clean layout.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:40",
+        "timestamp_start": "1:25"
+      },
+      {
+        "audio": "...or a conviction for a specified federal insurance offense, may be prohibited from willfully engaging in that business without written consent from the appropriate insurance regulator.",
+        "label": "Product Information",
+        "visual": "Graphic displaying 'Federal restriction' and 'Written consent' cards. Emphasis on disqualifying convictions text.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:55",
+        "timestamp_start": "1:40"
+      },
+      {
+        "audio": "A producer license alone is not a substitute for required federal consent, nor does this mean every conviction has exactly the same consequence. State licensing standards and federal restrictions must both be checked.",
+        "label": "Product Information",
+        "visual": "Composite view of three restriction cards. Subtext describes regulator permission requirements.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "2:00",
+        "timestamp_start": "1:55"
+      },
+      {
+        "audio": "Variable life and variable annuities combine insurance features with investment exposure. State insurance authority remains necessary, and securities registration and sales requirements also apply.",
+        "label": "Product Information",
+        "visual": "Title 'Insurance and securities requirements'. Cards for authority, requirements, and prospectus. Bulleted list format.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "2:16",
+        "timestamp_start": "2:01"
+      },
+      {
+        "audio": "The Securities and Exchange Commission oversees federal securities regulation, while FINRA regulates its member broker-dealers and associated persons. A prospectus explains investment risks, fees and other contract features.",
+        "label": "Product Information",
+        "visual": "Detail of securities regulation framework graphic. Mentions SEC and FINRA. Static composition.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:31",
+        "timestamp_start": "2:16"
+      },
+      {
+        "audio": "Registration is not a government endorsement or a guarantee of returns. A life-only license does not by itself grant every permission needed to sell variable products.",
+        "label": "Product Information",
+        "visual": "Full slide viewing insurance and securities boxes. Text explains risk and fee features.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:34",
+        "timestamp_start": "2:31"
+      },
+      {
+        "audio": "The National Association of Insurance Commissioners supports state insurance regulators with coordination, data and model standards. A model law does not automatically become Maryland law simply because the association adopts it.",
+        "label": "Product Information",
+        "visual": "Header 'NAIC and the Insurance Compact'. Large cards for NAIC and Insurance Compact appear side-by-side.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "2:50",
+        "timestamp_start": "2:35"
+      },
+      {
+        "audio": "The Interstate Insurance Product Regulation Commission administers the Insurance Compact. It provides a coordinated filing and review process for covered products using uniform standards adopted under the compact.",
+        "label": "Product Information",
+        "visual": "Graphic detail focusing on the Insurance Compact card. Mentions uniform filing and product review roles.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "3:05",
+        "timestamp_start": "2:50"
+      },
+      {
+        "audio": "That product review role is different from issuing an individual producer license or resolving every consumer complaint. Keep product standards separate from a producer's personal authority.",
+        "label": "Product Information",
+        "visual": "Visual highlights difference between product review and licensing. Simplified educational layout.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:17",
+        "timestamp_start": "3:05"
+      },
+      {
+        "audio": "The National Council of Insurance Legislators is commonly called NCOIL. This organization brings state legislators together on insurance issues and develops model legislation.",
+        "label": "Call to Action",
+        "visual": "Title 'Legislators and professional associations'. List items 01-04 appearing. Vertical alignment.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:33",
+        "timestamp_start": "3:18"
+      },
+      {
+        "audio": "Industry and producer associations provide education, representation and professional resources. They do not replace the regulator or issue a Maryland producer license.",
+        "label": "Call to Action",
+        "visual": "Full list view: MIA, NAIC, Compact, NCOIL. Corporate style with uniform spacing and font.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "3:48",
+        "timestamp_start": "3:33"
+      },
+      {
+        "audio": "Route a licensing question to the Insurance Administration, a compact product standard question to the compact, and a model law discussion to the relevant organization.",
+        "label": "Call to Action",
+        "visual": "Text list summary of where to route specific insurance questions. Cream background with gold logo.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "3:58",
+        "timestamp_start": "3:48"
+      },
+      {
+        "audio": "On the exam, a familiar acronym is not enough. Match the organization's actual function to the facts before selecting an answer.",
+        "label": "Call to Action",
+        "visual": "Final static slide overviewing organizational functions. Static closing frame.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "4:08",
+        "timestamp_start": "3:58"
+      }
+    ]
+  }
+}

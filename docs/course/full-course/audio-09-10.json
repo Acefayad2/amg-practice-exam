@@ -1,0 +1,380 @@
+{
+  "params": [
+    {
+      "index": 900,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Elena joins an insurance agency and is eager to help clients. The agency's license does not automatically authorize her to sell insurance personally. Maryland generally requires the appropriate producer license before a person sells, solicits or negotiates insurance. The license identifies permitted lines of authority. Acting for an insurer also raises appointment requirements, which we examine separately. Licensing protects consumers by setting qualifications and accountability. Passing a course or an exam is an important step, but neither is itself permission to start selling."
+      }
+    },
+    {
+      "index": 901,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "A regular resident individual applicant for a Maryland life producer license must be at least eighteen, have the required character and trustworthiness, satisfy the applicable examination requirement, submit a complete truthful application and pay the required fee. Additional documentation may be requested. Maryland removed its mandatory prelicensing education requirement effective October first, twenty twenty-four. That did not remove the licensing exam or continuing education for renewal. Preparation still matters. If an applicant fails an exam, Maryland law requires at least four days before taking another examination."
+      }
+    },
+    {
+      "index": 902,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "A producer's home state is connected to the person's principal residence or business and resident license. A nonresident Maryland applicant ordinarily relies on a current resident license in good standing, the required application and fee, and reciprocity. A home-state license is not a nationwide permission slip. A business entity must obtain its own required authority and designate a licensed producer as its principal contact with the Administration. That contact maintains required information and helps with investigations. An agency cannot avoid these obligations simply by calling everyone an independent contractor."
+      }
+    },
+    {
+      "index": 903,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Maryland separately defines insurance advisers, including compensated policy analysis and certain public representations of advisory services. Statutory exceptions matter: a licensed producer acting as a producer for a client is among the exceptions to the adviser subtitle. Do not assume every ordinary product explanation requires a second license. Equally, do not assume a marketing title creates authority. Viatical settlement providers and brokers have separate registration rules. A provider registers before acting; a broker must register no later than thirty days after negotiating a settlement for a viator."
+      }
+    },
+    {
+      "index": 904,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "An employee who performs only qualifying clerical or administrative tasks and receives no policy commissions may fit a licensing exception. Changing that person's job to soliciting applicants changes the analysis. Another exception can apply to an employer administering its own employee benefits without insurer compensation. These are conditional exceptions, not blanket permission for unlicensed selling. Consider Elena's assistant: scheduling an appointment is different from persuading the client to choose a particular life policy. Review both the actual conduct and the compensation, rather than relying on a job title."
+      }
+    },
+    {
+      "index": 905,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Suppose an agency owner dies and an eligible relative needs to help preserve the business. Maryland may issue a temporary producer license without the usual examination to specified otherwise-qualified relatives, representatives or employees connected to a deceased or disabled producer. It is not automatic inheritance of a license. The person applies, pays the fee and obtains the temporary license and any required appointment before acting. The Commissioner must issue or refuse it in writing within thirty days of receiving the application. This Maryland temporary license expires fifteen months after its effective date."
+      }
+    },
+    {
+      "index": 1000,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Marcus has earned his license. Keeping it active now requires a calendar, accurate records and timely action. Maryland producer licenses are generally renewed every two years. An individual's expiration is tied to the end of the birth month. Renewal requires the appropriate application, fees and qualifications. Continuing education has an earlier deadline. Do not wait until the last day of the license to begin a course. A missed email is especially dangerous if the producer never updated the address held by the Administration."
+      }
+    },
+    {
+      "index": 1001,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "For a typical Maryland resident life producer, the regular requirement is twenty-four approved continuing-education hours in the renewal period, including at least three in ethics. Complete the required education no later than fifteen days before license expiration. Hours must satisfy the applicable licensed-line requirements. Special statutory reductions, exceptions and approved waivers exist, so do not present the regular rule as universal. A nonresident can satisfy Maryland's continuing-education requirement through qualifying home-state compliance and reciprocity. This exam-preparation course is not being represented as approved renewal credit."
+      }
+    },
+    {
+      "index": 1002,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "An expired license is not a grace period for selling. Maryland prohibits insurance business until reinstatement is effective. For up to one year after expiration, reinstatement requires the appropriate application, renewal fees, a one-hundred-dollar reinstatement fee and proof of required education. An application within sixty days leads to retroactive reinstatement under the statute. An application later than sixty days leads to prospective reinstatement. That distinction does not authorize someone to keep working while expired and simply hope to fix the record afterward."
+      }
+    },
+    {
+      "index": 1003,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "A licensee must report changes in legal name, trade name, email address or address within thirty days. Filing a trade name is not the same as obtaining new lines of authority. There is also a separate ten-day rule for changes to the designated business-entity contact's required information. Read the role named in the question before choosing the clock. Moving between states can create additional resident or nonresident requirements. Updating an agency website alone does not update the Administration's licensing record."
+      }
+    },
+    {
+      "index": 1004,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Two reporting rules are easy to confuse. A covered adverse administrative action taken by another jurisdiction or another Maryland government unit must be reported within thirty days after final disposition. A covered criminal prosecution must be reported within thirty days after the initial court appearance. The criminal rule does not generally wait for a conviction. Maryland excludes misdemeanor violations of its Vehicle Law from that particular criminal-reporting requirement. Use the actual statute and required documents for the event, instead of treating every legal matter as the same deadline."
+      }
+    },
+    {
+      "index": 1005,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Imagine Marcus changes his email, approaches renewal and receives notice of a covered proceeding. These create separate duties with separate starting dates. He updates the licensing record, completes approved education by the earlier deadline, submits renewal on time and reports the proceeding with the required records. A timely and complete renewal application can preserve the existing license until the Commissioner makes a final renewal decision. That protection is different from letting the license expire without applying. Identify the event, the person responsible and the deadline each time."
+      }
+    }
+  ],
+  "estimates": [
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 900,
+        "cost": {
+          "cost": {
+            "credits": 3.9,
+            "credits_exact": 3.9
+          }
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 901,
+        "cost": {
+          "cost": {
+            "credits": 4.2,
+            "credits_exact": 4.2
+          }
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 902,
+        "cost": {
+          "cost": {
+            "credits": 4.2,
+            "credits_exact": 4.2
+          }
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 903,
+        "cost": {
+          "cost": {
+            "credits": 4.2,
+            "credits_exact": 4.2
+          }
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 904,
+        "cost": {
+          "cost": {
+            "credits": 4.2,
+            "credits_exact": 4.2
+          }
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 905,
+        "cost": {
+          "cost": {
+            "credits": 4.2,
+            "credits_exact": 4.2
+          }
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1000,
+        "cost": {
+          "cost": {
+            "credits": 3.6,
+            "credits_exact": 3.6
+          }
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1001,
+        "cost": {
+          "cost": {
+            "credits": 4.4,
+            "credits_exact": 4.4
+          }
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1002,
+        "cost": {
+          "cost": {
+            "credits": 3.9,
+            "credits_exact": 3.9
+          }
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1003,
+        "cost": {
+          "cost": {
+            "credits": 3.5,
+            "credits_exact": 3.5
+          }
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1004,
+        "cost": {
+          "cost": {
+            "credits": 4.1,
+            "credits_exact": 4.1
+          }
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1005,
+        "cost": {
+          "cost": {
+            "credits": 4.1,
+            "credits_exact": 4.1
+          }
+        }
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 900,
+      "job_id": "a9bbdfb3-8811-4624-b2fc-a9de3d2551d2",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_022009_a9bbdfb3-8811-4624-b2fc-a9de3d2551d2.mp3"
+    },
+    {
+      "index": 901,
+      "job_id": "cbd78cd9-e551-4018-95d4-9580d9ffa9aa",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_022009_cbd78cd9-e551-4018-95d4-9580d9ffa9aa.mp3"
+    },
+    {
+      "index": 902,
+      "job_id": "a35b5319-d3b8-46c8-b282-a0f1ed6b6748",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_022009_a35b5319-d3b8-46c8-b282-a0f1ed6b6748.mp3"
+    },
+    {
+      "index": 903,
+      "job_id": "10df682e-1ff6-497e-b6da-2cf2e1b14cfa",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_022009_10df682e-1ff6-497e-b6da-2cf2e1b14cfa.mp3"
+    },
+    {
+      "index": 904,
+      "job_id": "f53068d1-4bc1-4662-b2bb-6af23fa9bce5",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_022009_f53068d1-4bc1-4662-b2bb-6af23fa9bce5.mp3"
+    },
+    {
+      "index": 905,
+      "job_id": "66ad44a9-39c3-435e-b528-c7279315e596",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_022009_66ad44a9-39c3-435e-b528-c7279315e596.mp3"
+    },
+    {
+      "index": 1000,
+      "job_id": "5acf4d5f-3436-4903-b3ed-75ee5d43f5ed",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_022121_5acf4d5f-3436-4903-b3ed-75ee5d43f5ed.mp3"
+    },
+    {
+      "index": 1001,
+      "job_id": "bf4aeef4-e28b-44c8-96de-f849b8f05556",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_022121_bf4aeef4-e28b-44c8-96de-f849b8f05556.mp3"
+    },
+    {
+      "index": 1002,
+      "job_id": "3c3f0ef5-f72d-4e3a-970d-fe710b9174eb",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_022121_3c3f0ef5-f72d-4e3a-970d-fe710b9174eb.mp3"
+    },
+    {
+      "index": 1003,
+      "job_id": "7b5ae9e1-0b20-43c1-99e9-46eeaffc2ce0",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_022121_7b5ae9e1-0b20-43c1-99e9-46eeaffc2ce0.mp3"
+    },
+    {
+      "index": 1004,
+      "job_id": "e4aa96fc-9bb7-4f27-811a-776b29208dcb",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_022121_e4aa96fc-9bb7-4f27-811a-776b29208dcb.mp3"
+    },
+    {
+      "index": 1005,
+      "job_id": "7e503ea1-a52d-439a-8b7a-c34e4c7d185a",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_022121_7e503ea1-a52d-439a-8b7a-c34e4c7d185a.mp3"
+    }
+  ]
+}

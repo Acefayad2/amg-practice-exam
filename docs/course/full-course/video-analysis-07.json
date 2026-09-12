@@ -1,0 +1,201 @@
+{
+  "result": {
+    "id": "9b9a28d7-d477-4c66-8ccf-51ea2295d46b",
+    "video_input_id": "d15e3edd-58af-40df-b723-2070a424cc05",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/d15e3edd-58af-40df-b723-2070a424cc05.mp4",
+    "scenes": [
+      {
+        "audio": "Aisha and Marcus find a policy phrase they understand differently.",
+        "label": "Opening Hook",
+        "visual": "Static wide shot on a minimalist cream background. A white rectangular card slides in from the left containing list items. A small gold brand icon is fixed in the bottom-left corner. Lighting is bright, even, and artificial; the color palette consists of cream, navy, and teal.",
+        "shot_type": "Wide Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:03",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "Disagreement alone does not make language ambiguous. Read the words in their ordinary meaning and in the context of the whole policy.",
+        "label": "Product Information",
+        "visual": "The camera remains static as a dark navy blue card slides into the center, connected to the first by a teal arrow. A third card partially appears on the right. Soft, flat lighting maintains a corporate, clean aesthetic.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:13",
+        "timestamp_start": "0:03"
+      },
+      {
+        "audio": "A genuine ambiguity can exist when language reasonably supports more than one meaning. Interpretation rules can protect reasonable expectations...",
+        "label": "Product Information",
+        "visual": "A third white card with teal accents is now fully visible on the right. The three cards are connected by teal horizontal arrows. Background remains a flat, neutral cream with high-key lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:20",
+        "timestamp_start": "0:13"
+      },
+      {
+        "audio": "...and resolve ambiguity, but do not assume a customer's hope overrides a clear exclusion. In Maryland, courts do not simply discard clear policy wording.",
+        "label": "Product Information",
+        "visual": "Static shot of the three informational cards. The graphics are sharp with no handheld movement. The palette remains muted, focusing on professional clarity through color-coded blocks.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:28",
+        "timestamp_start": "0:20"
+      },
+      {
+        "audio": "A representation is a statement offered as true to the best of the applicant's knowledge. A warranty is a stricter contractual assurance.",
+        "label": "Product Information",
+        "visual": "The screen transitions to a new set of three cards. The first is white with a teal bar, and the second is beige with a gold bar. The background color and lighting are identical to previous scenes.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:41",
+        "timestamp_start": "0:28"
+      },
+      {
+        "audio": "Maryland law specifically treats statements by or for an insured or annuitant in a life or annuity application as representations, not warranties. That distinction does not excuse false information.",
+        "label": "Product Information",
+        "visual": "A third card with a navy bar appears on the right. The camera is locked. The composition follows a three-column layout with consistent margins and flat lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "0:56",
+        "timestamp_start": "0:41"
+      },
+      {
+        "audio": "Applicants should answer completely and accurately, and producers should follow the correction process when an error is found.",
+        "label": "Product Information",
+        "visual": "Static wide shot of the three-card layout. No movement or focus shifts. The minimalist environment provides zero distraction from the graphical elements.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:11",
+        "timestamp_start": "0:56"
+      },
+      {
+        "audio": "Do not teach that every small error automatically voids a policy or that calling an answer a representation makes it harmless.",
+        "label": "Product Information",
+        "visual": "The frame remains static. The color temperature is neutral-cool, highlighting the teal and navy accents against the cream backdrop.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:15",
+        "timestamp_start": "1:11"
+      },
+      {
+        "audio": "But under Maryland's rule, a misrepresentation, omission, concealment, or incorrect statement can affect recovery if it is fraudulent or material.",
+        "label": "Product Selling Points",
+        "visual": "Transition to a new screen with a bold header. Three cards (white, light green, white) populate the frame sequentially. Lighting is soft and diffuse with no shadows.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:30",
+        "timestamp_start": "1:15"
+      },
+      {
+        "audio": "The statute also addresses whether the insurer, knowing the correct facts, would in good faith have issued the coverage on the same terms. Intent to deceive is therefore not the only issue.",
+        "label": "Product Selling Points",
+        "visual": "Static shot of the current slide. The graphics are center-aligned with the brand logo in the lower-left corner. Saturation is low, emphasizing a professional tone.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "1:44",
+        "timestamp_start": "1:30"
+      },
+      {
+        "audio": "This policy application rule differs from the intentional misrepresentation ground in a producer's license application. Identify which application and which rule the question actually concerns.",
+        "label": "Product Selling Points",
+        "visual": "Continuation of the previous static shot. The layout remains clean and uncluttered. Lighting remains perfectly even across the digital environment.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "1:57",
+        "timestamp_start": "1:44"
+      },
+      {
+        "audio": "The doctrine of utmost good faith describes the importance of honest disclosure and dealing in insurance. Concealment involves withholding relevant information.",
+        "label": "Product Information",
+        "visual": "New slide transition. Three cards with colored vertical bars (white, green, navy) appear. Background remains the same cream texture. Lighting is static and high-key.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:12",
+        "timestamp_start": "1:57"
+      },
+      {
+        "audio": "Fraud involves intentional deception and its legal elements. It is not another name for every innocent mistake.",
+        "label": "Product Information",
+        "visual": "The camera is fixed on the information blocks. The minimalist design utilizes significant negative space around the text cards. Palette remains cream, green, and navy.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:27",
+        "timestamp_start": "2:12"
+      },
+      {
+        "audio": "Suppose an applicant deliberately hides a requested diagnosis to obtain a rate. The deliberate deception raises a different issue from an accidental typing error.",
+        "label": "Usage Scenarios",
+        "visual": "No changes to the frame. The visual elements support the narrated hypothetical case. Shadows are nonexistent in this stylized, graphic space.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "2:42",
+        "timestamp_start": "2:27"
+      },
+      {
+        "audio": "Both should be corrected. But consequences depend on materiality, the statute, policy terms, and other applicable limits. A producer must never supply a false answer.",
+        "label": "Usage Scenarios",
+        "visual": "Static frame. The visual hierarchy directs the eye toward the center three cards. The gold logo remains a constant anchor in the corner.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "2:53",
+        "timestamp_start": "2:42"
+      },
+      {
+        "audio": "Waiver is the voluntary relinquishment of a known right. Estoppel can prevent a party from taking a position inconsistent with conduct on which another person reasonably relied.",
+        "label": "Product Information",
+        "visual": "Transition to a two-card layout: a white card on the left and a teal card on the right. Lighting is even and consistent with previous slides.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:08",
+        "timestamp_start": "2:53"
+      },
+      {
+        "audio": "They are related but not identical. For example, knowingly choosing not to enforce a requirement raises a waiver question. Misleading conduct followed by harmful reliance raises the second doctrine.",
+        "label": "Product Information",
+        "visual": "Static wide shot of the two information cards. The palette shifts to highlight the teal block. The composition is balanced and symmetrical.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:23",
+        "timestamp_start": "3:08"
+      },
+      {
+        "audio": "Do not treat either label as a producer's power to create coverage, override law, or erase every exclusion. The available remedy depends on the facts and governing law.",
+        "label": "Product Information",
+        "visual": "The screen remains fixed. The branding is subtle, limited to the small icon and specific color usage. No camera movement occurs.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "3:32",
+        "timestamp_start": "3:23"
+      },
+      {
+        "audio": "Imagine Marcus notices an incorrect answer after submission. Aisha should promptly follow the insurer's correction procedure, not guess that the mistake is too small to matter.",
+        "label": "Call to Action",
+        "visual": "Final transition to a vertical list of four items. Each item is highlighted by a color bar (gold, teal, navy, light green). Lighting is bright and flat.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "3:47",
+        "timestamp_start": "3:32"
+      },
+      {
+        "audio": "The insurer can evaluate the corrected facts. If a later dispute arises, distinguish an interpretation issue from a false statement, and distinguish a contractual right from an excluded risk.",
+        "label": "Call to Action",
+        "visual": "Static shot of the final four-item summary list. The white cards provide high contrast against the cream background. Overall grading is clean and high-key.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "4:02",
+        "timestamp_start": "3:47"
+      },
+      {
+        "audio": "Your exam task is to identify the relevant facts and doctrine. Your professional task is to prevent avoidable disputes through accurate records and clear explanations from the start.",
+        "label": "Call to Action",
+        "visual": "Locked shot on the final slide. The frame is organized to focus on the four key takeaways. The brand logo in the bottom corner concludes the presentation.",
+        "shot_type": "Wide Shot",
+        "scene_number": 21,
+        "timestamp_end": "4:17",
+        "timestamp_start": "4:02"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "number": 6,
+  "duration": "245.545000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/2f9dc58b-315e-4796-b9f3-c98f0a85feda.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/38bdfe06-5f0c-424c-986c-842eb74669f0.png",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/d7d15fc8-6d86-4d4e-aecc-f27f7901c9c7.zip",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/0385b67e-e9a6-4811-92f1-15882c344492.jpg",
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "245.545000",
+      "size": "9879367"
+    }
+  },
+  "review": {
+    "layouts": "All six settled layouts visually inspected.",
+    "decode": "Complete FFmpeg decode passed.",
+    "speech": "All sections compared against script. Repeated words in section 2 removed with a native edit; small.en confirmed the corrected spoken text.",
+    "analysis": "Completed scene analysis reviewed alongside script and rendered layouts. See video-analysis-06.json.",
+    "player": "Chromium end-to-end check passed: native video end, every required question, wrong-answer retry, persisted first attempt, resume and mobile captions/dialog."
+  },
+  "status": "ready",
+  "coordinatorApproval": null
+}

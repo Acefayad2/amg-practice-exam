@@ -1,0 +1,11 @@
+{
+  "number": 6,
+  "section": 2,
+  "reason": "The regenerated take repeated exchanged and an unrelated fragment. Both were removed using the existing audio.",
+  "credits": 0,
+  "keptIntervalsSeconds": [[0,2.82],[3.58,16.45],[20.32,null]],
+  "crossfadeSeconds": 0.012,
+  "audio": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/aaa97fa4-dc60-4732-a7eb-0a74e35bdc52.mp3",
+  "sourceArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/862c3b32-3a92-4c0e-b628-66051d2b2087.zip",
+  "review": "small.en transcription matched the intended complete section after the edit. Final video also passed a complete FFmpeg decode."
+}

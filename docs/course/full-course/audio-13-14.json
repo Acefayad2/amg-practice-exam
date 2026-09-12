@@ -1,0 +1,356 @@
+{
+  "params": [
+    {
+      "index": 1300,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Marcus wants to reduce his insurance costs. A producer says a new policy has identical benefits but hides a shorter guarantee and a new surrender charge. Misrepresentation means giving a false or misleading account of the policy. Twisting involves misleading statements or incomplete comparisons intended to induce a policy decision such as surrender, exchange or lapse. Maryland's rule also covers inducing someone to retain a policy through that conduct. An honest, complete comparison can support a legitimate replacement. A replacement is not automatically twisting; deception is the issue."
+      }
+    },
+    {
+      "index": 1301,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Elena hears a rival agency repeat a knowingly false story that an insurer is insolvent. Insurance defamation concerns a false or maliciously critical statement about an insurer's financial condition, calculated to injure the insurance business. False financial statements are also prohibited. Altering an insurer's records to deceive an examiner is not ordinary sales enthusiasm. Compare the facts: describing a real, documented policy limitation is different from inventing financial trouble. Verify information before sharing it, and explain the product without attacking a competitor through false claims."
+      }
+    },
+    {
+      "index": 1302,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "A producer offers to return part of a life premium personally if Aisha buys today. An off-contract premium rebate used to induce the sale can violate Maryland law. The state permits specified educational materials, promotional materials or merchandise costing no more than fifty dollars, but receipt cannot depend on buying insurance. A twenty-dollar promotional notebook available without a purchase condition is different from cash back only after a sale. Read both parts of the exception. A low dollar amount alone does not authorize a purchase-contingent reward."
+      }
+    },
+    {
+      "index": 1303,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Unfair discrimination is not the same as every difference in premium. Maryland prohibits unfair differences among life-insurance applicants in the same class with equal expectation of life. Legitimate underwriting differences must still respect specific statutory protections. The life statute has particular rules for blindness, hearing impairment, specified harmless genetic traits and lawful travel. Do not replace these rules with stereotypes or a personal judgment about a community. Collect relevant facts, use lawful underwriting criteria and refer the decision to the insurer's authorized process. Respectful treatment applies to every applicant."
+      }
+    },
+    {
+      "index": 1304,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Suppose a lender says Elena may obtain a loan only if she buys insurance through the lender's chosen producer. Maryland prohibits tying access to the listed goods, services or credit to buying insurance through a particular producer or insurer. Requiring suitable protection for a legitimate interest is a different question from forcing the seller. Another rule addresses concerted boycott, coercion or intimidation that unreasonably restrains the insurance business. Look for the actual pressure and the required relationship. A client must retain the free choice protected by the statute."
+      }
+    },
+    {
+      "index": 1305,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "An unlicensed receptionist can introduce a customer to a licensed producer without becoming the person who recommends policy terms. Maryland's compensation statute permits certain payments to people who do not sell, solicit or negotiate, subject to its anti-inducement limits. Calling active sales work a referral does not make it lawful. The same care applies to documents. Do not ask a client to sign a blank application so answers can be invented later. Complete the facts accurately, obtain the required review and signatures, and use the insurer's approved correction process."
+      }
+    },
+    {
+      "index": 1400,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Aisha sees an online post promising that a life policy is a risk-free savings account with guaranteed large returns. A polished design does not make that description accurate. Maryland prohibits untrue, deceptive or misleading insurance advertising and misleading policy descriptions. Identify the product as life insurance, explain material conditions and separate guarantees from assumptions. The same honesty belongs in a conversation, a social post and a presentation. An attractive result based on a possible future crediting rate should never be presented as a contractual promise."
+      }
+    },
+    {
+      "index": 1401,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "An illustration can project guaranteed and nonguaranteed policy values over time. The labels matter. Maryland requires the applicable guaranteed elements to appear before corresponding nonguaranteed elements. Nonguaranteed assumptions can change, and actual results can be higher or lower. Suppose a projected dividend is expected to help pay a future premium. That projection does not make the policy paid up. The rules prohibit misleading vanishing-premium language when it implies that nonguaranteed values eliminate the continuing obligation. Show what happens if the assumed results do not occur."
+      }
+    },
+    {
+      "index": 1402,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "If a policy is applied for as illustrated, the signed basic illustration goes to the insurer with the application and a copy goes to the applicant. If the insurer issues different terms, a revised illustration must match the issued policy. It is labeled revised and signed and dated no later than delivery, with copies for the insurer and policyowner. Do not keep showing a more attractive old version. If no conforming illustration was used at application, follow the certification and delivery procedure required for that situation."
+      }
+    },
+    {
+      "index": 1403,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "The buyer's guide gives general help with understanding and comparing life insurance. A policy summary supplies the specified costs and guaranteed benefits of the particular policy. An illustration has its own rules for depicting values over time. Maryland generally requires the buyer's guide before acceptance of the initial premium. If the policy has an unconditional refund provision of at least ten days, the guide may instead arrive with or before policy delivery. For covered forms not marketed with an illustration, the required policy summary follows the same delivery timing."
+      }
+    },
+    {
+      "index": 1404,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Elena collects income and other private information for a life application. That does not make the information available for any marketing purpose. Maryland's financial-privacy rules generally require a clear initial notice when the customer relationship starts. Before certain disclosures to a nonaffiliated third party, the licensee must provide the required notices and a reasonable opportunity to opt out. The customer must not have opted out. Exceptions exist for specified transaction servicing and other lawful purposes. Identify the information, recipient and purpose before deciding which rule applies."
+      }
+    },
+    {
+      "index": 1405,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Annual privacy notices are generally part of a continuing customer relationship, but Maryland has an exception when disclosures are limited to the specified permitted categories and the disclosed policies and practices have not changed. Nonpublic health information has a separate authorization rule with listed insurance-function exceptions, including underwriting and claims work. That matters even in a life-insurance application. An exception for a real underwriting task is not permission to post a client's diagnosis in a sales chat. Use approved systems, limit access and preserve the required records."
+      }
+    }
+  ],
+  "costs": [
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1300,
+        "cost": {
+          "credits": 4,
+          "credits_exact": 4
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1301,
+        "cost": {
+          "credits": 4.1,
+          "credits_exact": 4.1
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1302,
+        "cost": {
+          "credits": 3.8,
+          "credits_exact": 3.8
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1303,
+        "cost": {
+          "credits": 4.4,
+          "credits_exact": 4.4
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1304,
+        "cost": {
+          "credits": 4,
+          "credits_exact": 4
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1305,
+        "cost": {
+          "credits": 3.9,
+          "credits_exact": 3.9
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1400,
+        "cost": {
+          "credits": 4,
+          "credits_exact": 4
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1401,
+        "cost": {
+          "credits": 4.1,
+          "credits_exact": 4.1
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1402,
+        "cost": {
+          "credits": 3.6,
+          "credits_exact": 3.6
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1403,
+        "cost": {
+          "credits": 3.9,
+          "credits_exact": 3.9
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1404,
+        "cost": {
+          "credits": 4.1,
+          "credits_exact": 4.1
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1405,
+        "cost": {
+          "credits": 4.1,
+          "credits_exact": 4.1
+        }
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 1300,
+      "job_id": "0472218a-43c3-40fa-a80c-7e1995edb143",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_031409_0472218a-43c3-40fa-a80c-7e1995edb143.mp3"
+    },
+    {
+      "index": 1301,
+      "job_id": "910f4b72-f541-48aa-b2cf-7cdfdf2d4534",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_031408_910f4b72-f541-48aa-b2cf-7cdfdf2d4534.mp3"
+    },
+    {
+      "index": 1302,
+      "job_id": "b4561ab3-d89b-4a60-9835-3ea81c926838",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_031408_b4561ab3-d89b-4a60-9835-3ea81c926838.mp3"
+    },
+    {
+      "index": 1303,
+      "job_id": "551290d9-f60e-4bfb-b6cf-e423566e85b0",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_031408_551290d9-f60e-4bfb-b6cf-e423566e85b0.mp3"
+    },
+    {
+      "index": 1304,
+      "job_id": "8211d3b0-3f1f-42fd-9f87-c788800fb1c8",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_031408_8211d3b0-3f1f-42fd-9f87-c788800fb1c8.mp3"
+    },
+    {
+      "index": 1305,
+      "job_id": "2c54a5a0-96be-4f68-995b-476548ec9c99",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_031409_2c54a5a0-96be-4f68-995b-476548ec9c99.mp3"
+    },
+    {
+      "index": 1400,
+      "job_id": "87d54a71-9300-4273-80c0-3a0752cd0027",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_031544_87d54a71-9300-4273-80c0-3a0752cd0027.mp3"
+    },
+    {
+      "index": 1401,
+      "job_id": "65775e8c-e2da-470c-b794-f66fe0aa7d7c",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_031544_65775e8c-e2da-470c-b794-f66fe0aa7d7c.mp3"
+    },
+    {
+      "index": 1402,
+      "job_id": "05310920-f863-4e2d-bd4e-89fd0c12211c",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_031544_05310920-f863-4e2d-bd4e-89fd0c12211c.mp3"
+    },
+    {
+      "index": 1403,
+      "job_id": "fff50f36-e4ee-432a-826c-647726d32781",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_031544_fff50f36-e4ee-432a-826c-647726d32781.mp3"
+    },
+    {
+      "index": 1404,
+      "job_id": "6a4ac797-617e-4b44-9731-f920a69fa106",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_031544_6a4ac797-617e-4b44-9731-f920a69fa106.mp3"
+    },
+    {
+      "index": 1405,
+      "job_id": "51657b7f-b64e-4634-8688-1dc4ecab0d67",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_031544_51657b7f-b64e-4634-8688-1dc4ecab0d67.mp3"
+    }
+  ]
+}

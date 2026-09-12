@@ -1,0 +1,331 @@
+{
+  "created": "2026-09-12",
+  "params": [
+    {
+      "index": 500,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Aisha is a licensed life producer. Marcus asks whether she can promise that every application will be approved. She cannot. A producer's role and authority have limits. In a typical insurer agency relationship, the insurer is the principal and the producer is its agent. The principal authorizes the agent to perform specified acts on its behalf. The producer may have duties to applicants and insureds as well. The word agent identifies a relationship; it does not mean permission to rewrite a policy or ignore underwriting."
+      }
+    },
+    {
+      "index": 501,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Express authority is specifically granted, often in the producer's written agreement. For example, an insurer may authorize Aisha to solicit applications and collect an initial premium using its approved receipt. She should read what the grant permits and what it excludes. A life producer ordinarily does not have unrestricted power to bind coverage or waive application requirements. If Marcus asks for a guarantee outside her authority, the correct response is to explain the limits and obtain the insurer's decision, not invent an approval."
+      }
+    },
+    {
+      "index": 502,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Implied authority includes actions reasonably necessary to carry out the express grant. If Aisha is authorized to solicit and submit applications, explaining how to complete the approved form may be incidental to that work. Implied authority is not a way to bypass an express restriction. Changing a premium rate, deleting an exclusion, or promising an underwriting result is not justified merely because it would help make a sale. Always connect the incidental action to the task the principal actually authorized."
+      }
+    },
+    {
+      "index": 503,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Apparent authority concerns what a third party reasonably believes because of the principal's words or conduct. Suppose the insurer presents a person to customers as authorized to perform a particular task, and a customer reasonably relies on that presentation. That can create an apparent-authority issue even if a private instruction is narrower. The producer's unsupported statement, I can do anything, is not enough by itself. Look for conduct attributable to the principal and reasonable reliance. Whether an insurer is legally bound depends on the actual facts and applicable law."
+      }
+    },
+    {
+      "index": 504,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "A captive or exclusive producer generally represents one insurer or affiliated group. An independent producer may work with several insurers. Neither label replaces licensing, appointment or contract requirements. In Maryland, written appointment documentation and the insurer's producer register have their own rules. A business entity's relationship and an individual's authority should not be assumed identical. For this lesson, remember that a producer's contract governs the working relationship, while a state license and an insurer appointment answer separate regulatory and authorization questions."
+      }
+    },
+    {
+      "index": 505,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Aisha's useful work is accurate fact gathering, honest explanation, careful handling of premiums and private information, and prompt transmission of the application. She must not forge a signature, conceal a material answer, or describe a nonguaranteed value as guaranteed. If she lacks an answer, she should verify it. When you classify authority on an exam, ask where it came from: a direct grant, a necessary incidental action, or the principal's appearance to the customer. Then choose the action that remains within that authority."
+      }
+    },
+    {
+      "index": 600,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Marcus signs an application and pays an initial premium. Has he automatically received every benefit he requested? Not necessarily. A valid contract needs agreement, consideration, competent parties and a legal purpose. The application commonly constitutes an offer, and the insurer decides whether to accept under its rules. If it offers different coverage or a higher premium, that may be a counteroffer requiring acceptance. The precise effective date also depends on the application, receipt and policy conditions. A signature or payment alone is not a universal coverage rule."
+      }
+    },
+    {
+      "index": 601,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Consideration is the value exchanged for the contractual promise. The applicant supplies the premium and application statements; the insurer supplies its promise to pay according to the contract. Competent parties must have the legal capacity to contract. A lawful purpose means the arrangement cannot be built around an illegal objective. Life insurance on another person also raises insurable-interest and consent requirements. These ideas are related but different. A perfectly completed form cannot make an unlawful wagering arrangement valid merely because someone paid a premium."
+      }
+    },
+    {
+      "index": 602,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Insurance is commonly described as a contract of adhesion because the insurer prepares the standard terms and the applicant generally accepts or rejects them. That does not mean a clear exclusion disappears. We will study interpretation separately. The contract is also aleatory: the value exchanged depends on an uncertain event and may be unequal. Marcus could pay a relatively small amount before a covered death produces a large benefit. Another insured may pay premiums for many years without a death claim during a term policy's coverage period."
+      }
+    },
+    {
+      "index": 603,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "A life policy is usually described as unilateral because the insurer makes the enforceable promise to pay covered benefits. The owner can generally stop paying future premiums, subject to policy consequences such as lapse or use of available values. This does not mean the policy has no conditions. Coverage may depend on required premiums, truthful application information and other valid terms. Unilateral identifies the contractual promise. Conditional reminds you that the promise operates under specified requirements. Do not mistake either word for an unconditional promise to pay every claim."
+      }
+    },
+    {
+      "index": 604,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Indemnity generally aims to compensate an actual covered financial loss without creating a profit from that loss. Life insurance ordinarily pays a stated contractual death benefit rather than measuring the person's economic worth after death. The family does not submit every future household expense to set that amount. The personal-contract concept also needs care: many insurance contracts closely connect coverage to a particular insured risk, but life policies generally permit assignment of ownership rights under their terms and applicable law. Assignment does not change which person's life is insured."
+      }
+    },
+    {
+      "index": 605,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Suppose an applicant requests one rate, but the insurer offers a higher rate based on underwriting. Identify the counteroffer and the applicant's response before assuming a contract on the original terms. Then check the consideration, legal capacity and lawful purpose. Finally, apply the policy's conditions. The exam may ask only for a characteristic, such as aleatory or adhesion, but a real file can involve several at once. Learn the reason each term fits, so a changed scenario does not depend on memorized wording."
+      }
+    }
+  ],
+  "estimates": [
+    {
+      "index": 500,
+      "cost": {
+        "credits": 3.5,
+        "credits_exact": 3.5
+      }
+    },
+    {
+      "index": 501,
+      "cost": {
+        "credits": 3.7,
+        "credits_exact": 3.7
+      }
+    },
+    {
+      "index": 502,
+      "cost": {
+        "credits": 3.5,
+        "credits_exact": 3.5
+      }
+    },
+    {
+      "index": 503,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 504,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 505,
+      "cost": {
+        "credits": 3.6,
+        "credits_exact": 3.6
+      }
+    },
+    {
+      "index": 600,
+      "cost": {
+        "credits": 3.9,
+        "credits_exact": 3.9
+      }
+    },
+    {
+      "index": 601,
+      "cost": {
+        "credits": 3.9,
+        "credits_exact": 3.9
+      }
+    },
+    {
+      "index": 602,
+      "cost": {
+        "credits": 3.7,
+        "credits_exact": 3.7
+      }
+    },
+    {
+      "index": 603,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 604,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 605,
+      "cost": {
+        "credits": 3.5,
+        "credits_exact": 3.5
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 500,
+      "job_id": "9a521640-cc4b-4ed0-9650-f4a19421f1a5",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_014741_9a521640-cc4b-4ed0-9650-f4a19421f1a5.mp3"
+    },
+    {
+      "index": 501,
+      "job_id": "7f41b713-5725-40b0-975a-72450cf36e41",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_014741_7f41b713-5725-40b0-975a-72450cf36e41.mp3"
+    },
+    {
+      "index": 502,
+      "job_id": "8c00f948-091b-48e1-ba38-e920f6205cf3",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_014742_8c00f948-091b-48e1-ba38-e920f6205cf3.mp3"
+    },
+    {
+      "index": 503,
+      "job_id": "6fa25abc-a682-4ff8-b965-aa4749b05bc4",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_014741_6fa25abc-a682-4ff8-b965-aa4749b05bc4.mp3"
+    },
+    {
+      "index": 504,
+      "job_id": "91e96ac2-c913-4b6b-9333-cb3e1a595539",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_014741_91e96ac2-c913-4b6b-9333-cb3e1a595539.mp3"
+    },
+    {
+      "index": 505,
+      "job_id": "3c624d2d-c31b-4fcf-ae76-e34d82de71e1",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_014741_3c624d2d-c31b-4fcf-ae76-e34d82de71e1.mp3"
+    },
+    {
+      "index": 600,
+      "job_id": "4a41b259-39a7-45a9-aa64-e296a8b2e148",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_014808_4a41b259-39a7-45a9-aa64-e296a8b2e148.mp3"
+    },
+    {
+      "index": 601,
+      "job_id": "7ed2b22c-2978-4c09-bfb7-96ce638bb2c8",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_014951_7ed2b22c-2978-4c09-bfb7-96ce638bb2c8.mp3"
+    },
+    {
+      "index": 602,
+      "job_id": "2a4b9128-e663-4a07-b783-f59440f5c3e9",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_014808_2a4b9128-e663-4a07-b783-f59440f5c3e9.mp3"
+    },
+    {
+      "index": 603,
+      "job_id": "f83f4677-e96d-46a6-979f-c471d2f50d39",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_014808_f83f4677-e96d-46a6-979f-c471d2f50d39.mp3"
+    },
+    {
+      "index": 604,
+      "job_id": "c08ab3c8-dd61-4c6f-a978-45ef7c2a46fa",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_014952_c08ab3c8-dd61-4c6f-a978-45ef7c2a46fa.mp3"
+    },
+    {
+      "index": 605,
+      "job_id": "35af1d31-e450-442c-acdc-435006539224",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_014808_35af1d31-e450-442c-acdc-435006539224.mp3"
+    }
+  ],
+  "submissionFailures": [
+    {
+      "index": 601,
+      "reason": "429 rate_limit_reached; no job ID returned; retried only failed index"
+    },
+    {
+      "index": 604,
+      "reason": "429 rate_limit_reached; no job ID returned; retried only failed index"
+    }
+  ]
+}

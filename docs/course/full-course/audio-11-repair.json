@@ -1,0 +1,22 @@
+{
+  "params": {
+    "model": "seed_audio",
+    "voice_type": "preset",
+    "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+    "format": "mp3",
+    "speech_rate": 0,
+    "prompt": "Maryland permits a licensed producer, without an appointment, to make an informal life-insurance inquiry or solicit a life application for an insurer authorized for that business. This is a specific exception, not unrestricted authority to bind coverage. If an insurer initially accepts an application from an unappointed producer, it must, within thirty days, either reject the application under the applicable law or appoint the producer and enter the required information in its register. Acceptance for processing is not necessarily acceptance of the insurance risk or a promise that coverage has begun."
+  },
+  "credits": 4.1,
+  "jobs": [
+    {
+      "index": 1101,
+      "job_id": "c83f67c3-cb85-433b-9e6b-a89d0f272100",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_030944_c83f67c3-cb85-433b-9e6b-a89d0f272100.mp3"
+    }
+  ],
+  "reason": "Both base.en and small.en identified unrequested gibberish and a scrambled phrase in original section 2."
+}

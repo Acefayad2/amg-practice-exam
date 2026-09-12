@@ -1,0 +1,488 @@
+{
+  "params": [
+    {
+      "index": 700,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Aisha and Marcus find a policy phrase they understand differently. Disagreement alone does not make language ambiguous. Read the words in their ordinary meaning and in the context of the whole policy. A genuine ambiguity can exist when language reasonably supports more than one meaning. Interpretation rules can protect reasonable expectations and resolve ambiguity, but do not assume a customer's hope overrides a clear exclusion. In Maryland, courts do not simply discard clear policy wording because one party expected broader protection."
+      }
+    },
+    {
+      "index": 701,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "A representation is a statement offered as true to the best of the applicant's knowledge. A warranty is a stricter contractual assurance. Maryland law specifically treats statements by or for an insured or annuitant in a life or annuity application as representations, not warranties. That distinction does not excuse false information. Applicants should answer completely and accurately, and producers should follow the correction process when an error is found. Do not teach that every small error automatically voids a policy, or that calling an answer a representation makes it harmless."
+      }
+    },
+    {
+      "index": 702,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Under Maryland's rule, a misrepresentation, omission, concealment or incorrect statement can affect recovery if it is fraudulent or material to accepting the risk or the hazard assumed. The statute also addresses whether the insurer, knowing the correct facts, would in good faith have issued the coverage on the same terms. Intent to deceive is therefore not the only possible issue. This policy-application rule differs from the intentional-misrepresentation ground in a producer's license application. Identify which application and which rule the question actually concerns."
+      }
+    },
+    {
+      "index": 703,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Utmost good faith describes the importance of honest disclosure and dealing in insurance. Concealment involves withholding relevant information. Fraud involves intentional deception and its legal elements; it is not another name for every innocent mistake. Suppose an applicant deliberately hides a requested diagnosis to obtain a rate. The deliberate deception raises a different issue from an accidental typing error. Both should be corrected, but consequences depend on materiality, the statute, policy terms and other applicable limits, including contestability. A producer must never supply a false answer to improve the offer."
+      }
+    },
+    {
+      "index": 704,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Waiver is the voluntary relinquishment of a known right. Estoppel can prevent a party from taking a position inconsistent with conduct on which another person reasonably relied to their detriment. They are related but not identical. For example, knowingly choosing not to enforce a requirement raises a waiver question; misleading conduct followed by harmful reliance raises an estoppel question. Do not treat either label as a producer's power to create coverage, override law, or erase every exclusion. The available remedy depends on the facts and governing law."
+      }
+    },
+    {
+      "index": 705,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Imagine Marcus notices an incorrect answer after submission. Aisha should promptly follow the insurer's correction procedure, not guess that the mistake is too small to matter. The insurer can evaluate the corrected facts. If a later dispute arises, distinguish an interpretation issue from a false statement, and distinguish a contractual right from an excluded risk. Your exam task is to identify the relevant facts and doctrine. Your professional task is to prevent avoidable disputes through accurate records and clear explanations from the start."
+      }
+    },
+    {
+      "index": 800,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Aisha helps an applicant considering variable life insurance. The file involves state insurance licensing, possible consumer reports, securities requirements and company procedures. No single organization does every job. Maryland's Insurance Administration regulates insurance in the state. Federal law can separately govern consumer reports, specified fraud and securities activities. An insurer's procedure can add practical steps, but it cannot replace the law. Begin each question by identifying the transaction and the organization or rule that actually has responsibility for it."
+      }
+    },
+    {
+      "index": 801,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "The Fair Credit Reporting Act governs consumer reports used for purposes such as insurance underwriting. A report must have a permitted purpose. If an insurer takes an adverse action based in whole or part on a consumer report, required notice identifies the reporting agency, explains that the agency did not make the decision, and describes dispute and free-report rights. Adverse action can include denial or less favorable terms, not just a total rejection. Investigative reports based on personal interviews have additional disclosure requirements."
+      }
+    },
+    {
+      "index": 802,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Federal law addresses fraud and false statements in insurance affecting interstate commerce. A person with a felony involving dishonesty or breach of trust, or a conviction for a specified federal insurance offense, may be prohibited from willfully engaging in that business without written consent from the appropriate insurance regulator. A producer license alone is not a substitute for required federal consent. Nor does this mean every conviction has exactly the same consequence. State licensing standards and federal restrictions must both be checked."
+      }
+    },
+    {
+      "index": 803,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Variable life and variable annuities combine insurance features with investment exposure. State insurance authority remains necessary, and securities registration and sales requirements also apply. The Securities and Exchange Commission oversees federal securities regulation, while FINRA regulates its member broker-dealers and associated persons. A prospectus explains investment risks, fees and other contract features. Registration is not a government endorsement or a guarantee of returns. A life-only license does not by itself grant every permission needed to sell variable products."
+      }
+    },
+    {
+      "index": 804,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "The National Association of Insurance Commissioners supports state insurance regulators with coordination, data and model standards. A model law does not automatically become Maryland law simply because the association adopts it. The Interstate Insurance Product Regulation Commission administers the Insurance Compact. It provides a coordinated filing and review process for covered products using uniform standards adopted under the compact. That product-review role is different from issuing an individual producer license or resolving every consumer complaint. Keep product standards separate from a producer's personal authority."
+      }
+    },
+    {
+      "index": 805,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "NCOIL, the National Council of Insurance Legislators, brings state legislators together on insurance issues and develops model legislation. Industry and producer associations provide education, representation and professional resources. They do not replace the regulator or issue a Maryland producer license. Route a licensing question to the Insurance Administration, a compact product-standard question to the Compact, and a model-law discussion to the relevant organization. On the exam, a familiar acronym is not enough. Match the organization's actual function to the facts before selecting an answer."
+      }
+    }
+  ],
+  "estimates": [
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 700,
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "Cost preflight for seed_audio: 3.7 credits (3.7 exact). No job submitted."
+            }
+          ],
+          "structuredContent": {
+            "cost": {
+              "credits": 3.7,
+              "credits_exact": 3.7
+            }
+          },
+          "isError": false
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 701,
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "Cost preflight for seed_audio: 4 credits (4 exact). No job submitted."
+            }
+          ],
+          "structuredContent": {
+            "cost": {
+              "credits": 4,
+              "credits_exact": 4
+            }
+          },
+          "isError": false
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 702,
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "Cost preflight for seed_audio: 3.9 credits (3.9 exact). No job submitted."
+            }
+          ],
+          "structuredContent": {
+            "cost": {
+              "credits": 3.9,
+              "credits_exact": 3.9
+            }
+          },
+          "isError": false
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 703,
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "Cost preflight for seed_audio: 4.3 credits (4.3 exact). No job submitted."
+            }
+          ],
+          "structuredContent": {
+            "cost": {
+              "credits": 4.3,
+              "credits_exact": 4.3
+            }
+          },
+          "isError": false
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 704,
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "Cost preflight for seed_audio: 3.8 credits (3.8 exact). No job submitted."
+            }
+          ],
+          "structuredContent": {
+            "cost": {
+              "credits": 3.8,
+              "credits_exact": 3.8
+            }
+          },
+          "isError": false
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 705,
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "Cost preflight for seed_audio: 3.7 credits (3.7 exact). No job submitted."
+            }
+          ],
+          "structuredContent": {
+            "cost": {
+              "credits": 3.7,
+              "credits_exact": 3.7
+            }
+          },
+          "isError": false
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 800,
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "Cost preflight for seed_audio: 3.9 credits (3.9 exact). No job submitted."
+            }
+          ],
+          "structuredContent": {
+            "cost": {
+              "credits": 3.9,
+              "credits_exact": 3.9
+            }
+          },
+          "isError": false
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 801,
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "Cost preflight for seed_audio: 3.7 credits (3.7 exact). No job submitted."
+            }
+          ],
+          "structuredContent": {
+            "cost": {
+              "credits": 3.7,
+              "credits_exact": 3.7
+            }
+          },
+          "isError": false
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 802,
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "Cost preflight for seed_audio: 3.8 credits (3.8 exact). No job submitted."
+            }
+          ],
+          "structuredContent": {
+            "cost": {
+              "credits": 3.8,
+              "credits_exact": 3.8
+            }
+          },
+          "isError": false
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 803,
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "Cost preflight for seed_audio: 4 credits (4 exact). No job submitted."
+            }
+          ],
+          "structuredContent": {
+            "cost": {
+              "credits": 4,
+              "credits_exact": 4
+            }
+          },
+          "isError": false
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 804,
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "Cost preflight for seed_audio: 4.3 credits (4.3 exact). No job submitted."
+            }
+          ],
+          "structuredContent": {
+            "cost": {
+              "credits": 4.3,
+              "credits_exact": 4.3
+            }
+          },
+          "isError": false
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 805,
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "Cost preflight for seed_audio: 4.1 credits (4.1 exact). No job submitted."
+            }
+          ],
+          "structuredContent": {
+            "cost": {
+              "credits": 4.1,
+              "credits_exact": 4.1
+            }
+          },
+          "isError": false
+        }
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 700,
+      "job_id": "c3f6a5f8-1f20-4329-a096-c6a5f8e867ab",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_020137_c3f6a5f8-1f20-4329-a096-c6a5f8e867ab.mp3"
+    },
+    {
+      "index": 701,
+      "job_id": "93317637-1a89-4597-88a7-aabf4db8eb3c",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_020137_93317637-1a89-4597-88a7-aabf4db8eb3c.mp3"
+    },
+    {
+      "index": 702,
+      "job_id": "b45e3b84-7950-4c14-b109-1f3b364d8eb0",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_020138_b45e3b84-7950-4c14-b109-1f3b364d8eb0.mp3"
+    },
+    {
+      "index": 703,
+      "job_id": "a34930bf-c585-4896-97f6-d5377a2a4546",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_020137_a34930bf-c585-4896-97f6-d5377a2a4546.mp3"
+    },
+    {
+      "index": 704,
+      "job_id": "488e71e6-7049-4dff-8c4b-984f85bd84f6",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_020137_488e71e6-7049-4dff-8c4b-984f85bd84f6.mp3"
+    },
+    {
+      "index": 705,
+      "job_id": "a811c392-8b4d-4fa9-9e40-f07d38afa855",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_020137_a811c392-8b4d-4fa9-9e40-f07d38afa855.mp3"
+    },
+    {
+      "index": 800,
+      "job_id": "3ae1179d-287f-49c7-893b-ba706724605f",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_020228_3ae1179d-287f-49c7-893b-ba706724605f.mp3"
+    },
+    {
+      "index": 801,
+      "job_id": "dba07196-3abf-41ef-8f79-ed9502ad8205",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_020228_dba07196-3abf-41ef-8f79-ed9502ad8205.mp3"
+    },
+    {
+      "index": 802,
+      "job_id": "0f54fceb-9b7e-4cd5-9a3c-b20bb5931b09",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_020228_0f54fceb-9b7e-4cd5-9a3c-b20bb5931b09.mp3"
+    },
+    {
+      "index": 803,
+      "job_id": "910e8e79-94c4-4646-a21c-47893ca77572",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_020227_910e8e79-94c4-4646-a21c-47893ca77572.mp3"
+    },
+    {
+      "index": 804,
+      "job_id": "defd2a6f-7e01-476a-882d-6ec91e79bd01",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_020228_defd2a6f-7e01-476a-882d-6ec91e79bd01.mp3"
+    },
+    {
+      "index": 805,
+      "job_id": "6b67a8e1-f107-4ca3-9590-8a895dbb9364",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_020228_6b67a8e1-f107-4ca3-9590-8a895dbb9364.mp3"
+    }
+  ]
+}

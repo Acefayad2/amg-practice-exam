@@ -1,0 +1,380 @@
+{
+  "params": [
+    {
+      "index": 1100,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Elena holds an active Maryland life producer license. An insurer offers her a producer agreement. The state license, the business agreement and the insurer appointment are related but different. The license establishes permitted insurance authority in Maryland. The agreement sets working terms. The appointment documents the insurer relationship. The insurer must itself be authorized for the business. An enthusiastic email from a manager is not a reason to ignore the required documentation or make promises beyond delegated authority. Verify the role and the permission before acting."
+      }
+    },
+    {
+      "index": 1101,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Maryland permits a licensed producer, without an appointment, to make an informal life-insurance inquiry or solicit a life application for an insurer authorized for that business. This is a specific exception, not unrestricted authority to bind coverage. If an insurer initially accepts an application from an unappointed producer, it must, within thirty days, either reject the application under the applicable law or appoint the producer and enter the required information in its register. Acceptance for processing is not necessarily acceptance of the insurance risk or a promise that coverage has begun."
+      }
+    },
+    {
+      "index": 1102,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "An insurer maintains its producer register and adds the required appointment information within thirty days. It also provides written appointment documentation within thirty days. The appointed producer keeps the documentation and a list of appointing insurers. With written documentation, the producer may act within authority before the insurer finishes the register entry. Appointment records stay available while the appointment is active and for at least five years after termination. Electronic records must be retrievable within ten working days after the Commissioner's request. A screenshot that cannot later be found is not a reliable record system."
+      }
+    },
+    {
+      "index": 1103,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "An insurer updates its register within thirty days after the effective date of an appointment or other covered business-relationship termination. Certain terminations involving suspected grounds for discipline also require notice to the Commissioner. Within fifteen days after that required notice, the insurer sends a copy to the producer using the prescribed delivery method. The producer has thirty days after receiving the notice to submit comments, with a copy sent to the insurer. Ending one appointment does not by itself mean the state has revoked the person's license. Those are separate decisions."
+      }
+    },
+    {
+      "index": 1104,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "The Maryland Insurance Commissioner enforces the Insurance Article and can conduct examinations and investigations within that authority. Grounds for producer discipline include misappropriating money, intentional material falsehoods in a license application, forging an insurance document, dishonest practices, and other specified violations. The statute provides notice and an opportunity for hearing for the stated licensing sanctions. Denial, suspension, revocation and refusal to renew have different effects. An insurer's appointment decision is not a substitute for the Commissioner's process, and a producer should not ignore a lawful order or request for records."
+      }
+    },
+    {
+      "index": 1105,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Under the producer discipline statute, the Commissioner may impose a penalty from one hundred to five thousand dollars per violation instead of, or in addition to, suspension or revocation. Restitution can also be required for financial injury. Other laws can create separate consequences. If an independent producer has good-faith cause to believe insurance fraud occurred, Maryland requires a written report to the Fraud Division. Do not conceal a suspected problem to protect a sale. Preserve the facts, use the required reporting process and cooperate within the law."
+      }
+    },
+    {
+      "index": 1200,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Aisha receives a premium payment while the agency is short on cash. That money is not a convenient loan for rent. A producer handles money belonging to others with fiduciary responsibilities. Misappropriating, converting or unlawfully withholding money can support license discipline. Keep an accurate record of receipt, the client, the insurer, the purpose and the amount. The fact that a commission will eventually be earned does not make the entire premium the agency's income. Follow the authorized payment and accounting process from the start."
+      }
+    },
+    {
+      "index": 1201,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Maryland's premium-account regulation defines prompt remittance as sending premium money to the carrier or insured no later than the close of the fifth business day following receipt. A producer who does not make prompt remittance must maintain the premium in one or more premium accounts, separate from operating and personal accounts. Do not count business days as calendar days. A premium account is restricted money, not an everyday spending account. A documented process should show where the money is and who is entitled to it."
+      }
+    },
+    {
+      "index": 1202,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Not every mixture of funds is the same. Maryland permits voluntary deposits into a premium account and generally allows multiple carriers' premiums there unless prohibited by a carrier or a special rule. It prohibits mixing the premium account with an operating or personal account. Withdrawals are limited to authorized purposes, such as paying carriers, transferring permitted commissions and making authorized returns. A withdrawal cannot leave less than the required aggregate net premiums, return premiums and unremitted deposits. Reconcile the account; do not guess the available balance from the bank total."
+      }
+    },
+    {
+      "index": 1203,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Compensation for selling, soliciting or negotiating insurance generally goes to a licensed producer, subject to statutory exceptions. Paying through a different label does not cure unlicensed selling. Maryland also permits certain renewal or deferred commissions to a person who formerly held the required life producer license and appointment. Other permitted payments or assignments to people who do not sell, solicit or negotiate must still avoid unlawful rebating or inducements. Identify what the person actually did, their required authority when applicable, and the kind of compensation."
+      }
+    },
+    {
+      "index": 1204,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "A producer cannot simply add any charge the customer will tolerate. Maryland restricts collecting premiums or charges different from those applicable to the insurance, with specified exceptions. One exception permits a placement-service fee of no more than fifteen percent of the premium when the insurer does not pay commissions. For a one-thousand-dollar premium, that ceiling is one hundred fifty dollars. It is not permission to add fifteen percent to every commissioned policy. Verify the applicable exception, disclose accurately and keep a record of the authorized charge."
+      }
+    },
+    {
+      "index": 1205,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Record retention depends on the document and rule. Maryland appointment records are kept while the appointment is active and at least five years afterward. Under the annuity recommendation rule, covered transaction records are maintained for seven years after the insurer completes the transaction. An insurer may keep those records for a producer, but the producer should verify that arrangement rather than assume it exists. Preserve readable, retrievable documents and signatures. Good records connect the advice, disclosure, payment and final transaction so another reviewer can understand what actually happened."
+      }
+    }
+  ],
+  "costs": [
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1100,
+        "result": {
+          "cost": {
+            "credits": 4,
+            "credits_exact": 4
+          }
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1101,
+        "result": {
+          "cost": {
+            "credits": 4.1,
+            "credits_exact": 4.1
+          }
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1102,
+        "result": {
+          "cost": {
+            "credits": 4.4,
+            "credits_exact": 4.4
+          }
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1103,
+        "result": {
+          "cost": {
+            "credits": 4.1,
+            "credits_exact": 4.1
+          }
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1104,
+        "result": {
+          "cost": {
+            "credits": 4.5,
+            "credits_exact": 4.5
+          }
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1105,
+        "result": {
+          "cost": {
+            "credits": 3.9,
+            "credits_exact": 3.9
+          }
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1200,
+        "result": {
+          "cost": {
+            "credits": 3.7,
+            "credits_exact": 3.7
+          }
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1201,
+        "result": {
+          "cost": {
+            "credits": 3.6,
+            "credits_exact": 3.6
+          }
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1202,
+        "result": {
+          "cost": {
+            "credits": 4.1,
+            "credits_exact": 4.1
+          }
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1203,
+        "result": {
+          "cost": {
+            "credits": 4,
+            "credits_exact": 4
+          }
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1204,
+        "result": {
+          "cost": {
+            "credits": 3.9,
+            "credits_exact": 3.9
+          }
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 1205,
+        "result": {
+          "cost": {
+            "credits": 4.2,
+            "credits_exact": 4.2
+          }
+        }
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 1100,
+      "job_id": "b76d5e8a-1b4b-4af7-9b51-626ac212b758",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_023600_b76d5e8a-1b4b-4af7-9b51-626ac212b758.mp3"
+    },
+    {
+      "index": 1101,
+      "job_id": "902f3683-3b52-4ae5-add0-0502272629d3",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_023600_902f3683-3b52-4ae5-add0-0502272629d3.mp3"
+    },
+    {
+      "index": 1102,
+      "job_id": "7798cbc4-f183-465e-a7e4-2b9bbc11f136",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_023600_7798cbc4-f183-465e-a7e4-2b9bbc11f136.mp3"
+    },
+    {
+      "index": 1103,
+      "job_id": "e26ffc28-2fdf-4810-9ef8-cb68ca297f14",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_023600_e26ffc28-2fdf-4810-9ef8-cb68ca297f14.mp3"
+    },
+    {
+      "index": 1104,
+      "job_id": "044c2be3-1338-40f2-8c2d-d845ae3e8dae",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_023600_044c2be3-1338-40f2-8c2d-d845ae3e8dae.mp3"
+    },
+    {
+      "index": 1105,
+      "job_id": "e243b541-ec58-4002-b266-02ee92a12487",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_023601_e243b541-ec58-4002-b266-02ee92a12487.mp3"
+    },
+    {
+      "index": 1200,
+      "job_id": "db151ea4-a81b-40d7-a594-0dc98f15df91",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_023727_db151ea4-a81b-40d7-a594-0dc98f15df91.mp3"
+    },
+    {
+      "index": 1201,
+      "job_id": "c85ce248-e455-4bf3-a38b-e9c2780b7bb5",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_023729_c85ce248-e455-4bf3-a38b-e9c2780b7bb5.mp3"
+    },
+    {
+      "index": 1202,
+      "job_id": "aef37111-7e13-42b4-89bf-08f32be4be55",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_023727_aef37111-7e13-42b4-89bf-08f32be4be55.mp3"
+    },
+    {
+      "index": 1203,
+      "job_id": "abe21590-c779-45f1-b3f1-c16ca855fe99",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_023727_abe21590-c779-45f1-b3f1-c16ca855fe99.mp3"
+    },
+    {
+      "index": 1204,
+      "job_id": "8e666c1d-99fb-4de8-9db6-37aa4867d420",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_023727_8e666c1d-99fb-4de8-9db6-37aa4867d420.mp3"
+    },
+    {
+      "index": 1205,
+      "job_id": "9294cc8d-39b3-4b4f-b832-bafb61ad2960",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_023727_9294cc8d-39b3-4b4f-b832-bafb61ad2960.mp3"
+    }
+  ]
+}

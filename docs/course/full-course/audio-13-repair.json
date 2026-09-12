@@ -1,0 +1,46 @@
+{
+  "voice": "Gideon",
+  "model": "seed_audio",
+  "requests": [
+    {
+      "index": 1301,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Elena hears another agency repeat a false claim that an insurer is insolvent. Insurance defamation includes a false or maliciously critical statement about an insurer's financial condition that is calculated to injure the insurance business. False financial statements are also prohibited. Altering an insurer's records to deceive an examiner is not ordinary sales enthusiasm. Compare the facts: describing a real, documented policy limitation is different from inventing financial trouble. Verify information before sharing it, and explain the product without attacking a competitor through false claims."
+      }
+    },
+    {
+      "index": 1305,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "A receptionist without a producer license can connect a customer with a licensed producer. That does not authorize the receptionist to recommend policy terms. Maryland's compensation statute permits certain payments to people who do not sell, solicit or negotiate, subject to its anti-inducement limits. Calling active sales work a referral does not make it lawful. The same care applies to documents. Do not ask a client to sign a blank application so answers can be invented later. Complete the facts accurately, obtain the required review and signatures, and use the insurer's approved correction process."
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 1301,
+      "job_id": "031fba2c-7209-4449-bce9-ed7eba8202c3",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_033119_031fba2c-7209-4449-bce9-ed7eba8202c3.mp3"
+    },
+    {
+      "index": 1305,
+      "job_id": "6e1df323-c777-4924-899c-b0cc8b2f6de1",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_033119_6e1df323-c777-4924-899c-b0cc8b2f6de1.mp3"
+    }
+  ]
+}

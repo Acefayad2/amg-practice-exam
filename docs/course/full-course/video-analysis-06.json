@@ -1,0 +1,255 @@
+{
+  "result": {
+    "id": "66001f3f-5ce4-4722-9e87-91866ff5bbea",
+    "video_input_id": "2f9dc58b-315e-4796-b9f3-c98f0a85feda",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/2f9dc58b-315e-4796-b9f3-c98f0a85feda.mp4",
+    "scenes": [
+      {
+        "audio": "Marcus signs an application and pays an initial premium. Has he automatically received every benefit he requested?",
+        "label": "Opening Hook",
+        "visual": "Static wide shot on a matte beige background. A white rectangular card slides in from the left, followed by a green arrow and a dark gray card. Flat, even lighting with no shadows.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:04",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "Not necessarily. A valid contract needs agreement, consideration, competent parties, and a legal purpose.",
+        "label": "Product Information",
+        "visual": "Continuation of the previous layout. A third card in light blue appears to the right of the dark gray card. The color palette is muted and professional.",
+        "shot_type": "Medium Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:08",
+        "timestamp_start": "0:04"
+      },
+      {
+        "audio": "The application commonly constitutes an offer and the insurer decides whether to accept under its rules.",
+        "label": "Product Information",
+        "visual": "Static frame showing three info cards connected by arrows. The graphic remains centered. Lighting is consistent and artificial.",
+        "shot_type": "Medium Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:13",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "If it offers different coverage or a higher premium, that may be a counteroffer requiring acceptance.",
+        "label": "Product Information",
+        "visual": "Graphics remain static on the beige background. The focus is on the textual flow between the three boxes.",
+        "shot_type": "Medium Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:19",
+        "timestamp_start": "0:13"
+      },
+      {
+        "audio": "The precise effective date also depends on the application, receipt, and policy conditions.",
+        "label": "Product Information",
+        "visual": "Static view of the insurance contract flow diagram. High contrast between text and card backgrounds.",
+        "shot_type": "Medium Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:24",
+        "timestamp_start": "0:19"
+      },
+      {
+        "audio": "A signature or payment alone is not a universal coverage rule.",
+        "label": "Product Information",
+        "visual": "Final static view of the 'from application to agreement' flow. The circular gold logo is visible in the bottom left corner.",
+        "shot_type": "Medium Shot",
+        "scene_number": 6,
+        "timestamp_end": "0:34",
+        "timestamp_start": "0:24"
+      },
+      {
+        "audio": "Consideration is the value exchanged for the contractual promise.",
+        "label": "Product Selling Points",
+        "visual": "Scene transition to a new layout. Three vertical cards (white, green, and cream) appear side-by-side. The header changes to a different topic.",
+        "shot_type": "Medium Shot",
+        "scene_number": 7,
+        "timestamp_end": "0:42",
+        "timestamp_start": "0:34"
+      },
+      {
+        "audio": "The applicant supplies the premium and application statements.",
+        "label": "Product Selling Points",
+        "visual": "Static layout of the three vertical cards. Earthy color tones are dominant. Lighting remains flat and digital.",
+        "shot_type": "Medium Shot",
+        "scene_number": 8,
+        "timestamp_end": "0:50",
+        "timestamp_start": "0:42"
+      },
+      {
+        "audio": "The insurer supplies its promise to pay according to the contract. Competent parties must have the legal capacity to contract.",
+        "label": "Product Selling Points",
+        "visual": "Vertical cards remain fixed in the frame. Subject focus is on the central and rightmost boxes.",
+        "shot_type": "Medium Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:00",
+        "timestamp_start": "0:50"
+      },
+      {
+        "audio": "A lawful purpose means the arrangement cannot be built around an illegal objective.",
+        "label": "Product Selling Points",
+        "visual": "The screen remains static with the three vertical boxes. The gold circular emblem sits at the bottom left.",
+        "shot_type": "Medium Shot",
+        "scene_number": 10,
+        "timestamp_end": "1:09",
+        "timestamp_start": "1:00"
+      },
+      {
+        "audio": "Life insurance on another person also raises insurable interest and consent requirements.",
+        "label": "Product Selling Points",
+        "visual": "Graphics remain static. The composition is clean with ample negative space around the boxes.",
+        "shot_type": "Medium Shot",
+        "scene_number": 11,
+        "timestamp_end": "1:18",
+        "timestamp_start": "1:09"
+      },
+      {
+        "audio": "Insurance is commonly described as a contract of adhesion because the insurer prepares the standard terms",
+        "label": "Product Selling Points",
+        "visual": "Layout shifts to two side-by-side cards: one white and one dark teal. Beige background continues.",
+        "shot_type": "Medium Shot",
+        "scene_number": 12,
+        "timestamp_end": "1:27",
+        "timestamp_start": "1:18"
+      },
+      {
+        "audio": "and the applicant generally accepts or rejects them. That does not mean a clear exclusion disappears.",
+        "label": "Product Selling Points",
+        "visual": "Static shot of the two-box layout. Text descriptions are visible within the cards.",
+        "shot_type": "Medium Shot",
+        "scene_number": 13,
+        "timestamp_end": "1:35",
+        "timestamp_start": "1:27"
+      },
+      {
+        "audio": "We will study interpretation separately. The contract is also aleatory. The value exchanged depends on an uncertain event and may be unequal.",
+        "label": "Product Selling Points",
+        "visual": "Static view of the 'Adhesion' and 'Aleatory' cards. Minimalist design with sharp corners on UI elements.",
+        "shot_type": "Medium Shot",
+        "scene_number": 14,
+        "timestamp_end": "1:47",
+        "timestamp_start": "1:35"
+      },
+      {
+        "audio": "Marcus could pay a relatively small amount before a covered death produces a large benefit. Another insured may pay premiums for many years.",
+        "label": "Product Selling Points",
+        "visual": "The graphic layout remains unchanged. Lighting is uniform across the beige field.",
+        "shot_type": "Medium Shot",
+        "scene_number": 15,
+        "timestamp_end": "2:00",
+        "timestamp_start": "1:47"
+      },
+      {
+        "audio": "A life policy is usually described as unilateral because the insurer makes the enforceable promise to pay covered benefits.",
+        "label": "Product Selling Points",
+        "visual": "New graphic layout: two boxes labeled with different legal characteristics. White and teal color scheme.",
+        "shot_type": "Medium Shot",
+        "scene_number": 16,
+        "timestamp_end": "2:14",
+        "timestamp_start": "2:00"
+      },
+      {
+        "audio": "The owner can generally stop paying future premiums, subject to policy consequences such as lapse or use of available values.",
+        "label": "Product Selling Points",
+        "visual": "Static shot of the 'Unilateral' and 'Conditional' boxes. Text details are brief and centered.",
+        "shot_type": "Medium Shot",
+        "scene_number": 17,
+        "timestamp_end": "2:24",
+        "timestamp_start": "2:14"
+      },
+      {
+        "audio": "This does not mean the policy has no conditions. Coverage may depend on required premiums, truthful application information, and other valid terms.",
+        "label": "Product Selling Points",
+        "visual": "Continuation of the static dual-box layout. Professional academic presentation style.",
+        "shot_type": "Medium Shot",
+        "scene_number": 18,
+        "timestamp_end": "2:34",
+        "timestamp_start": "2:24"
+      },
+      {
+        "audio": "Indemnity generally aims to compensate an actual covered financial loss without creating a profit from that loss.",
+        "label": "Product Selling Points",
+        "visual": "Three vertical boxes appear: white, light green, and light blue. The beige background is consistent.",
+        "shot_type": "Medium Shot",
+        "scene_number": 19,
+        "timestamp_end": "2:46",
+        "timestamp_start": "2:34"
+      },
+      {
+        "audio": "Life insurance ordinarily pays a stated contractual death benefit rather than measuring the person's economic worth after death.",
+        "label": "Product Selling Points",
+        "visual": "Static shot of the three vertical cards. Graphics are sharp with high contrast.",
+        "shot_type": "Medium Shot",
+        "scene_number": 20,
+        "timestamp_end": "2:58",
+        "timestamp_start": "2:46"
+      },
+      {
+        "audio": "The personal contract concept also needs care. Many insurance contracts closely connect coverage to a particular insured risk.",
+        "label": "Product Selling Points",
+        "visual": "Static layout remains on screen. Bottom logo is gold and black.",
+        "shot_type": "Medium Shot",
+        "scene_number": 21,
+        "timestamp_end": "3:07",
+        "timestamp_start": "2:58"
+      },
+      {
+        "audio": "But life policies generally permit assignment of ownership rights. Assignment does not change which person's life is insured.",
+        "label": "Product Selling Points",
+        "visual": "Graphics remain static. The boxes provide definitions for legal terms.",
+        "shot_type": "Medium Shot",
+        "scene_number": 22,
+        "timestamp_end": "3:16",
+        "timestamp_start": "3:07"
+      },
+      {
+        "audio": "Suppose an applicant requests one rate, but the insurer offers a higher rate based on underwriting.",
+        "label": "Call to Action",
+        "visual": "The screen clears and a numbered list of four items appears sequentially. Header reads 'Read the facts in order'.",
+        "shot_type": "Wide Shot",
+        "scene_number": 23,
+        "timestamp_end": "3:25",
+        "timestamp_start": "3:16"
+      },
+      {
+        "audio": "Identify the counteroffer and the applicant's response before assuming a contract on the original terms.",
+        "label": "Call to Action",
+        "visual": "Static list of four items on a beige background. Professional typography.",
+        "shot_type": "Wide Shot",
+        "scene_number": 24,
+        "timestamp_end": "3:33",
+        "timestamp_start": "3:25"
+      },
+      {
+        "audio": "Then check the consideration, legal capacity, and lawful purpose.",
+        "label": "Call to Action",
+        "visual": "The numbered list remains on screen. Uniform lighting across the digital canvas.",
+        "shot_type": "Wide Shot",
+        "scene_number": 25,
+        "timestamp_end": "3:44",
+        "timestamp_start": "3:33"
+      },
+      {
+        "audio": "Finally, apply the policy's conditions. The exam may ask only for a characteristic, such as aleatory or adhesion.",
+        "label": "Call to Action",
+        "visual": "Static shot of the final list. Muted earth tones on the UI elements.",
+        "shot_type": "Wide Shot",
+        "scene_number": 26,
+        "timestamp_end": "3:55",
+        "timestamp_start": "3:44"
+      },
+      {
+        "audio": "But a real file can involve several at once. Learn the reason each term fits so a changed scenario does not depend on memorized wording.",
+        "label": "Call to Action",
+        "visual": "Static list remains until the video ends. Minimalistic layout focuses on readability.",
+        "shot_type": "Wide Shot",
+        "scene_number": 27,
+        "timestamp_end": "4:06",
+        "timestamp_start": "3:55"
+      }
+    ]
+  }
+}

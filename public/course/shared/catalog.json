@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "planned": 60,
+  "lessons": [
+    {
+      "id": "03",
+      "number": 3,
+      "version": 1,
+      "title": "Handling risk and reinsurance",
+      "subtitle": "Choose what changes: the exposure, the loss, or who pays.",
+      "duration": 246.753,
+      "questions": 8,
+      "module": "Foundations",
+      "outline": [
+        "2.1"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "04",
+      "number": 4,
+      "version": 1,
+      "title": "Insurers and distribution",
+      "subtitle": "Ownership, location and authorization answer different questions.",
+      "duration": 271.919,
+      "questions": 8,
+      "module": "Foundations",
+      "outline": [
+        "2.2"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "05",
+      "number": 5,
+      "version": 1,
+      "title": "Agency and producer authority",
+      "subtitle": "A professional title does not grant unlimited power.",
+      "duration": 218.75,
+      "questions": 8,
+      "module": "Foundations",
+      "outline": [
+        "2.3"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "06",
+      "number": 6,
+      "version": 1,
+      "title": "Building the insurance contract",
+      "subtitle": "Four elements, then the characteristics of the promise.",
+      "duration": 245.545,
+      "questions": 8,
+      "module": "Foundations",
+      "outline": [
+        "2.4"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "07",
+      "number": 7,
+      "version": 1,
+      "title": "Truth, interpretation and enforceability",
+      "subtitle": "Read the promise carefully and distinguish a mistake from a material issue.",
+      "duration": 257.544,
+      "questions": 8,
+      "module": "Foundations",
+      "outline": [
+        "2.4"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "08",
+      "number": 8,
+      "version": 1,
+      "title": "Federal rules and industry organizations",
+      "subtitle": "Know which rule applies and which organization does the work.",
+      "duration": 246.917,
+      "questions": 8,
+      "module": "Foundations",
+      "outline": [
+        "2.5",
+        "2.6"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "09",
+      "number": 9,
+      "version": 1,
+      "title": "Maryland licensing: who may do what?",
+      "subtitle": "Separate a person’s authority, an agency’s license and special exceptions.",
+      "duration": 279.419,
+      "questions": 8,
+      "module": "Maryland practice",
+      "outline": [
+        "1.1"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "10",
+      "number": 10,
+      "version": 1,
+      "title": "Keep the license active",
+      "subtitle": "Use the right clock for renewal, education and reporting.",
+      "duration": 250.752,
+      "questions": 8,
+      "module": "Maryland practice",
+      "outline": [
+        "1.1"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "11",
+      "number": 11,
+      "version": 1,
+      "title": "Appointments, oversight and discipline",
+      "subtitle": "Separate state licensing from insurer authority and understand the regulator’s role.",
+      "duration": 257.004,
+      "questions": 10,
+      "module": "Maryland practice",
+      "outline": [
+        "1.1",
+        "1.2"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "12",
+      "number": 12,
+      "version": 1,
+      "title": "Handle money, records and compensation",
+      "subtitle": "Know whose money it is, what may be charged and what must be kept.",
+      "duration": 248.292,
+      "questions": 8,
+      "module": "Maryland practice",
+      "outline": [
+        "1.2"
+      ],
+      "status": "ready"
+    }
+  ]
+}

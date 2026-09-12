@@ -1,0 +1,36 @@
+{
+  "number": 10,
+  "duration": "250.752000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/5ca75690-8832-4d49-839b-f7c812de7f4a.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/31c14e49-8361-4e32-9e1c-38c49bdca23d.png",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/3b175943-a774-4bee-aba3-51b3da176e09.zip",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/3ccf5b91-ca36-456d-9dbd-a014fdd20f55.jpg",
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "250.752000",
+      "size": "10923763"
+    }
+  },
+  "review": {
+    "layouts": "Six settled layouts visually inspected.",
+    "decode": "Complete FFmpeg decode passed.",
+    "speech": "All sections transcribed and compared; ambiguous segments checked with second ASR and confirmed issues repaired.",
+    "analysis": "Completed scene analysis reviewed alongside script and rendered layouts. See video-analysis-10.json.",
+    "player": "Chromium end-to-end check passed: native video end, every required question, wrong-answer retry, persisted first attempt, resume and mobile captions/dialog."
+  },
+  "status": "ready",
+  "coordinatorApproval": null
+}

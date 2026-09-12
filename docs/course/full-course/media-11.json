@@ -1,0 +1,36 @@
+{
+  "number": 11,
+  "duration": "257.004000",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/73e071a7-3a1e-4080-94c3-0ca30e792968.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/7f3e2fed-234e-4441-b315-505e744e0716.png",
+  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/c41bf711-5434-4bf8-b86c-60122bacf066.zip",
+  "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/5ed2bc11-6249-458b-89ed-44eecd161e68.jpg",
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "257.004000",
+      "size": "12005935"
+    }
+  },
+  "review": {
+    "layouts": "All six settled layouts visually inspected.",
+    "speech": "All sections compared; garbled second section regenerated and replacement transcription verified.",
+    "decode": "Complete FFmpeg decode passed.",
+    "analysis": "Completed scene analysis reviewed alongside script and rendered layouts. See video-analysis-11.json.",
+    "player": "Chromium end-to-end check passed: native video end, every required question, wrong-answer retry, persisted first attempt, resume and mobile captions/dialog."
+  },
+  "status": "ready",
+  "coordinatorApproval": null
+}

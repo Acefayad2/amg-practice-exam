@@ -1,0 +1,66 @@
+{
+  "params": [
+    {
+      "index": 903,
+      "prompt": "Maryland separately defines insurance advisers, including compensated policy analysis and certain public representations of advisory services. Statutory exceptions matter: a licensed producer acting as a producer for a client is among the exceptions to the adviser subtitle. Do not assume every ordinary product explanation requires a second license. Equally, do not assume a marketing title creates authority. Now consider viatical settlements, in which an existing life policy is sold. Settlement providers and brokers have separate registration rules. A provider registers before acting; a broker must register no later than thirty days after negotiating a settlement for a viator."
+    },
+    {
+      "index": 905,
+      "prompt": "In this scenario, an agency owner dies and an eligible relative needs to help preserve the business. Maryland may issue a temporary producer license without the usual examination to specified otherwise-qualified relatives, representatives or employees connected to a deceased or disabled producer. It is not automatic inheritance of a license. The person applies, pays the fee and obtains the temporary license and any required appointment before acting. The Commissioner must issue or refuse it in writing within thirty days of receiving the application. This Maryland temporary license expires fifteen months after its effective date."
+    }
+  ],
+  "costs": [
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 903,
+        "result": {
+          "cost": {
+            "credits": 4.6,
+            "credits_exact": 4.6
+          }
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "index": 905,
+        "result": {
+          "cost": {
+            "credits": 4.3,
+            "credits_exact": 4.3
+          }
+        }
+      }
+    }
+  ],
+  "jobs": {
+    "jobs": [
+      {
+        "index": 903,
+        "job_id": "bb39722d-b967-4f79-be90-eb2222253cd1",
+        "status": "completed",
+        "type": "audio",
+        "model": "seed_audio",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_023410_bb39722d-b967-4f79-be90-eb2222253cd1.mp3"
+      },
+      {
+        "index": 905,
+        "job_id": "8dee23e3-9ef9-4fb8-afd8-b56bae694513",
+        "status": "completed",
+        "type": "audio",
+        "model": "seed_audio",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_023410_8dee23e3-9ef9-4fb8-afd8-b56bae694513.mp3"
+      }
+    ],
+    "summary": {
+      "total": 2,
+      "completed": 2,
+      "failed": 0,
+      "active": 0,
+      "errors": 0
+    },
+    "all_terminal": true
+  }
+}

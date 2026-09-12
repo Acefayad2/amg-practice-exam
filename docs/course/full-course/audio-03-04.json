@@ -1,0 +1,326 @@
+{
+  "created": "2026-09-12",
+  "params": [
+    {
+      "index": 300,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Marcus now understands pooling. His next question is practical: does buying life insurance remove the risk of death? No. It transfers specified financial consequences under a contract. To classify a risk-management action, ask what changes. Does the person avoid an exposure, keep the financial responsibility, share it, reduce the chance or size of loss, or transfer specified costs? One family can use several methods together. The name of the action matters less than what that action actually accomplishes."
+      }
+    },
+    {
+      "index": 301,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Consider three decisions. Marcus chooses not to take part in recreational rock climbing. He avoids that particular exposure, although he has not avoided every risk in life. He installs a handrail on a slippery stairway. That reduces the likelihood of a fall; it does not guarantee safety. He also decides to pay for small, affordable losses from his own savings. That is retention. Retention may be intentional or result from simply having no insurance. Savings finance a loss; they do not prevent it."
+      }
+    },
+    {
+      "index": 302,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Sharing spreads a financial burden among participants. Pooling illustrates that idea across a group. Transfer moves a specified financial obligation to another party, often through insurance. Marcus buys a policy that pays a stated benefit for a covered death. His family still experiences the loss of a person, while the insurer has the contractual payment obligation. Insurance does not transfer every possible consequence, and exclusions or limits still matter. Sharing and transfer can both appear in the same insurance arrangement at different levels."
+      }
+    },
+    {
+      "index": 303,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Insurance works best with many similar exposure units and losses that are accidental from the insured's perspective, definite enough to identify, and measurable in financial terms. The probability and cost must be reasonably estimable, and the premium economically feasible. Large, correlated catastrophes can strain a pool, so insurers manage concentration. These are useful characteristics, not a promise that every risk meeting a checklist will be accepted. Pure risk offers loss or no loss. Speculative risk also offers possible gain, such as buying stock hoping its price rises."
+      }
+    },
+    {
+      "index": 304,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Now follow a different contract. An insurer accepts Marcus's policy, then arranges for a reinsurer to take part of its insurance risk. This is reinsurance. The original insurer is the ceding insurer; the other company is the reinsurer. Unless a separate legal arrangement changes the policy obligation, Marcus's insurer still owes the policy benefit. He does not normally file part of his claim with the reinsurer. Reinsurance can help manage large individual exposures, accumulated losses, and the insurer's capacity to write business."
+      }
+    },
+    {
+      "index": 305,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Imagine a family maintains safe stairs, holds an emergency fund, and purchases life insurance. The stairs reduce a hazard. The fund supports retained costs. The policy transfers covered financial risk. If the insurer buys reinsurance, that creates another transfer between insurers. On a question, locate the parties and the event first. Then identify the action's effect. Do not call every sensible precaution avoidance, and do not assume every transfer erases the underlying danger. Answer the lesson questions using those distinctions."
+      }
+    },
+    {
+      "index": 400,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Elena reviews a life insurer formed in Pennsylvania and authorized to operate in Maryland. Its shareholders own the company. Is it stock, foreign, or admitted? It can be all three. Stock describes ownership. Foreign describes where the company was formed relative to Maryland. Admitted describes authorization in Maryland. Exam questions often put these separate dimensions together. Begin by asking which dimension the question actually tests. A company's location, ownership and permission to transact business are not interchangeable labels."
+      }
+    },
+    {
+      "index": 401,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "A stock insurer is owned by shareholders. A mutual insurer is owned by its policyholders, with rights determined by its structure and law. Assessment arrangements may permit additional assessments of members under their terms; do not treat every mutual policy as assessable. Fraternal benefit societies are membership organizations organized around a common bond and operate under special laws. They can provide insurance benefits to members. Private insurers differ from government programs, whose eligibility and benefits come from their governing laws and program rules."
+      }
+    },
+    {
+      "index": 402,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Domicile refers to the jurisdiction of formation. For a Maryland question, an insurer formed in Maryland is domestic. One formed in another U.S. state is foreign. One formed outside the United States is alien. These terms say nothing by themselves about whether the company is licensed in Maryland. A foreign or alien insurer can be admitted. An office in Baltimore does not turn a Pennsylvania corporation into a Maryland domestic insurer. The formation jurisdiction, rather than the producer's office, controls this classification."
+      }
+    },
+    {
+      "index": 403,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "An admitted insurer holds authority to transact the authorized insurance business in the state. Nonadmitted means it lacks that authority. This is not a shortcut for placing ordinary life insurance with any unlicensed company. Verify the insurer and the producer's authority for the transaction. Financial-strength ratings are opinions from rating organizations, not government promises that every benefit will be paid. Ratings, capital, earnings and operating results can change. Guaranty protection is a separate statutory system with eligibility rules, exclusions and limits."
+      }
+    },
+    {
+      "index": 404,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Insurers distribute coverage through several systems. Captive or exclusive producers generally represent one insurer or an affiliated group. Independent producers can represent multiple insurers, subject to their contracts and appointments. Direct-response distribution can use the internet, mail or telephone without the same producer relationship. The label independent does not mean authority to bind every insurer. A purchasing group is a group formed to buy insurance; it is not automatically an insurer. Federal risk purchasing groups chiefly concern liability insurance, so do not use that label as an ordinary life-placement exception."
+      }
+    },
+    {
+      "index": 405,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "format": "mp3",
+        "speech_rate": 0,
+        "prompt": "Return to Elena's Pennsylvania company. It is foreign relative to Maryland, stock because shareholders own it, and admitted because Maryland has authorized it. If a rating organization gives it a strong rating, that adds an opinion about financial strength, not another type of license. If a producer represents the company, check that producer's authority separately. Keep five questions distinct: who owns the insurer, where was it formed, where may it operate, how does it distribute coverage, and what do current financial measures show?"
+      }
+    }
+  ],
+  "estimates": [
+    {
+      "index": 300,
+      "cost": {
+        "credits": 3.4,
+        "credits_exact": 3.4
+      }
+    },
+    {
+      "index": 301,
+      "cost": {
+        "credits": 3.4,
+        "credits_exact": 3.4
+      }
+    },
+    {
+      "index": 302,
+      "cost": {
+        "credits": 3.8,
+        "credits_exact": 3.8
+      }
+    },
+    {
+      "index": 303,
+      "cost": {
+        "credits": 3.9,
+        "credits_exact": 3.9
+      }
+    },
+    {
+      "index": 304,
+      "cost": {
+        "credits": 3.6,
+        "credits_exact": 3.6
+      }
+    },
+    {
+      "index": 305,
+      "cost": {
+        "credits": 3.6,
+        "credits_exact": 3.6
+      }
+    },
+    {
+      "index": 400,
+      "cost": {
+        "credits": 3.7,
+        "credits_exact": 3.7
+      }
+    },
+    {
+      "index": 401,
+      "cost": {
+        "credits": 3.9,
+        "credits_exact": 3.9
+      }
+    },
+    {
+      "index": 402,
+      "cost": {
+        "credits": 3.6,
+        "credits_exact": 3.6
+      }
+    },
+    {
+      "index": 403,
+      "cost": {
+        "credits": 3.9,
+        "credits_exact": 3.9
+      }
+    },
+    {
+      "index": 404,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 405,
+      "cost": {
+        "credits": 3.7,
+        "credits_exact": 3.7
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 300,
+      "job_id": "e760ba63-a743-4616-be5a-4c9cfabf69ab",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_013917_e760ba63-a743-4616-be5a-4c9cfabf69ab.mp3"
+    },
+    {
+      "index": 301,
+      "job_id": "c857fac1-2968-42f0-84cc-c7fd9b6bb17e",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_013917_c857fac1-2968-42f0-84cc-c7fd9b6bb17e.mp3"
+    },
+    {
+      "index": 302,
+      "job_id": "697e1b4e-5fac-414e-9423-9b143de66fc1",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_013917_697e1b4e-5fac-414e-9423-9b143de66fc1.mp3"
+    },
+    {
+      "index": 303,
+      "job_id": "b733b10d-98bc-45d6-a08f-a9c9cd0dd9c4",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_013917_b733b10d-98bc-45d6-a08f-a9c9cd0dd9c4.mp3"
+    },
+    {
+      "index": 304,
+      "job_id": "f9e8d8a4-a21e-4603-81d8-50f68946b563",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_013917_f9e8d8a4-a21e-4603-81d8-50f68946b563.mp3"
+    },
+    {
+      "index": 305,
+      "job_id": "4c1a98f6-4c9f-4727-a9ad-7096f4601b37",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_013918_4c1a98f6-4c9f-4727-a9ad-7096f4601b37.mp3"
+    },
+    {
+      "index": 400,
+      "job_id": "23df0368-5640-40e3-b27d-034b87cb2401",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_013920_23df0368-5640-40e3-b27d-034b87cb2401.mp3"
+    },
+    {
+      "index": 401,
+      "job_id": "0126bff7-9290-4329-a266-7f9cfc009e17",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_013920_0126bff7-9290-4329-a266-7f9cfc009e17.mp3"
+    },
+    {
+      "index": 402,
+      "job_id": "075fd924-ed42-4d21-921b-d6e1536386ff",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_013920_075fd924-ed42-4d21-921b-d6e1536386ff.mp3"
+    },
+    {
+      "index": 403,
+      "job_id": "73e5349d-bb70-4632-a1f7-abdfc09f278b",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_013919_73e5349d-bb70-4632-a1f7-abdfc09f278b.mp3"
+    },
+    {
+      "index": 404,
+      "job_id": "15372e78-5f03-44a0-9c76-8d90fc01b1e0",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_014205_15372e78-5f03-44a0-9c76-8d90fc01b1e0.mp3"
+    },
+    {
+      "index": 405,
+      "job_id": "6dfe036c-c92a-4b4f-bed6-47a8eea5e31f",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_013919_6dfe036c-c92a-4b4f-bed6-47a8eea5e31f.mp3"
+    }
+  ],
+  "submissionFailure": {
+    "index": 404,
+    "reason": "429 rate_limit_reached; no job ID returned",
+    "retryJob": "15372e78-5f03-44a0-9c76-8d90fc01b1e0"
+  }
+}
