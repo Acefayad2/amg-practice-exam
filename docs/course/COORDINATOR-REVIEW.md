@@ -23,7 +23,7 @@ Four subsections have partial substantive teaching (2.1, 3.6, 4.1, 4.2); three h
 
 Twelve subsections have no primary question-bank match: **2.1, 2.2, 2.6, 3.2, 3.3, 3.4, 3.6, 3.7, 4.6, 5.9, 6.5 and 8.3**. Some are touched by items primarily mapped elsewhere, such as the temporary/permanent distinction in product questions. A primary mapping is an inventory measure, not proof of complete assessment coverage.
 
-The 16 newer formative questions in Parts 1–2 sit outside the original 90-question bank. The prototype has three additional comparison questions. These currently use three choices; future exam-format practice uses four. They help cover foundations, but they are not independent mock-exam items.
+The 16 newer formative questions in Parts 1–2 sit outside the original 90-question bank. The prototype has three additional comparison questions. Part 1 now uses four choices and required end-of-video questions; Part 2 and the earlier prototype still use three choices. They help cover foundations, but they are not independent mock-exam items.
 
 ## Exam and assessment blueprint
 
@@ -87,7 +87,7 @@ The old 32 lesson numbers remain source-planning references. They are not a prom
 
 For each part: draft the objective, teaching and questions first; check sources and answer keys; make the web lesson; create or reuse the brief scene; inspect the entire video with sound; then publish that part for review. Keep generated dialogue short enough for reliable delivery. Inspect every visible speaker through their last syllable; use intentional reaction shots or diagrams when off-screen narration fits. Automated decoding alone is not lip-sync QA.
 
-Continue natural Black and Hispanic/Latino representation alongside other backgrounds. Rotate clients, producers, business owners and retirees without linking ethnicity to risk, dishonesty or financial ability. Use the AMG mark in the lower-left safe area, contextual titles, readable captions and consistent audio. Part 2 now uses the gold circular AMG monogram from the existing AMG website assets, replacing the temporary text treatment.
+Continue natural Black and Hispanic/Latino representation alongside other backgrounds. Rotate clients, producers, business owners and retirees without linking ethnicity to risk, dishonesty or financial ability. Use the AMG mark in the lower-left safe area, contextual titles, readable captions and consistent audio. Parts 1 and 2 now use the gold circular AMG monogram from the existing AMG website assets, replacing the temporary text treatment.
 
 ## Review gates before calling the course complete
 

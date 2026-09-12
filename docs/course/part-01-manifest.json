@@ -1,0 +1,144 @@
+{
+  "lesson": "01",
+  "status": "user and licensing coordinator review",
+  "revision": 2,
+  "duration_seconds": 256.044,
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/b47427e2-2684-422d-9031-31275ebcbcf8.mp4",
+  "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/98107a2c-cc2e-486a-ab19-376c2def2adf.png",
+  "editable_archive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/eb85c1c6-dcea-4195-ae8a-a14a4b50395a.zip",
+  "cast": {
+    "client": "Marcus",
+    "description": "Fictional Black male client, medium-brown complexion, age 38, neat beard and navy button-down; working father and operations supervisor",
+    "agent": "Aisha, Black woman in a cream blazer",
+    "reference": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260911_235337_da432653-165e-477b-8a29-68446fe4b6c2.png"
+  },
+  "narrator": {
+    "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+    "voice_type": "preset",
+    "name": "Gideon"
+  },
+  "opening_job": "9c667225-802a-4bde-a8dd-9cc6b41c0253",
+  "narration_jobs": [
+    {
+      "index": 0,
+      "job_id": "73c2d261-3cc6-4a2f-9a5b-efedc5bec62f",
+      "status": "completed"
+    },
+    {
+      "index": 1,
+      "job_id": "b9e27d8a-a189-4b2c-ac39-216530cdfcc2",
+      "status": "completed"
+    },
+    {
+      "index": 2,
+      "job_id": "8a77c72a-ccc5-4e31-9bcb-98fbde8bba85",
+      "status": "completed"
+    },
+    {
+      "index": 3,
+      "job_id": "08607342-0c8f-4d98-87b7-f7252876fc8c",
+      "status": "completed"
+    },
+    {
+      "index": 4,
+      "job_id": "b27985be-c077-4d86-a5f4-3718c7c99bc1",
+      "status": "completed"
+    },
+    {
+      "index": 5,
+      "job_id": "2ababa04-9cee-4dfa-9930-5ebe979a8f7e",
+      "status": "completed"
+    }
+  ],
+  "credits": {
+    "before": 8925,
+    "after": 8872,
+    "total": 53,
+    "audio_estimate": 22.5,
+    "opening_estimate": 30,
+    "image_estimate_exact": 0.5,
+    "additional_video_generations_for_editing": 0
+  },
+  "editing": {
+    "opening": "Original 2.0–10.4 seconds retimed at 0.75x with picture and audio together, then a short final-frame hold to 12 seconds. Removes unwanted leading sound. Audio normalized to -18 LUFS target.",
+    "graphics": "Higgsedit native diagrams; 1920×1080, 24fps; no generated question slides.",
+    "captions": "69 timed English cues aligned to narration and opening dialogue."
+  },
+  "validation": {
+    "opening_transcript": "I work hard to take care of my family. If I wasn't here, how would they manage without my income?",
+    "opening_script_match": 1,
+    "opening_last_word_end": 8.32,
+    "narration": [
+      {
+        "index": 0,
+        "start": 12,
+        "duration": 45.84,
+        "match_ratio": 1,
+        "heard": "Marcus works hard to support his family. His question gives us a practical way to learn the language of life insurance. By the end of this lesson, you should be able to separate risk, exposure, peril, hazard, and loss. And recognize the three common types of hazard. Start with risk. In insurance, risk means uncertainty about loss. Everyone eventually dies. But the timing is uncertain. Marcus does not know whether he will die while his children still depend on his income. That uncertainty is the risk. Insurance can help address the financial consequences. It does not prevent death."
+      },
+      {
+        "index": 1,
+        "start": 58.290000000000006,
+        "duration": 42.144,
+        "match_ratio": 1,
+        "heard": "Exposure means being subject to a possible loss. Marcus's household depends on the support he provides. That dependence creates financial exposure. Think of exposure as what is vulnerable before anything happens. A household's expenses and responsibilities help an agent understand how much support could be needed. A peril is the cause of a loss. In this life insurance example, the peril is Marcus's death. The loss is the resulting harm, including the family's loss of his ongoing financial support. Keep the event separate from its consequences. Death is the event. Lost financial support is a consequence."
+      },
+      {
+        "index": 2,
+        "start": 100.88400000000001,
+        "duration": 43.848,
+        "match_ratio": 0.972,
+        "heard": "A life insurance death benefit is a payment determined by the policy contract. It is not automatically equal to every dollar a family might lose. For example, a covered policy with a $500 ,000 death benefit does not promise unlimited payments for every future household expense. The contract controls the benefit. Now add hazard. A hazard is a condition that increases the likelihood or severity of loss. Imagine defective safety equipment at a workplace. The equipment is a hazard before any accident occurs. It is a condition that increases danger, not the loss itself. This is a physical hazard because it is a tangible condition."
+      },
+      {
+        "index": 3,
+        "start": 145.18200000000002,
+        "duration": 41.328,
+        "match_ratio": 1,
+        "heard": "Moral hazard involves dishonesty. An example is intentionally falsifying documents to obtain an insurance payment. The important clue is deliberate deception. An accidental paperwork mistake is different from deliberate deception. Morale hazard is different. Imagine someone ignoring safety precautions because they believe insurance will take care of any loss. That is carelessness or indifference associated with having insurance. Remember the contrast. Moral hazard points to dishonesty. Morale hazard points to a careless attitude. Read the behavior described in the question carefully."
+      },
+      {
+        "index": 4,
+        "start": 186.96000000000004,
+        "duration": 35.76,
+        "match_ratio": 1,
+        "heard": "One more distinction is pure risk versus speculative risk. Pure risk involves a possibility of loss or no loss, with no opportunity for gain from the event. The possible loss of a parent's financial support is a pure risk. Speculative risk includes a chance of gain as well as loss. Buying a stock that could rise or fall is an example. Insurance generally deals with pure risks, but being a pure risk does not mean an exposure is automatically insurable."
+      },
+      {
+        "index": 5,
+        "start": 223.17000000000004,
+        "duration": 31.656,
+        "match_ratio": 1,
+        "heard": "Return to Marcus. Uncertainty is risk. His family's vulnerability is exposure. Death is the peril. Lost financial support is the loss. A condition that increases danger is a hazard. When you face a practice question, identify exactly which part of that situation it describes. Next, answer the lesson questions. If you miss one, read the explanation and try it again. Use the explanations to understand the reason behind every answer."
+      }
+    ]
+  },
+  "technical": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "256.044000",
+      "size": "19452750"
+    }
+  },
+  "completion": {
+    "questions": 8,
+    "options_per_question": 4,
+    "unlock": "Native video ended event",
+    "required": "All eight answers correct after review and retries; then explicit Finish Part 1",
+    "first_answers": "Preserved separately",
+    "storage": "Versioned localStorage in this browser; no account or cross-device synchronization",
+    "scope": "Part 1 only; Part 2 rebuild waits for user review"
+  }
+}

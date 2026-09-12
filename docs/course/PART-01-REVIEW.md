@@ -1,56 +1,52 @@
 # Part 1 — Risk, Perils and Hazards
 
-Status: built for user and licensing-coordinator review. Do not begin the next lesson until the user provides feedback or authorizes continuation. Scope is Maryland life insurance only.
+Rebuilt September 12, 2026 for user and licensing-coordinator review. Review Part 1 before rebuilding Part 2.
 
 ## Review link
 
 https://amg-exam-portal.netlify.app/course/lesson-01/
 
-## What this part contains
+## Revised lesson
 
-- One 15-second 1920×1080 client scenario with English dialogue, captions and a transcript.
-- A fictional Latino client, Daniel, and a fictional Black woman insurance professional, Aisha. Inclusive casting is a continuing production requirement; ethical or financial assumptions are not assigned by ethnicity.
-- A vocabulary explorer for risk, exposure, peril, hazard and loss.
-- Physical, moral and morale hazard distinctions, plus pure and speculative risk.
-- Eight original questions, with an explanation for every option. Answers lock after checking during each attempt.
-- Progress and completion saved in this browser using a versioned storage key. No account or cross-device progress synchronization is claimed. A fresh-attempt button resets only this lesson's practice state.
-- A recap, sources, review instructions and a clear distinction between practice completion and licensing approval.
+- 4 minutes 16 seconds of video: a client scene, Gideon narration and animated diagrams.
+- Marcus is a fictional Black working father with a medium-brown complexion, neat beard and navy shirt. Aisha remains the Black female agent in cream. His professionalism is conveyed through behavior and styling.
+- The gold circular AMG logo stays at bottom-left. English captions and a complete transcript accompany the video.
+- The eight original formative questions now each have four options and per-option explanations. They open in a dialog after the video ends.
+- Every question must be answered correctly after review/retries before the learner can select Finish Part 1. First answers and attempt counts are preserved separately.
+- Closing the dialog, refreshing, or answering incorrectly does not complete the part. Learners can reopen the questions. A new practice attempt clears the answers and completion, retaining the finished-video state.
+- Progress is saved in this browser only. Version 2 does not inherit completion from the former 15-second lesson. This is a learning workflow, not an identity-verified or tamper-proof certification system.
 
-The estimated 8–10 minutes includes reading and practice. It is not 8–10 minutes of generated video and is not a credit-hour certification.
+## Teaching and assessment
 
-## Learning objectives and assessment map
-
-| Objective | Teaching | Checks |
+| Objective | Video explanation | Check |
 |---|---|---|
-| Identify the cause of loss in a life scenario | Peril panel; Daniel scenario | Q1 |
-| Identify a dangerous physical condition | Hazard panel; physical-hazard example | Q2 |
-| Distinguish intentional deception from insurance-related carelessness | Moral/morale comparison | Q3–4 |
-| Identify financial exposure | Exposure panel | Q5 |
-| Separate uncertainty from an event already realized | Risk and loss panels | Q6 |
-| Distinguish pure and speculative risks | Two-column comparison | Q7 |
-| Separate financial loss from contractual benefit | Loss panel; agent explanation | Q8 |
+| Identify the peril | Death as the event causing financial loss | Q1 |
+| Identify physical hazard | Defective safety equipment | Q2 |
+| Distinguish moral and morale hazards | Intentional deception versus insurance-related carelessness | Q3–4 |
+| Identify exposure | Household vulnerability before a loss | Q5 |
+| Recognize risk | Uncertain timing and financial effects | Q6 |
+| Identify speculative risk | Chance of investment gain or loss | Q7 |
+| Separate loss and contractual benefit | Financial harm versus the policy's payment | Q8 |
 
-## Sources and limits
+The general-insurance section is not completed by this lesson. Sources and further coverage remain visible on the course review page.
 
-1. Prometric Maryland Life Producer Series 20-27 outline, section 2.1: https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf
-2. NAIC, A Regulator's Introduction to the Insurance Industry: printed pp. 6–7, 11–12 and glossary for pure/speculative risk and moral/morale terminology: https://content.naic.org/sites/default/files/inline-files/prod_serv_marketreg_rii_zb.pdf
-3. HMRC GIM1100, stable risk/peril/hazard terminology only: https://www.gov.uk/hmrc-internal-manuals/general-insurance-manual/gim1100
-4. California Department of Insurance glossary, peril and life-insurance definitions only: https://www.insurance.ca.gov/01-consumers/105-type/95-guides/20-Glossary/
-5. NAIC life-insurance overview: https://content.naic.org/consumer/life-insurance.htm
+## Media and credits
 
-Sources 2–4 supply general terminology, not current Maryland legal requirements. The original GitHub life question bank does not sufficiently cover this vocabulary, so this part supplements it using the outline. The entire general-insurance section is not completed by this lesson. Risk-handling methods, insurability, pooling, adverse selection and insurers remain for later parts.
+Current media, voice selection, source jobs, editing details and validation are in part-01-manifest.json. The editable script is part-01-edit.jsx; the full narration is in part-01-script.md.
 
-## Generation ledger
+Confirmed spend for this rebuild: **53 credits**, balance 8,925 → 8,872. One new client reference image, one 12-second client video and six narration sections. Diagrams, logo, captions and question UI were edited without further video generations.
 
-- Model: Kling 3.0, pro, sound on, 16:9, 15 seconds.
-- Job: 2d57cb04-bf14-46dd-870f-0ea5a9418ec1.
-- Confirmed spend: 37.5 credits. Balance changed from 9,000 to 8,962.5. One submission; no retakes.
-- Video: https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260911_203228_2d57cb04-bf14-46dd-870f-0ea5a9418ec1.mp4
-- Dialogue: “My family relies on my income. If I died while my children were still growing up, how would they keep paying for the things they need?”
-- Dialogue matched by transcription; caption times derived from word timestamps.
-- Video duration: 15.042 seconds. Full-file decode passed.
-- Questions, title text, definitions and comparisons are website elements and consume no Higgsfield generation credits.
+The raw client clip contained an unwanted leading sound. Its 2.0–10.4-second section was retimed to 0.75× with audio and picture together, followed by a short final-frame hold. The cleaned dialogue matches the script in transcription. The final video decodes completely at 1920×1080 and 24fps.
 
-## Coordinator review
+The earlier 15-second client scene cost 37.5 credits and remains in GitHub history; it is not the currently published Part 1.
 
-Please review the content and answer keys, distinction between moral and morale hazards, level of explanation for first-time students, scenario tone, and practice difficulty. Confirm whether the company intends supplemental exam preparation or approved prelicensing education; this lesson claims only exam preparation. Approval remains pending.
+## Sources and review
+
+- Prometric Maryland Life Producer outline, section 2.1: https://www.prometric.com/files/mia/2027_life_producer_9.21.21.pdf
+- NAIC general insurance terminology: https://content.naic.org/sites/default/files/inline-files/prod_serv_marketreg_rii_zb.pdf
+- Society of Actuaries, Risk and Insurance: https://www.soa.org/globalassets/assets/files/edu/P-21-05.pdf
+- IRMI, morale hazard: https://www.irmi.com/term/insurance-definitions/morale-hazard
+- IRMI, pure risk: https://www.irmi.com/term/insurance-definitions/pure-risk
+- NAIC life insurance overview: https://content.naic.org/insurance-topics/life-insurance
+
+These support general concepts. Examples and questions are original. The coordinator should review content, pacing, casting and difficulty before this format is applied to Part 2. No exam-pass guarantee or approved prelicensing credit is claimed.
