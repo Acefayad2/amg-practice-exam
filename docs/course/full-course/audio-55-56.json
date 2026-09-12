@@ -5,7 +5,7 @@
   ],
   "voice": "Gideon",
   "model": "seed_audio",
-  "reviewState": "Narration generation and media review in progress",
+  "reviewState": "Final narration and media accepted; see the ready media manifest for release evidence. Initial job states below are generation-history snapshots.",
   "jobs": [
     {
       "index": 550,

@@ -28,7 +28,7 @@
     "layouts": "All eight scenario and teaching layouts visually inspected; labels, calculations, logo and spacing passed.",
     "decode": "Complete FFmpeg decode passed.",
     "speech": "All six final narration sections transcribed and read against the script. Ambiguous recognitions checked with small.en; spoken content passed.",
-    "analysis": "Optional whole-video analysis queued; independent frame, speech and file checks passed.",
+    "analysis": "Optional whole-video analysis service failed without a usable result. Independent review of all narration sections and layouts, complete-file decode, and browser player checks passed.",
     "player": "Chromium: all 14 media, native ended-event, required-question, feedback, retry, first-answer history, resume, saved completion, caption and mobile-dialog checks passed without errors."
   },
   "status": "ready",

@@ -1,0 +1,327 @@
+{
+  "result": {
+    "id": "9e6cc9dc-a71a-4b70-969c-8b73dcdd8f88",
+    "video_input_id": "10fb57eb-99e9-4dab-bf7f-d75f2ad3c9f0",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/10fb57eb-99e9-4dab-bf7f-d75f2ad3c9f0.mp4",
+    "scenes": [
+      {
+        "audio": "Rosa considers moving value from a personally owned non-qualified annuity into a different annuity.",
+        "label": "Opening Hook",
+        "visual": "Static shot of a couple sitting at a light-colored wooden table in a well-lit living room. On the left, Rosa, a woman in her late 50s with a light brown complexion and shoulder-length wavy grey hair, wearing a cream-colored long-sleeve blouse, holds a white paper and points to it. On the right, David, a man in his 60s with a dark brown complexion, short-cropped grey hair, and a short grey beard, wearing a brown textured knit long-sleeve shirt, looks at the paper with his chin resting on his hand. A green ceramic mug sits on the table in the foreground. Soft natural light illuminates the scene from behind.",
+        "shot_type": "Medium Close-Up",
+        "scene_number": 1,
+        "timestamp_end": "0:08",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "Section 1035 can allow a qualifying exchange without recognizing the existing gain at the time of the exchange.",
+        "label": "Product Information",
+        "visual": "A graphic slide on a cream-colored background with a dark green sidebar on the left. A single white rectangular card with text appears in the center, labeled with the number 01, accompanied by a small green arrow pointing to the right. Static camera and flat lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:10",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "It does not mean every transfer is eligible,",
+        "label": "Product Information",
+        "visual": "The same graphic layout from the previous scene, but a second white card labeled 02 appears to the right of the first, with another green arrow pointing further right. The background remains static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:11",
+        "timestamp_start": "0:10"
+      },
+      {
+        "audio": "every future payment is excluded, or every cost disappears. The original contract category, the new contract category, the insured or ownership interests and the actual transaction method matter.",
+        "label": "Product Information",
+        "visual": "The same graphic layout, now showing a third white card labeled 03 at the end of the horizontal sequence. The image is static and the color palette is neutral with cream, white, and dark green accents.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:25",
+        "timestamp_start": "0:11"
+      },
+      {
+        "audio": "A tax-favored exchange also is different from a retirement account rollover. Start with which contracts are involved and how the insurers will carry out the exchange before promising a tax result.",
+        "label": "Product Information",
+        "visual": "The graphic layout remains unchanged with three cards in a row. The camera is static. The lighting is artificial and even across the frame.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:38",
+        "timestamp_start": "0:25"
+      },
+      {
+        "audio": "Within the core life and annuity categories,",
+        "label": "Product Information",
+        "visual": "A new graphic slide appears with a similar cream background and green sidebar. One white card appears on the left side of the main area. Static camera.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "0:40",
+        "timestamp_start": "0:38"
+      },
+      {
+        "audio": "a life insurance contract can be exchanged for another life contract,",
+        "label": "Product Information",
+        "visual": "A second white card with text appears to the right of the first on the same slide. The lighting is flat and the composition is balanced.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "0:42",
+        "timestamp_start": "0:40"
+      },
+      {
+        "audio": "an endowment or an annuity when the other requirements are met. An endowment can go to an eligible endowment or annuity. An annuity can go to another annuity.",
+        "label": "Product Information",
+        "visual": "A third white card appears, completing a row of three boxes on the slide. The layout is static and uses clean lines and simple typography.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "0:57",
+        "timestamp_start": "0:42"
+      },
+      {
+        "audio": "The reverse move from an annuity to life insurance does not qualify under this section. Neither does an annuity to endowment exchange. An endowment to endowment exchange has an additional requirement.",
+        "label": "Product Information",
+        "visual": "The graphic remains static with all three cards visible. The design emphasizes a professional and educational tone through a muted color palette.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:12",
+        "timestamp_start": "0:57"
+      },
+      {
+        "audio": "The new regular payments must begin no later than they would under the old contract. The statute includes specified qualified long-term care directions as well.",
+        "label": "Product Information",
+        "visual": "The same slide with three cards persists. There is no camera movement or change in the visual elements. The lighting remains soft and artificial.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "1:27",
+        "timestamp_start": "1:12"
+      },
+      {
+        "audio": "That is a separate contract category, not permission to exchange any insurance product for any other.",
+        "label": "Product Information",
+        "visual": "The slide layout remains static until the scene ends. The visual focus is on the textual information presented in the white boxes.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "1:31",
+        "timestamp_start": "1:27"
+      },
+      {
+        "audio": "Marcus asks whether he can use an exchange to replace insurance on his own life",
+        "label": "Product Information",
+        "visual": "Transition to a third graphic slide. One white card labeled 01 with a green arrow is visible. The background and sidebar style are consistent with previous slides.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "1:33",
+        "timestamp_start": "1:31"
+      },
+      {
+        "audio": "with insurance on a different person.",
+        "label": "Product Information",
+        "visual": "A second card labeled 02 appears next to the first card, with another arrow pointing right. Static wide framing.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "1:34",
+        "timestamp_start": "1:33"
+      },
+      {
+        "audio": "The exchange rules require the relevant insured identity to remain consistent. A different insured is not simply the same investment in a new wrapper. For annuity exchanges,",
+        "label": "Product Information",
+        "visual": "A third card labeled 03 appears, completing the three-card sequence on the slide. The layout is clean and static, with even overhead lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "1:49",
+        "timestamp_start": "1:34"
+      },
+      {
+        "audio": "the regulation also requires the same person or persons to remain entitled under the contracts as the obligees. Do not casually add or remove an owner",
+        "label": "Product Information",
+        "visual": "The graphic remains on screen with all three cards shown. The camera is static, and the color grading remains neutral and professional.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "2:04",
+        "timestamp_start": "1:49"
+      },
+      {
+        "audio": "while assuming tax treatment remains unchanged. The insurer must review the actual registration and contract facts. A new product name,",
+        "label": "Product Information",
+        "visual": "The same slide layout persists. The focus is on the textual information within the white cards against the cream background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "2:19",
+        "timestamp_start": "2:04"
+      },
+      {
+        "audio": "an attractive illustration or the same premium amount does not substitute for meeting the identity requirements.",
+        "label": "Product Information",
+        "visual": "Final moments of the third graphic slide. Everything is static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "2:24",
+        "timestamp_start": "2:19"
+      },
+      {
+        "audio": "Rosa asks the old insurer to send her the surrender money",
+        "label": "Product Information",
+        "visual": "A fourth graphic slide appears, starting with one white box on the left of the main area. Same sidebar and background colors.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "2:26",
+        "timestamp_start": "2:24"
+      },
+      {
+        "audio": "so she can buy the new annuity herself.",
+        "label": "Product Information",
+        "visual": "A second white box appears to the right of the first on the slide. The layout is static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "2:27",
+        "timestamp_start": "2:26"
+      },
+      {
+        "audio": "That is not the same as an actual direct exchange or assignment processed between the insurers. An IRS ruling addressed a check issued to the owner",
+        "label": "Product Information",
+        "visual": "A third white box appears, completing the row on the slide. The background is cream, text is dark green/black, and the arrows are green.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "2:42",
+        "timestamp_start": "2:27"
+      },
+      {
+        "audio": "and then endorsed to the second insurer. That endorsement did not turn the payment into a qualifying exchange. The non-qualified annuity payment remained taxable",
+        "label": "Product Information",
+        "visual": "The graphic slide continues to be displayed statically. The lighting is bright and flat across the image.",
+        "shot_type": "Wide Shot",
+        "scene_number": 21,
+        "timestamp_end": "2:57",
+        "timestamp_start": "2:42"
+      },
+      {
+        "audio": "to the extent required by its distribution rules. Do not promise the 60-day retirement rollover rule for this personal contract. Arrange the proper exchange process",
+        "label": "Product Information",
+        "visual": "The fourth slide remains static until the scene transition. All information is presented in clearly defined rectangular boxes.",
+        "shot_type": "Wide Shot",
+        "scene_number": 22,
+        "timestamp_end": "3:09",
+        "timestamp_start": "2:57"
+      },
+      {
+        "audio": "before the owner takes a distribution and confirm",
+        "label": "Product Information",
+        "visual": "A fifth graphic slide appears, showing three boxes simultaneously: one labeled $80,000 value, one $50,000 basis, and one $30,000 gain. Static camera.",
+        "shot_type": "Wide Shot",
+        "scene_number": 23,
+        "timestamp_end": "3:10",
+        "timestamp_start": "3:09"
+      },
+      {
+        "audio": "that both insurers will handle the transaction as intended.",
+        "label": "Product Information",
+        "visual": "The same slide is shown. The lighting is high-key and the layout is symmetrical. The sidebar is on the left.",
+        "shot_type": "Wide Shot",
+        "scene_number": 24,
+        "timestamp_end": "3:12",
+        "timestamp_start": "3:10"
+      },
+      {
+        "audio": "Assume Rosa exchanges an annuity worth 80,000 dollars with 50,000 dollars of adjusted investment for a new annuity of equal value. The question states that all exchange requirements are met",
+        "label": "Product Information",
+        "visual": "The fifth slide remains on screen, presenting financial figures in white boxes. The camera is locked and the palette is muted.",
+        "shot_type": "Wide Shot",
+        "scene_number": 25,
+        "timestamp_end": "3:27",
+        "timestamp_start": "3:12"
+      },
+      {
+        "audio": "with no cash received, debt, charges or other adjustment. The 30,000 dollars of gain is not recognized currently and the 50,000 dollar basis carries into the replacement",
+        "label": "Product Information",
+        "visual": "The static graphic continues to show the financial example. The font is clean and easily readable.",
+        "shot_type": "Wide Shot",
+        "scene_number": 26,
+        "timestamp_end": "3:42",
+        "timestamp_start": "3:27"
+      },
+      {
+        "audio": "under these facts. It does not become 80,000 dollars of fresh after-tax investment. Receiving cash or discharging policy debt can introduce taxable gain",
+        "label": "Product Information",
+        "visual": "The same slide layout is visible. The composition is clean with ample white space between the boxes.",
+        "shot_type": "Wide Shot",
+        "scene_number": 27,
+        "timestamp_end": "3:57",
+        "timestamp_start": "3:42"
+      },
+      {
+        "audio": "under additional rules. A life policy received in exchange for a modified endowment contract",
+        "label": "Product Information",
+        "visual": "Final seconds of the fifth slide showing the financial figures. Static shot.",
+        "shot_type": "Wide Shot",
+        "scene_number": 28,
+        "timestamp_end": "3:59",
+        "timestamp_start": "3:57"
+      },
+      {
+        "audio": "also retains that classification under the applicable rule. Check these features before using the simple example.",
+        "label": "Product Selling Points",
+        "visual": "The same couple, Rosa and David, from the first scene are shown again. Rosa points to the document in her hand while David looks on thoughtfully, his hand on his chin. They are seated in the same positions at the wooden table. Lighting and background are consistent with the opening scene.",
+        "shot_type": "Medium Close-Up",
+        "scene_number": 29,
+        "timestamp_end": "4:07",
+        "timestamp_start": "3:59"
+      },
+      {
+        "audio": "A qualifying exchange can still involve",
+        "label": "Call to Action",
+        "visual": "The final graphic slide appears with a cream background and green sidebar. A list of numbered steps begins to appear on the left. Step 01 is visible.",
+        "shot_type": "Wide Shot",
+        "scene_number": 30,
+        "timestamp_end": "4:08",
+        "timestamp_start": "4:07"
+      },
+      {
+        "audio": "surrender charges, new restrictions,",
+        "label": "Call to Action",
+        "visual": "Step 02 is revealed below step 01 on the slide. The layout is vertical.",
+        "shot_type": "Wide Shot",
+        "scene_number": 31,
+        "timestamp_end": "4:09",
+        "timestamp_start": "4:08"
+      },
+      {
+        "audio": "lost benefits, different guarantees",
+        "label": "Call to Action",
+        "visual": "Step 03 is revealed in the vertical list. Static wide shot.",
+        "shot_type": "Wide Shot",
+        "scene_number": 32,
+        "timestamp_end": "4:10",
+        "timestamp_start": "4:09"
+      },
+      {
+        "audio": "or higher ongoing expenses. Rosa should compare the entire transaction with keeping the existing contract. For a covered Maryland annuity recommendation,",
+        "label": "Call to Action",
+        "visual": "Step 04 is revealed, completing the list of four points on the final slide. The frame is static and the color palette is identical to previous slides.",
+        "shot_type": "Wide Shot",
+        "scene_number": 33,
+        "timestamp_end": "4:25",
+        "timestamp_start": "4:10"
+      },
+      {
+        "audio": "the best interest and replacement review includes the actual costs, benefits and required consumer information. A producer should not describe tax non-recognition",
+        "label": "Call to Action",
+        "visual": "The final slide with the full four-step list remains static. The camera is fixed and the lighting is even.",
+        "shot_type": "Wide Shot",
+        "scene_number": 34,
+        "timestamp_end": "4:40",
+        "timestamp_start": "4:25"
+      },
+      {
+        "audio": "as proof that the replacement is better. Partial annuity exchanges have additional rules, including a timing test for later distributions, so they should not be treated as automatically identical to a complete exchange. On an exam, identify the allowed direction, correct method and carryover result, then keep the separate contract and recommendation consequences in view.",
+        "label": "Call to Action",
+        "visual": "The last slide remains on screen until the video concludes. The visual information is static and clear.",
+        "shot_type": "Wide Shot",
+        "scene_number": 35,
+        "timestamp_end": "4:51",
+        "timestamp_start": "4:40"
+      }
+    ]
+  }
+}

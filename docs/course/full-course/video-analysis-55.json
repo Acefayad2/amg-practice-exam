@@ -1,0 +1,219 @@
+{
+  "result": {
+    "id": "35c576d7-1fdc-442a-92fa-7f6c537e6ea2",
+    "video_input_id": "da0aee95-70a9-4eab-b13c-68c214f931bf",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/da0aee95-70a9-4eab-b13c-68c214f931bf.mp4",
+    "scenes": [
+      {
+        "audio": "David changes jobs and asks to move retirement money.",
+        "label": "Opening Hook",
+        "visual": "A woman and a man sit at a light-colored wooden table in a brightly lit, modern living room. The woman, approximately 60-65 years old with medium-toned skin and salt-and-pepper wavy shoulder-length hair, wears a cream-colored long-sleeved button-up blouse. The man, approximately 60-65 years old with dark-toned skin, short gray curly hair, and a well-groomed gray beard, wears a dark navy blue short-sleeved polo shirt. The man holds a white sheet of paper, and the woman points to it with her right hand while leaning in. Beside them on the table sits a dark green textured mug. The background is softly blurred, showing a window with natural light, a potted plant, and a framed picture on the wall. The camera is static, and the lighting is soft and warm.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:08",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "First identify the arrangement sending the funds, the arrangement receiving them,",
+        "label": "Product Information",
+        "visual": "A clean graphic appears on an off-white background. A box labeled '01 From' containing the text 'Sending account and type of money' is on the left. A teal arrow points to the right toward a second box labeled '02 To' containing 'Eligible receiving arrangement'. The camera is static. The color palette consists of teal, white, and dark charcoal text.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:15",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "and whether the money is pre-tax, after-tax, or Roth. A properly completed eligible rollover can preserve tax deferral, but a pre-tax to Roth conversion generally recognizes the previously untaxed amount as income.",
+        "label": "Product Information",
+        "visual": "A third box labeled '03 Transaction' appears to the right of the 'To' box, containing the text 'Distribution right and tax character'. The overall graphic remains static. The lighting is artificial and uniform as part of the digital graphic.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:30",
+        "timestamp_start": "0:15"
+      },
+      {
+        "audio": "A receiving employer plan is not required to accept every rollover. Also confirm whether David is entitled to a distribution under the sending plan. Wanting a different investment does not by itself create a withdrawal right.",
+        "label": "Product Information",
+        "visual": "The same graphic with three boxes remains on screen. The 'Transaction' box is highlighted with a darker background to emphasize the current topic of discussion. The camera remains static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:39",
+        "timestamp_start": "0:30"
+      },
+      {
+        "audio": "The correct process starts with eligible accounts and an eligible transaction before anyone requests a check. If Rosa moves a traditional individual retirement account, directly from one trustee to another,",
+        "label": "Usage Scenarios",
+        "visual": "A new graphic layout appears with three columns. The first column is titled 'IRA trustee transfer' with the description 'Payment directly between trustees'. The second column is titled 'Plan direct rollover' with the description 'Payment to eligible receiving arrangement'. The background is off-white with teal header bars for each column.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:54",
+        "timestamp_start": "0:39"
+      },
+      {
+        "audio": "the trustee-to-trustee transfer is not an owner-received 60-day rollover. It is not restricted by the individual account one-rollover-per-year rule.",
+        "label": "Usage Scenarios",
+        "visual": "The third column appears, titled 'Read the payee' with the description 'Physical delivery alone does not decide'. The column layout is now complete. The graphics are static and clean.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:09",
+        "timestamp_start": "0:54"
+      },
+      {
+        "audio": "For an eligible employer plan distribution, a direct rollover sends payment to the receiving retirement arrangement and avoids mandatory 20% withholding on that direct payment.",
+        "label": "Usage Scenarios",
+        "visual": "The three-column graphic remains on screen. The 'Plan direct rollover' and 'Read the payee' columns are the focus of the current audio explanation. The camera is static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:24",
+        "timestamp_start": "1:09"
+      },
+      {
+        "audio": "A check can still qualify as direct when it is payable to the receiving plan or account for the owner's benefit, even if the owner forwards the check. Suppose an eligible retirement distribution instead is paid to David personally.",
+        "label": "Problem Solving",
+        "visual": "The graphic changes to a sequence of three boxes again. Box '01 Receipt by owner' with text 'Identify the actual receipt date' and box '02 Within 60 days' with 'Complete rollover deposit' appear. Arrows connect the boxes from left to right.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:39",
+        "timestamp_start": "1:24"
+      },
+      {
+        "audio": "A 60-day rollover generally requires completing the deposit into an eligible receiving arrangement within 60 days after he receives it. Intending to rollover the money is not enough,",
+        "label": "Problem Solving",
+        "visual": "A third box, '03 Unrolled amount' with 'Check ordinary and additional tax', appears on the far right. The full sequence of the 60-day rollover process is now visible.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:54",
+        "timestamp_start": "1:39"
+      },
+      {
+        "audio": "and depositing it into an ordinary savings account does not complete a retirement rollover. He may roll over all or an eligible portion. Any taxable amount not properly rolled over generally remains income,",
+        "label": "Problem Solving",
+        "visual": "The three-box graphic remains static. The text in the boxes is clear and high-contrast. The camera remains fixed.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "2:09",
+        "timestamp_start": "1:54"
+      },
+      {
+        "audio": "and an early distribution additional tax may apply.",
+        "label": "Problem Solving",
+        "visual": "The final box in the sequence 'Unrolled amount' is highlighted. The lighting is uniform and digital.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "2:14",
+        "timestamp_start": "2:09"
+      },
+      {
+        "audio": "Relief from the deadline exists in specified circumstances, but a producer cannot simply promise an extension. David receives a $50,000 eligible rollover distribution from a pre-tax employer plan, paid to him personally.",
+        "label": "Product Selling Points",
+        "visual": "A calculation graphic appears. In the first box on the left, it shows '$50,000 x 20%' and '$10,000 withheld'. In the middle box, it says '$40,000 received' and 'Cash paid to David'. The design remains consistent with previous graphics.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:29",
+        "timestamp_start": "2:14"
+      },
+      {
+        "audio": "Assume the usual 20% withholding applies. $10,000 goes to withholding and he receives $40,000. To roll over the entire $50,000 within the ordinary deadline,",
+        "label": "Product Selling Points",
+        "visual": "A third box on the right appears: 'Full $50,000 rollover' with the instruction 'Replace $10,000 from other funds'. The three boxes are aligned horizontally.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:44",
+        "timestamp_start": "2:29"
+      },
+      {
+        "audio": "he must contribute the $40,000 received plus $10,000 from other funds. If he rolls over only $40,000, the unrolled $10,000 remains taxable under these assumptions.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains static as the audio explains the tax implications of not replacing the withheld amount. The camera is fixed.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "2:59",
+        "timestamp_start": "2:44"
+      },
+      {
+        "audio": "The withheld amount is a tax payment credited on the return. It does not automatically satisfy the full rollover.",
+        "label": "Product Selling Points",
+        "visual": "The calculation boxes remain visible. The text is sharp and legible against the off-white background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "3:06",
+        "timestamp_start": "2:59"
+      },
+      {
+        "audio": "Also do not treat withholding as the final tax owed. An owner generally can complete only one covered 60-day rollover between individual retirement accounts in a 12-month period across their applicable accounts.",
+        "label": "Product Information",
+        "visual": "A new three-column graphic appears. Column one: 'Covered IRA rollover' with 'One in 12 months across applicable IRAs'. Column two: 'Direct trustee transfer' with 'Outside that one-per-year limit'. The style matches previous multi-column graphics.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:21",
+        "timestamp_start": "3:06"
+      },
+      {
+        "audio": "Opening a second account does not create another allowance and January 1st does not automatically reset the clock. This restriction does not apply to direct trustee transfers,",
+        "label": "Product Information",
+        "visual": "The third column 'Withholding' appears, with text 'IRA default differs from plan example'. The layout is static and complete.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:36",
+        "timestamp_start": "3:21"
+      },
+      {
+        "audio": "traditional to Roth conversions, or eligible rollovers between employer plans and individual accounts. Those transactions still have their own requirements. The 20% withholding example also belongs to a taxable eligible employer plan payment.",
+        "label": "Product Information",
+        "visual": "The 'Withholding' column is the focus. The background is cream, and the text is charcoal. The aesthetic is professional and instructional.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "3:51",
+        "timestamp_start": "3:36"
+      },
+      {
+        "audio": "An ordinary individual retirement account payment to its owner generally has a 10% withholding default with election choices.",
+        "label": "Product Information",
+        "visual": "The static three-column graphic remains on screen for the final seconds of this audio segment.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "3:54",
+        "timestamp_start": "3:51"
+      },
+      {
+        "audio": "Do not import one withholding rule into every type of retirement payment. A required minimum distribution cannot be rolled over.",
+        "label": "Real Experience",
+        "visual": "The scene returns to the woman and man at the table from Scene 1. They are in the same positions, looking at the white paper. The man is nodding slowly as he reads, and the woman is watching him with a calm expression. The lighting and environment are unchanged from the opening scene.",
+        "shot_type": "Medium Shot",
+        "scene_number": 20,
+        "timestamp_end": "4:02",
+        "timestamp_start": "3:54"
+      },
+      {
+        "audio": "Employer plan hardship distributions and other specifically excluded payments also are not eligible simply because the owner quickly deposits them elsewhere. Inherited arrangements require additional care.",
+        "label": "Call to Action",
+        "visual": "A final summary graphic appears with a vertical list. '01 Eligible amount' with 'Exclude RMDs and other prohibited payments' and '02 Correct destination' with 'Preserve account and beneficiary status' are shown first.",
+        "shot_type": "Wide Shot",
+        "scene_number": 21,
+        "timestamp_end": "4:17",
+        "timestamp_start": "4:02"
+      },
+      {
+        "audio": "A non-spouse beneficiary does not have the same owner-style 60-day rollover choice as the original owner or an eligible spouse. A permitted direct transfer must preserve the required inherited account identity.",
+        "label": "Call to Action",
+        "visual": "Points '03 Proper method' with 'Payee, deadline and records' and '04 Separate decision' with 'Compare costs, benefits and access' are added to the list. The camera is static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 22,
+        "timestamp_end": "4:32",
+        "timestamp_start": "4:17"
+      },
+      {
+        "audio": "Before the transfer is requested, check eligibility, destination, payment instructions, tax character, and deadlines. A rollover is a tax procedure, not proof that the new product is suitable or less expensive. Compare the actual investments, charges, protections, and access rights as a separate decision.",
+        "label": "Call to Action",
+        "visual": "The full list of four points remains on screen. The graphic is static, minimalist, and clear, with teal bullet points and headers. The final segment of the video concludes on this graphic.",
+        "shot_type": "Wide Shot",
+        "scene_number": 23,
+        "timestamp_end": "4:48",
+        "timestamp_start": "4:32"
+      }
+    ]
+  }
+}

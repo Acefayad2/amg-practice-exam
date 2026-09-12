@@ -1,0 +1,84 @@
+{
+  "result": {
+    "id": "5ec2727c-81e2-4137-8b91-8ec3dbebc649",
+    "video_input_id": "8acb8237-ddb8-4656-a180-845e662a0777",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/8acb8237-ddb8-4656-a180-845e662a0777.mp4",
+    "scenes": [
+      {
+        "audio": "Elena considers a Roth individual retirement arrangement. Regular Roth contributions are made with after-tax money, and are not deductible.",
+        "label": "Opening Hook",
+        "visual": "A man and a woman are seated at a wooden dining table in a brightly lit, modern kitchen. The man, in his late 40s, has dark skin, short black hair, and a groomed beard. He wears a dark blue long-sleeved button-down shirt. The woman, also in her late 40s, has a light complexion and long, wavy dark hair. She is wearing an olive green blouse. They are both leaning over a silver laptop and a stack of white papers. The woman holds a pen in her right hand, pointing at the documents. The lighting is warm and natural, coming from a window in the background. A ceramic mug and a black notebook are also on the table.",
+        "shot_type": "Medium Close-Up",
+        "scene_number": 1,
+        "timestamp_end": "0:07",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "That is different from a traditional contribution that qualifies for a current deduction. Roth eligibility still requires the applicable compensation and contribution rules. And direct regular contributions can be reduced or prohibited by modified adjusted gross income and filing status. A high income that prevents a direct Roth contribution is not the same rule as the traditional deduction phaseout. Nor does it automatically answer whether a conversion is possible. Separate regular contributions, transfers, conversions, and distributions before applying a limit. Those words describe different transactions.",
+        "label": "Product Information",
+        "visual": "A clean, minimalist infographic with a teal top banner. Rectangular white boxes with gray outlines appear sequentially against a light gray background. Teal arrows indicate the flow between concepts. The color palette is professional, utilizing teal, dark gray, and white. The background is static and flat.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:42",
+        "timestamp_start": "0:07"
+      },
+      {
+        "audio": "For 2026, a person under age 50 generally has a $7,500 combined regular contribution limit across traditional and Roth individual retirement arrangements, subject to compensation and other restrictions. It is not a fresh limit for every account. Suppose Elena is 40, has sufficient compensation, qualifies for a full direct Roth contribution, and has already contributed $3,000 to a traditional account for the year. She generally has $4,500 of that combined limit left. The age 50 catch-up increases the general 2026 dollar limit by $1,100, but does not override a lower compensation amount or Roth income restriction.",
+        "label": "Product Selling Points",
+        "visual": "The screen transitions to a new infographic layout. A large white box on the left highlights numeric values, while additional boxes on the right provide context. The design remains consistent with the previous scene, using the same teal and gray color scheme. Text blocks appear one by one to illustrate the narrator's points.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "1:29",
+        "timestamp_start": "0:42"
+      },
+      {
+        "audio": "When a Roth distribution is not qualified, the ordering rules matter. Ordinary distributions reach regular contributions first, then conversions and applicable rollover amounts under their ordering rules, and earnings last. Aggregate the owner's Roth arrangements as required. Opening another account does not restart the order. Suppose Elena has $12,000 of unrecovered regular Roth contributions and $3,000 of earnings with no conversions, earlier distributions, or other adjustments. An ordinary $5,000 withdrawal comes from regular contributions and is not subject to income tax or the usual early distribution additional tax under these facts. Do not treat it as $5,000 of earnings merely because the account has grown.",
+        "label": "Problem Solving",
+        "visual": "A flowchart infographic appears. Three numbered boxes (01, 02, 03) are displayed horizontally, connected by teal arrows. The first box is white, the second is dark teal, and the third is white. This visualizes a step-by-step process. The lighting is flat and artificial as part of the graphic design.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "2:21",
+        "timestamp_start": "1:29"
+      },
+      {
+        "audio": "A qualified Roth distribution can exclude earnings as well as contributions. It generally must occur after the five-tax-year period starting with the first year for which a Roth contribution was made for the owner and satisfy a qualifying condition. Those conditions include reaching age 59 and one-half, qualifying disability, death, or an eligible first home payment within its lifetime limit. Suppose Rosa first contributed for 2021 and takes a distribution in 2026 at age 61. The stated time and age conditions are met. Turning 61 alone would not satisfy the five-year condition if her first Roth contribution had only just occurred.",
+        "label": "Usage Scenarios",
+        "visual": "The scene shifts to a graphic divided into three vertical sections. The left two sections contain white boxes detailing rules, while the right section presents a specific dated example. The minimalist, corporate style persists with high contrast between the teal accents and the neutral background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "3:06",
+        "timestamp_start": "2:21"
+      },
+      {
+        "audio": "Converting pre-tax traditional retirement money to a Roth arrangement generally includes the previously untaxed amount in income for the conversion year. It is not a deduction and does not use the regular contribution limit. A separate five-year additional tax rule can apply if a younger owner soon withdraws an amount attributable to a taxable conversion. Each conversion has its own clock. For example, an age 45 owner converts in 2026 and withdraws taxable converted amounts in 2028. With no applicable exception, an additional tax can apply even though the conversion amount was already included in income earlier. Do not confuse this conversion rule with the five-year qualified distribution test.",
+        "label": "Usage Scenarios",
+        "visual": "A horizontal sequence of three numbered boxes (01, 02, 03) connected by arrows is shown, similar to the layout in scene four. The first and third boxes are white, while the middle box is dark teal. This graphic represents a timeline or process regarding tax clocks.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "4:00",
+        "timestamp_start": "3:06"
+      },
+      {
+        "audio": "A Roth owner does not have lifetime required minimum distributions from their Roth individual retirement arrangement. That does not mean beneficiaries can always leave inherited funds untouched forever.",
+        "label": "Real Experience",
+        "visual": "The camera returns to the same medium close-up of the man and woman from the first scene. They are in the same position, looking intently at the papers. The man is holding a pen in his right hand. The warm, natural lighting from the kitchen window remains constant, highlighting their focused expressions.",
+        "shot_type": "Medium Close-Up",
+        "scene_number": 7,
+        "timestamp_end": "4:08",
+        "timestamp_start": "4:00"
+      },
+      {
+        "audio": "Death distribution requirements still depend on beneficiary classification, and the earnings exclusion still requires the applicable qualification rules. Compare the two arrangements carefully. Traditional contributions may provide an eligible deduction now, with later pre-tax distributions generally taxed. Roth contributions provide no current deduction, but qualified distributions can be excluded. Both require attention to contribution rules and the actual transaction. Neither label by itself establishes a person's best choice. On the exam, identify the tax treatment the stated facts actually support.",
+        "label": "Call to Action",
+        "visual": "The final infographic appears as a comprehensive comparison table. Rows and columns neatly organize the differences between traditional and Roth IRAs regarding lifetime rules, death, and tax treatment. The teal, white, and gray color palette provides a final summary before the video ends.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "4:51",
+        "timestamp_start": "4:08"
+      }
+    ]
+  }
+}

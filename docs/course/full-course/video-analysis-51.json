@@ -1,0 +1,75 @@
+{
+  "result": {
+    "id": "f1073ded-cb48-492a-9322-55e9901ed7a6",
+    "video_input_id": "64d85eae-6304-4a56-b071-24979d331af0",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/64d85eae-6304-4a56-b071-24979d331af0.mp4",
+    "scenes": [
+      {
+        "audio": "Rosa bought a deferred annuity in her own name, with money on which she already paid income tax. It is outside an individual retirement account or employer retirement plan.",
+        "label": "Opening Hook",
+        "visual": "A split screen composition featuring a dark green panel with off-white text on the left and a live-action scene on the right. In the scene, a woman in her late 60s with a light complexion and shoulder-length wavy grey hair wearing a white long-sleeved blouse sits at a wooden table. Beside her, a man in his late 60s with a dark complexion, short grey hair, and a grey beard wearing a navy blue polo shirt holds a white document. The woman points at the paper as they both look at it closely. The background is a soft-focus interior living space with a houseplant and framed artwork.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:08",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "This is a nonqualified annuity for our examples. Its growth generally can accumulate without annual income tax while held by an individual. But access to the money can create taxable income. Before calculating anything, identify the owner, the contract's issue date and whether the payment is a withdrawal, full surrender, or annuity income. Different rules apply to different events. A personal annuity does not become an individual retirement account merely because Rosa intends to use it during retirement.",
+        "label": "Product Information",
+        "visual": "A full-screen instructional graphic on an off-white background. Three white rectangular boxes with rounded corners are displayed. Box 01 is labeled 'Contract' and lists 'Individual nonqualified annuity'. A teal arrow points to Box 02, labeled 'Event', listing 'Withdrawal, surrender or annuity payment'. A second teal arrow points to Box 03, labeled 'Tax calculation', listing 'Apply the matching rule'. The top of the screen has a thin horizontal bar in dark green and teal.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:41",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "Rosa's teaching contract was issued in 2020, has $90,000 of cash value and $60,000 of adjusted investment in the contract. There are no prior distributions or special adjustments. The difference is $30,000 of gain. Before the annuity starting date, an ordinary partial withdrawal from this contract generally takes taxable earnings before recovering investment. A $20,000 withdrawal is therefore entirely taxable ordinary income because $30,000 of gain is available. Do not divide the withdrawal in proportion to premiums and growth. Also do not copy the ordinary basis-first withdrawal treatment from a non-modified life insurance policy.",
+        "label": "Product Selling Points",
+        "visual": "A mathematical graphic showing a tax calculation. A light teal box on the left shows the equation '$90,000 - $60,000 = $30,000 available gain'. A center white box indicates a '$20,000 withdrawal'. A final light teal box on the right labels the withdrawal as '$20,000 taxable' and specifies 'Ordinary income under stated assumptions'. The background remains off-white with dark green text.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "1:30",
+        "timestamp_start": "0:41"
+      },
+      {
+        "audio": "Now return to the original $90,000 value and $60,000 investment without making the earlier withdrawal. This time Rosa withdraws $40,000. The first $30,000 uses the available gain and is taxable. The remaining $10,000 recovers investment without being taxed again. Her remaining investment is $50,000 under these simplified facts. The withdrawal is not $40,000 of taxable gain because the contract contained only $30,000 of gain. Nor is the entire payment a tax-free return of premiums. Establish the value, adjusted investment and actual transaction amount before choosing the taxable portion.",
+        "label": "Usage Scenarios",
+        "visual": "A graphic layout demonstrating a recovery of basis. A white box on the left shows a '$40,000 payment' comprised of '$30,000 gain + $10,000 investment'. A teal box in the center shows '$30,000 taxable', and a final white box on the right states '$50,000 remains' as the adjusted investment after the transaction. The aesthetic remains consistent with previous graphics.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "2:17",
+        "timestamp_start": "1:30"
+      },
+      {
+        "audio": "A full surrender ends the contract and returns its remaining surrender proceeds. Suppose the insurer states that Rosa would receive $85,000 after all applicable surrender charges and her unrecovered investment is $60,000. Assume no debt or other tax adjustment. The resulting taxable gain is $25,000. That calculation uses the stated net proceeds for this full surrender. It should not be confused with the partial withdrawal rule where gain generally uses cash value before surrender charges. Read whether the question describes a partial payment or complete termination. The same displayed account value does not make those two transactions identical.",
+        "label": "Problem Solving",
+        "visual": "A graphic explaining a full surrender transaction. It shows '$85,000' as net full-surrender proceeds in a white box, followed by a minus sign and '$60,000' as unrecovered investment. A final light teal box shows the result of '$25,000 gain'. The layout includes small sub-text notes under each box explaining the assumptions.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "3:03",
+        "timestamp_start": "2:17"
+      },
+      {
+        "audio": "Change the owner to a 45-year-old with a $20,000 taxable withdrawal and no applicable exception. The additional federal tax on an early nonqualified annuity distribution is generally 10% of the taxable portion. In this example that is $2,000 in addition to ordinary income tax. An insurer's free withdrawal allowance concerns its contract charge and does not automatically remove either federal tax. Exceptions to the additional tax include distributions after age 59 and one-half, qualifying disability, death, and certain substantially equal periodic payments. Use the exception that actually applies. An education or first home exception associated with an individual retirement account is not a blanket commercial annuity exception.",
+        "label": "Real Experience",
+        "visual": "A graphic explaining additional taxes for early distributions. A white box shows '$20,000 taxable' for an owner age 45. This is linked to a smaller box with a '10%' multiplier. A light teal box shows the result as '$2,000 additional federal tax'. A separate box on the far right notes 'Separate costs' for ordinary tax and insurer charges.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "3:55",
+        "timestamp_start": "3:03"
+      },
+      {
+        "audio": "For a nonqualified annuity, taking a loan or pledging value generally can be treated as receiving a distribution under the applicable tax rule. Do not assume that the familiar loan treatment of an ordinary life policy applies to every insurance contract. The amount treated as distributed must still be evaluated using the correct gain and basis rules. Rosa should obtain the insurer's transaction details before deciding what to do. On the exam, follow a consistent sequence. Identify the nonqualified contract. Distinguish withdrawal from income or full surrender. Calculate the taxable amount and then consider any additional tax. Keeping those steps separate prevents several common answer traps.",
+        "label": "Call to Action",
+        "visual": "The video returns to the medium shot of the couple (Rosa and David) looking at the document at the wooden table. The camera remains static. The scene then transitions to a final summary graphic on an off-white background with four numbered boxes in order: 01 Identify (Owner, date, category), 02 Calculate (Payment, gain, investment), 03 Check (Additional-tax rule), and 04 Separate (Tax treatment from charges).",
+        "shot_type": "Medium Shot",
+        "scene_number": 7,
+        "timestamp_end": "4:51",
+        "timestamp_start": "3:55"
+      }
+    ]
+  }
+}

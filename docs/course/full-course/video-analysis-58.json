@@ -1,0 +1,11 @@
+{
+  "result": {
+    "id": "a8262853-acd9-4a07-8871-94d9db2148fd",
+    "video_input_id": "2f15999a-7e9a-49d5-ba8c-51e77f6db00f",
+    "youtube_url": null,
+    "status": "failed",
+    "fail_reason": "Something went wrong. Try another video.",
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/2f15999a-7e9a-49d5-ba8c-51e77f6db00f.mp4",
+    "scenes": null
+  }
+}

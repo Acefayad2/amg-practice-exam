@@ -28,7 +28,7 @@
     "layouts": "All eight scenario and teaching layouts visually inspected; calculations, labels, clear spacing and circular logo verified.",
     "decode": "Complete FFmpeg decode passed.",
     "speech": "All six sections compared with the script; native pacing applied and all six sections retranscribed.",
-    "analysis": "Optional whole-video service queued; independent speech, frame and file checks passed.",
+    "analysis": "Completed whole-video scene analysis read in full; no additional material defect identified. The analyzer can infer activity from still photos, so its motion descriptions are not treated as proof of movement.",
     "player": "Chromium: all 14 required-question, native ended-event, wrong-answer/retry, first-attempt history, playback resume, completion reload, caption and mobile dialog checks passed without page errors."
   },
   "status": "ready",

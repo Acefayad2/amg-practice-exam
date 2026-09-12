@@ -1,0 +1,219 @@
+{
+  "result": {
+    "id": "62dee7e8-b395-4b7a-96a3-a0f20eddc9c5",
+    "video_input_id": "0d998474-b405-4659-a5de-9f9365d12b1f",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/0d998474-b405-4659-a5de-9f9365d12b1f.mp4",
+    "scenes": [
+      {
+        "audio": "Rosa converts a personally owned, non-qualified annuity to fixed lifetime payments. This is annuity income, not an ordinary partial withdrawal before payments start.",
+        "label": "Opening Hook",
+        "visual": "A woman (approx. 65, tan complexion, long gray hair tied back, wearing a cream-colored long-sleeved textured shirt and small gold hoop earrings) and a man (approx. 65, dark complexion, short gray hair and beard, wearing a dark maroon short-sleeved polo shirt and a silver watch) sit at a round wooden table. The woman points at a white sheet of paper that the man holds with both hands. The shot is static and eye-level. The background shows a bright room with a large window, indoor plants, and soft natural lighting. A green ceramic mug sits on the table in the foreground.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:07",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "Under the applicable general rule, part of each payment can recover her investment, and the balance can be taxable. Suppose the question gives $100,000 of adjusted investment",
+        "label": "Product Information",
+        "visual": "A static graphic on a light cream background. To the left is a dark green vertical panel. A single white card appears in the center containing a large dollar amount. The lighting is artificial and uniform across the frame.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:21",
+        "timestamp_start": "0:07"
+      },
+      {
+        "audio": "and $200,000 of expected return for the calculation. Dividing investment by expected return gives a 50% exclusion percentage.",
+        "label": "Product Information",
+        "visual": "The same graphic layout as scene 2. A second white card appears to the right of the first, showing a mathematical operation involving a larger dollar amount.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:35",
+        "timestamp_start": "0:21"
+      },
+      {
+        "audio": "Expected return is a tax calculation using the applicable payment terms and factors. It is not simply a promised investment profit. Use the supplied facts rather than guessing a life expectancy.",
+        "label": "Product Information",
+        "visual": "The same graphic layout as scene 2. A third white card appears on the far right showing a percentage. The three cards are now aligned horizontally.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:50",
+        "timestamp_start": "0:35"
+      },
+      {
+        "audio": "Assume the fixed annual payment is $20,000 and the stated exclusion percentage is 50%. $10,000 recovers investment and $10,000 is taxable each full year",
+        "label": "Product Selling Points",
+        "visual": "A new static graphic on the cream background. A card on the left shows a multiplication calculation between a dollar amount and a percentage. The layout is clean and minimalist.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "1:05",
+        "timestamp_start": "0:50"
+      },
+      {
+        "audio": "while unrecovered investment remains under these simplified facts. If the annuity starting date is in 2026, total excluded payments cannot exceed the $100,000 investment.",
+        "label": "Product Selling Points",
+        "visual": "The same graphic layout as scene 5. A middle card appears displaying a ceiling value for total investment recovery.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:20",
+        "timestamp_start": "1:05"
+      },
+      {
+        "audio": "Once that amount has been recovered, later payments are fully taxable under the stated rule. Lifetime payments can continue after investment is recovered; the tax treatment changes, not the lifetime promise.",
+        "label": "Product Selling Points",
+        "visual": "The same graphic layout as scene 5. A third card on the right appears containing text regarding taxability after recovery.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:33",
+        "timestamp_start": "1:20"
+      },
+      {
+        "audio": "Variable payments use a different general rule computation, so do not apply this fixed payment ratio to every design. David dies before his individually owned non-qualified annuity begins income payments.",
+        "label": "Problem Solving",
+        "visual": "A transition to a graphic about death payments. A white card on the left shows a large lump sum dollar amount on the cream background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:48",
+        "timestamp_start": "1:33"
+      },
+      {
+        "audio": "Assume a beneficiary receives $120,000 in one sum and the contract has $80,000 of unrecovered investment with no other adjustment. $40,000 is the earnings portion and generally is taxable ordinary income.",
+        "label": "Problem Solving",
+        "visual": "The same graphic layout as scene 8. A second card in the center shows a subtraction of the unrecovered investment amount.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "2:03",
+        "timestamp_start": "1:48"
+      },
+      {
+        "audio": "The beneficiary does not exclude the entire payment merely because it follows a death. Compare this with qualifying life insurance death proceeds, which follow a different exclusion rule.",
+        "label": "Problem Solving",
+        "visual": "The same graphic layout as scene 8. A third card on the right appears showing the final earnings calculation. The lighting remains flat and artificial.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "2:12",
+        "timestamp_start": "2:03"
+      },
+      {
+        "audio": "The contract's death benefit formula establishes the amount payable. Tax law then determines the treatment of that amount. Those are two separate calculations.",
+        "label": "Problem Solving",
+        "visual": "The three cards from the previous graphic remain static on the cream background as the audio concludes the point.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "2:21",
+        "timestamp_start": "2:12"
+      },
+      {
+        "audio": "For the modern non-qualified contract in this example, an owner's death before the annuity starting date generally requires distribution of the entire interest within five years.",
+        "label": "Usage Scenarios",
+        "visual": "A static graphic showing three vertical columns with teal header bars. The left column is highlighted, displaying text about distribution rules before income begins.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:36",
+        "timestamp_start": "2:21"
+      },
+      {
+        "audio": "A qualifying individual beneficiary can use the statutory life expectancy alternative when its requirements are met, including timely commencement generally within one year.",
+        "label": "Usage Scenarios",
+        "visual": "The same graphic layout as scene 12. The middle column is now highlighted, showing text about rules after income begins.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:51",
+        "timestamp_start": "2:36"
+      },
+      {
+        "audio": "A surviving spouse designated as beneficiary can have a continuation option under the law.",
+        "label": "Usage Scenarios",
+        "visual": "The same graphic layout as scene 12. The right column is highlighted, displaying text regarding spouse beneficiary options.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "3:00",
+        "timestamp_start": "2:51"
+      },
+      {
+        "audio": "If death occurs after the annuity starting date, remaining payments generally must be made at least as rapidly as the existing method.",
+        "label": "Usage Scenarios",
+        "visual": "The three columns from the previous graphic remain static on the cream background while the narration continues.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "3:09",
+        "timestamp_start": "3:00"
+      },
+      {
+        "audio": "Consider a corporation that buys an annuity with company money and owns all the contract rights. Naming David as the annuitant does not make him the owner.",
+        "label": "Usage Scenarios",
+        "visual": "A static graphic flowchart on a cream background. Three dark gray horizontal boxes labeled 01, 02, and 03 are connected by teal arrows pointing to the right.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:24",
+        "timestamp_start": "3:09"
+      },
+      {
+        "audio": "Under the general non-natural owner rule, income on a non-qualified annuity held by a corporation or other non-natural person can be taxable currently as ordinary income.",
+        "label": "Usage Scenarios",
+        "visual": "The flowchart graphic remains on screen. Box 02 is emphasized, describing the general rule for non-natural owners.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:39",
+        "timestamp_start": "3:24"
+      },
+      {
+        "audio": "The law has specific exceptions. These include certain qualified arrangements, a qualifying immediate annuity, and contracts acquired by an estate because of a death.",
+        "label": "Usage Scenarios",
+        "visual": "The flowchart graphic remains on screen. Box 03 is emphasized, describing legal exceptions to the general rule.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "3:54",
+        "timestamp_start": "3:39"
+      },
+      {
+        "audio": "A trust or entity genuinely holding as an agent for a natural person requires its actual ownership facts to be examined.",
+        "label": "Usage Scenarios",
+        "visual": "The static flowchart remains visible as the speaker finishes describing trust and entity agency rules.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "4:00",
+        "timestamp_start": "3:54"
+      },
+      {
+        "audio": "Here are four questions that organize the analysis: Is the payment a withdrawal, annuity income, or a death distribution?",
+        "label": "Call to Action",
+        "visual": "Return to the woman and man from Scene 1 sitting at the table. The woman is gesturing toward the paper while looking at the man, who is listening and looking at the document. The lighting and environment are identical to the first scene.",
+        "shot_type": "Medium Shot",
+        "scene_number": 20,
+        "timestamp_end": "4:08",
+        "timestamp_start": "4:00"
+      },
+      {
+        "audio": "How much investment remains to be recovered? Who is the owner and what tax arrangement holds the contract? Which timing requirement or exception applies to these facts?",
+        "label": "Call to Action",
+        "visual": "A static summary graphic on a cream background. A vertical list of four points appears, each with a teal numerical header labeled 01 through 04. The first two points are highlighted.",
+        "shot_type": "Wide Shot",
+        "scene_number": 21,
+        "timestamp_end": "4:23",
+        "timestamp_start": "4:08"
+      },
+      {
+        "audio": "Rosa's fixed income example uses a stated exclusion calculation. David's beneficiary example separates earnings from unrecovered investment. The corporation example begins with ownership and the statutory exceptions.",
+        "label": "Call to Action",
+        "visual": "The summary graphic remains on screen. The final two points of the list are highlighted as the narration summarizes the previous examples.",
+        "shot_type": "Wide Shot",
+        "scene_number": 22,
+        "timestamp_end": "4:38",
+        "timestamp_start": "4:23"
+      },
+      {
+        "audio": "None can be solved by memorizing that all annuities are tax-free or that every payment is fully taxable. The correct answer comes from matching the event and ownership facts with the applicable rule.",
+        "label": "Call to Action",
+        "visual": "The final graphic remains static until the end of the video. The lighting is artificial and constant.",
+        "shot_type": "Wide Shot",
+        "scene_number": 23,
+        "timestamp_end": "4:48",
+        "timestamp_start": "4:38"
+      }
+    ]
+  }
+}

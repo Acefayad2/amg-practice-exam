@@ -1,0 +1,228 @@
+{
+  "result": {
+    "id": "daae05b4-7109-4d55-a48b-6c92bdea90a0",
+    "video_input_id": "1d79e6c5-f1c6-4449-8f2a-f4809258cfb0",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/1d79e6c5-f1c6-4449-8f2a-f4809258cfb0.mp4",
+    "scenes": [
+      {
+        "audio": "David and a business partner review what happens if one of them dies. If the company needs funds to replace the lost services of an essential worker...",
+        "label": "Opening Hook",
+        "visual": "A static shot of a middle-aged couple sitting at a light-colored wooden table in a bright room with natural lighting from a nearby window. On the left, a woman in her early 60s with long, wavy gray hair and tan skin wearing a cream-colored collared shirt is pointing at a white document. On the right, a man in his early 60s with dark skin and a neatly trimmed gray beard, wearing a navy blue polo shirt, rests his chin on his right hand as he looks at the paper. A green ceramic mug sits on the table in the left foreground.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:08",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "...Key person coverage can address that business loss. The business generally owns the policy and receives the benefit under that arrangement.",
+        "label": "Product Information",
+        "visual": "Transition to a split-screen graphic on a light gray background with a dark teal header. A white rectangular box on the left contains text regarding 'Key person' and funding business losses. A second box appears on the right for 'Buy-sell' agreements. The lighting is digital and uniform.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:18",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "A buy-sell agreement addresses a different problem: how an ownership interest will be purchased after a specified event. Life insurance can fund the purchase obligation, but the agreement establishes the transaction.",
+        "label": "Product Selling Points",
+        "visual": "The graphic expands to include a third column titled 'Structure'. The 'Buy-sell' box is now highlighted with a gold border. Handheld-style digital transitions move focus between the boxes. The color palette consists of teal, gold, and dark gray.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:32",
+        "timestamp_start": "0:18"
+      },
+      {
+        "audio": "In a cross-purchase design, the owners typically insure one another. In an entity-purchase design, the business generally owns the policies. Do not assume a key person payment automatically transfers the deceased owner's shares.",
+        "label": "Product Selling Points",
+        "visual": "Focus shifts to the 'Structure' column. Text details how owners or entities hold the policies. The background remains light gray with teal accents. The camera angle is straight-on to the digital graphic.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:46",
+        "timestamp_start": "0:32"
+      },
+      {
+        "audio": "David also has pretax retirement funds in a former employer's 401(k) plan. He considers an eligible direct rollover into a traditional individual retirement account.",
+        "label": "Usage Scenarios",
+        "visual": "New graphic slide with a teal header bar. Box 01 titled 'Former 401(k)' appears on the left with a small teal arrow pointing to the right. The text describes identifying pretax money. The lighting is bright and artificial.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:58",
+        "timestamp_start": "0:46"
+      },
+      {
+        "audio": "Direct payment goes to the eligible receiving arrangement and avoids mandatory 20% withholding. Moving eligible pretax funds into a Roth arrangement instead generally introduces conversion income.",
+        "label": "Usage Scenarios",
+        "visual": "Box 02 titled 'Direct rollover' appears in the center, highlighted with a dark teal background. The graphic explains proper receiving arrangements. The color scheme stays consistent with teal and light gray.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:13",
+        "timestamp_start": "0:58"
+      },
+      {
+        "audio": "If an annuity is used inside the traditional account, the account already provides tax deferral. The annuity must be evaluated for its other actual features, charges, and restrictions.",
+        "label": "Usage Scenarios",
+        "visual": "Box 03 titled 'Annuity funding' appears on the right. The graphic includes details on evaluating features beyond tax deferral. The depth of field is flat across the graphic.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:28",
+        "timestamp_start": "1:13"
+      },
+      {
+        "audio": "Do not describe an additional layer of tax deferral as an automatic benefit of placing an annuity inside an already tax-deferred retirement account.",
+        "label": "Usage Scenarios",
+        "visual": "The full horizontal chain of three boxes is shown. A small disclaimer appears at the bottom. The lighting is soft and even.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:31",
+        "timestamp_start": "1:28"
+      },
+      {
+        "audio": "Rosa and David want reliable retirement income, but also need access to money for near-term expenses and emergencies. A recommendation that commits all their liquid resources to a long surrender schedule may conflict with those needs...",
+        "label": "Problem Solving",
+        "visual": "New graphic slide with a teal header. Box 01 for 'Liquidity' appears, detailing near-term expenses and emergency funds. The palette uses teal, dark gray, and white.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:46",
+        "timestamp_start": "1:31"
+      },
+      {
+        "audio": "...even if its illustrated income looks attractive. Review the actual consumer profile, available alternatives, liquidity, time horizon, costs, surrender terms, and the features supporting the recommendation.",
+        "label": "Problem Solving",
+        "visual": "Box 02 for 'Contract' appears in the middle, detailing surrender terms and features. The graphics animate in from left to right with smooth digital transitions.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "2:01",
+        "timestamp_start": "1:46"
+      },
+      {
+        "audio": "For a covered Maryland annuity recommendation, best interest includes the required care, disclosure, conflict, and documentation duties. An agent's compensation cannot be the reason to put the consumer's interest second.",
+        "label": "Problem Solving",
+        "visual": "Box 03 for 'Recommendation' appears, focusing on Maryland annuity duties such as care, disclosure, and records. The background is a clean, pale gray.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "2:16",
+        "timestamp_start": "2:01"
+      },
+      {
+        "audio": "The worksheet should explain why this specific arrangement fits the known circumstances, including what resources remain available after the purchase.",
+        "label": "Problem Solving",
+        "visual": "The graphic highlights a summary text at the bottom regarding fitting known circumstances. The colors are highly saturated teal and gold accents.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:26",
+        "timestamp_start": "2:16"
+      },
+      {
+        "audio": "Compare two fictional income quotes with identical starting funds and no other features. Pure life pays $900 monthly while Rosa lives and stops at her death. A life option with a 10-year certain period pays $850 monthly...",
+        "label": "Real Experience",
+        "visual": "New graphic showing two income comparison boxes: 'Pure life: $900' and 'Life + 10 years: $850'. The first box is highlighted. The palette remains consistent with previous slides.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:41",
+        "timestamp_start": "2:26"
+      },
+      {
+        "audio": "...continuing for her life and guaranteeing the stated minimum payment period. If she dies after exactly 24 monthly payments, under the second option, 96 guaranteed monthly payments remain for the beneficiary.",
+        "label": "Real Experience",
+        "visual": "Focus shifts to the 'Life + 10 years' box. A third box titled 'Death after payment 24' appears on the right, showing 96 guaranteed payments remain. The transition is a digital slide to the right.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "2:56",
+        "timestamp_start": "2:41"
+      },
+      {
+        "audio": "If she lives beyond 10 years, her lifetime payments continue. The certain period is a minimum guarantee, not the end of lifetime income.",
+        "label": "Real Experience",
+        "visual": "Text within the boxes updates to discuss lifetime payments continuing beyond 10 years. The layout is balanced with three white boxes over the light gray background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "3:11",
+        "timestamp_start": "2:56"
+      },
+      {
+        "audio": "The quoted amounts are teaching assumptions. Actual rates depend on the contract and its pricing.",
+        "label": "Real Experience",
+        "visual": "The graphic remains static while a bottom disclaimer about actual rates appearing in teal text at the bottom. Lighting is uniform and shadowless.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:18",
+        "timestamp_start": "3:11"
+      },
+      {
+        "audio": "Now consider David's separate personally owned non-qualified annuity issued in 2020. It has a $90,000 value and $60,000 of adjusted investment, with no earlier withdrawals, debt, or other adjustments.",
+        "label": "Usage Scenarios",
+        "visual": "New graphic slide with a teal header about personal-annuity withdrawals. Three boxes appear: left side showing $90,000 value and $60,000 investment. The background is pale gray.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:33",
+        "timestamp_start": "3:18"
+      },
+      {
+        "audio": "Before annuitization, he takes an ordinary $20,000 partial withdrawal. The $30,000 of gain is reached first, so the full $20,000 withdrawn is taxable income under these facts.",
+        "label": "Usage Scenarios",
+        "visual": "The middle box titled '$20,000 paid' is highlighted in dark teal. The text explains the taxable nature of the partial withdrawal. The camera angle is static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "3:48",
+        "timestamp_start": "3:33"
+      },
+      {
+        "audio": "David is 64, so the ordinary age-based 10% additional tax does not apply, but the income tax remains. This is different from a properly qualifying exchange of the annuity into another annuity.",
+        "label": "Usage Scenarios",
+        "visual": "The right box titled 'Age 64' appears, detailing the lack of a 10% tax penalty. A final transition adds text about annuity exchanges at the bottom. The color palette is teal, gold, and dark gray.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "4:03",
+        "timestamp_start": "3:48"
+      },
+      {
+        "audio": "That exchange can defer current gain recognition while carrying forward the relevant investment, rather than creating fresh after-tax basis at current value.",
+        "label": "Usage Scenarios",
+        "visual": "The graphic showing the exchange details is held on screen. Digital text populates the bottom area of the slide.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "4:06",
+        "timestamp_start": "4:03"
+      },
+      {
+        "audio": "Across these cases, begin by identifying the person or business being protected and the event that causes payment.",
+        "label": "Call to Action",
+        "visual": "Return to the couple, Rosa and David, from Scene 1 in the same setting. Rosa is still pointing at the document while David listens intently. The lighting is warm and natural.",
+        "shot_type": "Medium Shot",
+        "scene_number": 21,
+        "timestamp_end": "4:14",
+        "timestamp_start": "4:06"
+      },
+      {
+        "audio": "Next identify the legal arrangement: who owns it, who receives the benefit, and which money is pre-tax or after-tax. Then apply the actual time limit, contract provision, or Maryland duty before doing the arithmetic.",
+        "label": "Call to Action",
+        "visual": "Final summary slide with a list of four steps: 01 Purpose and event, 02 Arrangement and roles, 03 Applicable rule, and 04 Practice. The header is teal, background is pale gray.",
+        "shot_type": "Wide Shot",
+        "scene_number": 22,
+        "timestamp_end": "4:29",
+        "timestamp_start": "4:14"
+      },
+      {
+        "audio": "Read the question's assumptions instead of carrying a rule from a different product into the scenario. During time practice, flag difficult questions and return with the remaining time.",
+        "label": "Call to Action",
+        "visual": "The focus moves to the 'Practice' box at the bottom. The graphic remains static as text highlights the importance of time practice. Colors are teal and dark gray.",
+        "shot_type": "Wide Shot",
+        "scene_number": 23,
+        "timestamp_end": "4:44",
+        "timestamp_start": "4:29"
+      },
+      {
+        "audio": "Then review missed answers and the linked lessons. Course completion records study progress, applying knowledge to fresh questions, tests, understanding.",
+        "label": "Call to Action",
+        "visual": "The final slide is shown in full. The teal 'AMG LIFE' logo is visible in the top left. The digital lighting is flat and uniform.",
+        "shot_type": "Wide Shot",
+        "scene_number": 24,
+        "timestamp_end": "4:52",
+        "timestamp_start": "4:44"
+      }
+    ]
+  }
+}

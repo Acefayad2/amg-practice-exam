@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "date": "2026-09-12",
+  "originalItems": 302,
+  "forms": [
+    {
+      "id": "D",
+      "questions": 32,
+      "scored": 32,
+      "minutes": 0,
+      "allocation": [
+        {
+          "title": "Maryland regulation",
+          "scored": 4
+        },
+        {
+          "title": "General insurance",
+          "scored": 4
+        },
+        {
+          "title": "Life foundations",
+          "scored": 4
+        },
+        {
+          "title": "Policy types",
+          "scored": 4
+        },
+        {
+          "title": "Provisions, options and riders",
+          "scored": 4
+        },
+        {
+          "title": "Annuities",
+          "scored": 4
+        },
+        {
+          "title": "Federal taxation",
+          "scored": 4
+        },
+        {
+          "title": "Qualified plans",
+          "scored": 4
+        }
+      ]
+    },
+    {
+      "id": "A",
+      "questions": 90,
+      "scored": 80,
+      "minutes": 105,
+      "allocation": [
+        {
+          "title": "Maryland regulation",
+          "scored": 24
+        },
+        {
+          "title": "General insurance",
+          "scored": 8
+        },
+        {
+          "title": "Life foundations",
+          "scored": 14
+        },
+        {
+          "title": "Policy types",
+          "scored": 8
+        },
+        {
+          "title": "Provisions, options and riders",
+          "scored": 11
+        },
+        {
+          "title": "Annuities",
+          "scored": 7
+        },
+        {
+          "title": "Federal taxation",
+          "scored": 6
+        },
+        {
+          "title": "Qualified plans",
+          "scored": 2
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "questions": 90,
+      "scored": 80,
+      "minutes": 105,
+      "allocation": [
+        {
+          "title": "Maryland regulation",
+          "scored": 24
+        },
+        {
+          "title": "General insurance",
+          "scored": 8
+        },
+        {
+          "title": "Life foundations",
+          "scored": 14
+        },
+        {
+          "title": "Policy types",
+          "scored": 8
+        },
+        {
+          "title": "Provisions, options and riders",
+          "scored": 11
+        },
+        {
+          "title": "Annuities",
+          "scored": 7
+        },
+        {
+          "title": "Federal taxation",
+          "scored": 6
+        },
+        {
+          "title": "Qualified plans",
+          "scored": 2
+        }
+      ]
+    },
+    {
+      "id": "C",
+      "questions": 90,
+      "scored": 80,
+      "minutes": 105,
+      "allocation": [
+        {
+          "title": "Maryland regulation",
+          "scored": 24
+        },
+        {
+          "title": "General insurance",
+          "scored": 8
+        },
+        {
+          "title": "Life foundations",
+          "scored": 14
+        },
+        {
+          "title": "Policy types",
+          "scored": 8
+        },
+        {
+          "title": "Provisions, options and riders",
+          "scored": 11
+        },
+        {
+          "title": "Annuities",
+          "scored": 7
+        },
+        {
+          "title": "Federal taxation",
+          "scored": 6
+        },
+        {
+          "title": "Qualified plans",
+          "scored": 2
+        }
+      ]
+    }
+  ]
+}

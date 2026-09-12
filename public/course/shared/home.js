@@ -14,7 +14,7 @@
   document.getElementById('course-progress').textContent=count+' of '+rows.length+' available lessons completed'+(available?' · Saved in this browser':' · Saved progress is unavailable');
   const link=document.getElementById('continue-course');
   if(next){link.href=next.querySelector('a').getAttribute('href');link.textContent=count?'Continue with Part '+Number(next.dataset.lesson)+' →':'Start with Part 1 →';}
-  else{link.href='#lessons';link.textContent='Review your lessons →';}
+  else{link.href='/course/assessments/';link.textContent='Open practice and review →';}
  }
  window.addEventListener('pageshow',refresh);window.addEventListener('storage',refresh);refresh();
 })();

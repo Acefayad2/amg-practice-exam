@@ -1,0 +1,282 @@
+{
+  "result": {
+    "id": "5d652563-6c6f-42a6-abf9-8f53fc0dcb49",
+    "video_input_id": "df24e059-6e7d-4e8d-ad6c-3aaf01846af9",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/df24e059-6e7d-4e8d-ad6c-3aaf01846af9.mp4",
+    "scenes": [
+      {
+        "audio": "Marcus wants to save part of his earnings in a traditional individual retirement arrangement, usually called an IRA.",
+        "label": "Opening Hook",
+        "visual": "A static shot of a couple, Marcus and Elena, seated at a wooden table in a brightly lit kitchen. Marcus is a Black man in his mid-40s with a neat beard and short hair, wearing a navy blue long-sleeved shirt. Elena is a mixed-race woman in her mid-30s with long, dark wavy hair, wearing a sage green blouse. Marcus holds a white document and points to a line with his left index finger as they both look at it. A silver laptop is open to their left, and a dark notepad sits in the foreground. The lighting is warm and natural from a side window, with soft shadows. The background is a modern kitchen with white cabinetry and a window overlooking greenery.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:07",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "It can be established through an eligible financial institution, including an insurance company.",
+        "label": "Product Information",
+        "visual": "Graphic animation on a white background. Three colored rectangles slide into the frame horizontally. The first is a light teal card labeled 'Individual ownership'. The second is a beige card labeled 'Compensation'. The third is a dark navy card labeled 'Age'. The layout is balanced and clean with serif typography.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:13",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "The account is individually owned, even when spouses use a joint tax return.",
+        "label": "Product Selling Points",
+        "visual": "A static graphic focusing on the teal 'Individual ownership' card. Text beneath the header states that each spouse has a separate account. The colors are muted and professional, with high contrast between the dark text and light card background.",
+        "shot_type": "Medium Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:18",
+        "timestamp_start": "0:14"
+      },
+      {
+        "audio": "Eligibility for a regular contribution generally requires qualifying compensation, such as wages or net self-employment income. A pension check or investment interest is not automatically that compensation.",
+        "label": "Product Selling Points",
+        "visual": "Static graphic focusing on the beige 'Compensation' card. The card details that qualifying earned amounts are generally required for contributions. The background remains white and sterile with no movement.",
+        "shot_type": "Medium Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:31",
+        "timestamp_start": "0:19"
+      },
+      {
+        "audio": "There is no upper age cutoff for regular contributions under current law, but the other requirements remain.",
+        "label": "Product Selling Points",
+        "visual": "Static graphic focusing on the navy 'Age' card. Text indicates there is no current upper contribution-age cutoff. The navy card has white text for legibility.",
+        "shot_type": "Medium Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:38",
+        "timestamp_start": "0:32"
+      },
+      {
+        "audio": "A spousal contribution can be possible on a joint return using qualifying combined compensation. It still goes into a separate individual arrangement.",
+        "label": "Usage Scenarios",
+        "visual": "The camera zooms out to show all three cards (teal, beige, navy) aligned in a row on the white background. The composition is symmetrical and minimalist.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "0:47",
+        "timestamp_start": "0:39"
+      },
+      {
+        "audio": "For tax year 2026, the general combined limit for regular traditional and Roth IRA contributions is $7,500, or qualifying compensation if that is less.",
+        "label": "Product Information",
+        "visual": "A new graphic appears on the white background. Three new cards slide in: one teal card showing the year '2026' and a limit of '$7,500', a navy card for 'Age 50+', and a teal card for 'Compensation limit'. The transition is a quick horizontal slide.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "0:59",
+        "timestamp_start": "0:48"
+      },
+      {
+        "audio": "Someone age 50 or older can have an additional $1,100 catch-up, making the general dollar limit $8,600.",
+        "label": "Product Selling Points",
+        "visual": "A static graphic highlighting the middle navy card labeled 'Age 50+'. Text shows a '+$1,100' catch-up amount and an '$8,600' general dollar limit. The font is clean and dark against the light background elements.",
+        "shot_type": "Medium Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:07",
+        "timestamp_start": "1:00"
+      },
+      {
+        "audio": "Suppose Marcus is 45 and has only $4,000 of qualifying compensation, with no spousal rule. His regular contribution limit is $4,000.",
+        "label": "Usage Scenarios",
+        "visual": "The full three-card graphic view remains static. The color palette is consistent with teal and navy tones on a white base.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:16",
+        "timestamp_start": "1:08"
+      },
+      {
+        "audio": "If he has enough compensation and contributes $3,000 to a traditional account, that generally leaves $4,500 of the combined annual limit before checking Roth income restrictions.",
+        "label": "Usage Scenarios",
+        "visual": "The graphic remains static while the narrator continues the hypothetical scenario. The lighting is artificial and perfectly even across the frame.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "1:27",
+        "timestamp_start": "1:17"
+      },
+      {
+        "audio": "A traditional IRA contribution may be fully deductible, partly deductible, or non-deductible. Workplace retirement coverage, filing status, and modified adjusted gross income affect the deduction rules.",
+        "label": "Product Information",
+        "visual": "A flowchart graphic appears. A white card labeled 'Contribution' connects with a teal arrow to a navy card labeled 'Deduction', which then connects to a teal card labeled 'Basis record'. The background is white.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "1:42",
+        "timestamp_start": "1:28"
+      },
+      {
+        "audio": "Being covered by an employer plan does not by itself prohibit a regular traditional contribution. It can instead limit the deduction.",
+        "label": "Product Selling Points",
+        "visual": "The graphic focuses on the navy 'Deduction' box. Text inside mentions coverage, income, and filing status as factors. The layout remains static.",
+        "shot_type": "Medium Shot",
+        "scene_number": 12,
+        "timestamp_end": "1:50",
+        "timestamp_start": "1:43"
+      },
+      {
+        "audio": "If neither spouse is covered by a workplace plan, those income phase-outs for deducting contributions do not apply, although contribution limits still do.",
+        "label": "Product Selling Points",
+        "visual": "A static shot of the deduction graphic. The teal arrows are thick and have sharp edges, guiding the eye across the white space.",
+        "shot_type": "Medium Shot",
+        "scene_number": 13,
+        "timestamp_end": "1:59",
+        "timestamp_start": "1:51"
+      },
+      {
+        "audio": "A permitted non-deductible contribution must be tracked as basis, generally using form 8606.",
+        "label": "Product Selling Points",
+        "visual": "The graphic focuses on the third box, 'Basis record', a teal card that advises tracking non-deductible amounts. The design is minimalist.",
+        "shot_type": "Medium Shot",
+        "scene_number": 14,
+        "timestamp_end": "2:07",
+        "timestamp_start": "2:00"
+      },
+      {
+        "audio": "Keep that record so after-tax money is not taxed again. Contribution eligibility and deduction eligibility are separate exam questions.",
+        "label": "Product Selling Points",
+        "visual": "The camera zooms back to the full flowchart. The contrast between the teal, navy, and white is high and clean.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "2:17",
+        "timestamp_start": "2:08"
+      },
+      {
+        "audio": "Growth in a traditional IRA generally is not taxed annually while it stays inside the arrangement. If it contains only deductible contributions and untaxed earnings, an ordinary distribution generally is fully taxable income.",
+        "label": "Product Information",
+        "visual": "A new graphic set of three cards appears: a white card for 'All pretax funds', a teal card for 'After-tax basis', and a beige card showing a '$6,000 x 10%' calculation. The cards appear in sequence from left to right.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "2:32",
+        "timestamp_start": "2:18"
+      },
+      {
+        "audio": "Buying an annuity inside that account does not create an after-tax investment that never existed.",
+        "label": "Product Selling Points",
+        "visual": "Static graphic shot focusing on the transition between the pretax and after-tax concepts. The lighting is perfectly flat on the 2D plane.",
+        "shot_type": "Medium Shot",
+        "scene_number": 17,
+        "timestamp_end": "2:40",
+        "timestamp_start": "2:33"
+      },
+      {
+        "audio": "If non-deductible amounts are present, the required allocation can make distributions partly taxable. The owner cannot simply choose to withdraw only basis from one account.",
+        "label": "Product Selling Points",
+        "visual": "The graphic focuses on the teal 'After-tax basis' card, detailing required allocations and records. The typography is a dark grey serif font.",
+        "shot_type": "Medium Shot",
+        "scene_number": 18,
+        "timestamp_end": "2:50",
+        "timestamp_start": "2:41"
+      },
+      {
+        "audio": "A taxable $6,000 distribution at age 45, with no exception, generally also produces $600 of additional federal tax.",
+        "label": "Usage Scenarios",
+        "visual": "Static focus on the beige calculation card: '$6,000 x 10% = $600 additional tax'. The text is large and centered in the card.",
+        "shot_type": "Medium Shot",
+        "scene_number": 19,
+        "timestamp_end": "3:00",
+        "timestamp_start": "2:51"
+      },
+      {
+        "audio": "An exception to that additional tax does not automatically remove ordinary income tax.",
+        "label": "Product Selling Points",
+        "visual": "The graphic shows all three cards together again on the white background. The composition is horizontally aligned.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "3:06",
+        "timestamp_start": "3:01"
+      },
+      {
+        "audio": "Consider an owner who turns 73 during 2026. The first traditional IRA required minimum distribution is for that year and generally must be taken by April 1st of 2027.",
+        "label": "Product Information",
+        "visual": "A timeline graphic flowchart appears. Box 1: 'Turns 73 in 2026', Box 2: 'April 1, 2027', Box 3: 'December 31, 2027'. Teal arrows connect the cards on a white background. The first card is white, the second is grey, and the third is teal.",
+        "shot_type": "Wide Shot",
+        "scene_number": 21,
+        "timestamp_end": "3:19",
+        "timestamp_start": "3:07"
+      },
+      {
+        "audio": "The next year's required distribution is due by December 31st of 2027, so delaying the first payment can put both in one tax year.",
+        "label": "Product Selling Points",
+        "visual": "The graphic focuses on the transition between the second and third boxes. The colors are muted and professional.",
+        "shot_type": "Medium Shot",
+        "scene_number": 22,
+        "timestamp_end": "3:29",
+        "timestamp_start": "3:20"
+      },
+      {
+        "audio": "Continuing to work does not postpone this traditional account requirement. Use the applicable birth year rule rather than memorizing age 70 and 1/2 from old material. Current law also schedules age 75 for younger cohorts.",
+        "label": "Product Selling Points",
+        "visual": "Static view of the full RMD timeline flowchart. The background is clean white with no secondary textures.",
+        "shot_type": "Wide Shot",
+        "scene_number": 23,
+        "timestamp_end": "3:45",
+        "timestamp_start": "3:30"
+      },
+      {
+        "audio": "A required minimum distribution is a minimum withdrawal requirement, not an instruction to surrender every annuity or spend the entire account.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains static as the narrator finishes the point on distributions. The lighting remains perfectly consistent.",
+        "shot_type": "Wide Shot",
+        "scene_number": 24,
+        "timestamp_end": "3:55",
+        "timestamp_start": "3:46"
+      },
+      {
+        "audio": "A surviving spouse can have choices that a non-spouse beneficiary does not, including an eligible election to treat an inherited account as their own.",
+        "label": "Real Experience",
+        "visual": "Return to the scene with Marcus and Elena. Marcus is in the same navy shirt and Elena in the sage green blouse. They are still seated at the same table, looking closely at the document Marcus is holding. The lighting is warm and natural, casting soft shadows to the left. The background is the same kitchen with white cabinets.",
+        "shot_type": "Medium Shot",
+        "scene_number": 25,
+        "timestamp_end": "4:03",
+        "timestamp_start": "3:56"
+      },
+      {
+        "audio": "Many adult non-spouse designated beneficiaries instead face a 10-year distribution deadline. Do not assume that means no earlier annual payments.",
+        "label": "Product Information",
+        "visual": "A vertical list graphic appears on a white background. Four items labeled 01 through 04 appear in sequence: 'Spouse', 'Other beneficiary', 'Timing', 'Tax'. The items are in a dark grey serif font with small teal numbers in circles.",
+        "shot_type": "Wide Shot",
+        "scene_number": 26,
+        "timestamp_end": "4:12",
+        "timestamp_start": "4:04"
+      },
+      {
+        "audio": "The owner's required beginning date and beneficiary category matter.",
+        "label": "Product Selling Points",
+        "visual": "The graphic zooms in on the middle items 'Other beneficiary' and 'Timing'. The color palette is restricted to teal, grey, and white.",
+        "shot_type": "Medium Shot",
+        "scene_number": 27,
+        "timestamp_end": "4:20",
+        "timestamp_start": "4:13"
+      },
+      {
+        "audio": "For an owner dying after the required beginning date, annual beneficiary distributions generally continue as well as the applicable 10th-year deadline.",
+        "label": "Product Selling Points",
+        "visual": "The camera pans slightly down to the last item 'Tax'. The white background is flat with no shadows or depth.",
+        "shot_type": "Medium Shot",
+        "scene_number": 28,
+        "timestamp_end": "4:30",
+        "timestamp_start": "4:21"
+      },
+      {
+        "audio": "A beneficiary's receipt of traditional account earnings is not automatically excluded life insurance proceeds.",
+        "label": "Product Selling Points",
+        "visual": "The full four-point list is shown in a wide static shot. The layout is clean and corporate.",
+        "shot_type": "Wide Shot",
+        "scene_number": 29,
+        "timestamp_end": "4:40",
+        "timestamp_start": "4:31"
+      },
+      {
+        "audio": "Identify the owner's death date, remaining basis, beneficiary relationship, and applicable category before selecting a payout rule.",
+        "label": "Call to Action",
+        "visual": "Final static view of the beneficiary information list. The white background remains bright and even until the fade to black.",
+        "shot_type": "Wide Shot",
+        "scene_number": 30,
+        "timestamp_end": "4:48",
+        "timestamp_start": "4:41"
+      }
+    ]
+  }
+}

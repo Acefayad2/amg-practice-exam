@@ -1,0 +1,228 @@
+{
+  "result": {
+    "id": "bcf023dd-e666-49b1-bbcc-0b60d4cf7e27",
+    "video_input_id": "b1fe1137-cad7-42c1-b912-82169260bd44",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/b1fe1137-cad7-42c1-b912-82169260bd44.mp4",
+    "scenes": [
+      {
+        "audio": "Marcus wants to pay a large premium into a cash value life policy. The funding pattern can affect whether it becomes a modified endowment contract, usually called a MEC.",
+        "label": "Opening Hook",
+        "visual": "A man and a woman sit at a wooden dining table in a bright, modern kitchen. The man, approximately 45 years old with dark skin, short black hair, and a trimmed beard, wears a navy blue button-down shirt. The woman, approximately 40 years old with a light complexion and long dark hair, wears an olive green shirt. They are both looking down at a white document held by the woman. A silver laptop is open on the left. The background is a softly blurred kitchen with white tiles and a fruit bowl. Lighting is warm, soft, and natural from the side.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:08",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "A MEC still meets the federal definition of life insurance, but it fails the applicable seven-pay funding test or comes from an exchange of another MEC.",
+        "label": "Product Information",
+        "visual": "A clean graphic screen with a cream background and a dark green top border. A white rectangular card with a thin green border appears on the left, displaying text about life insurance definitions. The layout is minimalist and corporate. Lighting is flat and digital.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:22",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "Its living distributions receive different tax treatment. MEC status does not by itself remove the ordinary income tax exclusion for a qualifying death benefit,",
+        "label": "Product Information",
+        "visual": "The graphic remains; a second white card titled 'MEC status' slides in from the right, followed by a third card titled 'Access taxes'. Each card populates with specific tax-related bullet points. The background remains cream with dark green accents.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:35",
+        "timestamp_start": "0:22"
+      },
+      {
+        "audio": "nor does it automatically require annual tax on all inside growth. Identify the transaction: paying a premium, receiving a withdrawal, taking a loan, or receiving a death payment.",
+        "label": "Product Information",
+        "visual": "The screen focuses on the third card, 'Access taxes', as more bullet points appear at the bottom. The camera is static. The color palette is high-contrast cream and dark green.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:46",
+        "timestamp_start": "0:35"
+      },
+      {
+        "audio": "The seven-pay test compares premiums paid with the cumulative amount allowed at each point during the testing period. It is based on the actuarially determined premiums for paid-up future benefits after seven level annual payments.",
+        "label": "Product Selling Points",
+        "visual": "A new graphic screen appears. A large white card on the left shows the figure '$20,000'. Text describing the seven-pay test appears above the cards. The design is identical in style to the previous scenes, maintaining a professional, flat aesthetic.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "1:00",
+        "timestamp_start": "0:46"
+      },
+      {
+        "audio": "It is not simply the premium Marcus prefers or one-seventh of the death benefit. Suppose the facts give a $10,000 seven-pay annual limit and a $20,000 cumulative limit at the end of year two. Total counted premiums of $22,000 exceed that stated cumulative limit by $2,000.",
+        "label": "Product Selling Points",
+        "visual": "Additional cards with '$22,000' and '$2,000 over' slide into view horizontally. The graphic uses green and red text to highlight the comparison of premium limits. Background remains consistent cream.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:15",
+        "timestamp_start": "1:00"
+      },
+      {
+        "audio": "Unless an applicable correction or other rule changes the facts, the funding test fails. Use the supplied limit rather than inventing an actuarial calculation.",
+        "label": "Product Selling Points",
+        "visual": "The graphic updates to show summary text regarding the failure of the funding test. The layout remains balanced with clean, sharp typography.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:25",
+        "timestamp_start": "1:15"
+      },
+      {
+        "audio": "Passing the first seven years does not make every later policy change irrelevant. A material change can cause a new testing period with required adjustments.",
+        "label": "Product Selling Points",
+        "visual": "A flow chart graphic appears. A box labeled '01 Change requested' points to '02 Insurer review' with an arrow. The camera is static, focusing on the step-by-step process representation.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:39",
+        "timestamp_start": "1:25"
+      },
+      {
+        "audio": "Certain benefit reductions can require recalculation using the lower benefit. Once MEC status applies, merely waiting until year eight or repaying a loan does not automatically remove it.",
+        "label": "Product Selling Points",
+        "visual": "The flow chart completes with '03 Status confirmed'. Additional explanatory text boxes appear below the main flow, detailing benefit reductions and status permanence.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:53",
+        "timestamp_start": "1:39"
+      },
+      {
+        "audio": "A life policy received in exchange for a MEC is also a MEC under the exchange rule. The law provides specified procedures for timely return of excess premiums and other correction situations.",
+        "label": "Product Selling Points",
+        "visual": "Text boxes slide upward to make room for new information regarding the exchange rule. The interface maintains its dark green and cream theme with smooth animations.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "2:05",
+        "timestamp_start": "1:53"
+      },
+      {
+        "audio": "But an ordinary withdrawal is not a universal cure. Ask the insurer to determine status and permitted correction before promising the tax result of a funding change.",
+        "label": "Product Selling Points",
+        "visual": "A final summary box appears at the bottom of the screen emphasizing the need for insurer determination. The graphic remains perfectly static for the final duration of the point.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "2:15",
+        "timestamp_start": "2:05"
+      },
+      {
+        "audio": "Compare two teaching policies, each with $70,000 of cash value and $50,000 of adjusted investment. Each therefore has $20,000 of gain.",
+        "label": "Usage Scenarios",
+        "visual": "A comparison table graphic appears. On the left, a column lists values: $70,000 and $50,000, resulting in a $20,000 available gain highlighted in green. The design is bright and mathematical.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:28",
+        "timestamp_start": "2:15"
+      },
+      {
+        "audio": "Assume an ordinary $15,000 withdrawal from the non-MEC occurs after the first 15 policy years, with no special rule or other adjustment. It is a basis recovery under those assumptions.",
+        "label": "Usage Scenarios",
+        "visual": "A middle column labeled 'Non-MEC' appears, showing the result of a $15,000 withdrawal as 'basis recovery'. Simple, flat graphics and clear labels aid the comparison.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:41",
+        "timestamp_start": "2:28"
+      },
+      {
+        "audio": "Now apply the same withdrawal to the MEC. Its earnings-first rule makes the $15,000 taxable ordinary income because $20,000 of gain is available.",
+        "label": "Usage Scenarios",
+        "visual": "A right column labeled 'MEC' appears, showing the same $15,000 withdrawal as 'entirely gain'. Red text highlights the difference in tax treatment between the two scenarios.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "2:52",
+        "timestamp_start": "2:41"
+      },
+      {
+        "audio": "If the MEC withdrawal instead totals $25,000, the first $20,000 is gain and the remaining $5,000 recovers basis.",
+        "label": "Usage Scenarios",
+        "visual": "The MEC column updates to show a $25,000 withdrawal scenario, splitting it into $20,000 gain and $5,000 basis. The numbers are bold and easy to read against the cream background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "3:02",
+        "timestamp_start": "2:52"
+      },
+      {
+        "audio": "A MEC loan generally is treated as a distribution for federal tax purposes. Using the same $70,000 value and $50,000 adjusted investment,",
+        "label": "Product Selling Points",
+        "visual": "A new three-column graphic appears titled 'Calling it a loan does not avoid MEC treatment'. Boxes for 'Non-MEC loan', 'MEC loan', and 'Contract effects' slide into position.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:15",
+        "timestamp_start": "3:02"
+      },
+      {
+        "audio": "a $15,000 loan is taxable to the extent of the available gain under the stated assumptions. Assigning or pledging value can also trigger distribution treatment, subject to specific exceptions.",
+        "label": "Product Selling Points",
+        "visual": "Bullet points appear under each column header, explaining the specific tax treatment and pledge consequences. The animation is a simple vertical slide of text.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:28",
+        "timestamp_start": "3:15"
+      },
+      {
+        "audio": "This differs from an ordinary loan under an in-force non-MEC policy. The tax classification does not eliminate the actual loan balance, interest, or effect on insurance benefits. Keep those contract consequences separate.",
+        "label": "Product Selling Points",
+        "visual": "The right-most column, 'Contract effects', is highlighted with a slight zoom animation. The text details debt, interest, and benefit impacts. The color scheme remains consistent.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "3:40",
+        "timestamp_start": "3:28"
+      },
+      {
+        "audio": "Also track prior taxable amounts so a later distribution calculation does not simply tax the same amount twice.",
+        "label": "Product Selling Points",
+        "visual": "A summary warning appears at the bottom of the screen regarding double taxation. The camera remains static on the final graphic state.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "3:51",
+        "timestamp_start": "3:40"
+      },
+      {
+        "audio": "Assume Marcus is 45 and receives a MEC distribution with $15,000 of taxable gain, with no applicable exception.",
+        "label": "Real Experience",
+        "visual": "Returns to the kitchen scene from scene 1. The man and woman are still at the table, now looking at each other as if discussing the paper. The woman gestures slightly with the document. The lighting and background are unchanged.",
+        "shot_type": "Medium Shot",
+        "scene_number": 20,
+        "timestamp_end": "3:59",
+        "timestamp_start": "3:51"
+      },
+      {
+        "audio": "The additional federal tax is 10% of that taxable amount, or $1,500, on top of the ordinary income tax. It is not 10% of the entire policy value.",
+        "label": "Product Selling Points",
+        "visual": "A graphic showing the 10% tax calculation appears. '$15,000' is multiplied by '10%' to reach '$1,500'. The numbers are large and centered on the cream screen with a dark green border.",
+        "shot_type": "Wide Shot",
+        "scene_number": 21,
+        "timestamp_end": "4:11",
+        "timestamp_start": "3:59"
+      },
+      {
+        "audio": "The additional tax rule has exceptions, including distributions at age 59 and a half or later, qualifying disability and qualifying substantially equal periodic payments.",
+        "label": "Product Selling Points",
+        "visual": "A list of exceptions appears in a bulleted format under the main calculation. The text is crisp and dark green, filling the right half of the screen.",
+        "shot_type": "Wide Shot",
+        "scene_number": 22,
+        "timestamp_end": "4:23",
+        "timestamp_start": "4:11"
+      },
+      {
+        "audio": "An exception to the additional tax does not automatically remove ordinary income tax on the gain.",
+        "label": "Product Selling Points",
+        "visual": "The calculation and exceptions list stay on screen, while a bottom banner emphasizing the persistence of ordinary income tax appears. The layout remains clean and structured.",
+        "shot_type": "Wide Shot",
+        "scene_number": 23,
+        "timestamp_end": "4:32",
+        "timestamp_start": "4:23"
+      },
+      {
+        "audio": "On an exam, establish MEC status, calculate the gain portion, then check age and the actual exception before calculating the extra tax.",
+        "label": "Call to Action",
+        "visual": "The final graphic screen displays a numbered checklist (1, 2, 3) for students or professionals to follow. The brand logo is visible in the bottom corner. The screen remains static until fade out.",
+        "shot_type": "Wide Shot",
+        "scene_number": 24,
+        "timestamp_end": "4:40",
+        "timestamp_start": "4:32"
+      }
+    ]
+  }
+}

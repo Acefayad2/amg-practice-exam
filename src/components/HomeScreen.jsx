@@ -18,7 +18,7 @@ export default function HomeScreen({ exams, onStart }) {
           Practice Exam Center
         </h1>
         <p style={{ color: '#4a5568', fontSize: 16, maxWidth: 480, margin: '0 auto' }}>
-          Practice for Maryland insurance producer licensing. Explore the 60-part life course or use the separate untimed practice drill.
+          Practice for Maryland insurance producer licensing. Explore the 60-part life course, three timed life exams or the separate untimed practice drill.
         </p>
       </div>
 
@@ -29,6 +29,8 @@ export default function HomeScreen({ exams, onStart }) {
         <strong style={{ display: 'block', fontSize: 18 }}>Watch the Life Insurance Video Course →</strong>
         <span style={{ display: 'block', marginTop: 6, fontSize: 14 }}>60 parts · Maryland life concepts, client scenarios and required lesson questions</span>
       </a>
+
+      <a href="/course/assessments/" style={{ color: BLUE, fontWeight: 700, marginBottom: 28 }}>Life diagnostic, timed exams & review dashboard →</a>
 
       {/* Exam Cards */}
       <div style={{ display: 'flex', gap: 24, flexWrap: 'wrap', justifyContent: 'center', maxWidth: 800 }}>

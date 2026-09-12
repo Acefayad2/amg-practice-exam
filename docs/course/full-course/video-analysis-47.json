@@ -1,0 +1,192 @@
+{
+  "result": {
+    "id": "97c7d3f8-684e-4d67-a9a4-53499427c714",
+    "video_input_id": "208aa6ee-0d47-4b92-a3a1-b5bff3fc57e0",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/208aa6ee-0d47-4b92-a3a1-b5bff3fc57e0.mp4",
+    "scenes": [
+      {
+        "audio": "Rosa compares three ways an annuity can develop value. One credits interest declared by the insurer.",
+        "label": "Opening Hook",
+        "visual": "A man and woman are seated at a dark wooden table in a brightly lit room. The woman, approximately 65 years old with tan skin and shoulder-length wavy gray hair, wears a cream-colored button-up blouse. The man, approximately 70 years old with dark skin, a short gray beard, and short gray hair, wears a maroon polo shirt. He holds a white sheet of paper that they both look at intently. The woman points at the paper with her right hand. The lighting is soft and warm, coming from the side and back, creating a cozy domestic atmosphere. The background is a soft-focus living room with a tan couch and indoor plants.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:08",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "Another uses selected investment portfolios. A third calculates interest using a market index and a contract formula.",
+        "label": "Product Information",
+        "visual": "A minimalist graphic interface on a light beige background. Two rows of a table appear. The first row is labeled 'Fixed' in a green box, and the second row is labeled 'Variable' in a light blue box. The lighting across the graphic is even and artificial. To the left is a vertical dark teal sidebar.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:23",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "The key question is who bears the investment risk, and exactly what is guaranteed. Income timing is a different classification.",
+        "label": "Product Information",
+        "visual": "The graphic table expands to include a third and fourth row. The third row is labeled 'Indexed' in a light teal box, and the fourth row is labeled 'Early access' in a yellow-green box. The design is clean with plenty of white space between rows. The dark teal sidebar remains static on the left.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:38",
+        "timestamp_start": "0:23"
+      },
+      {
+        "audio": "Fixed, indexed, or variable describes the design, while immediate or deferred describes when income starts. An early withdrawal can also produce a market value adjustment under some contracts.",
+        "label": "Product Information",
+        "visual": "The same graphic table is fully populated. Small numeric labels '01' through '04' are visible next to the category names. The background remains a consistent off-white/beige color with flat lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:51",
+        "timestamp_start": "0:38"
+      },
+      {
+        "audio": "Keep the source of growth, minimum promise, withdrawal rules, and selected income benefit separate when comparing these choices. A traditional fixed annuity is supported by the insurer's general account.",
+        "label": "Product Selling Points",
+        "visual": "A new graphic appears focused on 'Fixed' annuities. A teal header bar sits at the top. A white box with a teal border appears on the left. The background is the same off-white color as previous scenes. The overall color palette is muted and professional.",
+        "shot_type": "Close-Up",
+        "scene_number": 5,
+        "timestamp_end": "1:06",
+        "timestamp_start": "0:51"
+      },
+      {
+        "audio": "The insurer bears the investment risk behind its contractual guarantees. Suppose the contract guarantees at least two percent interest, but currently credits four percent for the stated period.",
+        "label": "Product Selling Points",
+        "visual": "A second white box appears in the center of the frame, showing a different percentage. The boxes have clean, sharp edges. The transition between graphic elements is a simple, quick fade-in.",
+        "shot_type": "Close-Up",
+        "scene_number": 6,
+        "timestamp_end": "1:21",
+        "timestamp_start": "1:06"
+      },
+      {
+        "audio": "Four percent is not automatically promised forever. A later declared rate can change within the contract's limits, while the minimum guarantee remains applicable. A fixed income option can provide level dollar payments.",
+        "label": "Product Selling Points",
+        "visual": "A third white box appears on the right of the screen. The three boxes are now evenly spaced across the horizontal plane. The lighting remains flat and shadowless for clarity.",
+        "shot_type": "Close-Up",
+        "scene_number": 7,
+        "timestamp_end": "1:37",
+        "timestamp_start": "1:21"
+      },
+      {
+        "audio": "But level dollars do not guarantee level purchasing power. Inflation can reduce what the same monthly amount buys. David considers a variable annuity.",
+        "label": "Product Selling Points",
+        "visual": "The screen transitions to the 'Variable' annuity detail. A teal header bar is at the top. One white box appears on the left side of the frame containing a dollar amount. The palette remains consistent with teal and light beige.",
+        "shot_type": "Close-Up",
+        "scene_number": 8,
+        "timestamp_end": "1:52",
+        "timestamp_start": "1:37"
+      },
+      {
+        "audio": "Amounts allocated to its investment subaccounts are held in a separate account, with results tied to the chosen portfolios. He bears the investment risk for that allocation, and value can fall.",
+        "label": "Product Selling Points",
+        "visual": "Two additional boxes appear sequentially to the right. The middle box shows a negative percentage and the right box shows a lower dollar amount. The layout mirrors the previous 'Fixed' detail screen.",
+        "shot_type": "Close-Up",
+        "scene_number": 9,
+        "timestamp_end": "2:07",
+        "timestamp_start": "1:52"
+      },
+      {
+        "audio": "In a simplified example with no charges or other changes, fifty thousand dollars experiencing a ten percent loss becomes forty-five thousand dollars. Actual fees and withdrawals also affect value.",
+        "label": "Product Selling Points",
+        "visual": "The three boxes regarding variable value remain on screen. The text inside them is clearly legible with dark gray sans-serif fonts. No movement or panning occurs; the shot is static.",
+        "shot_type": "Close-Up",
+        "scene_number": 10,
+        "timestamp_end": "2:22",
+        "timestamp_start": "2:07"
+      },
+      {
+        "audio": "Variable income payments can change with investment results under the payout formula. A guarantee applies only to the benefit and conditions it names. A fixed indexed annuity uses a specified index to calculate interest.",
+        "label": "Product Selling Points",
+        "visual": "Transition to the 'Indexed' annuity graphic. A teal header is at the top. A white box on the left shows a mathematical formula. A middle box appears showing a cap percentage. The background is off-white.",
+        "shot_type": "Close-Up",
+        "scene_number": 11,
+        "timestamp_end": "2:37",
+        "timestamp_start": "2:22"
+      },
+      {
+        "audio": "It does not give Rosa direct ownership of that index's stocks. Suppose the method uses an eight percent index increase, a fifty percent participation rate, and a three percent cap. Half of eight percent is four percent.",
+        "label": "Product Selling Points",
+        "visual": "A third white box appears on the right showing a final percentage. The progression from left to right illustrates a calculation flow. The graphic style is flat and 2D.",
+        "shot_type": "Close-Up",
+        "scene_number": 12,
+        "timestamp_end": "2:52",
+        "timestamp_start": "2:37"
+      },
+      {
+        "audio": "Then the cap limits the credited rate to three percent. Apply the provided order and formula. A zero index credit floor prevents a negative index credit under that provision.",
+        "label": "Product Selling Points",
+        "visual": "The graphic remains static while the final credited rate is displayed in the third box. The dark teal sidebar on the left side of the frame contains a small gold circular logo.",
+        "shot_type": "Close-Up",
+        "scene_number": 13,
+        "timestamp_end": "3:00",
+        "timestamp_start": "2:52"
+      },
+      {
+        "audio": "It does not eliminate surrender charges, rider costs, or other reductions. Registered index-linked annuities are different and can expose value to index losses. A market value adjusted annuity may guarantee interest.",
+        "label": "Product Selling Points",
+        "visual": "A flow chart graphic for 'Early exit' appears. Three numbered boxes are connected by teal arrows. The first box is white with a teal border, the second is dark teal with white text, and the third is white with a teal border.",
+        "shot_type": "Medium Shot",
+        "scene_number": 14,
+        "timestamp_end": "3:15",
+        "timestamp_start": "3:00"
+      },
+      {
+        "audio": "For a specified period while adjusting value if the owner exits at a time covered by its formula. Such designs are also associated with the term modified guaranteed annuity.",
+        "label": "Product Selling Points",
+        "visual": "The flow chart graphic remains static. The boxes are titled 'Guaranteed period', 'Early transaction', and 'Available value'. The overall look is clean, instructional, and minimalist.",
+        "shot_type": "Medium Shot",
+        "scene_number": 15,
+        "timestamp_end": "3:30",
+        "timestamp_start": "3:15"
+      },
+      {
+        "audio": "Generally, an increase in relevant market interest rates can produce a negative adjustment. A decrease can produce a positive adjustment. The actual formula and timing control. A market value adjustment is distinct.",
+        "label": "Product Selling Points",
+        "visual": "The graphic persists as the audio discusses market interest rates. The layout uses equal spacing and centered elements on the beige canvas. Lighting is simulated flat digital light.",
+        "shot_type": "Medium Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:48",
+        "timestamp_start": "3:30"
+      },
+      {
+        "audio": "From a surrender charge, and both may apply. Do not assume keeping the credited interest guarantee means every early withdrawal returns the same amount.",
+        "label": "Usage Scenarios",
+        "visual": "Return to the scene with Rosa and David at the wooden table. They are in the same position as the opening hook, both looking at the paper. Rosa is pointing at the middle of the page. The lighting is warm and natural-looking.",
+        "shot_type": "Medium Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:56",
+        "timestamp_start": "3:48"
+      },
+      {
+        "audio": "Registered market value adjustment annuities also have securities disclosures. The presence of an adjustment alone does not replace a product's actual classification. Rosa wants predictable promises.",
+        "label": "Call to Action",
+        "visual": "Final summary graphic table appears. The rows are 'Growth' and 'Guarantee'. The sidebar on the left is dark teal. The overall palette is light beige, teal, and soft green. Lighting is flat and uniform.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "4:11",
+        "timestamp_start": "3:56"
+      },
+      {
+        "audio": "And David is willing to accept investment fluctuations. Their preferences begin the discussion. But neither preference alone establishes the right recommendation. Compare costs, accessible cash.",
+        "label": "Call to Action",
+        "visual": "Two more rows, 'Risk' and 'Access', are added to the table. The graphic is now a complete 4-row list with descriptive text on the right side of each category box. Static composition.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "4:26",
+        "timestamp_start": "4:11"
+      },
+      {
+        "audio": "The time horizon, the insurer, the actual guarantees, and the income option. A high illustrated return is not a guaranteed result. An index design is not automatically a variable annuity.",
+        "label": "Call to Action",
+        "visual": "The full summary table remains on screen. The composition is balanced and uses high-contrast text for readability. The gold logo at the bottom left of the sidebar is the final visual anchor.",
+        "shot_type": "Wide Shot",
+        "scene_number": 20,
+        "timestamp_end": "4:42",
+        "timestamp_start": "4:26"
+      }
+    ]
+  }
+}

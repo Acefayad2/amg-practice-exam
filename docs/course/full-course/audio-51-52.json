@@ -200,7 +200,7 @@
       ]
     },
     "method": "Full six-section narration review; selected regeneration for clipped or spoken punctuation; native pacing when needed, followed by full retranscription.",
-    "reviewState": "Final narration or media review in progress; see ready media manifest for release status."
+    "reviewState": "Final narration and media accepted; see the ready media manifest for release evidence. Initial job states below are generation-history snapshots."
   },
   {
     "number": 52,
@@ -427,6 +427,6 @@
       ]
     },
     "method": "Full six-section narration review; selected regeneration for clipped or spoken punctuation; native pacing when needed, followed by full retranscription.",
-    "reviewState": "Final narration or media review in progress; see ready media manifest for release status."
+    "reviewState": "Final narration and media accepted; see the ready media manifest for release evidence. Initial job states below are generation-history snapshots."
   }
 ]

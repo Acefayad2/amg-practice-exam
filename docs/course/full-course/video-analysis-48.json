@@ -1,0 +1,183 @@
+{
+  "result": {
+    "id": "c5ef9937-4adb-4ae4-94d9-e676f4aa49e1",
+    "video_input_id": "c4bd1031-5651-47d7-bd89-33a0c4e2c7b8",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/c4bd1031-5651-47d7-bd89-33a0c4e2c7b8.mp4",
+    "scenes": [
+      {
+        "audio": "Rosa receives a lump sum and asks about retirement income. First identify how much she needs for emergencies, debts and upcoming expenses, as well as the income gap she wants to fill.",
+        "label": "Opening Hook",
+        "visual": "A couple sits at a wooden table indoors with soft, natural lighting. The woman, approximately 60 years old with light skin and shoulder-length wavy grey hair, wearing a white button-down shirt, points at a white document. The man, approximately 60 years old with dark skin, short grey hair and a grey beard, wearing a burgundy polo shirt, holds the document and looks at it with a neutral expression. A green ceramic mug sits on the table in the foreground. The background shows a blurred interior with a large window.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:08",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "An annuity can support long-term accumulation or a chosen income promise, but tying up essential near-term cash can conflict with her needs.",
+        "label": "Product Information",
+        "visual": "A graphic interface on a cream-colored background. A white box labeled '01 Rosa's resources' appears on the left. A dark teal arrow points to a second dark teal box labeled '02 Purpose and timing' that appears in the center. The lighting is digital and flat, with a minimalist color palette of cream, teal, and white.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:23",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "The producer must understand the product’s access rules, costs, guarantees, and risks.",
+        "label": "Product Selling Points",
+        "visual": "The graphic continues to build. A third white box labeled '03 Product fit' appears to the right of the second box. The teal arrow extends from the second to the third box. The environment remains a clean, digital background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:33",
+        "timestamp_start": "0:23"
+      },
+      {
+        "audio": "In a covered Maryland recommendation, the producer’s or insurer’s financial interest must not come ahead of the consumer’s interest. A large commission or attractive opening rate cannot replace a reasonable basis for the recommendation.",
+        "label": "Product Selling Points",
+        "visual": "The screen remains static on the three boxes (Rosa's resources, Purpose and timing, Product fit) as the narrator concludes the section. The color grading is warm and corporate.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:44",
+        "timestamp_start": "0:33"
+      },
+      {
+        "audio": "Annuities can fund eligible individual or group retirement arrangements, including an individual retirement annuity. The account or plan establishes its tax rules, contribution conditions, and distribution requirements.",
+        "label": "Product Information",
+        "visual": "Transition to a new graphic. A white vertical column labeled 'Plan or IRA' appears on the left side of the cream screen. Sub-points regarding eligibility and tax rules appear below the title.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "0:59",
+        "timestamp_start": "0:44"
+      },
+      {
+        "audio": "The insurance contract supplies its particular benefits and costs. Placing an annuity inside a traditional tax-deferred retirement account does not create a second layer of tax deferral.",
+        "label": "Product Information",
+        "visual": "A second vertical column, dark teal and labeled 'Annuity contract', appears in the center of the screen. Sub-points regarding income and death benefits appear underneath.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:14",
+        "timestamp_start": "0:59"
+      },
+      {
+        "audio": "The recommendation needs a reason grounded in the insurance features and the client's circumstances. Outside such a plan, eligible non-qualified annuity earnings can grow tax-deferred.",
+        "label": "Product Information",
+        "visual": "A third vertical column, white and labeled 'No extra deferral', appears on the right. Additional text regarding IRA tax treatment appears below it.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:28",
+        "timestamp_start": "1:14"
+      },
+      {
+        "audio": "David wants money for a grandchild's tuition in two years. Naming education as the purpose does not remove surrender charges or make a non-qualified annuity withdrawal tax-free.",
+        "label": "Problem Solving",
+        "visual": "The screen clears to a new graphic. A white box labeled 'Education goal' appears on the left with text regarding timing and charges. The background remains cream and minimalist.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:43",
+        "timestamp_start": "1:28"
+      },
+      {
+        "audio": "An education exception associated with an eligible IRA distribution is not a blanket exception for every commercial annuity. Compare access, taxes, and alternatives within the producer's authority.",
+        "label": "Problem Solving",
+        "visual": "A dark teal box labeled 'Gift annuity' appears in the center, detailing exchanges for an organization's promise. The lighting is uniform and digital.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "1:58",
+        "timestamp_start": "1:43"
+      },
+      {
+        "audio": "A charitable gift annuity is another distinct arrangement. A donor gives money or property in exchange for an eligible organization's annuity promise. Maryland requires the organization to obtain a special permit.",
+        "label": "Problem Solving",
+        "visual": "A third white box labeled 'Maryland permit' appears on the right, specifying requirements for donor agreements.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "2:13",
+        "timestamp_start": "1:58"
+      },
+      {
+        "audio": "Maryland standard includes care, disclosure, conflict and documentation obligations. Obtain the consumer profile: financial resources and needs, experience, objectives, and time horizon.",
+        "label": "Usage Scenarios",
+        "visual": "New graphic showing a numbered list (01 to 04). Items 01 'Care' and 02 'Disclosure' appear first in teal boxes on a white background. The layout is structured and clean.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "2:28",
+        "timestamp_start": "2:13"
+      },
+      {
+        "audio": "Use reasonable inquiry into options available within your authority and explain why the recommendation addresses the person's situation. Disclose your role and compensation sources.",
+        "label": "Usage Scenarios",
+        "visual": "Item 03 'Conflicts' and 04 'Documentation' appear in the list. The background is divided into a white top and a teal footer area.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:43",
+        "timestamp_start": "2:28"
+      },
+      {
+        "audio": "Identify and avoid or reasonably manage and disclose material conflicts. Choosing the lowest commission alone is not the standard. The reasoning must support the client’s circumstances.",
+        "label": "Usage Scenarios",
+        "visual": "The list remains on screen. Static shot of the final four-point summary regarding Maryland standards.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "3:00",
+        "timestamp_start": "2:43"
+      },
+      {
+        "audio": "David already owns an annuity and is offered a new one with a bonus. Compare the old surrender charge, the new surrender period, lost benefits, and increased fees.",
+        "label": "Real Experience",
+        "visual": "New graphic transition. Box 01 'Leaving' and 02 'Entering' appear vertically. The design features a white column on a light green and cream background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "3:15",
+        "timestamp_start": "3:00"
+      },
+      {
+        "audio": "Maryland specifically calls for considering another exchange or replacement within the preceding 60 months. A bonus alone does not settle that comparison.",
+        "label": "Real Experience",
+        "visual": "Box 03 'History' and 04 'Reason' appear below the previous boxes. Text regarding the prior 60 months and substantial benefits is visible.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "3:30",
+        "timestamp_start": "3:15"
+      },
+      {
+        "audio": "Record the recommendation and its basis at the time of sale. If the consumer refuses relevant profile information, document the refusal. A signature does not manufacture a sound recommendation.",
+        "label": "Real Experience",
+        "visual": "The graphic remains static as the audio finishes the discussion on documentation and consumer refusal.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:48",
+        "timestamp_start": "3:30"
+      },
+      {
+        "audio": "A new producer subject to Maryland’s annuity training rule needs the approved one-time four-credit training before making the sale.",
+        "label": "Call to Action",
+        "visual": "Return to the live-action scene of the couple at the wooden table. The woman continues to point at the document while the man nods slightly, still looking at the paper. The lighting, costumes, and positions are identical to the opening scene.",
+        "shot_type": "Medium Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:56",
+        "timestamp_start": "3:48"
+      },
+      {
+        "audio": "Required transaction records are maintained for seven years. Each insurance company must supervise recommendations. A producer must not discourage truthful information or complaints.",
+        "label": "Call to Action",
+        "visual": "Final graphic appears with four points: 'Prepare', 'Keep records', 'Cooperate', and 'Apply the rule'. The first two points are highlighted. The palette is cream and dark teal.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "4:11",
+        "timestamp_start": "3:56"
+      },
+      {
+        "audio": "If a consumer independently chooses an unrecommended transaction, follow acknowledgment rules. On the exam, identify the client's need and check whether an exception changes the result.",
+        "label": "Call to Action",
+        "visual": "The final graphic remains on screen, focusing on the last two points regarding independent consumer choices and exam preparation. Static camera, flat digital lighting.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "4:29",
+        "timestamp_start": "4:11"
+      }
+    ]
+  }
+}

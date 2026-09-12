@@ -1,0 +1,219 @@
+{
+  "result": {
+    "id": "bc3ee279-2edd-497b-b986-2ee92fa380f4",
+    "video_input_id": "8e188fa3-3cdd-4544-b6df-a9523857351c",
+    "youtube_url": null,
+    "status": "completed",
+    "fail_reason": null,
+    "video_s3_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/8e188fa3-3cdd-4544-b6df-a9523857351c.mp4",
+    "scenes": [
+      {
+        "audio": "Marcus and Elena return for a full family review. In this new exercise, their stated survivor income shortfall is $35,000 per year for 15 years.",
+        "label": "Opening Hook",
+        "visual": "A man and a woman are seated at a white dining table in a brightly lit kitchen. The man, late 30s, dark complexion, short black hair, and a trimmed black beard, wears a navy blue long-sleeve button-up shirt. The woman, late 30s, light brown complexion, with long dark hair pulled back, wears an olive green long-sleeve shirt. They are looking down at a white document held by the woman; the man holds a pen in his right hand, pointing at the text. A silver laptop is open to their left, and a ceramic mug and a black notebook sit on the table in the foreground. The background features white kitchen cabinetry and soft natural light from a window.",
+        "shot_type": "Medium Shot",
+        "scene_number": 1,
+        "timestamp_end": "0:08",
+        "timestamp_start": "0:00"
+      },
+      {
+        "audio": "Assume no inflation or investment return. That creates $525,000 of income need.",
+        "label": "Product Selling Points",
+        "visual": "A clean, white graphic screen with teal accents. Text boxes appear sequentially. The first box shows a calculation: '$35,000 x 15'. Below it, a teal-bordered box highlights the result: '$525,000 income need'. The layout is minimalist with high contrast. The lighting in the graphic is flat and even.",
+        "shot_type": "Wide Shot",
+        "scene_number": 2,
+        "timestamp_end": "0:23",
+        "timestamp_start": "0:08"
+      },
+      {
+        "audio": "They also identify $200,000 of separate immediate obligations, with no overlap between the categories. The total is $725,000. They have $125,000 of resources explicitly available for these needs.",
+        "label": "Product Selling Points",
+        "visual": "The graphic continues on the same white background. A second calculation box appears to the right: '+ $200,000 - $125,000' with the subtext 'Separate obligations less resources'. A third box appears on the far right showing the final result: '$600,000' with the label 'Illustrative gap; stated assumptions'.",
+        "shot_type": "Wide Shot",
+        "scene_number": 3,
+        "timestamp_end": "0:38",
+        "timestamp_start": "0:23"
+      },
+      {
+        "audio": "Subtracting those resources leaves a $600,000 illustrative gap. This is not a quote or a personal recommendation.",
+        "label": "Product Selling Points",
+        "visual": "The final result box '$600,000' remains prominent on the white graphic screen. The layout is static. The overall color palette is white, black, and teal.",
+        "shot_type": "Wide Shot",
+        "scene_number": 4,
+        "timestamp_end": "0:46",
+        "timestamp_start": "0:38"
+      },
+      {
+        "audio": "The family expects a large income need while the children are dependent, but also wants to understand smaller lasting obligations. A level term policy can provide a stated death benefit during its specified term.",
+        "label": "Product Information",
+        "visual": "A new graphic screen appears. Three vertical columns are presented. The first column is labeled 'Term' with the subtext 'Specified duration and contractual options'. The middle column is labeled 'Permanent protection' with the subtext 'Read funding and guarantees'. The lighting and style remain consistent with the previous graphic.",
+        "shot_type": "Wide Shot",
+        "scene_number": 5,
+        "timestamp_end": "1:01",
+        "timestamp_start": "0:46"
+      },
+      {
+        "audio": "Coverage after that period depends on the actual renewal or conversion rights, deadlines, and premiums. Whole life uses a different structure, with permanent protection and contractual cash values when its required conditions are maintained.",
+        "label": "Product Information",
+        "visual": "The three-column graphic remains on screen. The middle column 'Permanent protection' is now highlighted. The third column, 'Existing policy' with the subtext 'Evaluate replacement duties and losses', is visible to the right. The design is clean with plenty of white space.",
+        "shot_type": "Wide Shot",
+        "scene_number": 6,
+        "timestamp_end": "1:16",
+        "timestamp_start": "1:01"
+      },
+      {
+        "audio": "Compare the actual benefits, guarantees, funding, and affordable duration. If existing coverage might be replaced, follow Maryland's replacement process and assess lost benefits and costs before asking the family to end that policy.",
+        "label": "Product Information",
+        "visual": "The graphic stays static on the 'Existing policy' column. The palette remains neutral with teal accents. The camera angle is straight-on and static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 7,
+        "timestamp_end": "1:33",
+        "timestamp_start": "1:16"
+      },
+      {
+        "audio": "In the proposed arrangement, Marcus owns a policy on his own life, and Elena is the primary beneficiary. Marcus holds the ownership rights and is also the insured person, but those are two separate roles.",
+        "label": "Usage Scenarios",
+        "visual": "The graphic transitions to a horizontal flow chart on a white background. Box '01 Marcus' identifies him as 'Owner and base insured'. An arrow points to box '02 Elena', labeled 'Primary beneficiary under stated facts'.",
+        "shot_type": "Wide Shot",
+        "scene_number": 8,
+        "timestamp_end": "1:48",
+        "timestamp_start": "1:33"
+      },
+      {
+        "audio": "Elena's beneficiary designation does not make her life insured by that base policy. A contingent beneficiary is considered when the primary cannot take the benefit under the applicable contract and legal facts.",
+        "label": "Usage Scenarios",
+        "visual": "The flow chart graphic continues. The boxes for Marcus and Elena remain. Text explaining beneficiary designations appears below Elena's box. The layout uses teal lines to show connections.",
+        "shot_type": "Wide Shot",
+        "scene_number": 9,
+        "timestamp_end": "2:03",
+        "timestamp_start": "1:48"
+      },
+      {
+        "audio": "The family also wants funds available for their minor children. Naming a child does not automatically authorize unrestricted direct payment to the child.",
+        "label": "Usage Scenarios",
+        "visual": "A third box '03 Children' appears on the right of the flow chart, labeled 'Plan a lawful beneficiary arrangement'. Arrows connect the sequence 01 to 02 to 03.",
+        "shot_type": "Wide Shot",
+        "scene_number": 10,
+        "timestamp_end": "2:18",
+        "timestamp_start": "2:03"
+      },
+      {
+        "audio": "A properly arranged trust or other lawful method requires attention to the actual designation and legal requirements.",
+        "label": "Usage Scenarios",
+        "visual": "The full three-box flow chart (Marcus, Elena, Children) is shown on the white background. The graphic is static.",
+        "shot_type": "Wide Shot",
+        "scene_number": 11,
+        "timestamp_end": "2:24",
+        "timestamp_start": "2:18"
+      },
+      {
+        "audio": "Marcus completes the application and gives the initial premium to the producer. Those acts do not by themselves prove that every claim is covered immediately.",
+        "label": "Product Selling Points",
+        "visual": "The graphic switches to a three-step process layout. Box '01 Application and premium' appears first with subtext 'Read the actual receipt conditions'. The background is light gray.",
+        "shot_type": "Wide Shot",
+        "scene_number": 12,
+        "timestamp_end": "2:39",
+        "timestamp_start": "2:24"
+      },
+      {
+        "audio": "Read the receipt and its actual coverage conditions, the insurer's underwriting decision, and any delivery requirements. The producer must not invent authority to waive a condition or alter a contract promise.",
+        "label": "Product Selling Points",
+        "visual": "Box '02 Underwriting' appears next in the sequence, with the subtext 'Insurer evaluates and acts'. A teal arrow links step 01 to step 02. The lighting on the graphic remains neutral.",
+        "shot_type": "Wide Shot",
+        "scene_number": 13,
+        "timestamp_end": "2:54",
+        "timestamp_start": "2:39"
+      },
+      {
+        "audio": "Application answers should be complete and truthful, and corrections should be handled properly. If Marcus's health changes before delivery, follow the insurer's required process instead of hiding that change.",
+        "label": "Product Selling Points",
+        "visual": "Box '03 Delivery' appears, completing the sequence. Its subtext is 'Follow effective-date and health requirements'. The steps are arranged horizontally.",
+        "shot_type": "Wide Shot",
+        "scene_number": 14,
+        "timestamp_end": "3:09",
+        "timestamp_start": "2:54"
+      },
+      {
+        "audio": "A good health statement can be part of the delivery requirements. The effective date question is answered by the relevant documents and facts, not by assuming that a handshake created unconditional protection.",
+        "label": "Product Selling Points",
+        "visual": "The three-step process (Application, Underwriting, Delivery) is shown in full. The graphic is static on a light gray background.",
+        "shot_type": "Wide Shot",
+        "scene_number": 15,
+        "timestamp_end": "3:21",
+        "timestamp_start": "3:09"
+      },
+      {
+        "audio": "Later, a premium is missed. Before describing the policy as lapsed, identify the due date and the applicable grace period.",
+        "label": "Product Information",
+        "visual": "A new graphic presents three distinct boxes on a white background. The first box is labeled 'Grace' with the subtext 'Coverage continues for the required period'.",
+        "shot_type": "Wide Shot",
+        "scene_number": 16,
+        "timestamp_end": "3:36",
+        "timestamp_start": "3:21"
+      },
+      {
+        "audio": "For standard Maryland individual life coverage within the cited rule, the grace provision is one month of at least 30 days, with the policy continuing during that period.",
+        "label": "Product Information",
+        "visual": "A second box labeled 'Free look' with subtext 'Review after delivery' appears to the right of the Grace box. The layout is clean and balanced.",
+        "shot_type": "Wide Shot",
+        "scene_number": 17,
+        "timestamp_end": "3:51",
+        "timestamp_start": "3:36"
+      },
+      {
+        "audio": "The contract may provide a longer period. That is different from a free look period after delivery, a reinstatement opportunity after lapse, or an incontestability period. If a covered death occurs during grace, the unpaid premium may be deducted as allowed.",
+        "label": "Product Information",
+        "visual": "A third box labeled 'Reinstatement' with subtext 'Separate conditions after lapse' appears on the far right. The three boxes are now fully visible.",
+        "shot_type": "Wide Shot",
+        "scene_number": 18,
+        "timestamp_end": "4:06",
+        "timestamp_start": "3:51"
+      },
+      {
+        "audio": "Do not tell the family that every missed payment ends protection immediately, or that reinstatement is automatic without meeting its requirements. Trace the dates and the particular provision before deciding.",
+        "label": "Product Information",
+        "visual": "The three-box graphic (Grace, Free look, Reinstatement) remains static. The palette is white, black, and gold.",
+        "shot_type": "Wide Shot",
+        "scene_number": 19,
+        "timestamp_end": "4:09",
+        "timestamp_start": "4:06"
+      },
+      {
+        "audio": "Finish with a separate claim example. The issued policy has a $100,000 death benefit,",
+        "label": "Real Experience",
+        "visual": "Cut back to the same setting as Scene 1. Marcus and Elena are seated at the table. Marcus is speaking to Elena while holding his pen; Elena looks at him and nods slightly. The laptop, document, mug, and notebook are in the same positions. The natural lighting remains consistent.",
+        "shot_type": "Medium Shot",
+        "scene_number": 20,
+        "timestamp_end": "4:17",
+        "timestamp_start": "4:09"
+      },
+      {
+        "audio": "a $12,000 outstanding loan, and $600 of accrued loan interest. Assume a covered death, no other benefit additions, and no other deductions.",
+        "label": "Call to Action",
+        "visual": "Final graphic screen with teal accents. Box 1 shows '$100,000 benefit' and 'Covered claim in this separate example'. Box 2 shows '- $12,000 - $600' and 'Loan principal and accrued interest'.",
+        "shot_type": "Wide Shot",
+        "scene_number": 21,
+        "timestamp_end": "4:32",
+        "timestamp_start": "4:17"
+      },
+      {
+        "audio": "The net payment is $87,400. Do not add the cash value to the face amount unless the actual contract provides that result.",
+        "label": "Call to Action",
+        "visual": "The graphic adds Box 3: '$87,400 net' with subtext 'No other stated additions or deductions'. The total calculation is now complete on screen.",
+        "shot_type": "Wide Shot",
+        "scene_number": 22,
+        "timestamp_end": "4:47",
+        "timestamp_start": "4:32"
+      },
+      {
+        "audio": "The agent should help the beneficiary follow the insurer's claim process and keep clear records while the insurer determines the payment under the contract. Good exam answers follow the stated person, event, provision, and calculation.",
+        "label": "Call to Action",
+        "visual": "The final three-box calculation remains on the white background. The graphic is static until the end of the video.",
+        "shot_type": "Wide Shot",
+        "scene_number": 23,
+        "timestamp_end": "4:56",
+        "timestamp_start": "4:47"
+      }
+    ]
+  }
+}
