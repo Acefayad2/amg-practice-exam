@@ -1,0 +1,25 @@
+{
+  "applicationCommit": "07c0c27199e18963a4259807f68bf8ef87c9c6a7",
+  "previewDeployId": "6aa63a7cfc4c3e28741da86a",
+  "previewUrl": "https://6aa63a7cfc4c3e28741da86a--amg-exam-portal.netlify.app",
+  "previewState": "ready",
+  "published": false,
+  "liveProductionDeployUnchanged": "6aa60f52b05d0279db962ab7",
+  "functions": [
+    "identity-signup",
+    "identity-usermodified",
+    "identity-validate",
+    "learning"
+  ],
+  "edgeProtection": true,
+  "temporaryTestAccountsRemoved": true,
+  "temporaryQAEnvironmentRemoved": true,
+  "googleSheetTabsPrepared": [
+    "Course Progress",
+    "Lesson Progress",
+    "Practice Tests"
+  ],
+  "automaticSheetSync": "pending Google authorization and existing Apps Script deployment update",
+  "finalRealBrowserTest": "blocked by automatic approval review; explicit user approval requested",
+  "liveSignupLifecycle": "pending authorized acceptance test"
+}
