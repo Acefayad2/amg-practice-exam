@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "scope": "Only the two exact synthetic example.invalid learner prefixes used by this turn; no Google writes or real learner records.",
+  "results": [
+    {
+      "syntheticLearner": "A",
+      "deletedExactTestRecords": 2,
+      "remaining": 0
+    },
+    {
+      "syntheticLearner": "B",
+      "deletedExactTestRecords": 0,
+      "remaining": 0
+    }
+  ]
+}

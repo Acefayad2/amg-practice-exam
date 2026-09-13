@@ -1,0 +1,8 @@
+{
+  "publishedDeployId": "6aa64116875c3a1413f75eb7",
+  "siteUrl": "https://amg-exam-portal.netlify.app",
+  "siteName": "amg-exam-portal",
+  "login/index.html": "6e38dc80f52ca65d0d8d261af16e5768f182891e14350472c764feaf6f13f822",
+  "course/shared/login.js": "7bff98b07c2d2e705c8b352027c2ac05f0aed74f2eb4fb4c08a90bab4bb78454",
+  "course/shared/account.js": "e12f1881c2cc61915faee80edd8e4f61b6a130dd955347d4ee8332339ebd19c8"
+}

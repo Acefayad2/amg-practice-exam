@@ -1,10 +1,10 @@
 {
   "accessModel": "shared-amg-code-with-self-reported-name-email",
-  "implementationStatus": "conversion in progress; final integration and hosted acceptance pending",
-  "applicationCommit": null,
-  "previewDeployId": null,
-  "previewUrl": null,
-  "published": false,
+  "implementationStatus": "shared-code access and durable learner progress published; Google Sheets syncing pending owner verification",
+  "applicationCommit": "f19764c",
+  "previewDeployId": "6aa63f682b404d1fa29d9b4f",
+  "previewUrl": "https://6aa63f682b404d1fa29d9b4f--amg-exam-portal.netlify.app",
+  "published": true,
   "learnerIdentity": "Stable server HMAC of normalized self-reported email; no individual account or verified email ownership",
   "reportingProtocol": {
     "service": "AMG Learning reporting",
@@ -20,8 +20,8 @@
     "Practice Tests"
   ],
   "reportingHeadersChanged": false,
-  "automaticSheetSync": "disabled pending version2 Apps Script authorization/deployment and acceptance",
-  "sharedCodeHostedAcceptance": "pending final implementation and authorized verification",
+  "automaticSheetSync": "disabled: pending owner Google verification, local version2 installation/authorization/deployment and actual Sheet-write acceptance",
+  "sharedCodeHostedAcceptance": "42 actual preview checks and 27 production smoke checks passed",
   "supersededIdentityPrototype": {
     "applicationCommit": "07c0c27199e18963a4259807f68bf8ef87c9c6a7",
     "previewDeployId": "6aa63a7cfc4c3e28741da86a",
@@ -35,8 +35,49 @@
   "localValidation": {
     "appsScriptReportingGroups": 17,
     "convertedAdapterChecks": 22,
-    "independentEntryBrowserChecks": 22,
+    "independentEntryBrowserChecks": 24,
     "entryBrowserIdentityRequests": 0,
-    "realServicesUsedByTheseChecks": false
+    "realServicesUsedByTheseChecks": false,
+    "nonJson429HandlingVerified": true
+  },
+  "previewState": "verified by 42 actual-entry checks",
+  "reportingEnvironmentValue": "pending_authorization",
+  "hostedValidation": {
+    "actualEntryChecks": 42,
+    "requiredLessonQuestionsAnswered": 8,
+    "durableSaveAndFreshContextRestore": true,
+    "secondLearnerIsolation": true,
+    "reportingStatuses": [
+      "not_configured"
+    ],
+    "googleWritesVerified": false,
+    "evidence": "output/qa/learner-live-entry.json"
+  },
+  "googleScriptStatus": {
+    "boundEditorSavedProtocolVersion": 1,
+    "version2Source": "local repository only",
+    "version2Installed": false,
+    "version2Deployed": false,
+    "ownerVerification": "Google Verify it is you passkey step pending owner completion",
+    "actualSheetWriteTest": "pending"
+  },
+  "productionDeployId": "6aa64116875c3a1413f75eb7",
+  "productionUrl": "https://amg-exam-portal.netlify.app",
+  "productionAcceptance": "27 actual production smoke checks passed",
+  "productionValidation": {
+    "checks": 27,
+    "identityRequests": 0,
+    "uncaughtRuntimeErrors": 0,
+    "sheetWrites": 0,
+    "restorationVerified": true,
+    "optionalPracticeVerified": true,
+    "logoutVerified": true,
+    "evidence": "../shared-code-review/production-review.json"
+  },
+  "syntheticTestCleanup": {
+    "recordsRemoved": 2,
+    "remaining": 0,
+    "temporaryCredentialFileRemoved": true,
+    "evidence": "../shared-code-review/test-cleanup.json"
   }
 }

@@ -56,7 +56,7 @@
   },
   "visualReview": "Viewed desktop/mobile entry and profile screenshots, plus mobile lesson header/reporting banner. Forms and controls fit without horizontal overflow; no real learner information appears in screenshots. Deliberately blocked lesson media shows expected fallback.",
   "scope": "Shared-code client conversion, mocked learner session/progress API, actual built UI, state restoration and concurrency; code/profile errors and safe routing. No Identity endpoint requested in entry test. No real shared code, server-cookie validation, Google writes, or production entry run.",
-  "actualEntryHarness": "scripts/qa/learner-live-entry.mjs prepared and syntax checked only; not executed.",
+  "actualEntryHarness": "Executed by root on shared-code preview; 42 checks passed. See hosted-preview-review.json. Local counts in this report remain separate.",
   "cleanup": "All browsers/contexts launched by these local runners are closed. Root-owned 4201 server remains.",
   "finalRefinement": "The final login-only change handles a non-JSON platform 429 before JSON parsing. The independent entry browser suite was rerun after the rebuilt bundle and passes24 checks, including rate-limit wait guidance and remaining on the code step. Other unchanged client components retain their earlier evidence."
 }

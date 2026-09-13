@@ -1,0 +1,57 @@
+{
+  "reviewedAt": "2026-09-13T06:30:23.319Z",
+  "status": "passed",
+  "productionOrigin": "https://amg-exam-portal.netlify.app",
+  "deployId": "6aa64116875c3a1413f75eb7",
+  "checks": [
+    "Anonymous production lesson redirects to shared-code entry",
+    "Anonymous production learning API denies access",
+    "Accepted shared code is cleared before profile entry",
+    "Real code validation advances to the name/email step",
+    "Real profile entry opens the originally requested production lesson",
+    "preview-progress-restoration: production learning API accepts the signed learner session",
+    "preview-progress-restoration: learner API response is not cached",
+    "preview-progress-restoration: stored learner matches syntheticA",
+    "preview-progress-restoration: reporting is disabled; no Google synchronization requested",
+    "Preview-completed Lesson1 restores from the same production learner store",
+    "All eight saved required answers restore",
+    "SyntheticA has1 of60 lessons complete before optional practice",
+    "Production lesson UI renders the restored completion",
+    "Restored completion unlocks the next-lesson link",
+    "All four optional practice tests open with only1 of60 lessons complete",
+    "All optional test start controls are enabled without requiring course completion",
+    "optional-practice: production learning API accepts the signed learner session",
+    "optional-practice: learner API response is not cached",
+    "optional-practice: stored learner matches syntheticA",
+    "optional-practice: reporting is disabled; no Google synchronization requested",
+    "No practice attempt was started or answered",
+    "The pre-existing completed lesson record remains unchanged",
+    "Leave course clears both gate and learner session",
+    "Learning API denies access after leaving",
+    "Protected lesson redirects after the learner leaves",
+    "No Identity account endpoint was contacted",
+    "No uncaught browser errors during the production smoke"
+  ],
+  "runtimeErrors": [],
+  "cacheControls": [
+    "private,no-store",
+    "private,no-store"
+  ],
+  "progressPostRequests": 1,
+  "reportingStatuses": [
+    "not_configured"
+  ],
+  "originalLessonRecordSha256": "3f62bf7db8e05ea3ff6ce093071fd94cb7861af74d6d7d2a3640a197292d2257",
+  "learnerTag": "25e6ddc9a1fa",
+  "cleanupKeys": [
+    "amg-life-lesson-01-v2",
+    "amg-life-assessments-v1"
+  ],
+  "scope": "Actual production shared-code/profile UI, signed-cookie session, Edge protection, preview-progress restoration, optional practice availability and session clearing. Existing syntheticA only; no new accounts, questions, test attempts, media downloads, screenshots, traces, cookie output or credential output. Reporting was disabled. Practice opened its normal review-import record, which root will clean up.",
+  "executionNotes": [
+    "Initial restricted Chrome launch made no network request.",
+    "First browser attempt stopped on a harmlessCache-Control formatting assertion (private,no-store); the assertion nowchecks the no-store directive.",
+    "Second browser attempt verified restoration thenstopped on the duplicated Practice tests label; finalrun scopes the header link.",
+    "Final complete runpassed27checks. All contextsclosed; rootowns syntheticrecordcleanup."
+  ]
+}

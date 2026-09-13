@@ -1,14 +1,15 @@
 # AMG course access and progress reporting
 
-This documentation keeps its existing path so coordinator links remain stable. The current design uses one shared AMG access code plus a learner's name and email. The earlier individual-account/Identity prototype is superseded.
+This documentation keeps its existing path so coordinator links remain stable. The current flow uses one shared AMG access code, followed by the learner's name and email. The earlier individual-account/Identity prototype is superseded. The shared-code course is live at https://amg-exam-portal.netlify.app (application commit f19764c, production deployment 6aa64116875c3a1413f75eb7). The hosted preview passed actual entry and durable-progress checks. Google Sheets sync remains disabled.
 
 ## Learner flow
 
 1. Open `/course/`. A visitor without a valid course session is sent to `/login/`.
-2. Enter full name, email and the shared AMG code. There is no individual account password, registration or email-confirmation step.
-3. Watch each lesson or use its transcript alternative. Answer every required lesson question correctly and use the explicit finish step to complete that part. Practice tests remain optional and available anytime.
-4. Return using the same email and AMG code to resume the corresponding learner record on another browser or device.
-5. Use **Sign out** on a shared computer before another person enters their details.
+2. Enter the shared **AMG access code**, then select **Continue**.
+3. Enter your **full name and email**, then select **Start learning**. There is no individual password, account registration or email-confirmation step.
+4. Watch each lesson or use its transcript alternative. Answer every required lesson question correctly and use the explicit finish step to complete that part. Practice tests remain optional and available anytime.
+5. Return using the same AMG code and email to resume the corresponding learner record on another browser or device.
+6. Use **Leave course** on a shared computer before another person enters their details.
 
 The access code is checked on the server and must remain outside public source and browser bundles. The server issues the course session identified by the `__Host-amg_session` cookie. Progress writes and reporting require a valid server session; a posted name, score or completion claim does not establish one.
 
@@ -31,7 +32,7 @@ The three reporting tabs have been created with empty data rows. Their existing 
 
 Stable learner, lesson and attempt keys prevent duplicate rows on retry. Missing scores stay blank. Formula-like text is escaped. The server computes reporting metrics from saved records and the original answer keys; Apps Script fetches that authoritative report instead of accepting browser-supplied percentages.
 
-Google reporting is a secondary copy of server-saved progress. Normal reporting is coalesced for up to two minutes, with a shorter thirty-second interval for completion/submission events. The interface distinguishes progress saving from reporting status, and the workbook can trail the server briefly.
+Google reporting is a secondary copy of server-saved progress and is currently disabled. Course progress can save durably without the spreadsheet connection. Once reporting is enabled and verified, normal updates are coalesced for up to two minutes, with a shorter thirty-second interval for completion/submission events. The interface distinguishes progress saving from reporting status.
 
 ## Reporting protocol and deployment
 
@@ -41,10 +42,12 @@ The reporting POST body contains exactly `{action:'course_sync', sessionToken}`.
 
 `setupCourseReporting` makes an unauthenticated GET to that same report endpoint and expects **401**. This requests Google's external-fetch scope and checks that reporting remains session-protected. It prepares/checks the reporting headers without creating learner rows.
 
-The new source must be installed, authorized and deployed as an update of the existing Apps Script web-app deployment. Keep automatic reporting disabled until the version2 handshake, invalid-session rejection and an authorized end-to-end reporting test succeed. Reuse the existing workbook and deployment endpoint. Do not enable the earlier Identity-based reporting version for this flow.
+**Current Google state:** the bound editor still contains the saved version 1 reporting source. Version 2 exists in this local repository; it has not been installed or deployed. Google's **Verify it's you** passkey step is waiting for the owner to complete it. This does not establish that Google's external-request authorization has been granted.
+
+`AMG_APPS_SCRIPT_URL` remains `pending_authorization`. After owner verification, install the version 2 source, complete the required authorization, and update the existing web-app deployment. Verify the exact version 2 handshake and invalid-session rejection, then perform an authorized actual Sheet-write test before claiming automatic reporting works. Reuse the existing workbook and deployment endpoint; the earlier Identity-based reporting source must not receive the new session token.
 
 ## Release limits and validation
 
-This conversion is staged work until the release receipt and [validation record](VALIDATION.md) contain evidence for the shared-code implementation. Prior Identity signup, confirmation-email and role tests are not acceptance of this replacement.
+The shared-code preview passed **42 actual-entry checks**, including all eight required questions in Part 1, durable server saving, leaving the course, a second learner in the same browser and exact restoration in a fresh browser context. Reporting was disabled throughout. The final local entry refinement passed **24 browser checks**, including non-JSON HTTP 429 handling. See the [validation record](VALIDATION.md). The production deployment receipt is recorded in RELEASE.json; all 27 production smoke checks passed, including preview-to-production progress restoration, optional practice and leaving the course. Google Sheets acceptance remains pending.
 
 The workbook's sharing settings were not changed by reporting-tab preparation. Any pending sharing decision remains separate. Course-route access does not provide DRM for externally hosted media. Course completion is a study record, not an official licensing result, a guaranteed exam pass or proof of approved education hours.
