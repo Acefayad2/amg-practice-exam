@@ -1,3 +1,5 @@
+> A subsequent launch review fixed two saved-progress defects. See the [current launch review](final-launch-review.md) for the latest deployed application and rollout conditions. This document records the preceding narration release.
+
 # Zoe narration release — September 13, 2026
 
 The 60-part Maryland Life course now uses the approved Zoe narration. Marcus’s original on-camera dialogue in the first 12 seconds of Part 1 remains intact. All original video pictures, frame timing and lesson runtimes are preserved. The six follow-up audio corrections are complete; the earlier Part 37 correction is also included. Caption timing was corrected in 22 lessons, covering 79 changed cues, without changing the spoken-word sequence.

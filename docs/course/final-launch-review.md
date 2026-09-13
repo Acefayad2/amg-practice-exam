@@ -27,11 +27,23 @@ The full-file media/transcript/decode work belongs to the accepted narration rel
 ## Conditions for wider rollout
 
 1. Record licensing-coordinator approval and a small agent pilot, including comprehension, actual study time and issues encountered. The current mapping has all 48 outline subsections but no recorded coordinator approvals; mapping is not proof of learning effectiveness.
-2. Before a cohort affected by October 1, 2026 sits its exam, approve a dated practice question applying Maryland's new general 120-hour survival rule and its exceptions. Part 33 already explains the change; its September-dated question and different-contract-period example remain correct as written. This can be a website question without generating another video. [Enacted Maryland Chapter 509](https://mgaleg.maryland.gov/2026RS/Chapters_noln/CH_509_hb0596t.pdf)
+2. Before a cohort affected by October 1, 2026 sits its exam, approve a dated practice question applying Maryland's new general 120-hour survival rule and its exceptions. Part 33 already explains the change; its September-dated question and different-contract-period example remain correct as written. A [concrete original draft question](october-survival-practice-draft.md) is ready for coordinator review; it has not been added to live question arrays. This can be a website question without generating another video. [Enacted Maryland Chapter 509](https://mgaleg.maryland.gov/2026RS/Chapters_noln/CH_509_hb0596t.pdf)
 3. Confirm that public pages and browser-local progress fit the company launch. This release does not provide private enrollment, a central completion ledger, cross-device progress, or a verified watch-time record. Physical iOS/Safari and learner pilot testing remain unrecorded.
 
 Selected current teaching and exam facts were rechecked against primary sources, including the linked Prometric Life outline, Maryland licensing guidance and IRS retirement guidance. No newly confirmed materially incorrect current teaching or answer was found in those bounded checks. The review did not independently reread every question for every possible issue.
 
 Web Locks coordinates supported live tabs. The fallback protects sequential stale actions but cannot promise atomic simultaneous writes across browser processes. Forced browser/OS termination can lose the latest playback checkpoint; storage-unavailable mode cannot survive reload. These are documented limits rather than a claim of centralized persistence.
 
-Raw QA reports, transcripts and detailed diagnostic evidence remain local and excluded from Git. Reproducible focused browser harnesses are in `scripts/qa/`. A production verification receipt will record the deployed commit, asset identity and live checks after publication.
+Raw QA reports, transcripts and detailed diagnostic evidence remain local and excluded from Git. Reproducible focused browser harnesses are in `scripts/qa/`. The production verification receipt below records the deployed application and final live checks.
+
+
+## Production verification receipt
+
+- Application commit: [93a54bb](https://github.com/Acefayad2/amg-practice-exam/commit/93a54bb8073ba4b0300144b4b6078d4aa312a4c7), pushed to `main`.
+- Netlify deploy: [6aa6063af91990c9a61a00f5](https://6aa6063af91990c9a61a00f5--amg-exam-portal.netlify.app/course/), confirmed as the published production deploy with state `ready`.
+- [Live course](https://amg-exam-portal.netlify.app/course/): 70 full learner-journey checks, 25 cross-tab/recovery checks and 24 recurring-review checks passed after deployment, with zero JavaScript errors. The two production JavaScript files match the tested source hashes.
+- The publishing build contains 212 canonical assets, all matching their corresponding local tested build files. Duplicate folders in a separate local generated-output directory were excluded by deploying the clean Git publishing checkout.
+- Production assets:148 match byte-for-byte. Each of the64 affected HTML pages has the same536-byte inert hosting comment/metadata exactly once inside its head; after removing that precisely reviewed addition, expected bytes match, with only the separately verified homepage link normalization. No executable script or visible teaching change was added. The initial strict mismatch report is preserved alongside the bounded disposition.
+- All root-owned isolated QA browser sessions and the local QA server were closed after verification. No real learner records were modified.
+
+The application publication is complete. Documentation-only commits after the application commit do not change the manual Netlify deployment. The coordinator draft remains pending review and does not alter current course questions.
