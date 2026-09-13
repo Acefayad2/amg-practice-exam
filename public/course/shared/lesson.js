@@ -92,6 +92,24 @@
   const track = document.createElement('track');
   Object.assign(track,{kind:'captions',label:'English',srclang:'en',src:'scene-captions.vtt',default:true});
   video.append(track);
+  // Optional reference material stays closed until a learner follows its anchor.
+  function revealReference(hash, focus = false) {
+    let id;
+    try { id = decodeURIComponent(hash.replace(/^#/,'')); } catch (_) { return; }
+    const target = document.getElementById(id); if (!target) return;
+    let disclosure = target.closest('details');
+    while (disclosure) { disclosure.open = true; disclosure = disclosure.parentElement?.closest('details'); }
+    if (focus) requestAnimationFrame(() => {
+      if (!target.hasAttribute('tabindex')) target.tabIndex = -1;
+      target.focus({preventScroll:true}); target.scrollIntoView({block:'start'});
+    });
+  }
+  document.addEventListener('click', event => {
+    const link = event.target.closest?.('a[href^="#"]');
+    if (link) revealReference(link.getAttribute('href'),true);
+  });
+  window.addEventListener('hashchange',() => revealReference(location.hash,true));
+  if (location.hash) revealReference(location.hash,true);
   const smallPlayer = window.matchMedia('(max-width: 740px)');
   let captionsEnabled = true, nativeFullscreen = false;
   function updateInlineCaptions() {
@@ -141,6 +159,20 @@
     $('completion-status').textContent = state.complete ? 'Part ' + data.number + ' is complete. Continue to the next lesson when you are ready.' : 'Answer every question correctly, using the explanations and retries as needed, to finish Part ' + data.number + '.';
     $('next-lesson').hidden = !state.complete; $('next-locked').hidden = state.complete;
     $('save-status').textContent = storageAvailable ? 'Progress is saved in this browser.' : 'Storage is unavailable. Keep this page open to retain progress.';
+    // Presentation only: the required-content and answer gates above remain unchanged.
+    $('complete').hidden = !contentReady() || !mastered() || state.complete;
+    $('result').hidden = answered === 0;
+    $('restart').hidden = answered === 0;
+    $('completion-status').hidden = !state.complete;
+    const watchStep = $('step-watch'), questionStep = $('step-questions');
+    if (watchStep && questionStep) {
+      watchStep.classList.toggle('is-done',contentReady());
+      questionStep.classList.toggle('is-done',state.complete);
+      for (const step of [watchStep,questionStep]) step.removeAttribute('aria-current');
+      if (!state.complete) (contentReady() ? questionStep : watchStep).setAttribute('aria-current','step');
+      $('step-watch-state').textContent = contentReady() ? 'Complete' : 'In progress';
+      $('step-questions-state').textContent = state.complete ? 'Complete' : contentReady() ? 'Ready' : 'Up next';
+    }
   }
   async function finish() {
     const applied = await mutate(() => {

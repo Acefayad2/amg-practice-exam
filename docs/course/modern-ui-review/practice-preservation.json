@@ -1,0 +1,39 @@
+{
+  "status": "passed",
+  "changedFunctions": [
+    "dashboard",
+    "renderEvidence"
+  ],
+  "byteIdenticalFunctions": [
+    "node",
+    "button",
+    "link",
+    "read",
+    "validChoice",
+    "restore",
+    "storageStatus",
+    "save",
+    "queue",
+    "lessonProgress",
+    "score",
+    "route",
+    "heading",
+    "focusHeading",
+    "submit",
+    "expire",
+    "active",
+    "start",
+    "exam",
+    "updateNav",
+    "move",
+    "examRender",
+    "updateTimer",
+    "results",
+    "review",
+    "render"
+  ],
+  "sourceBeforeSha256": "6033cdd5f46e5e083a32fc96276c7457950232539052d1e3a86644101a0ceb82",
+  "sourceAfterSha256": "0db49b6fce72484a14268867be2c6e21f745f5c930d13bb29cd8abc4730096e7",
+  "assessmentDataSha256": "0bc2878d9ede3a8d7efe3e2fb05e5df8ef917de11c6bff79c2e6ea8adc0d516e",
+  "scope": "Only dashboard and optional study-evidence DOM/copy changed. All score, timer, start/submit, restore/save, recurrence, question/result rendering, route and event-handling code stays byte-identical."
+}

@@ -81,30 +81,35 @@
  }
  function dashboard(){
   const progress=lessonProgress(),complete=progress.filter(p=>p.complete).length;
-  app.append(heading('PRACTICE / RETAIN / APPLY','Know what to study next.','Use the diagnostic to find a starting point. Finish the lessons, revisit mistakes after a delay, then use a fresh timed form to check what you can apply without hints.'));
-  const panel=node('section',undefined,'status-panel');panel.append(node('h2',complete+' of 60 course parts complete'),node('p',complete===60?'Every part’s study prerequisite and required answers are complete in this browser. You can now focus on fresh practice and weak concepts.':'A part counts only after its study prerequisite, every correct required answer and its explicit finish step.'));
-  const next=progress.find(x=>!x.complete);panel.append(link(next?'Continue with Part '+next.lesson.number:'Review your course',next?'/course/lesson-'+next.lesson.id+'/':'/course/'));
-  if(complete===60)panel.append(node('p','Course completion is a study record. It is not a licensing approval or an accredited CE certificate.','fine'));app.append(panel);
-  const cards=node('div',undefined,'cards');
+  app.append(heading('YOUR PRACTICE SPACE','Practice tests','Start anytime. These optional tests do not affect course completion.'));
+  const cards=node('div',undefined,'cards practice-cards');
   for(const f of data.forms){
-   const card=node('section',undefined,'card'),pending=state.attempts.find(a=>a.form===f.id&&!a.submittedAt),seen=state.seen.includes(f.id);
-   card.append(node('p',f.id==='D'?'STARTING POINT':seen?'PREVIOUSLY OPENED':'UNSEEN FORM','eyebrow'),node('h2',f.title),node('p',f.id==='D'?'32 questions · 4 per domain · Untimed. Results route your study; they do not exclude you from the course.':'90 questions · 105 minutes · 80 count toward the main score. Ten AMG simulation items are identified only after submission.'));
-   card.append(node('p',f.id==='D'?'Answer without help; mark uncertain answers. Feedback appears after submission.':pending?'The original timer continues while away. Resume before it expires.':seen?'A retake is useful practice, but is not counted as a fresh form in the study target.':'Use this after studying. Starting exposes the form, even if you later abandon it.','fine'));
-   card.append(button(pending?'Resume '+f.title:seen?'Retake '+(f.id==='D'?'diagnostic':f.title):'Start '+(f.id==='D'?'diagnostic':f.title),()=>start(f),'primary'));cards.append(card);
+   const card=node('section',undefined,'card practice-card'),pending=state.attempts.find(a=>a.form===f.id&&!a.submittedAt),seen=state.seen.includes(f.id);
+   card.dataset.form=f.id;
+   const top=node('div',undefined,'practice-card-top');top.append(node('span',f.id==='D'?'DIAGNOSTIC':'TIMED PRACTICE','eyebrow'),node('span',pending?'In progress':seen?'Previously opened':'Ready to start','form-state'+(pending?' is-pending':'')));card.append(top);
+   card.append(node('h2',f.id==='D'?'Find your starting point':'Form '+f.id),node('p',f.id==='D'?'A quick check across all eight exam topics.':'Build confidence under exam conditions.','form-description'));
+   const facts=node('div',undefined,'form-facts');facts.append(node('span',f.questions.length+' questions'),node('span',f.minutes?f.minutes+' minutes':'Untimed'));card.append(facts);
+   card.append(node('p',pending&&f.minutes?'Your timer keeps running. Resume before it expires.':f.id==='D'?'Feedback and a study direction after you submit.':seen?'Retakes are practice; your first result stays saved.':'80 scored questions + 10 simulation items.','fine form-note'));
+   const label=pending?'Resume '+f.title:seen?'Retake '+(f.id==='D'?'diagnostic':f.title):'Start '+(f.id==='D'?'diagnostic':f.title);
+   const action=button(pending?'Resume test':seen?'Retake test':f.id==='D'?'Start diagnostic':'Start test',()=>start(f),'primary form-start');action.setAttribute('aria-label',label);card.append(action);cards.append(card);
   }app.append(cards);
   const due=Object.entries(state.reviews).filter(([,r])=>r.stage<3&&r.nextDue<=Date.now()),upcoming=Object.entries(state.reviews).filter(([,r])=>r.stage<3).sort((a,b)=>a[1].nextDue-b[1].nextDue);
-  const review=node('section',undefined,'card');review.append(node('h2','Your delayed review'),node('p','Missed lesson first answers, assessment misses and answers you marked uncertain enter review. Use another question from the same lesson when available; returning to a known item is labeled as repeat practice.'));
-  review.append(node('p','Review intervals: 1 day after a miss, then 3 days after the first successful review, then 7 days after the second. A miss restarts the 1-day interval.','fine'));
-  if(due.length){review.append(node('p',due.length+' reviews due now'),button('Start due review',()=>route({review:due[0][0]}),'primary'));}
-  else review.append(node('p',upcoming.length?'No review is due yet. Next review: '+dateText(upcoming[0][1].nextDue)+'.':'No pending reviews. Your mistakes and uncertain answers will appear here.'));
-  app.append(review);renderEvidence(complete);
-  const historySection=node('section');historySection.append(node('h2','Your attempts'));
+  const support=node('div',undefined,'practice-support');
+  const review=node('section',undefined,'card review-card');review.append(node('p','KEEP IT FRESH','eyebrow'),node('h2',due.length?due.length+' reviews due':'Your review queue'));
+  if(due.length){review.append(node('p','Revisit concepts you missed or felt unsure about.'),button('Start due review',()=>route({review:due[0][0]}),'primary'));}
+  else review.append(node('p',upcoming.length?'Next review: '+dateText(upcoming[0][1].nextDue)+'.':'Nothing due yet. Missed and uncertain answers will appear here.','review-empty'));
+  const reviewMethod=node('details',undefined,'inline-details');reviewMethod.append(node('summary','How review works'),node('p','Missed lesson first answers, assessment misses and answers marked uncertain enter review. Another question from the same lesson is used when available; returning to a known item is labeled as repeat practice.'),node('p','Review intervals: 1 day after a miss, then 3 days after the first successful review, then 7 days after the second. A miss restarts the 1-day interval.'));review.append(reviewMethod);support.append(review);
+  const panel=node('section',undefined,'card status-panel');panel.append(node('p','YOUR COURSE','eyebrow'),node('h2',complete+' of 60 parts complete'));
+  const next=progress.find(x=>!x.complete);panel.append(node('p',next?'Pick up where you left off.':'All lesson requirements are complete in this browser.'),link(next?'Continue with Part '+next.lesson.number:'Review your course',next?'/course/lesson-'+next.lesson.id+'/':'/course/'));
+  const completionInfo=node('details',undefined,'inline-details');completionInfo.append(node('summary','What counts as complete?'),node('p','A part counts after its study prerequisite, every correct required answer and its explicit finish step. Practice tests are optional and do not change lesson completion. Course completion is a study record, not a licensing approval or an accredited CE certificate.'));panel.append(completionInfo);support.append(panel);app.append(support);
+  const historySection=node('details',undefined,'practice-disclosure attempt-history');historySection.append(node('summary','Attempt history'+(state.attempts.length?' · '+state.attempts.length:'')));
   const list=node('ul',undefined,'history-list');
   for(const a of [...state.attempts].reverse()){
    const f=formById.get(a.form),s=score(a),li=node('li');li.append(node('span',f.title+' · '+dateText(a.startedAt)+' · '+(a.submittedAt?s.correct+'/'+s.total+' ('+Math.round(s.percent)+'%)'+(a.expired?' · Time expired':''):'In progress')+' · '+(a.fresh?'First exposure':'Retake')),button(a.submittedAt?'Review result':'Resume',()=>route({attempt:a.id})));list.append(li);
   }
-  historySection.append(list.children.length?list:node('p','No attempts yet.','empty'));app.append(historySection);
-  const exportBox=node('section',undefined,'card');exportBox.append(node('h2','Keep a copy of your progress'),node('p','Download this browser’s lesson and assessment study record for your own backup or coordinator review. It contains answers and dates but no verified exam outcome.','export-note'),button('Download study record',()=>{
+  historySection.append(list.children.length?list:node('p','Your completed and in-progress tests will appear here.','empty'));app.append(historySection);renderEvidence(complete);
+  const guide=node('details',undefined,'practice-disclosure');guide.append(node('summary','How these practice tests work'),node('p','The diagnostic has 32 questions, four per domain, with no timer. Each timed form has 90 questions and a 105-minute limit. Eighty questions count toward its main score; ten AMG simulation items are identified only after submission.'),node('p','Answer without hints. You can skip, flag and change answers before submitting. Feedback appears afterward. A timed attempt continues while you are away, including when you return to this page.'),node('p','Starting a form records its first exposure, even if you leave it unfinished. Retakes are useful practice but do not count as fresh forms in the optional study target. These original AMG questions are not an official exam or a promise of passing.'));app.append(guide);
+  const exportBox=node('section',undefined,'export-panel');exportBox.append(node('div',undefined,'export-copy'));exportBox.firstChild.append(node('h2','Keep your study record'),node('p','Download this browser’s progress for your backup or coordinator.','export-note'));exportBox.append(button('Download study record',()=>{
    const exportData={exportedAt:new Date().toISOString(),course:'AMG Maryland Life',lessonProgress:progress.map(p=>({id:p.lesson.id,title:p.lesson.title,complete:p.complete,completedAt:p.completedAt})),assessmentProgress:state};
    const url=URL.createObjectURL(new Blob([JSON.stringify(exportData,null,2)],{type:'application/json'})),a=link('Download',url);a.download='amg-life-study-record.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);
   }));app.append(exportBox);save();
@@ -112,7 +117,7 @@
  function renderEvidence(complete){
   const fresh=state.attempts.filter(a=>a.submittedAt&&a.fresh),mocks=fresh.filter(a=>a.form!=='D'),hits=mocks.filter(a=>score(a).percent>=85),days=new Set(hits.map(a=>dayKey(a.submittedAt)));
   const outstanding=mocks.reduce((n,a)=>n+formById.get(a.form).questions.filter((q,i)=>(a.answers[i]!==q.answer||a.uncertain[i])&&!a.reviewed[i]).length,0);
-  const section=node('section');section.append(node('h2','Evidence of understanding'),node('p','AMG study target: complete the course, reach at least 85% on two previously unseen timed forms on separate days, and review misses and uncertain answers. This target is not Prometric’s cut score and has not been validated as a pass predictor.'));
+  const section=node('details',undefined,'practice-disclosure study-evidence');section.append(node('summary','Study insights'),node('h2','Evidence of understanding'),node('p','Optional AMG study target: complete the course, reach at least 85% on two previously unseen timed forms on separate days, and review misses and uncertain answers. Tests are not required to finish the course. This target is not Prometric’s cut score and has not been validated as a pass predictor.'));
   const met=complete===60&&hits.length>=2&&days.size>=2&&outstanding===0;
   section.append(node('p',met?'The course and two-form study target are met in this browser. Review the domain evidence below before deciding your next step.':complete+' / 60 parts · '+hits.length+' fresh forms at 85%+ · '+days.size+' qualifying study days · '+outstanding+' mock explanations awaiting review.','notice'));
   const table=node('table'),head=node('tr');for(const s of ['Domain','Fresh scored answers','Evidence'])head.append(node('th',s));const thead=node('thead');thead.append(head);table.append(thead);const body=node('tbody');

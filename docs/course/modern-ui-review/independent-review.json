@@ -1,0 +1,48 @@
+{
+  "reviewedAt": "2026-09-13T02:42:58.023183+00:00",
+  "status": "passed",
+  "checks": 298,
+  "coreChecks": 274,
+  "homeChecks": 24,
+  "baselineSha256": "490207e55582500a1ea278004d2edc8607929f6e28dbfabade78404270f31787",
+  "sourceHashes": {
+    "public/course/shared/home.js": "a73ed99d124d72e72507a5bfe676ede6f6eed74812c643b893c3c9293fa4876b",
+    "public/course/shared/lesson.js": "c7dc8b9d446f2cda0dca61d95c90330476b36de084653cb2a01459cc0f0374e3",
+    "public/course/assessments/assessment.js": "0db49b6fce72484a14268867be2c6e21f745f5c930d13bb29cd8abc4730096e7",
+    "public/course/shared/app.css": "14fb1af7e0fce3cfef9abf11170027934c435dcf247fab215092c945c6c180ee",
+    "public/course/shared/home.css": "c2395786e504b814f19ef7acaf342fc936032c6cd14a78742fdcaf88c48ba10a",
+    "public/course/shared/lesson.css": "00e93d7631fe630dd388dc5e1e21f35d905dd271e40686d134ee569ff39111ef",
+    "public/course/assessments/assessment.css": "43a15333e63b152ac0bf48413aee454eaf4e0d499ab51570d793b7c9490b9487",
+    "scripts/qa/modern-course-review.js": "d62548c2f5ddc961a1297887d1d4f535d2836ca81ac7e29fcb7f6d21c5b1363a",
+    "output/playwright/modern-home-review.js": "27470955401c640966f625e501dfe2bd9e6bb6711a77a8569a13f9ea50f24888"
+  },
+  "requiredQuestionsPreserved": 512,
+  "assessmentItemsPreserved": 302,
+  "lessonDataAndCaptionFilesPreserved": 60,
+  "actualRequiredAnswerSubmissions": 36,
+  "distinctRequiredQuestionsExercised": 32,
+  "errors": [],
+  "findings": [
+    {
+      "severity": "minor",
+      "finding": "Empty-state suggested singular beneficiary while literal search only matched plural beneficiaries.",
+      "resolution": "Root added shared ies-to-y query/text normalization; actual beneficiary/policy/annuity singular and plural browser pairs now pass."
+    }
+  ],
+  "limits": [
+    "Isolated Chromium contexts only; user progress untouched.",
+    "Synthetic ended events test UI gating; native video and captions are being reviewed separately by root.",
+    "Saved-state fixtures test new home summary branches; actual question controls exercised Parts1,2,3,60.",
+    "Exact hashes establish unchanged source data/media references/captions, not a new factual or full media audit."
+  ],
+  "evidence": [
+    {
+      "path": "output/playwright/modern-course-review.json",
+      "sha256": "9e31fdd8a919c5c737c2c18153e4b205da16a7e7f1f7a81fd50e3d4cc7e4d38c"
+    },
+    {
+      "path": "output/playwright/modern-home-review.json",
+      "sha256": "db17cc558c9292048776935c5727b088df11f1618531a11b4b652bf208499d0a"
+    }
+  ]
+}
