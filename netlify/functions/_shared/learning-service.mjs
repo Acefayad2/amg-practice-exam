@@ -62,9 +62,9 @@ function configuredURL(value) {
 }
 
 // Dependencies make every authorization, CAS and reporting-failure path testable
-// without contacting production Identity, Blobs or the company's spreadsheet.
+// without contacting production Blobs or the company's spreadsheet.
 export function createLearningHandler({ getUser, getStore, appsScriptURL = () => '', getToken = request => {
-  const match = /(?:^|;\s*)nf_jwt=([^;]+)/.exec(request.headers.get('cookie') || '');
+  const match = /(?:^|;\s*)__Host-amg_session=([^;]+)/.exec(request.headers.get('cookie') || '');
   try { return match ? decodeURIComponent(match[1]) : null; } catch { return null; }
 }, fetchImpl = fetch, now = Date.now, reportTimeoutMs = REPORT_TIMEOUT_MS }) {
   async function reporting(store, prefix, user, records, request, attemptSync) {
@@ -92,10 +92,10 @@ export function createLearningHandler({ getUser, getStore, appsScriptURL = () =>
       const probe = await fetchImpl(url, { method: 'GET', headers: { Accept: 'application/json' }, signal: controller.signal, redirect: 'follow' });
       const probeText = await probe.text();
       const readiness = probe.ok && probeText.length <= 4096 ? JSON.parse(probeText) : null;
-      if (!isObject(readiness) || Object.keys(readiness).length !== 3 || readiness.ok !== true || readiness.service !== 'AMG Learning reporting' || readiness.version !== 1) throw new Error('Reporting protocol unavailable');
+      if (!isObject(readiness) || Object.keys(readiness).length !== 3 || readiness.ok !== true || readiness.service !== 'AMG Learning reporting' || readiness.version !== 2) throw new Error('Reporting protocol unavailable');
       // The script authenticates this token, then fetches ?report=1 itself. It must
       // never accept a client-supplied summary, score or completion declaration.
-      const response = await fetchImpl(url, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ action: 'course_sync', identityAccessToken: token }), signal: controller.signal, redirect: 'follow' });
+      const response = await fetchImpl(url, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ action: 'course_sync', sessionToken: token }), signal: controller.signal, redirect: 'follow' });
       if (response.ok) {
         const raw = await response.text();
         if (raw.length <= 4096) {
@@ -116,8 +116,7 @@ export function createLearningHandler({ getUser, getStore, appsScriptURL = () =>
       if (!['GET', 'POST'].includes(request.method)) return json({ error: 'method_not_allowed' }, 405);
       const authenticated = await getUser(request);
       if (!authenticated?.id) return json({ error: 'authentication_required' }, 401);
-      if (!authenticated.email || !authenticated.confirmedAt || !Number.isFinite(Date.parse(authenticated.confirmedAt))) return json({ error: 'email_verification_required' }, 403);
-      if (!authenticated.roles?.includes('amg-agent')) return json({ error: 'course_access_required' }, 403);
+      if (!authenticated.email || authenticated.accessGranted !== true) return json({ error: 'course_access_required' }, 403);
       const user = { id: authenticated.id, email: authenticated.email, name: typeof authenticated.name === 'string' ? authenticated.name.slice(0, 150) : '' };
       if (request.method === 'POST') {
         if (request.headers.get('origin') !== new URL(request.url).origin) return json({ error: 'invalid_origin' }, 403);

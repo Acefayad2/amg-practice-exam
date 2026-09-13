@@ -1,25 +1,42 @@
 {
-  "applicationCommit": "07c0c27199e18963a4259807f68bf8ef87c9c6a7",
-  "previewDeployId": "6aa63a7cfc4c3e28741da86a",
-  "previewUrl": "https://6aa63a7cfc4c3e28741da86a--amg-exam-portal.netlify.app",
-  "previewState": "ready",
+  "accessModel": "shared-amg-code-with-self-reported-name-email",
+  "implementationStatus": "conversion in progress; final integration and hosted acceptance pending",
+  "applicationCommit": null,
+  "previewDeployId": null,
+  "previewUrl": null,
   "published": false,
-  "liveProductionDeployUnchanged": "6aa60f52b05d0279db962ab7",
-  "functions": [
-    "identity-signup",
-    "identity-usermodified",
-    "identity-validate",
-    "learning"
-  ],
-  "edgeProtection": true,
-  "temporaryTestAccountsRemoved": true,
-  "temporaryQAEnvironmentRemoved": true,
+  "learnerIdentity": "Stable server HMAC of normalized self-reported email; no individual account or verified email ownership",
+  "reportingProtocol": {
+    "service": "AMG Learning reporting",
+    "version": 2,
+    "action": "course_sync",
+    "tokenField": "sessionToken",
+    "cookieName": "__Host-amg_session",
+    "reportURL": "https://amg-exam-portal.netlify.app/api/learning?report=1"
+  },
   "googleSheetTabsPrepared": [
     "Course Progress",
     "Lesson Progress",
     "Practice Tests"
   ],
-  "automaticSheetSync": "pending Google authorization and existing Apps Script deployment update",
-  "finalRealBrowserTest": "blocked by automatic approval review; explicit user approval requested",
-  "liveSignupLifecycle": "pending authorized acceptance test"
+  "reportingHeadersChanged": false,
+  "automaticSheetSync": "disabled pending version2 Apps Script authorization/deployment and acceptance",
+  "sharedCodeHostedAcceptance": "pending final implementation and authorized verification",
+  "supersededIdentityPrototype": {
+    "applicationCommit": "07c0c27199e18963a4259807f68bf8ef87c9c6a7",
+    "previewDeployId": "6aa63a7cfc4c3e28741da86a",
+    "previewUrl": "https://6aa63a7cfc4c3e28741da86a--amg-exam-portal.netlify.app",
+    "published": false,
+    "lastRecordedProductionDeploy": "6aa60f52b05d0279db962ab7",
+    "temporaryTestAccountsRemoved": true,
+    "temporaryQAEnvironmentRemoved": true,
+    "note": "Historical individual-account prototype only; not acceptance or deployment of the shared-code replacement."
+  },
+  "localValidation": {
+    "appsScriptReportingGroups": 17,
+    "convertedAdapterChecks": 22,
+    "independentEntryBrowserChecks": 22,
+    "entryBrowserIdentityRequests": 0,
+    "realServicesUsedByTheseChecks": false
+  }
 }

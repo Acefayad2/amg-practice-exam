@@ -1,0 +1,62 @@
+{
+  "reviewedAt": "2026-09-13T06:17:53.941675+00:00",
+  "status": "passed",
+  "checks": 93,
+  "reports": [
+    {
+      "file": "output/qa/account-adapter-unit.json",
+      "status": "passed",
+      "checks": 22,
+      "sha256": "2694e37ac44745777a1102702473df2a5bdc6f4cc6a7743423043cdd517b873f"
+    },
+    {
+      "file": "output/qa/learner-assessment-browser.json",
+      "status": "passed",
+      "checks": 13,
+      "sha256": "6eb3539f7e24bc2f5877eae65365a756696c3cd04790a751eb74a96c8dfafd21"
+    },
+    {
+      "file": "output/qa/learner-lesson-layout-browser.json",
+      "status": "passed",
+      "checks": 19,
+      "sha256": "ed5292d21966e1ada626bcd780d4774e03d605f8a66c08e30626016b5f2045c4"
+    },
+    {
+      "file": "output/qa/shared-code-entry-browser.json",
+      "status": "passed",
+      "checks": 24,
+      "sha256": "2edcd376fb71e8aeae5079270296b222f3d3d5bb76354e7070b50a851b98d9d5"
+    },
+    {
+      "file": "output/qa/learner-return-paths.json",
+      "status": "passed",
+      "checks": 11,
+      "sha256": "3135f23d28a0d0e9e9f7407068a105e8a1bf49a839c740d3e71cdcb28323e039"
+    },
+    {
+      "file": "output/qa/learner-profile-render.json",
+      "status": "passed",
+      "checks": 4,
+      "sha256": "310b3e04ec4c3770e78123840b97002e874fa29c2542ce7b1844514aa5569dc0"
+    }
+  ],
+  "hashes": {
+    "src/course/account.js": "89f5e4761e2abb6530e1d07eab25958ef3f1199dc7ee2a94c246c515eb88419a",
+    "src/course/login.js": "e708f490dd6054cbc225aa04536b675da11cd6dfac08661de949148cfa1d47a7",
+    "public/course/shared/account.js": "e12f1881c2cc61915faee80edd8e4f61b6a130dd955347d4ee8332339ebd19c8",
+    "public/course/shared/login.js": "7bff98b07c2d2e705c8b352027c2ac05f0aed74f2eb4fb4c08a90bab4bb78454",
+    "public/login/index.html": "6e38dc80f52ca65d0d8d261af16e5768f182891e14350472c764feaf6f13f822",
+    "public/login/login.css": "dadffbf3cfa5f7708b0303aa262781e09621361a20a92f1f04095609cec48818",
+    "public/course/assessments/assessment.js": "a609c8079b23a88cfdaf3dd0fe473319e7c31dd5b4725092d5934e67179a4873",
+    "public/course/assessments/assessment-data.js": "0bc2878d9ede3a8d7efe3e2fb05e5df8ef917de11c6bff79c2e6ea8adc0d516e"
+  },
+  "preservedByteIdenticalToHead": {
+    "upload_queue_CAS_and_ack": true,
+    "logical_storage_and_snapshot_guard": true
+  },
+  "visualReview": "Viewed desktop/mobile entry and profile screenshots, plus mobile lesson header/reporting banner. Forms and controls fit without horizontal overflow; no real learner information appears in screenshots. Deliberately blocked lesson media shows expected fallback.",
+  "scope": "Shared-code client conversion, mocked learner session/progress API, actual built UI, state restoration and concurrency; code/profile errors and safe routing. No Identity endpoint requested in entry test. No real shared code, server-cookie validation, Google writes, or production entry run.",
+  "actualEntryHarness": "scripts/qa/learner-live-entry.mjs prepared and syntax checked only; not executed.",
+  "cleanup": "All browsers/contexts launched by these local runners are closed. Root-owned 4201 server remains.",
+  "finalRefinement": "The final login-only change handles a non-JSON platform 429 before JSON parsing. The independent entry browser suite was rerun after the rebuilt bundle and passes24 checks, including rate-limit wait guidance and remaining on the code step. Other unchanged client components retain their earlier evidence."
+}

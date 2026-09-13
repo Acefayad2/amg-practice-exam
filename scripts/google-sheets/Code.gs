@@ -1,10 +1,10 @@
 /* AMG Learning reporting. Bound to the existing AMG Practice Exam Results workbook.
- * Course records are fetched from the authenticated learning API, never trusted
+ * Course records are fetched from the session-protected learning API, never trusted
  * from an arbitrary browser payload. Existing Sheet1 history is left untouched.
  */
 var AMG_SHEET_ID = '1WDRXIE0B0O6D8IeZ2k2XwjMO6R9gwKtxekKJIISHJPw';
 var AMG_SITE = 'https://amg-exam-portal.netlify.app';
-var AMG_REPORT_VERSION = 1;
+var AMG_REPORT_VERSION = 2;
 
 function doGet() {
   return json_({ok: true, service: 'AMG Learning reporting', version: AMG_REPORT_VERSION});
@@ -12,13 +12,13 @@ function doGet() {
 
 function doPost(e) {
   try {
-    if (!e || !e.postData || e.postData.contents.length > 24000) throw new Error('Invalid request.');
+    if (!e || !e.postData || typeof e.postData.contents !== 'string' || e.postData.contents.length > 24000) throw new Error('Invalid request.');
     var data = JSON.parse(e.postData.contents);
-    if (data.action !== 'course_sync') throw new Error('Use the signed-in AMG course to record results.');
-    var token = data.identityAccessToken;
-    if (typeof token !== 'string' || token.length < 20 || token.length > 16000 || !/^[A-Za-z0-9_.-]+$/.test(token)) throw new Error('Sign in again.');
+    if (!data || Array.isArray(data) || typeof data !== 'object' || Object.keys(data).length !== 2 || data.action !== 'course_sync' || !Object.prototype.hasOwnProperty.call(data,'sessionToken')) throw new Error('Use the AMG course session to record results.');
+    var token = data.sessionToken;
+    if (typeof token !== 'string' || token.length > 4096 || !/^[A-Za-z0-9_-]+\.[A-Za-z0-9_-]+$/.test(token)) throw new Error('Sign in again.');
     var response = UrlFetchApp.fetch(AMG_SITE + '/api/learning?report=1', {
-      method: 'get', headers: {Cookie: 'nf_jwt=' + token, Authorization: 'Bearer ' + token},
+      method: 'get', headers: {Cookie: '__Host-amg_session=' + token},
       muteHttpExceptions: true, followRedirects: false
     });
     if (response.getResponseCode() !== 200) throw new Error('Your course session could not be verified.');
@@ -50,7 +50,7 @@ function safe_(value) {
 function percent_(value) { return typeof value === 'number' && isFinite(value) ? value / 100 : ''; }
 function validateReport_(report) {
   var s = report && report.summary;
-  if (!s || typeof s.uid !== 'string' || !/^[A-Za-z0-9-]{12,100}$/.test(s.uid) || typeof s.email !== 'string' || !s.email.includes('@')) throw new Error('Invalid account report.');
+  if (!s || typeof s.uid !== 'string' || !/^[a-f0-9]{64}$/.test(s.uid) || typeof s.email !== 'string' || !s.email.includes('@')) throw new Error('Invalid learner report.');
   if (s.totalLessons !== 60 || !Number.isInteger(s.completedLessons) || s.completedLessons < 0 || s.completedLessons > 60) throw new Error('Invalid course summary.');
   if (!Array.isArray(report.lessons) || report.lessons.length > 60 || !Array.isArray(report.attempts) || report.attempts.length > 1000) throw new Error('Invalid course records.');
 }
@@ -102,6 +102,8 @@ function upsert_(sheet, rows, columns) {
 }
 function syncReport_(book, report, syncedAt) {
   var s = report.summary;
+  // The existing hidden Account ID header is retained for schema compatibility.
+  // Its value groups a self-reported normalized email; it is not verified identity.
   var summaryHeaders = ['Agent','Email','Lessons complete','Total lessons','Course progress','Questions mastered','Current lesson','Last activity (UTC)','Course completed (UTC)','Diagnostic score','Best timed score','Latest timed score','Practice attempts','Reported at (UTC)','Account ID'];
   var summary = tab_(book,'Course Progress',summaryHeaders,[5,6,10,11,12]);
   upsert_(summary,[[s.name,s.email,s.completedLessons,60,percent_(s.progressPercent),percent_(s.questionMastery),s.currentLesson,s.lastActiveAt,s.courseCompletedAt,percent_(s.diagnosticScore),percent_(s.bestMockScore),percent_(s.latestMockScore),s.practiceAttempts,syncedAt,s.uid]],summaryHeaders.length);
@@ -124,8 +126,10 @@ function syncReport_(book, report, syncedAt) {
 // Run once in the Apps Script editor to authorize and prepare only the new tabs.
 function setupCourseReporting() {
   var book = SpreadsheetApp.openById(AMG_SHEET_ID);
-  var response = UrlFetchApp.fetch(AMG_SITE + '/.netlify/identity/settings', {muteHttpExceptions:true});
-  if (response.getResponseCode() !== 200) throw new Error('AMG account service is unavailable.');
+  // This unauthenticated probe grants no course access and sends no learner data.
+  // It requests the external-fetch scope and confirms that a session is required.
+  var response = UrlFetchApp.fetch(AMG_SITE + '/api/learning?report=1', {method:'get',muteHttpExceptions:true,followRedirects:false});
+  if (response.getResponseCode() !== 401) throw new Error('AMG reporting session protection could not be confirmed.');
   tab_(book,'Course Progress',['Agent','Email','Lessons complete','Total lessons','Course progress','Questions mastered','Current lesson','Last activity (UTC)','Course completed (UTC)','Diagnostic score','Best timed score','Latest timed score','Practice attempts','Reported at (UTC)','Account ID'],[5,6,10,11,12]);
   tab_(book,'Lesson Progress',['Agent','Email','Lesson','Title','Status','Questions correct','Required questions','First answers correct','First answers given','Resume position (seconds)','Last activity (UTC)','Completed at (UTC)','Record ID'],[]);
   tab_(book,'Practice Tests',['Agent','Email','Practice test','Started at (UTC)','Submitted at (UTC)','Correct (scored)','Total (scored)','Score','Correct (simulation)','Total (simulation)','Time expired','Fresh questions','Record ID'],[8]);

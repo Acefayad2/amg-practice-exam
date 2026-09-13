@@ -7,7 +7,7 @@ import { allowedKeys, buildReport, hash, schema, scoreAttempt, userPrefix, valid
 import { createLearningHandler, MAX_BODY_BYTES, REPORT_INTERVAL_MS } from '../netlify/functions/_shared/learning-service.mjs';
 
 const NOW = Date.parse('2026-09-13T12:00:00Z');
-const USER = { id: 'verified-user-001', email: 'agent@example.test', name: 'AMG Agent', confirmedAt: '2026-09-12T12:00:00Z', roles: ['amg-agent'] };
+const USER = { id: 'session-user-001', email: 'agent@example.test', name: 'AMG Agent', accessGranted: true };
 const ENDPOINT = 'https://amg.example.test/api/learning';
 const SCRIPT = 'https://script.google.com/macros/s/test-deployment/exec';
 const clone = value => structuredClone(value);
@@ -29,7 +29,7 @@ function setup(overrides = {}) {
   const store = overrides.store || new MemoryStore(), calls = [], probes = [];
   let clock = NOW;
   const handler = createLearningHandler({ getUser: async () => USER, getStore: () => store, now: () => clock, appsScriptURL: () => '', ...overrides, fetchImpl: async (...args) => {
-    if (args[1].method === 'GET') { probes.push(args); return overrides.probeImpl ? overrides.probeImpl(...args) : new Response(JSON.stringify({ ok: true, service: 'AMG Learning reporting', version: 1 })); }
+    if (args[1].method === 'GET') { probes.push(args); return overrides.probeImpl ? overrides.probeImpl(...args) : new Response(JSON.stringify({ ok: true, service: 'AMG Learning reporting', version: 2 })); }
     calls.push(args);
     return overrides.fetchImpl ? overrides.fetchImpl(...args) : new Response(JSON.stringify({ ok: true, syncedAt: new Date(clock).toISOString() }));
   } });
@@ -37,7 +37,7 @@ function setup(overrides = {}) {
 }
 
 function request(body, options = {}) {
-  const headers = { 'Content-Type': 'application/json', Origin: new URL(ENDPOINT).origin, 'X-AMG-User': USER.id, Cookie: 'nf_jwt=test-token', ...options.headers };
+  const headers = { 'Content-Type': 'application/json', Origin: new URL(ENDPOINT).origin, 'X-AMG-User': USER.id, Cookie: '__Host-amg_session=test-token', ...options.headers };
   return new Request(ENDPOINT + (options.query || ''), { method: body === undefined ? 'GET' : 'POST', headers, ...(body === undefined ? {} : { body: options.raw || JSON.stringify(body) }) });
 }
 function lessonValue(lesson = schema.lessons[0], complete = false) {
@@ -64,8 +64,8 @@ test('server answer schema binds all61 exact current source files and all814 que
   }
 });
 
-test('authentication, confirmation and AMG authorization are required before any store operation', async () => {
-  for (const [user, status, error] of [[null, 401, 'authentication_required'], [{ ...USER, confirmedAt: undefined }, 403, 'email_verification_required'], [{ ...USER, roles: [] }, 403, 'course_access_required']]) {
+test('signed-session authorization is required before any store operation', async () => {
+  for (const [user, status, error] of [[null, 401, 'authentication_required'], [{ ...USER, accessGranted: undefined }, 403, 'course_access_required'], [{ ...USER, email: '' }, 403, 'course_access_required'], [{ ...USER, accessGranted: false, confirmedAt: '2026-09-12T12:00:00Z', roles: ['amg-agent'] }, 403, 'course_access_required']]) {
     const s = setup({ getUser: async () => user, getStore: () => { assert.fail('unauthorized store access'); } });
     for (const body of [undefined, envelope()]) { const result = await send(s, body); assert.equal(result.response.status, status); assert.equal(result.data.error, error); }
   }
@@ -233,12 +233,12 @@ test('successful sheet sync sends token+action only and requires explicit timest
   assert.equal(result.data.reporting.status, 'synced'); assert.equal(s.calls.length, 1);
   assert.equal(s.probes.length, 1); assert.equal(s.probes[0][1].method, 'GET'); assert.equal(s.probes[0][1].body, undefined);
   assert(!JSON.stringify(s.probes[0]).includes('test-token'));
-  assert.deepEqual(JSON.parse(s.calls[0][1].body), { action: 'course_sync', identityAccessToken: 'test-token' });
+  assert.deepEqual(JSON.parse(s.calls[0][1].body), { action: 'course_sync', sessionToken: 'test-token' });
   assert.equal(s.calls[0][0], SCRIPT); assert.equal(s.calls[0][1].signal instanceof AbortSignal, true);
 });
 
 test('legacy or unverified reporting endpoints never receive a POST, token or learner payload', async () => {
-  for (const payload of ['<html>Script function not found: doGet</html>', { ok: true }, { ok: true, service: 'Legacy exams', version: 1 }, { ok: true, service: 'AMG Learning reporting', version: 2 }, { ok: false, service: 'AMG Learning reporting', version: 1 }, { ok: true, service: 'AMG Learning reporting', version: 1, unexpected: true }]) {
+  for (const payload of ['<html>Script function not found: doGet</html>', { ok: true }, { ok: true, service: 'Legacy exams', version: 1 }, { ok: true, service: 'AMG Learning reporting', version: 1 }, { ok: false, service: 'AMG Learning reporting', version: 2 }, { ok: true, service: 'AMG Learning reporting', version: 2, unexpected: true }]) {
     const s = setup({ appsScriptURL: () => SCRIPT, probeImpl: async () => new Response(typeof payload === 'string' ? payload : JSON.stringify(payload)), fetchImpl: async () => assert.fail('Unsafe POST to legacy endpoint') });
     const result = await send(s, envelope(lessonValue(schema.lessons[0], true)));
     assert.equal(result.response.status, 200); assert.equal(result.data.record.revision, 1); assert.equal(result.data.reporting.status, 'pending');
@@ -247,7 +247,7 @@ test('legacy or unverified reporting endpoints never receive a POST, token or le
 });
 
 test('readiness network failures and non2xx probes keep progress durable with no POST', async () => {
-  for (const probeImpl of [async () => { throw new Error('network'); }, async () => new Response(JSON.stringify({ ok: true, service: 'AMG Learning reporting', version: 1 }), { status: 503 })]) {
+  for (const probeImpl of [async () => { throw new Error('network'); }, async () => new Response(JSON.stringify({ ok: true, service: 'AMG Learning reporting', version: 2 }), { status: 503 })]) {
     const s = setup({ appsScriptURL: () => SCRIPT, probeImpl });
     const result = await send(s, envelope()); assert.equal(result.response.status, 200); assert.equal(result.data.reporting.status, 'pending'); assert.equal(s.calls.length, 0);
   }
@@ -314,12 +314,15 @@ test('storage failures are explicit503 and never disclose provider details or cr
   const result = await send(s, envelope()); assert.equal(result.response.status, 503); assert.deepEqual(result.data, { error: 'progress_service_unavailable' });
 });
 
-test('source adapter explicitly uses Identity, strong store and Netlify environment, not client identity', () => {
+test('source adapter uses signed server session, strong store and Netlify environment', () => {
   const source = fs.readFileSync(new URL('../netlify/functions/learning.mts', import.meta.url), 'utf8');
   assert.match(source, /import \{ getCourseUser \} from '\.\.\/shared\/course-user\.ts'/);
   assert.match(source, /getUser: getCourseUser/);
   assert.match(source, /consistency: 'strong'/); assert.match(source, /Netlify\.env\.get\('AMG_APPS_SCRIPT_URL'\)/);
   assert(!source.includes('process.env'));
+  assert.match(source, /readAccessCookie\(request, SESSION_COOKIE\)/);
+  assert(!source.includes('@netlify/identity'));
+  assert(!source.includes('nf_jwt'));
   assert(!source.includes('VITE_APPS_SCRIPT_URL'), 'Legacy build-time endpoint must never become a reporting destination');
   assert.equal(hash({ a: 1, b: 2 }), hash({ b: 2, a: 1 }));
 });

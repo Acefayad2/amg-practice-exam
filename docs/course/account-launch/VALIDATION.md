@@ -1,37 +1,36 @@
-# Account update validation — September 13, 2026
+# Shared-code course validation — September 13, 2026
 
-## Completed
+## Current target
 
-- 56 local backend/Identity/Edge test groups passed, including server-side scoring, allowed records, account separation, stale-write conflicts, immutable submitted tests and reporting failure handling.
-- 18 adapter checks and 32 browser checks passed against the real client bundles with isolated dummy service responses. These cover actual lesson/assessment controls, completion/restoration, wrong-answer retry history, stale-tab rejection, feedback persistence, sign-out and desktop/mobile layout.
-- Apps Script tests passed: verified-source data, formula-safe text, blank absent scores, correct timed-test denominator, idempotent upserts, header mismatch rejection and untouched historical Sheet1.
-- Actual Netlify preview: both confirmed synthetic accounts could sign in through the Identity API, open protected lessons and read their own empty account records. Cross-account save headers returned403. Reporting returned `not_configured` and made no Google writes.
-- Real signed-out course/lesson/data requests redirected to login; unauthenticated progress API returned401. Public bundles do not contain the registration code.
-- Existing workbook’s three empty reporting tabs were prepared and their exact headers, formats and hidden IDs verified by readback. All three tabs were also inspected visually at100% zoom. Sheet1 was excluded from every mutation.
-- Two temporary account records and their62 allowlisted storage keys each were removed after the hosted API checks. The temporary admin test function is excluded from the reviewed source/deploy.
+The user chose one shared AMG access code with name/email progress tracking. Individual Identity accounts, passwords, signup confirmation and recovery are no longer the launch flow. This file keeps its stable location while separating replacement evidence from the earlier prototype.
 
-## Fixes found during review
+## Verified for this reporting conversion
 
-Stale assessment tabs could previously borrow a newer cached revision; exact-snapshot conflict handling now prevents the overwrite. Save acknowledgements no longer close review explanations or result disclosures. Queued writes show Saving immediately.
+- `node scripts/qa/account-reporting.test.mjs`: **17 groups passed** against the actual Apps Script source and in-memory service doubles. The checks cover the exact version2 handshake, session-only envelope, rejection of old Identity payloads and cookie-injection strings, canonical report URL, protected-cookie forwarding, rejected unauthenticated/redirected responses, authoritative report validation, lock contention, header-only setup, formula-safe strings, missing scores, scored/simulation denominator separation, retry/update/separate-learner upserts, coordinator header protection and untouched historical Sheet1.
+- No real course session, learner row or remote service was used by those tests. Source changes alone do not establish Google deployment or automatic reporting.
+- The converted progress adapter passed **22** actual-source local checks, independently rerun. The independent entry browser harness passed **22** checks against the real built login/course bundles with intercepted dummy services: wrong code, code masking/clearing, keyboard focus, expired gate recovery, normalized profile, learner binding, safe return destination, startup retry, malformed ready rejection and **zero Identity requests**. No product change or harness correction was required by that browser run.
+- Entry-browser bundle hashes remained stable during the run and matched current public files afterward: login `79cd0afaca49393c91273a547b6f2952b5f49064df6780597e0a6dce646e5452`; account `e12f1881c2cc61915faee80edd8e4f61b6a130dd955347d4ee8332339ebd19c8`. These are mocked-service UI checks, not real hosted cookie acceptance.
+- The existing workbook already has the three empty reporting tabs. Preparation read back exact headers, formats, freeze counts, dimensions and hidden record-ID columns; all 999 intended data rows per new tab were empty. No permission changes or historical Sheet1 mutations were made. These stable headers remain unchanged by this conversion.
+- Record grouping is explicitly documented as server-derived from normalized self-reported email, not verified email ownership or personal identity.
 
-The installed Identity2.0 SDK prefers its runtime operator token while retrieving a full user profile, then can fall back to JWT claims without email-confirmation data. A shared server wrapper retains the SDK-verified ID and retrieves only the same account’s full profile using the actual session cookie and a fixed Identity endpoint. Invalid tokens, mismatched IDs, revoked roles, redirects and unavailable profiles fail closed. This correction passed both unit tests and real hosted API/Edge checks.
+## Regression protections to retain in the new client
 
-The actual Netlify runtime gives top-level roles precedence during event serialization. The shared registration policy now aligns top-level roles and app metadata so an incoming empty role list cannot erase the course grant; eight checks passed through the installed runtime. CLI27.5.2 also drops typed event-subscription metadata during upload. The update uses a separate typed handler in each supported Identity event filename with one shared policy. Actual hosted event dispatch remains an explicit acceptance check.
+The prior progress adapter fixed stale assessment snapshots borrowing newer cache revisions, save acknowledgements removing visible explanations, and premature Saved status for queued writes. Prior local tests also covered lesson completion/retry history, learner-key scoping, logout, late responses and uncertain-response retry payloads. Those findings remain relevant, but their previous Identity-bound test counts must not be presented as completed acceptance of the new session client. Rerun the focused tests against the final shared-code bundles and record their hashes/results after integration.
 
-The old reporting endpoint accepted legacy browser payloads. New reporting requires an exact service/version handshake before any authenticated POST, and its legacy environment fallback was removed. The endpoint remains deliberately disabled pending Google authorization/deployment.
+Question identities, original answer indices, lesson versions, completion gates, scoring and authored teaching should remain unchanged by this access/reporting conversion. The final integration check must confirm that protection.
 
-## Not yet verified / pending
+## Required before claiming the replacement live
 
-The final real-browser test with actual temporary credentials and saved lesson progress was blocked by automatic approval review before it ran. The owner was asked to approve that exact test; no equivalent test was substituted. The earlier browser checks use dummy service responses and must not be represented as this final integrated acceptance run.
+1. Verify the final shared-code server and browser flow: valid code/name/email entry, rejected wrong code, invalid/expired session denial, sign out, learner switching, stale saves and returning with the same normalized email. Confirm that no private code or signing key appears in public assets.
+2. Verify actual hosted course-route protection and learner-scoped server storage using the approved test scope. Mocked API/browser tests do not prove deployed cookie behavior.
+3. Install/authorize the version2 Apps Script source and update the existing deployment. Confirm the exact service/version GET handshake and rejected invalid-session POST before enabling the reporting URL.
+4. Verify one authorized complete reporting path and any test-row cleanup. Keep learner data out of the workbook until its intended sharing/rollout policy is resolved by the owner.
+5. Record the final application commit, production deployment and actual results in `RELEASE.json`. Do not inherit the earlier prototype's preview status as this release's status.
 
-Preview public-signup probes returned unconfirmed accounts without the expected role grant or access-code cleaning. Their course access stayed denied, and the accounts were deleted. Actual production registration-code enforcement and email-confirmation delivery must be checked before announcing this update as live. A manual admin confirmation does not prove email-token delivery or the signup event.
+Google's external-request authorization and the existing Apps Script deployment were pending when conversion began. The old Identity prototype's public-signup event problem and confirmation-email acceptance are superseded by the user-selected shared-code flow; they are not requirements to bring back individual accounts.
 
-Google Apps Script source is saved in the existing bound project, but its new external-request scope still needs Google authorization and the existing web-app deployment must be updated. The Mac was locked and the authorization window was inaccessible to computer control. No automatic reporting is claimed.
+## Historical prototype evidence
 
-Existing workbook sharing still allows anyone with the link; the owner has been asked whether to restrict it. No detailed agent data has been sent through the new reporting flow.
+The earlier individual-account prototype had local/preview checks for scoring, CAS conflicts, immutable submitted tests and mock spreadsheet upserts, plus temporary Identity accounts that were removed. Its commit and preview identifiers are retained as explicitly superseded history in `RELEASE.json`. It was not the shared-code release and does not prove the replacement has been deployed.
 
-No production deployment has been made for this account update yet. The previous course remains live while the reviewed account update stays in preview. No video credits were used.
-
-## Developer dependency note
-
-Compatible dependency patches were applied. npm audit still reports two development-tool findings in the older Vite/esbuild toolchain; fixing those requires a separate major-version toolchain update. The deployed static assets do not expose the local Vite development server.
+No video generation is part of this change. Compatible dependency patches from the earlier implementation remain; the previously recorded Vite/esbuild development-tool findings require a separate toolchain update if still present in the final dependency audit.

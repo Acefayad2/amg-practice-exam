@@ -1,6 +1,4 @@
-import { getUser, logout, onAuthChange } from '@netlify/identity';
-
-// The server authenticates every request. Local records are only this user's cache.
+// The server verifies the shared-code learner session. Local records are only its cache.
 const SESSION_KEY = 'amg-account-session-change';
 const logicalKey = key => /^amg-life-lesson-(0[1-9]|[1-5]\d|60)-v[1-9]\d*$/.test(key) || key === 'amg-life-assessments-v1';
 const clone = value => JSON.parse(JSON.stringify(value));
@@ -16,14 +14,14 @@ const validRecord = record => record && Number.isSafeInteger(record.revision) &&
 const canWrite = () => hydrated && !stopped && !conflicted;
 function notify(key = null, source = 'status') { queueMicrotask(() => { for (const fn of listeners) fn({key,source}); renderStatus(); }); }
 function statusText() {
-  if (stopped) return 'Sign in to continue.';
+  if (stopped) return 'Enter the course to continue.';
   if (conflicted) return 'Progress changed on another device. Reload saved progress to continue.';
   if (!hydrated) return 'Loading your saved progress…';
-  if (queuedSnapshots) return 'Saving progress to your account…';
-  if (failures.size) return localAvailable ? 'Saved on this device. Account sync is pending.' : 'Account sync is pending. Keep this page open.';
-  if ([...memory.values()].some(record => record.dirty)) return localAvailable ? 'Saving progress to your account…' : 'Saving progress. Keep this page open until saved.';
-  if (reporting?.status === 'pending' || reporting?.status === 'not_configured') return 'Progress saved to your account. Coordinator reporting is pending.';
-  return 'Progress saved to your account.';
+  if (queuedSnapshots) return 'Saving progress…';
+  if (failures.size) return localAvailable ? 'Saved on this device. Progress sync is pending.' : 'Progress sync is pending. Keep this page open.';
+  if ([...memory.values()].some(record => record.dirty)) return localAvailable ? 'Saving progress…' : 'Saving progress. Keep this page open until saved.';
+  if (reporting?.status === 'pending' || reporting?.status === 'not_configured') return 'Progress saved. Coordinator reporting is pending.';
+  return 'Saved under your email.';
 }
 function renderStatus() {
   const slot = document.getElementById('account-sync-status');
@@ -48,25 +46,31 @@ function showGuard(message, actions = []) {
   guard.append(panel);
   for (const media of document.querySelectorAll('video,audio')) media.pause();
   for (const dialog of document.querySelectorAll('dialog[open]')) dialog.close();
-  // Blocking pointer and keyboard interaction prevents an old account's open forms from saving.
+  // Blocking pointer and keyboard interaction prevents a previous learner’s open forms from saving.
   for (const child of document.body.children) if (child !== guard && child.tagName !== 'SCRIPT') child.inert = true;
 }
 function hideGuard() { document.body.classList.remove('account-loading'); for (const child of document.body.children) if (child !== guard) child.inert = false; guard?.remove(); guard = null; }
-function stop(message = 'Your session changed. Sign in again to continue.') {
+function stop(message = 'The learner session changed. Enter the course again to continue.') {
   if (stopped) return;
   stopped = true; epoch += 1; clearTimeout(reportTimer);
   for (const timer of timers.values()) clearTimeout(timer); timers.clear();
   for (const controller of controllers) controller.abort();
-  showGuard(message,[['Sign in',() => location.replace(loginUrl())]]); notify();
+  showGuard(message,[['Enter course',() => location.replace(loginUrl())]]); notify();
 }
 function broadcast(type) {
   const event = {type,userId:user?.id || null,id:crypto.randomUUID()};
-  try { localStorage.setItem(SESSION_KEY,JSON.stringify(event)); } catch (_) { /* SDK also announces session changes. */ }
+  try { localStorage.setItem(SESSION_KEY,JSON.stringify(event)); } catch (_) { /* The server still checks every request when local storage is unavailable. */ }
 }
 async function signOut() {
-  stop('Signing out…'); broadcast('logout');
-  try { await logout(); } catch (_) { /* The SDK clears browser auth even when its remote request fails. */ }
-  location.replace(loginUrl());
+  stop('Leaving the course…'); broadcast('logout');
+  const controller = new AbortController(), timeout = setTimeout(() => controller.abort(),15000);
+  try {
+    const response = await fetch('/api/access',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({action:'logout'}),credentials:'include',cache:'no-store',signal:controller.signal});
+    if (!response.ok) throw new Error('leave_failed');
+    location.replace(loginUrl());
+  } catch (_) {
+    showGuard('We couldn’t end this learner session. Please try again.',[['Try again',signOut]]);
+  } finally { clearTimeout(timeout); }
 }
 function readEnvelope(key) {
   if (localAvailable) {
@@ -88,7 +92,7 @@ function markConflict(key,pendingValue) {
   const record = readEnvelope(key); if (record) writeEnvelope(key,{...record,conflict:true,...(pendingValue ? {rejectedValue:clone(pendingValue)} : {})});
   conflicted = true; clearTimeout(reportTimer);
   for (const timer of timers.values()) clearTimeout(timer); timers.clear();
-  showGuard('Progress changed on another device. Your pending work is kept on this device until you reload. Reload saved progress to continue.',[['Reload saved progress',() => location.reload()],['Sign out',signOut]]); notify();
+  showGuard('Progress changed on another device. Your pending work is kept on this device until you reload. Reload saved progress to continue.',[['Reload saved progress',() => location.reload()],['Leave course',signOut]]); notify();
 }
 async function request(path,options = {},stamp = epoch) {
   const controller = new AbortController(); controllers.add(controller);
@@ -116,7 +120,7 @@ async function syncReport() {
     if (!response.ok) throw new Error('report_pending');
     const result = await response.json(); if (stamp !== epoch || stopped || uid !== user.id) return;
     reporting = result.reporting || reporting;
-  } catch (_) { /* Account records remain saved; the reporting retry is separate. */ }
+  } catch (_) { /* Progress remains saved; the reporting retry is separate. */ }
   notify(); planReport();
 }
 async function flush(key) {
@@ -185,10 +189,15 @@ const account = {storage,commitSnapshot,lockKey,canWrite,statusText,subscribe(fn
 window.AMG_ACCOUNT = account;
 async function hydrate() {
   const stamp = epoch;
-  showGuard('Loading your account and saved progress…');
+  showGuard('Loading your saved progress…');
   try {
-    const browserUser=await getUser(); if (browserUser?.id) observedUserId=browserUser.id;
+    const accessResponse = await request('/api/access',{},stamp);
+    if (!accessResponse.ok) throw new Error('access_unavailable');
+    const access = await accessResponse.json();
     if (stamp !== epoch || stopped) return null;
+    if (access.stage !== 'ready') { location.replace(loginUrl()); return null; }
+    if (typeof access.user?.id !== 'string' || !access.user.id) throw new Error('invalid_learner');
+    observedUserId = access.user.id;
     const response = await request('/api/learning',{},stamp);
     if (response.status === 401) { location.replace(loginUrl()); return null; }
     if (response.status === 403) throw new Error('account_access');
@@ -216,8 +225,8 @@ async function hydrate() {
     reporting = result.reporting || null; hydrated = true;
     const controls = document.getElementById('account-controls');
     if (controls) {
-      const label = document.createElement('span'); label.textContent = user.name || user.email || 'Your account';
-      const button = document.createElement('button'); button.type = 'button'; button.textContent = 'Sign out'; button.addEventListener('click',signOut); controls.replaceChildren(label,button);
+      const label = document.createElement('span'); label.textContent = user.name || user.email || 'Your progress';
+      const button = document.createElement('button'); button.type = 'button'; button.textContent = 'Leave course'; button.addEventListener('click',signOut); controls.replaceChildren(label,button);
     }
     broadcast('active');
     if (conflicted) { const key=[...memory].find(([,r]) => r.conflict)?.[0]; if (key) markConflict(key); return null; }
@@ -226,14 +235,13 @@ async function hydrate() {
     return account;
   } catch (_) {
     if (stamp !== epoch || stopped) return null;
-    showGuard('We couldn’t load your saved account. Please try again.',[['Try again',() => location.reload()],['Sign in',() => location.replace(loginUrl())]]);
+    showGuard('We couldn’t load your saved progress. Please try again.',[['Try again',() => location.reload()],['Enter course',() => location.replace(loginUrl())]]);
     return null;
   }
 }
-onAuthChange((event,nextUser) => { if (nextUser?.id) observedUserId=nextUser.id; if (event === 'logout' || (user && nextUser?.id && nextUser.id !== user.id)) stop(); });
 window.addEventListener('storage',event => {
   if (event.key === SESSION_KEY) {
-    try { const change=JSON.parse(event.newValue); if (change?.type === 'logout' || (user && change?.userId && change.userId !== user.id)) stop(); } catch (_) { /* Ignore malformed session notices. */ }
+    try { const change=JSON.parse(event.newValue); if (change?.type === 'logout' || ((user?.id || observedUserId) && change?.userId && change.userId !== (user?.id || observedUserId))) stop(); } catch (_) { /* Ignore malformed session notices. */ }
     return;
   }
   if (!hydrated || stopped || !event.key?.startsWith(prefix)) return;

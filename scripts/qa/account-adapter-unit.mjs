@@ -3,8 +3,8 @@ import vm from 'node:vm';
 import assert from 'node:assert/strict';
 import {randomUUID,createHash} from 'node:crypto';
 const source=fs.readFileSync('src/course/account.js','utf8');
-const executable=source.replace(/^import \{ getUser, logout, onAuthChange \} from '@netlify\/identity';\n/,'');
-assert.notEqual(source,executable,'Only the known SDK import is replaced by the test double.');
+const executable=source;
+assert.ok(!source.includes('@netlify/identity'),'The learner adapter has no Identity dependency.');
 const checks=[],fixtures=[];
 const check=(value,label)=>{assert.ok(value,label);checks.push(label);};
 const wait=ms=>new Promise(resolve=>setTimeout(resolve,ms));
@@ -20,9 +20,15 @@ class Element {
  addEventListener(name,fn){this.handlers[name]=fn;}
 }
 function backend(user='agent-a'){
- return {user,records:{},seen:new Map(),writes:0,posts:[],hook:null,getHook:null,
+ return {user,accessStage:'ready',accessUser:null,accessCalls:[],records:{},seen:new Map(),writes:0,posts:[],hook:null,getHook:null,
  async fetch(path,options){
-  assert.equal(path,'/api/learning');assert.equal(options.credentials,'include');
+  assert.equal(options.credentials,'include');
+  if(path==='/api/access'){
+   this.accessCalls.push(options.method?JSON.parse(options.body):null);
+   if(options.method){this.accessStage='code';return response(200,{stage:'code'});}
+   return response(200,{stage:this.accessStage,...(this.accessStage==='ready'?{user:{id:this.accessUser||this.user,name:this.user}}:{})});
+  }
+  assert.equal(path,'/api/learning');
   if(!options.method){if(this.getHook)return this.getHook();return response(200,{user:{id:this.user,name:this.user},records:copy(this.records),reporting:{status:'synced'}});}
   const body=JSON.parse(options.body);this.posts.push(copy(body));
   if(options.headers['X-AMG-User']!==this.user)return response(403,{error:'account_changed'});
@@ -37,7 +43,7 @@ function backend(user='agent-a'){
  }};
 }
 const response=(status,body)=>({status,ok:status>=200&&status<300,json:async()=>copy(body)});
-function fixture(server,{store=new Map(),browserUser=server.user,failWrites=false}={}){
+function fixture(server,{store=new Map(),failWrites=false}={}){
  const body=new Element('body'),controls=new Element('div'),status=new Element('div'),nodes={'account-controls':controls,'account-sync-status':status};body.append(controls,status,new Element('main'));
  const handlers={},timers=new Set(),locks=new Map(),auth=[],redirects=[],scheduledDelays=[];
  const local={get length(){return store.size;},key:i=>[...store.keys()][i]??null,getItem:key=>store.get(key)??null,setItem(key,value){if(f.failWrites)throw Error('storage_full');store.set(key,String(value));},removeItem(key){store.delete(key);}};
@@ -48,8 +54,7 @@ function fixture(server,{store=new Map(),browserUser=server.user,failWrites=fals
   crypto:{randomUUID},localStorage:local,
   navigator:{locks:{request(key,fn){const result=(locks.get(key)||Promise.resolve()).catch(()=>{}).then(fn);locks.set(key,result);return result;}}},
   setTimeout(fn,ms){scheduledDelays.push(ms);const id=setTimeout(()=>{timers.delete(id);fn();},ms);timers.add(id);return id;},clearTimeout(id){timers.delete(id);clearTimeout(id);},
-  getUser:async()=>browserUser?{id:browserUser,confirmedAt:'2026-01-01T00:00:00Z'}:null,
-  logout:async()=>{for(const fn of auth)fn('logout',null);},onAuthChange:fn=>auth.push(fn),fetch:(...args)=>server.fetch(...args),
+  fetch:(...args)=>server.fetch(...args),
   addEventListener(name,fn){(handlers[name]??=[]).push(fn);}
  };context.window=context;vm.createContext(context);vm.runInContext(executable,context,{filename:'account.js'});f.api=context.AMG_ACCOUNT;f.emit=(name,event)=>{for(const fn of handlers[name]||[])fn(event);};f.envelope=key=>JSON.parse(store.get('amg-user:'+encodeURIComponent(server.user)+':'+key)||'null');f.close=()=>{for(const id of timers)clearTimeout(id);};fixtures.push(f);return f;
 }
@@ -105,13 +110,31 @@ try {
   check(!f.api.canWrite()&&!b.writes,'A cross-tab signout stops queued writes and freezes the old account page');
  }
  {
-  const b=backend();let release;b.getHook=()=>new Promise(r=>release=r);const f=fixture(b);await until(()=>release);for(const fn of f.auth)fn('logout',null);release(response(200,{user:{id:'agent-a'},records:{[KEY]:{value:{position:12},revision:1}}}));
+  const b=backend();let release;b.getHook=()=>new Promise(r=>release=r);const f=fixture(b);await until(()=>release);f.emit('storage',{key:'amg-account-session-change',newValue:JSON.stringify({type:'logout'})});release(response(200,{user:{id:'agent-a'},records:{[KEY]:{value:{position:12},revision:1}}}));
   check(await f.api.ready===null&&!f.store.has('amg-user:agent-a:'+KEY),'A late hydration response after signout cannot restore the previous user');
  }
  {
   const b=backend();b.getHook=async()=>response(200,{user:{id:b.user},records:{},reporting:{status:'pending',retryAfterMs:120000}});const f=fixture(b);await f.api.ready;
   check(f.scheduledDelays.includes(120000),'Coordinator reporting retry honors the server-advertised delay');
  }
- const result={reviewedAt:new Date().toISOString(),status:'passed',sourceSha256:createHash('sha256').update(source).digest('hex'),checks,scope:'Isolated adapter behavioral tests with fake authenticated API/DOM/SDK. Tests concurrency ordering, pending payload retention and user scoping; browser/runtime and real Identity integration are separate.'};
+ {
+  const b=backend();b.accessStage='profile';const f=fixture(b);await f.api.ready;
+  check(!f.api.canWrite()&&f.redirects[0].startsWith('/login/?next=')&&!b.posts.length,'A code-only gate redirects to learner entry before any progress read or write');
+ }
+ {
+  const b=backend();b.accessUser='prior-learner';const f=fixture(b);await f.api.ready;
+  check(!f.api.canWrite()&&!f.store.has('amg-user:agent-a:'+KEY),'A learner change between access and learning responses cannot hydrate a mixed session');
+ }
+ {
+  const b=backend(),f=fixture(b);await f.api.ready;
+  f.emit('storage',{key:'amg-account-session-change',newValue:JSON.stringify({type:'active',userId:'agent-b'})});
+  check(!f.api.canWrite(),'Entry under another email freezes the previous learner tab');
+ }
+ {
+  const b=backend(),f=fixture(b);await f.api.ready;
+  const control=f.body.children[0].children.find(x=>x.tagName==='BUTTON');await control.handlers.click();
+  check(b.accessCalls.some(x=>x?.action==='logout')&&!f.api.canWrite()&&f.redirects[0].startsWith('/login/'),'Leave course clears the server learner session before returning to entry');
+ }
+ const result={reviewedAt:new Date().toISOString(),status:'passed',sourceSha256:createHash('sha256').update(source).digest('hex'),checks,scope:'Isolated adapter behavioral tests with fake learner-session API/DOM. Tests concurrency ordering, pending payload retention and user scoping; browser/runtime and real server-cookie integration are separate.'};
  fs.mkdirSync('output/qa',{recursive:true});fs.writeFileSync('output/qa/account-adapter-unit.json',JSON.stringify(result,null,2)+'\n');console.log(JSON.stringify({status:result.status,checks:checks.length,sourceSha256:result.sourceSha256}));
 } finally {for(const f of fixtures)f.close();}

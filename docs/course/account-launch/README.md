@@ -1,44 +1,50 @@
-# AMG accounts and course reporting
+# AMG course access and progress reporting
 
-## Agent flow
+This documentation keeps its existing path so coordinator links remain stable. The current design uses one shared AMG access code plus a learner's name and email. The earlier individual-account/Identity prototype is superseded.
 
-1. Open `/course/`; signed-out visitors are sent to `/login/`.
-2. Create an account with full name, email, an individual password and the new private AMG registration code. Confirm the email, then sign in.
-3. Watch each lesson or use its transcript alternative. Answer every required lesson question correctly to complete the lesson.
-4. Resume with the same account on another browser/device. Practice tests remain optional and available anytime.
-5. Sign out on a shared computer. Another account does not inherit this account’s progress.
+## Learner flow
 
-The old shared password was present in the public repository and has been replaced. The new registration code is saved privately outside the repository.
+1. Open `/course/`. A visitor without a valid course session is sent to `/login/`.
+2. Enter full name, email and the shared AMG code. There is no individual account password, registration or email-confirmation step.
+3. Watch each lesson or use its transcript alternative. Answer every required lesson question correctly and use the explicit finish step to complete that part. Practice tests remain optional and available anytime.
+4. Return using the same email and AMG code to resume the corresponding learner record on another browser or device.
+5. Use **Sign out** on a shared computer before another person enters their details.
 
-The shared access code is validated only on the server during registration. It is never included in the public login bundle. Netlify Identity manages passwords and confirmation/recovery emails. Course access requires a confirmed account and the server-assigned `amg-agent` role.
+The access code is checked on the server and must remain outside public source and browser bundles. The server issues the course session identified by the `__Host-amg_session` cookie. Progress writes and reporting require a valid server session; a posted name, score or completion claim does not establish one.
 
-## Same Google workbook
+## What the learner ID means
+
+The server normalizes the supplied email and derives a stable internal learner ID with a secret-key HMAC. That ID groups saved lesson progress and practice attempts. Names and emails are self-reported; this flow does not verify email ownership or the learner's identity. Someone who has the shared code and supplies the same email selects the same learner record. Agents should use their own consistent email, and coordinators should verify the name/email association when interpreting reports.
+
+Local caches and write locks are scoped to the server learner ID. Earlier unscoped browser-only records remain untouched and are not automatically assigned to the next learner. Changing the shared code or server signing/HMAC secrets requires an explicit continuity/revocation plan; this document does not prescribe an unreviewed rotation.
+
+## Existing Google workbook
 
 [AMG Practice Exam Results](https://docs.google.com/spreadsheets/d/1WDRXIE0B0O6D8IeZ2k2XwjMO6R9gwKtxekKJIISHJPw/edit)
 
 - **Sheet1:** historical exam results; left untouched.
-- **Course Progress:** one current row per agent, with lesson completion, question mastery, latest activity and practice scores.
-- **Lesson Progress:** one row per agent and lesson, showing completion, required-question results and resume position.
-- **Practice Tests:** one row per submitted attempt. Timed scores exclude the ten simulation items.
+- [**Course Progress**](https://docs.google.com/spreadsheets/d/1WDRXIE0B0O6D8IeZ2k2XwjMO6R9gwKtxekKJIISHJPw/edit#gid=1001): one current row per learner ID, including lesson completion, question mastery, latest activity and practice scores.
+- [**Lesson Progress**](https://docs.google.com/spreadsheets/d/1WDRXIE0B0O6D8IeZ2k2XwjMO6R9gwKtxekKJIISHJPw/edit#gid=1002): one row per learner ID and lesson, including required-question results and resume position.
+- [**Practice Tests**](https://docs.google.com/spreadsheets/d/1WDRXIE0B0O6D8IeZ2k2XwjMO6R9gwKtxekKJIISHJPw/edit#gid=1003): one row per submitted attempt. Timed scores exclude the ten simulation items.
 
-Stable account, lesson and attempt IDs prevent duplicate rows on retry. A missing score stays blank. Spreadsheet values are derived from authenticated saved records and the server’s original answer keys. Browser-supplied percentages are not trusted. Formula-like names are escaped before writing.
+The three reporting tabs have been created with empty data rows. Their existing headers remain compatible: the hidden **Account ID** column contains the internal learner ID, despite its historical label. It is not evidence of a verified account. No header rename or historical-data migration is part of this conversion.
 
-Google reporting is a secondary copy: course progress saves to the account even when the spreadsheet is temporarily unavailable. The interface distinguishes account saving from reporting status. Reports coalesce normal activity for up to two minutes, with a shorter thirty-second interval for completion/submission events. The workbook can therefore trail the account briefly.
+Stable learner, lesson and attempt keys prevent duplicate rows on retry. Missing scores stay blank. Formula-like text is escaped. The server computes reporting metrics from saved records and the original answer keys; Apps Script fetches that authoritative report instead of accepting browser-supplied percentages.
 
-## Migration and limits
+Google reporting is a secondary copy of server-saved progress. Normal reporting is coalesced for up to two minutes, with a shorter thirty-second interval for completion/submission events. The interface distinguishes progress saving from reporting status, and the workbook can trail the server briefly.
 
-Earlier browser-only progress has no verified account owner. It is preserved locally but is not automatically assigned to the next person who signs in. Historical spreadsheet rows stay where they are.
+## Reporting protocol and deployment
 
-The login protects the course routes and progress API; externally hosted media URLs are not DRM-protected. Completion is a study record, not an official licensing result or proof of approved education hours.
+Source: `scripts/google-sheets/Code.gs`, for the existing bound Apps Script project and existing web-app deployment. Its public GET handshake must return exactly the expected service **AMG Learning reporting**, `ok: true` and version **2** before the backend forwards a session.
 
-The workbook’s existing sharing permissions have not been changed. At inspection it allowed access to anyone with the link; the owner has been asked whether to restrict this before agent reporting begins.
+The reporting POST body contains exactly `{action:'course_sync', sessionToken}`. The cookie-safe token has exactly two nonempty base64url segments separated by one dot and is at most 4096 characters. The report's learner ID is 64 lowercase hexadecimal characters. Apps Script uses that token only as the `__Host-amg_session` cookie on a GET to the fixed canonical `https://amg-exam-portal.netlify.app/api/learning?report=1` endpoint. It does not follow redirects, use an Identity token endpoint, accept a client-supplied destination or trust client-supplied report data. The token is neither written to the workbook nor logged by the script.
 
-## Reporting deployment
+`setupCourseReporting` makes an unauthenticated GET to that same report endpoint and expects **401**. This requests Google's external-fetch scope and checks that reporting remains session-protected. It prepares/checks the reporting headers without creating learner rows.
 
-Source: `scripts/google-sheets/Code.gs`, in the existing bound Apps Script project. It must be authorized and deployed as a new version of the existing web-app deployment, keeping its endpoint. Do not deploy a new unrelated workbook or endpoint.
+The new source must be installed, authorized and deployed as an update of the existing Apps Script web-app deployment. Keep automatic reporting disabled until the version2 handshake, invalid-session rejection and an authorized end-to-end reporting test succeed. Reuse the existing workbook and deployment endpoint. Do not enable the earlier Identity-based reporting version for this flow.
 
-Until that Google authorization/deployment is verified, `AMG_APPS_SCRIPT_URL` is deliberately set to `pending_authorization`. Account storage can operate independently. Restore the original endpoint from the existing deployment only after its GET responds with the expected AMG reporting service/version and an unauthenticated POST is rejected.
+## Release limits and validation
 
-## Validation
+This conversion is staged work until the release receipt and [validation record](VALIDATION.md) contain evidence for the shared-code implementation. Prior Identity signup, confirmation-email and role tests are not acceptance of this replacement.
 
-Local checks cover authentication and role handling, account separation, stale-tab conflicts, uncertain-response retries, scoring, immutable submitted tests, reporting failures and spreadsheet upserts. Browser checks run in isolated contexts using synthetic records. Live service acceptance and final deploy details are recorded separately after completion.
+The workbook's sharing settings were not changed by reporting-tab preparation. Any pending sharing decision remains separate. Course-route access does not provide DRM for externally hosted media. Course completion is a study record, not an official licensing result, a guaranteed exam pass or proof of approved education hours.

@@ -1,6 +1,6 @@
 async page => {
   // Run only in an isolated QA browser. All account requests are intercepted here;
-  // no real Identity login, credentials, course records, or reporting service is used.
+  // no real shared code, learner records, or reporting service is used.
   const origin='http://127.0.0.1:4201',key='amg-life-assessments-v1',uid='qa-account-a',cache='amg-user:'+uid+':'+key;
   const checks=[],errors=[],requests=[],copy=x=>JSON.parse(JSON.stringify(x));
   const check=(ok,label)=>{if(!ok)throw Error(label);checks.push(label);};
@@ -18,7 +18,7 @@ async page => {
     return route.fulfill({status:200,contentType:'application/json',body:JSON.stringify({record,reporting:{status:'synced'}})});
   };
   await context.route('**/api/learning',mock);
-  await context.route('**/.netlify/identity/**',route=>route.fulfill({status:401,contentType:'application/json',body:'{"error":"QA does not log in"}'}));
+  await context.route('**/api/access',route=>route.fulfill({status:200,contentType:'application/json',body:JSON.stringify({stage:'ready',user:{id:userId,name:'Isolated QA',email:'qa@example.invalid'}})}));
   page.on('pageerror',error=>errors.push(error.message));
   const read=()=>page.evaluate(k=>JSON.parse(localStorage.getItem(k)||'null'),cache);
   const saved=()=>page.waitForFunction(k=>{const r=JSON.parse(localStorage.getItem(k)||'null');return r&&!r.dirty;},cache);
@@ -63,6 +63,6 @@ async page => {
     check(isolation.old.value.attempts[0].id==='qa-submitted-result'&&isolation.fresh.value.attempts.length===0,'A different authenticated account on the same browser gets no prior user attempts');
     const finalHashes=await hashAssets();check(JSON.stringify(finalHashes)===JSON.stringify(hashes),'Actual account bundle and assessment scripts stayed unchanged throughout the browser check');
     check(errors.length===0,'No uncaught browser runtime errors');
-    return {reviewedAt:new Date().toISOString(),status:'passed',checks,errors,hashes,mockedProgressPosts:requests.filter(r=>r.key).length,acceptedMockWrites:revision,scope:'Actual built account SDK bundle and assessment runtime; intercepted dummy authenticated API responses, forced delayed cross-tab storage events, real review/result controls, same-browser account cache isolation. No real login/token validation, network delivery, reporting service, or physical other-device test.'};
+    return {reviewedAt:new Date().toISOString(),status:'passed',checks,errors,hashes,mockedProgressPosts:requests.filter(r=>r.key).length,acceptedMockWrites:revision,scope:'Actual built learner-session bundle and assessment runtime; intercepted dummy authenticated API responses, forced delayed cross-tab storage events, real review/result controls, same-browser account cache isolation. No real shared-code/session validation, network delivery, reporting service, or physical other-device test.'};
   } finally {for(const peer of peers)if(!peer.isClosed())await peer.close();await context.unroute('**/api/learning',mock);}
 }
