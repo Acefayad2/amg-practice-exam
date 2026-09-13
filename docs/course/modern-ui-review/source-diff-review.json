@@ -1,0 +1,61 @@
+{
+  "reviewedAt": "2026-09-13T02:50:33.524Z",
+  "status": "passed",
+  "method": "Read-only scoped diff review and current-source identity/anchor checks; no build, product edit, browser state, generation or media request.",
+  "baseCommit": "6b2fbe5325aa415d5804ee1a97358bf8058355a5",
+  "reviewedFiles": [
+    {
+      "path": "public/course/shared/home.js",
+      "sha256": "a73ed99d124d72e72507a5bfe676ede6f6eed74812c643b893c3c9293fa4876b"
+    },
+    {
+      "path": "public/course/shared/lesson.js",
+      "sha256": "c7dc8b9d446f2cda0dca61d95c90330476b36de084653cb2a01459cc0f0374e3"
+    },
+    {
+      "path": "public/course/assessments/assessment.js",
+      "sha256": "0db49b6fce72484a14268867be2c6e21f745f5c930d13bb29cd8abc4730096e7"
+    },
+    {
+      "path": "scripts/build-full-course.mjs",
+      "sha256": "a71c9fbc66ef6f3c558c502f3b48fe3c5c12340f53321297266c354d05856068"
+    },
+    {
+      "path": "scripts/course-home.mjs",
+      "sha256": "0d578c35d97ef3993b0b8cb34c6433f677c3b4c8ba2f124e28ecf88809cf0419"
+    },
+    {
+      "path": "scripts/course-ui.mjs",
+      "sha256": "e2651f3032cfccd2c4603659b355fe53932a28b94f0725ed33b6676c8d7f3660"
+    },
+    {
+      "path": "scripts/lesson-ui.mjs",
+      "sha256": "161c51120ff95e5bf9244ab3f3549de7fd35f89457cef3629158e3249e18e4fc"
+    },
+    {
+      "path": "scripts/foundation-lesson-content.mjs",
+      "sha256": "8aa3d47e3c0310c57a229c15822f913fcb5841108ba100592dc7bdc56f26c542"
+    }
+  ],
+  "summary": {
+    "checks": 764,
+    "lessonFiles": 60,
+    "captionFiles": 60,
+    "lessonQuestionAnchors": 512,
+    "lessonQuestions": 512,
+    "assessmentItems": 302,
+    "unexpectedFindings": 0
+  },
+  "findings": [],
+  "sourceObservations": [
+    "Shared lesson runtime adds hash-target disclosure opening and visible step/completion controls; existing answer gates, record mutations, native media callbacks and cross-tab handlers are preserved.",
+    "Course home retains the exact required completion conditions and adds chapter/search rendering; it does not introduce a practice-test gate.",
+    "Assessment changes remain dashboard/study-insight DOM/copy only; prior practice-preservation report binds the untouched runtime functions.",
+    "Shared lesson template preserves player/caption/dialog hooks, all authored question teaching anchors, optional source content and foundation widgets.",
+    "The build now generates foundation pages through the shared template; no current lesson data or caption bytes changed.",
+    "Third-party OFL license trailing whitespace is not an application behavior change and was preserved by root."
+  ],
+  "limits": [
+    "This source audit checks the identified presentation changes and preservation conditions. It does not independently execute every browser path; parent and independent-agent browser reports cover behavior."
+  ]
+}

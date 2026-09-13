@@ -32,4 +32,10 @@ Manrope is self-hosted under the SIL Open Font License, retained at `public/cour
 
 ## Publication
 
-Application and production verification receipts are recorded in this folder after deployment. Netlify uses a manual deployment of the tested `dist` directory; a GitHub push alone does not publish this site.
+Application commit: `6b2fbe5325aa415d5804ee1a97358bf8058355a5`. Netlify production deployment: `6aa60f52b05d0279db962ab7`, published September 13, 2026 at 02:50:12 UTC and confirmed ready.
+
+Production verification passed: 24 home checks, 30 native-media checks and all 215 published assets. Of those assets, 151 match the tested build byte for byte; the other 64 are HTML pages containing only Netlify's exact previously reviewed 536-byte inert attribution inside `head`. No other differences were accepted. All three directory-route checks passed. The fresh receipts, exact permitted attribution and reproducible verifier are stored in this folder.
+
+An additional independent source review passed 764 checks, including preserved data/caption bytes and all 512 question feedback targets. No unexpected findings remain for this interface change.
+
+Netlify uses a manual deployment of the tested `dist` directory; a GitHub push alone does not publish this site. Later documentation-only commits record verification without changing the deployed application.

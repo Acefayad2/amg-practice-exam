@@ -1,0 +1,29 @@
+{
+  "reviewedAt": "2026-09-13T02:52:13.589Z",
+  "status": "passed",
+  "deployId": "6aa60f52b05d0279db962ab7",
+  "sourceCommit": "6b2fbe5",
+  "origin": "https://amg-exam-portal.netlify.app",
+  "checks": 24,
+  "errors": [],
+  "chapters": 8,
+  "lessons": 60,
+  "scope": [
+    "Eight chapter controls expose all 60 lessons exactly once.",
+    "Case, whitespace, singular/plural topic queries, lesson-number search and no-result recovery.",
+    "Mobile search with all 60 results without horizontal page overflow.",
+    "Isolated saved-state fixtures: all 60 complete, optional practice destination and a falsely complete record with one wrong answer.",
+    "No JavaScript runtime errors."
+  ],
+  "limitations": [
+    "Fresh isolated Chromium context; no real learner state affected.",
+    "Synthetic saved-state fixtures test home summary behavior, not lesson/video completion.",
+    "Remote media requests are blocked in this focused check; root independently validates native media/dialogs and agent01 verifies deployed assets.",
+    "No 302-question full assessment rerun in this bounded production check."
+  ],
+  "harnessSha256": "7dc2a2acc01a54fa1a6d42d068d2e412fa2e034cf96ec1e061d107d5e67e720e",
+  "fullEvidence": {
+    "path": "output/playwright/modern-home-review-live.json",
+    "sha256": "954581f284f61cf208583294b64688ee4995b813af2027bf64cb3a0b0a245d6d"
+  }
+}

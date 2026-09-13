@@ -1,0 +1,15 @@
+{
+  "applicationCommit": "6b2fbe5325aa415d5804ee1a97358bf8058355a5",
+  "siteId": "40829c93-d6a6-4b8a-bbf7-c64e20d06701",
+  "productionUrl": "https://amg-exam-portal.netlify.app",
+  "deployId": "6aa60f52b05d0279db962ab7",
+  "deployState": "ready",
+  "publishedAt": "2026-09-13T02:50:12.152Z",
+  "immutableDeployUrl": "https://6aa60f52b05d0279db962ab7--amg-exam-portal.netlify.app",
+  "mode": "Manual production upload of final tested dist; Git build provider is not configured.",
+  "buildPassed": true,
+  "assetCount": 215,
+  "videoCreditsUsed": 0,
+  "nativeProductionChecks": 30,
+  "nativeProductionErrors": []
+}

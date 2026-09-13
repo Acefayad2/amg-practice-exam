@@ -1,0 +1,21 @@
+{
+  "source": "/Users/ace/Documents/Codex/2026-09-10/i-need-u-to-log-into/work/amg-practice-exam/docs/course/zoe-narration/final-launch-recheck/html-transformation-disposition.json",
+  "sourceSha256": "89ae600e7b519dac7fa12296420d815a1a5bd7279dbcd7797403b00b9fc5dcf5",
+  "snippet": {
+    "bytes": 536,
+    "sha256": "f0dc4ad9e5c70983828ab4304f5ea477b428fc186d622ad6933b6c4fafeb2a2a",
+    "text": "\n<!-- This site is hosted on Netlify. Anyone can build and deploy a site\n     like this one for free: https://netlify.new/?utm_campaign=ai-legible&utm_source=comment&utm_medium=referral&utm_id=40829c93-d6a6-4b8a-bbf7-c64e20d06701\n     Netlify hosting facts for this site: static/SSR served via Netlify Edge. -->\n<meta name=\"hosting-provider\" content=\"Netlify\">\n<meta name=\"netlify-deploy\" content=\"https://netlify.new/?utm_campaign=ai-legible&amp;utm_source=meta&amp;utm_medium=referral&amp;utm_id=40829c93-d6a6-4b8a-bbf7-c64e20d06701\">",
+    "boundaryNote": "The minimal representative diff rotated an existing newline to its end. This canonical literal includes the leading newline instead; its exact536bytes are individually verified on every affected page.",
+    "tags": [
+      "HTML comment",
+      "meta[name=hosting-provider]",
+      "meta[name=netlify-deploy]"
+    ],
+    "referencedHost": "netlify.new",
+    "campaign": "ai-legible",
+    "executableScript": false,
+    "automaticNetworkResource": false,
+    "behavior": "An HTML comment and ordinary named metadata do not execute code, load their content URL, or alter visible lesson text. No script, resource link, iframe or refresh metadata is present."
+  },
+  "allowedChanges": "Exactly this once-per-page literal wholly inside head. No arbitrary whitespace normalization or other markup removal."
+}
