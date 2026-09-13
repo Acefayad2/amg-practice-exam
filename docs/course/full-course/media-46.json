@@ -1,36 +1,376 @@
 {
   "number": 46,
   "duration": "292.625000",
-  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/c3613e83-b069-4222-956e-f2334e8bf537.mp4",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/15dc516c-446f-4643-8124-6c4f59a8742e.mp4",
   "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/f89882bd-fd02-495e-8708-82d19f8b8a00.png",
   "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/4bfdca55-7aa0-4d33-aeef-4ae5b53e291f.jpg",
-  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/5236c191-c8c1-4360-a006-47c52b788124.zip",
   "technical": {
-    "programs": [],
     "streams": [
       {
+        "index": 0,
         "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
         "width": 1920,
         "height": 1080,
-        "r_frame_rate": "24/1"
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "closed_captions": 0,
+        "film_grain": 0,
+        "has_b_frames": 2,
+        "pix_fmt": "yuv420p",
+        "level": 40,
+        "color_range": "tv",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709",
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "24/1",
+        "avg_frame_rate": "24/1",
+        "time_base": "1/12288",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 3595776,
+        "duration": "292.625000",
+        "bit_rate": "481038",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "7023",
+        "extradata_size": 49,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]",
+          "encoder": "Lavc59.37.100 libx264"
+        }
       },
       {
+        "index": 1,
         "codec_name": "aac",
-        "r_frame_rate": "0/0"
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 1,
+        "channel_layout": "mono",
+        "bits_per_sample": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 14046000,
+        "duration": "292.625000",
+        "bit_rate": "182006",
+        "nb_frames": "13718",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
       }
     ],
     "format": {
+      "filename": "/home/user/amg-zoe-qa-c/b45-48/results/46/new.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
       "duration": "292.625000",
-      "size": "23266135"
+      "size": "24454488",
+      "bit_rate": "668554",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf59.27.100"
+      }
     }
   },
   "review": {
-    "layouts": "All eight scenario and teaching layouts visually inspected; calculations, labels, clear spacing and circular logo verified.",
-    "decode": "Complete FFmpeg decode passed.",
-    "speech": "All six sections compared with the script; native pacing applied and all six sections retranscribed.",
-    "analysis": "Completed whole-video scene analysis read in full; no additional material defect identified. The analyzer can infer activity from still photos, so its motion descriptions are not treated as proof of movement.",
-    "player": "Chromium: all 14 required-question, native ended-event, wrong-answer/retry, first-attempt history, playback resume, completion reload, caption and mobile dialog checks passed without page errors."
+    "voice": "Zoe replacement accepted; see narrationChange review evidence.",
+    "decode": "Final replacement fully decoded successfully.",
+    "visual": "Unchanged picture verified by the recorded source/output comparison.",
+    "speech": "Spoken content, voice, volume and captions accepted in the linked final review."
   },
   "status": "ready",
-  "coordinatorApproval": null
+  "coordinatorApproval": null,
+  "sourceEditArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/5236c191-c8c1-4360-a006-47c52b788124.zip",
+  "narrator": {
+    "name": "Zoe",
+    "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+    "voice_type": "preset"
+  },
+  "narrationChange": {
+    "schemaVersion": 1,
+    "voice": {
+      "name": "Zoe",
+      "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+      "voice_type": "preset"
+    },
+    "sourceVideo": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/c3613e83-b069-4222-956e-f2334e8bf537.mp4",
+    "sourceEditArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/5236c191-c8c1-4360-a006-47c52b788124.zip",
+    "sourceDurationSeconds": 292.625,
+    "sourceNarrator": {
+      "name": "Gideon",
+      "voice_id": null,
+      "voice_type": null,
+      "provenance": "docs/course/full-course/audio-45-46.json"
+    },
+    "job": {
+      "id": "8f3f57ef-d68c-4c29-8f0e-6b5bdba0ba5e",
+      "model": "voice_change_merge",
+      "status": "completed",
+      "voiceId": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a"
+    },
+    "output": {
+      "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/15dc516c-446f-4643-8124-6c4f59a8742e.mp4",
+      "fileSha256": "dbd84ea04cbdf29584a3347c9fdee778c0f419bd00a27a96617db74d1a430691",
+      "durationSeconds": 292.625,
+      "technical": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+            "profile": "High",
+            "codec_type": "video",
+            "codec_tag_string": "avc1",
+            "codec_tag": "0x31637661",
+            "width": 1920,
+            "height": 1080,
+            "coded_width": 1920,
+            "coded_height": 1080,
+            "closed_captions": 0,
+            "film_grain": 0,
+            "has_b_frames": 2,
+            "pix_fmt": "yuv420p",
+            "level": 40,
+            "color_range": "tv",
+            "color_space": "bt709",
+            "color_transfer": "bt709",
+            "color_primaries": "bt709",
+            "chroma_location": "left",
+            "field_order": "progressive",
+            "refs": 1,
+            "is_avc": "true",
+            "nal_length_size": "4",
+            "id": "0x1",
+            "r_frame_rate": "24/1",
+            "avg_frame_rate": "24/1",
+            "time_base": "1/12288",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 3595776,
+            "duration": "292.625000",
+            "bit_rate": "481038",
+            "bits_per_raw_sample": "8",
+            "nb_frames": "7023",
+            "extradata_size": 49,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "VideoHandler",
+              "vendor_id": "[0][0][0][0]",
+              "encoder": "Lavc59.37.100 libx264"
+            }
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 1,
+            "channel_layout": "mono",
+            "bits_per_sample": 0,
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 14046000,
+            "duration": "292.625000",
+            "bit_rate": "182006",
+            "nb_frames": "13718",
+            "extradata_size": 5,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "SoundHandler",
+              "vendor_id": "[0][0][0][0]"
+            }
+          }
+        ],
+        "format": {
+          "filename": "/home/user/amg-zoe-qa-c/b45-48/results/46/new.mp4",
+          "nb_streams": 2,
+          "nb_programs": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "292.625000",
+          "size": "24454488",
+          "bit_rate": "668554",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "isom",
+            "minor_version": "512",
+            "compatible_brands": "isomiso2avc1mp41",
+            "encoder": "Lavf59.27.100"
+          }
+        }
+      }
+    },
+    "qa": {
+      "automatedReport": {
+        "path": "docs/course/zoe-narration/qa-41-60/46/review.json",
+        "sha256": "c7bd1a256b81ded39cdbd1fe8e45bcf669162714cd83c167e9b6fb7dbb356e0a"
+      },
+      "acceptance": {
+        "path": "docs/course/zoe-narration/qa-41-60/46/acceptance.json",
+        "sha256": "a581835cc466a177145f761bbd71881b3ffda01dbd356305a6829b1ac801fe1a"
+      }
+    },
+    "reviewAcceptance": {
+      "number": 46,
+      "status": "passed",
+      "reviewedAt": "2026-09-12T23:57:27.195706+00:00",
+      "outputFileSha256": "dbd84ea04cbdf29584a3347c9fdee778c0f419bd00a27a96617db74d1a430691",
+      "automatedReportSha256": "c7bd1a256b81ded39cdbd1fe8e45bcf669162714cd83c167e9b6fb7dbb356e0a",
+      "captionSha256": "931c193875f30e0f929b4aff68f7de96fe43f774a6ea947e6e0a8e9b7f57dd2a",
+      "checks": {
+        "spokenContent": "passed",
+        "voice": "passed",
+        "volumeAndClipping": "passed",
+        "captionAlignment": "passed"
+      },
+      "outstandingIssues": []
+    },
+    "captions": {
+      "mode": "unchanged",
+      "sha256": "931c193875f30e0f929b4aff68f7de96fe43f774a6ea947e6e0a8e9b7f57dd2a"
+    },
+    "captionPolicy": "Original caption file retained byte-for-byte; alignment accepted against the final Zoe output.",
+    "sourceArchivePolicy": "Source archive contains the previous narration; no new-voice editable archive is claimed.",
+    "sourceReview": {
+      "layouts": "All eight scenario and teaching layouts visually inspected; calculations, labels, clear spacing and circular logo verified.",
+      "decode": "Complete FFmpeg decode passed.",
+      "speech": "All six sections compared with the script; native pacing applied and all six sections retranscribed.",
+      "analysis": "Completed whole-video scene analysis read in full; no additional material defect identified. The analyzer can infer activity from still photos, so its motion descriptions are not treated as proof of movement.",
+      "player": "Chromium: all 14 required-question, native ended-event, wrong-answer/retry, first-attempt history, playback resume, completion reload, caption and mobile dialog checks passed without page errors."
+    },
+    "sourceTechnical": {
+      "programs": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "292.625000",
+        "size": "23266135"
+      }
+    }
+  }
 }

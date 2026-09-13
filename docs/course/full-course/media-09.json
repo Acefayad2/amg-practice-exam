@@ -1,9 +1,8 @@
 {
   "number": 9,
   "duration": "275.592",
-  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/ab3e84ed-e005-4e98-998e-915b6b3b2572.mp4",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/cc42fcd3-d422-458b-847b-f60c3ca5caf2.mp4",
   "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/93f9e96c-b0a1-40b2-aedc-6190d5888408.png",
-  "editArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/46208258-695e-4900-92dc-31107fe40fc7.zip",
   "layoutSheet": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/0c2994d1-d43f-48c5-9628-20042170bb7b.jpg",
   "technical": {
     "streams": [
@@ -81,8 +80,8 @@
         "codec_tag": "0x6134706d",
         "sample_fmt": "fltp",
         "sample_rate": "48000",
-        "channels": 1,
-        "channel_layout": "mono",
+        "channels": 2,
+        "channel_layout": "stereo",
         "bits_per_sample": 0,
         "id": "0x2",
         "r_frame_rate": "0/0",
@@ -92,7 +91,7 @@
         "start_time": "0.000000",
         "duration_ts": 13228416,
         "duration": "275.592000",
-        "bit_rate": "180281",
+        "bit_rate": "192772",
         "nb_frames": "12920",
         "extradata_size": 5,
         "disposition": {
@@ -122,15 +121,15 @@
       }
     ],
     "format": {
-      "filename": "/home/user/amg-pause-repairs/09/final.mp4",
+      "filename": "/home/user/amg-zoe-qa/pilot09/09/new.mp4",
       "nb_streams": 2,
       "nb_programs": 0,
       "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
       "format_long_name": "QuickTime / MOV",
       "start_time": "0.000000",
       "duration": "275.592000",
-      "size": "9280254",
-      "bit_rate": "269391",
+      "size": "9680800",
+      "bit_rate": "281018",
       "probe_score": 100,
       "tags": {
         "major_brand": "isom",
@@ -141,11 +140,10 @@
     }
   },
   "review": {
-    "layouts": "All six settled layouts visually inspected.",
-    "decode": "Complete FFmpeg decode passed.",
-    "speech": "All sections compared; repaired sections 4 and 6. small.en confirmed the education date and complete viatical explanation.",
-    "analysis": "Completed scene analysis reviewed alongside script and rendered layouts. See video-analysis-09.json.",
-    "player": "Chromium end-to-end check passed: native video end, every required question, wrong-answer retry, persisted first attempt, resume and mobile captions/dialog."
+    "voice": "Zoe replacement accepted; see narrationChange review evidence.",
+    "decode": "Final replacement fully decoded successfully.",
+    "visual": "Unchanged picture verified by the recorded source/output comparison.",
+    "speech": "Spoken content, voice, volume and captions accepted in the linked final review."
   },
   "status": "ready",
   "coordinatorApproval": null,
@@ -160,5 +158,356 @@
     "removedSeconds": 3.833333333333343,
     "joinReview": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/60597d33-f3dc-4f72-b278-c2ec7b178905.jpg",
     "credits": 0
+  },
+  "sourceEditArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/46208258-695e-4900-92dc-31107fe40fc7.zip",
+  "narrator": {
+    "name": "Zoe",
+    "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+    "voice_type": "preset"
+  },
+  "narrationChange": {
+    "schemaVersion": 1,
+    "voice": {
+      "name": "Zoe",
+      "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+      "voice_type": "preset"
+    },
+    "sourceVideo": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/ab3e84ed-e005-4e98-998e-915b6b3b2572.mp4",
+    "sourceEditArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/46208258-695e-4900-92dc-31107fe40fc7.zip",
+    "sourceDurationSeconds": 275.592,
+    "sourceNarrator": {
+      "name": "Gideon",
+      "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+      "voice_type": "preset",
+      "provenance": "docs/course/full-course/audio-09-10.json"
+    },
+    "job": {
+      "id": "e7f8a7fe-eac6-45e4-a7b1-d05aa68acb1d",
+      "model": "voice_change_merge",
+      "status": "completed",
+      "voiceId": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a"
+    },
+    "output": {
+      "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/cc42fcd3-d422-458b-847b-f60c3ca5caf2.mp4",
+      "fileSha256": "f7d8a05c992722ccb0814f1f8ac535b5c322245857ab2dcaf2191663b7313c7b",
+      "durationSeconds": 275.592,
+      "technical": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+            "profile": "High",
+            "codec_type": "video",
+            "codec_tag_string": "avc1",
+            "codec_tag": "0x31637661",
+            "width": 1920,
+            "height": 1080,
+            "coded_width": 1920,
+            "coded_height": 1080,
+            "closed_captions": 0,
+            "film_grain": 0,
+            "has_b_frames": 2,
+            "pix_fmt": "yuv420p",
+            "level": 40,
+            "color_range": "tv",
+            "color_space": "bt709",
+            "color_transfer": "bt709",
+            "color_primaries": "bt709",
+            "chroma_location": "left",
+            "field_order": "progressive",
+            "refs": 1,
+            "is_avc": "true",
+            "nal_length_size": "4",
+            "id": "0x1",
+            "r_frame_rate": "24/1",
+            "avg_frame_rate": "24/1",
+            "time_base": "1/12288",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 3386368,
+            "duration": "275.583333",
+            "bit_rate": "82653",
+            "bits_per_raw_sample": "8",
+            "nb_frames": "6614",
+            "extradata_size": 50,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "VideoHandler",
+              "vendor_id": "[0][0][0][0]",
+              "encoder": "Lavc59.37.100 libx264"
+            }
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 2,
+            "channel_layout": "stereo",
+            "bits_per_sample": 0,
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 13228416,
+            "duration": "275.592000",
+            "bit_rate": "192772",
+            "nb_frames": "12920",
+            "extradata_size": 5,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "SoundHandler",
+              "vendor_id": "[0][0][0][0]"
+            }
+          }
+        ],
+        "format": {
+          "filename": "/home/user/amg-zoe-qa/pilot09/09/new.mp4",
+          "nb_streams": 2,
+          "nb_programs": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "275.592000",
+          "size": "9680800",
+          "bit_rate": "281018",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "isom",
+            "minor_version": "512",
+            "compatible_brands": "isomiso2avc1mp41",
+            "encoder": "Lavf59.27.100"
+          }
+        }
+      }
+    },
+    "qa": {
+      "automatedReport": {
+        "path": "docs/course/zoe-narration/pilot09-automated-review.json",
+        "sha256": "a8b85f456d304254967a93f8e6d82ca4d11816c7a940539ea9a39b8ba6abb3e5"
+      },
+      "acceptance": {
+        "path": "docs/course/zoe-narration/pilot09-acceptance.json",
+        "sha256": "f325a660ef8c48c229b2c12660461f248227b24a1e3199d0ba98440bcad2cbc2"
+      }
+    },
+    "reviewAcceptance": {
+      "number": 9,
+      "status": "passed",
+      "reviewedAt": "2026-09-12T22:53:36.707269+00:00",
+      "outputFileSha256": "f7d8a05c992722ccb0814f1f8ac535b5c322245857ab2dcaf2191663b7313c7b",
+      "automatedReportSha256": "a8b85f456d304254967a93f8e6d82ca4d11816c7a940539ea9a39b8ba6abb3e5",
+      "captionSha256": "77cc9171b3de1144eabf3ba5d01943ff3ca557d0dab75d8049c076d9a34ec41c",
+      "captionReviewSha256": "45a7d7336ebc4293eb5cf7fdab119c556cf4a91119d536df33a889a758e42437",
+      "checks": {
+        "spokenContent": "passed",
+        "voice": "passed",
+        "volumeAndClipping": "passed",
+        "captionAlignment": "passed"
+      },
+      "outstandingIssues": []
+    },
+    "captions": {
+      "mode": "reviewed-patch",
+      "originalSha256": "41eb6757de075a95885e7689cf05cf4e4cb111c64691f9b37843b0a8ed7ed35a",
+      "file": {
+        "path": "docs/course/zoe-narration/captions-09.vtt",
+        "sha256": "77cc9171b3de1144eabf3ba5d01943ff3ca557d0dab75d8049c076d9a34ec41c"
+      },
+      "review": {
+        "path": "docs/course/zoe-narration/pilot09-caption-review.json",
+        "sha256": "45a7d7336ebc4293eb5cf7fdab119c556cf4a91119d536df33a889a758e42437"
+      }
+    },
+    "captionPolicy": "Reviewed timing/segmentation patch; original spoken word sequence preserved, with bound paired timestamp evidence and final acceptance.",
+    "sourceArchivePolicy": "Source archive contains the previous narration; no new-voice editable archive is claimed.",
+    "sourceReview": {
+      "layouts": "All six settled layouts visually inspected.",
+      "decode": "Complete FFmpeg decode passed.",
+      "speech": "All sections compared; repaired sections 4 and 6. small.en confirmed the education date and complete viatical explanation.",
+      "analysis": "Completed scene analysis reviewed alongside script and rendered layouts. See video-analysis-09.json.",
+      "player": "Chromium end-to-end check passed: native video end, every required question, wrong-answer retry, persisted first attempt, resume and mobile captions/dialog."
+    },
+    "sourceTechnical": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 1920,
+          "height": 1080,
+          "coded_width": 1920,
+          "coded_height": 1080,
+          "closed_captions": 0,
+          "film_grain": 0,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 40,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "time_base": "1/12288",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 3386368,
+          "duration": "275.583333",
+          "bit_rate": "82653",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "6614",
+          "extradata_size": 50,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0
+          },
+          "tags": {
+            "language": "und",
+            "handler_name": "VideoHandler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "Lavc59.37.100 libx264"
+          }
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_long_name": "AAC (Advanced Audio Coding)",
+          "profile": "LC",
+          "codec_type": "audio",
+          "codec_tag_string": "mp4a",
+          "codec_tag": "0x6134706d",
+          "sample_fmt": "fltp",
+          "sample_rate": "48000",
+          "channels": 1,
+          "channel_layout": "mono",
+          "bits_per_sample": 0,
+          "id": "0x2",
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "time_base": "1/48000",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 13228416,
+          "duration": "275.592000",
+          "bit_rate": "180281",
+          "nb_frames": "12920",
+          "extradata_size": 5,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0
+          },
+          "tags": {
+            "language": "und",
+            "handler_name": "SoundHandler",
+            "vendor_id": "[0][0][0][0]"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/home/user/amg-pause-repairs/09/final.mp4",
+        "nb_streams": 2,
+        "nb_programs": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "275.592000",
+        "size": "9280254",
+        "bit_rate": "269391",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2avc1mp41",
+          "encoder": "Lavf59.27.100"
+        }
+      }
+    }
   }
 }

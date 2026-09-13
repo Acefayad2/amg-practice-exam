@@ -3,119 +3,18 @@
   "revision": 2,
   "status": "user and licensing coordinator review",
   "duration_seconds": 198.763,
-  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/63ee1576-53ed-4e28-b714-448fa0123c0b.mp4",
+  "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/bcc37727-3d82-4377-ae95-272353bfe374.mp4",
   "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/d1c30cce-19e8-40a7-a72e-37478c95c0ab.png",
-  "editable_archive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/0a0da9cf-3d1b-4cef-b1f0-1fe561709ae1.zip",
   "cast": {
     "client": "Marcus",
     "reference": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260911_235337_da432653-165e-477b-8a29-68446fe4b6c2.png",
     "usage": "Reused approved still image; no new on-camera speech or image/video generation"
   },
   "narrator": {
-    "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
-    "voice_type": "preset",
-    "name": "Gideon"
+    "name": "Zoe",
+    "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+    "voice_type": "preset"
   },
-  "narration_jobs": [
-    {
-      "index": 0,
-      "job_id": "e1a8e782-4d61-4315-a1f6-139363e28802",
-      "status": "completed",
-      "type": "audio",
-      "model": "seed_audio",
-      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_005116_e1a8e782-4d61-4315-a1f6-139363e28802.mp3"
-    },
-    {
-      "index": 1,
-      "job_id": "4e460cb5-ad47-4b70-a24f-13a01a32ff95",
-      "status": "completed",
-      "type": "audio",
-      "model": "seed_audio",
-      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_005116_4e460cb5-ad47-4b70-a24f-13a01a32ff95.mp3"
-    },
-    {
-      "index": 2,
-      "job_id": "458d7ee7-0f72-4664-9039-eeef8bef17b5",
-      "status": "completed",
-      "type": "audio",
-      "model": "seed_audio",
-      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_005116_458d7ee7-0f72-4664-9039-eeef8bef17b5.mp3"
-    },
-    {
-      "index": 3,
-      "job_id": "b1c1cb9d-fcf1-47d0-afff-b8fd8cd649f5",
-      "status": "completed",
-      "type": "audio",
-      "model": "seed_audio",
-      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_005116_b1c1cb9d-fcf1-47d0-afff-b8fd8cd649f5.mp3"
-    },
-    {
-      "index": 4,
-      "job_id": "56d5e0b5-b8b7-4fdd-b0fb-a15de5a9fe25",
-      "status": "completed",
-      "type": "audio",
-      "model": "seed_audio",
-      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_005116_56d5e0b5-b8b7-4fdd-b0fb-a15de5a9fe25.mp3"
-    },
-    {
-      "index": 5,
-      "job_id": "b43f55ab-d08a-4742-a21a-7f4e0935f4df",
-      "status": "completed",
-      "type": "audio",
-      "model": "seed_audio",
-      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_005116_b43f55ab-d08a-4742-a21a-7f4e0935f4df.mp3"
-    }
-  ],
-  "parameters": [
-    {
-      "model": "seed_audio",
-      "prompt": "Marcus has another question. If he pays much less in premiums than the death benefit, how can his family receive a larger covered payment? The answer starts with risk pooling. An insurer combines many exposures and spreads the financial burden of covered losses across the group. Marcus's own premiums are not the limit of a covered claim. The insurer owes the benefit according to the policy contract.",
-      "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
-      "voice_type": "preset",
-      "format": "mp3",
-      "speech_rate": 0
-    },
-    {
-      "model": "seed_audio",
-      "prompt": "Think of many individual policies supporting one insurance operation. Premiums help fund its obligations, alongside other financial resources. The policy is not simply a personal savings account that pays back only what Marcus put in. Pooling does not prevent death, require identical premiums, or erase uncertainty. People can have different coverage amounts and risk classifications. The insurer must still price its policies and manage its resources carefully.",
-      "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
-      "voice_type": "preset",
-      "format": "mp3",
-      "speech_rate": 0
-    },
-    {
-      "model": "seed_audio",
-      "prompt": "Now connect pooling to the law of large numbers. A larger group of comparable, largely independent exposures tends to have more predictable average loss experience. The key word is average. A large pool may have more total claims than a small pool. The useful improvement is greater predictability in relative terms. It does not tell the insurer who will die, or guarantee an exact number of claims.",
-      "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
-      "voice_type": "preset",
-      "format": "mp3",
-      "speech_rate": 0
-    },
-    {
-      "model": "seed_audio",
-      "prompt": "Use an invented example. Suppose one thousand people each have a one percent annual probability of a death claim. One thousand times one percent gives ten expected claims. Expected means an average across many possible outcomes. This year's count could be eight, ten, twelve, or another number. These are teaching assumptions, not real mortality figures or a premium quote. No individual outcome is identified.",
-      "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
-      "voice_type": "preset",
-      "format": "mp3",
-      "speech_rate": 0
-    },
-    {
-      "model": "seed_audio",
-      "prompt": "Compare one extra claim in two groups with the same assumed one percent probability. In a group of one hundred, moving from one claim to two changes the rate from one percent to two percent. In a group of ten thousand, moving from one hundred claims to one hundred one changes the rate to one point zero one percent. One extra claim has a smaller effect on the larger group's rate. This illustrates sensitivity, not a guarantee. Shared events can still cause many claims together.",
-      "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
-      "voice_type": "preset",
-      "format": "mp3",
-      "speech_rate": 0
-    },
-    {
-      "model": "seed_audio",
-      "prompt": "The makeup of the group matters too. Imagine an insurance offer at a standard price. People who know they have a greater chance of loss are especially eager to apply. That tendency is adverse selection. It can occur even when everyone answers truthfully. Underwriting helps the insurer evaluate applications and classify risk using permitted information and rules. It does not eliminate uncertainty. Remember the distinctions: pooling spreads financial risk; large numbers improve group estimates; adverse selection concerns who seeks coverage. Now answer the eight lesson questions, and review any mistakes before finishing.",
-      "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
-      "voice_type": "preset",
-      "format": "mp3",
-      "speech_rate": 0
-    }
-  ],
   "credits": {
     "before": 8872,
     "after": 8853.3,
@@ -180,16 +79,145 @@
         "heard": "The make -up of the group matters too. Imagine an insurance offer at a standard price. People who know they have a greater chance of loss are especially eager to apply. That tendency is adverse selection. It can occur even when everyone answers truthfully. Underwriting helps the insurer evaluate applications and classify risk using permitted information and rules. It does not eliminate uncertainty. Remember the distinctions, pooling spreads financial risk. Large numbers improve group estimates. Adverse selection concerns who seeks coverage, now answer the eight lesson questions, and review any mistakes before finishing."
       }
     ],
-    "transcription_notes": "Numerical phrases were checked against their values: 1,000 \u00d7 1% = 10; 2/100 = 2%; 101/10,000 = 1.01%. ASR differences include numeral formatting, Markus/Marcus, keyword/key word and Pair/Compare; transcription alone is not a listening-quality guarantee.",
+    "transcription_notes": "Numerical phrases were checked against their values: 1,000 × 1% = 10; 2/100 = 2%; 101/10,000 = 1.01%. ASR differences include numeral formatting, Markus/Marcus, keyword/key word and Pair/Compare; transcription alone is not a listening-quality guarantee.",
     "full_decode": "passed",
     "captions": 54,
     "mobile_captions": "Live cue text, toggle, fullscreen entry/exit and desktop transition passed in Chromium."
   },
   "technical": {
-    "duration_seconds": 198.763,
-    "bytes": 10665588,
-    "video_codec": "h264",
-    "audio_codec": "aac"
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "closed_captions": 0,
+        "film_grain": 0,
+        "has_b_frames": 2,
+        "pix_fmt": "yuv420p",
+        "level": 40,
+        "color_range": "tv",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709",
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "24/1",
+        "avg_frame_rate": "4884480/203521",
+        "time_base": "1/12288",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 2442252,
+        "duration": "198.750977",
+        "bit_rate": "247628",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "4770",
+        "extradata_size": 49,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]",
+          "encoder": "Lavc59.37.100 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 9540624,
+        "duration": "198.763000",
+        "bit_rate": "192917",
+        "nb_frames": "9319",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      }
+    ],
+    "format": {
+      "filename": "/home/user/amg-zoe-qa-a/batch-02-04/results/02/new.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "198.763000",
+      "size": "11084632",
+      "bit_rate": "446144",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf59.27.100"
+      }
+    }
   },
   "completion": {
     "version": 2,
@@ -213,5 +241,321 @@
     "repair": "One clipped opening word repaired by replacing its sentence with the original script and same Gideon voice. All video frames unchanged.",
     "credits": 0.6,
     "report": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/037b1b29-897e-4050-8f07-d00318eabd37.json"
+  },
+  "source_editable_archive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/0a0da9cf-3d1b-4cef-b1f0-1fe561709ae1.zip",
+  "narrationChange": {
+    "schemaVersion": 1,
+    "voice": {
+      "name": "Zoe",
+      "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+      "voice_type": "preset"
+    },
+    "sourceVideo": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/63ee1576-53ed-4e28-b714-448fa0123c0b.mp4",
+    "sourceEditArchive": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/0a0da9cf-3d1b-4cef-b1f0-1fe561709ae1.zip",
+    "sourceDurationSeconds": 198.763,
+    "sourceNarrator": {
+      "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+      "voice_type": "preset",
+      "name": "Gideon"
+    },
+    "job": {
+      "id": "1e23b615-4f2f-4959-a8c1-dcff115becf5",
+      "model": "voice_change_merge",
+      "status": "completed",
+      "voiceId": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a"
+    },
+    "output": {
+      "video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/bcc37727-3d82-4377-ae95-272353bfe374.mp4",
+      "fileSha256": "c68fe773486aedf7ee66e0fb8c321b8d7487b6a1520ac7e508c54ed69076fb99",
+      "durationSeconds": 198.763,
+      "technical": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+            "profile": "High",
+            "codec_type": "video",
+            "codec_tag_string": "avc1",
+            "codec_tag": "0x31637661",
+            "width": 1920,
+            "height": 1080,
+            "coded_width": 1920,
+            "coded_height": 1080,
+            "closed_captions": 0,
+            "film_grain": 0,
+            "has_b_frames": 2,
+            "pix_fmt": "yuv420p",
+            "level": 40,
+            "color_range": "tv",
+            "color_space": "bt709",
+            "color_transfer": "bt709",
+            "color_primaries": "bt709",
+            "chroma_location": "left",
+            "field_order": "progressive",
+            "refs": 1,
+            "is_avc": "true",
+            "nal_length_size": "4",
+            "id": "0x1",
+            "r_frame_rate": "24/1",
+            "avg_frame_rate": "4884480/203521",
+            "time_base": "1/12288",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 2442252,
+            "duration": "198.750977",
+            "bit_rate": "247628",
+            "bits_per_raw_sample": "8",
+            "nb_frames": "4770",
+            "extradata_size": 49,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "VideoHandler",
+              "vendor_id": "[0][0][0][0]",
+              "encoder": "Lavc59.37.100 libx264"
+            }
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 2,
+            "channel_layout": "stereo",
+            "bits_per_sample": 0,
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 9540624,
+            "duration": "198.763000",
+            "bit_rate": "192917",
+            "nb_frames": "9319",
+            "extradata_size": 5,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "SoundHandler",
+              "vendor_id": "[0][0][0][0]"
+            }
+          }
+        ],
+        "format": {
+          "filename": "/home/user/amg-zoe-qa-a/batch-02-04/results/02/new.mp4",
+          "nb_streams": 2,
+          "nb_programs": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "198.763000",
+          "size": "11084632",
+          "bit_rate": "446144",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "isom",
+            "minor_version": "512",
+            "compatible_brands": "isomiso2avc1mp41",
+            "encoder": "Lavf59.27.100"
+          }
+        }
+      }
+    },
+    "qa": {
+      "automatedReport": {
+        "path": "docs/course/zoe-narration/reviews/02/review.json",
+        "sha256": "e545edb79160e795dd0ef66b7321b9ec94a5a4128e7ceb3b642789ec4779ba8d"
+      },
+      "acceptance": {
+        "path": "docs/course/zoe-narration/reviews/02/acceptance.json",
+        "sha256": "c35d69a391b7af1de0c77eedf134bd1a992a2181e9cda8e07afbd6c51f7a47dc"
+      }
+    },
+    "reviewAcceptance": {
+      "number": 2,
+      "status": "passed",
+      "reviewedAt": "2026-09-12T23:12:16.835Z",
+      "outputFileSha256": "c68fe773486aedf7ee66e0fb8c321b8d7487b6a1520ac7e508c54ed69076fb99",
+      "automatedReportSha256": "e545edb79160e795dd0ef66b7321b9ec94a5a4128e7ceb3b642789ec4779ba8d",
+      "captionSha256": "02b6a312836b2e163f1024b2659d01aa21757b1e91ff4c8df3a4a48acb9473af",
+      "captionReviewSha256": "e6bb6262b565ac24b8a9cd3402b83734284ca436ca7573fbc1dadf1b388e852b",
+      "checks": {
+        "spokenContent": "passed",
+        "voice": "passed",
+        "volumeAndClipping": "passed",
+        "captionAlignment": "passed"
+      },
+      "outstandingIssues": []
+    },
+    "captions": {
+      "mode": "reviewed-patch",
+      "originalSha256": "2ed318ab55063a3b7252d08777bf26c1df3cac591e9d336641c449dcb91ae7b0",
+      "file": {
+        "path": "docs/course/zoe-narration/reviews/02/captions.vtt",
+        "sha256": "02b6a312836b2e163f1024b2659d01aa21757b1e91ff4c8df3a4a48acb9473af"
+      },
+      "review": {
+        "path": "docs/course/zoe-narration/reviews/02/caption-review.json",
+        "sha256": "e6bb6262b565ac24b8a9cd3402b83734284ca436ca7573fbc1dadf1b388e852b"
+      }
+    },
+    "captionPolicy": "Reviewed timing/segmentation patch; original spoken word sequence preserved, with bound paired timestamp evidence and final acceptance.",
+    "sourceArchivePolicy": "Source archive contains the previous narration; no new-voice editable archive is claimed.",
+    "source_narration_jobs": [
+      {
+        "index": 0,
+        "job_id": "e1a8e782-4d61-4315-a1f6-139363e28802",
+        "status": "completed",
+        "type": "audio",
+        "model": "seed_audio",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_005116_e1a8e782-4d61-4315-a1f6-139363e28802.mp3"
+      },
+      {
+        "index": 1,
+        "job_id": "4e460cb5-ad47-4b70-a24f-13a01a32ff95",
+        "status": "completed",
+        "type": "audio",
+        "model": "seed_audio",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_005116_4e460cb5-ad47-4b70-a24f-13a01a32ff95.mp3"
+      },
+      {
+        "index": 2,
+        "job_id": "458d7ee7-0f72-4664-9039-eeef8bef17b5",
+        "status": "completed",
+        "type": "audio",
+        "model": "seed_audio",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_005116_458d7ee7-0f72-4664-9039-eeef8bef17b5.mp3"
+      },
+      {
+        "index": 3,
+        "job_id": "b1c1cb9d-fcf1-47d0-afff-b8fd8cd649f5",
+        "status": "completed",
+        "type": "audio",
+        "model": "seed_audio",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_005116_b1c1cb9d-fcf1-47d0-afff-b8fd8cd649f5.mp3"
+      },
+      {
+        "index": 4,
+        "job_id": "56d5e0b5-b8b7-4fdd-b0fb-a15de5a9fe25",
+        "status": "completed",
+        "type": "audio",
+        "model": "seed_audio",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_005116_56d5e0b5-b8b7-4fdd-b0fb-a15de5a9fe25.mp3"
+      },
+      {
+        "index": 5,
+        "job_id": "b43f55ab-d08a-4742-a21a-7f4e0935f4df",
+        "status": "completed",
+        "type": "audio",
+        "model": "seed_audio",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20260912_005116_b43f55ab-d08a-4742-a21a-7f4e0935f4df.mp3"
+      }
+    ],
+    "source_parameters": [
+      {
+        "model": "seed_audio",
+        "prompt": "Marcus has another question. If he pays much less in premiums than the death benefit, how can his family receive a larger covered payment? The answer starts with risk pooling. An insurer combines many exposures and spreads the financial burden of covered losses across the group. Marcus's own premiums are not the limit of a covered claim. The insurer owes the benefit according to the policy contract.",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "voice_type": "preset",
+        "format": "mp3",
+        "speech_rate": 0
+      },
+      {
+        "model": "seed_audio",
+        "prompt": "Think of many individual policies supporting one insurance operation. Premiums help fund its obligations, alongside other financial resources. The policy is not simply a personal savings account that pays back only what Marcus put in. Pooling does not prevent death, require identical premiums, or erase uncertainty. People can have different coverage amounts and risk classifications. The insurer must still price its policies and manage its resources carefully.",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "voice_type": "preset",
+        "format": "mp3",
+        "speech_rate": 0
+      },
+      {
+        "model": "seed_audio",
+        "prompt": "Now connect pooling to the law of large numbers. A larger group of comparable, largely independent exposures tends to have more predictable average loss experience. The key word is average. A large pool may have more total claims than a small pool. The useful improvement is greater predictability in relative terms. It does not tell the insurer who will die, or guarantee an exact number of claims.",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "voice_type": "preset",
+        "format": "mp3",
+        "speech_rate": 0
+      },
+      {
+        "model": "seed_audio",
+        "prompt": "Use an invented example. Suppose one thousand people each have a one percent annual probability of a death claim. One thousand times one percent gives ten expected claims. Expected means an average across many possible outcomes. This year's count could be eight, ten, twelve, or another number. These are teaching assumptions, not real mortality figures or a premium quote. No individual outcome is identified.",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "voice_type": "preset",
+        "format": "mp3",
+        "speech_rate": 0
+      },
+      {
+        "model": "seed_audio",
+        "prompt": "Compare one extra claim in two groups with the same assumed one percent probability. In a group of one hundred, moving from one claim to two changes the rate from one percent to two percent. In a group of ten thousand, moving from one hundred claims to one hundred one changes the rate to one point zero one percent. One extra claim has a smaller effect on the larger group's rate. This illustrates sensitivity, not a guarantee. Shared events can still cause many claims together.",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "voice_type": "preset",
+        "format": "mp3",
+        "speech_rate": 0
+      },
+      {
+        "model": "seed_audio",
+        "prompt": "The makeup of the group matters too. Imagine an insurance offer at a standard price. People who know they have a greater chance of loss are especially eager to apply. That tendency is adverse selection. It can occur even when everyone answers truthfully. Underwriting helps the insurer evaluate applications and classify risk using permitted information and rules. It does not eliminate uncertainty. Remember the distinctions: pooling spreads financial risk; large numbers improve group estimates; adverse selection concerns who seeks coverage. Now answer the eight lesson questions, and review any mistakes before finishing.",
+        "voice_id": "1ad38ba4-9cc4-4f2f-9fde-b0fefdf67ae5",
+        "voice_type": "preset",
+        "format": "mp3",
+        "speech_rate": 0
+      }
+    ],
+    "sourceReview": null,
+    "sourceTechnical": {
+      "duration_seconds": 198.763,
+      "bytes": 10665588,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    }
+  },
+  "review": {
+    "voice": "Zoe replacement accepted; see narrationChange review evidence.",
+    "decode": "Final replacement fully decoded successfully.",
+    "visual": "Unchanged picture verified by the recorded source/output comparison.",
+    "speech": "Spoken content, voice, volume and captions accepted in the linked final review."
   }
 }
