@@ -1,5 +1,7 @@
-(() => {
+(async () => {
   'use strict';
+  const account = await window.AMG_ACCOUNT?.ready; if (!account) return;
+  const storage = account.storage;
   const data = window.AMG_LESSON, total = data.questions.length;
   const key = 'amg-life-lesson-' + data.id + '-v' + data.version;
   const $ = id => document.getElementById(id);
@@ -26,7 +28,7 @@
   const mastered = () => state.answers.every((a,i) => a === data.questions[i].answer);
   function readSaved() {
     let raw;
-    try { raw = localStorage.getItem(key); } catch (_) { storageAvailable = false; return undefined; }
+    try { raw = storage.getItem(key); } catch (_) { storageAvailable = false; return undefined; }
     let saved;
     try { saved = JSON.parse(raw || 'null'); } catch (_) { return null; }
     if (saved && ['answers','firstAnswers','attempts'].every(k => Array.isArray(saved[k]) && saved[k].length === total)) {
@@ -49,7 +51,7 @@
   }
   const initial = readSaved();
   if (initial) { state = initial; storedPresent = true; }
-  try { localStorage.setItem(key + '-probe','1'); localStorage.removeItem(key + '-probe'); }
+  try { storage.setItem(key + '-probe','1'); storage.removeItem(key + '-probe'); }
   catch (_) { storageAvailable = false; }
   const questionState = () => JSON.stringify([state.practiceAttemptId,state.answers,state.firstAnswers,state.attempts,state.complete]);
   function adopt(latest) {
@@ -59,8 +61,10 @@
     state = next; storedPresent = Boolean(latest);
   }
   async function mutate(change, restart = false) {
+    if (!account.canWrite()) return false;
     const attempt = state.practiceAttemptId, previous = questionState();
     const transaction = () => {
+      if (!account.canWrite()) return false;
       // After a storage failure keep this page in memory mode until reload. Rereading
       // an older disk record would otherwise discard answers that could not be saved.
       if (storageAvailable) adopt(readSaved());
@@ -68,14 +72,14 @@
       if (!restart && attempt !== state.practiceAttemptId) return false;
       if (change() === false) return false;
       if (storageAvailable) {
-        try { localStorage.setItem(key,JSON.stringify(state)); storedPresent = true; }
+        try { storage.setItem(key,JSON.stringify(state)); storedPresent = true; }
         catch (_) { storageAvailable = false; }
       }
       return true;
     };
     // Serialize real simultaneous writes where Web Locks is available. The fallback
     // still rereads immediately before each synchronous write; it is not a database lock.
-    const applied = navigator.locks?.request ? await navigator.locks.request(key,transaction) : transaction();
+    const applied = navigator.locks?.request ? await navigator.locks.request(account.lockKey(key),transaction) : transaction();
     update();
     if (dialog.open && previous !== questionState()) renderCheck();
     return applied;
@@ -158,7 +162,7 @@
     $('complete').textContent = state.complete ? 'Lesson finished' : 'Finish this lesson';
     $('completion-status').textContent = state.complete ? 'Part ' + data.number + ' is complete. Continue to the next lesson when you are ready.' : 'Answer every question correctly, using the explanations and retries as needed, to finish Part ' + data.number + '.';
     $('next-lesson').hidden = !state.complete; $('next-locked').hidden = state.complete;
-    $('save-status').textContent = storageAvailable ? 'Progress is saved in this browser.' : 'Storage is unavailable. Keep this page open to retain progress.';
+    $('save-status').textContent = storageAvailable ? account.statusText() : 'Progress is pending. Keep this page open until it is saved.';
     // Presentation only: the required-content and answer gates above remain unchanged.
     $('complete').hidden = !contentReady() || !mastered() || state.complete;
     $('result').hidden = answered === 0;
@@ -286,7 +290,7 @@
     },true);
     if (contentReady()) openCheck();
   });
-  window.addEventListener('storage',event => {
+  account.subscribe(event => {
     if (!storageAvailable || (event.key !== key && event.key !== null)) return;
     const previous = questionState(); adopt(readSaved()); update();
     if (dialog.open && previous !== questionState()) renderCheck();

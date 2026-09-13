@@ -7,3 +7,6 @@ dist/
 /output/
 /.playwright-cli/
 __pycache__/
+
+# Netlify local deployment bundles; functions source is under netlify/.
+.netlify/

@@ -13,7 +13,7 @@ export function icon(name, className = '') {
 }
 
 export function courseHeader(active = 'course') {
- return `<header class="app-header"><div class="app-header-inner"><a class="brand" href="/course/" aria-label="AMG Learning home"><span class="brand-mark"><img src="/course/assets/amg-mark.webp" alt="" width="68" height="64"></span><span class="brand-wordmark">AMG<span>Learning</span></span></a><nav class="app-nav" aria-label="Main navigation"><a href="/course/"${active === 'course' ? ' aria-current="page"' : ''}>${icon('book')}<span>Course</span></a><a href="/course/assessments/"${active === 'assessments' ? ' aria-current="page"' : ''}>${icon('test')}<span>Practice tests</span></a></nav><span class="program-label"><span></span>Maryland Life</span></div></header>`;
+ return `<header class="app-header"><div class="app-header-inner"><a class="brand" href="/course/" aria-label="AMG Learning home"><span class="brand-mark"><img src="/course/assets/amg-mark.webp" alt="" width="68" height="64"></span><span class="brand-wordmark">AMG<span>Learning</span></span></a><nav class="app-nav" aria-label="Main navigation"><a href="/course/"${active === 'course' ? ' aria-current="page"' : ''}>${icon('book')}<span>Course</span></a><a href="/course/assessments/"${active === 'assessments' ? ' aria-current="page"' : ''}>${icon('test')}<span>Practice tests</span></a></nav><div id="account-controls" class="account-controls"></div></div></header><div id="account-sync-status" class="account-sync-status" role="status" aria-live="polite"></div>`;
 }
 
 export function courseFooter() {

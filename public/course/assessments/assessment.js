@@ -1,15 +1,18 @@
-(() => {
+(async () => {
  'use strict';
+ const account=await window.AMG_ACCOUNT?.ready;if(!account)return;
+ const storage=account.storage;
  const data=window.AMG_ASSESSMENTS,KEY='amg-life-assessments-v'+data.version,DAY=86400000;
  const $=id=>document.getElementById(id),app=$('app'),formById=new Map(data.forms.map(f=>[f.id,f]));
  const questions=new Map([...data.forms.flatMap(f=>f.questions),...data.lessons.flatMap(l=>l.questions)].map(q=>[q.id,q]));
  const lessonById=new Map(data.lessons.map(l=>[l.id,l]));
  const blank=()=>({version:data.version,attempts:[],seen:[],reviews:{},lessonImports:{}});
+ let storedSnapshot=null;
  let state=blank(),storageAvailable=true,corrupt=false,currentAttempt=null,pendingSubmit=null;
  function node(tag,text,cls){const e=document.createElement(tag);if(text!==undefined)e.textContent=text;if(cls)e.className=cls;return e;}
  function button(text,fn,cls){const e=node('button',text,cls);e.type='button';e.addEventListener('click',fn);return e;}
  function link(text,url){const e=node('a',text);e.href=url;return e;}
- function read(key){try{return JSON.parse(localStorage.getItem(key)||'null');}catch(e){if(e.name==='SecurityError')storageAvailable=false;return null;}}
+ function read(key){try{const raw=storage.getItem(key);if(key===KEY)storedSnapshot=raw;return JSON.parse(raw||'null');}catch(e){if(e.name==='SecurityError')storageAvailable=false;return null;}}
  function validChoice(x){return x===null||(Number.isInteger(x)&&x>=0&&x<4);}
  function restore(){
   const saved=read(KEY);if(!saved)return;
@@ -27,9 +30,9 @@
    if(!state.seen.includes(f.id))state.seen.push(f.id);
   }
  }
- function storageStatus(){const s=$('storage-status');s.classList.toggle('warning',!storageAvailable||corrupt);s.textContent=!storageAvailable?'Browser storage is unavailable. You can practice here, but keep this page open: progress cannot survive a refresh.':corrupt?'Some saved assessment data could not be restored. Valid attempts and lesson progress remain available.':'Your progress saves in this browser. Keep using this browser and device to continue it.';}
- function save(){try{const serialized=JSON.stringify(state);if(localStorage.getItem(KEY)!==serialized)localStorage.setItem(KEY,serialized);}catch(_){storageAvailable=false;}storageStatus();}
- restore();try{localStorage.setItem(KEY+'-probe','1');localStorage.removeItem(KEY+'-probe');}catch(_){storageAvailable=false;}
+ function storageStatus(){const s=$('storage-status');s.classList.toggle('warning',!storageAvailable||corrupt);s.textContent=!storageAvailable?'Progress is pending. Keep this page open until it is saved.':corrupt?'Some saved assessment data could not be restored. Valid attempts and lesson progress remain available.':account.statusText();}
+ function save(){if(!account.canWrite())return;try{const serialized=JSON.stringify(state),previous=storedSnapshot;if(previous!==serialized){storedSnapshot=serialized;account.commitSnapshot(KEY,serialized,previous).catch(()=>{storageAvailable=false;storageStatus();});}}catch(_){storageAvailable=false;}storageStatus();}
+ restore();try{storage.setItem(KEY+'-probe','1');storage.removeItem(KEY+'-probe');}catch(_){storageAvailable=false;}
  function queue(qid,when=Date.now(),missId=null){
   const at=Math.min(when,Date.now()),r=state.reviews[qid];
   if(!r){state.reviews[qid]={stage:0,nextDue:at+DAY,history:[],lastMissAt:at,lastMissId:missId};return;}
@@ -67,13 +70,14 @@
  function heading(kicker,title,text){const h=node('section',undefined,'assessment-hero');h.append(node('p',kicker,'eyebrow'),node('h1',title),node('p',text));return h;}
  function focusHeading(){const h=app.querySelector('h1,legend,h2');if(h){h.tabIndex=-1;h.focus({preventScroll:true});}}
  function submit(a,expired=false){
-  if(a.submittedAt)return;
+  if(!account.canWrite()||a.submittedAt)return;
   a.submittedAt=expired&&a.deadline?a.deadline:Date.now();a.expired=expired;
   formById.get(a.form).questions.forEach((q,i)=>{if(a.answers[i]!==q.answer||a.uncertain[i])queue(q.id,a.submittedAt,'attempt:'+a.id);});save();
  }
- function expire(){let changed=false;for(const a of state.attempts)if(!a.submittedAt&&a.deadline&&Date.now()>=a.deadline){submit(a,true);changed=true;}return changed;}
- function active(a){if(a.submittedAt)return false;if(a.deadline&&Date.now()>=a.deadline){submit(a,true);render();window.scrollTo({top:0,behavior:'instant'});return false;}return true;}
+ function expire(){if(!account.canWrite())return false;let changed=false;for(const a of state.attempts)if(!a.submittedAt&&a.deadline&&Date.now()>=a.deadline){submit(a,true);changed=true;}return changed;}
+ function active(a){if(!account.canWrite())return false;if(a.submittedAt)return false;if(a.deadline&&Date.now()>=a.deadline){submit(a,true);render();window.scrollTo({top:0,behavior:'instant'});return false;}return true;}
  function start(f){
+  if(!account.canWrite())return;
   const pending=state.attempts.find(a=>a.form===f.id&&!a.submittedAt);
   if(pending){route({attempt:pending.id});return;}
   const now=Date.now(),n=f.questions.length,a={id:crypto.randomUUID(),form:f.id,startedAt:now,deadline:f.minutes?now+f.minutes*60000:null,submittedAt:null,expired:false,fresh:!state.seen.includes(f.id),answers:Array(n).fill(null),flags:Array(n).fill(false),uncertain:Array(n).fill(false),reviewed:Array(n).fill(false),current:0};
@@ -100,7 +104,7 @@
   else review.append(node('p',upcoming.length?'Next review: '+dateText(upcoming[0][1].nextDue)+'.':'Nothing due yet. Missed and uncertain answers will appear here.','review-empty'));
   const reviewMethod=node('details',undefined,'inline-details');reviewMethod.append(node('summary','How review works'),node('p','Missed lesson first answers, assessment misses and answers marked uncertain enter review. Another question from the same lesson is used when available; returning to a known item is labeled as repeat practice.'),node('p','Review intervals: 1 day after a miss, then 3 days after the first successful review, then 7 days after the second. A miss restarts the 1-day interval.'));review.append(reviewMethod);support.append(review);
   const panel=node('section',undefined,'card status-panel');panel.append(node('p','YOUR COURSE','eyebrow'),node('h2',complete+' of 60 parts complete'));
-  const next=progress.find(x=>!x.complete);panel.append(node('p',next?'Pick up where you left off.':'All lesson requirements are complete in this browser.'),link(next?'Continue with Part '+next.lesson.number:'Review your course',next?'/course/lesson-'+next.lesson.id+'/':'/course/'));
+  const next=progress.find(x=>!x.complete);panel.append(node('p',next?'Pick up where you left off.':'All lesson requirements are complete in your account.'),link(next?'Continue with Part '+next.lesson.number:'Review your course',next?'/course/lesson-'+next.lesson.id+'/':'/course/'));
   const completionInfo=node('details',undefined,'inline-details');completionInfo.append(node('summary','What counts as complete?'),node('p','A part counts after its study prerequisite, every correct required answer and its explicit finish step. Practice tests are optional and do not change lesson completion. Course completion is a study record, not a licensing approval or an accredited CE certificate.'));panel.append(completionInfo);support.append(panel);app.append(support);
   const historySection=node('details',undefined,'practice-disclosure attempt-history');historySection.append(node('summary','Attempt history'+(state.attempts.length?' · '+state.attempts.length:'')));
   const list=node('ul',undefined,'history-list');
@@ -109,7 +113,7 @@
   }
   historySection.append(list.children.length?list:node('p','Your completed and in-progress tests will appear here.','empty'));app.append(historySection);renderEvidence(complete);
   const guide=node('details',undefined,'practice-disclosure');guide.append(node('summary','How these practice tests work'),node('p','The diagnostic has 32 questions, four per domain, with no timer. Each timed form has 90 questions and a 105-minute limit. Eighty questions count toward its main score; ten AMG simulation items are identified only after submission.'),node('p','Answer without hints. You can skip, flag and change answers before submitting. Feedback appears afterward. A timed attempt continues while you are away, including when you return to this page.'),node('p','Starting a form records its first exposure, even if you leave it unfinished. Retakes are useful practice but do not count as fresh forms in the optional study target. These original AMG questions are not an official exam or a promise of passing.'));app.append(guide);
-  const exportBox=node('section',undefined,'export-panel');exportBox.append(node('div',undefined,'export-copy'));exportBox.firstChild.append(node('h2','Keep your study record'),node('p','Download this browser’s progress for your backup or coordinator.','export-note'));exportBox.append(button('Download study record',()=>{
+  const exportBox=node('section',undefined,'export-panel');exportBox.append(node('div',undefined,'export-copy'));exportBox.firstChild.append(node('h2','Keep your study record'),node('p','Download your progress for your backup or coordinator.','export-note'));exportBox.append(button('Download study record',()=>{
    const exportData={exportedAt:new Date().toISOString(),course:'AMG Maryland Life',lessonProgress:progress.map(p=>({id:p.lesson.id,title:p.lesson.title,complete:p.complete,completedAt:p.completedAt})),assessmentProgress:state};
    const url=URL.createObjectURL(new Blob([JSON.stringify(exportData,null,2)],{type:'application/json'})),a=link('Download',url);a.download='amg-life-study-record.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);
   }));app.append(exportBox);save();
@@ -119,7 +123,7 @@
   const outstanding=mocks.reduce((n,a)=>n+formById.get(a.form).questions.filter((q,i)=>(a.answers[i]!==q.answer||a.uncertain[i])&&!a.reviewed[i]).length,0);
   const section=node('details',undefined,'practice-disclosure study-evidence');section.append(node('summary','Study insights'),node('h2','Evidence of understanding'),node('p','Optional AMG study target: complete the course, reach at least 85% on two previously unseen timed forms on separate days, and review misses and uncertain answers. Tests are not required to finish the course. This target is not Prometric’s cut score and has not been validated as a pass predictor.'));
   const met=complete===60&&hits.length>=2&&days.size>=2&&outstanding===0;
-  section.append(node('p',met?'The course and two-form study target are met in this browser. Review the domain evidence below before deciding your next step.':complete+' / 60 parts · '+hits.length+' fresh forms at 85%+ · '+days.size+' qualifying study days · '+outstanding+' mock explanations awaiting review.','notice'));
+  section.append(node('p',met?'The course and two-form study target are met in your account. Review the domain evidence below before deciding your next step.':complete+' / 60 parts · '+hits.length+' fresh forms at 85%+ · '+days.size+' qualifying study days · '+outstanding+' mock explanations awaiting review.','notice'));
   const table=node('table'),head=node('tr');for(const s of ['Domain','Fresh scored answers','Evidence'])head.append(node('th',s));const thead=node('thead');thead.append(head);table.append(thead);const body=node('tbody');
   data.domains.forEach((name,d)=>{let n=0,right=0;for(const a of fresh)formById.get(a.form).questions.forEach((q,i)=>{if(q.scored&&q.domain===d){n++;if(a.answers[i]===q.answer)right++;}});const row=node('tr');row.append(node('td',name),node('td',n?right+' / '+n+' · '+Math.round(right/n*100)+'%':'No sample'),node('td',n<20?'Small sample: more evidence needed':right/n>=.8?'At least 80% in this sample':'Revisit this domain'));body.append(row);});
   table.append(body);const wrap=node('div',undefined,'table-scroll');wrap.append(table);section.append(wrap,node('p','Only first-exposure diagnostic and mock answers are included here; mock simulation items and retakes are excluded. Some domains have very few questions per form, so a high percentage alone is weak evidence. Lesson retries are learning practice, not fresh exam scores.','fine'));app.append(section);
@@ -176,7 +180,7 @@
  $('cancel-submit').addEventListener('click',()=>{$('submit-dialog').close();pendingSubmit=null;});
  $('submit-dialog').addEventListener('cancel',()=>pendingSubmit=null);
  window.addEventListener('popstate',render);
- window.addEventListener('storage',e=>{if(e.key===KEY){state=blank();restore();render();}else if(e.key?.startsWith('amg-life-lesson-')&&!currentAttempt)render();});
+ account.subscribe(e=>{if(e.source==='local'){storageStatus();return;}if(e.key===KEY){state=blank();restore();render();}else if(e.key===null){storageStatus();}else if(e.key?.startsWith('amg-life-lesson-')&&!currentAttempt)render();});
  document.addEventListener('visibilitychange',()=>{if(!document.hidden){const visibleAttempt=currentAttempt;if(expire()){if($('submit-dialog').open)$('submit-dialog').close();render();if(visibleAttempt?.submittedAt)window.scrollTo({top:0,behavior:'instant'});}else updateTimer();}});
  setInterval(()=>{const visibleAttempt=currentAttempt;if(expire()){pendingSubmit=null;if($('submit-dialog').open)$('submit-dialog').close();render();if(visibleAttempt?.submittedAt)window.scrollTo({top:0,behavior:'instant'});}else updateTimer();},1000);
  render();

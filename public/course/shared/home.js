@@ -1,4 +1,6 @@
-(() => {
+(async () => {
+ const account=await window.AMG_ACCOUNT?.ready;if(!account)return;
+ const storage=account.storage;
  const rows=[...document.querySelectorAll('[data-lesson]')],panels=[...document.querySelectorAll('[data-module]')],buttons=[...document.querySelectorAll('[data-module-button]')],search=document.getElementById('lesson-search');
  const $=id=>document.getElementById(id);
  let selected='0',initialized=false;
@@ -14,7 +16,7 @@
  function refresh(){
   let count=0,next=null,available=true;const completedByModule={};
   for(const row of rows){
-   let saved=null;try{saved=JSON.parse(localStorage.getItem('amg-life-lesson-'+row.dataset.lesson+'-v'+row.dataset.version)||'null');}catch(_){available=false;}
+   let saved=null;try{saved=JSON.parse(storage.getItem('amg-life-lesson-'+row.dataset.lesson+'-v'+row.dataset.version)||'null');}catch(_){available=false;}
    const keys=row.dataset.answers.split(',').map(Number),complete=saved?.complete===true&&(saved.videoEnded===true||saved.transcriptRead===true)&&Array.isArray(saved.answers)&&saved.answers.length===keys.length&&saved.answers.every((a,i)=>a===keys[i]);
    row.classList.toggle('is-complete',complete);row.querySelector('.lesson-state').textContent=complete?'Completed':'Start';
    row.querySelector('.lesson-play').innerHTML=complete?'<svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12 4 4L19 6"/></svg>':'<svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round" aria-hidden="true"><path d="m9 5 11 7-11 7Z"/></svg>';
@@ -38,5 +40,5 @@
  }
  buttons.forEach(b=>b.addEventListener('click',()=>{selected=b.dataset.moduleButton;search.value='';filter();}));
  search.addEventListener('input',filter);$('clear-search').addEventListener('click',()=>{search.value='';filter();search.focus();});
- window.addEventListener('pageshow',refresh);window.addEventListener('storage',refresh);refresh();
+ window.addEventListener('pageshow',refresh);account.subscribe(refresh);refresh();
 })();
