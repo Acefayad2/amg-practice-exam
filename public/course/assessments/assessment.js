@@ -16,7 +16,7 @@
   if(saved.version!==data.version||!Array.isArray(saved.attempts)){corrupt=true;return;}
   state.seen=Array.isArray(saved.seen)?saved.seen.filter(id=>formById.has(id)):[];
   state.reviews={};
-  for(const[id,r]of Object.entries(saved.reviews||{}))if(questions.has(id)&&r&&Number.isFinite(r.nextDue)&&Number.isInteger(r.stage)&&r.stage>=0&&r.stage<=3){state.reviews[id]={nextDue:r.nextDue,stage:r.stage,history:Array.isArray(r.history)?r.history.filter(h=>h&&typeof h.questionId==='string'&&Number.isFinite(h.at)):[]};}
+  for(const[id,r]of Object.entries(saved.reviews||{}))if(questions.has(id)&&r&&Number.isFinite(r.nextDue)&&Number.isInteger(r.stage)&&r.stage>=0&&r.stage<=3){state.reviews[id]={nextDue:r.nextDue,stage:r.stage,history:Array.isArray(r.history)?r.history.filter(h=>h&&typeof h.questionId==='string'&&Number.isFinite(h.at)):[],lastMissAt:Number.isFinite(r.lastMissAt)?r.lastMissAt:null,lastMissId:typeof r.lastMissId==='string'?r.lastMissId:null};}
   state.lessonImports=saved.lessonImports&&typeof saved.lessonImports==='object'?saved.lessonImports:{};
   const used=new Set();
   for(const a of saved.attempts){
@@ -30,16 +30,31 @@
  function storageStatus(){const s=$('storage-status');s.classList.toggle('warning',!storageAvailable||corrupt);s.textContent=!storageAvailable?'Browser storage is unavailable. You can practice here, but keep this page open: progress cannot survive a refresh.':corrupt?'Some saved assessment data could not be restored. Valid attempts and lesson progress remain available.':'Your progress saves in this browser. Keep using this browser and device to continue it.';}
  function save(){try{const serialized=JSON.stringify(state);if(localStorage.getItem(KEY)!==serialized)localStorage.setItem(KEY,serialized);}catch(_){storageAvailable=false;}storageStatus();}
  restore();try{localStorage.setItem(KEY+'-probe','1');localStorage.removeItem(KEY+'-probe');}catch(_){storageAvailable=false;}
- function queue(qid,when=Date.now()){if(!state.reviews[qid])state.reviews[qid]={stage:0,nextDue:Math.min(when,Date.now())+DAY,history:[]};}
+ function queue(qid,when=Date.now(),missId=null){
+  const at=Math.min(when,Date.now()),r=state.reviews[qid];
+  if(!r){state.reviews[qid]={stage:0,nextDue:at+DAY,history:[],lastMissAt:at,lastMissId:missId};return;}
+  // Only a distinct, dated miss can restart review; old imports must not move the due date.
+  if(!missId||r.lastMissId===missId)return;
+  const latestReview=r.history.reduce((latest,h)=>Math.max(latest,h.at),0);
+  if(at<=Math.max(r.lastMissAt||0,latestReview))return;
+  r.stage=0;r.nextDue=at+DAY;r.lastMissAt=at;r.lastMissId=missId;
+ }
  function lessonProgress(){
   return data.lessons.map(l=>{
    const key='amg-life-lesson-'+l.id+'-v'+l.version,s=read(key),ready=s?.videoEnded===true||s?.transcriptRead===true;
    const valid=ready&&Array.isArray(s?.answers)&&s.answers.length===l.questions.length;
    const complete=Boolean(valid&&s.complete===true&&s.answers.every((a,i)=>a===l.questions[i].answer));
    if(ready&&Array.isArray(s?.firstAnswers)&&s.firstAnswers.length===l.questions.length){
-    const fingerprint=JSON.stringify([s.firstAnswers,s.completedAt||null]);
+    const fingerprint=JSON.stringify([s.firstAnswers,s.completedAt||null,s.practiceAttemptId||null,s.firstAnswerAt||null]);
     if(state.lessonImports[key]!==fingerprint){
-     const date=Date.parse(s.completedAt);s.firstAnswers.forEach((a,i)=>{if(Number.isInteger(a)&&a>=0&&a<4&&a!==l.questions[i].answer)queue(l.questions[i].id,Number.isFinite(date)?date:Date.now());});state.lessonImports[key]=fingerprint;
+     const date=Date.parse(s.completedAt);
+     s.firstAnswers.forEach((a,i)=>{
+      if(!Number.isInteger(a)||a<0||a>=4||a===l.questions[i].answer)return;
+      const rawAt=Array.isArray(s.firstAnswerAt)?s.firstAnswerAt[i]:null;
+      const at=typeof rawAt==='string'?Date.parse(rawAt):rawAt;
+      const dated=Number.isFinite(at)&&at>0&&typeof s.practiceAttemptId==='string'&&s.practiceAttemptId.length>0;
+      queue(l.questions[i].id,dated?at:Number.isFinite(date)?date:Date.now(),dated?key+':'+s.practiceAttemptId+':'+i:null);
+     });state.lessonImports[key]=fingerprint;
     }
    }
    return{lesson:l,complete,completedAt:complete?s.completedAt||null:null};
@@ -54,7 +69,7 @@
  function submit(a,expired=false){
   if(a.submittedAt)return;
   a.submittedAt=expired&&a.deadline?a.deadline:Date.now();a.expired=expired;
-  formById.get(a.form).questions.forEach((q,i)=>{if(a.answers[i]!==q.answer||a.uncertain[i])queue(q.id,a.submittedAt);});save();
+  formById.get(a.form).questions.forEach((q,i)=>{if(a.answers[i]!==q.answer||a.uncertain[i])queue(q.id,a.submittedAt,'attempt:'+a.id);});save();
  }
  function expire(){let changed=false;for(const a of state.attempts)if(!a.submittedAt&&a.deadline&&Date.now()>=a.deadline){submit(a,true);changed=true;}return changed;}
  function active(a){if(a.submittedAt)return false;if(a.deadline&&Date.now()>=a.deadline){submit(a,true);render();window.scrollTo({top:0,behavior:'instant'});return false;}return true;}

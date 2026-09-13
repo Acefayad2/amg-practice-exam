@@ -1,0 +1,50 @@
+async page => {
+ const origin='http://127.0.0.1:4197',assessmentUrl=origin+'/course/assessments/',key='amg-life-assessments-v1',checks=[],errors=[];
+ const check=(ok,name)=>{if(!ok)throw Error(name);checks.push(name);};
+ await page.context().route('**/*',r=>r.continue());page.on('pageerror',e=>errors.push(e.message));
+ await page.goto(assessmentUrl);const sourceHash=await page.evaluate(async()=>Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',await(await fetch('/course/shared/lesson.js',{cache:'no-store'})).arrayBuffer()))).map(x=>x.toString(16).padStart(2,'0')).join(''));await page.evaluate(()=>localStorage.clear());
+ await page.goto(origin+'/course/lesson-03/');const data=await page.evaluate(()=>window.AMG_LESSON),lk='amg-life-lesson-'+data.id+'-v'+data.version;
+ const peer=await page.context().newPage();peer.on('pageerror',e=>errors.push(e.message));await peer.goto(page.url());
+ const read=()=>page.evaluate(k=>JSON.parse(localStorage.getItem(k)),lk);
+ await page.locator('details').filter({has:page.locator('#transcript')}).locator('summary').click();await page.locator('#transcript-ready').click();
+ const first=data.questions[0],wrong=(first.answer+1)%first.options.length;
+ await page.locator('input[name="lesson-answer"][value="'+wrong+'"]').check();await page.getByRole('button',{name:'Check answer',exact:true}).click();
+ await page.getByRole('button',{name:'Try this question again',exact:true}).waitFor();
+ let state=await read();const firstAttempt=state.practiceAttemptId,firstTime=state.firstAnswerAt[0];
+ check(typeof firstAttempt==='string'&&firstAttempt.length>0,'Practice attempt has a stable identifier');
+ check(typeof firstTime==='string'&&Number.isFinite(Date.parse(firstTime)),'Actual first Check answer records an ISO time');
+ check(state.firstAnswers[0]===wrong&&state.answers[0]===wrong&&!state.complete,'Wrong answer is recorded and cannot complete lesson');
+ await page.getByRole('button',{name:'Try this question again',exact:true}).click();
+ async function finishQuestions(start=0){for(let i=start;i<data.questions.length;i++){
+  await page.locator('input[name="lesson-answer"][value="'+data.questions[i].answer+'"]').check();await page.getByRole('button',{name:'Check answer',exact:true}).click();
+  if(i<data.questions.length-1)await page.getByRole('button',{name:'Next question',exact:true}).click();else await page.getByRole('button',{name:'Finish Part 3',exact:true}).click();
+ }await page.waitForFunction(k=>JSON.parse(localStorage.getItem(k)).complete===true,lk);}
+ await finishQuestions();state=await read();
+ check(state.complete&&state.answers.every((a,i)=>a===data.questions[i].answer),'All eight correct reviewed answers and explicit finish complete Part3');
+ check(state.practiceAttemptId===firstAttempt&&state.firstAnswers[0]===wrong&&state.firstAnswerAt[0]===firstTime,'Correct retry and finish retain the first miss identity and time');
+ await peer.locator('details').filter({has:peer.locator('#transcript')}).locator('summary').click();await peer.locator('#transcript-ready').click();
+ await peer.locator('#lesson-check').waitFor({state:'visible'});state=await read();
+ check(state.complete&&state.answers.every((a,i)=>a===data.questions[i].answer),'Previously opened peer transcript action preserves completed answers');
+ check(state.firstAnswerAt[0]===firstTime&&state.practiceAttemptId===firstAttempt,'Peer action preserves first-answer metadata');
+ const verify=await page.context().newPage();await verify.goto(origin+'/course/lesson-03/');
+ check((await verify.locator('#completion-status').textContent()).includes('is complete'),'Newly opened third tab restores complete state');await verify.close();
+ const assessment=await page.context().newPage();assessment.on('pageerror',e=>errors.push(e.message));await assessment.goto(assessmentUrl);
+ const qid=await assessment.evaluate(id=>window.AMG_ASSESSMENTS.lessons.find(l=>l.id===id).questions[0].id,data.id);
+ const record=()=>assessment.evaluate(({key,qid})=>JSON.parse(localStorage.getItem(key)).reviews[qid],{key,qid});
+ let review=await record();check(review.stage===0&&review.nextDue===Date.parse(firstTime)+86400000,'Actual lesson first miss schedules from its recorded time');
+ const priorHistory=[{questionId:qid,at:Date.now()-1,correct:true}];
+ await assessment.evaluate(({key,qid,priorHistory})=>{const s=JSON.parse(localStorage.getItem(key)),r=s.reviews[qid];r.stage=3;r.nextDue=priorHistory[0].at;r.history=priorHistory;localStorage.setItem(key,JSON.stringify(s));},{key,qid,priorHistory});await assessment.reload();
+ review=await record();check(review.stage===3,'Reloading the completed-review fixture does not reimport the old miss');
+ await page.locator('#restart').click();await page.locator('#lesson-check').waitFor({state:'visible'});
+ await page.waitForFunction(({lk,old})=>JSON.parse(localStorage.getItem(lk)).practiceAttemptId!==old,{lk,old:firstAttempt});state=await read();const secondAttempt=state.practiceAttemptId;
+ check(!state.complete&&state.transcriptRead&&state.firstAnswers.every(x=>x===null),'Explicit restart creates fresh answers while retaining study prerequisite');
+ await page.locator('input[name="lesson-answer"][value="'+wrong+'"]').check();await page.getByRole('button',{name:'Check answer',exact:true}).click();await page.getByRole('button',{name:'Try this question again',exact:true}).waitFor();state=await read();const secondTime=state.firstAnswerAt[0];
+ await assessment.waitForFunction(({key,qid,id})=>{const s=JSON.parse(localStorage.getItem(key));return s?.reviews[qid]?.stage===0&&s.reviews[qid].lastMissId===id;},{key,qid,id:lk+':'+secondAttempt+':0'});
+ review=await record();check(Date.parse(secondTime)>priorHistory[0].at&&review.nextDue===Date.parse(secondTime)+86400000,'New actual wrong first answer reopens completed review once');
+ check(JSON.stringify(review.history)===JSON.stringify(priorHistory),'New lesson miss preserves previous successful-review history');
+ const due=review.nextDue;await page.getByRole('button',{name:'Try this question again',exact:true}).click();await finishQuestions();await assessment.reload();review=await record();
+ check(review.nextDue===due,'Retry and later completion of the same attempt do not postpone review');
+ check((await read()).firstAnswerAt[0]===secondTime,'The later attempt also preserves its own first miss timestamp');
+ await peer.close();await assessment.close();check(errors.length===0,'No runtime errors across the three-tab and review flow');
+ return{reviewedAt:new Date().toISOString(),sourceHash,checks,errors,firstAttempt,firstTime,secondAttempt,secondTime,review,scope:'Two full real eight-question lesson attempts, with one initial wrong answer and corrected retry each. Three-tab completion preservation and actual lesson metadata import are exercised. Only the old completed-review history is a date fixture; no continuous11-day learner study or physical-device testing is claimed.'};
+}

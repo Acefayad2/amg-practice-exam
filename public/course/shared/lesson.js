@@ -3,7 +3,8 @@
   const data = window.AMG_LESSON, total = data.questions.length;
   const key = 'amg-life-lesson-' + data.id + '-v' + data.version;
   const $ = id => document.getElementById(id);
-  const blank = () => ({answers:Array(total).fill(null), firstAnswers:Array(total).fill(null), attempts:Array(total).fill(0), videoEnded:false, transcriptRead:false, complete:false, position:0, completedAt:null});
+  const newAttemptId = () => window.crypto?.randomUUID?.() || 'attempt-' + Date.now() + '-' + Math.random().toString(36).slice(2);
+  const blank = (practiceAttemptId = newAttemptId()) => ({practiceAttemptId, answers:Array(total).fill(null), firstAnswers:Array(total).fill(null), firstAnswerAt:Array(total).fill(null), attempts:Array(total).fill(0), videoEnded:false, transcriptRead:false, complete:false, position:0, completedAt:null});
   const valid = (a,i) => Number.isInteger(a) && a >= 0 && a < data.questions[i].options.length;
   // Shuffle presentation only; stored answers continue to use the original option indices.
   const choiceOrders = data.questions.map(question => {
@@ -20,29 +21,64 @@
     }
     return order;
   });
-  let state = blank(), storageAvailable = true, current = 0, returnFocus = null;
+  let state = blank(), storageAvailable = true, storedPresent = false, current = 0, returnFocus = null;
   const contentReady = () => state.videoEnded || state.transcriptRead;
   const mastered = () => state.answers.every((a,i) => a === data.questions[i].answer);
-  try {
-    const saved = JSON.parse(localStorage.getItem(key) || 'null');
+  function readSaved() {
+    let raw;
+    try { raw = localStorage.getItem(key); } catch (_) { storageAvailable = false; return undefined; }
+    let saved;
+    try { saved = JSON.parse(raw || 'null'); } catch (_) { return null; }
     if (saved && ['answers','firstAnswers','attempts'].every(k => Array.isArray(saved[k]) && saved[k].length === total)) {
-      state.videoEnded = saved.videoEnded === true;
-      state.transcriptRead = saved.transcriptRead === true;
-      state.position = Number.isFinite(saved.position) && saved.position >= 0 ? saved.position : 0;
-      state.completedAt = typeof saved.completedAt === "string" ? saved.completedAt : null;
-      if (contentReady()) {
-        state.answers = saved.answers.map((a,i) => valid(a,i) ? a : null);
-        state.firstAnswers = saved.firstAnswers.map((a,i) => valid(a,i) ? a : null);
-        state.attempts = saved.attempts.map(a => Number.isSafeInteger(a) && a > 0 ? a : 0);
-        state.complete = saved.complete === true && mastered();
+      // Legacy answers have an unknown first-answer time; migration must not invent one.
+      const restored = blank(typeof saved.practiceAttemptId === 'string' && saved.practiceAttemptId.trim() ? saved.practiceAttemptId : 'legacy:' + key);
+      restored.videoEnded = saved.videoEnded === true;
+      restored.transcriptRead = saved.transcriptRead === true;
+      restored.position = Number.isFinite(saved.position) && saved.position >= 0 ? saved.position : 0;
+      restored.completedAt = typeof saved.completedAt === "string" ? saved.completedAt : null;
+      if (restored.videoEnded || restored.transcriptRead) {
+        restored.answers = saved.answers.map((a,i) => valid(a,i) ? a : null);
+        restored.firstAnswers = saved.firstAnswers.map((a,i) => valid(a,i) ? a : null);
+        restored.firstAnswerAt = restored.firstAnswers.map((a,i) => a !== null && typeof saved.firstAnswerAt?.[i] === 'string' && Number.isFinite(Date.parse(saved.firstAnswerAt[i])) ? saved.firstAnswerAt[i] : null);
+        restored.attempts = saved.attempts.map(a => Number.isSafeInteger(a) && a > 0 ? a : 0);
+        restored.complete = saved.complete === true && restored.answers.every((a,i) => a === data.questions[i].answer);
       }
+      return restored;
     }
-  } catch (_) { state = blank(); }
+    return null;
+  }
+  const initial = readSaved();
+  if (initial) { state = initial; storedPresent = true; }
   try { localStorage.setItem(key + '-probe','1'); localStorage.removeItem(key + '-probe'); }
   catch (_) { storageAvailable = false; }
-  function save() {
-    try { localStorage.setItem(key,JSON.stringify(state)); } catch (_) { storageAvailable = false; }
-    $('save-status').textContent = storageAvailable ? 'Progress is saved in this browser.' : 'Storage is unavailable. Keep this page open to retain progress.';
+  const questionState = () => JSON.stringify([state.practiceAttemptId,state.answers,state.firstAnswers,state.attempts,state.complete]);
+  function adopt(latest) {
+    if (latest === undefined) return; // Keep in-memory progress when storage is unavailable.
+    const next = latest || (storedPresent ? blank() : state);
+    if (next.practiceAttemptId !== state.practiceAttemptId) current = 0;
+    state = next; storedPresent = Boolean(latest);
+  }
+  async function mutate(change, restart = false) {
+    const attempt = state.practiceAttemptId, previous = questionState();
+    const transaction = () => {
+      // After a storage failure keep this page in memory mode until reload. Rereading
+      // an older disk record would otherwise discard answers that could not be saved.
+      if (storageAvailable) adopt(readSaved());
+      // A queued action from before Restart cannot answer or finish the new attempt.
+      if (!restart && attempt !== state.practiceAttemptId) return false;
+      if (change() === false) return false;
+      if (storageAvailable) {
+        try { localStorage.setItem(key,JSON.stringify(state)); storedPresent = true; }
+        catch (_) { storageAvailable = false; }
+      }
+      return true;
+    };
+    // Serialize real simultaneous writes where Web Locks is available. The fallback
+    // still rereads immediately before each synchronous write; it is not a database lock.
+    const applied = navigator.locks?.request ? await navigator.locks.request(key,transaction) : transaction();
+    update();
+    if (dialog.open && previous !== questionState()) renderCheck();
+    return applied;
   }
   function el(tag,text,className) {
     const node = document.createElement(tag);
@@ -104,11 +140,14 @@
     $('complete').textContent = state.complete ? 'Lesson finished' : 'Finish this lesson';
     $('completion-status').textContent = state.complete ? 'Part ' + data.number + ' is complete. Continue to the next lesson when you are ready.' : 'Answer every question correctly, using the explanations and retries as needed, to finish Part ' + data.number + '.';
     $('next-lesson').hidden = !state.complete; $('next-locked').hidden = state.complete;
-    save();
+    $('save-status').textContent = storageAvailable ? 'Progress is saved in this browser.' : 'Storage is unavailable. Keep this page open to retain progress.';
   }
-  function finish() {
-    if (!contentReady() || !mastered()) return;
-    state.complete = true; state.completedAt ||= new Date().toISOString(); update();
+  async function finish() {
+    const applied = await mutate(() => {
+      if (!contentReady() || !mastered()) return false;
+      state.complete = true; state.completedAt ||= new Date().toISOString();
+    });
+    if (!applied || !state.complete) return;
     returnFocus = $('completion-status');
     if (dialog.open) dialog.close();
     $('completion-status').focus();
@@ -133,12 +172,15 @@
     if (selected === null) {
       const check = el('button','Check answer','primary'); check.disabled = true; check.type = 'button';
       options.addEventListener('change',() => { check.disabled = false; });
-      check.addEventListener('click',() => {
+      check.addEventListener('click',async () => {
         const input = options.querySelector('input:checked'); if (!input || !contentReady()) return;
-        const answer = Number(input.value);
-        if (state.firstAnswers[current] === null) state.firstAnswers[current] = answer;
-        state.answers[current] = answer; state.attempts[current] += 1;
-        update(); renderCheck(); $('check-feedback').focus();
+        const answer = Number(input.value), index = current;
+        await mutate(() => {
+          if (!contentReady() || state.answers[index] !== null) return false;
+          if (state.firstAnswers[index] === null) { state.firstAnswers[index] = answer; state.firstAnswerAt[index] = new Date().toISOString(); }
+          state.answers[index] = answer; state.attempts[index] += 1;
+        });
+        renderCheck(); $('check-feedback')?.focus();
       }); actions.append(check);
     } else {
       const correct = selected === question.answer;
@@ -153,7 +195,11 @@
       review.addEventListener('click',() => dialog.close()); feedback.append(review); box.append(feedback);
       if (!correct) {
         const retry = el('button','Try this question again','primary'); retry.type = 'button';
-        retry.addEventListener('click',() => { state.answers[current] = null; update(); renderCheck(); box.querySelector('input').focus(); }); actions.append(retry);
+        retry.addEventListener('click',async () => {
+          const index = current;
+          await mutate(() => { if (state.answers[index] === null || state.answers[index] === data.questions[index].answer) return false; state.answers[index] = null; });
+          renderCheck(); box.querySelector('input')?.focus();
+        }); actions.append(retry);
       } else if (current < total - 1) {
         const next = el('button','Next question','primary'); next.type = 'button';
         next.addEventListener('click',() => { current += 1; renderCheck(); $('check-heading').focus(); }); actions.append(next);
@@ -172,6 +218,7 @@
     box.append(actions);
   }
   async function openCheck() {
+    await mutate(() => false);
     if (!contentReady()) return;
     video.pause();
     if (document.fullscreenElement) { try { await document.exitFullscreen(); } catch (_) {} }
@@ -187,12 +234,12 @@
   });
   video.addEventListener('timeupdate', () => {
     if (Date.now() - lastPositionSave < 5000) return;
-    lastPositionSave = Date.now(); state.position = video.currentTime; save();
+    lastPositionSave = Date.now(); savePosition();
   });
-  video.addEventListener('ended',() => { state.videoEnded = true; update(); if (!state.complete) openCheck(); });
+  video.addEventListener('ended',async () => { const applied = await mutate(() => { state.videoEnded = true; }); if (applied && !state.complete) openCheck(); });
   $('open-check').addEventListener('click',openCheck);
-  $('transcript-ready').addEventListener('click', () => { state.transcriptRead = true; update(); openCheck(); });
-  const savePosition = () => { if (Number.isFinite(video.currentTime)) { state.position = video.currentTime; save(); } };
+  $('transcript-ready').addEventListener('click',async () => { if (await mutate(() => { state.transcriptRead = true; })) openCheck(); });
+  const savePosition = () => { if (Number.isFinite(video.currentTime)) { const position = video.currentTime; mutate(() => { state.position = position; }); } };
   video.addEventListener('pause',savePosition);
   window.addEventListener('pagehide',savePosition);
   $('close-check').addEventListener('click',() => dialog.close());
@@ -201,8 +248,17 @@
     target.focus({preventScroll:true});
   });
   $('complete').addEventListener('click',finish);
-  $('restart').addEventListener('click',() => {
-    const ended = state.videoEnded, read = state.transcriptRead; state = blank(); state.videoEnded = ended; state.transcriptRead = read; update(); if (contentReady()) openCheck();
+  $('restart').addEventListener('click',async () => {
+    await mutate(() => {
+      const ended = state.videoEnded, read = state.transcriptRead; state = blank(); state.videoEnded = ended; state.transcriptRead = read; current = 0;
+    },true);
+    if (contentReady()) openCheck();
+  });
+  window.addEventListener('storage',event => {
+    if (!storageAvailable || (event.key !== key && event.key !== null)) return;
+    const previous = questionState(); adopt(readSaved()); update();
+    if (dialog.open && previous !== questionState()) renderCheck();
   });
   update();
+  mutate(() => {}); // Persist a shared attempt identity without changing legacy answers.
 })();
