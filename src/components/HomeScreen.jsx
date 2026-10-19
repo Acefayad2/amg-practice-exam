@@ -1,6 +1,4 @@
-import { PRACTICE_ROUTES } from '../practiceRoutes'
-
-export default function HomeScreen({ onStartHealth }) {
+export default function HomeScreen({ routes, onStartHealth }) {
   return (
     <main className="practice-home">
       <header className="practice-hero">
@@ -17,9 +15,9 @@ export default function HomeScreen({ onStartHealth }) {
             <p>Continue the 60-part course or open the diagnostic, timed exams and review dashboard.</p>
           </div>
           <div className="track-actions">
-            <a className="track-primary" href={PRACTICE_ROUTES.lifeCourse}>Enter Life Course →</a>
-            <a className="track-secondary" href={PRACTICE_ROUTES.lifeExams}>Open Life Practice Exams</a>
-            <a className="track-link" href={PRACTICE_ROUTES.lifeGuide} download>Download Life Study Guide</a>
+            <a className="track-primary" href={routes.lifeCourse}>Enter Life Course →</a>
+            <a className="track-secondary" href={routes.lifeExams}>Open Life Practice Exams</a>
+            <a className="track-link" href={routes.lifeGuide} download>Download Life Study Guide</a>
           </div>
         </section>
 
@@ -38,7 +36,7 @@ export default function HomeScreen({ onStartHealth }) {
           <div className="track-note"><strong>Smart Stop:</strong> If passing becomes mathematically impossible, the exam stops and opens your results.</div>
           <div className="track-actions">
             <button className="track-primary" type="button" onClick={onStartHealth}>Start Health Practice Exam →</button>
-            <a className="track-secondary" href={PRACTICE_ROUTES.healthGuide} download>Download Health Study Guide</a>
+            <a className="track-secondary" href={routes.healthGuide} download>Download Health Study Guide</a>
           </div>
         </section>
       </div>

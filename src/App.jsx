@@ -4,7 +4,7 @@ import RegisterScreen from './components/RegisterScreen'
 import ExamScreen from './components/ExamScreen'
 import ResultsScreen from './components/ResultsScreen'
 import { healthQuestions } from './data/healthQuestions'
-import { PRACTICE_ROUTES, routeForLocation } from './practiceRoutes'
+import { practiceRoutesFor, routeForLocation } from './practiceRoutes'
 
 const APPS_SCRIPT_URL = import.meta.env.VITE_APPS_SCRIPT_URL || ''
 
@@ -31,6 +31,7 @@ const healthExam = {
 }
 
 export default function App() {
+  const routes = useMemo(() => practiceRoutesFor(location.pathname), [])
   const initialRoute = useMemo(
     () => routeForLocation(location.pathname, location.hash),
     [],
@@ -41,7 +42,7 @@ export default function App() {
 
   useEffect(() => {
     if (initialRoute === 'login-callback') {
-      location.replace(PRACTICE_ROUTES.login + location.search + location.hash)
+      location.replace(routes.login + location.search + location.hash)
       return undefined
     }
 
@@ -53,11 +54,11 @@ export default function App() {
     }
     addEventListener('popstate', handlePopState)
     return () => removeEventListener('popstate', handlePopState)
-  }, [initialRoute])
+  }, [initialRoute, routes.login])
 
   function selectHealthExam() {
-    if (location.pathname !== PRACTICE_ROUTES.health) {
-      history.pushState(null, '', PRACTICE_ROUTES.health)
+    if (location.pathname !== routes.health) {
+      history.pushState(null, '', routes.health)
     }
     setExamResults(null)
     setUser(null)
@@ -91,8 +92,8 @@ export default function App() {
   }
 
   function goHome() {
-    if (location.pathname !== PRACTICE_ROUTES.home) {
-      history.pushState(null, '', PRACTICE_ROUTES.home)
+    if (location.pathname !== routes.home) {
+      history.pushState(null, '', routes.home)
     }
     setScreen('home')
     setExamResults(null)
@@ -110,7 +111,7 @@ export default function App() {
 
   return (
     <div className="app-shell">
-      {screen === 'home' && <HomeScreen onStartHealth={selectHealthExam} />}
+      {screen === 'home' && <HomeScreen routes={routes} onStartHealth={selectHealthExam} />}
       {screen === 'register' && (
         <RegisterScreen exam={healthExam} onStart={startExam} onBack={goHome} />
       )}

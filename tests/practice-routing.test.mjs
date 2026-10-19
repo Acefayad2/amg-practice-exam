@@ -2,7 +2,7 @@ import test from 'node:test'
 import assert from 'node:assert/strict'
 import fs from 'node:fs'
 import { healthQuestions } from '../src/data/healthQuestions.js'
-import { PRACTICE_ROUTES, routeForLocation } from '../src/practiceRoutes.js'
+import { PRACTICE_ROUTES, practiceRoutesFor, routeForLocation } from '../src/practiceRoutes.js'
 
 test('stable practice routes keep Life protected paths and Health resources distinct', () => {
   assert.equal(PRACTICE_ROUTES.health, '/health/')
@@ -13,7 +13,23 @@ test('stable practice routes keep Life protected paths and Health resources dist
   assert.equal(routeForLocation('/'), 'home')
   assert.equal(routeForLocation('/health'), 'health')
   assert.equal(routeForLocation('/health/'), 'health')
+  assert.equal(routeForLocation('/practice/'), 'home')
+  assert.equal(routeForLocation('/practice/health'), 'health')
+  assert.equal(routeForLocation('/practice/health/'), 'health')
   assert.equal(routeForLocation('/', '#confirmation_token=synthetic'), 'login-callback')
+})
+
+test('mounted practice routes keep reload, Back/Forward, guides and protected Life coherent', () => {
+  const mounted = practiceRoutesFor('/practice/health/')
+  assert.equal(mounted.home, '/practice/')
+  assert.equal(mounted.health, '/practice/health/')
+  assert.equal(mounted.healthGuide, '/guides/accident-health.docx')
+  assert.equal(mounted.lifeGuide, '/guides/life-producer.docx')
+  assert.equal(mounted.lifeCourse, '/course/')
+  assert.equal(mounted.lifeExams, '/course/assessments/')
+  assert.equal(routeForLocation(mounted.home), 'home')
+  assert.equal(routeForLocation(mounted.health), 'health')
+  assert.equal(practiceRoutesFor('/').home, '/')
 })
 
 test('the restored Health exam retains 90 complete questions and its guide asset', () => {
@@ -33,8 +49,8 @@ test('the root app restores Health without bypassing the Life course entry point
   const home = fs.readFileSync(new URL('../src/components/HomeScreen.jsx', import.meta.url), 'utf8')
   assert.match(app, /healthQuestions/)
   assert.doesNotMatch(app, /location\.replace\('\/course\/'\)/)
-  assert.match(home, /PRACTICE_ROUTES\.lifeCourse/)
-  assert.match(home, /PRACTICE_ROUTES\.lifeExams/)
-  assert.match(home, /PRACTICE_ROUTES\.healthGuide/)
+  assert.match(home, /routes\.lifeCourse/)
+  assert.match(home, /routes\.lifeExams/)
+  assert.match(home, /routes\.healthGuide/)
   assert.match(home, /Start Health Practice Exam/)
 })
