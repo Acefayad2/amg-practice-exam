@@ -1,9 +1,10 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import HomeScreen from './components/HomeScreen'
 import RegisterScreen from './components/RegisterScreen'
 import ExamScreen from './components/ExamScreen'
 import ResultsScreen from './components/ResultsScreen'
 import { healthQuestions } from './data/healthQuestions'
+import { healthQuestionsForAttempt } from './healthQuestionRotation'
 import { practiceRoutesFor, routeForLocation } from './practiceRoutes'
 
 const APPS_SCRIPT_URL = import.meta.env.VITE_APPS_SCRIPT_URL || ''
@@ -39,6 +40,8 @@ export default function App() {
   const [screen, setScreen] = useState(initialRoute === 'health' ? 'register' : 'home')
   const [examResults, setExamResults] = useState(null)
   const [user, setUser] = useState(null)
+  const [activeHealthExam, setActiveHealthExam] = useState(null)
+  const healthAttempt = useRef(0)
 
   useEffect(() => {
     if (initialRoute === 'login-callback') {
@@ -51,6 +54,7 @@ export default function App() {
       setScreen(route === 'health' ? 'register' : 'home')
       setExamResults(null)
       setUser(null)
+      setActiveHealthExam(null)
     }
     addEventListener('popstate', handlePopState)
     return () => removeEventListener('popstate', handlePopState)
@@ -62,10 +66,14 @@ export default function App() {
     }
     setExamResults(null)
     setUser(null)
+    setActiveHealthExam(null)
     setScreen('register')
   }
 
   function startExam(userInfo) {
+    const questions = healthQuestionsForAttempt(healthQuestions, healthAttempt.current)
+    healthAttempt.current += 1
+    setActiveHealthExam({ ...healthExam, questions })
     setUser(userInfo)
     setScreen('exam')
   }
@@ -75,7 +83,7 @@ export default function App() {
     setScreen('results')
 
     const correct = results.results.filter(result => result.correct).length
-    const total = healthExam.questions.length
+    const total = results.results.length
     submitToSheet({
       name: user.name,
       email: user.email,
@@ -98,10 +106,12 @@ export default function App() {
     setScreen('home')
     setExamResults(null)
     setUser(null)
+    setActiveHealthExam(null)
   }
 
   function retry() {
     setExamResults(null)
+    setActiveHealthExam(null)
     setScreen('register')
   }
 
@@ -116,11 +126,11 @@ export default function App() {
         <RegisterScreen exam={healthExam} onStart={startExam} onBack={goHome} />
       )}
       {screen === 'exam' && (
-        <ExamScreen exam={healthExam} user={user} onFinish={finishExam} onHome={goHome} />
+        <ExamScreen exam={activeHealthExam} user={user} onFinish={finishExam} onHome={goHome} />
       )}
       {screen === 'results' && (
         <ResultsScreen
-          exam={healthExam}
+          exam={activeHealthExam}
           results={examResults}
           user={user}
           onRetry={retry}

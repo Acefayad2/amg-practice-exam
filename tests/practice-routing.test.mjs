@@ -2,6 +2,7 @@ import test from 'node:test'
 import assert from 'node:assert/strict'
 import fs from 'node:fs'
 import { healthQuestions } from '../src/data/healthQuestions.js'
+import { healthQuestionsForAttempt } from '../src/healthQuestionRotation.js'
 import { PRACTICE_ROUTES, practiceRoutesFor, routeForLocation } from '../src/practiceRoutes.js'
 
 test('stable practice routes keep Life protected paths and Health resources distinct', () => {
@@ -44,11 +45,32 @@ test('the restored Health exam retains 90 complete questions and its guide asset
   assert.ok(fs.statSync(new URL('../public/Accident & Health Study Guide.docx', import.meta.url)).size > 0)
 })
 
+test('Health question order is stable per attempt, rotates on a new attempt and preserves mappings', () => {
+  const first = healthQuestionsForAttempt(healthQuestions, 0)
+  const firstAgain = healthQuestionsForAttempt(healthQuestions, 0)
+  const second = healthQuestionsForAttempt(healthQuestions, 1)
+
+  assert.deepEqual(first.map(question => question.n), firstAgain.map(question => question.n))
+  assert.notDeepEqual(first.map(question => question.n), second.map(question => question.n))
+  for (const order of [first, second]) {
+    assert.equal(order.length, healthQuestions.length)
+    assert.equal(new Set(order).size, healthQuestions.length)
+    for (const question of order) {
+      const original = healthQuestions.find(candidate => candidate.n === question.n)
+      assert.strictEqual(question, original)
+      assert.equal(question.answer, original.answer)
+      assert.equal(question.explanation, original.explanation)
+      assert.deepEqual(question.choices, original.choices)
+    }
+  }
+})
+
 test('the root app restores Health without bypassing the Life course entry points', () => {
   const app = fs.readFileSync(new URL('../src/App.jsx', import.meta.url), 'utf8')
   const home = fs.readFileSync(new URL('../src/components/HomeScreen.jsx', import.meta.url), 'utf8')
   const registration = fs.readFileSync(new URL('../src/components/RegisterScreen.jsx', import.meta.url), 'utf8')
   assert.match(app, /healthQuestions/)
+  assert.match(app, /healthQuestionsForAttempt/)
   assert.doesNotMatch(app, /location\.replace\('\/course\/'\)/)
   assert.match(home, /routes\.lifeCourse/)
   assert.match(home, /routes\.lifeExams/)
