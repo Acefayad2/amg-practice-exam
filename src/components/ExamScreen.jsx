@@ -89,7 +89,7 @@ export default function ExamScreen({ exam, user, onFinish, onHome }) {
   return (
     <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column', background: '#f0f4f8' }}>
       {/* Top bar */}
-      <div style={{ background: BLUE, color: '#fff', padding: '12px 24px', display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 12, flexWrap: 'wrap', flexShrink: 0 }}>
+      <div className="exam-topbar" style={{ background: BLUE, color: '#fff', padding: '12px 24px', display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 12, flexWrap: 'wrap', flexShrink: 0 }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: 14 }}>
           <span style={{ fontWeight: 800, fontSize: 18, letterSpacing: 1 }}>AMG</span>
           <span style={{ opacity: 0.5 }}>|</span>
@@ -115,9 +115,9 @@ export default function ExamScreen({ exam, user, onFinish, onHome }) {
         </div>
       </div>
 
-      <div style={{ display: 'flex', flex: 1, overflow: 'hidden' }}>
+      <div className="exam-layout" style={{ display: 'flex', flex: 1, overflow: 'hidden' }}>
         {/* Main question area */}
-        <div style={{ flex: 1, padding: '28px 36px', overflowY: 'auto' }}>
+        <div className="exam-main" style={{ flex: 1, padding: '28px 36px', overflowY: 'auto' }}>
 
           {/* Progress bar */}
           <div style={{ marginBottom: 20 }}>
@@ -147,7 +147,7 @@ export default function ExamScreen({ exam, user, onFinish, onHome }) {
           )}
 
           {/* Question card */}
-          <div style={{ background: '#fff', borderRadius: 14, padding: '26px 30px', boxShadow: '0 2px 14px rgba(0,0,0,0.07)', marginBottom: 16 }}>
+          <div className="exam-question-card" style={{ background: '#fff', borderRadius: 14, padding: '26px 30px', boxShadow: '0 2px 14px rgba(0,0,0,0.07)', marginBottom: 16 }}>
             <div style={{ display: 'flex', gap: 12, alignItems: 'flex-start', marginBottom: 22 }}>
               <span style={{ background: BLUE, color: '#fff', borderRadius: 8, padding: '4px 12px', fontWeight: 800, fontSize: 15, flexShrink: 0 }}>
                 {current + 1}
@@ -249,7 +249,7 @@ export default function ExamScreen({ exam, user, onFinish, onHome }) {
               </div>
 
               {/* Next button */}
-              <div style={{ display: 'flex', gap: 10, justifyContent: 'space-between', alignItems: 'center' }}>
+              <div className="exam-actions" style={{ display: 'flex', gap: 10, justifyContent: 'space-between', alignItems: 'center' }}>
                 <button
                   onClick={toggleFlag}
                   style={{
@@ -286,7 +286,7 @@ export default function ExamScreen({ exam, user, onFinish, onHome }) {
         </div>
 
         {/* Navigator sidebar */}
-        <div style={{ width: 200, background: '#fff', borderLeft: '1px solid #e2e8f0', padding: '18px 14px', overflowY: 'auto', flexShrink: 0 }}>
+        <div className="exam-sidebar" style={{ width: 200, background: '#fff', borderLeft: '1px solid #e2e8f0', padding: '18px 14px', overflowY: 'auto', flexShrink: 0 }}>
           <div style={{ fontSize: 11, fontWeight: 700, color: '#718096', letterSpacing: 1.5, textTransform: 'uppercase', marginBottom: 12 }}>Navigator</div>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(5, 1fr)', gap: 4 }}>
             {questions.map((_, i) => {

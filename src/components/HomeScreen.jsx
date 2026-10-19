@@ -1,140 +1,47 @@
-const BLUE = '#1F4E79'
-const LIGHT_BLUE = '#EBF3FB'
-
-const studyGuides = {
-  life: { file: '/Life Producer Study Guide.docx', label: 'Life Producer Study Guide' },
-  health: { file: '/Accident & Health Study Guide.docx', label: 'A&H Study Guide' },
-}
-
-export default function HomeScreen({ exams, onStart }) {
+export default function HomeScreen({ routes, onStartHealth }) {
   return (
-    <div style={{ minHeight: '100vh', background: '#f0f4f8', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '32px 16px' }}>
-      {/* Header */}
-      <div style={{ textAlign: 'center', marginBottom: 48 }}>
-        <div style={{ fontSize: 13, fontWeight: 700, letterSpacing: 3, color: BLUE, textTransform: 'uppercase', marginBottom: 8 }}>
-          AMG Insurance Licensing
-        </div>
-        <h1 style={{ fontSize: 36, fontWeight: 800, color: BLUE, marginBottom: 12, lineHeight: 1.1 }}>
-          Practice Exam Center
-        </h1>
-        <p style={{ color: '#4a5568', fontSize: 16, maxWidth: 480, margin: '0 auto' }}>
-          Practice for Maryland insurance producer licensing. Explore the 60-part life course, three timed life exams or the separate untimed practice drill.
-        </p>
-      </div>
+    <main className="practice-home">
+      <header className="practice-hero">
+        <div className="practice-eyebrow">AMG Insurance Licensing</div>
+        <h1>Practice Exam Center</h1>
+        <p>Choose the Maryland producer track you are studying. Life course access remains protected by your AMG access code.</p>
+      </header>
 
-      <a
-        href="/course/"
-        style={{ display: 'block', maxWidth: 704, width: '100%', marginBottom: 24, padding: '20px 24px', borderRadius: 12, background: BLUE, color: '#fff', textDecoration: 'none' }}
-      >
-        <strong style={{ display: 'block', fontSize: 18 }}>Watch the Life Insurance Video Course →</strong>
-        <span style={{ display: 'block', marginTop: 6, fontSize: 14 }}>60 parts · Maryland life concepts, client scenarios and required lesson questions</span>
-      </a>
-
-      <a href="/course/assessments/" style={{ color: BLUE, fontWeight: 700, marginBottom: 28 }}>Life diagnostic, timed exams & review dashboard →</a>
-
-      {/* Exam Cards */}
-      <div style={{ display: 'flex', gap: 24, flexWrap: 'wrap', justifyContent: 'center', maxWidth: 800 }}>
-        {Object.values(exams).map((exam) => (
-          <div
-            key={exam.id}
-            style={{
-              background: '#fff',
-              borderRadius: 16,
-              padding: '32px 36px',
-              width: 340,
-              boxShadow: '0 4px 24px rgba(0,0,0,0.08)',
-              border: `2px solid ${LIGHT_BLUE}`,
-              display: 'flex',
-              flexDirection: 'column',
-              gap: 20,
-            }}
-          >
-            <div>
-              <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 12 }}>
-                <div style={{ width: 10, height: 10, borderRadius: '50%', background: BLUE }} />
-                <span style={{ fontSize: 11, fontWeight: 700, color: BLUE, letterSpacing: 2, textTransform: 'uppercase' }}>
-                  {exam.id === 'health' ? 'Accident & Health' : 'Life Producer'}
-                </span>
-              </div>
-              <h2 style={{ fontSize: 20, fontWeight: 700, color: '#1a202c', lineHeight: 1.3, marginBottom: 8 }}>
-                {exam.title}
-              </h2>
-              <p style={{ color: '#718096', fontSize: 14 }}>{exam.subtitle}</p>
-            </div>
-
-            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 8 }}>
-              {(exam.practiceOnly ? [
-                ['Questions', String(exam.questions.length)],
-                ['AMG drill target', '85%'],
-                ['Format', 'Untimed practice'],
-                ['State', 'Maryland'],
-              ] : [
-                ['Questions', '90'],
-                ['Passing Score', '70%'],
-                ['Min. to Pass', '63 correct'],
-                ['State', 'Maryland'],
-              ]).map(([label, value]) => (
-                <div key={label} style={{ background: LIGHT_BLUE, borderRadius: 8, padding: '10px 12px' }}>
-                  <div style={{ fontSize: 11, color: '#4a5568', fontWeight: 600, marginBottom: 2 }}>{label}</div>
-                  <div style={{ fontSize: 16, fontWeight: 700, color: BLUE }}>{value}</div>
-                </div>
-              ))}
-            </div>
-
-            <div style={{ background: '#FFF8E1', border: '1px solid #FFE082', borderRadius: 8, padding: '10px 14px', fontSize: 13, color: '#7B5E00' }}>
-              {exam.practiceOnly ? 'Review edition: 11 ambiguous questions are held for verification. Complete every practice question; your score does not predict a licensing result.' : <><strong>Smart Stop:</strong> If it becomes mathematically impossible to pass mid-exam, the test will stop and show your results.</>}
-            </div>
-
-            <button
-              onClick={() => onStart(exam.id)}
-              style={{
-                background: BLUE,
-                color: '#fff',
-                border: 'none',
-                borderRadius: 10,
-                padding: '14px 0',
-                fontWeight: 700,
-                fontSize: 16,
-                letterSpacing: 0.5,
-                transition: 'opacity 0.15s',
-                cursor: 'pointer',
-              }}
-              onMouseOver={e => e.currentTarget.style.opacity = '0.88'}
-              onMouseOut={e => e.currentTarget.style.opacity = '1'}
-            >
-              {exam.practiceOnly ? 'Start Life Practice →' : 'Start Exam →'}
-            </button>
-
-            <a
-              href={exam.practiceOnly ? '/course/coverage/' : studyGuides[exam.id].file}
-              download={exam.practiceOnly ? undefined : true}
-              style={{
-                display: 'block',
-                textAlign: 'center',
-                background: LIGHT_BLUE,
-                color: BLUE,
-                border: `2px solid ${BLUE}`,
-                borderRadius: 10,
-                padding: '12px 0',
-                fontWeight: 700,
-                fontSize: 14,
-                letterSpacing: 0.5,
-                textDecoration: 'none',
-                transition: 'opacity 0.15s',
-                cursor: 'pointer',
-              }}
-              onMouseOver={e => e.currentTarget.style.opacity = '0.75'}
-              onMouseOut={e => e.currentTarget.style.opacity = '1'}
-            >
-              {exam.practiceOnly ? 'Course Coverage & Official Resources' : 'Download Study Guide'}
-            </a>
+      <div className="practice-tracks">
+        <section className="practice-track" aria-labelledby="life-track-title">
+          <div>
+            <span className="track-label">Life Producer</span>
+            <h2 id="life-track-title">Life course and Practice Test</h2>
+            <p>Continue the 60-part course or start one Practice Test with questions that rotate between attempts.</p>
           </div>
-        ))}
+          <div className="track-actions">
+            <a className="track-primary" href={routes.lifeCourse}>Enter Life Course →</a>
+            <a className="track-secondary" href={routes.lifeExams}>Open Life Practice Test</a>
+            <a className="track-link" href={routes.lifeGuide} download>Download Life Study Guide</a>
+          </div>
+        </section>
+
+        <section className="practice-track health-track" aria-labelledby="health-track-title">
+          <div>
+            <span className="track-label">Accident &amp; Health</span>
+            <h2 id="health-track-title">Maryland Accident &amp; Health practice exam</h2>
+            <p>Work through 90 questions with immediate explanations, scoring and a complete results review.</p>
+          </div>
+          <dl className="track-facts">
+            <div><dt>Questions</dt><dd>90</dd></div>
+            <div><dt>Passing score</dt><dd>70%</dd></div>
+            <div><dt>Minimum</dt><dd>63 correct</dd></div>
+            <div><dt>Format</dt><dd>Untimed</dd></div>
+          </dl>
+          <div className="track-note"><strong>Smart Stop:</strong> If passing becomes mathematically impossible, the exam stops and opens your results.</div>
+          <div className="track-actions">
+            <button className="track-primary" type="button" onClick={onStartHealth}>Start Health Practice Exam →</button>
+            <a className="track-secondary" href={routes.healthGuide} download>Download Health Study Guide</a>
+          </div>
+        </section>
       </div>
 
-      <p style={{ marginTop: 40, color: '#a0aec0', fontSize: 13, textAlign: 'center' }}>
-        AMG · Maryland Insurance Producer Licensing Prep
-      </p>
-    </div>
+      <p className="practice-footer">AMG · Maryland Insurance Producer Licensing Prep</p>
+    </main>
   )
 }

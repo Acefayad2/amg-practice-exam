@@ -24,7 +24,7 @@ export default function RegisterScreen({ exam, onStart, onBack }) {
 
   return (
     <div style={{ minHeight: '100vh', background: '#f0f4f8', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: 24 }}>
-      <div style={{ background: '#fff', borderRadius: 18, padding: '40px 44px', width: '100%', maxWidth: 460, boxShadow: '0 4px 32px rgba(0,0,0,0.10)', border: `2px solid #EBF3FB` }}>
+      <div className="register-card" style={{ background: '#fff', borderRadius: 18, padding: '40px 44px', width: '100%', maxWidth: 460, boxShadow: '0 4px 32px rgba(0,0,0,0.10)', border: `2px solid #EBF3FB` }}>
         {/* Back */}
         <button onClick={onBack} style={{ background: 'none', border: 'none', color: '#718096', fontSize: 14, fontWeight: 600, cursor: 'pointer', padding: 0, marginBottom: 24, display: 'flex', alignItems: 'center', gap: 6 }}>
           ← Back to exams
@@ -34,7 +34,7 @@ export default function RegisterScreen({ exam, onStart, onBack }) {
         <div style={{ marginBottom: 28 }}>
           <div style={{ fontSize: 12, fontWeight: 700, letterSpacing: 2, color: BLUE, textTransform: 'uppercase', marginBottom: 6 }}>AMG Practice Exam</div>
           <h2 style={{ fontSize: 22, fontWeight: 800, color: '#1a202c', marginBottom: 6, lineHeight: 1.3 }}>{exam.title}</h2>
-          <p style={{ color: '#718096', fontSize: 14 }}>{exam.practiceOnly ? 'Enter your details to begin the life practice drill. This review edition is untimed and gives immediate feedback.' : "Enter your info so your score gets recorded — then you'll go straight into the exam."}</p>
+          <p style={{ color: '#718096', fontSize: 14 }}>{exam.practiceOnly ? 'Enter your details to begin the life practice drill. This review edition is untimed and gives immediate feedback.' : 'Enter your details to begin. Your result is shown when you finish.'}</p>
         </div>
 
         <form onSubmit={handleStart} noValidate>
@@ -77,7 +77,7 @@ export default function RegisterScreen({ exam, onStart, onBack }) {
           </div>
 
           <div style={{ background: '#EBF3FB', borderRadius: 9, padding: '12px 16px', marginBottom: 24, fontSize: 13, color: '#2d3748' }}>
-            <strong style={{ color: BLUE }}>📊 Score tracking:</strong> {exam.practiceOnly ? 'Your score is shown when you finish. Instructor reporting depends on the configured connection; this screen does not confirm that a score was saved.' : 'Your name, email, score, and pass/fail result will be recorded so your instructor can see your progress.'}
+            <strong style={{ color: BLUE }}>📊 Score tracking:</strong> {exam.practiceOnly ? 'Your score is shown when you finish. Instructor reporting depends on the configured connection; this screen does not confirm that a score was saved.' : 'Your result is shown when you finish. If instructor reporting is configured, your name, email and result may be submitted, but this screen does not confirm that it was saved. Current practice progress resets if you reload.'}
           </div>
 
           <button
