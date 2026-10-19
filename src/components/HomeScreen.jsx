@@ -11,12 +11,12 @@ export default function HomeScreen({ routes, onStartHealth }) {
         <section className="practice-track" aria-labelledby="life-track-title">
           <div>
             <span className="track-label">Life Producer</span>
-            <h2 id="life-track-title">Life course and practice exams</h2>
-            <p>Continue the 60-part course or open the diagnostic, timed exams and review dashboard.</p>
+            <h2 id="life-track-title">Life course and Practice Test</h2>
+            <p>Continue the 60-part course or start one Practice Test with questions that rotate between attempts.</p>
           </div>
           <div className="track-actions">
             <a className="track-primary" href={routes.lifeCourse}>Enter Life Course →</a>
-            <a className="track-secondary" href={routes.lifeExams}>Open Life Practice Exams</a>
+            <a className="track-secondary" href={routes.lifeExams}>Open Life Practice Test</a>
             <a className="track-link" href={routes.lifeGuide} download>Download Life Study Guide</a>
           </div>
         </section>
