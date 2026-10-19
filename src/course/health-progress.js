@@ -48,6 +48,14 @@ export function latestSubmittedHealthAttempt(state) {
   return [...state.attempts].reverse().find(attempt => attempt.submittedAt !== null) || null;
 }
 
+export function openOrCreateHealthAttempt(state, now = Date.now(), id = crypto.randomUUID(), questionCount = 90) {
+  const open=latestOpenHealthAttempt(state);
+  if(open)return { attempt:open, created:false };
+  const attempt=createHealthAttempt(state,now,id,questionCount);
+  state.attempts.push(attempt);
+  return { attempt, created:true };
+}
+
 export function parseHealthProgress(text, questions) {
   try {
     const state=JSON.parse(text);

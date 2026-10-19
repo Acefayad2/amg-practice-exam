@@ -21,6 +21,18 @@ async page => {
   page.on('pageerror',error=>errors.push(error.message));
   const saved=()=>page.waitForFunction(cacheKey=>{const record=JSON.parse(localStorage.getItem(cacheKey)||'null');return record&&!record.dirty;},cache);
   try {
+    const answers=Array(90).fill(null);
+    records[key]={revision:1,value:{version:1,attempts:[
+      {id:'health-result-a',rotation:17,startedAt:1000,submittedAt:2000,earlyFail:false,answers:[...answers],current:0},
+      {id:'health-open-b',rotation:34,startedAt:3000,submittedAt:null,earlyFail:false,answers:[...answers],current:12},
+    ]}};
+    await page.goto(origin+'/course/health/');await page.waitForFunction(()=>window.AMG_ACCOUNT?.canWrite());
+    await page.getByRole('button',{name:'Review latest result',exact:true}).click();
+    await page.evaluate(()=>{const target=[...document.querySelectorAll('button')].find(item=>item.textContent==='Resume open attempt');target.click();target.click();});
+    check((await page.locator('.exam-bar small').textContent()).includes('Question 13 of 90'),'Review result A then rapid-repeat Start resumes open B without appending another attempt');
+    const resumed=await page.evaluate(cacheKey=>JSON.parse(localStorage.getItem(cacheKey)||'null'),cache);
+    check(resumed.value.attempts.length===2&&resumed.value.attempts[1].id==='health-open-b','Rapid repeat clicks keep exactly one open Health attempt in the reloadable cache');
+    await page.evaluate(()=>localStorage.clear());records={};requests.length=0;
     await page.goto(origin+'/course/health/');await page.waitForFunction(()=>window.AMG_ACCOUNT?.canWrite());
     await page.getByRole('button',{name:'Start Practice Test',exact:true}).click();await page.locator('.answer-choice').first().waitFor();await saved();
     const firstCorrect=await page.evaluate(()=>window.AMG_HEALTH_QUESTIONS[17].answer.charCodeAt(0)-65), firstWrong=(firstCorrect+1)%4;

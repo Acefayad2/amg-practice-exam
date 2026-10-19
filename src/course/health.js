@@ -3,10 +3,10 @@ import {
   HEALTH_PROGRESS_KEY,
   answerHealthAttempt,
   blankHealthProgress,
-  createHealthAttempt,
   healthQuestionOrder,
   latestOpenHealthAttempt,
   latestSubmittedHealthAttempt,
+  openOrCreateHealthAttempt,
   parseHealthProgress,
   scoreHealthAttempt,
 } from './health-progress.js';
@@ -38,8 +38,8 @@ import {
   }
   function start() {
     if (storageProblem) return;
-    attempt=createHealthAttempt(state,Date.now(),crypto.randomUUID(),questions.length);
-    state.attempts.push(attempt); screen='exam'; save(); render();
+    const opened=openOrCreateHealthAttempt(state,Date.now(),crypto.randomUUID(),questions.length);
+    attempt=opened.attempt; screen='exam'; if(opened.created)save(); render();
   }
   function resume(value) { attempt=value; screen='exam'; render(); }
   function review(value) { attempt=value; screen='results'; render(); }
@@ -92,7 +92,7 @@ import {
     const ordered=orderedQuestions(attempt), correct=score(), percentage=Math.round(correct/ordered.length*100), passed=correct>=HEALTH_PASS_COUNT, panel=node('section',undefined,'result-panel');
     panel.append(node('p','PRACTICE RESULT','eyebrow'),node('h1','Health Practice Test'),node('p',correct+' / '+ordered.length+' correct','result-score'),node('p',(passed?'Practice passing mark reached':'Practice passing mark not reached')+' · '+percentage+'% · Practice feedback only; not an official exam result.','status-note'));
     if(attempt.earlyFail)panel.append(node('p','This attempt stopped when 63 correct answers became mathematically impossible.','status-note'));
-    const actions=node('div',undefined,'actions'); actions.append(button('Start a rotated attempt',start,'primary'),button('Return to Health home',home)); panel.append(actions);
+    const open=latestOpenHealthAttempt(state), actions=node('div',undefined,'actions'); actions.append(button(open?'Resume open attempt':'Start a rotated attempt',start,'primary'),button('Return to Health home',home)); panel.append(actions);
     const list=node('div',undefined,'result-list'); ordered.forEach((q,index)=>{const selected=attempt.answers[index],correctAnswer=selected===q.answer,item=node('details',undefined,'result-item');item.append(node('summary',(index+1)+'. '+(correctAnswer?'Correct':'Review')+' · '+q.q),node('p','Your answer: '+(selected||'Unanswered')),node('p','Correct answer: '+q.choices.find(choice=>choice[0]===q.answer)),node('p',q.explanation));list.append(item);}); panel.append(list); app.append(panel);
   }
   function render() { app.replaceChildren(); if(storageProblem)renderProblem(); else if(screen==='home')renderHome(); else if(screen==='exam')renderExam(); else renderResults(); }

@@ -9,6 +9,7 @@ import {
   healthQuestionOrder,
   latestOpenHealthAttempt,
   latestSubmittedHealthAttempt,
+  openOrCreateHealthAttempt,
   parseHealthProgress,
   scoreHealthAttempt,
 } from '../src/course/health-progress.js';
@@ -47,6 +48,20 @@ test('Health Smart Stop locks after the 28th wrong answer and submitted results 
   assert.equal(answerHealthAttempt(attempt,ordered,stopIndex+1,ordered[stopIndex+1].answer),false);
   attempt.submittedAt=2000;
   assert.equal(latestSubmittedHealthAttempt(JSON.parse(JSON.stringify(state))).id,attempt.id);
+});
+
+test('reviewing a completed result resumes the one open attempt, including rapid repeat starts and reload', () => {
+  const state=blankHealthProgress(), completed=createHealthAttempt(state,1000,'health-attempt-a',healthQuestions.length);
+  completed.submittedAt=2000; state.attempts.push(completed);
+  const open=createHealthAttempt(state,3000,'health-attempt-b',healthQuestions.length); open.current=12; state.attempts.push(open);
+  assert.equal(latestSubmittedHealthAttempt(state),completed,'result A remains reviewable while B is open');
+  const first=openOrCreateHealthAttempt(state,4000,'health-attempt-c',healthQuestions.length);
+  const repeated=openOrCreateHealthAttempt(state,4001,'health-attempt-d',healthQuestions.length);
+  assert.equal(first.created,false); assert.equal(repeated.created,false);
+  assert.equal(first.attempt,open); assert.equal(repeated.attempt,open); assert.equal(state.attempts.length,2,'repeat clicks cannot append C or D');
+  const restored=parseHealthProgress(JSON.stringify(state),healthQuestions);
+  assert.ok(restored,'completed A plus open B remains valid after reload');
+  assert.equal(latestOpenHealthAttempt(restored).id,'health-attempt-b'); assert.equal(latestOpenHealthAttempt(restored).current,12);
 });
 
 test('login return routing preserves protected Health and guide destinations without allowing redirects', () => {

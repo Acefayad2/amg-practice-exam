@@ -25,6 +25,8 @@ test('Health stays inside the new portal design with real resources and honest c
   assert.match(client, /correct>=HEALTH_PASS_COUNT/)
   assert.match(client, /account\.commitSnapshot\(HEALTH_PROGRESS_KEY/)
   assert.match(client, /Resume Practice Test/)
+  assert.match(client, /Resume open attempt/)
+  assert.match(client, /openOrCreateHealthAttempt/)
   assert.match(client, /event\.source==='external'/)
   assert.match(build, /course\/shared\/account\.js/)
   assert.match(build, /body class="account-loading"/)

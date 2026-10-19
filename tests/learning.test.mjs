@@ -5,7 +5,7 @@ import vm from 'node:vm';
 import { createHash } from 'node:crypto';
 import { allowedKeys, buildReport, hash, schema, scoreAttempt, userPrefix, validateValue } from '../netlify/functions/_shared/learning-core.mjs';
 import { healthQuestions } from '../src/data/healthQuestions.js';
-import { HEALTH_PROGRESS_KEY, blankHealthProgress, createHealthAttempt, healthQuestionOrder } from '../src/course/health-progress.js';
+import { HEALTH_PROGRESS_KEY, blankHealthProgress, createHealthAttempt, healthQuestionOrder, openOrCreateHealthAttempt } from '../src/course/health-progress.js';
 import { createLearningHandler, MAX_BODY_BYTES, REPORT_INTERVAL_MS } from '../netlify/functions/_shared/learning-service.mjs';
 
 const NOW = Date.parse('2026-09-13T12:00:00Z');
@@ -116,6 +116,18 @@ test('Health records preserve first answers, submitted results and CAS conflicts
   assert.equal((await send(s,envelope(submitted,2,'health-mutation-0005',HEALTH_PROGRESS_KEY))).response.status,200);
   const rewrite=clone(submitted); rewrite.attempts[0].answers[1]=ordered[1].answer;
   assert.equal((await send(s,envelope(rewrite,3,'health-mutation-0006',HEALTH_PROGRESS_KEY))).response.status,400);
+});
+
+test('completed result review cannot create a second open Health attempt during sync', async () => {
+  const state=blankHealthProgress(), completed=createHealthAttempt(state,NOW-900000,'health-attempt-a',healthQuestions.length);
+  completed.submittedAt=NOW-800000; state.attempts.push(completed);
+  const open=createHealthAttempt(state,NOW-700000,'health-attempt-b',healthQuestions.length); open.current=12; state.attempts.push(open);
+  assert.equal(openOrCreateHealthAttempt(state,NOW-600000,'health-attempt-c',healthQuestions.length).attempt.id,'health-attempt-b');
+  assert.equal(openOrCreateHealthAttempt(state,NOW-500000,'health-attempt-d',healthQuestions.length).created,false);
+  assert.equal(state.attempts.length,2);
+  const s=setup(), saved=await send(s,envelope(state,0,'health-open-resume-0001',HEALTH_PROGRESS_KEY));
+  assert.equal(saved.response.status,200); assert.equal(saved.data.record.value.attempts.length,2);
+  const reloaded=await send(s); assert.equal(reloaded.data.records[HEALTH_PROGRESS_KEY].value.attempts[1].id,'health-attempt-b');
 });
 
 test('Health cloud saves do not alter the existing optional Life coordinator report', async () => {
