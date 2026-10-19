@@ -24,7 +24,7 @@ export default function RegisterScreen({ exam, onStart, onBack }) {
 
   return (
     <div style={{ minHeight: '100vh', background: '#f0f4f8', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: 24 }}>
-      <div style={{ background: '#fff', borderRadius: 18, padding: '40px 44px', width: '100%', maxWidth: 460, boxShadow: '0 4px 32px rgba(0,0,0,0.10)', border: `2px solid #EBF3FB` }}>
+      <div className="register-card" style={{ background: '#fff', borderRadius: 18, padding: '40px 44px', width: '100%', maxWidth: 460, boxShadow: '0 4px 32px rgba(0,0,0,0.10)', border: `2px solid #EBF3FB` }}>
         {/* Back */}
         <button onClick={onBack} style={{ background: 'none', border: 'none', color: '#718096', fontSize: 14, fontWeight: 600, cursor: 'pointer', padding: 0, marginBottom: 24, display: 'flex', alignItems: 'center', gap: 6 }}>
           ← Back to exams

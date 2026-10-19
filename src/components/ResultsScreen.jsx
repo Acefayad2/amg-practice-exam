@@ -59,7 +59,7 @@ export default function ResultsScreen({ exam, results, onRetry, onHome }) {
   return (
     <div style={{ minHeight: '100vh', background: '#f0f4f8' }}>
       {/* Top bar */}
-      <div style={{ background: BLUE, color: '#fff', padding: '14px 28px', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+      <div className="results-topbar" style={{ background: BLUE, color: '#fff', padding: '14px 28px', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
         <span style={{ fontWeight: 800, fontSize: 18, letterSpacing: 1 }}>AMG</span>
         <div style={{ display: 'flex', gap: 10 }}>
           <button
@@ -93,7 +93,7 @@ export default function ResultsScreen({ exam, results, onRetry, onHome }) {
         )}
 
         {/* Score card */}
-        <div style={{
+        <div className="results-score-card" style={{
           background: '#fff', borderRadius: 16, padding: '32px 36px', marginBottom: 24,
           boxShadow: '0 4px 24px rgba(0,0,0,0.08)',
           border: `3px solid ${passed ? '#2e7d32' : '#c62828'}`,
