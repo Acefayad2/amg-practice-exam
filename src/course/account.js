@@ -1,6 +1,6 @@
 // The server verifies the shared-code learner session. Local records are only its cache.
 const SESSION_KEY = 'amg-account-session-change';
-const logicalKey = key => /^amg-life-lesson-(0[1-9]|[1-5]\d|60)-v[1-9]\d*$/.test(key) || key === 'amg-life-assessments-v1';
+const logicalKey = key => /^amg-life-lesson-(0[1-9]|[1-5]\d|60)-v[1-9]\d*$/.test(key) || key === 'amg-life-assessments-v1' || key === 'amg-health-assessments-v1';
 const clone = value => JSON.parse(JSON.stringify(value));
 const stable = value => JSON.stringify(value, (_, item) => item && typeof item === 'object' && !Array.isArray(item) ? Object.fromEntries(Object.keys(item).sort().map(key => [key,item[key]])) : item);
 const same = (a,b) => stable(a) === stable(b);
@@ -20,7 +20,7 @@ function statusText() {
   if (queuedSnapshots) return 'Saving progress…';
   if (failures.size) return localAvailable ? 'Saved on this device. Progress sync is pending.' : 'Progress sync is pending. Keep this page open.';
   if ([...memory.values()].some(record => record.dirty)) return localAvailable ? 'Saving progress…' : 'Saving progress. Keep this page open until saved.';
-  if (reporting?.status === 'pending' || reporting?.status === 'not_configured') return 'Progress saved. Coordinator reporting is pending.';
+  if (reporting?.status === 'pending') return 'Progress saved. Coordinator reporting is pending.';
   return 'Saved under your email.';
 }
 function renderStatus() {
@@ -105,7 +105,7 @@ function schedule(key,delay = 350) {
 }
 function planReport() {
   clearTimeout(reportTimer);
-  if (canWrite() && (reporting?.status === 'pending' || reporting?.status === 'not_configured')) reportTimer = setTimeout(syncReport,Math.max(35000,Number.isFinite(reporting.retryAfterMs) ? reporting.retryAfterMs : 0));
+  if (canWrite() && reporting?.status === 'pending') reportTimer = setTimeout(syncReport,Math.max(35000,Number.isFinite(reporting.retryAfterMs) ? reporting.retryAfterMs : 0));
 }
 async function syncReport() {
   if (!canWrite()) return;

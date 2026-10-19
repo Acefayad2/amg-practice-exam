@@ -4,6 +4,8 @@ import fs from 'node:fs';
 import vm from 'node:vm';
 import { createHash } from 'node:crypto';
 import { allowedKeys, buildReport, hash, schema, scoreAttempt, userPrefix, validateValue } from '../netlify/functions/_shared/learning-core.mjs';
+import { healthQuestions } from '../src/data/healthQuestions.js';
+import { HEALTH_PROGRESS_KEY, blankHealthProgress, createHealthAttempt, healthQuestionOrder } from '../src/course/health-progress.js';
 import { createLearningHandler, MAX_BODY_BYTES, REPORT_INTERVAL_MS } from '../netlify/functions/_shared/learning-service.mjs';
 
 const NOW = Date.parse('2026-09-13T12:00:00Z');
@@ -48,13 +50,15 @@ function attempt(form = schema.forms[0], submitted = false, id = 'attempt-001') 
   return { id, form: form.id, startedAt: NOW - 600000, deadline: form.minutes ? NOW - 600000 + form.minutes * 60000 : null, submittedAt: submitted ? NOW : null, expired: false, fresh: true, answers: form.questions.map(q => submitted ? q.answer : null), flags: form.questions.map(() => false), uncertain: form.questions.map(() => false), reviewed: form.questions.map(() => false), current: 0 };
 }
 function assessmentValue(attempts = []) { return { version: schema.assessmentVersion, attempts, seen: [...new Set(attempts.map(a => a.form))], reviews: {}, lessonImports: {} }; }
+function healthValue() { const value=blankHealthProgress(), healthAttempt=createHealthAttempt(value,NOW-600000,'health-attempt-001',healthQuestions.length); value.attempts.push(healthAttempt); return value; }
 const envelope = (value = lessonValue(), revision = 0, mutationId = 'mutation-0001', key = schema.lessons[0].key) => ({ key, value, revision, mutationId });
 async function send(system, body, options) { const response = await system.handler(request(body, options)); return { response, data: await response.json() }; }
 
-test('server answer schema binds all61 exact current source files and all814 questions', () => {
-  assert.equal(schema.lessons.length, 60); assert.equal(allowedKeys.length, 61);
+test('server answer schema binds all61 Life records, the Health record and all904 questions', () => {
+  assert.equal(schema.lessons.length, 60); assert.equal(allowedKeys.length, 62);
   assert.equal(schema.lessons.flatMap(l => l.questions).length, 512);
   assert.equal(schema.forms.flatMap(f => f.questions).length, 302);
+  assert.equal(healthQuestions.length,90);
   for (const [path, expected] of Object.entries(schema.sourceHashes)) assert.equal(createHash('sha256').update(fs.readFileSync(new URL('../' + path, import.meta.url))).digest('hex'), expected, path);
   for (const lesson of schema.lessons) {
     const window = {}; vm.runInNewContext(fs.readFileSync(new URL('../public/course/lesson-' + lesson.id + '/lesson-data.js', import.meta.url), 'utf8'), { window });
@@ -96,6 +100,30 @@ test('every current lesson state and all four assessment forms validate', () => 
     validateValue(lesson.key, lessonValue(lesson, true), NOW);
   }
   validateValue(schema.assessmentKey, assessmentValue(schema.forms.map((form, i) => attempt(form, true, 'attempt-' + i))), NOW);
+  validateValue(HEALTH_PROGRESS_KEY,healthValue(),NOW);
+});
+
+test('Health records preserve first answers, submitted results and CAS conflicts', async () => {
+  const s=setup(), initial=healthValue(), ordered=healthQuestionOrder(healthQuestions,initial.attempts[0].rotation);
+  assert.equal((await send(s,envelope(initial,0,'health-mutation-0001',HEALTH_PROGRESS_KEY))).response.status,200);
+  const answered=clone(initial); answered.attempts[0].answers[0]=ordered[0].answer;
+  assert.equal((await send(s,envelope(answered,1,'health-mutation-0002',HEALTH_PROGRESS_KEY))).response.status,200);
+  const stale=clone(answered); stale.attempts[0].current=2;
+  assert.equal((await send(s,envelope(stale,1,'health-mutation-0003',HEALTH_PROGRESS_KEY))).response.status,409);
+  const changed=clone(answered); changed.attempts[0].answers[0]=ordered[0].choices.find(choice=>choice[0]!==ordered[0].answer)[0];
+  assert.equal((await send(s,envelope(changed,2,'health-mutation-0004',HEALTH_PROGRESS_KEY))).response.status,400);
+  const submitted=clone(answered); submitted.attempts[0].submittedAt=NOW;
+  assert.equal((await send(s,envelope(submitted,2,'health-mutation-0005',HEALTH_PROGRESS_KEY))).response.status,200);
+  const rewrite=clone(submitted); rewrite.attempts[0].answers[1]=ordered[1].answer;
+  assert.equal((await send(s,envelope(rewrite,3,'health-mutation-0006',HEALTH_PROGRESS_KEY))).response.status,400);
+});
+
+test('Health cloud saves do not alter the existing optional Life coordinator report', async () => {
+  const s=setup({appsScriptURL:()=>SCRIPT});
+  const initial=await send(s); assert.equal(initial.data.reporting.status,'synced'); assert.equal(s.calls.length,1);
+  const result=await send(s,envelope(healthValue(),0,'health-report-0001',HEALTH_PROGRESS_KEY));
+  assert.equal(result.response.status,200); assert.equal(result.data.reporting.status,'synced'); assert.equal(s.calls.length,1);
+  assert.deepEqual((await send(s,undefined,{query:'?report=1'})).data.attempts,[]);
 });
 
 test('unknown envelope/keys/version, unsafe revision, mutation IDs, and claimed identity are rejected', async () => {

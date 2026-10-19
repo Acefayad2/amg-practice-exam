@@ -33,6 +33,14 @@ test('mounted practice routes keep reload, Back/Forward, guides and protected Li
   assert.equal(practiceRoutesFor('/').home, '/')
 })
 
+test('authenticated guide aliases redirect to the gated raw files before the SPA fallback', () => {
+  const config=fs.readFileSync(new URL('../netlify.toml',import.meta.url),'utf8')
+  const health=config.indexOf('from = "/guides/accident-health.docx"'),life=config.indexOf('from = "/guides/life-producer.docx"'),fallback=config.indexOf('from = "/*"')
+  assert(health>=0&&life>=0&&fallback>life&&life>health)
+  assert.match(config,/from = "\/guides\/accident-health\.docx"\s+to = "\/Accident%20%26%20Health%20Study%20Guide\.docx"\s+status = 302/)
+  assert.match(config,/from = "\/guides\/life-producer\.docx"\s+to = "\/Life%20Producer%20Study%20Guide\.docx"\s+status = 302/)
+})
+
 test('the restored Health exam retains 90 complete questions and its guide asset', () => {
   assert.equal(healthQuestions.length, 90)
   for (const [index, question] of healthQuestions.entries()) {

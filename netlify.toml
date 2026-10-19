@@ -3,6 +3,16 @@
   publish = "dist"
 
 [[redirects]]
+  from = "/guides/accident-health.docx"
+  to = "/Accident%20%26%20Health%20Study%20Guide.docx"
+  status = 302
+
+[[redirects]]
+  from = "/guides/life-producer.docx"
+  to = "/Life%20Producer%20Study%20Guide.docx"
+  status = 302
+
+[[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200

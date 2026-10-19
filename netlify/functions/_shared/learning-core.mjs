@@ -1,10 +1,13 @@
 import { createHash } from 'node:crypto';
 import { schema } from './learning-schema.mjs';
+import { healthQuestions } from '../../../src/data/healthQuestions.js';
+import { HEALTH_PASS_COUNT, HEALTH_PROGRESS_KEY, HEALTH_PROGRESS_VERSION, HEALTH_ROTATION_STEP, healthAttemptCannotPass, healthQuestionOrder } from '../../../src/course/health-progress.js';
 
 export { schema };
 export const lessonByKey = new Map(schema.lessons.map(lesson => [lesson.key, lesson]));
 export const formById = new Map(schema.forms.map(form => [form.id, form]));
-export const allowedKeys = [...lessonByKey.keys(), schema.assessmentKey];
+export const reportingKeys = [...lessonByKey.keys(), schema.assessmentKey];
+export const allowedKeys = [...reportingKeys, HEALTH_PROGRESS_KEY];
 const questionIds = new Set([...schema.lessons, ...schema.forms].flatMap(item => item.questions.map(q => q.id)));
 const MAX_ATTEMPTS = 500;
 const DAY = 86400000;
@@ -106,8 +109,44 @@ export function validateAssessment(value, now, previous = null) {
   return value;
 }
 
+export function validateHealth(value, now, previous = null) {
+  fields(value, ['version', 'attempts']);
+  assert(value.version === HEALTH_PROGRESS_VERSION, 'Unsupported Health progress version');
+  assert(Array.isArray(value.attempts) && value.attempts.length <= MAX_ATTEMPTS, 'Too many Health attempts');
+  assert(value.attempts.filter(attempt => attempt?.submittedAt === null).length <= 1, 'Only one Health attempt may be open');
+  const ids = new Set();
+  value.attempts.forEach((attempt, attemptIndex) => {
+    fields(attempt, ['id', 'rotation', 'startedAt', 'submittedAt', 'earlyFail', 'answers', 'current']);
+    string(attempt.id); assert(!ids.has(attempt.id), 'Duplicate Health attempt ID'); ids.add(attempt.id);
+    assert(attempt.rotation === ((attemptIndex + 1) * HEALTH_ROTATION_STEP) % healthQuestions.length, 'Invalid Health question rotation');
+    numericTime(attempt.startedAt, now);
+    if (attempt.submittedAt !== null) { numericTime(attempt.submittedAt, now); assert(attempt.submittedAt >= attempt.startedAt, 'Health submission precedes attempt'); }
+    assert(bool(attempt.earlyFail), 'Invalid Health Smart Stop flag');
+    const questions = healthQuestionOrder(healthQuestions, attempt.rotation);
+    array(attempt.answers, questions.length, (answer, index) => answer === null || questions[index].choices.some(choice => choice[0] === answer));
+    assert(integer(attempt.current, 0, questions.length - 1), 'Invalid Health current question');
+    assert(attempt.earlyFail === healthAttemptCannotPass(attempt, questions), 'Invalid Health Smart Stop state');
+    if (attempt.earlyFail) assert(attempt.answers.filter(answer => answer !== null).length >= healthQuestions.length - HEALTH_PASS_COUNT + 1, 'Health Smart Stop lacks answer evidence');
+    if (attempt.submittedAt === null) assert(attemptIndex === value.attempts.length - 1, 'Open Health attempt must be latest');
+  });
+  if (previous) {
+    assert(previous.attempts.length <= value.attempts.length, 'Saved Health attempt history cannot be removed');
+    previous.attempts.forEach((old, index) => {
+      const next = value.attempts[index]; assert(next, 'Saved Health attempt history cannot be removed');
+      for (const key of ['id', 'rotation', 'startedAt']) assert(next[key] === old[key], 'Saved Health attempt identity cannot change');
+      old.answers.forEach((answer, answerIndex) => { if (answer !== null) assert(next.answers[answerIndex] === answer, 'A Health first answer cannot change'); });
+      if (old.earlyFail) assert(canonical(next.answers) === canonical(old.answers), 'A stopped Health attempt cannot accept more answers');
+      if (old.submittedAt !== null) {
+        for (const key of ['answers', 'submittedAt', 'earlyFail']) assert(canonical(next[key]) === canonical(old[key]), 'Submitted Health answers and result cannot change');
+      }
+    });
+  }
+  return value;
+}
+
 export function validateValue(key, value, now, previous) {
   assert(allowedKeys.includes(key), 'Unknown progress key');
+  if (key === HEALTH_PROGRESS_KEY) return validateHealth(value, now, previous);
   return key === schema.assessmentKey ? validateAssessment(value, now, previous) : validateLesson(value, lessonByKey.get(key), now);
 }
 
@@ -147,12 +186,13 @@ export function buildReport(user, records) {
   const diagnostic = attempts.filter(attempt => attempt.formId === 'D').at(-1);
   const mocks = attempts.filter(attempt => attempt.formId !== 'D');
   const active = lessons.filter(lesson => lesson.lastActiveAt).sort((a, b) => b.lastActiveAt.localeCompare(a.lastActiveAt))[0];
-  const timestamps = Object.values(records).map(record => record.updatedAt).filter(Boolean).sort();
+  const timestamps = reportingKeys.map(key => records[key]?.updatedAt).filter(Boolean).sort();
   return { summary: { uid: user.id, name: user.name || '', email: user.email, completedLessons, totalLessons: 60, progressPercent: percent(completedLessons, 60), currentLesson: active?.lessonId || null, lastActiveAt: timestamps.at(-1) || null, questionMastery: percent(lessons.reduce((count, lesson) => count + lesson.correct, 0), lessons.reduce((count, lesson) => count + lesson.total, 0)), diagnosticScore: diagnostic?.percentage ?? null, bestMockScore: mocks.length ? Math.max(...mocks.map(attempt => attempt.percentage)) : null, latestMockScore: mocks.at(-1)?.percentage ?? null, practiceAttempts: attempts.length, courseCompletedAt: completedLessons === 60 ? lessons.map(lesson => lesson.completedAt).sort().at(-1) : null }, lessons, attempts };
 }
 
 // Position and active-question navigation remain cloud-saved without a Sheets write.
 export function reportingSignature(key, value) {
+  if (key === HEALTH_PROGRESS_KEY) return hash('health-progress-not-exported');
   if (key === schema.assessmentKey) return hash((value?.attempts || []).filter(attempt => attempt.submittedAt !== null).map(({ id, form, startedAt, submittedAt, expired, answers }) => ({ id, form, startedAt, submittedAt, expired, answers })));
   const empty = Array(lessonByKey.get(key).questions.length).fill(null);
   return hash({ answers: value?.answers || empty, firstAnswers: value?.firstAnswers || empty, complete: value?.complete === true, videoEnded: value?.videoEnded === true, transcriptRead: value?.transcriptRead === true });

@@ -9,7 +9,7 @@ const checks=[],fixtures=[];
 const check=(value,label)=>{assert.ok(value,label);checks.push(label);};
 const wait=ms=>new Promise(resolve=>setTimeout(resolve,ms));
 const until=async predicate=>{for(let i=0;i<100;i++){if(predicate())return;await wait(10);}throw Error('Timed out awaiting test operation');};
-const KEY='amg-life-lesson-03-v1',ASSESS='amg-life-assessments-v1';
+const KEY='amg-life-lesson-03-v1',ASSESS='amg-life-assessments-v1',HEALTH='amg-health-assessments-v1';
 const copy=x=>JSON.parse(JSON.stringify(x));
 class Element {
  constructor(tag){this.tagName=tag.toUpperCase();this.children=[];this.style={};this.attributes={};this.handlers={};this.inert=false;this.classList={remove(){}};}
@@ -86,6 +86,16 @@ try {
   check(f.envelope(KEY).value.position===40&&f.envelope(KEY).conflict&&b.records[KEY].value.position===90,'A server conflict preserves pending local content and never overwrites the newer cloud record');
  }
  {
+  const saved={version:1,attempts:[{id:'health-1',rotation:17,startedAt:1,submittedAt:null,earlyFail:false,answers:Array(90).fill(null),current:12}]},b=backend();b.records[HEALTH]={revision:3,value:saved};
+  const sharedStore=new Map(),first=fixture(b,{store:sharedStore});await first.api.ready;check(JSON.parse(first.api.storage.getItem(HEALTH)).attempts[0].current===12,'Health reload restores the authorized learner attempt and current question');first.close();
+  const resumed=fixture(b,{store:sharedStore});await resumed.api.ready;const next=copy(saved);next.attempts[0].answers[12]='A';next.attempts[0].current=13;let offline=true;b.hook=body=>{if(offline){offline=false;throw Error('offline');}b.hook=null;return b.accept(body);};resumed.api.storage.setItem(HEALTH,JSON.stringify(next));await until(()=>b.posts.some(post=>post.key===HEALTH));resumed.emit('online',{});await until(()=>b.records[HEALTH].value.attempts[0].current===13);await until(()=>!resumed.envelope(HEALTH).dirty);
+  check(b.posts.filter(post=>post.key===HEALTH).length===2&&b.records[HEALTH].value.attempts[0].answers[12]==='A','Offline Health progress retries the same durable pending snapshot and resumes at the saved question');
+ }
+ {
+  const saved={version:1,attempts:[{id:'health-1',rotation:17,startedAt:1,submittedAt:null,earlyFail:false,answers:Array(90).fill(null),current:2}]},b=backend();b.records[HEALTH]={revision:4,value:saved};const f=fixture(b);await f.api.ready;b.records[HEALTH]={revision:5,value:{...copy(saved),attempts:[{...copy(saved.attempts[0]),current:8}]}};const local=copy(saved);local.attempts[0].current=3;f.api.storage.setItem(HEALTH,JSON.stringify(local));await until(()=>!f.api.canWrite());
+  check(f.envelope(HEALTH).conflict&&f.envelope(HEALTH).value.attempts[0].current===3&&b.records[HEALTH].value.attempts[0].current===8,'A Health revision conflict retains local pending work without replacing the newer cloud record');
+ }
+ {
   const b=backend(),f=fixture(b);b.records[ASSESS]={revision:1,value:{version:1,attempts:[]}};await f.api.ready;const baseline=f.api.storage.getItem(ASSESS);
   f.api.storage.setItem(ASSESS,JSON.stringify({version:1,attempts:[{id:'newer-tab-attempt'}]}));const accepted=await f.api.commitSnapshot(ASSESS,JSON.stringify({version:1,attempts:[{id:'stale-tab-attempt'}]}),baseline);
   check(!accepted&&!f.api.canWrite()&&f.envelope(ASSESS).value.attempts[0].id==='newer-tab-attempt'&&f.envelope(ASSESS).rejectedValue.attempts[0].id==='stale-tab-attempt','A stale assessment snapshot cannot borrow the latest local revision; rejected pending data is retained');
@@ -116,6 +126,10 @@ try {
  {
   const b=backend();b.getHook=async()=>response(200,{user:{id:b.user},records:{},reporting:{status:'pending',retryAfterMs:120000}});const f=fixture(b);await f.api.ready;
   check(f.scheduledDelays.includes(120000),'Coordinator reporting retry honors the server-advertised delay');
+ }
+ {
+  const b=backend();b.getHook=async()=>response(200,{user:{id:b.user},records:{},reporting:{status:'not_configured',retryAfterMs:120000}});const f=fixture(b);await f.api.ready;
+  check(f.api.statusText()==='Saved under your email.'&&!f.scheduledDelays.includes(120000),'Optional unconfigured reporting is not mislabeled pending or retried forever');
  }
  {
   const b=backend();b.accessStage='profile';const f=fixture(b);await f.api.ready;

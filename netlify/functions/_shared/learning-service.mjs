@@ -1,5 +1,5 @@
 import { randomUUID } from 'node:crypto';
-import { allowedKeys, buildReport, hash, InputError, lessonByKey, reportingSignature, userPrefix, validateValue } from './learning-core.mjs';
+import { allowedKeys, buildReport, hash, InputError, lessonByKey, reportingKeys, reportingSignature, userPrefix, validateValue } from './learning-core.mjs';
 
 export const MAX_BODY_BYTES = 1048576;
 export const REPORT_INTERVAL_MS = 120000;
@@ -47,7 +47,7 @@ async function readRecords(store, prefix) {
 }
 
 function reportFingerprint(user, records) {
-  return hash({ id: user.id, name: user.name || '', email: user.email, revisions: allowedKeys.map(key => [key, records[key]?.revision || 0]) });
+  return hash({ id: user.id, name: user.name || '', email: user.email, revisions: reportingKeys.map(key => [key, records[key]?.revision || 0]) });
 }
 function reportStatus(entry, fingerprint, configured, now) {
   const state = entry?.data;
