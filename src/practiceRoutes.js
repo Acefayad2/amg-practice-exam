@@ -1,6 +1,6 @@
 export const PRACTICE_ROUTES = Object.freeze({
   home: '/',
-  health: '/health/',
+  health: '/course/health/',
   healthGuide: '/Accident%20%26%20Health%20Study%20Guide.docx',
   lifeCourse: '/course/',
   lifeExams: '/course/assessments/',
@@ -16,7 +16,7 @@ export function practiceRoutesFor(pathname = '/') {
   return Object.freeze({
     ...PRACTICE_ROUTES,
     home: MOUNTED_BASE + '/',
-    health: MOUNTED_BASE + '/health/',
+    health: '/course/health/',
     healthGuide: '/guides/accident-health.docx',
     lifeGuide: '/guides/life-producer.docx',
   })
@@ -26,6 +26,6 @@ const LOGIN_CALLBACK = /(?:access_token|confirmation_token|recovery_token|invite
 
 export function routeForLocation(pathname, hash = '') {
   if (LOGIN_CALLBACK.test(hash)) return 'login-callback'
-  if (/^\/(?:practice\/)?health\/?$/.test(pathname)) return 'health'
+  if (/^\/(?:(?:practice|course)\/)?health\/?$/.test(pathname)) return 'health'
   return 'home'
 }

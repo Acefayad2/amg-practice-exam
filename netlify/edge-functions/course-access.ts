@@ -15,4 +15,21 @@ export default async function courseAccess(request: Request, context: { next: ()
   return response;
 }
 
-export const config = { path: ['/course', '/course/*'], onError: 'fail' };
+export const config = {
+  path: [
+    '/',
+    '/health',
+    '/health/*',
+    '/practice',
+    '/practice/*',
+    '/practice-assets/*',
+    '/course',
+    '/course/*',
+    '/guides/*',
+    '/Accident*',
+    '/Accident & Health Study Guide.docx',
+    '/Life*',
+    '/Life Producer Study Guide.docx',
+  ],
+  onError: 'fail',
+};

@@ -12,10 +12,10 @@ export function icon(name, className = '') {
  return `<svg class="ui-icon ${className}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${paths[name] || paths.arrow}</svg>`;
 }
 
-export function courseHeader(active = 'course') {
- return `<header class="app-header"><div class="app-header-inner"><a class="brand" href="/course/" aria-label="AMG Learning home"><span class="brand-mark"><img src="/course/assets/amg-mark.webp" alt="" width="68" height="64"></span><span class="brand-wordmark">AMG<span>Learning</span></span></a><nav class="app-nav" aria-label="Main navigation"><a href="/course/"${active === 'course' ? ' aria-current="page"' : ''}>${icon('book')}<span>Course</span></a><a href="/course/assessments/"${active === 'assessments' ? ' aria-current="page"' : ''}>${icon('test')}<span>Practice tests</span></a></nav><div id="account-controls" class="account-controls"></div></div></header><div id="account-sync-status" class="account-sync-status" role="status" aria-live="polite"></div>`;
+export function courseHeader(active = 'life') {
+ return `<header class="app-header"><div class="app-header-inner"><a class="brand" href="/course/" aria-label="AMG Learning home"><span class="brand-mark"><img src="/course/assets/amg-mark.webp" alt="" width="68" height="64"></span><span class="brand-wordmark">AMG<span>Learning</span></span></a><nav class="app-nav" aria-label="Producer programs"><a href="/course/"${active === 'life' ? ' aria-current="page"' : ''}>${icon('book')}<span>Life Producer</span></a><a href="/course/health/"${active === 'health' ? ' aria-current="page"' : ''}>${icon('test')}<span>Health &amp; Sickness</span></a></nav><div id="account-controls" class="account-controls"></div></div></header><div id="account-sync-status" class="account-sync-status" role="status" aria-live="polite"></div>`;
 }
 
-export function courseFooter() {
- return `<footer class="app-footer"><span>AMG Learning <span class="footer-dot">·</span> Maryland Life</span><a href="/course/coverage/">Coordinator review ${icon('arrow')}</a></footer>`;
+export function courseFooter(program = 'Maryland Life', href = '/course/coverage/', action = 'Coordinator review') {
+ return `<footer class="app-footer"><span>AMG Learning <span class="footer-dot">·</span> ${program}</span><a href="${href}">${action} ${icon('arrow')}</a></footer>`;
 }

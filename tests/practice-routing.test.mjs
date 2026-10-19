@@ -6,7 +6,7 @@ import { healthQuestionsForAttempt } from '../src/healthQuestionRotation.js'
 import { PRACTICE_ROUTES, practiceRoutesFor, routeForLocation } from '../src/practiceRoutes.js'
 
 test('stable practice routes keep Life protected paths and Health resources distinct', () => {
-  assert.equal(PRACTICE_ROUTES.health, '/health/')
+  assert.equal(PRACTICE_ROUTES.health, '/course/health/')
   assert.equal(PRACTICE_ROUTES.healthGuide, '/Accident%20%26%20Health%20Study%20Guide.docx')
   assert.equal(PRACTICE_ROUTES.lifeCourse, '/course/')
   assert.equal(PRACTICE_ROUTES.lifeExams, '/course/assessments/')
@@ -23,7 +23,7 @@ test('stable practice routes keep Life protected paths and Health resources dist
 test('mounted practice routes keep reload, Back/Forward, guides and protected Life coherent', () => {
   const mounted = practiceRoutesFor('/practice/health/')
   assert.equal(mounted.home, '/practice/')
-  assert.equal(mounted.health, '/practice/health/')
+  assert.equal(mounted.health, '/course/health/')
   assert.equal(mounted.healthGuide, '/guides/accident-health.docx')
   assert.equal(mounted.lifeGuide, '/guides/life-producer.docx')
   assert.equal(mounted.lifeCourse, '/course/')
@@ -65,18 +65,9 @@ test('Health question order is stable per attempt, rotates on a new attempt and 
   }
 })
 
-test('the root app restores Health without bypassing the Life course entry points', () => {
+test('the legacy root app routes into the unified protected producer portal', () => {
   const app = fs.readFileSync(new URL('../src/App.jsx', import.meta.url), 'utf8')
-  const home = fs.readFileSync(new URL('../src/components/HomeScreen.jsx', import.meta.url), 'utf8')
-  const registration = fs.readFileSync(new URL('../src/components/RegisterScreen.jsx', import.meta.url), 'utf8')
-  assert.match(app, /healthQuestions/)
-  assert.match(app, /healthQuestionsForAttempt/)
-  assert.doesNotMatch(app, /location\.replace\('\/course\/'\)/)
-  assert.match(home, /routes\.lifeCourse/)
-  assert.match(home, /routes\.lifeExams/)
-  assert.match(home, /routes\.healthGuide/)
-  assert.match(home, /Start Health Practice Exam/)
-  assert.match(registration, /does not confirm that it was saved/)
-  assert.match(registration, /progress resets if you reload/)
-  assert.doesNotMatch(registration, /score gets recorded/)
+  assert.match(app, /'\/course\/health\/'/)
+  assert.match(app, /'\/course\/'/)
+  assert.doesNotMatch(app, /RegisterScreen|Health Practice Exam|healthQuestions/)
 })

@@ -146,19 +146,21 @@ test('missing configured access code cannot create a gate', async t => {
   assert.equal(response.status, 503); assert.equal(response.headers.getSetCookie().length, 0);
 });
 
-test('Edge uses the same signed session; exact login assets stay public while lesson data stays gated and uncached', async t => {
+test('Edge uses the same signed session; Health content and every guide URL stay gated and uncached', async t => {
   env(t); let next = 0;
   const context = { next: async () => { next++; return new Response('content', { headers: { 'Cache-Control': 'public, max-age=3600' } }); } };
   for (const path of ['/course/assets/amg-logo.png', '/course/shared/app.css', '/course/shared/account.css', '/course/shared/account.js', '/course/shared/login.js']) assert.equal((await edge(new Request(SITE + path), context)).status, 200);
   assert.equal(next, 5);
-  for (const path of ['/course', '/course/', '/course/lesson-01/?review=1', '/course/lesson-01/lesson-data.js', '/course/lesson-01/scene-captions.vtt', '/course/assessments/assessment-data.js']) {
+  for (const path of ['/', '/health/', '/practice/health/', '/practice-assets/index.js', '/course', '/course/', '/course/health/', '/course/lesson-01/?review=1', '/course/lesson-01/lesson-data.js', '/course/lesson-01/scene-captions.vtt', '/course/assessments/assessment-data.js', '/guides/accident-health.docx', '/guides/life-producer.docx', '/Accident%20%26%20Health%20Study%20Guide.docx', '/Life%20Producer%20Study%20Guide.docx']) {
     const response = await edge(new Request(SITE + path), context); assert.equal(response.status, 302); assert.equal(response.headers.get('cache-control'), 'private, no-store');
     const target = new URL(response.headers.get('location')); assert.equal(target.origin, SITE); assert.equal(target.pathname, '/login/'); assert.equal(target.searchParams.get('next'), path);
   }
   const token = await issueSession({ name: 'Agent', email: 'agent@example.invalid' }, SECRET);
-  const allowed = await edge(new Request(SITE + '/course/lesson-01/', { headers: { Cookie: cookie(SESSION_COOKIE, token) } }), context);
-  assert.equal(allowed.status, 200); assert.equal(allowed.headers.get('cache-control'), 'private, no-store');
-  assert.deepEqual(edgeConfig, { path: ['/course', '/course/*'], onError: 'fail' });
+  for (const path of ['/course/lesson-01/', '/course/health/', '/practice-assets/index.js', '/Accident%20%26%20Health%20Study%20Guide.docx', '/Life%20Producer%20Study%20Guide.docx']) {
+    const allowed = await edge(new Request(SITE + path, { headers: { Cookie: cookie(SESSION_COOKIE, token) } }), context);
+    assert.equal(allowed.status, 200); assert.equal(allowed.headers.get('cache-control'), 'private, no-store');
+  }
+  assert.deepEqual(edgeConfig, { path: ['/', '/health', '/health/*', '/practice', '/practice/*', '/practice-assets/*', '/course', '/course/*', '/guides/*', '/Accident*', '/Accident & Health Study Guide.docx', '/Life*', '/Life Producer Study Guide.docx'], onError: 'fail' });
 });
 
 test('real signed session feeds unchanged learning user/report shape and rejects a cross-learner write assertion', async t => {

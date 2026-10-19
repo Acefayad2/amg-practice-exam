@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node scripts/build-course-audit.mjs && node scripts/build-full-course.mjs && node scripts/build-assessments.mjs && node scripts/build-account.mjs && vite build",
+    "build": "node scripts/build-course-audit.mjs && node scripts/build-full-course.mjs && node scripts/build-assessments.mjs && node scripts/build-health-course.mjs && node scripts/build-account.mjs && vite build",
     "preview": "vite preview",
     "test": "node --test tests/*.test.mjs"
   },

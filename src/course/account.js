@@ -28,10 +28,6 @@ function renderStatus() {
   if (!slot) return;
   slot.replaceChildren(document.createTextNode(statusText()));
   slot.setAttribute('role','status');
-  if (!stopped && !conflicted && (failures.size || reporting?.status === 'pending' || reporting?.status === 'not_configured')) {
-    const retry = document.createElement('button'); retry.type = 'button'; retry.textContent = 'Retry sync';
-    retry.addEventListener('click',() => { flushAll(); syncReport(); }); slot.append(' ',retry);
-  }
 }
 function showGuard(message, actions = []) {
   if (!guard) {
@@ -109,7 +105,7 @@ function schedule(key,delay = 350) {
 }
 function planReport() {
   clearTimeout(reportTimer);
-  if (canWrite() && reporting?.status === 'pending') reportTimer = setTimeout(syncReport,Math.max(35000,Number.isFinite(reporting.retryAfterMs) ? reporting.retryAfterMs : 0));
+  if (canWrite() && (reporting?.status === 'pending' || reporting?.status === 'not_configured')) reportTimer = setTimeout(syncReport,Math.max(35000,Number.isFinite(reporting.retryAfterMs) ? reporting.retryAfterMs : 0));
 }
 async function syncReport() {
   if (!canWrite()) return;
