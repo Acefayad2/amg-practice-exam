@@ -1,5 +1,14 @@
 # Development deployment
 
+> **Moved 2026-11-08.** AMG Learning is now served from https://anointedmoneygroup.com
+> (repo `Acefayad2/amg-wealth`, PR #31). This repo is the **source** for lesson content
+> and the practice app only. Do **not** deploy `dist/` to `amg-exam-portal` any more:
+> that site now holds only the redirects in `portal-redirect/`, and learner progress
+> lives in amg-wealth's Netlify Blobs store. To publish a change, build here, then run
+> `scripts/sync-learning-course.sh` in amg-wealth (see its `docs/learning-course.md`).
+> Server code (`netlify/`) now lives in amg-wealth too; changes made here are not live.
+> To redeploy the redirects: `netlify deploy --no-build --prod --dir portal-redirect --site 40829c93-d6a6-4b8a-bbf7-c64e20d06701`.
+
 - GitHub: `Acefayad2/amg-practice-exam`, branch `main`.
 - Existing Netlify site: `amg-exam-portal` (`40829c93-d6a6-4b8a-bbf7-c64e20d06701`).
 - Course URL: https://amg-exam-portal.netlify.app/course/

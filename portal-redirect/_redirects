@@ -1,0 +1,12 @@
+# AMG Learning moved to anointedmoneygroup.com on 2026-11-08 (Acefayad2/amg-wealth#31).
+# 302 (not 301) so browsers don't cache it; previous full deploy: 6ad6441ab14b31c5e4fac794.
+/course/*            https://anointedmoneygroup.com/course/:splat            302!
+/course              https://anointedmoneygroup.com/course/                  302!
+/login/*             https://anointedmoneygroup.com/login/:splat             302!
+/login               https://anointedmoneygroup.com/login/                   302!
+/health/*            https://anointedmoneygroup.com/practice/health/         302!
+/health              https://anointedmoneygroup.com/practice/health/         302!
+/practice-assets/*   https://anointedmoneygroup.com/practice-assets/:splat   302!
+/Accident%20%26%20Health%20Study%20Guide.docx  https://anointedmoneygroup.com/guides/accident-health.docx  302!
+/Life%20Producer%20Study%20Guide.docx          https://anointedmoneygroup.com/guides/life-producer.docx    302!
+/*                   https://anointedmoneygroup.com/practice/                302!
