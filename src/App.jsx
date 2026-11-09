@@ -7,22 +7,7 @@ import { healthQuestions } from './data/healthQuestions'
 import { healthQuestionsForAttempt } from './healthQuestionRotation'
 import { practiceRoutesFor, routeForLocation } from './practiceRoutes'
 
-const APPS_SCRIPT_URL = import.meta.env.VITE_APPS_SCRIPT_URL || ''
-
-export async function submitToSheet(payload) {
-  if (!APPS_SCRIPT_URL) return
-  try {
-    await fetch(APPS_SCRIPT_URL, {
-      method: 'POST',
-      mode: 'no-cors',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(payload),
-    })
-  } catch (error) {
-    // Reporting must never keep a learner from seeing their result.
-    console.warn('Sheet submission failed:', error)
-  }
-}
+import { submitPracticeResult } from './practiceReporting'
 
 const healthExam = {
   id: 'health',
@@ -42,6 +27,10 @@ export default function App() {
   const [user, setUser] = useState(null)
   const [activeHealthExam, setActiveHealthExam] = useState(null)
   const healthAttempt = useRef(0)
+  const reportPayload = useRef(null)
+  const reportInFlight = useRef(false)
+  const [reportStatus, setReportStatus] = useState('idle')
+  const attemptId = useRef(null)
 
   useEffect(() => {
     if (initialRoute === 'login-callback') {
@@ -50,6 +39,11 @@ export default function App() {
     }
 
     const handlePopState = () => {
+      if (reportStatus === 'saving' || (reportStatus === 'failed' && !confirm('This result has not been saved to AMG. Leave it without saving?'))) {
+        history.pushState(null, '', routes.health)
+        return
+      }
+      setReportStatus('idle')
       const route = routeForLocation(location.pathname, location.hash)
       setScreen(route === 'health' ? 'register' : 'home')
       setExamResults(null)
@@ -58,7 +52,7 @@ export default function App() {
     }
     addEventListener('popstate', handlePopState)
     return () => removeEventListener('popstate', handlePopState)
-  }, [initialRoute, routes.login])
+  }, [initialRoute, routes.login, routes.health, reportStatus])
 
   function selectHealthExam() {
     if (location.pathname !== routes.health) {
@@ -71,6 +65,9 @@ export default function App() {
   }
 
   function startExam(userInfo) {
+    attemptId.current = crypto.randomUUID()
+    reportPayload.current = null
+    setReportStatus('idle')
     const questions = healthQuestionsForAttempt(healthQuestions, healthAttempt.current)
     healthAttempt.current += 1
     setActiveHealthExam({ ...healthExam, questions })
@@ -84,7 +81,8 @@ export default function App() {
 
     const correct = results.results.filter(result => result.correct).length
     const total = results.results.length
-    submitToSheet({
+    reportPayload.current = {
+      attemptId: attemptId.current,
       name: user.name,
       email: user.email,
       examType: healthExam.title,
@@ -96,10 +94,39 @@ export default function App() {
       skipped: results.results.filter(result => result.skipped).length,
       earlyFail: results.earlyFail || false,
       timestamp: new Date().toISOString(),
-    })
+    }
+    saveResult()
+  }
+
+  async function saveResult() {
+    if (!reportPayload.current || reportInFlight.current) return
+    reportInFlight.current = true
+    setReportStatus('saving')
+    try {
+      await submitPracticeResult(reportPayload.current)
+      setReportStatus('saved')
+    } catch {
+      setReportStatus('failed')
+    } finally {
+      reportInFlight.current = false
+    }
+  }
+
+  useEffect(() => {
+    if (reportStatus !== 'saving' && reportStatus !== 'failed') return undefined
+    const preventLoss = event => { event.preventDefault(); event.returnValue = '' }
+    addEventListener('beforeunload', preventLoss)
+    return () => removeEventListener('beforeunload', preventLoss)
+  }, [reportStatus])
+
+  function canLeaveResult() {
+    if (reportStatus === 'saving') return false
+    return reportStatus !== 'failed' || confirm('This result has not been saved to AMG. Leave it without saving?')
   }
 
   function goHome() {
+    if (!canLeaveResult()) return
+    setReportStatus('idle')
     if (location.pathname !== routes.home) {
       history.pushState(null, '', routes.home)
     }
@@ -110,6 +137,8 @@ export default function App() {
   }
 
   function retry() {
+    if (!canLeaveResult()) return
+    setReportStatus('idle')
     setExamResults(null)
     setActiveHealthExam(null)
     setScreen('register')
@@ -133,6 +162,8 @@ export default function App() {
           exam={activeHealthExam}
           results={examResults}
           user={user}
+          reportStatus={reportStatus}
+          onSaveResult={saveResult}
           onRetry={retry}
           onHome={goHome}
         />
