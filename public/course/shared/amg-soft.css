@@ -1,0 +1,236 @@
+/* AMG soft theme for AMG Learning.
+   Matches the AMG Matchup portal (amg-matchup-steps app/nm.css): the soft
+   (neumorphic) one-card design in AMG emerald + gold on cream, Bodoni Moda
+   headings and Jost text. Loaded last on every course page, so it only
+   restyles; page layout stays in app.css, home.css, lesson.css,
+   assessment.css and login.css. */
+
+@font-face { font-family: "Bodoni Moda"; src: url("/course/assets/fonts/bodoni-moda-latin.woff2") format("woff2"); font-style: normal; font-weight: 400 900; font-display: swap; }
+@font-face { font-family: Jost; src: url("/course/assets/fonts/jost-latin.woff2") format("woff2"); font-style: normal; font-weight: 100 900; font-display: swap; }
+
+:root {
+  --nm-bg: #efede6;
+  --nm-light: #ffffff;
+  --nm-dark: #d4cebd;
+  --ink: #0b2e24;
+  --ink-2: #12483a;
+  --text: #26342e;
+  --muted: #5c6761;
+  --accent: #c9a227;
+  --accent-bright: #e8c766;
+  --accent-soft: #f4e7c3;
+  --accent-dark: #7a5e0f;
+  --teal: #7a5e0f;
+  --success: #2f6b4f;
+  --danger: #a3352b;
+  --paper: var(--nm-bg);
+  --surface: var(--nm-bg);
+  --line: rgba(11, 46, 36, .1);
+  --radius: 24px;
+  --font: Jost, "Avenir Next", system-ui, sans-serif;
+  --display: "Bodoni Moda", Didot, Georgia, serif;
+  --raise-sm: 4px 4px 9px var(--nm-dark), -4px -4px 9px var(--nm-light);
+  --raise: 8px 8px 16px var(--nm-dark), -8px -8px 16px var(--nm-light);
+  --raise-lg: 18px 18px 40px var(--nm-dark), -18px -18px 40px var(--nm-light);
+  --inset: inset 6px 6px 12px var(--nm-dark), inset -6px -6px 12px var(--nm-light);
+  --inset-sm: inset 3px 3px 7px var(--nm-dark), inset -3px -3px 7px var(--nm-light);
+  --emerald: linear-gradient(145deg, #17573f, #0b2e24);
+  --gold: linear-gradient(145deg, #e8c766, #c9a227);
+  --ring: 0 0 0 2px rgba(201, 162, 39, .8);
+  --ease: cubic-bezier(.16, 1, .3, 1);
+}
+
+/* ---------- Base ---------- */
+body { background: var(--nm-bg); color: var(--text); font-family: var(--font); font-size: 15px; }
+h1, h2 { font-family: var(--display); font-weight: 600; letter-spacing: -.01em; color: var(--ink); }
+h1 { line-height: 1.14; }
+h3 { color: var(--ink); font-weight: 600; letter-spacing: 0; }
+:is(body, .login-introduction, .auth-heading, .continue-card, .practice-shortcut, .browser-tools, .classroom-heading) .eyebrow {
+  color: var(--accent-dark); font-size: 11.5px; font-weight: 600; letter-spacing: .2em;
+}
+.continue-card .eyebrow { color: var(--accent-bright); }
+.muted { color: var(--muted); }
+.fine { font-size: 12.5px; }
+a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, summary:focus-visible { outline: 3px solid rgba(201, 162, 39, .65); outline-offset: 3px; }
+.skip { background: var(--ink); color: var(--accent-soft); border-radius: 14px; }
+
+/* ---------- Buttons ---------- */
+button {
+  border: 0; border-radius: 14px; background: var(--nm-bg); box-shadow: var(--raise-sm);
+  color: var(--ink-2); font-weight: 600;
+  transition: box-shadow .2s var(--ease), transform .15s var(--ease), background .2s, color .2s;
+}
+button:hover:not(:disabled) { background: var(--nm-bg); box-shadow: 2px 2px 5px var(--nm-dark), -2px -2px 5px var(--nm-light); }
+button:active:not(:disabled) { box-shadow: var(--inset-sm); transform: none; }
+.primary, button.primary, a.primary {
+  border: 0; border-radius: 18px; min-height: 50px; padding: 12px 22px;
+  background: var(--emerald); color: var(--accent-soft); font-weight: 600; letter-spacing: .01em;
+  box-shadow: 6px 6px 14px rgba(11, 46, 36, .28), -6px -6px 14px var(--nm-light);
+}
+.primary .ui-icon { color: var(--accent-bright); transition: transform .2s var(--ease); }
+.primary:hover:not(:disabled), button.primary:hover:not(:disabled) { background: linear-gradient(145deg, #1b6449, #0e3a2d); box-shadow: 6px 6px 14px rgba(11, 46, 36, .28), -6px -6px 14px var(--nm-light); }
+.primary:hover:not(:disabled) .ui-icon { transform: translateX(3px); }
+.primary:active:not(:disabled), button.primary:active:not(:disabled) { transform: translateY(1px); box-shadow: inset 3px 3px 8px rgba(0, 0, 0, .35); }
+.primary:disabled, button.primary:disabled { opacity: 1; background: var(--nm-bg); box-shadow: var(--raise-sm); color: #8d948f; }
+/* Quiet text buttons stay flat. */
+.password-toggle, .text-action, .text-button, .check-top > button, .inline-caption-controls button,
+.password-toggle:hover:not(:disabled), .text-action:hover:not(:disabled), .text-button:hover:not(:disabled), .check-top > button:hover:not(:disabled) { box-shadow: none; }
+.text-action, .text-button { color: var(--ink-2); text-decoration: underline; text-decoration-color: rgba(201, 162, 39, .75); text-underline-offset: 4px; }
+.password-toggle { color: var(--accent-dark); }
+.inline-caption-controls button:hover:not(:disabled) { box-shadow: none; }
+
+/* ---------- Header + footer ---------- */
+.app-header { background: transparent; border-bottom: 0; }
+.brand-mark { box-shadow: 0 0 0 4px var(--nm-bg), 6px 6px 12px var(--nm-dark), -5px -5px 11px var(--nm-light); }
+.brand-wordmark { font-family: var(--display); font-size: 21px; font-weight: 600; letter-spacing: .12em; color: var(--ink); }
+.brand-wordmark > span { font-family: var(--font); font-size: 10.5px; font-weight: 600; letter-spacing: .24em; text-transform: uppercase; color: var(--accent-dark); margin-top: 5px; }
+.app-nav a { color: var(--muted); font-weight: 600; font-size: 13.5px; }
+.app-nav a:hover { color: var(--ink); }
+.app-nav a[aria-current] { color: var(--ink); border-bottom-color: var(--accent); }
+.program-label { padding: 8px 14px; border-radius: 999px; box-shadow: var(--inset-sm); color: var(--muted); font-size: 12.5px; font-weight: 500; }
+.program-label > span { background: var(--accent); box-shadow: 0 0 0 3px rgba(201, 162, 39, .2); }
+.app-footer, .login-footer { border-top: 1px solid var(--line); color: var(--muted); font-size: 12.5px; }
+.account-controls { font-weight: 600; color: var(--text); }
+.account-controls button, .account-sync-status button { border-radius: 999px; padding: 8px 14px; font-size: 12.5px; }
+.account-sync-status { color: var(--muted); font-size: 12px; }
+
+/* ---------- Loading guard ---------- */
+#account-access-guard { font-family: var(--font); color: var(--text); }
+#account-access-guard h1 { font-family: var(--display); font-weight: 600; color: var(--ink); }
+#account-access-guard button { border: 0; border-radius: 18px; background: var(--nm-bg); box-shadow: var(--raise-sm); color: var(--ink-2); font-weight: 600; }
+#account-access-guard button:first-of-type { background: var(--emerald); color: var(--accent-soft); box-shadow: 6px 6px 14px rgba(11, 46, 36, .28), -6px -6px 14px var(--nm-light); }
+
+/* ---------- Surfaces ---------- */
+.auth-card, .course-rail, .card, .question-panel, .nav-panel, #app > fieldset, .pool-lab, .practice-shortcut, dialog, .check-dialog {
+  background: var(--nm-bg); border: 0; box-shadow: var(--raise);
+}
+.auth-card { border-radius: 32px; box-shadow: var(--raise-lg); }
+.course-rail, .card, .question-panel, .nav-panel, #app > fieldset, .practice-shortcut { border-radius: 26px; }
+/* Dialogs sit on a dark backdrop, where the white highlight would glow; use a plain drop shadow. */
+dialog, .check-dialog { border-radius: 30px; box-shadow: 0 30px 80px rgba(11, 46, 36, .35); }
+dialog::backdrop, .check-dialog::backdrop { background: rgba(11, 46, 36, .55); }
+.practice-shortcut:hover { background: var(--nm-bg); border-color: transparent; box-shadow: var(--raise-sm); }
+.practice-card:hover { border-color: transparent; box-shadow: var(--raise-sm); }
+.practice-symbol { background: var(--nm-bg); border-radius: 50%; box-shadow: var(--inset-sm); color: var(--accent-dark); }
+.practice-shortcut p { color: var(--muted); font-size: 13px; }
+.simple-card, .term-detail, .result-question { background: var(--nm-bg); border: 0; border-radius: 20px; box-shadow: var(--raise-sm); }
+.teaching-note, .case-study, .notice, .review-result, .rate-chart, .practice-support .card, .storage-status.warning, .search-empty {
+  background: var(--nm-bg); border: 0; border-radius: 20px; box-shadow: var(--inset-sm);
+}
+.storage-status.warning, #video-error, .auth-error { color: var(--danger); }
+#video-error, .auth-error { background: var(--nm-bg); border: 0; border-radius: 16px; box-shadow: var(--inset-sm); }
+
+/* ---------- Fields ---------- */
+.form-field > label { color: var(--text); font-size: 14px; font-weight: 600; padding-left: 6px; }
+.form-field input, .pool-lab select {
+  border: 0; border-radius: 18px; background: var(--nm-bg); box-shadow: var(--inset);
+  color: var(--ink); min-height: 56px; padding-left: 20px; transition: box-shadow .2s var(--ease);
+}
+.form-field input:hover:not(:disabled) { border-color: transparent; }
+.form-field input:focus, .pool-lab select:focus { box-shadow: var(--inset), 0 0 0 2px var(--accent); }
+.form-field input:disabled { background: var(--nm-bg); box-shadow: var(--inset-sm); color: var(--muted); }
+.field-hint { font-size: 12px; color: var(--muted); padding-left: 6px; }
+.lesson-search { border: 0; border-radius: 999px; background: var(--nm-bg); box-shadow: var(--inset-sm); }
+.lesson-search:focus-within { box-shadow: var(--inset-sm), 0 0 0 2px var(--accent); }
+.lesson-search input { font-size: 13px; }
+.loading-indicator { border-color: rgba(11, 46, 36, .15); border-top-color: var(--ink); }
+
+/* ---------- Progress ---------- */
+progress, .lesson-progress-box progress { -webkit-appearance: none; appearance: none; height: 12px; padding: 0; border: 0; border-radius: 999px; background: var(--nm-bg); box-shadow: var(--inset-sm); overflow: hidden; }
+progress::-webkit-progress-bar, .lesson-progress-box progress::-webkit-progress-bar { background: var(--nm-bg); border-radius: 999px; box-shadow: var(--inset-sm); }
+progress::-webkit-progress-value, .lesson-progress-box progress::-webkit-progress-value { background: linear-gradient(90deg, var(--accent), var(--accent-bright)); border-radius: 999px; }
+progress::-moz-progress-bar, .lesson-progress-box progress::-moz-progress-bar { background: linear-gradient(90deg, var(--accent), var(--accent-bright)); border-radius: 999px; }
+.bar-track { background: var(--nm-bg); box-shadow: var(--inset-sm); border-radius: 999px; }
+.rate-bar.illustrated { background: var(--accent); }
+.rate-bar.expected { background: #9aa79e; }
+
+/* ---------- Answer choices ---------- */
+.option, .answer-option {
+  border: 0; border-radius: 18px; background: var(--nm-bg); box-shadow: var(--raise-sm);
+  transition: box-shadow .25s var(--ease);
+}
+.option:hover:has(input:not(:disabled)), .answer-option:hover { background: var(--nm-bg); border-color: transparent; box-shadow: 2px 2px 5px var(--nm-dark), -2px -2px 5px var(--nm-light); }
+.option:has(input:checked), .answer-option:has(input:checked) { border: 0; background: var(--nm-bg); box-shadow: var(--inset), var(--ring); }
+.option.correct { background: var(--nm-bg); box-shadow: var(--inset), 0 0 0 2px rgba(47, 107, 79, .7); }
+.answer-option:has(input:focus-visible) { outline: 3px solid rgba(201, 162, 39, .6); outline-offset: 3px; }
+.answer-correct { background: rgba(47, 107, 79, .1); }
+.term-buttons button[aria-pressed="true"] { background: var(--emerald); color: var(--accent-soft); box-shadow: 4px 4px 10px rgba(11, 46, 36, .25), -4px -4px 9px var(--nm-light); }
+.question-panel .actions button:nth-child(2) { background: var(--emerald); color: var(--accent-soft); box-shadow: 6px 6px 14px rgba(11, 46, 36, .28), -6px -6px 14px var(--nm-light); }
+.question-panel .actions button:nth-child(2):hover:not(:disabled) { background: linear-gradient(145deg, #1b6449, #0e3a2d); }
+.question-nav { padding: 8px; }
+.question-nav button { border-radius: 12px; }
+.question-nav .answered { background: var(--nm-bg); box-shadow: var(--inset-sm); color: var(--ink); }
+/* "Gold line: marked" (legend in assessment.js): an inset line that follows the rounded corners. */
+.question-nav .marked { border-bottom: 0; box-shadow: var(--raise-sm), inset 0 -3px 0 var(--accent); }
+.question-nav .answered.marked { box-shadow: var(--inset-sm), inset 0 -3px 0 var(--accent); }
+.exam-bar { background: var(--emerald); border-radius: 22px; box-shadow: 8px 8px 18px rgba(11, 46, 36, .25), -6px -6px 14px var(--nm-light); color: var(--accent-soft); }
+th { background: rgba(11, 46, 36, .05); }
+
+/* ---------- Login ---------- */
+.login-page { background: var(--nm-bg); }
+.login-introduction h1 { font-weight: 600; }
+.login-introduction > p:not(.eyebrow) { font-size: 16px; color: var(--muted); }
+.highlight-number, .highlight-symbol { border: 0; border-radius: 50%; background: var(--nm-bg); box-shadow: var(--inset-sm); color: var(--accent-dark); font-weight: 600; }
+.learning-highlights > li > span:last-child { font-size: 14.5px; font-weight: 600; color: var(--ink); }
+.learning-highlights > li > span:last-child > span { font-size: 13px; color: var(--muted); }
+.auth-heading h2 { font-size: 32px; }
+.auth-heading > p:last-child { font-size: 15px; color: var(--muted); }
+.auth-help, .account-notice { font-size: 12.5px; color: var(--muted); border-top-color: var(--line); }
+.form-submit { font-size: 16px; }
+.login-program { font-size: 12.5px; font-weight: 600; color: var(--muted); }
+
+/* ---------- Course home ---------- */
+.continue-card { background: var(--emerald); border-radius: 30px; box-shadow: 14px 14px 32px rgba(11, 46, 36, .28), -12px -12px 28px var(--nm-light); }
+.continue-card h2 { color: #fbf8ef; }
+.continue-kicker, .continue-note { color: rgba(244, 231, 195, .75); font-size: 11.5px; }
+.continue-card .primary { background: var(--gold); color: var(--ink); box-shadow: 0 10px 22px rgba(0, 0, 0, .22); font-size: 14px; }
+.continue-card .primary .ui-icon { color: var(--ink); }
+.continue-card .primary:hover:not(:disabled) { background: linear-gradient(145deg, #f0d684, #d4ad33); box-shadow: 0 10px 22px rgba(0, 0, 0, .22); }
+.continue-preview { border-radius: 16px; }
+.course-meta { font-size: 12.5px; }
+.course-progress-panel { border-bottom-color: var(--line); }
+#course-progress { font-size: 12px; }
+.chapter-button { border: 0; border-radius: 16px; background: transparent; box-shadow: none; }
+.chapter-button:hover:not(:disabled) { background: transparent; box-shadow: var(--raise-sm); }
+.chapter-button[aria-pressed=true] { background: var(--nm-bg); color: var(--ink); box-shadow: var(--inset-sm); }
+.chapter-button[aria-pressed=true] .chapter-number { color: var(--accent-dark); }
+.chapter-button small { font-size: 11px; }
+.module-index { color: var(--accent-dark); font-size: 10.5px; font-weight: 600; letter-spacing: .18em; }
+.lesson-list { gap: 16px; }
+.lesson-list a { background: var(--nm-bg); border: 0; border-radius: 22px; box-shadow: var(--raise-sm); transition: box-shadow .25s var(--ease); }
+.lesson-list a:hover { border-color: transparent; box-shadow: var(--raise); }
+.lesson-play { border: 0; border-radius: 50%; background: var(--nm-bg); box-shadow: var(--inset-sm); color: var(--ink-2); }
+.is-complete .lesson-play { background: var(--nm-bg); color: var(--success); box-shadow: var(--raise-sm); }
+.lesson-number { font-size: 10px; color: var(--accent-dark); letter-spacing: .14em; }
+.lesson-title strong { font-size: 15px; font-weight: 600; color: var(--ink); }
+.lesson-title small { font-size: 12px; }
+.lesson-state { font-size: 12px; }
+.is-complete .lesson-state { color: var(--success); }
+.course-info { border-top-color: var(--line); }
+
+/* ---------- Lessons ---------- */
+.lesson-player video { border: 0; border-radius: 22px; box-shadow: var(--raise); }
+.inline-captions { border-radius: 0 0 22px 22px; }
+.step-number { border: 0; background: var(--nm-bg); box-shadow: var(--inset-sm); color: var(--ink-2); }
+.lesson-steps [aria-current="step"] .step-number { background: var(--emerald); color: var(--accent-soft); box-shadow: var(--raise-sm); }
+.lesson-steps .is-done .step-number { background: var(--nm-bg); color: var(--accent-dark); box-shadow: var(--raise-sm); }
+.lesson-meta > span + span { border-left-color: var(--line); }
+.module-list, .module-group, .reference-disclosure, .reference-disclosure:first-of-type, .reference-section + .reference-section,
+.lesson-finish, #save-status, .question, .feedback, .check-actions, .hazard-list article, .practice-disclosure, .export-panel, .history-list li, th, td { border-color: var(--line); }
+.module-group[open] > summary { background: transparent; }
+.module-group a:hover { background: rgba(255, 255, 255, .45); }
+.module-group a[aria-current="page"] { background: var(--nm-bg); box-shadow: var(--inset-sm); border-left-color: var(--accent); }
+.current-lesson-dot { background: var(--accent); }
+.reference-section:target { border-left-color: var(--accent); }
+.form-state.is-pending { background: var(--nm-bg); box-shadow: var(--inset-sm); border-radius: 999px; }
+
+@media (max-width: 740px) {
+  .app-header-inner { padding-top: 12px; }
+  .brand-wordmark { font-size: 18px; }
+  .brand-wordmark > span { font-size: 9.5px; }
+  .chapter-button { background: var(--nm-bg); box-shadow: var(--raise-sm); }
+  .chapter-button[aria-pressed=true] { background: var(--nm-bg); color: var(--ink); box-shadow: var(--inset-sm); }
+  .chapter-button[aria-pressed=true] .chapter-number { color: var(--accent-dark); }
+  .auth-card { border-radius: 26px; box-shadow: var(--raise); }
+  .auth-heading h2 { font-size: 28px; }
+}

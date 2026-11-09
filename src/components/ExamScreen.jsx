@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react'
 
-const BLUE = '#1F4E79'
+const BLUE = '#0B2E24'
 
 export default function ExamScreen({ exam, user, onFinish, onHome }) {
   const TOTAL = exam.questions.length
@@ -87,7 +87,7 @@ export default function ExamScreen({ exam, user, onFinish, onHome }) {
   const isCorrect = revealed && selected === q.answer
 
   return (
-    <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column', background: '#f0f4f8' }}>
+    <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column', background: '#efede6' }}>
       {/* Top bar */}
       <div className="exam-topbar" style={{ background: BLUE, color: '#fff', padding: '12px 24px', display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 12, flexWrap: 'wrap', flexShrink: 0 }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: 14 }}>
@@ -121,13 +121,13 @@ export default function ExamScreen({ exam, user, onFinish, onHome }) {
 
           {/* Progress bar */}
           <div style={{ marginBottom: 20 }}>
-            <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: 13, color: '#718096', marginBottom: 5 }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: 13, color: '#5c6761', marginBottom: 5 }}>
               <span>{answeredCount} answered</span>
               <span style={{ fontWeight: 600, color: answeredCount > 0 && (correctSoFar / answeredCount) >= (exam.practiceOnly ? 0.85 : 0.7) ? '#2e7d32' : '#c62828' }}>
                 {answeredCount > 0 ? `${Math.round((correctSoFar / answeredCount) * 100)}% correct` : 'Not started'}
               </span>
             </div>
-            <div style={{ height: 6, background: '#e2e8f0', borderRadius: 3, overflow: 'hidden' }}>
+            <div style={{ height: 6, background: '#dcd6c7', borderRadius: 3, overflow: 'hidden' }}>
               <div style={{ height: '100%', display: 'flex' }}>
                 <div style={{ width: `${(correctSoFar / TOTAL) * 100}%`, background: '#4CAF50', transition: 'width 0.3s' }} />
                 <div style={{ width: `${(wrongSoFar / TOTAL) * 100}%`, background: '#ef5350', transition: 'width 0.3s' }} />
@@ -147,12 +147,12 @@ export default function ExamScreen({ exam, user, onFinish, onHome }) {
           )}
 
           {/* Question card */}
-          <div className="exam-question-card" style={{ background: '#fff', borderRadius: 14, padding: '26px 30px', boxShadow: '0 2px 14px rgba(0,0,0,0.07)', marginBottom: 16 }}>
+          <div className="exam-question-card" style={{ background: '#efede6', borderRadius: 14, padding: '26px 30px', boxShadow: '8px 8px 16px #d4cebd, -8px -8px 16px #ffffff', marginBottom: 16 }}>
             <div style={{ display: 'flex', gap: 12, alignItems: 'flex-start', marginBottom: 22 }}>
               <span style={{ background: BLUE, color: '#fff', borderRadius: 8, padding: '4px 12px', fontWeight: 800, fontSize: 15, flexShrink: 0 }}>
                 {current + 1}
               </span>
-              <p style={{ fontSize: 17, fontWeight: 600, color: '#1a202c', lineHeight: 1.55, margin: 0 }}>
+              <p style={{ fontSize: 17, fontWeight: 600, color: '#0b2e24', lineHeight: 1.55, margin: 0 }}>
                 {q.q}
               </p>
             </div>
@@ -164,9 +164,10 @@ export default function ExamScreen({ exam, user, onFinish, onHome }) {
                 const isCorrectChoice = letter === q.answer
                 const isUserChoice = letter === selected
 
-                let bg = '#fafafa'
-                let border = '2px solid #e2e8f0'
-                let color = '#2d3748'
+                let bg = '#efede6'
+                let border = '2px solid transparent'
+                let shadow = '4px 4px 9px #d4cebd, -4px -4px 9px #ffffff'
+                let color = '#26342e'
                 let fontWeight = 400
                 let icon = null
 
@@ -179,7 +180,8 @@ export default function ExamScreen({ exam, user, onFinish, onHome }) {
                     icon = '✗'
                   }
                 } else if (isUserChoice) {
-                  bg = '#EBF3FB'; border = `2px solid ${BLUE}`; color = BLUE; fontWeight = 600
+                  bg = '#efede6'; border = '2px solid rgba(201,162,39,0.8)'; color = BLUE; fontWeight = 600
+                  shadow = 'inset 6px 6px 12px #d4cebd, inset -6px -6px 12px #ffffff'
                 }
 
                 return (
@@ -189,7 +191,7 @@ export default function ExamScreen({ exam, user, onFinish, onHome }) {
                     disabled={revealed}
                     style={{
                       display: 'flex', alignItems: 'center', gap: 14,
-                      padding: '13px 16px', borderRadius: 10, border, background: bg,
+                      padding: '13px 16px', borderRadius: 18, border, background: bg, boxShadow: revealed ? 'none' : shadow,
                       cursor: revealed ? 'default' : 'pointer',
                       textAlign: 'left', fontSize: 15, color, fontWeight,
                       transition: 'all 0.18s',
@@ -197,8 +199,9 @@ export default function ExamScreen({ exam, user, onFinish, onHome }) {
                   >
                     <span style={{
                       width: 30, height: 30, borderRadius: '50%', flexShrink: 0,
-                      background: revealed ? (isCorrectChoice ? '#4CAF50' : isUserChoice ? '#ef5350' : '#e2e8f0') : (isUserChoice ? BLUE : '#e2e8f0'),
-                      color: revealed ? (isCorrectChoice || isUserChoice ? '#fff' : '#718096') : (isUserChoice ? '#fff' : '#718096'),
+                      background: revealed ? (isCorrectChoice ? '#4CAF50' : isUserChoice ? '#ef5350' : '#efede6') : (isUserChoice ? BLUE : '#efede6'),
+                      boxShadow: (revealed && (isCorrectChoice || isUserChoice)) || (!revealed && isUserChoice) ? 'none' : 'inset 3px 3px 7px #d4cebd, inset -3px -3px 7px #ffffff',
+                      color: revealed ? (isCorrectChoice || isUserChoice ? '#fff' : '#5c6761') : (isUserChoice ? '#f4e7c3' : '#12483a'),
                       display: 'flex', alignItems: 'center', justifyContent: 'center',
                       fontWeight: 800, fontSize: icon ? 15 : 13,
                     }}>
@@ -241,9 +244,9 @@ export default function ExamScreen({ exam, user, onFinish, onHome }) {
               </div>
 
               {/* Explanation */}
-              <div style={{ background: '#EBF3FB', border: `1px solid #90CAF9`, borderRadius: 10, padding: '16px 18px', marginBottom: 16 }}>
+              <div style={{ background: '#f6eed6', border: `1px solid #e8c766`, borderRadius: 10, padding: '16px 18px', marginBottom: 16 }}>
                 <div style={{ fontWeight: 700, color: BLUE, fontSize: 13, marginBottom: 6 }}>📖 Explanation</div>
-                <p style={{ color: '#2d3748', fontSize: 14, lineHeight: 1.7, margin: 0 }}>
+                <p style={{ color: '#26342e', fontSize: 14, lineHeight: 1.7, margin: 0 }}>
                   {q.explanation}
                 </p>
               </div>
@@ -254,9 +257,9 @@ export default function ExamScreen({ exam, user, onFinish, onHome }) {
                   onClick={toggleFlag}
                   style={{
                     padding: '11px 16px', borderRadius: 8,
-                    border: `2px solid ${flagged.has(current) ? '#F59E0B' : '#e2e8f0'}`,
+                    border: `2px solid ${flagged.has(current) ? '#F59E0B' : '#dcd6c7'}`,
                     background: flagged.has(current) ? '#FFFBEB' : '#fff',
-                    color: flagged.has(current) ? '#B45309' : '#4a5568',
+                    color: flagged.has(current) ? '#B45309' : '#4a5650',
                     fontWeight: 600, fontSize: 14, cursor: 'pointer',
                   }}
                 >
@@ -279,15 +282,15 @@ export default function ExamScreen({ exam, user, onFinish, onHome }) {
 
           {/* Prompt when no answer selected yet */}
           {!revealed && (
-            <div style={{ textAlign: 'center', color: '#a0aec0', fontSize: 14, padding: '10px 0' }}>
+            <div style={{ textAlign: 'center', color: '#8d948f', fontSize: 14, padding: '10px 0' }}>
               Select an answer to continue
             </div>
           )}
         </div>
 
         {/* Navigator sidebar */}
-        <div className="exam-sidebar" style={{ width: 200, background: '#fff', borderLeft: '1px solid #e2e8f0', padding: '18px 14px', overflowY: 'auto', flexShrink: 0 }}>
-          <div style={{ fontSize: 11, fontWeight: 700, color: '#718096', letterSpacing: 1.5, textTransform: 'uppercase', marginBottom: 12 }}>Navigator</div>
+        <div className="exam-sidebar" style={{ width: 200, background: '#efede6', borderLeft: '1px solid #dcd6c7', padding: '18px 14px', overflowY: 'auto', flexShrink: 0 }}>
+          <div style={{ fontSize: 11, fontWeight: 700, color: '#5c6761', letterSpacing: 1.5, textTransform: 'uppercase', marginBottom: 12 }}>Navigator</div>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(5, 1fr)', gap: 4 }}>
             {questions.map((_, i) => {
               const ans = answers[i]
@@ -296,9 +299,9 @@ export default function ExamScreen({ exam, user, onFinish, onHome }) {
               const isRight = isAnswered && ans === questions[i].answer
               const isFlagged = flagged.has(i)
 
-              let bg = '#fafafa'
-              let border = '2px solid #e2e8f0'
-              let color = '#a0aec0'
+              let bg = '#f4f1e9'
+              let border = '2px solid #dcd6c7'
+              let color = '#8d948f'
 
               if (isCurrent) { bg = BLUE; border = `2px solid ${BLUE}`; color = '#fff' }
               else if (isAnswered) {
@@ -324,7 +327,7 @@ export default function ExamScreen({ exam, user, onFinish, onHome }) {
               )
             })}
           </div>
-          <div style={{ marginTop: 14, display: 'flex', flexDirection: 'column', gap: 5, fontSize: 12, color: '#718096' }}>
+          <div style={{ marginTop: 14, display: 'flex', flexDirection: 'column', gap: 5, fontSize: 12, color: '#5c6761' }}>
             {[
               [BLUE, 'Current'],
               ['#4CAF50', 'Correct'],
@@ -339,13 +342,13 @@ export default function ExamScreen({ exam, user, onFinish, onHome }) {
           </div>
 
           {/* Live score card */}
-          <div style={{ marginTop: 18, background: '#f0f4f8', borderRadius: 10, padding: '12px 14px' }}>
-            <div style={{ fontSize: 11, fontWeight: 700, color: '#718096', marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Score</div>
+          <div style={{ marginTop: 18, background: '#efede6', borderRadius: 10, padding: '12px 14px' }}>
+            <div style={{ fontSize: 11, fontWeight: 700, color: '#5c6761', marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Score</div>
             <div style={{ fontSize: 26, fontWeight: 900, color: answeredCount > 0 && (correctSoFar / answeredCount) >= (exam.practiceOnly ? 0.85 : 0.7) ? '#2e7d32' : '#c62828' }}>
               {answeredCount > 0 ? `${Math.round((correctSoFar / answeredCount) * 100)}%` : '—'}
             </div>
-            <div style={{ fontSize: 12, color: '#718096', marginTop: 2 }}>{correctSoFar}/{answeredCount} correct</div>
-            <div style={{ fontSize: 12, color: '#718096', marginTop: 1 }}>{exam.practiceOnly ? `Drill target: ${PASS_SCORE}/${TOTAL} (85%)` : 'Need 63 to pass'}</div>
+            <div style={{ fontSize: 12, color: '#5c6761', marginTop: 2 }}>{correctSoFar}/{answeredCount} correct</div>
+            <div style={{ fontSize: 12, color: '#5c6761', marginTop: 1 }}>{exam.practiceOnly ? `Drill target: ${PASS_SCORE}/${TOTAL} (85%)` : 'Need 63 to pass'}</div>
           </div>
         </div>
       </div>

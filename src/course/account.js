@@ -36,7 +36,7 @@ function renderStatus() {
 function showGuard(message, actions = []) {
   if (!guard) {
     guard = document.createElement('div'); guard.id = 'account-access-guard'; guard.setAttribute('role','alert');
-    Object.assign(guard.style,{position:'fixed',inset:'0',zIndex:'2147483647',background:'#f5f5f2',display:'flex',alignItems:'center',justifyContent:'center',padding:'24px'});
+    Object.assign(guard.style,{position:'fixed',inset:'0',zIndex:'2147483647',background:'#efede6',display:'flex',alignItems:'center',justifyContent:'center',padding:'24px'});
     document.body.append(guard);
   }
   guard.replaceChildren(); const panel = document.createElement('div'); panel.style.maxWidth = '430px';

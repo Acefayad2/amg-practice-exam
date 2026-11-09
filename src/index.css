@@ -1,38 +1,57 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-body {
-  font-family: 'Inter', sans-serif;
-  background: #f0f4f8;
-  color: #1a202c;
-  min-height: 100vh;
+/* AMG soft theme, matching the AMG Matchup portal and the course pages
+   (public/course/shared/amg-soft.css). Fonts are served from the course assets. */
+@font-face { font-family: "Bodoni Moda"; src: url("/course/assets/fonts/bodoni-moda-latin.woff2") format("woff2"); font-weight: 400 900; font-display: swap; }
+@font-face { font-family: Jost; src: url("/course/assets/fonts/jost-latin.woff2") format("woff2"); font-weight: 100 900; font-display: swap; }
+:root {
+  --nm-bg: #efede6; --nm-light: #ffffff; --nm-dark: #d4cebd;
+  --ink: #0b2e24; --ink-2: #12483a; --text: #26342e; --muted: #5c6761;
+  --gold: #c9a227; --gold-bright: #e8c766; --gold-soft: #f4e7c3; --gold-deep: #7a5e0f;
+  --raise-sm: 4px 4px 9px var(--nm-dark), -4px -4px 9px var(--nm-light);
+  --raise: 8px 8px 16px var(--nm-dark), -8px -8px 16px var(--nm-light);
+  --raise-lg: 18px 18px 40px var(--nm-dark), -18px -18px 40px var(--nm-light);
+  --inset-sm: inset 3px 3px 7px var(--nm-dark), inset -3px -3px 7px var(--nm-light);
+  --emerald: linear-gradient(145deg, #17573f, #0b2e24);
+  --ease: cubic-bezier(.16, 1, .3, 1);
 }
 
+body {
+  font-family: Jost, "Avenir Next", system-ui, sans-serif;
+  background: var(--nm-bg);
+  color: var(--text);
+  min-height: 100vh;
+}
+h1, h2 { font-family: "Bodoni Moda", Didot, Georgia, serif; font-weight: 600; letter-spacing: -.01em; }
+
 button { cursor: pointer; font-family: inherit; }
+button:focus-visible, a:focus-visible, input:focus-visible { outline: 3px solid rgba(201, 162, 39, .65); outline-offset: 3px; }
 
 a { color: inherit; }
 .app-shell, .practice-home { min-height: 100vh; }
 .practice-home { display:flex; flex-direction:column; align-items:center; justify-content:center; padding:48px 20px 36px; }
-.practice-hero { max-width:650px; margin-bottom:36px; text-align:center; }
-.practice-eyebrow, .track-label { color:#1f4e79; font-size:12px; font-weight:800; letter-spacing:2.4px; text-transform:uppercase; }
-.practice-hero h1 { margin:8px 0 12px; color:#1f4e79; font-size:clamp(34px,6vw,48px); line-height:1.05; }
-.practice-hero p, .practice-track p { color:#4a5568; font-size:16px; line-height:1.6; }
-.practice-tracks { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:24px; width:min(100%,920px); }
-.practice-track { display:flex; flex-direction:column; gap:22px; padding:32px; border:2px solid #d7e6f5; border-radius:18px; background:#fff; box-shadow:0 4px 24px rgba(20,54,84,.08); }
-.practice-track h2 { margin:10px 0 8px; color:#1a202c; font-size:23px; line-height:1.25; }
-.health-track { border-color:#1f4e79; }
-.track-facts { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:8px; }
-.track-facts div { padding:10px 12px; border-radius:8px; background:#ebf3fb; }
-.track-facts dt { margin-bottom:3px; color:#4a5568; font-size:11px; font-weight:700; }
-.track-facts dd { color:#1f4e79; font-size:16px; font-weight:800; }
-.track-note { padding:11px 14px; border:1px solid #ffe082; border-radius:8px; background:#fff8e1; color:#6d5200; font-size:13px; line-height:1.5; }
-.track-actions { display:flex; flex-direction:column; gap:10px; margin-top:auto; }
-.track-primary, .track-secondary { display:block; width:100%; padding:13px 16px; border-radius:10px; font-size:15px; font-weight:800; text-align:center; text-decoration:none; }
-.track-primary { border:2px solid #1f4e79; background:#1f4e79; color:#fff; }
-.track-secondary { border:2px solid #1f4e79; background:#ebf3fb; color:#1f4e79; }
-.track-primary:hover, .track-secondary:hover { opacity:.86; }
-.track-primary:focus-visible, .track-secondary:focus-visible, .track-link:focus-visible { outline:3px solid #f4b942; outline-offset:3px; }
-.track-link { padding:4px; color:#1f4e79; font-size:14px; font-weight:700; text-align:center; }
-.practice-footer { margin-top:36px; color:#718096; font-size:13px; text-align:center; }
+.practice-hero { max-width:650px; margin-bottom:40px; text-align:center; }
+.practice-eyebrow, .track-label { color:var(--gold-deep); font-size:12px; font-weight:600; letter-spacing:.2em; text-transform:uppercase; }
+.practice-hero h1 { margin:10px 0 12px; color:var(--ink); font-size:clamp(34px,6vw,48px); line-height:1.08; }
+.practice-hero p, .practice-track p { color:var(--muted); font-size:16.5px; line-height:1.6; }
+.practice-tracks { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:28px; width:min(100%,920px); }
+.practice-track { display:flex; flex-direction:column; gap:22px; padding:34px; border:0; border-radius:32px; background:var(--nm-bg); box-shadow:var(--raise-lg); }
+.practice-track h2 { margin:10px 0 8px; color:var(--ink); font-size:26px; line-height:1.2; }
+.health-track { box-shadow:var(--raise-lg), 0 0 0 2px rgba(201, 162, 39, .55); }
+.track-facts { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:12px; }
+.track-facts div { padding:12px 14px; border-radius:18px; background:var(--nm-bg); box-shadow:var(--inset-sm); }
+.track-facts dt { margin-bottom:3px; color:var(--muted); font-size:11.5px; font-weight:600; letter-spacing:.06em; text-transform:uppercase; }
+.track-facts dd { color:var(--ink); font-size:17px; font-weight:600; }
+.track-note { padding:12px 16px; border:0; border-radius:16px; background:var(--nm-bg); box-shadow:var(--inset-sm); color:var(--gold-deep); font-size:13.5px; line-height:1.5; }
+.track-actions { display:flex; flex-direction:column; gap:14px; margin-top:auto; }
+.track-primary, .track-secondary { display:flex; align-items:center; justify-content:center; width:100%; min-height:54px; padding:13px 18px; border:0; border-radius:18px; font-size:16px; font-weight:600; text-align:center; text-decoration:none; transition:box-shadow .2s var(--ease), transform .15s var(--ease); }
+.track-primary { background:var(--emerald); color:var(--gold-soft); box-shadow:6px 6px 14px rgba(11, 46, 36, .28), -6px -6px 14px var(--nm-light); }
+.track-primary:active { transform:translateY(1px); box-shadow:inset 3px 3px 8px rgba(0, 0, 0, .35); }
+.track-secondary { background:var(--nm-bg); color:var(--ink-2); box-shadow:var(--raise); }
+.track-secondary:hover { box-shadow:var(--raise-sm); }
+.track-secondary:active { box-shadow:var(--inset-sm); }
+.track-link { padding:4px; color:var(--ink-2); font-size:14.5px; font-weight:600; text-align:center; text-decoration-color:rgba(201, 162, 39, .75); text-underline-offset:4px; }
+.practice-footer { margin-top:40px; color:var(--muted); font-size:13px; text-align:center; }
 .route-message { padding:32px; font-family:system-ui,sans-serif; }
 
 @media (max-width:720px) {

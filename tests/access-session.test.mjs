@@ -149,8 +149,8 @@ test('missing configured access code cannot create a gate', async t => {
 test('Edge uses the same signed session; exact login assets stay public while lesson data stays gated and uncached', async t => {
   env(t); let next = 0;
   const context = { next: async () => { next++; return new Response('content', { headers: { 'Cache-Control': 'public, max-age=3600' } }); } };
-  for (const path of ['/course/assets/amg-logo.png', '/course/shared/app.css', '/course/shared/account.css', '/course/shared/account.js', '/course/shared/login.js']) assert.equal((await edge(new Request(SITE + path), context)).status, 200);
-  assert.equal(next, 5);
+  for (const path of ['/course/assets/amg-logo.png', '/course/shared/app.css', '/course/shared/amg-soft.css', '/course/shared/account.css', '/course/shared/account.js', '/course/shared/login.js']) assert.equal((await edge(new Request(SITE + path), context)).status, 200);
+  assert.equal(next, 6);
   for (const path of ['/course', '/course/', '/course/lesson-01/?review=1', '/course/lesson-01/lesson-data.js', '/course/lesson-01/scene-captions.vtt', '/course/assessments/assessment-data.js']) {
     const response = await edge(new Request(SITE + path), context); assert.equal(response.status, 302); assert.equal(response.headers.get('cache-control'), 'private, no-store');
     const target = new URL(response.headers.get('location')); assert.equal(target.origin, SITE); assert.equal(target.pathname, '/login/'); assert.equal(target.searchParams.get('next'), path);
