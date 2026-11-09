@@ -77,7 +77,7 @@ export default function RegisterScreen({ exam, onStart, onBack }) {
           </div>
 
           <div style={{ background: '#EBF3FB', borderRadius: 9, padding: '12px 16px', marginBottom: 24, fontSize: 13, color: '#2d3748' }}>
-            <strong style={{ color: BLUE }}>📊 Score tracking:</strong> {exam.practiceOnly ? 'Your score is shown when you finish. Instructor reporting depends on the configured connection; this screen does not confirm that a score was saved.' : 'Your result is shown when you finish. If instructor reporting is configured, your name, email and result may be submitted, but this screen does not confirm that it was saved. Current practice progress resets if you reload.'}
+            <strong style={{ color: BLUE }}>📊 Score tracking:</strong> {exam.practiceOnly ? 'Your score is shown when you finish. Instructor reporting depends on the configured connection; this screen does not confirm that a score was saved.' : 'Your name, email and result are submitted to AMG for authorized administrators to review. The results screen confirms whether saving succeeded. No result email is sent. Current practice progress resets if you reload.'}
           </div>
 
           <button

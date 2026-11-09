@@ -23,7 +23,7 @@ function classifyTopic(questionText) {
   return 'General Insurance'
 }
 
-export default function ResultsScreen({ exam, results, onRetry, onHome }) {
+export default function ResultsScreen({ exam, results, onRetry, onHome, reportStatus = 'idle', onSaveResult }) {
   const TOTAL = exam.questions.length
   const targetRate = exam.practiceOnly ? 0.85 : 0.7
   const PASS_SCORE = Math.ceil(TOTAL * targetRate)
@@ -78,6 +78,17 @@ export default function ResultsScreen({ exam, results, onRetry, onHome }) {
       </div>
 
       <div style={{ maxWidth: 860, margin: '0 auto', padding: '32px 20px' }}>
+
+        {reportStatus !== 'idle' && (
+          <div role="status" aria-live="polite" style={{ background: '#fff', borderRadius: 12, padding: '16px 20px', marginBottom: 20 }}>
+            {reportStatus === 'saving' && 'Saving your result to AMG… Please keep this page open.'}
+            {reportStatus === 'saved' && 'Your result is saved to AMG for authorized administrators to review.'}
+            {reportStatus === 'failed' && <>
+              Your result is shown below, but it has not been confirmed saved to AMG. Keep this page open and try again.
+              <button type="button" onClick={onSaveResult} style={{ marginLeft: 12 }}>Retry saving result</button>
+            </>}
+          </div>
+        )}
 
         {/* Early fail banner */}
         {earlyFail && (

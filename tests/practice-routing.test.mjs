@@ -76,7 +76,7 @@ test('the root app restores Health without bypassing the Life course entry point
   assert.match(home, /routes\.lifeExams/)
   assert.match(home, /routes\.healthGuide/)
   assert.match(home, /Start Health Practice Exam/)
-  assert.match(registration, /does not confirm that it was saved/)
+  assert.match(registration, /confirms whether saving succeeded/)
   assert.match(registration, /progress resets if you reload/)
   assert.doesNotMatch(registration, /score gets recorded/)
 })
