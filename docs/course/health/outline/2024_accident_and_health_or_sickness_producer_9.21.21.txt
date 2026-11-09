@@ -1,0 +1,674 @@
+                                Accident and Health or Sickness Producer
+                                              Series 20-24
+                                 80 scored questions (plus 10 unscored)
+                                      1-hour 45-minute time limit
+
+
+1.0 Insurance Regulation                                                                      30% (24 items)
+    1.1 Licensing
+        General Provisions and Definitions
+        Purpose
+        Process (Insurance Article Annotated Code- Sec. 10-118(b)(2); Sec. 10-103(c)(1))
+            Initial Licensure Qualifications
+            Examination
+            License fee & application
+        Types of licensees (Insurance Article Annotated Code- Sec. 1-101(u)(1))
+            Producers
+            Advisers
+            Nonresidents
+            Business entities
+            Exceptions
+        Maintenance (Insurance Article Annotated Code- Sec. 10- 211(e)(2)(i); Sec. 10-115;
+         Sec. 10-1-05; Sect. 10- 116(a)(2)(i);))
+            Duration and termination
+            Address and/or name changes
+            Assumed names
+            Requirement to report felony convictions
+            Requirement to report other states actions
+            Continuing education
+        Appointment procedures (Insurance Article Annotated Code- Sec. 1-101; Sec. 10- 118;
+         Sec. 27-209)
+            Producer's contract with insurer versus producer's appointment with insurer
+            Producer's appointment versus agency's appointment
+            Solicitation prior to appointment
+            Appointment requirement after becoming licensed
+            Acknowledgment of appointment/notice to producer
+            Requirement to cease solicitation
+            Termination of appointment/notice to producer
+            Termination of license without active appointment
+        Disciplinary actions (Insurance Article Annotated Code- Sec. 1-301; Sec. 10- 126;
+        Sec. 27-202)
+            Probation, suspension, revocation or refusal to issue or renew
+            Cease and desist order
+            Penalties
+            Hearings/Notice of Hearings
+        Fraud (Insurance Article Annotated Code- Sec. 27- 216(a)(1)(i); Sec. 2-401)
+    1.2 State regulation
+        Maryland Insurance Administration's general duties and powers (Insurance Article
+        Annotated Code- Sec. 2-102(a); Sec. 2-103(a)(4); Sec. 2-204(b)(1); Sec. 14- 404,
+        16-601; Sec. 1- 301; Sec. 2-101)
+        Producer regulation (Insurance Article Annotated Code- Sec. 27-209; Sec. 10-105;
+         COMAR- Sec. 31.03.03)
+            Acting for an unlicensed insurer
+            Record retention
+
+
+                                                              1
+         Activities of unlicensed individuals
+         Payment and sharing of commissions
+         Charging of fees
+         Illegal compensation; exceptions
+         Fiduciary capacity
+         Responsibility of trust accounts
+     Unfair trade practices (Insurance Article Annotated Code- Sec. 27-304 Sec. 27-213;
+      Sec. 27-305(a); Sec. 27-504(b)(1))
+         Misrepresentation
+         False advertising
+         Defamation
+         Notice of Adverse Underwriting Decisions
+         False statements and entries
+         Rebating
+         Twisting
+         Referrals
+     Insurance information and privacy protection
+1.3 Providers
+     Types of Providers
+         Insurers (Annotated Code- Sec. 1-101)
+         Non Profits Health Service Plans (Insurance Article Annotated Code-
+           Sec. 14-101 and 14- 102)
+         Health Maintenance Organizations (HMOs) (COMAR Sec. 31.12.07.02(B)(3);
+            Health General Article Annotated Code-Title 19 Subtitle 7- Sec. 19-701;
+            Sec. 19-705)
+1.4 Plan requirements
+     Eligibility requirements
+         Dependent child age limit
+         Coverage for adopted children
+         Newborn child coverage
+         Medical child support coverage
+         Intellectual disability and physical handicap dependent coverage
+     Mandated or Required Offers (Insurance Article Annotated Code- Sec. 15-407, 15- 408,
+      15-409; Sec. 15-801, 15-802, 15-810, 15-839)
+     Mandated or Required Benefits (COMAR Sec. 31.10.06.08(B)(12); Insurance Article
+      Annotated Code- Sec. 15-804(3); Sec. 15- 802, 15-838, 15- 841)
+     Other Requirements
+     Small Employer Health Insurance (Insurance Article Annotated Code- Sec. 15-1204
+      (special note)(b); Sec. 15-1205; Sec. 15-1208(C); Sec. 15- 1201(e))
+     Medicare Supplement Insurance (Insurance Article Annotated Code- Sec. 15-901;
+      Sec. 15-906; Sec. 15-909; Sec. 15-910)
+         Purpose and Definitions
+         Minimum Standards and Provisions
+         Eligibility
+         Disclosure and Marketing
+      Maryland Health Benefit Exchange
+         SHOP vs. Individual Exchange
+         Open Enrollment/Special Enrollment
+         Employer Choice Options in SHOP Exchange
+         Mandated Referrals
+1.5 Insurance for Senior Citizens and Special Needs Individuals
+     Maryland Long-Term Care (LTC) regulations and required provisions (Tax General
+      Article 10-710 - Sec. 10-718; Insurance Article Annotated Code- Sec. 18-101;
+      Sec. 18- 104; Sec. 18-105)
+         Standards for marketing
+         Advertising
+
+                                                          2
+           Consumer guide
+           Outline of coverage
+           Suitability including personal worksheet
+           Right to return (free look)
+           Replacement
+           Renewal considerations
+           Continuation of benefits
+           Required disclosure provisions
+           Incontestability
+           Inflation protection
+           Unintentional lapse
+           Pre-existing conditions
+           Nonforfeiture benefit
+           Benefit triggers
+        Long-Term Care (LTC)Insurance
+           Deductibility of Premiums for LTC Insurance for State Income Tax Purposes
+        Maryland Medicare Supplement regulations and required provisions
+           Standards for marketing
+           Advertising
+           Appropriateness of recommended purchase and excessive insurance
+           Buyer's guide
+           Outline of coverage
+           Right to return (free look)
+           Replacement
+           Prohibited policy provisions
+           Minimum benefit standards
+           Required disclosure provisions
+           Pre-existing conditions
+           Permitted compensation
+           Guaranteed issue for eligible persons
+           Continuation and conversion requirements
+           Medicare SELECT
+
+2.0 General Insurance                                                                  9% (7 items)
+    2.1 Concepts
+        Risk management key terms
+            Risk
+            Exposure
+            Hazard
+            Peril
+            Loss
+        Methods of handling risk
+            Avoidance
+            Retention
+            Sharing
+            Reduction
+            Transfer
+        Elements of insurable risks
+        Adverse selection
+        Law of large numbers
+        Reinsurance
+    2.2 Insurers
+        Types of insurers
+            Stock companies
+            Mutual companies
+
+
+                                                            3
+         Fraternal benefit societies
+         Self insurers
+    Private versus government insurers
+    Admitted versus nonadmitted insurers
+    Domestic, foreign and alien insurers
+    Financial status (independent rating services) and operating results
+    Marketing (distribution) systems
+2.3 Producer and general rules of agency
+    Types
+        Captive
+        Independent
+    Insurer as principal
+    Producer of insurer
+    Authority and powers of producers
+        Express
+        Implied
+        Apparent
+    Responsibilities to the applicant/insured
+2.4 Contracts
+    Elements of a legal contract
+        Offer and acceptance
+        Consideration
+        Competent parties
+        Legal purpose
+    Distinct characteristics of an insurance contract
+        Contract of adhesion
+        Aleatory contract
+        Personal contract
+        Unilateral contract
+        Conditional contract
+    Legal interpretations affecting contracts
+        Ambiguities in a contract of adhesion
+        Reasonable expectations
+        Indemnity
+        Utmost good faith
+        Representations/misrepresentations
+        Warranties
+        Concealment
+        Fraud
+        Waiver and estoppel
+2.5 Federal regulation
+    Fair Credit Reporting Act (15 USC 1681–1681d)
+    Fraud and false statements (18 USC 1033, 1034)
+    Employee Retirement Income Security Act (ERISA)
+         Applicability
+         Fiduciary responsibilities
+         Reporting and disclosure
+    COBRA
+    Continuation
+    ACA-Related Federal Market Reforms
+           Definitions
+                 Individual health insurance coverage
+           Dependent coverage
+           Lifetime and annual limits
+           Restrictions relating to premium rates
+           Essential health benefits
+
+                                                              4
+             Waiting periods
+    2.6 Industry regulation
+        National Association of Insurance Commissioners (NAIC)
+
+3.0 Health Insurance Basics                                           11% (9 items)
+    3.1 Definitions of perils
+        Accidental injury
+        Sickness
+    3.2 Principal types of losses and benefits
+        Loss of income from disability
+        Medical expense
+        Dental expense
+        Long-term care expense
+        Vision
+        Prescription
+        AD&D (Accidental Death and Dismemberment)
+        Specified Disease
+    3.3 Classes of health insurance policies
+        Individual versus group
+        Private versus government
+        Limited versus comprehensive
+    3.4 Limited policies
+        Limited perils and amounts
+        Required notice to insured
+        Types of limited policies
+            Accident-only
+            Specified (dread) disease
+            Hospital indemnity (income)
+            Credit disability
+            Blanket insurance (teams, passengers, other)
+            Prescription drugs
+            Vision care
+            Critical illness (specified conditions)
+            Short-term medical
+    3.5 Common exclusions from coverage
+        Pre-existing conditions
+        Intentionally self-inflicted injuries
+        War or act of war
+        Elective cosmetic surgery
+        Conditions covered by workers compensation
+        Government plans
+        Participation in a felony or illegal occupation
+    3.6 Producer responsibilities in individual health insurance
+        Marketing requirements
+            Advertising
+            Prohibited Advertising of Life and Health Insurance
+            Maryland Life and Health Insurance Guaranty Corporation
+            Sales presentations
+        Field underwriting
+            Nature and purpose
+            Application procedures
+            Requirements at delivery of policy
+        Errors and Omissions
+        Notification of Medicare eligibility
+    3.7 Individual underwriting by the insurer
+        Underwriting Criteria
+
+                                                            5
+        Sources of underwriting information
+            Application
+            Producer report
+            Attending physician statement
+            Investigative consumer (inspection) report
+            Medical Information Bureau (MIB)
+            Medical examinations and lab tests (including HIV consent)
+        Unfair discrimination
+        Discrimination against victims of domestic violence
+        Genetic information privacy
+        Classification of risks
+            Preferred
+            Standard
+            Substandard
+            Declined
+    3.8 Considerations in replacing health insurance
+        Pre-existing conditions
+        Pre-existing condition exclusion
+        Benefits, limitations and exclusions
+        Underwriting requirements
+
+4.0 Individual Health Insurance Policy General Provisions                8% (6 items)
+    4.1 Uniform required provisions
+        Entire contract; changes
+        Time limit on certain defenses
+        Grace period
+        Reinstatement
+        Notice of claim
+        Claim forms
+        Proofs of loss
+        Time of payment of claims
+        Payment of claims
+        Physical examinations and autopsy
+        Legal actions
+        Change of beneficiary
+        Cancellation by insured
+    4.2 Uniform optional provisions
+        Change of occupation
+        Misstatement of age
+        Other insurance in this company
+        Insurance with other companies
+             Expense-incurred basis
+             Other benefits
+        Relation of Earnings to Insurance
+        Unpaid premium
+        Cancellation by company
+        Conformity with state statutes
+        Illegal occupation
+        Intoxicants and narcotics
+    4.3 Other general provisions
+        Right to examine (free look)
+        Insuring clause
+        Consideration clause
+        Renewability clause
+             Noncancelable
+             Guaranteed renewable
+
+                                                              6
+             Conditionally renewable
+             Renewable at option of insurer
+             Nonrenewable (cancelable, term)
+        Interest on claim proceeds
+        Military suspension provision
+
+5.0 Disability Income and Related Insurance                       9% (7 items)
+    5.1 Qualifying for disability benefits
+        Inability to perform duties
+            Own occupation
+            Any occupation
+        Pure loss of income (income replacement contracts)
+        Presumptive disability
+        Requirement to be under physician care
+    5.2 Individual disability income insurance
+        Basic total disability plan
+            Income benefits (monthly indemnity)
+            Elimination and benefit periods
+            Waiver of premium benefit
+        Partial Disability Insurance
+            Income Benefits (Monthly Indemnities)
+            Elimination and Benefit Periods
+            Waiver of Premium Benefit
+        Coordination with Social Insurance
+            Additional monthly benefit (AMB)
+            Social insurance supplement (SIS)
+            Occupational versus nonoccupational coverage
+        At-work benefits
+            Partial disability benefit
+            Residual disability benefit
+        Other provisions affecting income benefits
+            Cost of living adjustment (COLA) rider
+            Future increase option (FIO) rider
+            Annual renewable term rider
+            Relation of earnings to insurance
+            Change of occupation
+        Other cash benefits
+            Accidental death and dismemberment
+            Rehabilitation benefit
+            Medical reimbursement benefit (nondisabling injury)
+        Refund provisions
+            Return of premium
+            Cash value benefit
+        Exclusions
+        Waiver of Premium
+    5.3 Unique aspects of individual disability underwriting
+        Occupational considerations
+        Benefit limits
+        Policy issuance alternatives
+    5.4 Group disability income insurance
+        Group versus individual plans
+        Short-term disability (STD)
+        Long-term disability (LTD)
+    5.5 Business disability insurance
+        Key employee (partner) disability income
+        Business overhead expense policy
+
+                                                              7
+        Business Disability buyout policy
+    5.6 Social Security disability
+        Qualification for disability benefits
+        Definition of disability
+        Waiting period
+        Disability income benefits
+    5.7 Workers compensation
+        Eligibility
+        Benefits
+
+6.0 Medical Plans                                                          14% (11 items)
+    6.1 Medical plan concepts
+        Fee-for-service basis versus prepaid basis
+        Prepaid Basis
+        Specified coverages versus comprehensive care
+        Comprehensive Care
+        Benefit schedule versus usual/reasonable/customary charges
+        Usual - Reasonable - Customary Charges
+        Any provider versus limited choice of providers
+        Limited Choice of Providers
+        Insureds versus subscribers/participants
+    6.2 Types of providers and plans
+        Insurers
+        Nonprofits Health Service Plans
+        Major medical insurance (insurers)
+            Characteristics
+            Common limitations
+            Common exclusions from coverage
+            Deductibles
+            Coinsurance feature
+            Stop-loss feature
+            Maximum benefits
+        Fixed Indemnity
+        Health services plans
+            Definitions
+            Plans offered
+            Other services
+            Qualified providers
+            Choice of provider or pharmacy
+            Provider panels
+            Disclosure of benefits
+            Subscribers
+        Health maintenance organizations (HMOs)
+            Combined health care delivery and financing
+            Limited service area/out of area benefits
+            Limited choice of providers
+            Gatekeeper concept
+            Copayments
+            Prepaid basis
+            Preventive care services
+            Primary care physician versus referral (specialty) physician
+            Emergency care
+            Hospital services
+            Other basic services
+            Subscribers
+        Preferred provider organizations (PPOs)
+
+                                                                 8
+             General characteristics
+             Open panel or closed panel
+        Point-of-service (POS) plans
+             Nature and purpose
+             Out-of-network provider access (open-ended HMO)
+             PCP referral
+             Indemnity plan features
+        TRI-CARE
+    6.3 Cost containment in health care delivery
+        Cost-saving services
+             Preventive care
+             Outpatient ambulatory services
+             Alternatives to hospital services
+        Utilization management
+             Prospective review
+             Concurrent review
+        Coordination of Benefits
+    6.4 HIPAA (Health Insurance Portability and Accountability Act) requirements
+        Eligibility
+        Guaranteed issue
+        Pre-existing conditions
+        Creditable coverage
+        Renewability
+    6.5 Health Savings Accounts (HSAs) and Health Reimbursement Accounts (HRAs)
+        Definition
+        Eligibility
+        Contribution limits
+    6.6 Patient Protection and Affordable Care Act
+         Coverage of Children to Age 26
+         Preventative Care
+         Pre-existing Conditions
+         Lifetime and Annual Limits
+         Grandfathered vs. Non-Grandfathered Plans
+         Rescissions
+         Essential Health Benefits
+         Metal Levels
+         SHOP Payment and Billing
+         Internal Appeal and External Review
+         Subsidies/Tax Credits
+         Penalties and Fines
+
+7.0 Group Health Insurance                                                         5% (4 items)
+    7.1 Characteristics of group insurance
+        Group contract
+        Certificate of coverage
+        Experience rating versus community rating
+        Community Rating
+    7.2 Defined groups
+        Employer
+        Creditor
+        Labor union
+        Multiple Employer Trust
+        Association
+        Credit union
+    7.3 Marketing considerations
+        Advertising
+
+                                                        9
+        Regulatory jurisdiction/place of delivery
+    7.4 Employer group health insurance
+        Insurer underwriting criteria
+             Characteristics of the group
+             Plan design factors
+             Persistency factors
+             Administrative capability
+        Eligibility for insurance
+             Annual open enrollment
+             Employee eligibility
+             Dependent eligibility
+        Coordination of benefits provision
+        Change of insurance companies or loss of coverage
+             Coinsurance and deductible carryover
+             No-loss no-gain
+             Events that terminate coverage
+             Reinstatement of Coverage for Military Personnel
+             Notification of Medicare Eligibility
+             Reinstatement of coverage for military personnel
+             Notification of Medicare eligibility
+             Extension of benefits
+             Continuation of coverage under COBRA and Maryland specific rules
+             Conversion privilege
+        Continuation of Coverage
+    Special Enrollment Periods
+    Minimizing Adverse Selection
+    7.5 Small employer medical plans
+        Definition of small employer
+        Availability of coverage
+        Disclosure of coverage provisions
+        Enrollment eligibility
+        Renewability
+
+8.0 Dental Insurance                                                            1% (1 item)
+    8.1 Types of dental treatment
+        Diagnostic and preventive
+        Restorative
+        Oral surgery
+        Endodontics
+        Periodontics
+        Prosthodontics
+        Orthodontics
+    8.2 Indemnity plans
+        Choice of providers
+        Scheduled versus nonscheduled plans
+        Benefit categories
+            Diagnostic/preventive services
+            Basic services
+            Major services
+        Deductibles and coinsurance
+        Combination plans
+        Exclusions
+        Limitations
+        Predetermination of benefits
+    8.3 Employer group dental expense
+        Integrated deductibles versus stand-alone plans
+
+                                                            10
+        Minimizing adverse selection
+
+9.0 Insurance for Senior Citizens and Special Needs Individuals   9% (7 items)
+    9.1 Medicare
+        Nature, financing and administration
+        Part A — Hospital Insurance
+            Individual eligibility requirements
+            Enrollment
+            Coverages and cost-sharing amounts
+        Part B — Medical Insurance
+            Individual eligibility requirements
+            Enrollment
+            Coverages and cost-sharing amounts
+            Exclusions
+            Claims terminology and other key terms
+        Part C — Medicare Advantage
+        Part D — Prescription Drug Insurance
+    9.2 Medicare supplement insurance
+        Purpose
+        Open enrollment
+        Rating of Medicare supplement plans
+            Attained age
+            Issue age
+            Community rated
+        Standardized Medicare supplement plans
+            Core benefits
+            Additional benefits
+            High deductible plans
+
+    9.3 Other options for individuals with Medicare
+        Employer group health plans
+            Disabled employees
+            Employees with kidney failure
+            Individuals age 65 and older
+        Medicaid
+            Eligibility
+            Benefits
+    9.4 Long-term care (LTC) policies
+        LTC, Medicare and Medicaid compared
+        Eligibility for benefits
+        Levels of care
+            Skilled care
+            Intermediate care
+            Custodial care
+            Home health care
+            Adult day care
+            Respite care
+        Benefit periods
+        Benefit amounts
+        Optional benefits
+            Inflation Protection
+            Nonforfeiture
+            Guarantee of insurability
+            Return of premium
+        Qualified and Nonqualified
+        Exclusions
+
+                                                       11
+         Underwriting Considerations
+         Partnership
+         Qualified LTC plans
+         Deductibility of premiums for LTC insurance for state income tax purposes
+         Exclusions
+         Underwriting considerations
+    9.5 Interaction with Other Coverage
+         Medicare
+         Medicaid
+         Medical Insurance
+
+10.0 Federal Tax Considerations for Health Insurance                                              5% (4 items)
+    10.1 Personally-owned health insurance
+        Disability income insurance
+        Medical expense insurance
+        Long-term care insurance
+    10.2 Employer group health insurance
+        Disability income (STD, LTD)
+        Medical and dental expense
+        Long-term care insurance
+        Accidental death and dismemberment
+    10.3 Medical expense coverage for sole proprietors and partners
+    10.4 Business disability insurance
+        Key person disability income
+        Business overhead expense
+        Business Disability Buyout
+    10.5 Health Savings Accounts (HSAs), Health Reimbursement Accounts (HRAs), and Flexible Spending Accounts
+         (FSAs)
+        Health Savings Accounts
+        Health Reimbursement Accounts
+        Flexible Spending Accounts
+        High Deductible Health Plans
+
+
+
+
+                                                               12
+
