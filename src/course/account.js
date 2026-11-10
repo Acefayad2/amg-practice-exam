@@ -201,7 +201,7 @@ async function hydrate() {
     const result = await response.json();
     if (stamp !== epoch || stopped) return null;
     if (!result.user?.id || typeof result.user.id !== 'string' || !result.records || typeof result.records !== 'object') throw new Error('invalid_account');
-    if (observedUserId && observedUserId !== result.user.id) { stop(); return null; }
+    if (observedUserId && observedUserId !== (result.user.accountId || result.user.id)) { stop(); return null; }
     user = result.user; prefix = 'amg-user:' + encodeURIComponent(user.id) + ':';
     const keys = new Set(Object.keys(result.records).filter(logicalKey));
     if (localAvailable) try { for (let i=0;i<localStorage.length;i++) { const key=localStorage.key(i); if (key?.startsWith(prefix) && logicalKey(key.slice(prefix.length))) keys.add(key.slice(prefix.length)); } } catch (_) { localAvailable=false; }

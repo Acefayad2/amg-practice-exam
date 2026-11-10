@@ -127,6 +127,13 @@ try {
   check(!f.api.canWrite()&&f.redirects[0].startsWith('/login/?next=')&&!b.posts.length,'A code-only gate redirects to learner entry before any progress read or write');
  }
  {
+  const b=backend('agent-a:reset-generation');b.accessUser='agent-a';
+  b.getHook=async()=>response(200,{user:{id:b.user,accountId:'agent-a'},records:{},reporting:{status:'live',target:'dashboard'}});
+  const store=new Map([['amg-user:agent-a:'+KEY,JSON.stringify({userId:'agent-a',value:{position:99},revision:5,dirty:true})]]);
+  const f=fixture(b,{store});await f.api.ready;
+  check(f.api.canWrite()&&f.api.user.id===b.user&&f.api.storage.getItem(KEY)===null&&!b.posts.length,'A deleted learner starts in a fresh namespace without restoring the old browser cache');
+ }
+ {
   const b=backend();b.accessUser='prior-learner';const f=fixture(b);await f.api.ready;
   check(!f.api.canWrite()&&!f.store.has('amg-user:agent-a:'+KEY),'A learner change between access and learning responses cannot hydrate a mixed session');
  }
