@@ -1,0 +1,12 @@
+{
+  "number": 16,
+  "status": "ready",
+  "video": "/course/health/videos/health-16.mp4",
+  "poster": "/course/health/videos/health-16.png",
+  "duration": 222.0,
+  "narrator": {
+    "name": "Zoe"
+  },
+  "format": "Narrated instructional slides",
+  "sha256": "d67a205187fd9b7d215c524f9c46e2616aa5136ba3f608d12c28542770bef0cc"
+}
