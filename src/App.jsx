@@ -123,7 +123,7 @@ export default function App() {
     <div className="app-shell">
       {screen === 'home' && <HomeScreen routes={routes} onStartHealth={selectHealthExam} />}
       {screen === 'register' && (
-        <RegisterScreen exam={healthExam} onStart={startExam} onBack={goHome} />
+        <RegisterScreen mockExamsUrl={routes.healthExams} exam={healthExam} onStart={startExam} onBack={goHome} />
       )}
       {screen === 'exam' && (
         <ExamScreen exam={activeHealthExam} user={user} onFinish={finishExam} onHome={goHome} />

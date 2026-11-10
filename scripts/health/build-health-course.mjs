@@ -10,6 +10,7 @@ import {coverageRows,sources as ledgerSources} from '../../docs/course/health/co
 import {courseHome} from '../course-home.mjs';
 import {renderLesson,renderAuthoredReferences} from '../lesson-ui.mjs';
 import {reviewedAudio} from './reviewed-audio.mjs';
+import {writeHealthMockExams} from './build-health-mock-exams.mjs';
 import {HEALTH_TRACK,courseHeader,courseFooter,icon} from '../course-ui.mjs';
 const root=path.resolve(import.meta.dirname||path.dirname(new URL(import.meta.url).pathname),'../..');
 const src=path.join(root,'docs/course/health');
@@ -58,14 +59,5 @@ write('docs/course/health/coverage-map.json',json(map)+'\n');
 write(outBase+'catalog.json',json({version:1,track:track.id,planned:curriculum.length,lessons:published})+'\n');
 write(outBase+'index.html',courseHome(curriculum,published.map(a=>({...a,answers:lessons.find(l=>l.id===a.id).questions.map(q=>q.answer)})),track));
 
-// Interim practice page: the Health timed forms are still being authored; the public Health practice exam stands in.
-write(outBase+'assessments/index.html',`<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Practice tests · ${esc(track.label)}</title><meta name="description" content="Practice for the Maryland Accident & Health producer exam."><link rel="icon" href="/course/assets/amg-mark.webp"><link rel="stylesheet" href="/course/shared/app.css"><link rel="stylesheet" href="/course/shared/account.css"><script src="/course/shared/account.js" defer></script><link rel="stylesheet" href="/course/shared/home.css"></head><body class="account-loading" data-track="${track.id}">
-<a class="skip" href="#main">Skip to content</a>${courseHeader('assessments',track)}
-<main id="main" class="classroom">
-<div class="classroom-heading"><div><p class="eyebrow">YOUR PRACTICE SPACE</p><h1>Practice tests</h1></div></div>
-<section class="overview" aria-label="Practice options"><div class="continue-card"><div class="continue-content"><p class="eyebrow">AVAILABLE NOW</p><p class="continue-kicker">90 QUESTIONS · ROTATING SET</p><h2>Accident & Health practice exam</h2><a class="primary" href="/practice/health/"><span>Open the practice exam</span>${icon('arrow')}</a><p class="continue-note">Immediate explanations and a full results review. Saved separately from your course progress.</p></div></div>
-<a class="practice-shortcut" href="${track.base}"><span class="practice-symbol">${icon('book')}</span><span class="eyebrow">YOUR CLASSROOM</span><h2>Review a topic</h2><p>Did a question give you trouble? Find that topic in the course, work through the example, and try the lesson quiz.</p><span class="shortcut-action">Browse Health lessons ${icon('arrow')}</span></a></section>
-<details class="course-info" open><summary>About this practice material</summary><div class="course-info-body"><p>AMG original study material · ${esc(track.program)}. Scores describe these practice items; they are not an official exam result or a guarantee of passing.</p><p>The exam has 80 scored questions plus 10 unscored, 1 hour 45 minutes, weighted: Maryland regulation 30%, General insurance 9%, Health basics 11%, Policy provisions 8%, Disability income 9%, Medical plans 14%, Group health 5%, Dental 1%, Seniors and special needs 9%, Federal tax 5%.</p></div></details>
-${courseFooter(track)}</main></body></html>\n`);
+writeHealthMockExams(lessons,track,write);
 console.log(JSON.stringify({track:track.id,authoredLessons:lessons.length,videoPages:published.filter(p=>p.status!=='text').length,textOnlyPages:published.filter(p=>p.status==='text'&&!p.audioSections).length,narratedPages:published.filter(p=>p.audioSections===6).length,originalQuestions:lessons.reduce((n,l)=>n+l.questions.length,0),topicsWithAuthoredTeaching:map.filter(t=>t.teaching.length).length,topicsWithAuthoredQuestions:map.filter(t=>t.questions.length).length,totalTopics:topics.size,sources:ledgerSources.length}));

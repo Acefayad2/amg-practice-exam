@@ -24,19 +24,13 @@ export default function HomeScreen({ routes, onStartHealth }) {
         <section className="practice-track health-track" aria-labelledby="health-track-title">
           <div>
             <span className="track-label">Accident &amp; Health</span>
-            <h2 id="health-track-title">Health course and practice exam</h2>
-            <p>Study the 60-lesson course, then work through 90 practice questions with immediate explanations, scoring and a complete results review.</p>
+            <h2 id="health-track-title">Health course and mock exams</h2>
+            <p>Study the 60 lessons, choose a timed mock exam, or use the untimed practice test for feedback as you go.</p>
           </div>
-          <dl className="track-facts">
-            <div><dt>Questions</dt><dd>90</dd></div>
-            <div><dt>Passing score</dt><dd>70%</dd></div>
-            <div><dt>Minimum</dt><dd>63 correct</dd></div>
-            <div><dt>Format</dt><dd>Untimed</dd></div>
-          </dl>
-          <div className="track-note"><strong>Smart Stop:</strong> If passing becomes mathematically impossible, the exam stops and opens your results.</div>
           <div className="track-actions">
             <a className="track-primary" href={routes.healthCourse}>Enter Health Course →</a>
-            <button className="track-secondary" type="button" onClick={onStartHealth}>Start Health Practice Exam</button>
+            <a className="track-secondary" href={routes.healthExams}>Open Health mock exams</a>
+            <button className="track-link" type="button" onClick={onStartHealth}>Start untimed Health practice</button>
             <a className="track-link" href={routes.healthGuide} download>Download Health Study Guide</a>
           </div>
         </section>
