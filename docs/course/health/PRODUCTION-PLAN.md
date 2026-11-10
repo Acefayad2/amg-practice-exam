@@ -41,7 +41,7 @@ Source: Prometric, *Accident and Health or Sickness Producer, Series 20-24* (`20
 
 Balance checked November 9, 2026: **7,012.3 credits** (Ultra plan).
 
-The completed November 10 narration preflight supersedes the approximate narration figures below: the 60 authored lessons contain **229,404 prepared characters across 360 requests**, for an exact first-pass estimate of **1,546.3 credits** under the documented one-credit-per-150-character rule with per-request rounding. Applying the Life course's 25% repair allowance gives a planning ceiling of **1,932.9 credits** and a projected remaining balance of **5,079.4 credits** before optional photographs. See `NARRATION-PREFLIGHT.md` and the 30 `audio-NN-NN.json` request files. All remain `not_submitted`; **zero credits have been spent**.
+The completed November 10 narration preflight supersedes the approximate narration figures below: the 60 authored lessons contain **229,404 prepared characters across 360 requests**, for an exact first-pass estimate of **1,546.3 credits** under the documented one-credit-per-150-character rule with per-request rounding. Applying the Life course's 25% repair allowance gives a planning ceiling of **1,932.9 credits** and a projected remaining balance of **5,079.4 credits** before optional photographs. See `NARRATION-PREFLIGHT.md` and the 30 `audio-NN-NN.json` request files. The Lessons 01–02 Zoe pilot completed for its exact **46.1-credit** quote, leaving **6,966.2 credits**; the remaining 29 batches are still `not_submitted` pending pilot review.
 
 | Scope | Lessons | Narration (first pass) | With repairs (actual Life rate) | Photos | **Projected total** | Balance after |
 |---|---|---|---|---|---|---|

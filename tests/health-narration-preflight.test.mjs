@@ -27,9 +27,16 @@ test('credit projection rounds each request up to a tenth', () => {
   assert.equal(projectedCredits(151), 1.1);
 });
 
-test('generated preflight is explicitly non-submitted', async () => {
+test('generated preflight records the bounded pilot and leaves later batches unsubmitted', async () => {
   const source = await readFile(new URL('../docs/course/health/NARRATION-PREFLIGHT.md', import.meta.url), 'utf8');
-  assert.match(source, /Status: \*\*not submitted\*\*/);
-  assert.match(source, /spend no Higgsfield credits/);
-  assert.match(source, /lessons 01–02 first/);
+  assert.match(source, /pilot completed for Lessons 01–02; remaining 29 batches not submitted/);
+  assert.match(source, /used \*\*46\.1 credits\*\*/);
+  assert.match(source, /Review the resulting speech before submitting any later batch/);
+});
+
+test('request builder preserves submitted receipts', async () => {
+  const receipt = JSON.parse(await readFile(new URL('../docs/course/health/audio-01-02.json', import.meta.url), 'utf8'));
+  assert.equal(receipt.status, 'pilot_completed_pending_review');
+  assert.equal(receipt.jobs.length, 12);
+  assert.equal(receipt.credits.credits_exact, 46.1);
 });

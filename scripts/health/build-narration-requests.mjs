@@ -142,7 +142,13 @@ function preflightMarkdown(batches, totals) {
   const rows = batches.map((batch) => `| ${String(batch.first).padStart(2, '0')}–${String(batch.last).padStart(2, '0')} | ${batch.characters.toLocaleString('en-US')} | ${batch.credits.toFixed(1)} |`).join('\n');
   const repairProjection = Math.ceil(totals.credits * 1.25 * 10) / 10;
   const balanceAfter = Math.round((BALANCE - repairProjection) * 10) / 10;
-  return `# Health narration preflight\n\nGenerated November 10, 2026. Status: **not submitted**. This document and the request files spend no Higgsfield credits.\n\n## Exact prepared first pass\n\n- 60 lessons, 360 narration blocks, 30 two-lesson batches.\n- Prepared prompt characters: **${totals.characters.toLocaleString('en-US')}**.\n- Seed Audio estimate at one credit per 150 characters, rounded up to one decimal per request: **${totals.credits.toFixed(1)} credits**.\n- Planning allowance with the Life course's approximate 25% repair rate: **${repairProjection.toFixed(1)} credits** before any optional photographs.\n- Recorded balance before submission: **${BALANCE.toFixed(1)} credits**.\n- Projected balance after the repair allowance: **${balanceAfter.toFixed(1)} credits**.\n\nThe preparation changes only the audio prompts. It spells out numbers and symbols and expands ambiguous abbreviations; the on-page lesson text remains unchanged.\n\n## Batch estimates\n\n| Lessons | Prepared characters | First-pass credits |\n|---|---:|---:|\n${rows}\n\n## Voice pilot and submission gate\n\nSubmit lessons 01–02 first using Seed Audio with the Zoe preset in the request file. Confirm that the provider accepts that preset and review the resulting speech before any later batch. If the Zoe preset is rejected, stop rather than silently switching voices; the fallback Life-course route is Gideon narration followed by the separate Zoe voice-change process, which requires a new cost preflight.\n\nFor every submitted request, save the provider job, output URL and actual \`credits_exact\` receipt into the matching \`audio-NN-NN.json\` file. A lesson remains a text edition until reviewed media, captions and a \`media-NN.json\` receipt mark it ready.\n`;
+  const status = totals.submittedBatches
+    ? `pilot completed for Lessons 01–02; remaining ${batches.length - totals.submittedBatches} batches not submitted`
+    : 'not submitted';
+  const spend = totals.submittedBatches
+    ? `The completed pilot used **${totals.actualCredits.toFixed(1)} credits**; the recorded balance after it is **${totals.balanceAfterActual.toFixed(1)} credits**.`
+    : 'This document and the request files spend no Higgsfield credits.';
+  return `# Health narration preflight\n\nGenerated November 10, 2026. Status: **${status}**. ${spend}\n\n## Exact prepared first pass\n\n- 60 lessons, 360 narration blocks, 30 two-lesson batches.\n- Prepared prompt characters: **${totals.characters.toLocaleString('en-US')}**.\n- Seed Audio estimate at one credit per 150 characters, rounded up to one decimal per request: **${totals.credits.toFixed(1)} credits**.\n- Planning allowance with the Life course's approximate 25% repair rate: **${repairProjection.toFixed(1)} credits** before any optional photographs.\n- Recorded balance before the pilot: **${BALANCE.toFixed(1)} credits**.\n- Projected balance after the full repair allowance: **${balanceAfter.toFixed(1)} credits**.\n\nThe preparation changes only the audio prompts. It spells out numbers and symbols and expands ambiguous abbreviations; the on-page lesson text remains unchanged.\n\n## Batch estimates\n\n| Lessons | Prepared characters | First-pass credits |\n|---|---:|---:|\n${rows}\n\n## Voice pilot and submission gate\n\nLessons 01–02 completed with Seed Audio and the Zoe preset for the exact quoted **46.1 credits**. Review the resulting speech before submitting any later batch. If the pilot needs a repair, update only the affected blocks and record the additional receipt rather than regenerating an accepted block.\n\nFor every submitted request, save the provider job, output URL and actual \`credits_exact\` receipt into the matching \`audio-NN-NN.json\` file. A lesson remains a text edition until reviewed media, captions and a \`media-NN.json\` receipt mark it ready.\n`;
 }
 
 export async function buildNarrationRequests() {
@@ -188,13 +194,29 @@ export async function buildNarrationRequests() {
       estimates: [],
       jobs: [],
     };
-    await writeFile(path.join(HEALTH_DIR, batchName(first, last)), `${JSON.stringify(receipt, null, 2)}\n`);
-    batches.push({ first, last, characters, credits });
+    const receiptPath = path.join(HEALTH_DIR, batchName(first, last));
+    let existing = null;
+    try { existing = JSON.parse(await readFile(receiptPath, 'utf8')); }
+    catch (error) { if (error.code !== 'ENOENT') throw error; }
+    const submitted = existing && existing.status !== 'not_submitted';
+    if (submitted) {
+      if (JSON.stringify(existing.params) !== JSON.stringify(params)) throw new Error(`Submitted narration no longer matches ${batchName(first, last)}`);
+    } else {
+      await writeFile(receiptPath, `${JSON.stringify(receipt, null, 2)}\n`);
+    }
+    batches.push({
+      first, last, characters, credits, submitted,
+      actualCredits: existing?.credits?.credits_exact || 0,
+      balanceAfterActual: existing?.credits?.balance_after || BALANCE,
+    });
   }
 
   const totals = {
     characters: batches.reduce((sum, batch) => sum + batch.characters, 0),
     credits: batches.reduce((sum, batch) => sum + batch.credits, 0),
+    submittedBatches: batches.filter(batch => batch.submitted).length,
+    actualCredits: batches.reduce((sum, batch) => sum + batch.actualCredits, 0),
+    balanceAfterActual: Math.min(...batches.filter(batch => batch.submitted).map(batch => batch.balanceAfterActual), BALANCE),
   };
   await writeFile(path.join(HEALTH_DIR, 'NARRATION-PREFLIGHT.md'), preflightMarkdown(batches, totals));
   return { lessons: lessons.length, blocks: lessons.reduce((sum, lesson) => sum + lesson.blocks.length, 0), batches: batches.length, ...totals };

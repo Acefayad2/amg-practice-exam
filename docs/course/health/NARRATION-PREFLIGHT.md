@@ -1,6 +1,6 @@
 # Health narration preflight
 
-Generated November 10, 2026. Status: **not submitted**. This document and the request files spend no Higgsfield credits.
+Generated November 10, 2026. Status: **pilot completed for Lessons 01–02; remaining 29 batches not submitted**. The completed pilot used **46.1 credits**; the recorded balance after it is **6966.2 credits**.
 
 ## Exact prepared first pass
 
@@ -8,8 +8,8 @@ Generated November 10, 2026. Status: **not submitted**. This document and the re
 - Prepared prompt characters: **229,404**.
 - Seed Audio estimate at one credit per 150 characters, rounded up to one decimal per request: **1546.3 credits**.
 - Planning allowance with the Life course's approximate 25% repair rate: **1932.9 credits** before any optional photographs.
-- Recorded balance before submission: **7012.3 credits**.
-- Projected balance after the repair allowance: **5079.4 credits**.
+- Recorded balance before the pilot: **7012.3 credits**.
+- Projected balance after the full repair allowance: **5079.4 credits**.
 
 The preparation changes only the audio prompts. It spells out numbers and symbols and expands ambiguous abbreviations; the on-page lesson text remains unchanged.
 
@@ -50,6 +50,6 @@ The preparation changes only the audio prompts. It spells out numbers and symbol
 
 ## Voice pilot and submission gate
 
-Submit lessons 01–02 first using Seed Audio with the Zoe preset in the request file. Confirm that the provider accepts that preset and review the resulting speech before any later batch. If the Zoe preset is rejected, stop rather than silently switching voices; the fallback Life-course route is Gideon narration followed by the separate Zoe voice-change process, which requires a new cost preflight.
+Lessons 01–02 completed with Seed Audio and the Zoe preset for the exact quoted **46.1 credits**. Review the resulting speech before submitting any later batch. If the pilot needs a repair, update only the affected blocks and record the additional receipt rather than regenerating an accepted block.
 
 For every submitted request, save the provider job, output URL and actual `credits_exact` receipt into the matching `audio-NN-NN.json` file. A lesson remains a text edition until reviewed media, captions and a `media-NN.json` receipt mark it ready.
