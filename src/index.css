@@ -51,6 +51,7 @@ button.track-link { border:0; background:transparent; box-shadow:none; color:#0d
 button.track-link:hover { color:#176149; background:transparent; }
 .exam-question-card p:first-of-type,.register-card h2 { font-family:Georgia,'Times New Roman',serif; color:#103c30; }
 .exam-question-card input,.register-card input { color-scheme:light; }
+.register-card input:focus-visible { outline:3px solid #0d4a39; outline-offset:3px; }
 .exam-topbar,.results-topbar { background:#f8f7f1 !important; color:#103c30 !important; border-bottom:1px solid #dedacd; }
 .exam-topbar button,.results-topbar button { color:#103c30 !important; border-color:#c9c6b9 !important; }
 .exam-topbar>div:first-child>span:first-child,.results-topbar>span:first-child { font-family:Georgia,'Times New Roman',serif; letter-spacing:.13em !important; }
