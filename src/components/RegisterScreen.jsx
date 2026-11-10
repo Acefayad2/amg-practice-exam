@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 
 const BLUE = '#0D4A39'
 
@@ -6,19 +6,32 @@ export default function RegisterScreen({ exam, onStart, onBack, mockExamsUrl }) 
   const [name, setName] = useState('')
   const [email, setEmail] = useState('')
   const [errors, setErrors] = useState({})
+  const nameInput = useRef(null)
+  const emailInput = useRef(null)
+  const invalidInput = useRef(null)
+
+  // Wait until the associated error text has rendered before moving focus.
+  useEffect(() => {
+    invalidInput.current?.focus()
+    invalidInput.current = null
+  }, [errors])
 
   function validate() {
     const e = {}
     if (!name.trim()) e.name = 'Please enter your name.'
     if (!email.trim()) e.email = 'Please enter your email.'
-    else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) e.email = 'Please enter a valid email address.'
+    else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email.trim())) e.email = 'Please enter a valid email address.'
     return e
   }
 
   function handleStart(e) {
     e.preventDefault()
     const errs = validate()
-    if (Object.keys(errs).length > 0) { setErrors(errs); return }
+    if (Object.keys(errs).length > 0) {
+      invalidInput.current = errs.name ? nameInput.current : emailInput.current
+      setErrors(errs)
+      return
+    }
     onStart({ name: name.trim(), email: email.trim().toLowerCase() })
   }
 
@@ -40,41 +53,58 @@ export default function RegisterScreen({ exam, onStart, onBack, mockExamsUrl }) 
 
         <form onSubmit={handleStart} noValidate>
           <div style={{ marginBottom: 18 }}>
-            <label style={{ display: 'block', fontWeight: 600, fontSize: 14, color: '#304940', marginBottom: 6 }}>
+            <label htmlFor="practice-name" style={{ display: 'block', fontWeight: 600, fontSize: 14, color: '#304940', marginBottom: 6 }}>
               Full Name
             </label>
             <input
+              ref={nameInput}
+              id="practice-name"
+              name="name"
               type="text"
+              autoComplete="name"
+              required
+              aria-invalid={Boolean(errors.name)}
+              aria-describedby={errors.name ? 'practice-name-error' : undefined}
               value={name}
               onChange={e => { setName(e.target.value); setErrors(prev => ({ ...prev, name: null })) }}
               placeholder="e.g. John Doe"
               style={{
                 width: '100%', padding: '12px 14px', borderRadius: 9, fontSize: 15,
                 border: `2px solid ${errors.name ? '#ef5350' : '#dedacd'}`,
-                outline: 'none', fontFamily: 'inherit', color: '#103c30',
+                fontFamily: 'inherit', color: '#103c30',
                 boxSizing: 'border-box',
               }}
             />
-            {errors.name && <div style={{ color: '#c62828', fontSize: 13, marginTop: 5, fontWeight: 500 }}>{errors.name}</div>}
+            {errors.name && <div id="practice-name-error" role="alert" style={{ color: '#c62828', fontSize: 13, marginTop: 5, fontWeight: 500 }}>{errors.name}</div>}
           </div>
 
           <div style={{ marginBottom: 28 }}>
-            <label style={{ display: 'block', fontWeight: 600, fontSize: 14, color: '#304940', marginBottom: 6 }}>
+            <label htmlFor="practice-email" style={{ display: 'block', fontWeight: 600, fontSize: 14, color: '#304940', marginBottom: 6 }}>
               Email Address
             </label>
             <input
+              ref={emailInput}
+              id="practice-email"
+              name="email"
               type="email"
+              autoComplete="email"
+              inputMode="email"
+              autoCapitalize="none"
+              spellCheck={false}
+              required
+              aria-invalid={Boolean(errors.email)}
+              aria-describedby={errors.email ? 'practice-email-error' : undefined}
               value={email}
               onChange={e => { setEmail(e.target.value); setErrors(prev => ({ ...prev, email: null })) }}
               placeholder="e.g. danielle@example.com"
               style={{
                 width: '100%', padding: '12px 14px', borderRadius: 9, fontSize: 15,
                 border: `2px solid ${errors.email ? '#ef5350' : '#dedacd'}`,
-                outline: 'none', fontFamily: 'inherit', color: '#103c30',
+                fontFamily: 'inherit', color: '#103c30',
                 boxSizing: 'border-box',
               }}
             />
-            {errors.email && <div style={{ color: '#c62828', fontSize: 13, marginTop: 5, fontWeight: 500 }}>{errors.email}</div>}
+            {errors.email && <div id="practice-email-error" role="alert" style={{ color: '#c62828', fontSize: 13, marginTop: 5, fontWeight: 500 }}>{errors.email}</div>}
           </div>
 
           <div style={{ background: '#f2f0e9', borderRadius: 9, padding: '12px 16px', marginBottom: 24, fontSize: 13, color: '#304940' }}>
