@@ -7,7 +7,7 @@ export function sanitizeReturnTo(value, origin) {
     const path = decodeURIComponent(target.pathname);
     if (target.origin !== base.origin || target.username || target.password || !['https:','http:'].includes(target.protocol)) return fallback;
     if (/[\\%\u0000-\u001f\u007f]/.test(path) || path.split('/').includes('..')) return fallback;
-    if (path !== '/' && path !== '/course' && !path.startsWith('/course/')) return fallback;
+    if (path !== '/' && path !== '/course' && !path.startsWith('/course/') && path !== '/licensing-progress' && path !== '/licensing-progress/') return fallback;
     if (/(?:access|refresh|confirmation|recovery|invite|email_change)_token=/i.test(target.hash)) return fallback;
     return target.pathname + target.search + target.hash;
   } catch (_) { return fallback; }
