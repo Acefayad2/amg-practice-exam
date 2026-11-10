@@ -16,7 +16,7 @@
  function refresh(){
   let count=0,next=null,available=true;const completedByModule={};
   for(const row of rows){
-   let saved=null;try{saved=JSON.parse(storage.getItem('amg-life-lesson-'+row.dataset.lesson+'-v'+row.dataset.version)||'null');}catch(_){available=false;}
+   let saved=null;try{saved=JSON.parse(storage.getItem((document.body.dataset.keyPrefix||'amg-life-lesson-')+row.dataset.lesson+'-v'+row.dataset.version)||'null');}catch(_){available=false;}
    const keys=row.dataset.answers.split(',').map(Number),complete=saved?.complete===true&&(saved.videoEnded===true||saved.transcriptRead===true)&&Array.isArray(saved.answers)&&saved.answers.length===keys.length&&saved.answers.every((a,i)=>a===keys[i]);
    row.classList.toggle('is-complete',complete);row.querySelector('.lesson-state').textContent=complete?'Completed':'Start';
    row.querySelector('.lesson-play').innerHTML=complete?'<svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12 4 4L19 6"/></svg>':'<svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round" aria-hidden="true"><path d="m9 5 11 7-11 7Z"/></svg>';
@@ -34,7 +34,7 @@
    preview.setAttribute('aria-label','Open lesson '+Number(next.dataset.lesson)+': '+next.dataset.title);
    if(!initialized)selected=next.dataset.moduleIndex;
   }else{
-   link.href=preview.href='/course/assessments/';link.querySelector('span').textContent='Explore practice tests';$('continue-label').textContent='ALL LESSONS COMPLETED';$('continue-meta').textContent=rows.length+' OF '+rows.length+' COMPLETE';$('continue-title').textContent='Course complete. Keep your knowledge sharp.';preview.hidden=true;
+   link.href=preview.href=document.body.dataset.assessments||'/course/assessments/';link.querySelector('span').textContent='Explore practice tests';$('continue-label').textContent='ALL LESSONS COMPLETED';$('continue-meta').textContent=rows.length+' OF '+rows.length+' COMPLETE';$('continue-title').textContent='Course complete. Keep your knowledge sharp.';preview.hidden=true;
   }
   initialized=true;filter();
  }

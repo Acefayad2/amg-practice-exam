@@ -3,7 +3,7 @@
   const account = await window.AMG_ACCOUNT?.ready; if (!account) return;
   const storage = account.storage;
   const data = window.AMG_LESSON, total = data.questions.length;
-  const key = 'amg-life-lesson-' + data.id + '-v' + data.version;
+  const key = data.key || 'amg-life-lesson-' + data.id + '-v' + data.version;
   const $ = id => document.getElementById(id);
   const newAttemptId = () => window.crypto?.randomUUID?.() || 'attempt-' + Date.now() + '-' + Math.random().toString(36).slice(2);
   const blank = (practiceAttemptId = newAttemptId()) => ({practiceAttemptId, answers:Array(total).fill(null), firstAnswers:Array(total).fill(null), firstAnswerAt:Array(total).fill(null), attempts:Array(total).fill(0), videoEnded:false, transcriptRead:false, complete:false, position:0, completedAt:null});

@@ -55,7 +55,7 @@ for(const l of lessons){
  }
  for(const [i,q] of (l.questions||[]).entries()){
   questions++;
-  const expectId='L'+l.id+'-'+String(i+1).padStart(2,'0');
+  const expectId='H'+l.id+'-'+String(i+1).padStart(2,'0');
   if(q.id!==expectId)warn(tag+` question ${i+1}: id ${q.id} (expected ${expectId})`);
   if(qids.has(q.id))err(tag+`: duplicate question id ${q.id}`);qids.add(q.id);
   const stem=String(q.prompt||'').toLowerCase().replace(/[^a-z0-9]/g,'');
