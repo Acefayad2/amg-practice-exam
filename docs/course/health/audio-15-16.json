@@ -1,0 +1,206 @@
+{
+  "created": null,
+  "status": "not_submitted",
+  "lessons": [
+    15,
+    16
+  ],
+  "params": [
+    {
+      "index": 1500,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Every state, including Maryland, adopted a model law listing provisions that individual health policies must contain and others they may contain. The required provisions protect the insured and may be worded differently only if the insurer’s version is at least as favorable. Rosa’s disability policy and Marcus’s individual medical plan therefore share the same skeleton. This lesson covers the provisions about the contract and the premium; Lesson sixteen covers the claim clocks; Lesson seventeen covers the optional provisions and renewability. The exam tests these as day counts and rules, so learn each number with its purpose."
+      }
+    },
+    {
+      "index": 1501,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The entire contract provision states that the policy, including any endorsements and the attached application, is the whole agreement. Nothing said outside those documents is part of the contract. No statement by the applicant can be used against her unless it is in the attached application. Changes to the policy are valid only if approved by an executive officer of the insurer and endorsed on or attached to the policy. A producer cannot change the policy or waive any of its provisions. If Theo promises Rosa a benefit the policy does not contain, the promise is not part of the contract, and he has exposed himself to liability."
+      }
+    },
+    {
+      "index": 1502,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "After the policy has been in force for two years, the insurer may no longer use misstatements in the application, other than fraudulent ones, to void the policy or deny a claim. It also may not deny a claim after those two years by calling a condition pre-existing unless the policy excluded it by name. This is the health insurance counterpart to the life insurance incontestability clause. Rosa’s innocent error about a past prescription cannot be raised against her in year three. Deliberate fraud remains contestable, and some policies use the stricter incontestable wording that drops even the fraud exception."
+      }
+    },
+    {
+      "index": 1503,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A grace period gives the insured time to pay a late premium while coverage continues. The uniform provision requires at least seven days for weekly premium policies, ten days for monthly premium policies and thirty-one days for all other modes, such as quarterly or annual. A claim during the grace period is paid, although the insurer may deduct the overdue premium. If the premium is still unpaid when the grace period ends, the policy lapses as of the due date. Marcus pays monthly, so a premium due on the first is late on the eleventh, and his policy lapses if nothing arrives by then."
+      }
+    },
+    {
+      "index": 1504,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A lapsed policy can come back. If the insurer accepts a late premium without requiring a reinstatement application, the policy is reinstated when the premium is accepted. If the insurer requires an application and issues a conditional receipt for the premium, the policy is reinstated when the insurer approves the application, or automatically on the forty-fifth day after the receipt date if the insurer has not disapproved it in writing. A reinstated policy covers accidents immediately but covers sickness only if it begins more than ten days after reinstatement. The insurer and insured otherwise have the same rights they had before the lapse."
+      }
+    },
+    {
+      "index": 1505,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Follow Marcus. His monthly premium is due June one and he forgets. Through June ten he is in the grace period; a June seven injury is covered, less the overdue premium. On June eleven the policy lapses back to June one. On July twenty he sends the premium with a reinstatement application and gets a conditional receipt. The insurer says nothing. On the forty-fifth day after July twenty the policy is reinstated automatically. An accident the next morning is covered; a sickness that begins three days later is not, because sickness must start more than ten days after reinstatement. Every step is a number from this lesson."
+      }
+    },
+    {
+      "index": 1600,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Marcus breaks his wrist on March one. The notice of claim provision requires him to tell the insurer within twenty days of the loss, or as soon as reasonably possible. Notice can be a phone call or a letter to the insurer or its authorized producer, and it need only identify the insured and the policy. Late notice does not defeat the claim if it was given as soon as reasonably possible. For disability income policies that pay for a long period, the insured may be required to give proof of continuing disability at reasonable intervals, usually every six months."
+      }
+    },
+    {
+      "index": 1601,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Once the insurer receives notice, it must send Marcus the forms it wants used for proof of loss within fifteen days. If the forms do not arrive in that time, Marcus may submit proof in any written form describing the occurrence, character and extent of the loss, and the insurer must accept it. The provision prevents an insurer from stalling a claim by withholding paperwork. In practice the clock runs from the insurer’s receipt of notice, and producers often help clients by supplying the forms directly."
+      }
+    },
+    {
+      "index": 1602,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Written proof of loss must be furnished within ninety days after the loss. For a continuing loss such as disability, the ninety days run from the end of each period for which the insurer is liable. If it was not reasonably possible to meet the deadline, proof is accepted as soon as reasonably possible, but no later than one year after it was due, unless the claimant was legally incapacitated. Proof of loss is the medical and financial documentation that lets the insurer decide the claim. It is different from notice, which merely alerts the insurer that a claim is coming."
+      }
+    },
+    {
+      "index": 1603,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "After receiving proof, the insurer must pay claims immediately, which Maryland’s prompt payment law defines as within thirty days for clean claims, with interest at one point five percent a month starting on day thirty-one. Benefits for a continuing loss, such as disability income, must be paid at least monthly. Death benefits go to the named beneficiary or, if none, to the estate. All other benefits go to the insured, or at the insured’s direction to the hospital or physician under an assignment of benefits. A facility of payment clause lets the insurer pay up to a small amount, often one thousand dollars, to a relative who is caring for the insured."
+      }
+    },
+    {
+      "index": 1604,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The insurer may have the insured examined by a physician of its choosing, at its own expense, as often as reasonably necessary while a claim is pending. In case of death it may require an autopsy where the law does not forbid one. The legal actions provision sets the window for suing the insurer: no suit may be filed until sixty days after proof of loss has been given, which gives the insurer time to pay, and no suit may be filed more than three years after proof of loss was required. Inside that window the insured keeps full access to the courts."
+      }
+    },
+    {
+      "index": 1605,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Where a policy pays a death benefit, such as AD and D, the insured may change the beneficiary at any time unless the designation was made irrevocable; the consent of a revocable beneficiary is not needed. Maryland also lists cancellation by the insured among the provisions to know: an insured may cancel an individual policy by written notice, and the insurer returns the unearned premium. Put the clocks together for Marcus: notice within twenty days, forms within fifteen, proof within ninety, payment within thirty, suit between sixty days and three years. Say them in order until they are automatic."
+      }
+    }
+  ],
+  "projected": [
+    {
+      "index": 1500,
+      "characters": 633,
+      "credits": 4.3
+    },
+    {
+      "index": 1501,
+      "characters": 634,
+      "credits": 4.3
+    },
+    {
+      "index": 1502,
+      "characters": 615,
+      "credits": 4.1
+    },
+    {
+      "index": 1503,
+      "characters": 590,
+      "credits": 4
+    },
+    {
+      "index": 1504,
+      "characters": 649,
+      "credits": 4.4
+    },
+    {
+      "index": 1505,
+      "characters": 625,
+      "credits": 4.2
+    },
+    {
+      "index": 1600,
+      "characters": 566,
+      "credits": 3.8
+    },
+    {
+      "index": 1601,
+      "characters": 507,
+      "credits": 3.4
+    },
+    {
+      "index": 1602,
+      "characters": 577,
+      "credits": 3.9
+    },
+    {
+      "index": 1603,
+      "characters": 659,
+      "credits": 4.4
+    },
+    {
+      "index": 1604,
+      "characters": 553,
+      "credits": 3.7
+    },
+    {
+      "index": 1605,
+      "characters": 604,
+      "credits": 4.1
+    }
+  ],
+  "estimates": [],
+  "jobs": []
+}

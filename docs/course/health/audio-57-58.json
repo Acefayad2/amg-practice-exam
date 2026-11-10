@@ -1,0 +1,206 @@
+{
+  "created": null,
+  "status": "not_submitted",
+  "lessons": [
+    57,
+    58
+  ],
+  "params": [
+    {
+      "index": 5700,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Rosa asks whether her disability benefits will be taxed. The answer to almost every health insurance tax question is the same: follow the premium. If the premium was paid with after-tax dollars and never deducted, the benefit is tax-free. If the premium was deducted, excluded from income or paid by an employer, the benefit is taxable, except where Congress made a specific exception, as it did for medical expense reimbursements. Learn that rule, then learn the exceptions. For individually owned coverage the premium is almost always after-tax, so benefits are almost always tax-free; the question is only whether the premium itself can be deducted."
+      }
+    },
+    {
+      "index": 5701,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Rosa pays her own disability premium. She may not deduct it; disability income insurance is not a medical expense for tax purposes, because it replaces income rather than paying for care. In exchange, every dollar of benefit she receives while disabled is free of federal income tax. That is why insurers cap benefits at sixty to seventy percent of gross income: tax-free benefits at that level approach her take-home pay. If Rosa later deducts the premium as a business expense, which the law does not permit for her own coverage, the benefits would become taxable. Keep the premium after-tax and the benefits stay clean."
+      }
+    },
+    {
+      "index": 5702,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Marcus buys an individual medical plan. Its premiums are a medical expense, deductible only if he itemizes and only to the extent his total unreimbursed medical expenses, including premiums, exceed seven point five percent of adjusted gross income. Most people never clear that floor, so most individual medical premiums produce no deduction. Benefits are different: amounts the plan pays to doctors and hospitals, or reimburses to Marcus for medical care, are never taxable income, even in the rare case where he deducted the premium. Premiums paid through the Exchange with a premium tax credit are reconciled on the return; the credit itself is not income."
+      }
+    },
+    {
+      "index": 5703,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Gloria’s tax-qualified long-term care premium is also a medical expense, but with a twist: only an age-based portion counts, indexed each year and rising from a few hundred dollars for people under forty to several thousand for those over seventy, and the seven point five percent floor still applies. Benefits from a qualified policy are tax-free when they reimburse actual costs, and indemnity benefits are tax-free up to a daily per diem limit, indexed yearly, with amounts above it taxable unless they match actual expenses. Maryland adds its own credit of up to five hundred dollars per insured, from Lesson forty-eight. Nonqualified policies carry no assured federal treatment."
+      }
+    },
+    {
+      "index": 5704,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A health savings account is the most tax-favored of the three accounts. Rosa’s contributions are deductible, or excluded from pay if made through payroll; earnings grow untaxed; withdrawals for qualified medical expenses are tax-free; and the balance is hers for life. Nonqualified withdrawals are taxed and, before sixty-five, penalized twenty percent. A health reimbursement arrangement is funded only by the employer, whose contributions are deductible business expenses and are not income to the employee; reimbursements for medical expenses are tax-free. The employee contributes nothing, so there is no deduction to claim and nothing to penalize."
+      }
+    },
+    {
+      "index": 5705,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Marcus’s employer offers a health flexible spending account. He elects to reduce his salary by up to the annual limit, three thousand four hundred dollars for two thousand twenty-six, and that money escapes income and payroll taxes; reimbursements of medical, dental and vision expenses are tax-free. The catch is use-it-or-lose-it: unused funds are forfeited at year end unless the plan allows a limited carryover or a grace period. A high-deductible health plan is simply a medical plan whose premiums follow the medical expense rules above; its tax significance is that it unlocks H S A eligibility. Compare the three: the H S A belongs to the individual, the H R A to the employer, and the F S A to the plan year."
+      }
+    },
+    {
+      "index": 5800,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Priya’s bakery pays the premiums for its short-term and long-term disability plans. Those premiums are a deductible business expense and are not income to the employees. Because the employer paid, benefits are taxable to the employee who collects them. If employees pay the premium themselves with after-tax dollars, benefits are tax-free. If they pay through a cafeteria plan with pre-tax dollars, the result is the same as employer payment: taxable benefits. Where premiums are shared, benefits are taxable in proportion to the employer-paid share. Some employers gross up the premium so employees pay tax on it now and receive tax-free benefits later."
+      }
+    },
+    {
+      "index": 5801,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Employer-paid premiums for group medical and dental plans are deductible to the employer and excluded from employees’ income, and the benefits, payments for care, are tax-free to employees under the medical expense exception. Employee contributions through a cafeteria plan are pre-tax. Employer-paid premiums for tax-qualified group long-term care insurance receive the same treatment: deductible to the employer, excluded from employee income within the normal limits, with tax-free benefits. Long-term care insurance may not, however, be offered through a cafeteria plan or flexible spending account; employees who want to pay for it pay after tax."
+      }
+    },
+    {
+      "index": 5802,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Priya adds group accidental death and dismemberment coverage. For tax purposes A D and D is treated as accident and health insurance, not life insurance, so employer-paid premiums are deductible and are not income to employees, without the fifty thousand dollar coverage threshold that applies to group term life. Benefits are tax-free: a dismemberment payment to the employee and a death benefit to the beneficiary are both received without income tax. Because the premium is modest and the tax result is favorable in every direction, group A D and D is a common addition to small employer benefit packages."
+      }
+    },
+    {
+      "index": 5803,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Rosa works for herself. She cannot exclude an employer’s premium because she has no employer, but Congress gave her the self-employed health insurance deduction: she may deduct one hundred percent of the premiums for medical and dental coverage for herself, her spouse and dependents, and qualified long-term care premiums within the age-based limits, as an adjustment to income without itemizing or meeting the seven point five percent floor. The deduction cannot exceed her net earnings from self-employment and is not available for any month she is eligible for an employer-subsidized plan, her own or a spouse’s. Partners and more-than-two-percent S corporation shareholders use the same deduction."
+      }
+    },
+    {
+      "index": 5804,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The three business policies from Lesson thirty-three follow the master rule. Key employee disability income: the business pays the premium, may not deduct it, and receives the benefit tax-free. Business overhead expense: the business pays and deducts the premium, and the benefit is taxable income to the business, but the overhead it reimburses, rent, utilities and wages, is deductible, so the tax largely nets out. Disability buyout: premiums are not deductible and the benefit used to purchase the disabled owner’s interest is received tax-free; the selling owner then recognizes gain or loss on the sale of her interest under the ordinary rules."
+      }
+    },
+    {
+      "index": 5805,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Line the cases up and the pattern holds. Employer-paid disability benefits are taxable because the premium was deducted and excluded. Employer-paid medical, dental and long-term care benefits are tax-free because Congress exempts payments for care. A D and D premiums and benefits are both favored. The self-employed deduct their premiums above the line while their benefits stay tax-free, the one place the master rule bends for medical coverage. Key person and buyout premiums are nondeductible, so their benefits are tax-free; the overhead policy deducts premiums, so its benefits are taxable. When a question asks about taxation, ask first who paid and whether it was deducted."
+      }
+    }
+  ],
+  "projected": [
+    {
+      "index": 5700,
+      "characters": 652,
+      "credits": 4.4
+    },
+    {
+      "index": 5701,
+      "characters": 622,
+      "credits": 4.2
+    },
+    {
+      "index": 5702,
+      "characters": 659,
+      "credits": 4.4
+    },
+    {
+      "index": 5703,
+      "characters": 683,
+      "credits": 4.6
+    },
+    {
+      "index": 5704,
+      "characters": 652,
+      "credits": 4.4
+    },
+    {
+      "index": 5705,
+      "characters": 717,
+      "credits": 4.8
+    },
+    {
+      "index": 5800,
+      "characters": 654,
+      "credits": 4.4
+    },
+    {
+      "index": 5801,
+      "characters": 651,
+      "credits": 4.4
+    },
+    {
+      "index": 5802,
+      "characters": 608,
+      "credits": 4.1
+    },
+    {
+      "index": 5803,
+      "characters": 702,
+      "credits": 4.7
+    },
+    {
+      "index": 5804,
+      "characters": 650,
+      "credits": 4.4
+    },
+    {
+      "index": 5805,
+      "characters": 681,
+      "credits": 4.6
+    }
+  ],
+  "estimates": [],
+  "jobs": []
+}

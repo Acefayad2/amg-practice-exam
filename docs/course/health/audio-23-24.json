@@ -1,0 +1,206 @@
+{
+  "created": null,
+  "status": "not_submitted",
+  "lessons": [
+    23,
+    24
+  ],
+  "params": [
+    {
+      "index": 2300,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A hospital bed is the most expensive place to receive care, so plans encourage alternatives. Preventive care catches problems early. Outpatient and ambulatory surgery centers handle procedures that once required admission. Home health care, skilled nursing facilities and hospice care let patients leave the hospital sooner. Urgent care centers and telehealth visits replace emergency rooms for minor problems. Plans steer members toward these settings with lower copayments and sometimes refuse to pay for inpatient care that could safely have been given elsewhere. Marcus’s outpatient knee surgery costs a fraction of an overnight stay."
+      }
+    },
+    {
+      "index": 2301,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Utilization management checks whether care is necessary and appropriate. Prospective review happens before care: precertification or prior authorization for a planned admission, surgery or costly drug. Concurrent review happens during care: a nurse reviewer monitors a hospital stay and approves continued days. Retrospective review happens after care, examining claims for appropriateness. Second surgical opinion programs and case management for complex conditions belong to the same family. In Maryland, utilization review decisions that deny care are adverse decisions subject to the grievance and appeal process in Lesson twenty-seven."
+      }
+    },
+    {
+      "index": 2302,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Marcus is covered under his employer’s plan and, as a dependent, under Elena’s. Without a rule, their son’s four thousand dollar emergency visit could be paid twice. Coordination of benefits, a provision in group plans, decides which plan is primary and limits the total paid to one hundred percent of the allowable expense. The primary plan pays as if it were the only coverage. The secondary plan pays the remaining allowable expense up to what it would have paid alone. The family never collects more than the bill, which honors the principle of indemnity."
+      }
+    },
+    {
+      "index": 2303,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The rules are mechanical. A plan covering a person as an employee or subscriber is primary over a plan covering that person as a dependent. For a dependent child of married parents, the birthday rule applies: the plan of the parent whose birthday falls earlier in the calendar year is primary, regardless of age. If the parents share a birthday, the plan in force longer is primary. For divorced or separated parents, the custodial parent’s plan is primary unless a court decree assigns responsibility. A plan covering a person as an active employee is primary over a plan covering a retiree or laid-off employee."
+      }
+    },
+    {
+      "index": 2304,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Marcus was born in September; Elena was born in March. Their son’s emergency visit produces four thousand dollars of allowable charges. Elena’s plan is primary because her birthday is earlier in the year. It pays eighty percent after her five hundred dollar deductible: two thousand eight hundred dollars. Marcus’s plan is secondary. It would have paid three thousand two hundred dollars alone, so it pays the remaining one thousand two hundred dollars, and the family owes nothing. If Marcus’s plan were an individual policy rather than a group plan, coordination of benefits would not apply; the insurance-with-other-companies provision from Lesson seventeen would prorate instead."
+      }
+    },
+    {
+      "index": 2305,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Cost containment and coordination attack waste from two directions. Containment reduces what the whole system spends by moving care to appropriate settings and reviewing its necessity before, during and after. Coordination prevents duplicate payment when two plans cover one person. Both rely on information: precertification requires the member or provider to call ahead; coordination requires the member to disclose other coverage on claim forms. A member who hides a spouse’s plan or skips precertification may face reduced benefits. Producers should explain both duties at enrollment so members use their plans correctly."
+      }
+    },
+    {
+      "index": 2400,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Before one thousand nine hundred ninety-six, a worker who changed jobs could face a new waiting period for conditions she already had, and a small employer could be turned down for coverage because one employee was sick. The Health Insurance Portability and Accountability Act addressed both. It limited pre-existing condition exclusions in group plans and gave credit for prior coverage, required insurers to issue coverage to small employers and renew group coverage, and created special enrollment rights. It also produced the privacy and security rules that govern how health information is handled. The Affordable Care Act later went further, but HIPAA’s framework remains on the exam."
+      }
+    },
+    {
+      "index": 2401,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "HIPAA forbids a group health plan from basing eligibility or premium contributions on health status, medical history, genetic information, disability or claims experience. Everyone in the eligible class gets in on the same terms. HIPAA also created special enrollment periods: an employee who declined coverage may enroll midyear within thirty days after losing other coverage, or after marriage, birth, adoption or placement for adoption. Later law added sixty days for gaining or losing Medicaid or Children’s Health Insurance Program eligibility. Priya’s employee who waived coverage because of a spouse’s plan may join within thirty days if the spouse loses that plan."
+      }
+    },
+    {
+      "index": 2402,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "HIPAA required insurers in the small group market, then defined as two to fifty employees, to accept every small employer that applied and every eligible employee of that employer, regardless of health. It also defined eligible individuals, people leaving group coverage after at least eighteen months with no gap of sixty-three days or more who had exhausted any COBRA, and required that they be able to obtain individual coverage; Maryland met that duty through a state high-risk pool before two thousand fourteen. The Affordable Care Act extended guaranteed issue to all comprehensive individual and small group coverage, so today no one is denied for health reasons."
+      }
+    },
+    {
+      "index": 2403,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Under HIPAA, a group plan could exclude a pre-existing condition, one treated in the six months before enrollment, for no more than twelve months, or eighteen months for a late enrollee. The exclusion was reduced day for day by creditable coverage: prior group, individual, Medicare, Medicaid or other coverage without a break of sixty-three days or more. Plans issued certificates of creditable coverage so the next plan could apply the credit. Pregnancy and newborns adopted within thirty days could not be excluded. The A C A abolished pre-existing condition exclusions in comprehensive plans entirely, so these rules now matter for history and for excepted benefits."
+      }
+    },
+    {
+      "index": 2404,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "HIPAA requires insurers to renew group and individual coverage at the policyholder’s option. Nonrenewal is allowed only for nonpayment of premium, fraud or intentional misrepresentation, failure to meet participation or contribution rules in a group plan, movement outside the service area, or the insurer’s withdrawal from the entire market with one hundred eighty days’ notice. An insurer may not drop Priya’s group because claims ran high. Premiums may still change at renewal within the rating rules. This is the guaranteed renewable clause from Lesson seventeen written into federal law for medical coverage."
+      }
+    },
+    {
+      "index": 2405,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Think of HIPAA as the floor the Affordable Care Act built on. HIPAA said group plans could not pick and choose employees by health, had to credit prior coverage against limited pre-existing exclusions, had to accept small employers and had to renew. The A C A removed pre-existing exclusions and health underwriting from comprehensive coverage altogether and extended guaranteed issue to individuals. HIPAA’s special enrollment rights, renewability rules and privacy protections remain in force unchanged. When a question describes a group plan refusing a sick employee or excluding a condition for twelve months, the answer is that HIPAA, and now the A C A, forbid it."
+      }
+    }
+  ],
+  "projected": [
+    {
+      "index": 2300,
+      "characters": 638,
+      "credits": 4.3
+    },
+    {
+      "index": 2301,
+      "characters": 640,
+      "credits": 4.3
+    },
+    {
+      "index": 2302,
+      "characters": 559,
+      "credits": 3.8
+    },
+    {
+      "index": 2303,
+      "characters": 613,
+      "credits": 4.1
+    },
+    {
+      "index": 2304,
+      "characters": 683,
+      "credits": 4.6
+    },
+    {
+      "index": 2305,
+      "characters": 625,
+      "credits": 4.2
+    },
+    {
+      "index": 2400,
+      "characters": 690,
+      "credits": 4.6
+    },
+    {
+      "index": 2401,
+      "characters": 672,
+      "credits": 4.5
+    },
+    {
+      "index": 2402,
+      "characters": 670,
+      "credits": 4.5
+    },
+    {
+      "index": 2403,
+      "characters": 670,
+      "credits": 4.5
+    },
+    {
+      "index": 2404,
+      "characters": 613,
+      "credits": 4.1
+    },
+    {
+      "index": 2405,
+      "characters": 669,
+      "credits": 4.5
+    }
+  ],
+  "estimates": [],
+  "jobs": []
+}

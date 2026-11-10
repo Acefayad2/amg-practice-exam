@@ -1,0 +1,206 @@
+{
+  "created": null,
+  "status": "not_submitted",
+  "lessons": [
+    37,
+    38
+  ],
+  "params": [
+    {
+      "index": 3700,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Priya’s plan defines who may enroll. Employees must be in an eligible class, typically full-time workers averaging thirty or more hours a week, and must be actively at work when coverage begins. New hires usually serve a probationary, or waiting, period before becoming eligible; federal law caps it at ninety days. When the waiting period ends, the employee has an eligibility period, usually thirty-one days, to enroll without evidence of insurability. An employee who misses it is a late enrollee and may have to wait for the next open enrollment. Part-time employees may be included at the employer’s option under Maryland’s small group rules."
+      }
+    },
+    {
+      "index": 3701,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Eligible dependents include the employee’s spouse and children. Federal law requires coverage of children to age twenty-six; Maryland law separately requires coverage of unmarried child dependents to age twenty-five and extends dependent status to grandchildren in the insured’s court-ordered custody. Newborns are covered from birth and adopted children from placement, with notice and premium due within thirty-one days when an extra premium applies. Children with intellectual or physical disabilities who cannot support themselves remain covered past the age limit with proof. Children named in a medical child support order must be enrolled regardless of enrollment periods."
+      }
+    },
+    {
+      "index": 3702,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Once a year the plan holds an annual open enrollment, when any eligible employee may join or change coverage without a qualifying event. Between open enrollments, HIPAA’s special enrollment periods allow entry after a loss of other coverage, marriage, birth, adoption or placement, if requested within thirty days, and after a change in Medicaid or children’s health program eligibility, within sixty days. Priya’s employee who waived coverage because of her husband’s plan may join within thirty days when he loses his job. Outside these windows the plan may make a late enrollee wait, though it may not exclude conditions."
+      }
+    },
+    {
+      "index": 3703,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Group plans include the coordination of benefits provision from Lesson twenty-three. For an employee covered under two group plans, the plan covering her as an employee is primary. For a dependent child, the birthday rule applies, or the custodial parent’s plan when parents are divorced without a decree. The secondary plan pays the remaining allowable expense up to its own benefit, so payments never exceed the bill. Employers ask about other coverage at enrollment because C O B savings lower the group’s claims. An employee who conceals a spouse’s plan may have claims reprocessed and benefits recovered."
+      }
+    },
+    {
+      "index": 3704,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Every rule above also serves a defensive purpose. Waiting periods and the actively-at-work requirement stop someone from joining the payroll to get treatment for an existing problem. Limited enrollment windows prevent people from buying coverage only when sick and dropping it when well. Participation and contribution rules keep healthy employees in the pool. Employee classes must be defined by conditions of employment, not health. Dependents enroll when the employee does, or at a qualifying event, not at the moment of a diagnosis. Together these tools let the insurer skip individual underwriting and still price the group soundly."
+      }
+    },
+    {
+      "index": 3705,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A new baker starts March one, full time. Her sixty-day waiting period ends April thirty; she has until May thirty-one to enroll herself, her husband and her two children without evidence of insurability. She enrolls on May ten with coverage effective June one. In September her husband loses his job and his coverage; she adds him within thirty days under special enrollment. In December a daughter is born and is covered from birth; she notifies the plan within thirty-one days and pays the added premium. Each step follows a rule in this lesson, and none required a medical question."
+      }
+    },
+    {
+      "index": 3800,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Priya moves her group to a new insurer on July one. Without protection, her employees would face a second deductible in one year. A deductible carryover, or transfer of credit, provision counts expenses applied to the old plan’s deductible toward the new plan’s deductible for the rest of the year, and the same for coinsurance toward the out-of-pocket maximum. The no-loss no-gain rule requires the new carrier to cover employees as the old plan would have, including those currently disabled or hospitalized, so no one loses coverage because of the change and no one gains benefits they lacked before."
+      }
+    },
+    {
+      "index": 3801,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "An employee’s coverage terminates when employment ends or hours fall below the eligible class, when the employee stops paying a required contribution, when the employer terminates the master policy, or when the employee enters the armed forces. A dependent’s coverage ends when the dependent no longer qualifies, for example a child turning twenty-six or a spouse after divorce. Each termination triggers rights: continuation, conversion or special enrollment elsewhere. Maryland requires the certificate to explain these rights, and employers must give notice promptly so that election deadlines can be met."
+      }
+    },
+    {
+      "index": 3802,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "An employee called to active duty may continue group coverage for up to twenty-four months under federal law and, on return, must be reinstated in the plan without a new waiting period or exclusion for conditions other than service-connected injuries, which the military covers. Group certificates also carry notices about Medicare eligibility, because turning sixty-five changes how the plan coordinates: for employers with twenty or more employees the group plan remains primary for active workers, and the employee should weigh Part B enrollment. Extension of benefits continues coverage for a totally disabled employee’s existing condition for a period after the master policy terminates, so a canceled policy does not abandon someone mid-treatment."
+      }
+    },
+    {
+      "index": 3803,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Federal COBRA applies to employers with twenty or more employees. Termination for reasons other than gross misconduct, or reduced hours, allows eighteen months of continuation; disability extends it to twenty-nine months; death, divorce, Medicare entitlement or a child aging out gives dependents thirty-six months. The employer notifies the plan within thirty days, the plan notifies the beneficiary within fourteen days, the beneficiary elects within sixty days and pays the first premium within forty-five days of electing. The premium may be up to one hundred two percent of the full cost. Coverage ends early for nonpayment, new group coverage or the employer dropping all plans."
+      }
+    },
+    {
+      "index": 3804,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Maryland’s own continuation statutes reach group contracts of any size, including those too small for COBRA. After a loss of employment for reasons other than cause, an insured covered for at least three months may continue for up to eighteen months, electing within forty-five days, at no more than the combined employer and employee contribution plus an approved administrative fee. After the insured’s death, a spouse covered at least thirty days and dependent children may continue for eighteen months on the same terms. After divorce, a former spouse covered thirty days may continue until remarriage or other coverage, with the insured paying through payroll deduction unless a court or agreement provides otherwise. Medicare entitlement ends continuation."
+      }
+    },
+    {
+      "index": 3805,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Continuation keeps the group plan for a time; conversion replaces it with an individual policy. Under a conversion privilege, a person whose group coverage ends may buy an individual policy from the same insurer within thirty-one days without evidence of insurability. The individual policy may have different benefits and a higher premium. Maryland’s continuation statutes preserve conversion rights. Since the Affordable Care Act made individual coverage guaranteed issue, conversion matters less for medical plans, but an employee leaving Priya’s bakery still has three doors: Maryland continuation or COBRA, conversion with the carrier, or a special enrollment on Maryland Health Connection within sixty days."
+      }
+    }
+  ],
+  "projected": [
+    {
+      "index": 3700,
+      "characters": 647,
+      "credits": 4.4
+    },
+    {
+      "index": 3701,
+      "characters": 679,
+      "credits": 4.6
+    },
+    {
+      "index": 3702,
+      "characters": 624,
+      "credits": 4.2
+    },
+    {
+      "index": 3703,
+      "characters": 609,
+      "credits": 4.1
+    },
+    {
+      "index": 3704,
+      "characters": 637,
+      "credits": 4.3
+    },
+    {
+      "index": 3705,
+      "characters": 585,
+      "credits": 3.9
+    },
+    {
+      "index": 3800,
+      "characters": 603,
+      "credits": 4.1
+    },
+    {
+      "index": 3801,
+      "characters": 608,
+      "credits": 4.1
+    },
+    {
+      "index": 3802,
+      "characters": 753,
+      "credits": 5.1
+    },
+    {
+      "index": 3803,
+      "characters": 684,
+      "credits": 4.6
+    },
+    {
+      "index": 3804,
+      "characters": 762,
+      "credits": 5.1
+    },
+    {
+      "index": 3805,
+      "characters": 713,
+      "credits": 4.8
+    }
+  ],
+  "estimates": [],
+  "jobs": []
+}

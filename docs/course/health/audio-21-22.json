@@ -1,0 +1,206 @@
+{
+  "created": null,
+  "status": "not_submitted",
+  "lessons": [
+    21,
+    22
+  ],
+  "params": [
+    {
+      "index": 2100,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A health maintenance organization does two things that insurers and hospitals normally do separately. It collects a fixed prepaid amount for each member, and it arranges or directly provides the care those members need. Because it holds the money and runs the care, it has every incentive to keep members healthy and to manage how services are used. An H M O operates in a defined service area; members who travel outside it are generally covered only for emergencies and urgent care. In Maryland an H M O is authorized under the Health-General Article, holds a certificate of authority from the Insurance Commissioner and answers to the Department of Health on quality of care."
+      }
+    },
+    {
+      "index": 2101,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "When Priya’s employee joins the H M O she selects a primary care physician, often called the gatekeeper. The P C P delivers routine and preventive care and decides when a referral to a specialist is needed. Without the referral, specialty care is not covered except for services the plan designates as open access, such as obstetrics and gynecology or, under Maryland law, certain direct-access situations. The gatekeeper model controls costs by making sure specialists see patients who need them. It also means the choice of P C P is the most important decision a member makes."
+      }
+    },
+    {
+      "index": 2102,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "H M O members usually pay a flat copayment per visit or prescription rather than a deductible and coinsurance, and the plan pays the provider the rest. Many H M O plans pay their physicians by capitation: a fixed monthly amount per assigned member, whether that member visits once or ten times. That is the prepaid basis carried down to the provider. Models differ. A staff model employs its physicians; a group model contracts with one medical group; an IPA model contracts with independent physicians who also see other patients; a network model contracts with several groups. All share prepaid financing and limited choice."
+      }
+    },
+    {
+      "index": 2103,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "H M O plans built their reputation on prevention. Annual physicals, immunizations, screenings and well-child visits are covered, often with no copayment, because preventing illness lowers the plan’s costs. Primary care is delivered by the P C P; referral care is delivered by specialists on the P C P’s order. Hospital services, including inpatient admissions and surgery, are covered when authorized and delivered at participating hospitals. Other basic services include diagnostic laboratory and imaging, outpatient surgery, maternity care, mental health and substance use treatment at parity, and prescription drugs. Members are called subscribers or enrollees and hold an evidence of coverage."
+      }
+    },
+    {
+      "index": 2104,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Emergency care is the exception to every network rule. If Priya’s employee is injured on vacation in Ohio, the H M O must cover emergency services without a referral and without regard to the service area, judged by the prudent layperson standard: would a reasonable person believe the symptoms needed immediate attention? Federal and Maryland law require coverage of emergency care at the in-network cost sharing level and protect the member from surprise balance bills. Once stabilized, the member is expected to return to the network for follow-up care, and the H M O may arrange a transfer."
+      }
+    },
+    {
+      "index": 2105,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The exam describes a plan and asks you to name it or to decide a claim. Look for the markers: prepaid premium, a primary care physician who must approve referrals, copayments rather than coinsurance, no coverage out of network except emergencies, a defined service area, members or subscribers rather than insureds. If a question says a member saw a specialist without a referral for a nonemergency, the H M O may deny. If it says the member had chest pain in another state, the H M O must pay. Remember Maryland’s regulatory split: certificate from the Insurance Commissioner, quality oversight from the Department of Health."
+      }
+    },
+    {
+      "index": 2200,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A P P O is a network of hospitals and physicians that have agreed to provide care to plan members at discounted fees. Members may see any provider, but the plan pays a higher share in network and a lower share out of network, and in-network providers accept the allowance as payment in full. There is no gatekeeper; members see specialists without referrals. P P O plans are fee-for-service arrangements: the provider is paid per service at the negotiated rate. Marcus’s employer offers a P P O because it preserves choice while the network discounts hold down premiums."
+      }
+    },
+    {
+      "index": 2201,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Panel describes who may join the network and whom the providers may treat. An open panel P P O or IPA-model H M O contracts with independent providers who also treat patients from other plans, and it admits any qualified provider willing to accept its terms. A closed panel, typical of staff and group model H M O plans, uses providers who serve only that plan’s members. For members, open panels mean more choice and a better chance their current doctor participates. For plans, closed panels mean tighter control over practice patterns. Exclusive provider organizations, or E P O plans, use a P P O-style network but cover nothing out of network except emergencies."
+      }
+    },
+    {
+      "index": 2202,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A point-of-service plan is an H M O with an escape hatch. Inside the network the member uses a primary care physician, obtains referrals and pays copayments, exactly as in an H M O. At the point of service, when care is needed, the member may instead go outside the network, and the plan pays indemnity-style benefits with a deductible and coinsurance, usually leaving the member with higher costs. The P O S design answers the biggest objection to H M O plans, loss of choice, while keeping the gatekeeper for most care. Members should understand that out-of-network use often requires them to file their own claims."
+      }
+    },
+    {
+      "index": 2203,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Priya asks Theo which design her bakery should offer. He frames the trade-off. An H M O costs least and restricts most. A P P O costs more and lets members see specialists anywhere, with incentives to stay in network. A P O S sits between, with a gatekeeper in network and coverage out. An E P O looks like a P P O but pays nothing out of network. The right answer depends on the workforce: employees with established specialists value P P O freedom; younger employees may prefer the H M O premium. Whatever the design, Maryland’s mandated benefits and the federal essential health benefit rules apply."
+      }
+    },
+    {
+      "index": 2204,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "TRICARE is the Department of Defense health program for active duty service members, retirees, National Guard and Reserve members and their families. Its options mirror civilian designs. TRICARE Prime works like an H M O, with a primary care manager, referrals and low out-of-pocket costs, and is mandatory for active duty members. TRICARE Select works like a P P O, allowing self-referral to network providers with cost sharing. TRICARE For Life supplements Medicare for retirees sixty-five and older, paying after Medicare. A private health policy generally excludes care TRICARE furnishes, which is the government plan exclusion you saw in Lesson nine."
+      }
+    },
+    {
+      "index": 2205,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Four clues name the plan. Does the member need a referral for a specialist? Yes points to an H M O or the in-network side of a P O S. Is there coverage out of network? Yes points to a P P O or P O S; no points to an H M O or E P O. Does the member pay copayments or deductible and coinsurance? Copayments lean H M O; coinsurance leans P P O; both appear in a P O S depending on where care was received. Is the payer the Department of Defense? Then it is TRICARE, and its option follows the same referral and network clues."
+      }
+    }
+  ],
+  "projected": [
+    {
+      "index": 2100,
+      "characters": 678,
+      "credits": 4.6
+    },
+    {
+      "index": 2101,
+      "characters": 578,
+      "credits": 3.9
+    },
+    {
+      "index": 2102,
+      "characters": 626,
+      "credits": 4.2
+    },
+    {
+      "index": 2103,
+      "characters": 697,
+      "credits": 4.7
+    },
+    {
+      "index": 2104,
+      "characters": 594,
+      "credits": 4
+    },
+    {
+      "index": 2105,
+      "characters": 626,
+      "credits": 4.2
+    },
+    {
+      "index": 2200,
+      "characters": 570,
+      "credits": 3.8
+    },
+    {
+      "index": 2201,
+      "characters": 667,
+      "credits": 4.5
+    },
+    {
+      "index": 2202,
+      "characters": 617,
+      "credits": 4.2
+    },
+    {
+      "index": 2203,
+      "characters": 602,
+      "credits": 4.1
+    },
+    {
+      "index": 2204,
+      "characters": 655,
+      "credits": 4.4
+    },
+    {
+      "index": 2205,
+      "characters": 522,
+      "credits": 3.5
+    }
+  ],
+  "estimates": [],
+  "jobs": []
+}

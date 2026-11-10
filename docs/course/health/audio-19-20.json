@@ -1,0 +1,206 @@
+{
+  "created": null,
+  "status": "not_submitted",
+  "lessons": [
+    19,
+    20
+  ],
+  "params": [
+    {
+      "index": 1900,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Major medical insurance is the comprehensive plan most people mean by health insurance. It covers a broad range of hospital, surgical, physician, diagnostic, prescription and preventive services, with high or unlimited maximums, in exchange for cost sharing by the insured. Historically it was sold as a supplement over a basic hospital plan or as a comprehensive plan standing alone; today the comprehensive form dominates. Federal law forbids lifetime and annual dollar limits on essential health benefits and caps the insured’s annual out-of-pocket spending. Common exclusions remain: cosmetic surgery, experimental treatment, custodial care, and adult dental and vision."
+      }
+    },
+    {
+      "index": 1901,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A deductible is the amount the insured pays before the plan pays. Most are calendar-year deductibles that reset each January. A per-cause deductible applies to each separate illness or injury instead. Family plans use an individual deductible for each person and a family deductible, often two or three times the individual amount, after which everyone is covered. A carryover provision lets expenses in the last three months of a year count toward next year’s deductible. A common accident provision applies one deductible when several family members are hurt in the same accident. Preventive services are covered before the deductible."
+      }
+    },
+    {
+      "index": 1902,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "After the deductible, the plan and the insured share covered charges by percentage. In an eighty or twenty plan the insurer pays eighty percent and the insured pays twenty percent. Coinsurance is applied to the allowed amount, not to whatever the provider bills, and out-of-network coinsurance is usually higher. Copayments differ from coinsurance: a copayment is a flat dollar amount per visit or prescription, often not subject to the deductible. Coinsurance keeps the insured interested in the cost of care; it also means a large claim can still leave a large bill, which is why the next provision exists."
+      }
+    },
+    {
+      "index": 1903,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A stop-loss provision ends the insured’s coinsurance once out-of-pocket spending reaches a stated limit; after that the plan pays one hundred percent of covered charges for the rest of the year. Federal law requires every comprehensive plan to have an annual out-of-pocket maximum, indexed each year, that includes the deductible, coinsurance and copayments but not premiums or balance bills. Older plans also carried lifetime maximum benefits, such as one million dollars; those are now prohibited for essential health benefits. Excepted-benefit policies may still cap benefits, which is another reason they are not substitutes for major medical."
+      }
+    },
+    {
+      "index": 1904,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Marcus’s plan has a three thousand dollar deductible, eighty or twenty coinsurance and a six thousand dollar out-of-pocket maximum. A hospital stay produces twenty thousand dollars of allowed charges. He pays the first three thousand. Of the remaining seventeen thousand he owes twenty percent, which is three thousand four hundred, for a total of six thousand four hundred. But his out-of-pocket maximum is six thousand, so he pays six thousand and the insurer pays fourteen thousand. If a second claim arrives in December, the plan pays one hundred percent because he has already reached the maximum. The arithmetic is always deductible first, coinsurance second, cap last."
+      }
+    },
+    {
+      "index": 1905,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "When major medical is layered over a basic hospital plan, a corridor deductible sits between them: the basic plan pays first, the insured pays the corridor amount, then major medical pays with coinsurance. An integrated deductible instead counts what the basic plan paid toward the major medical deductible. A comprehensive major medical plan has no basic layer; one deductible and coinsurance structure covers everything. Understand both because exam questions still describe layered plans, while the policies sold today are nearly all comprehensive and must meet the federal rules on essential benefits and out-of-pocket limits."
+      }
+    },
+    {
+      "index": 2000,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A fixed indemnity plan pays a stated dollar amount when a covered event occurs: two hundred dollars per hospital day, seventy-five dollars per physician visit, one thousand five hundred dollars per surgery. The payment is the same whether the bill is small or large, and it goes to the insured unless assigned. Because the benefit is not tied to the actual expense, fixed indemnity is an excepted benefit outside the Affordable Care Act rules, and federal and Maryland law require clear notice that it is not comprehensive coverage. It can soften deductibles or lost wages for Elena’s coworker; it cannot replace her medical plan."
+      }
+    },
+    {
+      "index": 2001,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A nonprofit health service plan is a corporation organized not for profit to provide or pay for health services to its subscribers. Historically, hospital service plans paid hospitals and medical service plans paid physicians, under contracts with those providers. In Maryland they are licensed under Insurance Article Title fourteen and regulated by the Insurance Administration like insurers, with additional obligations tied to their nonprofit mission. Today a service plan may offer indemnity, P P O and H M O products. The legal form, not the product menu, makes it a health service plan."
+      }
+    },
+    {
+      "index": 2002,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Priya’s service plan quote lists several products: a traditional plan that pays providers directly, a P P O with network discounts and an H M O product through an affiliated organization. Service plans also provide what the outline calls other services: wellness programs, nurse lines, disease management and pharmacy benefit administration. Each product carries an evidence of coverage that describes benefits, exclusions and member cost sharing. Maryland mandated benefits apply to service plan contracts just as they apply to insurer policies, so the mental health parity, newborn and dependent rules you will study in Lesson fifty-six bind these plans too."
+      }
+    },
+    {
+      "index": 2003,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The defining feature of a service plan is its contracts with providers. A participating, or qualified, provider agrees to accept the plan’s payment as payment in full for covered services, billing the subscriber only for copayments, deductibles or coinsurance. The list of contracted providers is the provider panel. When a subscriber uses a participating provider, the plan pays the provider directly and there is no balance billing. Nonparticipating providers may be paid at a lower level, and the subscriber may owe the difference. Choice of provider or pharmacy therefore has a price attached."
+      }
+    },
+    {
+      "index": 2004,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Because subscribers depend on the panel, Maryland requires service plans and other carriers to disclose how the plan works: which providers participate, how to find a participating pharmacy, what happens out of network, how referrals and prior authorizations operate, and how to file a grievance or appeal. The evidence of coverage and the provider directory must be accurate and current. A subscriber who relies on a directory listing an in-network physician is protected if the listing was wrong. Theo should walk Priya’s employees through the directory before they pick a plan, because the network is the benefit."
+      }
+    },
+    {
+      "index": 2005,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Line the products up. Fixed indemnity pays the insured a set amount per event and is a supplement. A nonprofit health service plan is a provider-contracting organization that may offer several product types to subscribers. Participating providers accept plan payment in full; panels define choice; disclosure tells subscribers how to use the plan. In the next two lessons you will meet H M O plans, which also contract with providers but add prepaid financing and a gatekeeper, and P P O plans, which contract for discounts without a gatekeeper. The vocabulary from Lesson eighteen will carry you through all of them."
+      }
+    }
+  ],
+  "projected": [
+    {
+      "index": 1900,
+      "characters": 674,
+      "credits": 4.5
+    },
+    {
+      "index": 1901,
+      "characters": 637,
+      "credits": 4.3
+    },
+    {
+      "index": 1902,
+      "characters": 608,
+      "credits": 4.1
+    },
+    {
+      "index": 1903,
+      "characters": 647,
+      "credits": 4.4
+    },
+    {
+      "index": 1904,
+      "characters": 675,
+      "credits": 4.5
+    },
+    {
+      "index": 1905,
+      "characters": 630,
+      "credits": 4.2
+    },
+    {
+      "index": 2000,
+      "characters": 630,
+      "credits": 4.2
+    },
+    {
+      "index": 2001,
+      "characters": 593,
+      "credits": 4
+    },
+    {
+      "index": 2002,
+      "characters": 660,
+      "credits": 4.4
+    },
+    {
+      "index": 2003,
+      "characters": 597,
+      "credits": 4
+    },
+    {
+      "index": 2004,
+      "characters": 616,
+      "credits": 4.2
+    },
+    {
+      "index": 2005,
+      "characters": 617,
+      "credits": 4.2
+    }
+  ],
+  "estimates": [],
+  "jobs": []
+}

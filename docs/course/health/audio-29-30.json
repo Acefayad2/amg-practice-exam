@@ -1,0 +1,206 @@
+{
+  "created": null,
+  "status": "not_submitted",
+  "lessons": [
+    29,
+    30
+  ],
+  "params": [
+    {
+      "index": 2900,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Rosa earns six thousand dollars a month. Her disability policy pays a stated monthly indemnity, a flat amount chosen at purchase rather than a reimbursement of bills. Insurers cap the benefit at a percentage of earned income, commonly sixty to seventy percent, so that disability never pays better than work; because individually paid benefits are tax-free, sixty percent of gross often approaches take-home pay. Rosa chooses three thousand six hundred dollars. The benefit is fixed unless a rider adjusts it, which is why the riders in Lesson thirty-one exist. On the exam, the monthly benefit is the amount, the definition decides whether it is owed."
+      }
+    },
+    {
+      "index": 2901,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The elimination period is the time deductible: the number of days after disability begins before benefits start. Common choices are thirty, sixty, ninety, one hundred eighty or three hundred sixty-five days. A longer elimination period lowers the premium because short disabilities never produce a claim. Rosa picks ninety days, planning to live on savings and sick pay in the meantime. Benefits are then paid monthly in arrears, so her first check arrives about a month after day ninety, roughly four months after she stopped work. Some policies apply a shorter elimination period to accidents than to sickness."
+      }
+    },
+    {
+      "index": 2902,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The benefit period is how long payments continue for one disability: two years, five years, to age sixty-five or sixty-seven, or for life in older policies. Longer benefit periods cost more. For a career-ending injury the difference between a five-year benefit period and one to age sixty-five is the whole point of the coverage, so Theo recommends the longer period for Rosa at forty-one. Benefit periods for sickness and accident may differ. Group plans often define a short-term benefit period in weeks and a long-term period to retirement age, handing off from one to the other."
+      }
+    },
+    {
+      "index": 2903,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Once Rosa has been disabled for a stated period, usually ninety days, the waiver of premium provision excuses her premiums for as long as the disability lasts, and the insurer refunds any premium she paid during those first ninety days. Coverage stays fully in force while she pays nothing. When she recovers, premiums resume. Without the waiver, a disabled insured with no income might let the policy lapse at the moment she needs it most. Most individual disability policies include the waiver automatically; others sell it as a rider."
+      }
+    },
+    {
+      "index": 2904,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Does the policy cover an injury at work? Nonoccupational coverage excludes disabilities arising from employment, leaving those to workers compensation, and costs less. Occupational, or twenty-four-hour, coverage pays whether the disability began on or off the job, usually with an offset for workers compensation benefits. Group plans are typically nonoccupational because the employer already carries workers compensation. Rosa, self-employed and not covered by workers compensation unless she buys it, needs twenty-four-hour coverage. The question to ask a client is who pays if the injury happens at work."
+      }
+    },
+    {
+      "index": 2905,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Disability policies exclude losses from war or military service, intentionally self-inflicted injury, participation in a felony, pre-existing conditions during the look-back period, and in nonoccupational policies, injuries covered by workers compensation. Older policies excluded normal pregnancy; modern policies treat pregnancy complications as sickness. Some exclude disability while living outside the country for an extended period or while incarcerated. Put the settings together for Rosa: three thousand six hundred dollars a month, ninety-day elimination, benefits to sixty-five, premium waived after ninety days of disability, twenty-four-hour coverage, standard exclusions. That is a complete basic plan."
+      }
+    },
+    {
+      "index": 3000,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Rosa recovers enough to work half days but cannot do the heavy parts of her trade. A partial disability benefit pays a flat percentage of the total disability benefit, commonly fifty percent, for a limited time, often six months. Traditional partial disability benefits require that the insured first was totally disabled and then returned to work part time or in a reduced capacity. If Rosa’s total benefit is three thousand six hundred dollars, her partial benefit is one thousand eight hundred dollars a month for up to six months. The flat percentage is simple but ignores how much income she actually lost."
+      }
+    },
+    {
+      "index": 3001,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A residual disability benefit replaces the lost share of income instead of a flat percentage. The formula is the percentage of income lost, multiplied by the total disability benefit. Rosa earned six thousand dollars; working half days she earns three thousand six hundred, a forty percent loss. Her residual benefit is forty percent of three thousand six hundred, which is one thousand four hundred forty dollars a month, for as long as the income loss continues within the benefit period. Most residual provisions require at least a twenty percent income loss to pay and treat a loss of seventy-five or eighty percent as total. Residual benefits do not require a prior period of total disability."
+      }
+    },
+    {
+      "index": 3002,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The two provisions answer the same situation differently. Partial pays a fixed fraction for a short time after total disability. Residual pays a proportion that tracks actual income loss for as long as the loss lasts, and it can begin without any total disability. Residual coverage costs more and suits people whose disabilities tend to be gradual or whose return to work is slow, like Rosa. Income replacement contracts from Lesson twenty-eight are built entirely around the residual idea. On a calculation question, identify which provision the policy uses before touching the numbers."
+      }
+    },
+    {
+      "index": 3003,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Social Security disability takes months to approve and has a five-month waiting period. An additional monthly benefit rider pays an extra amount, say one thousand two hundred dollars, during the first six to twelve months of a disability, when the insured is waiting to learn whether Social Security will pay. It is a short bridge, not a permanent increase. If Rosa’s base benefit is three thousand six hundred dollars and her A M B rider is one thousand two hundred, she receives four thousand eight hundred a month for the first year, then three thousand six hundred whether or not Social Security approves her. The rider’s premium reflects its short duration."
+      }
+    },
+    {
+      "index": 3004,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A social insurance supplement rider also adds a benefit, but its payment depends on what Social Security does. If Social Security denies the claim, the full S I S benefit is paid. If Social Security pays, the S I S benefit is reduced or eliminated dollar for dollar. The insured is protected against the strict federal definition without paying for a permanent benefit that duplicates Social Security. Group long-term disability plans use the same idea in reverse: they pay a percentage of salary minus Social Security and workers compensation benefits, so the employee’s total income stays near the target percentage."
+      }
+    },
+    {
+      "index": 3005,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Picture Rosa’s claim over two years. Months one through three: elimination period, no benefit. Months four through twelve: base benefit of three thousand six hundred plus an additional monthly benefit of one thousand two hundred. Month twelve: Social Security approves one thousand eight hundred a month, so her S I S rider pays nothing, while the A M B rider ends on schedule. Month eighteen: she returns half time with a forty percent income loss, and her residual benefit pays one thousand four hundred forty until the loss ends or she reaches sixty-five. Each provision solves one problem: the wait, the federal gap, the partial return. A good policy design anticipates all three."
+      }
+    }
+  ],
+  "projected": [
+    {
+      "index": 2900,
+      "characters": 652,
+      "credits": 4.4
+    },
+    {
+      "index": 2901,
+      "characters": 612,
+      "credits": 4.1
+    },
+    {
+      "index": 2902,
+      "characters": 582,
+      "credits": 3.9
+    },
+    {
+      "index": 2903,
+      "characters": 537,
+      "credits": 3.6
+    },
+    {
+      "index": 2904,
+      "characters": 608,
+      "credits": 4.1
+    },
+    {
+      "index": 2905,
+      "characters": 715,
+      "credits": 4.8
+    },
+    {
+      "index": 3000,
+      "characters": 611,
+      "credits": 4.1
+    },
+    {
+      "index": 3001,
+      "characters": 698,
+      "credits": 4.7
+    },
+    {
+      "index": 3002,
+      "characters": 588,
+      "credits": 4
+    },
+    {
+      "index": 3003,
+      "characters": 662,
+      "credits": 4.5
+    },
+    {
+      "index": 3004,
+      "characters": 618,
+      "credits": 4.2
+    },
+    {
+      "index": 3005,
+      "characters": 684,
+      "credits": 4.6
+    }
+  ],
+  "estimates": [],
+  "jobs": []
+}

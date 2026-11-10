@@ -1,0 +1,206 @@
+{
+  "created": null,
+  "status": "not_submitted",
+  "lessons": [
+    7,
+    8
+  ],
+  "params": [
+    {
+      "index": 700,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "When Rosa applies, the insurer may order an investigative consumer report about her character, reputation and lifestyle. The Fair Credit Reporting Act requires that she be told, within three days of the request, that such a report may be made, and that she may ask about its nature and scope. If the insurer takes adverse action based on a report, such as declining or rating her, it must tell her and identify the reporting agency so she can obtain the report and dispute errors. Producers who collect applications must know these notices exist and never discourage an applicant from exercising them."
+      }
+    },
+    {
+      "index": 701,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Federal law treats insurance fraud affecting interstate commerce as a crime. Under eighteen U S C one thousand thirty-three, anyone convicted of a felony involving dishonesty or breach of trust may not work in the business of insurance without the written consent of the state insurance regulator. The same statute punishes false statements to regulators, embezzlement of insurer funds and threats against regulators or examiners, with prison terms that grow when the conduct jeopardizes an insurer’s safety. Section one thousand thirty-four lets the Attorney General seek civil penalties and injunctions. For Theo the practical rule is simple: a disqualifying conviction requires a consent letter before any insurance work."
+      }
+    },
+    {
+      "index": 702,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The Employee Retirement Income Security Act governs employee benefit plans sponsored by private employers, including group health and disability plans. Government and church plans are generally exempt. Anyone who controls plan assets or administration is a fiduciary and must act solely in the interest of participants, with the care of a prudent person, following the plan documents. Plans must report to the Department of Labor, usually on Form five thousand five hundred, and must disclose terms to participants through a summary plan description delivered within ninety days of joining, plus summaries of material changes. When Priya offers a group plan, ERISA shapes her duties as sponsor."
+      }
+    },
+    {
+      "index": 703,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "COBRA applies to employers with twenty or more employees on a typical business day in the prior year. A worker who loses coverage through termination, other than gross misconduct, or reduced hours may continue the group plan for eighteen months, extended to twenty-nine months if disabled within the first sixty days. Death of the employee, divorce, Medicare entitlement or a child aging out gives dependents thirty-six months. The employer notifies the plan administrator within thirty days, the administrator notifies the beneficiary within fourteen days, and the beneficiary has sixty days to elect. The premium may reach one hundred two percent of the group cost."
+      }
+    },
+    {
+      "index": 704,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The A C A rewrote the rules for comprehensive medical coverage. Individual health insurance coverage means coverage sold to individuals in the individual market, as opposed to group plans. Plans must cover children on a parent’s policy to age twenty-six. They may not impose lifetime dollar limits, or annual dollar limits, on essential health benefits, the ten categories every individual and small group plan must include. Premiums may vary only by age, within a three to one ratio, tobacco use up to one point five to one, geographic area and family size. Group plans may not impose waiting periods longer than ninety days."
+      }
+    },
+    {
+      "index": 705,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The National Association of Insurance Commissioners is the organization of the chief insurance regulators of the states, the District of Columbia and the territories. It drafts model laws and regulations, such as the uniform health policy provisions you will study in Lesson fifteen, and it accredits state insurance departments. The N A I C is not a federal agency and has no power to license producers, approve policies or enforce anything. A model becomes law in Maryland only when the General Assembly or the Insurance Commissioner adopts it. When a producer says the N A I C approved a policy, that statement is false."
+      }
+    },
+    {
+      "index": 800,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Elena’s coworker shows her a brochure: two hundred dollars a day while in the hospital, for forty dollars a month. Is that health insurance? No. It is a limited policy. Limited policies restrict either the perils they cover, such as accidents only, or the amounts they pay, such as a fixed daily sum unrelated to the bill. They are useful supplements and poor substitutes. Because buyers so often mistake them for comprehensive coverage, the policy must carry a prominent notice, typically on the first page, stating that it is a limited policy and describing what it does not cover."
+      }
+    },
+    {
+      "index": 801,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "An accident-only policy pays for injuries from accidents and nothing for sickness. It may pay medical expenses, a disability income benefit, or AD and D sums, but the trigger is always an accident. A specified disease, or dread disease, policy pays only on diagnosis of the named illness, most often cancer, and usually pays scheduled or lump-sum amounts regardless of what other coverage pays. Rosa might buy a cancer policy to cover travel and lost income during treatment. She must still carry a medical plan for everything else, and Theo must say so plainly."
+      }
+    },
+    {
+      "index": 802,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A hospital indemnity policy pays a fixed amount for each day the insured is confined, regardless of the actual charges, which is why it is sometimes called hospital income. It helps with deductibles and lost pay but does not cover physician or outpatient bills. Credit disability insurance pays the installments on a specific loan while the borrower is disabled. The creditor is the beneficiary, the benefit cannot exceed the debt, and the premium is often added to the loan. When Dennis finances a car, he may be offered credit disability; he may decline it without losing the loan."
+      }
+    },
+    {
+      "index": 803,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Priya sponsors a softball team and buys blanket accident coverage. Blanket insurance covers a changing group of people exposed to a common hazard without naming each one: a team’s players, passengers on a bus, students at a school, campers at a summer camp. No individual certificates are issued because the members change. Benefits usually pay medical expenses from accidents during the covered activity. Blanket coverage is group coverage in form, but it insures a category of people rather than enrolled individuals, and that difference is the point the exam tests."
+      }
+    },
+    {
+      "index": 804,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Stand-alone prescription drug and vision care policies pay for those services on a schedule, with copayments or allowances, and exclude everything else. Critical illness policies pay a lump sum when the insured is diagnosed with a listed condition, commonly heart attack, stroke or cancer, often after a short survival period. The money is not tied to bills; the insured may spend it on mortgage payments or travel for treatment. These policies are excepted benefits, outside the Affordable Care Act’s rules, so they may keep lifetime maximums and health underwriting that comprehensive plans cannot."
+      }
+    },
+    {
+      "index": 805,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Short-term limited duration policies bridge gaps, such as the weeks between jobs. They are medically underwritten, exclude pre-existing conditions and need not include essential health benefits. Federal rules allow longer terms, but Maryland is stricter: a short-term policy sold in Maryland may last less than three months and may not be renewed or extended. Theo’s client who leaves a job in May should compare a short-term plan with a special enrollment on Maryland Health Connection or Maryland continuation coverage, which provide comprehensive benefits. Short-term coverage is a stopgap, and the notice must say so."
+      }
+    }
+  ],
+  "projected": [
+    {
+      "index": 700,
+      "characters": 601,
+      "credits": 4.1
+    },
+    {
+      "index": 701,
+      "characters": 724,
+      "credits": 4.9
+    },
+    {
+      "index": 702,
+      "characters": 694,
+      "credits": 4.7
+    },
+    {
+      "index": 703,
+      "characters": 667,
+      "credits": 4.5
+    },
+    {
+      "index": 704,
+      "characters": 626,
+      "credits": 4.2
+    },
+    {
+      "index": 705,
+      "characters": 623,
+      "credits": 4.2
+    },
+    {
+      "index": 800,
+      "characters": 583,
+      "credits": 3.9
+    },
+    {
+      "index": 801,
+      "characters": 562,
+      "credits": 3.8
+    },
+    {
+      "index": 802,
+      "characters": 583,
+      "credits": 3.9
+    },
+    {
+      "index": 803,
+      "characters": 568,
+      "credits": 3.8
+    },
+    {
+      "index": 804,
+      "characters": 600,
+      "credits": 4
+    },
+    {
+      "index": 805,
+      "characters": 621,
+      "credits": 4.2
+    }
+  ],
+  "estimates": [],
+  "jobs": []
+}

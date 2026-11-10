@@ -1,0 +1,206 @@
+{
+  "created": null,
+  "status": "not_submitted",
+  "lessons": [
+    13,
+    14
+  ],
+  "params": [
+    {
+      "index": 1300,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "With Rosa’s file complete, the underwriter places her in a class. Preferred applicants have better-than-average health and habits and pay the lowest rate. Standard applicants match the pricing assumptions and pay the base rate. Substandard applicants present higher risk and are accepted with a higher premium, a benefit limitation or an exclusion rider. Declined applicants are not accepted at any price. For disability income, Rosa’s electrical trade may place her in a riskier occupational class even if her health is excellent. Classification is lawful when it rests on sound actuarial differences in expected claims."
+      }
+    },
+    {
+      "index": 1301,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "An underwriter who finds Rosa’s back injury has choices short of declining. A rated premium charges more for the added risk. An exclusion rider removes claims caused by the back condition while covering everything else. A modified benefit shortens the benefit period or lengthens the elimination period. Each tool lets the insurer offer something rather than nothing. Rosa may accept the counteroffer or shop elsewhere. Theo must explain exactly what an exclusion rider removes, because an insured who later files a back claim will be told it is not covered."
+      }
+    },
+    {
+      "index": 1302,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Unfair discrimination means treating people in the same actuarial class differently, or using a characteristic that has no legitimate relation to risk. Charging two forty-one-year-old electricians with identical health different rates because of race, religion or national origin is unfair discrimination and is prohibited. So is refusing coverage on a basis the law has removed from underwriting. Lawful classification uses age, health, occupation and habits supported by data. The test is whether the distinction reflects a real difference in expected claims and whether the law permits that factor to be used."
+      }
+    },
+    {
+      "index": 1303,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Maryland forbids insurers from using the fact that a person is or has been a victim of domestic violence against them. An insurer may not deny, cancel, refuse to renew, limit or price coverage because the applicant was abused, and may not treat the abuse itself as a pre-existing condition. If Elena’s coworker is injured by a partner, her injuries are a claim like any other. Insurers may still consider a medical condition on its own actuarial terms, but not the abuse that caused it or the status of being a victim."
+      }
+    },
+    {
+      "index": 1304,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Maryland and federal law protect genetic information. An insurer offering health coverage may not request or require a genetic test, use genetic test results or family history of genetic conditions to deny or price coverage, or treat a genetic predisposition as a pre-existing condition when no disease has appeared. If Marcus carries a gene associated with a condition he does not have, a medical insurer may not use that fact. The protections for life, disability and long-term care insurance are narrower, so read the question for the type of coverage before applying the rule."
+      }
+    },
+    {
+      "index": 1305,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Underwriting is a sorting process bounded by law. It starts with the application and producer’s report, adds medical and lifestyle information with the applicant’s notice and consent, checks for consistency and ends in a class and an offer. Along the way the insurer may not use a forbidden factor, may not treat identical risks differently and must give the Fair Credit Reporting Act and adverse underwriting notices when it declines or rates. Theo’s role is to gather complete and honest information, explain any counteroffer plainly and never promise an outcome the underwriter has not reached."
+      }
+    },
+    {
+      "index": 1400,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Rosa receives a mailer offering a disability income policy for thirty dollars less a month than the one Theo sold her two years ago. Replacement means dropping or reducing existing coverage to buy new coverage. It is lawful and sometimes wise, but it resets clocks. A new disability or long-term care policy brings a new pre-existing condition look-back, a new probationary period and a new contestable period. Rosa’s back condition, now covered after two years, could become a pre-existing condition under the new policy. The first replacement question is always: what coverage has the client already earned?"
+      }
+    },
+    {
+      "index": 1401,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Price is one line in a comparison. Theo lays the two policies side by side. Does the new policy define disability as own occupation or any occupation? How long is the elimination period and the benefit period? Does it include a residual benefit, a cost-of-living rider, a future increase option? Is it noncancelable, guaranteed renewable or conditionally renewable? What does it exclude that the old policy covers? For medical plans, is the current plan grandfathered with features a new plan would lose? Only after the benefits, limitations and exclusions are compared can anyone say whether thirty dollars is a saving."
+      }
+    },
+    {
+      "index": 1402,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The new insurer will underwrite Rosa as she is today, not as she was two years ago. Her back condition could produce a higher rate, an exclusion rider or a declination. The cardinal rule of replacement is that the existing policy is never canceled until the new policy is issued, delivered and accepted on terms the client understands. A client who cancels first and is then declined has lost coverage she cannot get back. Theo also checks whether the old policy’s premium is locked by a noncancelable clause, a guarantee the new policy may not match."
+      }
+    },
+    {
+      "index": 1403,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Two products carry specific Maryland replacement rules. When a Medicare supplement policy replaces another, the new insurer must credit the time already served and may not impose new pre-existing condition, waiting, elimination or probationary periods for benefits the old policy covered. Long-term care replacement works the same way, with a replacement notice and a comparison of benefits. Both require the producer to ask about existing coverage and to document the answer. Selling Gloria a second Medigap policy without replacing the first is prohibited duplication. The producer’s job is to make replacement a deliberate, documented decision."
+      }
+    },
+    {
+      "index": 1404,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Replacement is right when the new policy fixes a real gap: a short benefit period, an any-occupation definition, a conditionally renewable clause, or a premium the client can no longer afford at all. It is right when the client’s health still qualifies for standard rates and the new policy’s waiting periods will not leave a known condition uncovered. It is wrong when the only gain is a small premium saving that the client pays for with lost guarantees or a newly excluded condition. Theo writes down the reasons either way; a documented recommendation protects the client and the producer."
+      }
+    },
+    {
+      "index": 1405,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Before recommending any health insurance replacement, work the list. One: identify the coverage the client has already earned, including satisfied pre-existing and probationary periods. Two: compare definitions, periods, riders, renewability and exclusions, not just premium. Three: confirm the client’s current insurability and get the new policy issued and accepted before anything is canceled. Four: apply Medigap and long-term care replacement rules where they exist. Five: document the comparison and the client’s decision. A replacement that survives the checklist serves the client; one that does not is a sale, not advice."
+      }
+    }
+  ],
+  "projected": [
+    {
+      "index": 1300,
+      "characters": 621,
+      "credits": 4.2
+    },
+    {
+      "index": 1301,
+      "characters": 558,
+      "credits": 3.8
+    },
+    {
+      "index": 1302,
+      "characters": 612,
+      "credits": 4.1
+    },
+    {
+      "index": 1303,
+      "characters": 518,
+      "credits": 3.5
+    },
+    {
+      "index": 1304,
+      "characters": 580,
+      "credits": 3.9
+    },
+    {
+      "index": 1305,
+      "characters": 597,
+      "credits": 4
+    },
+    {
+      "index": 1400,
+      "characters": 609,
+      "credits": 4.1
+    },
+    {
+      "index": 1401,
+      "characters": 620,
+      "credits": 4.2
+    },
+    {
+      "index": 1402,
+      "characters": 551,
+      "credits": 3.7
+    },
+    {
+      "index": 1403,
+      "characters": 647,
+      "credits": 4.4
+    },
+    {
+      "index": 1404,
+      "characters": 593,
+      "credits": 4
+    },
+    {
+      "index": 1405,
+      "characters": 630,
+      "credits": 4.2
+    }
+  ],
+  "estimates": [],
+  "jobs": []
+}

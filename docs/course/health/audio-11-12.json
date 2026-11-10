@@ -1,0 +1,206 @@
+{
+  "created": null,
+  "status": "not_submitted",
+  "lessons": [
+    11,
+    12
+  ],
+  "params": [
+    {
+      "index": 1100,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Before Rosa’s application reaches the home office, Theo has already underwritten it in her kitchen. Field underwriting means the producer’s screening of the applicant: observing her health and occupation, asking every question on the form, recording answers exactly as given and noting anything the insurer should know in the producer’s report. Good field underwriting saves the insurer from issuing policies it would have declined and saves applicants from policies that would be rescinded later for misstatements. It also protects the pool from adverse selection. The producer who skips this role invites claim disputes and license complaints."
+      }
+    },
+    {
+      "index": 1101,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The application must be complete and accurate. Theo reads each question aloud and writes Rosa’s answer; he never guesses or leaves a blank, because the insurer may treat an unanswered question as waived. If an answer is corrected, Rosa initials the change. She signs the application, and so does Theo as the witnessing producer. If Rosa pays the first premium now, Theo gives a conditional receipt, which makes coverage effective as of the application or exam date if the insurer later approves her as applied for. If she does not pay now, no coverage exists until delivery."
+      }
+    },
+    {
+      "index": 1102,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "When the policy arrives, Theo delivers it promptly and in person when he can. If the first premium was not paid with the application, he collects it and obtains a statement of continued good health, in which Rosa confirms her health has not changed since she applied. The policy is not in force until that premium is paid. Theo reviews the policy against the application, explains the benefits, exclusions, renewability and the free-look period, and delivers any required outline of coverage and the guaranty corporation notice. He has Rosa sign a delivery receipt, which fixes the date the free-look period begins."
+      }
+    },
+    {
+      "index": 1103,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Even careful producers make mistakes: a benefit amount misquoted, a replacement handled badly, an application mailed late so a client was uninsured when a claim arose. Errors and omissions insurance is professional liability coverage that pays defense costs and damages when a client sues over the producer’s negligent act or omission. It does not cover fraud, intentional misconduct or fines imposed by the regulator. Agencies carry it for the firm and its producers. The best E and O protection is process: documented recommendations, signed applications, delivery receipts and notes of what the client was told."
+      }
+    },
+    {
+      "index": 1104,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Dennis, a client with an individual medical plan, turns sixty-five in March. Theo has a responsibility to tell him what that means. Medicare eligibility changes how his coverage coordinates, opens a seven-month initial enrollment window around his birthday, and starts the six-month Medicare supplement open enrollment when he enrolls in Part B. Group plans and Maryland continuation coverage end or change when Medicare entitlement begins, and late enrollment in Part B or Part D can bring permanent premium penalties. Notifying clients of Medicare eligibility in time is part of serving them, and insurers include similar notices in group certificates."
+      }
+    },
+    {
+      "index": 1105,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Here is the sequence. Theo screens Rosa honestly and records her answers exactly. She signs; he gives a conditional receipt if she pays now. The home office underwrites using the sources from Lesson twelve and issues the policy, perhaps with changes. Theo delivers it, collects any premium due, gets a statement of continued good health if needed, explains the contract and starts the free-look clock with a signed receipt. He keeps records in case a question arises later, and he calendars Dennis’s sixty-fifth birthday. Each step has a purpose: an enforceable, understood contract and a protected client."
+      }
+    },
+    {
+      "index": 1200,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Rosa’s disability income application reaches the home office. The underwriter must decide whether to accept her, at what price and with what conditions. The criteria are the applicant’s health history, age, occupation, income, hobbies, habits such as tobacco use and, for comprehensive medical coverage, the limits federal law now places on health-based decisions. Disability, long-term care and limited policies may still be fully underwritten. The underwriter is matching Rosa to a class of similar risks so the premium charged to each class reflects its expected claims. Fair classification protects the pool; unfair discrimination is prohibited."
+      }
+    },
+    {
+      "index": 1201,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The application is the primary source. Part one collects identity, occupation and the coverage requested; part two asks medical questions. Rosa signs it, certifying her answers are true to the best of her knowledge, and it becomes part of the contract when attached to the policy. Theo adds a producer’s report, sometimes called an agent’s statement, giving his own observations: how long he has known her, whether the coverage replaces another policy, and anything he noticed. The producer’s report is not shown to the applicant, and it must be honest. It is the insurer’s first check on the application."
+      }
+    },
+    {
+      "index": 1202,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "If Rosa’s answers mention a back injury, the underwriter may request an attending physician statement from the doctor who treated her, with her written authorization. The A P S gives diagnosis, treatment and prognosis in the physician’s own words. The underwriter may also order an investigative consumer report, often called an inspection report, from an outside agency. It covers lifestyle, finances and reputation, drawn from records and interviews. The Fair Credit Reporting Act governs that report: Rosa must be told it may be ordered, may learn its nature and scope, and must be told if it leads to adverse action."
+      }
+    },
+    {
+      "index": 1203,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The M I B is a membership organization of insurers that keeps coded summaries of medical and some nonmedical conditions reported by member companies when a person applied for individual life, health, disability or long-term care coverage. It exists to detect omissions and fraud across companies. The codes flag areas to investigate; an insurer may not decline solely because of an M I B code and must confirm the underlying facts. Applicants receive a notice that the M I B may be consulted, and they may request their own file and correct errors. M I B codes are not shared with employers or the public."
+      }
+    },
+    {
+      "index": 1204,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "For larger disability benefits or older applicants the insurer may require a paramedical exam, blood and urine tests, or a physician’s examination, at the insurer’s expense. Tests screen for conditions such as diabetes, liver disease and nicotine use. Testing for H I V requires the applicant’s specific informed consent on a separate form that explains the test, how results are kept confidential and to whom they may be disclosed. Maryland law treats H I V results as confidential medical information. An insurer may underwrite on a positive result but may not test without consent or reveal results improperly."
+      }
+    },
+    {
+      "index": 1205,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The underwriter now has Rosa’s application, Theo’s report, a physician statement about her back, an inspection report, an M I B check and lab results. Each source answers a different question, and each carries its own consent or notice requirement. The application and medical sources describe health. The inspection report describes lifestyle and finances. The M I B tests consistency. None of them is permitted to be used for purposes outside underwriting the coverage applied for. Lesson thirteen shows how the underwriter turns this file into a risk class and where the law forbids certain distinctions."
+      }
+    }
+  ],
+  "projected": [
+    {
+      "index": 1100,
+      "characters": 645,
+      "credits": 4.3
+    },
+    {
+      "index": 1101,
+      "characters": 574,
+      "credits": 3.9
+    },
+    {
+      "index": 1102,
+      "characters": 615,
+      "credits": 4.1
+    },
+    {
+      "index": 1103,
+      "characters": 614,
+      "credits": 4.1
+    },
+    {
+      "index": 1104,
+      "characters": 654,
+      "credits": 4.4
+    },
+    {
+      "index": 1105,
+      "characters": 606,
+      "credits": 4.1
+    },
+    {
+      "index": 1200,
+      "characters": 649,
+      "credits": 4.4
+    },
+    {
+      "index": 1201,
+      "characters": 605,
+      "credits": 4.1
+    },
+    {
+      "index": 1202,
+      "characters": 620,
+      "credits": 4.2
+    },
+    {
+      "index": 1203,
+      "characters": 605,
+      "credits": 4.1
+    },
+    {
+      "index": 1204,
+      "characters": 613,
+      "credits": 4.1
+    },
+    {
+      "index": 1205,
+      "characters": 607,
+      "credits": 4.1
+    }
+  ],
+  "estimates": [],
+  "jobs": []
+}

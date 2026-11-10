@@ -1,0 +1,206 @@
+{
+  "created": null,
+  "status": "not_submitted",
+  "lessons": [
+    49,
+    50
+  ],
+  "params": [
+    {
+      "index": 4900,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Theo has joined A M G and wants to start selling health plans. Maryland requires a producer license before a person sells, solicits or negotiates insurance. Selling means exchanging a contract for money; soliciting means urging someone to apply; negotiating means discussing the terms of a contract with a buyer on an insurer’s behalf. The license names the lines of authority the holder may handle, such as life, health, property or casualty; for this course, the health line is accident and health or sickness. Licensing exists to set qualifications, create accountability to the Insurance Administration and give consumers a regulator to turn to."
+      }
+    },
+    {
+      "index": 4901,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A resident applicant must be at least eighteen, have the character and trustworthiness the law requires, pass the Prometric examination for the line sought, file a complete and truthful application and pay the license fee, currently fifty-four dollars. Maryland repealed its mandatory prelicensing education requirement effective October one, two thousand twenty-four, so a course is no longer required, though the exam and later continuing education remain. An applicant who fails must wait at least four days before retaking the exam. False statements on the application are themselves grounds for denial or later revocation, so the application is a legal document, not a formality."
+      }
+    },
+    {
+      "index": 4902,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "An insurance producer sells, solicits or negotiates for an insurer. An insurance adviser is paid a fee to examine policies and give advice, and Maryland requires a separate adviser license for that work; a licensed producer acting as a producer for a client is exempt from the adviser rules, so Theo may explain the plans he sells without a second license. A nonresident producer holds a resident license in good standing in a home state and obtains a Maryland nonresident license through reciprocity, with the application and fee but usually no Maryland exam. The home-state license is not permission to work in Maryland by itself."
+      }
+    },
+    {
+      "index": 4903,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A M G itself is a business entity. An agency or other business that sells, solicits or negotiates must hold its own license and must designate a licensed producer as its principal contact with the Administration. That designated producer keeps the entity’s information current and responds to investigations. The entity’s license never covers an individual’s personal selling; every person who sells for A M G needs an individual license, and calling salespeople independent contractors does not change that. Trade names are filed through the prescribed process. Misconduct by the entity’s owners or designated producer can put the entity’s license at risk as well."
+      }
+    },
+    {
+      "index": 4904,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Some people may work around insurance without a license, but only within the exception’s conditions. A clerical or administrative employee who does not solicit and receives no commission is exempt; the moment she urges a customer to buy a particular plan, she is soliciting. An employer administering its own employee benefit plan without insurer compensation is exempt. Insurer officers and employees who do not sell for commission, and people who merely refer a customer to a licensed producer without discussing coverage, fall under exceptions tied to what they actually do. Read the conduct and the compensation, not the job title."
+      }
+    },
+    {
+      "index": 4905,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Maryland may issue a temporary license without examination to specified relatives, representatives or employees of a producer who has died or become disabled, so the business can be preserved; the Commissioner must grant or refuse it in writing within thirty days, and it expires fifteen months after it takes effect. It is not inherited authority, and the holder still needs any required appointment before acting. The rule of thumb for every question in this lesson: identify the act, sell, solicit or negotiate; identify the person; ask whether the person holds the license that act requires, or fits a narrow exception."
+      }
+    },
+    {
+      "index": 5000,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Theo’s license is good for two years, expiring at the end of his birth month. Renewal needs the renewal application, the fees and continued qualification. Continuing education runs on an earlier clock: the hours must be finished before the renewal is filed. The Administration sends renewal notices to the address and email on file, so a producer who moved and never updated his record may miss the notice and the deadline. Theo marks two dates on his calendar, the education deadline and the expiration, and treats the first as the real one."
+      }
+    },
+    {
+      "index": 5001,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A regular Maryland resident producer must complete twenty-four hours of approved continuing education in each two-year renewal period, including at least three hours in ethics, with the hours satisfying the requirements of the lines held. The statute requires the education to be completed no later than fifteen days before the license expires. An older Administration chart still says thirty days; the current statute controls. Special provisions reduce the hours for producers with long service who file the required affidavit, limited lines have exceptions, and a nonresident satisfies Maryland through compliance in the home state. This course is not approved continuing education."
+      }
+    },
+    {
+      "index": 5002,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "An expired license is not a grace period. Theo may not sell, solicit or negotiate until reinstatement takes effect. For up to one year after expiration he may reinstate by filing the application, paying the renewal fee, the fraud prevention fee and a one hundred dollar reinstatement fee, and proving the required education. If he applies within sixty days of expiration, the reinstatement is retroactive to the expiration date; after sixty days it is prospective only, leaving a gap during which any sales were unlicensed. After one year the license is gone and he must apply as a new applicant and retake the exam."
+      }
+    },
+    {
+      "index": 5003,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A licensee must report a change of legal name, trade name, email address or home or business address within thirty days. A business entity has a separate ten-day rule for changes to its designated producer’s required information. A producer who changes legal residence to another state has a thirty-day certification duty, and a producer moving into Maryland must apply for resident authority within ninety days. Trade names are filed with the Administration before use; adopting an assumed name on a website does not file it. Updating the agency’s letterhead changes nothing in the licensing record."
+      }
+    },
+    {
+      "index": 5004,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Two reports protect the public. If a producer is prosecuted for a crime, other than a vehicle-related misdemeanor, he must report it to the Commissioner within thirty days of the initial appearance in court, with the charging document, any court order and other relevant legal documents. Waiting for a conviction is too late. If another state or jurisdiction takes an administrative action against his license, he must report that within thirty days of the final disposition, with the order or consent order. Theo’s A M G manager cannot report for him; the duty is personal, and failing it is itself grounds for discipline."
+      }
+    },
+    {
+      "index": 5005,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Picture Theo’s year. In March he moves and updates his address within thirty days. In June he finishes his twenty-four hours, including ethics, well before the fifteen-day deadline. In August he files the renewal before his birth month ends. In October he is charged with a misdemeanor unrelated to driving and reports it within thirty days of his first court date, attaching the charging document. Each event has its own clock and its own trigger. A producer who keeps these dates keeps the license; a producer who assumes the agency will handle them risks losing it."
+      }
+    }
+  ],
+  "projected": [
+    {
+      "index": 4900,
+      "characters": 649,
+      "credits": 4.4
+    },
+    {
+      "index": 4901,
+      "characters": 684,
+      "credits": 4.6
+    },
+    {
+      "index": 4902,
+      "characters": 632,
+      "credits": 4.3
+    },
+    {
+      "index": 4903,
+      "characters": 665,
+      "credits": 4.5
+    },
+    {
+      "index": 4904,
+      "characters": 635,
+      "credits": 4.3
+    },
+    {
+      "index": 4905,
+      "characters": 623,
+      "credits": 4.2
+    },
+    {
+      "index": 5000,
+      "characters": 542,
+      "credits": 3.7
+    },
+    {
+      "index": 5001,
+      "characters": 685,
+      "credits": 4.6
+    },
+    {
+      "index": 5002,
+      "characters": 616,
+      "credits": 4.2
+    },
+    {
+      "index": 5003,
+      "characters": 600,
+      "credits": 4
+    },
+    {
+      "index": 5004,
+      "characters": 623,
+      "credits": 4.2
+    },
+    {
+      "index": 5005,
+      "characters": 568,
+      "credits": 3.8
+    }
+  ],
+  "estimates": [],
+  "jobs": []
+}

@@ -1,0 +1,206 @@
+{
+  "created": null,
+  "status": "not_submitted",
+  "lessons": [
+    1,
+    2
+  ],
+  "params": [
+    {
+      "index": 100,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Marcus is thirty-eight, works at a logistics company and has two children. His question is simple: what happens to the family budget if someone gets sick or hurt? That question is about risk. In insurance, risk means uncertainty about a loss. Marcus does not know whether anyone in his household will need a hospital this year. That uncertainty is the risk. Exposure means being subject to that possibility. Everyone with a body is exposed to illness and injury. Health insurance does not remove the exposure. It addresses the financial consequences when an uncertain event actually happens."
+      }
+    },
+    {
+      "index": 101,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A peril is the cause of a loss. In health insurance the perils are sickness and accidental injury. A hazard is a condition that increases the chance of a loss or makes it worse. Icy front steps are a physical hazard. Dishonesty, such as exaggerating a claim, is a moral hazard. Carelessness that grows because a person feels covered, like skipping a seatbelt, is a morale hazard. When a question describes a condition that raises the odds, it is describing a hazard. When it names the event that actually caused the bills, it is naming the peril."
+      }
+    },
+    {
+      "index": 102,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Loss is the financial consequence. For Marcus a loss could be a hospital bill, a prescription, or wages missed while recovering. Notice that each is measured in money. Insurance deals with pure risk, where the only outcomes are loss or no loss. Getting sick offers no upside. Speculative risk includes a chance of gain, like starting a business or buying shares. Insurers do not sell protection against speculative risk. On a question, first ask whether the situation could produce a gain. If it could, it is speculative and not insurable in the ordinary sense."
+      }
+    },
+    {
+      "index": 103,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Health policies define two perils. Accidental injury is bodily harm caused by an unexpected external event, such as a fall on the ice. Sickness is an illness or disease that first shows itself while the policy is in force, such as the strep throat Marcus’s daughter develops. The distinction has consequences. An accident-only policy pays nothing for sickness. Many policies apply a probationary period to sickness but not to accidents, so an illness in the first weeks may be excluded while an accident is covered. Accidental death and dismemberment benefits respond only to accidents."
+      }
+    },
+    {
+      "index": 104,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Older policies used an accidental means definition. Both the cause and the result had to be unintended. If Marcus deliberately lifted a heavy box and hurt his back, the lifting was intentional, so a strict means policy could deny the claim. Modern policies use an accidental results, or accidental bodily injury, definition. The injury need only be unexpected and unintended, even if the activity was deliberate. The results definition is broader and more favorable to the insured, and many states, including Maryland, restrict the narrower means wording. On the exam, read which definition the policy uses before deciding the claim."
+      }
+    },
+    {
+      "index": 105,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Return to Marcus. The possibility that someone in his home becomes ill is the risk. His family’s membership in the human race is the exposure. Strep throat is a peril. The icy steps outside are a physical hazard. The emergency room bill is the loss. If his policy defines accidents by results, a strained back from lifting is covered. If it only covers accidents, his daughter’s illness is not. Every health question starts by sorting the facts into these words. Do that first, and the rest of the course becomes a matter of applying rules to a situation you already understand."
+      }
+    },
+    {
+      "index": 200,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Marcus thinks about buying a motorcycle, then decides against it. He has avoided that exposure entirely, although he has not avoided every risk in life. He adds a handrail to the icy steps. That reduces the chance of a fall; it does not make a fall impossible. He also keeps an emergency fund to pay small medical bills himself. That is retention: he keeps the financial responsibility. To classify any action, ask what changed. Did the exposure disappear, did the odds fall, or did Marcus simply decide to pay for the loss himself?"
+      }
+    },
+    {
+      "index": 201,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Sharing spreads a burden among participants. A group of neighbors who agree to help each other with medical bills are sharing. Transfer moves a specified financial obligation to another party under a contract. When Marcus buys a medical plan, the insurer accepts the obligation to pay covered expenses. Most health plans mix the methods. A deductible and coinsurance are retention inside a transfer: Marcus keeps the first part of each loss and a percentage of the rest, and the insurer takes the balance. Recognizing that mixture explains most cost-sharing questions."
+      }
+    },
+    {
+      "index": 202,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "An insurer cannot predict whether Marcus will need surgery this year. It can predict, within a narrow range, how many people out of one hundred thousand similar adults will. That is the law of large numbers: as the number of similar exposure units grows, actual results come closer to expected results. Pooling collects premiums from the many to pay the losses of the few. The insurer still faces the difference between expected and actual claims, so it sets premiums with a margin and manages how many similar risks it accepts."
+      }
+    },
+    {
+      "index": 203,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "People who expect to need care are the most eager to buy coverage, and people who feel healthy are the most likely to skip it. That tendency is adverse selection. Left alone it raises average claims and pushes premiums up until only the sickest remain. Insurers answer with underwriting, waiting periods, group enrollment rules and, in the individual market, limited open enrollment windows. Federal law now limits how far a health insurer can go. It cannot refuse or price comprehensive medical coverage based on health status, which is one reason enrollment periods matter so much today."
+      }
+    },
+    {
+      "index": 204,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Insurers look for a large number of similar exposure units, so the law of large numbers applies. The loss must be definite, meaning identifiable as to time, place and amount, and measurable in dollars. It must be accidental from the insured’s viewpoint, not planned. The loss should not be catastrophic to the pool, such as one event hitting every insured at once. The chance of loss must be calculable and the premium economically feasible. These are characteristics insurers prefer, not a guarantee that every risk meeting them will be accepted at standard rates."
+      }
+    },
+    {
+      "index": 205,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "After accepting Marcus and thousands of others, the insurer may buy reinsurance. It cedes part of its risk to a reinsurer, which agrees to reimburse a share of large or accumulated claims. The insurer that issued the policy is the ceding company. Marcus is not a party to that agreement. His contract remains with the original insurer, and he files claims there. Reinsurance lets an insurer write more business, protect itself against a severe year and smooth its results. On a question, keep reinsurance in the insurer-to-insurer lane."
+      }
+    }
+  ],
+  "projected": [
+    {
+      "index": 100,
+      "characters": 591,
+      "credits": 4
+    },
+    {
+      "index": 101,
+      "characters": 546,
+      "credits": 3.7
+    },
+    {
+      "index": 102,
+      "characters": 561,
+      "credits": 3.8
+    },
+    {
+      "index": 103,
+      "characters": 586,
+      "credits": 4
+    },
+    {
+      "index": 104,
+      "characters": 633,
+      "credits": 4.3
+    },
+    {
+      "index": 105,
+      "characters": 578,
+      "credits": 3.9
+    },
+    {
+      "index": 200,
+      "characters": 532,
+      "credits": 3.6
+    },
+    {
+      "index": 201,
+      "characters": 568,
+      "credits": 3.8
+    },
+    {
+      "index": 202,
+      "characters": 528,
+      "credits": 3.6
+    },
+    {
+      "index": 203,
+      "characters": 589,
+      "credits": 4
+    },
+    {
+      "index": 204,
+      "characters": 565,
+      "credits": 3.8
+    },
+    {
+      "index": 205,
+      "characters": 536,
+      "credits": 3.6
+    }
+  ],
+  "estimates": [],
+  "jobs": []
+}

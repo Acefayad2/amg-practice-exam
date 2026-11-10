@@ -1,0 +1,206 @@
+{
+  "created": null,
+  "status": "not_submitted",
+  "lessons": [
+    53,
+    54
+  ],
+  "params": [
+    {
+      "index": 5300,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The Maryland Insurance Administration is the state agency that regulates insurance, headed by the Insurance Commissioner, who is appointed by the Governor. The Commissioner enforces the Insurance Article and the regulations adopted under it. The Administration licenses producers and insurers, examines insurers for solvency, reviews and approves policy forms and rates, investigates consumer complaints, holds hearings, issues orders and penalties and publishes regulations and bulletins. Theo will deal with the Administration as a licensee, as the person complaints about him are sent to, and as the regulator whose rulings decide what his insurers may sell."
+      }
+    },
+    {
+      "index": 5301,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A producer may act only for insurers authorized to do business in Maryland. Soliciting, placing or collecting premium for an unauthorized insurer is prohibited, and the producer who does it can be personally liable for unpaid claims as if he were the insurer, in addition to license discipline and penalties. Checking authorization takes a minute on the Administration’s website. The exception is surplus lines, which applies to property and casualty risks placed through licensed surplus lines brokers when no admitted insurer will write them; it does not open a door for health insurance from unauthorized companies."
+      }
+    },
+    {
+      "index": 5302,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Producers must keep records of their insurance transactions, including applications, correspondence, premium receipts and the appointment documentation from Lesson fifty-one, and must produce them when the Commissioner asks; electronic records must be retrievable within ten working days. Appointment records are kept for five years after termination, and other rules set their own periods. Unlicensed employees may perform clerical and administrative work, collect information, schedule appointments and refer customers to a licensed producer, as long as they do not solicit, discuss coverage terms or receive commissions. The line is conduct, not title, and the licensed producer is responsible for supervising it."
+      }
+    },
+    {
+      "index": 5303,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Compensation for selling, soliciting or negotiating insurance may be paid only to a producer licensed for that line, and a producer may share a commission only with another producer who is licensed. Section ten-one hundred thirty allows renewal or deferred commissions to be paid to someone who held the required license and appointment when the business was written, so a retired producer may keep receiving renewals. It also permits payments to people who do not sell, solicit or negotiate, such as a bonus to a receptionist, provided those payments do not amount to unlawful rebating or inducements. Theo cannot split his commission with Priya for enrolling her staff."
+      }
+    },
+    {
+      "index": 5304,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A producer may not collect premiums or charges different from those the insurer has filed, with narrow exceptions. One exception permits a placement service fee of no more than fifteen percent of the premium when the insurer pays no commission on the policy; on a one thousand dollar premium that ceiling is one hundred fifty dollars. Another permits passing through the actual expense of a client’s credit card payment, with disclosure of accepted payment methods and costs. A producer licensed as an adviser may charge a fee for advice under that license. Any other charge added to a commissioned policy is illegal compensation, however small and however willing the client."
+      }
+    },
+    {
+      "index": 5305,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Premiums Theo collects belong to the insurer, and return premiums belong to the client. He holds both in a fiduciary capacity. Maryland regulations require premium funds to be kept in a premium account separate from operating and personal accounts; mixing them is prohibited commingling. Premiums from several carriers may share one premium account unless a carrier objects. Withdrawals are limited to paying carriers, transferring commissions actually or on average earned, with a carrier letter for averages, and returning premiums; the balance may never fall below the premiums, return premiums and deposits owed. Using premium money for rent, even briefly, is misappropriation and a ground for revocation."
+      }
+    },
+    {
+      "index": 5400,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Misrepresentation is giving a false or misleading account of a policy: its benefits, exclusions, premiums, dividends or the insurer’s financial condition. False advertising is the same deception in a brochure, website, seminar or ad. Telling Priya that a plan covers all prescriptions when it has a formulary, or calling a hospital indemnity policy health insurance, misrepresents. Omitting a material limitation can mislead as surely as a false statement. Maryland treats both as unfair trade practices under Section twenty-seven-two hundred two, with penalties, restitution and license discipline. The cure is the same standard from Lesson ten: say what the policy does, what it does not, and who stands behind it."
+      }
+    },
+    {
+      "index": 5401,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Competition is lawful; lying about competitors is not. Defamation under Section twenty-seven-two hundred four is making or circulating a false or maliciously critical statement about an insurer’s financial condition that is calculated to injure its business. Theo may point out that a rival plan has a narrower network; he may not claim the rival is insolvent without basis. Section twenty-seven-two hundred five prohibits knowingly false statements about an insurer’s financial condition and false or deceptive entries in insurer records, including altering records to mislead an examiner. Fabricating a client’s signature on an application or backdating a receipt falls here as well as under fraud."
+      }
+    },
+    {
+      "index": 5402,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A rebate is anything of value given to induce a purchase that is not specified in the policy: returning part of the commission, paying the first premium, giving a gift card after the sale. Section twenty-seven-two hundred nine prohibits rebating and inducements. Maryland allows educational materials, promotional materials and merchandise costing no more than fifty dollars, but receipt may not be conditioned on buying insurance. A twenty dollar notebook handed to everyone at a seminar is lawful; the same notebook promised only to those who enroll is a rebate. Both parts of the exception, the dollar limit and the no-condition rule, must be met. Rebating is a violation for the producer and for a client who knowingly accepts it."
+      }
+    },
+    {
+      "index": 5403,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Twisting is inducing a policyholder to lapse, surrender, replace, convert or retain a policy through misrepresentation or an incomplete comparison. Section twenty-seven-two hundred thirteen covers retention as well as replacement: telling Rosa her current insurer is failing to make her switch is twisting, and so is falsely telling her the new plan is worse to keep her from switching. An honest, complete comparison that leads to a replacement is lawful, as Lesson fourteen explained. The difference lies in the accuracy and completeness of what the producer says. Medigap and long-term care replacement rules add their own notices on top of the general prohibition."
+      }
+    },
+    {
+      "index": 5404,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Paying someone for referrals is lawful only within limits. A fee to a person who does not sell, solicit or negotiate may be paid only if it is not conditioned on a sale and does not operate as a rebate to the buyer; a payment that depends on the referred customer buying is commission sharing with an unlicensed person. Describing active sales work as a referral does not change its nature. Maryland also prohibits boycott, coercion and intimidation: agreeing with others to refuse to deal with an insurer, or pressuring a lender’s customers to buy insurance through a particular producer as a condition of credit, are unfair trade practices."
+      }
+    },
+    {
+      "index": 5405,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "When a question describes conduct, match it to the practice. A false statement about a policy to make a sale: misrepresentation. The same statement in a mailer: false advertising. A false claim that an insurer is broke: defamation. A forged signature or altered record: false entry. Cash or a gift tied to buying: rebating. A misleading comparison to move or keep a policyholder: twisting. A payment to an unlicensed friend that depends on the sale: unlawful commission sharing dressed as a referral. Each carries administrative penalties, restitution and possible license action, and several are also crimes."
+      }
+    }
+  ],
+  "projected": [
+    {
+      "index": 5300,
+      "characters": 661,
+      "credits": 4.5
+    },
+    {
+      "index": 5301,
+      "characters": 618,
+      "credits": 4.2
+    },
+    {
+      "index": 5302,
+      "characters": 716,
+      "credits": 4.8
+    },
+    {
+      "index": 5303,
+      "characters": 671,
+      "credits": 4.5
+    },
+    {
+      "index": 5304,
+      "characters": 676,
+      "credits": 4.6
+    },
+    {
+      "index": 5305,
+      "characters": 709,
+      "credits": 4.8
+    },
+    {
+      "index": 5400,
+      "characters": 716,
+      "credits": 4.8
+    },
+    {
+      "index": 5401,
+      "characters": 700,
+      "credits": 4.7
+    },
+    {
+      "index": 5402,
+      "characters": 734,
+      "credits": 4.9
+    },
+    {
+      "index": 5403,
+      "characters": 668,
+      "credits": 4.5
+    },
+    {
+      "index": 5404,
+      "characters": 642,
+      "credits": 4.3
+    },
+    {
+      "index": 5405,
+      "characters": 609,
+      "credits": 4.1
+    }
+  ],
+  "estimates": [],
+  "jobs": []
+}
