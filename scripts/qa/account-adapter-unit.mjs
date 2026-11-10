@@ -47,7 +47,7 @@ function fixture(server,{store=new Map(),failWrites=false}={}){
  const body=new Element('body'),controls=new Element('div'),status=new Element('div'),nodes={'account-controls':controls,'account-sync-status':status};body.append(controls,status,new Element('main'));
  const handlers={},timers=new Set(),locks=new Map(),auth=[],redirects=[],scheduledDelays=[];
  const local={get length(){return store.size;},key:i=>[...store.keys()][i]??null,getItem:key=>store.get(key)??null,setItem(key,value){if(f.failWrites)throw Error('storage_full');store.set(key,String(value));},removeItem(key){store.delete(key);}};
- const f={store,failWrites,auth,redirects,handlers,timers,body,scheduledDelays};
+ const f={store,failWrites,auth,redirects,handlers,timers,body,scheduledDelays,status};
  const context={console,JSON,Object,Array,Map,Set,Promise,Number,String,RegExp,Error,Math,Date,encodeURIComponent,queueMicrotask,AbortController,
   document:{body,getElementById:id=>nodes[id]||null,createElement:tag=>new Element(tag),createTextNode:text=>String(text),querySelectorAll:()=>[]},
   location:{pathname:'/course/lesson-03/',search:'',hash:'',replace:url=>redirects.push(url),reload:()=>redirects.push('reload')},
@@ -116,6 +116,11 @@ try {
  {
   const b=backend();b.getHook=async()=>response(200,{user:{id:b.user},records:{},reporting:{status:'pending',retryAfterMs:120000}});const f=fixture(b);await f.api.ready;
   check(f.scheduledDelays.includes(120000),'Coordinator reporting retry honors the server-advertised delay');
+  check(!f.status.children.some(child=>child?.tagName==='BUTTON'),'Saving and reporting never require a manual sync button');
+ }
+ {
+  const b=backend();b.getHook=async()=>response(200,{user:{id:b.user},records:{},reporting:{status:'pending',target:'dashboard',retryAfterMs:30000}});const f=fixture(b);await f.api.ready;
+  check(f.api.statusText().includes('automatically')&&f.scheduledDelays.includes(35000),'A delayed coordinator update is explained honestly and retried automatically');
  }
  {
   const b=backend();b.accessStage='profile';const f=fixture(b);await f.api.ready;

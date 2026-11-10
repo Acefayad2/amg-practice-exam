@@ -18,20 +18,16 @@ function statusText() {
   if (conflicted) return 'Progress changed on another device. Reload saved progress to continue.';
   if (!hydrated) return 'Loading your saved progress…';
   if (queuedSnapshots) return 'Saving progress…';
-  if (failures.size) return localAvailable ? 'Saved on this device. Progress sync is pending.' : 'Progress sync is pending. Keep this page open.';
+  if (failures.size) return localAvailable ? 'Saved on this device. Uploading will resume automatically when connected.' : 'Reconnecting automatically. Keep this page open until your progress is saved.';
   if ([...memory.values()].some(record => record.dirty)) return localAvailable ? 'Saving progress…' : 'Saving progress. Keep this page open until saved.';
-  if (reporting?.status === 'pending' || reporting?.status === 'not_configured') return 'Progress saved. Coordinator reporting is pending.';
-  return 'Saved under your email.';
+  if (reporting?.status === 'pending' && reporting?.target === 'dashboard') return 'Progress saved. Your coordinator’s view will update automatically.';
+  return 'Progress saved automatically.';
 }
 function renderStatus() {
   const slot = document.getElementById('account-sync-status');
   if (!slot) return;
   slot.replaceChildren(document.createTextNode(statusText()));
   slot.setAttribute('role','status');
-  if (!stopped && !conflicted && (failures.size || reporting?.status === 'pending' || reporting?.status === 'not_configured')) {
-    const retry = document.createElement('button'); retry.type = 'button'; retry.textContent = 'Retry sync';
-    retry.addEventListener('click',() => { flushAll(); syncReport(); }); slot.append(' ',retry);
-  }
 }
 function showGuard(message, actions = []) {
   if (!guard) {
