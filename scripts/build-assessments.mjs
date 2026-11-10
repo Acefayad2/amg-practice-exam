@@ -1,7 +1,8 @@
 import fs from 'node:fs';
-import { rng, shuffle, itemPreparer, balanceAnswers } from './assessment-items.mjs';
+import { rng, shuffle, itemPreparer, prepareRotationExtras, balanceAnswers } from './assessment-items.mjs';
 import assert from 'node:assert/strict';
 import {domains,blueprint,simulation} from '../docs/course/assessments/helpers.mjs';
+import additions from '../docs/course/assessments/rotation-additions.mjs';
 import diagnostic from '../docs/course/assessments/diagnostic.mjs';
 import {foundationLessons} from '../docs/course/full-course/foundation-mapping.mjs';
 const readLesson=id=>{const t=fs.readFileSync('public/course/lesson-'+id+'/lesson-data.js','utf8');return JSON.parse(t.slice(t.indexOf('=')+1).trim().replace(/;$/,''));};
@@ -22,7 +23,8 @@ for(const [k,form] of ['A','B','C'].entries()){
 const random=rng(100901),dq=[];diagnostic.forEach((rows,d)=>{assert.equal(rows.length,4);rows.forEach((q,i)=>dq.push(prepare(q,'D-'+(d+1)+'-'+(i+1),d,true,random)));});
 forms.unshift({id:'D',title:'Starting diagnostic',minutes:0,questions:shuffle(dq,random)});
 balanceAnswers(forms,880111);
-const data={version:1,reviewedDate:'2026-09-12',domains,blueprint,forms,lessons:lessons.map(l=>({id:l.id,number:l.number,title:l.title,version:l.version,questions:l.questions.map(q=>({...q,explanation:q.explanations[q.answer]}))}))};
+const extraQuestions=prepareRotationExtras(additions,prepare,'LM-');
+const data={track:'life',extraQuestions,version:1,reviewedDate:'2026-09-12',domains,blueprint,forms,lessons:lessons.map(l=>({id:l.id,number:l.number,title:l.title,version:l.version,questions:l.questions.map(q=>({...q,explanation:q.explanations[q.answer]}))}))};
 fs.mkdirSync('public/course/assessments',{recursive:true});
 fs.writeFileSync('public/course/assessments/assessment-data.js','window.AMG_ASSESSMENTS='+JSON.stringify(data).replaceAll('<','\\u003c')+';\n');
 fs.writeFileSync('docs/course/assessments/manifest.json',JSON.stringify({version:1,date:data.reviewedDate,originalItems:ids.size,forms:forms.map(f=>({id:f.id,questions:f.questions.length,scored:f.questions.filter(q=>q.scored).length,minutes:f.minutes,allocation:domains.map((title,d)=>({title,scored:f.questions.filter(q=>q.scored&&q.domain===d).length}))}))},null,2)+'\n');

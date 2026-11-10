@@ -56,3 +56,13 @@ export function balanceAnswers(forms, seed) {
     });
   }
 }
+
+// Keep each added question's answer order stable if another item is inserted before it.
+export function prepareRotationExtras(rows, prepare, prefix) {
+  return rows.map(({id,domain,source,...item})=>{
+    assert(id.startsWith(prefix) && source.url.startsWith('https://'));
+    const seed=[...id].reduce((n,c)=>(Math.imul(n,31)+c.charCodeAt(0))|0,631);
+    const q=prepare(item,id,domain,true,rng(seed));
+    return {...q,sources:[source,...q.sources]};
+  });
+}
