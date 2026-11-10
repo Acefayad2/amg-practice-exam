@@ -1,0 +1,411 @@
+{
+  "created": "2026-11-10",
+  "status": "reviewed",
+  "lessons": [
+    31,
+    32
+  ],
+  "params": [
+    {
+      "index": 3100,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Rosa’s three thousand six hundred dollar benefit is fixed. If she is disabled for twenty years, inflation could cut its buying power in half. A cost-of-living adjustment rider increases the benefit during a claim, usually after the first twelve months of disability, by a fixed percentage or by the change in the consumer price index, often with a cap. It does not raise the benefit before a claim begins. The rider is one of the more expensive additions because long claims are exactly the ones it grows. For a forty-one-year-old with benefits to sixty-five, Theo recommends it."
+      }
+    },
+    {
+      "index": 3101,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Rosa expects her income to grow. A future increase option, also called a guaranteed insurability rider, lets her buy additional monthly benefit at specified option dates or ages without medical underwriting. The insurer may still require proof of higher income, because benefits must stay within issue limits. The rider protects against the day a new diagnosis makes her uninsurable. Without it, each increase would require a new application and full underwriting. Option dates are usually annual or every few years until a stated age, and unused options may expire."
+      }
+    },
+    {
+      "index": 3102,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "An annual renewable term rider adds temporary monthly benefit at a premium that rises each year, like term life insurance. It suits a young insured who needs a higher benefit now at low initial cost and expects to convert it to level-premium coverage later. Two provisions from Lesson seventeen reappear in disability policies: relation of earnings to insurance, which trims total benefits to actual earnings if the insured becomes overinsured, and change of occupation, which adjusts benefits when the insured moves to a more or less hazardous job. Both keep the benefit tied to real economic loss."
+      }
+    },
+    {
+      "index": 3103,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Disability policies often carry lump-sum or expense benefits beside the monthly check. An accidental death and dismemberment benefit pays a principal sum for accidental death and a capital sum for loss of a limb or sight. A rehabilitation benefit pays for vocational training or retraining that helps the insured return to work, in addition to monthly benefits, sometimes up to a multiple of the monthly amount. A medical reimbursement benefit pays medical expenses for an injury that does not disable the insured, up to a stated amount, so a minor accident produces something even without lost income."
+      }
+    },
+    {
+      "index": 3104,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Some policies promise money back. A return of premium rider refunds a percentage of premiums paid, less claims, at set intervals such as every ten years or at a stated age, provided the policy stays in force. It can raise the premium by half or more, and the refund is really the insured’s own money returned without interest. A cash value benefit, found in a few disability contracts, accumulates a surrender value like permanent life insurance. Both appeal to buyers who dislike paying for something they never use; Theo explains that the same dollars invested elsewhere might do better."
+      }
+    },
+    {
+      "index": 3105,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Rosa’s finished policy: three thousand six hundred dollars a month, ninety-day elimination, benefits to sixty-five, true own occupation, residual benefit, waiver of premium, twenty-four-hour coverage. Riders: cost-of-living adjustment so a long claim keeps pace with prices; future increase option so she can add benefit as her business grows; a rehabilitation benefit so retraining is funded; a modest medical reimbursement for small injuries. She declines return of premium as too expensive for what it returns. Each choice answers a specific risk, and each has a price the producer should state plainly before she signs."
+      }
+    },
+    {
+      "index": 3200,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Disability underwriting starts with the job, not the body. Insurers sort occupations into classes by the physical demands, the hazards and how easily a disabled worker could keep working. An attorney or accountant falls in the best class, with access to true own-occupation definitions, the longest benefit periods and the highest issue limits. Rosa, an electrician, sits in a middle class: her work is physical and hazardous, so her definition may be modified, her benefit period shorter and her premium higher. Some occupations, such as commercial fishing or stunt work, are declined entirely."
+      }
+    },
+    {
+      "index": 3201,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The second pillar is income. The insurer asks for tax returns or pay stubs and applies issue and participation limits. The issue limit is the most benefit it will write; the participation limit is the most total coverage from all sources, including group plans, it will allow. Both are expressed as a replacement ratio, commonly sixty to seventy percent of earned income at modest incomes, falling to forty or fifty percent at high incomes, because wealthier insureds have other resources and benefits are tax-free. Unearned income, such as rent or dividends, reduces the need and the limit. Too much coverage invites malingering."
+      }
+    },
+    {
+      "index": 3202,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Medical underwriting follows. The underwriter reviews the application, physician statements and test results from Lesson twelve for conditions likely to cause disability: back problems, mental health history, cardiovascular disease, diabetes. Hobbies such as piloting, racing or climbing may be excluded or rated. Lifestyle factors, including tobacco and alcohol use, affect the class. Financial stability matters too; a business with falling revenue signals a higher chance that a marginal disability becomes a claim. The underwriter weighs all of it against the occupation class to reach an offer."
+      }
+    },
+    {
+      "index": 3203,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "An applicant with a problem is rarely simply declined. The insurer can issue with a rated premium, charging more for the higher risk. It can attach an exclusion rider that removes claims caused by a named condition, such as Rosa’s shoulder, while covering everything else. It can issue modified benefits: a longer elimination period, a shorter benefit period or a lower monthly amount than requested. It can change the definition from own occupation to modified own occupation. These alternatives let the insurer say yes to most of the risk. A decline is the last resort."
+      }
+    },
+    {
+      "index": 3204,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The underwriter reviews Rosa’s file: electrician, six thousand dollars a month, a shoulder injury treated two years ago, no other coverage. The offer: three thousand six hundred dollars a month, benefits to sixty-five, ninety-day elimination period, modified own-occupation definition because of her class, standard premium for the class, and an exclusion rider for the right shoulder for the first two years, after which the insurer will reconsider on request. Theo explains each term. Rosa can accept, ask for the shoulder rider to be reviewed sooner, or decline the counteroffer. She accepts and signs the amendment at delivery."
+      }
+    },
+    {
+      "index": 3205,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "When a question describes a disability applicant, look for three things. The occupation tells you the class, the definition available and whether the risk is insurable at all. The income tells you the maximum benefit through the replacement ratio, after subtracting other coverage. The medical and lifestyle facts tell you whether to expect a standard issue, a rating, an exclusion rider or a modification. Remember that disability underwriting is stricter than medical plan underwriting today, because disability income remains an excepted benefit that insurers may still underwrite fully."
+      }
+    }
+  ],
+  "projected": [
+    {
+      "index": 3100,
+      "characters": 579,
+      "credits": 3.9
+    },
+    {
+      "index": 3101,
+      "characters": 566,
+      "credits": 3.8
+    },
+    {
+      "index": 3102,
+      "characters": 599,
+      "credits": 4
+    },
+    {
+      "index": 3103,
+      "characters": 602,
+      "credits": 4.1
+    },
+    {
+      "index": 3104,
+      "characters": 589,
+      "credits": 4
+    },
+    {
+      "index": 3105,
+      "characters": 623,
+      "credits": 4.2
+    },
+    {
+      "index": 3200,
+      "characters": 595,
+      "credits": 4
+    },
+    {
+      "index": 3201,
+      "characters": 630,
+      "credits": 4.2
+    },
+    {
+      "index": 3202,
+      "characters": 599,
+      "credits": 4
+    },
+    {
+      "index": 3203,
+      "characters": 571,
+      "credits": 3.9
+    },
+    {
+      "index": 3204,
+      "characters": 631,
+      "credits": 4.3
+    },
+    {
+      "index": 3205,
+      "characters": 590,
+      "credits": 4
+    }
+  ],
+  "estimates": [
+    {
+      "index": 3100,
+      "cost": {
+        "credits": 3.9,
+        "credits_exact": 3.9
+      }
+    },
+    {
+      "index": 3101,
+      "cost": {
+        "credits": 3.8,
+        "credits_exact": 3.8
+      }
+    },
+    {
+      "index": 3102,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 3103,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 3104,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 3105,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 3200,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 3201,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 3202,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 3203,
+      "cost": {
+        "credits": 3.9,
+        "credits_exact": 3.9
+      }
+    },
+    {
+      "index": 3204,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 3205,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 3100,
+      "job_id": "cbbab903-6884-4d57-9b4f-fe418fd83abb",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131932_cbbab903-6884-4d57-9b4f-fe418fd83abb.mp3"
+    },
+    {
+      "index": 3101,
+      "job_id": "dc75c211-0ed5-46cd-bd5f-468b0123eeba",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131932_dc75c211-0ed5-46cd-bd5f-468b0123eeba.mp3"
+    },
+    {
+      "index": 3102,
+      "job_id": "39ef5fb9-08b2-4fbd-9f67-eeeb38defed3",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131932_39ef5fb9-08b2-4fbd-9f67-eeeb38defed3.mp3"
+    },
+    {
+      "index": 3103,
+      "job_id": "aeca7a3a-72ea-4349-aa1b-4ab8a763391a",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131840_aeca7a3a-72ea-4349-aa1b-4ab8a763391a.mp3"
+    },
+    {
+      "index": 3104,
+      "job_id": "42d960f6-f056-4a37-a227-52f1e1c8c03c",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131840_42d960f6-f056-4a37-a227-52f1e1c8c03c.mp3"
+    },
+    {
+      "index": 3105,
+      "job_id": "8a5bfcbe-9ae6-4b38-9997-789d581a145f",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131933_8a5bfcbe-9ae6-4b38-9997-789d581a145f.mp3"
+    },
+    {
+      "index": 3200,
+      "job_id": "6b5ab2ba-3613-4ea9-b26e-2ce3c80f35c1",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132101_6b5ab2ba-3613-4ea9-b26e-2ce3c80f35c1.mp3"
+    },
+    {
+      "index": 3201,
+      "job_id": "b0a806cb-079f-41d3-b4ab-014480342301",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132101_b0a806cb-079f-41d3-b4ab-014480342301.mp3"
+    },
+    {
+      "index": 3202,
+      "job_id": "c50c77e7-44c5-4509-9356-6e504b5004dd",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132101_c50c77e7-44c5-4509-9356-6e504b5004dd.mp3"
+    },
+    {
+      "index": 3203,
+      "job_id": "65deabb7-519f-40c7-997a-023b636f3728",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132101_65deabb7-519f-40c7-997a-023b636f3728.mp3"
+    },
+    {
+      "index": 3204,
+      "job_id": "736eee1f-32c3-49a2-8656-b79523a5467e",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132101_736eee1f-32c3-49a2-8656-b79523a5467e.mp3"
+    },
+    {
+      "index": 3205,
+      "job_id": "6939d25a-7911-4bfd-b5f6-faea49eac8c7",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132101_6939d25a-7911-4bfd-b5f6-faea49eac8c7.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 48.4,
+    "basis": "Provider quotes for confirmed, completed outputs."
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "cbbab903-6884-4d57-9b4f-fe418fd83abb",
+      "dc75c211-0ed5-46cd-bd5f-468b0123eeba",
+      "39ef5fb9-08b2-4fbd-9f67-eeeb38defed3",
+      "aeca7a3a-72ea-4349-aa1b-4ab8a763391a",
+      "42d960f6-f056-4a37-a227-52f1e1c8c03c",
+      "8a5bfcbe-9ae6-4b38-9997-789d581a145f",
+      "6b5ab2ba-3613-4ea9-b26e-2ce3c80f35c1",
+      "b0a806cb-079f-41d3-b4ab-014480342301",
+      "c50c77e7-44c5-4509-9356-6e504b5004dd",
+      "65deabb7-519f-40c7-997a-023b636f3728",
+      "736eee1f-32c3-49a2-8656-b79523a5467e"
+    ],
+    "replacement_indices": [
+      3205
+    ]
+  }
+}

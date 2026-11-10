@@ -1,0 +1,411 @@
+{
+  "created": "2026-11-10",
+  "status": "reviewed",
+  "lessons": [
+    17,
+    18
+  ],
+  "params": [
+    {
+      "index": 1700,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Optional provisions may be included at the insurer’s choice. Under change of occupation, if Rosa moves from office estimating to climbing poles, a more hazardous job, benefits are reduced to what her premium would have bought at the new occupation’s rate. If she moves to a less hazardous job, premium drops and the excess is refunded from the date of change. Under misstatement of age, if she gave the wrong birth date, benefits are adjusted to what the premium would have purchased at her true age. Neither provision voids the policy; both correct the bargain."
+      }
+    },
+    {
+      "index": 1701,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Other insurance in this company limits the total coverage one insurer will carry on a person; excess premium is refunded. Insurance with other companies addresses duplicate coverage the insurer was not told about. On expense-incurred benefits, the insurer pays only its proportionate share of the loss and refunds the excess premium. On other benefits, such as disability income, benefits are prorated. Relation of earnings to insurance prevents profit from disability: if total disability benefits exceed the insured’s earnings at the start of disability, or average earnings over the prior two years, benefits are reduced to earnings, never below two hundred dollars a month."
+      }
+    },
+    {
+      "index": 1702,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Unpaid premium lets the insurer deduct any premium due from a claim payment. Cancellation by the company permits the insurer to cancel with written notice, commonly forty-five days under state rules, refunding unearned premium pro rata; cancellation does not affect a claim that began before it. Conformity with state statutes amends any provision that conflicts with the law of the state where the insured lives so that it meets the minimum the law requires. Illegal occupation and intoxicants and narcotics relieve the insurer of liability for losses from a felony or illegal occupation, or while intoxicated or under unprescribed narcotics."
+      }
+    },
+    {
+      "index": 1703,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Three general provisions frame every policy. The right to examine, or free look, lets the insured return the policy within a stated period after delivery, typically ten days for individual health policies and thirty days for Medicare supplement and long-term care policies in Maryland, for a full refund. The insuring clause is the insurer’s core promise: who is covered, against which perils, for what benefits. The consideration clause states what the insured gives: the premium and the statements in the application. Together they define the exchange, and the rest of the policy qualifies it."
+      }
+    },
+    {
+      "index": 1704,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Renewability tells you who controls the policy’s future. Noncancelable is the strongest: the insurer may neither cancel nor raise the premium until a stated age, often sixty-five. Guaranteed renewable: the insurer may not cancel or refuse renewal, but may raise premiums for an entire class of insureds. Conditionally renewable: the insurer may refuse renewal only for reasons stated in the policy, such as reaching an age or leaving a job, never for health. Renewable at the option of the insurer: the insurer may refuse renewal at any premium due date. Cancelable or nonrenewable term: the insurer may cancel at any time with notice."
+      }
+    },
+    {
+      "index": 1705,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Two smaller provisions finish the set. Interest on claim proceeds requires the insurer to pay interest when a claim is paid late; Maryland’s prompt payment law sets the rate, starting at one point five percent a month on clean claims unpaid after thirty days. The military suspension provision lets an insured called to active duty suspend the policy, with premium refunded for the suspension period, and reinstate it without evidence of insurability within a set time after discharge. Rosa should know that a noncancelable policy she buys today protects both her coverage and her price, while a guaranteed renewable medical plan protects only the coverage."
+      }
+    },
+    {
+      "index": 1800,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Marcus has two quotes on his desk. The first is a traditional plan: he sees a doctor, the doctor bills for the service, and the plan reimburses a share of the charge. That is fee-for-service, also called indemnity: payment follows each service rendered. The second is a health maintenance organization: he pays a fixed monthly amount and the organization provides care through its own doctors and facilities. That is a prepaid basis: the money is paid in advance for care, not after each service. Almost every other difference between plans grows out of this one."
+      }
+    },
+    {
+      "index": 1801,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Older basic plans listed specified coverages: a hospital expense benefit for room and board, a surgical expense benefit paying by a schedule, a physician expense benefit for office visits. Each had its own limits and gaps between them. Comprehensive care, the modern major medical approach, covers the full range of hospital, surgical, physician, diagnostic and preventive services under one deductible and coinsurance structure. The Affordable Care Act requires individual and small group plans to cover ten essential health benefit categories, which pushed the market firmly toward comprehensive design."
+      }
+    },
+    {
+      "index": 1802,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "How much does the plan pay for an appendectomy? A benefit schedule names a flat dollar amount for each procedure, regardless of what the surgeon charges; the patient pays any excess. A usual, customary and reasonable approach pays based on the going rate: the fee the provider usually charges, what similar providers in the area customarily charge, and what is reasonable for the circumstances. Charges above U C R are the patient’s responsibility unless the provider is in network and has agreed to accept the plan’s allowance as payment in full."
+      }
+    },
+    {
+      "index": 1803,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "An indemnity plan lets Marcus see any licensed provider and pays the same share wherever he goes. A managed care plan limits choice to a network of providers who have agreed to discounted fees and plan rules. An H M O generally pays nothing outside the network except emergencies. A P P O pays more in network and less out. The trade-off is simple: limited choice buys lower premiums and negotiated prices; any-provider freedom costs more. The exam describes a plan’s rules and asks you to name it, so anchor each name to its provider rule."
+      }
+    },
+    {
+      "index": 1804,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Vocabulary signals plan type. An insurance company issues a policy to an insured. A nonprofit health service plan or an H M O issues a subscriber contract or evidence of coverage to a subscriber or member. An employer’s self-funded plan covers participants under a plan document governed by ERISA. The words matter because the regulator, the guaranty protection and the contract documents differ. When Priya’s H M O quote calls her workers members and lists copayments instead of coinsurance, those words tell you it is a prepaid, limited-choice plan before you read the benefits."
+      }
+    },
+    {
+      "index": 1805,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Describe any plan with the five pairs. Marcus’s indemnity quote: fee-for-service, comprehensive, U C R reimbursement, any provider, insured. The H M O quote: prepaid, comprehensive, fixed copayments instead of U C R, limited choice with a gatekeeper, member. A P P O sits between them: fee-for-service with negotiated network rates, comprehensive, in-network allowance accepted as payment in full, two levels of provider choice, insured. Lessons nineteen through twenty-two fill in the deductibles, coinsurance, gatekeepers and networks. The concepts here are the grammar; the plan names are the vocabulary."
+      }
+    }
+  ],
+  "projected": [
+    {
+      "index": 1700,
+      "characters": 562,
+      "credits": 3.8
+    },
+    {
+      "index": 1701,
+      "characters": 677,
+      "credits": 4.6
+    },
+    {
+      "index": 1702,
+      "characters": 643,
+      "credits": 4.3
+    },
+    {
+      "index": 1703,
+      "characters": 595,
+      "credits": 4
+    },
+    {
+      "index": 1704,
+      "characters": 635,
+      "credits": 4.3
+    },
+    {
+      "index": 1705,
+      "characters": 657,
+      "credits": 4.4
+    },
+    {
+      "index": 1800,
+      "characters": 563,
+      "credits": 3.8
+    },
+    {
+      "index": 1801,
+      "characters": 605,
+      "credits": 4.1
+    },
+    {
+      "index": 1802,
+      "characters": 547,
+      "credits": 3.7
+    },
+    {
+      "index": 1803,
+      "characters": 540,
+      "credits": 3.6
+    },
+    {
+      "index": 1804,
+      "characters": 580,
+      "credits": 3.9
+    },
+    {
+      "index": 1805,
+      "characters": 607,
+      "credits": 4.1
+    }
+  ],
+  "estimates": [
+    {
+      "index": 1700,
+      "cost": {
+        "credits": 3.8,
+        "credits_exact": 3.8
+      }
+    },
+    {
+      "index": 1701,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "index": 1702,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 1703,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 1704,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 1705,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 1800,
+      "cost": {
+        "credits": 3.8,
+        "credits_exact": 3.8
+      }
+    },
+    {
+      "index": 1801,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 1802,
+      "cost": {
+        "credits": 3.7,
+        "credits_exact": 3.7
+      }
+    },
+    {
+      "index": 1803,
+      "cost": {
+        "credits": 3.6,
+        "credits_exact": 3.6
+      }
+    },
+    {
+      "index": 1804,
+      "cost": {
+        "credits": 3.9,
+        "credits_exact": 3.9
+      }
+    },
+    {
+      "index": 1805,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 1700,
+      "job_id": "ce6f82e3-ab83-4fa7-a717-0c7b3f6a23dc",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130043_ce6f82e3-ab83-4fa7-a717-0c7b3f6a23dc.mp3"
+    },
+    {
+      "index": 1701,
+      "job_id": "ee1f2d15-bea6-4b7a-a1a3-9b1ffb16440e",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130043_ee1f2d15-bea6-4b7a-a1a3-9b1ffb16440e.mp3"
+    },
+    {
+      "index": 1702,
+      "job_id": "4b57737e-d16d-42a3-8727-cdea2f32d464",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130043_4b57737e-d16d-42a3-8727-cdea2f32d464.mp3"
+    },
+    {
+      "index": 1703,
+      "job_id": "6eda1aca-036f-437f-88da-459810a7b98e",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130043_6eda1aca-036f-437f-88da-459810a7b98e.mp3"
+    },
+    {
+      "index": 1704,
+      "job_id": "38674eef-b43b-4c3f-8718-eb98aa7fbcd1",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130043_38674eef-b43b-4c3f-8718-eb98aa7fbcd1.mp3"
+    },
+    {
+      "index": 1705,
+      "job_id": "ca40742e-3ae1-4828-ae11-778e2a54e32a",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130043_ca40742e-3ae1-4828-ae11-778e2a54e32a.mp3"
+    },
+    {
+      "index": 1800,
+      "job_id": "efb23102-4c84-4978-9bba-ca2b064a6419",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130137_efb23102-4c84-4978-9bba-ca2b064a6419.mp3"
+    },
+    {
+      "index": 1801,
+      "job_id": "01d777a8-d4f5-4d63-8ec7-048e4a6a6c0f",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130137_01d777a8-d4f5-4d63-8ec7-048e4a6a6c0f.mp3"
+    },
+    {
+      "index": 1802,
+      "job_id": "cf1b52b4-2809-494c-a86e-cfd1adec9435",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130138_cf1b52b4-2809-494c-a86e-cfd1adec9435.mp3"
+    },
+    {
+      "index": 1803,
+      "job_id": "6e723931-ca9f-44e6-9137-1191a5dc9d8b",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130137_6e723931-ca9f-44e6-9137-1191a5dc9d8b.mp3"
+    },
+    {
+      "index": 1804,
+      "job_id": "9c898cf0-e4a6-46e7-b1ec-e16dfd71df55",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130137_9c898cf0-e4a6-46e7-b1ec-e16dfd71df55.mp3"
+    },
+    {
+      "index": 1805,
+      "job_id": "b17b28f8-5fbb-4d86-991d-55c070672266",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130139_b17b28f8-5fbb-4d86-991d-55c070672266.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 48.6,
+    "basis": "Provider quotes for confirmed, completed outputs."
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "ce6f82e3-ab83-4fa7-a717-0c7b3f6a23dc",
+      "ee1f2d15-bea6-4b7a-a1a3-9b1ffb16440e",
+      "4b57737e-d16d-42a3-8727-cdea2f32d464",
+      "6eda1aca-036f-437f-88da-459810a7b98e",
+      "38674eef-b43b-4c3f-8718-eb98aa7fbcd1",
+      "ca40742e-3ae1-4828-ae11-778e2a54e32a",
+      "efb23102-4c84-4978-9bba-ca2b064a6419",
+      "cf1b52b4-2809-494c-a86e-cfd1adec9435",
+      "6e723931-ca9f-44e6-9137-1191a5dc9d8b",
+      "b17b28f8-5fbb-4d86-991d-55c070672266"
+    ],
+    "replacement_indices": [
+      1801,
+      1804
+    ]
+  }
+}

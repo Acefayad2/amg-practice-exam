@@ -1,0 +1,411 @@
+{
+  "created": "2026-11-10",
+  "status": "reviewed",
+  "lessons": [
+    55,
+    56
+  ],
+  "params": [
+    {
+      "index": 5500,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "When Rosa applies for disability coverage, the insurer collects personal information from her, her physicians, consumer reporting agencies and the M I B. Maryland’s insurance information and privacy protection law requires the insurer to tell her, in a notice of information practices, what kinds of information may be collected, from whom, how it may be used and disclosed, and her rights to see and correct it. Investigative consumer reports require their own notice and the right to be interviewed. Pretext interviews, in which someone pretends to be another person to pry information loose, are prohibited. The law applies to insurers and to producers acting for them."
+      }
+    },
+    {
+      "index": 5501,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "An adverse underwriting decision is a declination, a termination, a rating or restriction, or placement with a different insurer or at a higher rate than applied for. When Rosa’s disability policy comes back rated with an exclusion, the insurer must give her written notice of the adverse decision that either states the specific reasons or tells her she may request them in writing, along with notice of her right to access and correct the information used. On request the insurer must disclose the specific reasons and the items of information that supported them, within the time the law sets, releasing medical information through a physician she names if it prefers."
+      }
+    },
+    {
+      "index": 5502,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Rosa may ask to see the recorded personal information the insurer holds about her, and the insurer must provide it or a summary, identify the sources, and name the people it has disclosed the information to in the recent past. If something is wrong, she may request correction, amendment or deletion. The insurer either corrects the record and notifies anyone who received the wrong information, or explains its refusal in writing and lets her file a statement of dispute that travels with the record. These rights matter most when an M I B code or an inspection report contains an error that would otherwise follow her to every future application."
+      }
+    },
+    {
+      "index": 5503,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Maryland’s privacy regulations, modeled on the federal Gramm-Leach-Bliley Act, govern nonpublic personal financial information. A licensee gives a clear initial privacy notice when a customer relationship begins and an annual notice while it continues, with an exception when the licensee shares only within the permitted categories and its practices have not changed. Before sharing information with a nonaffiliated third party for marketing, the licensee must give an opt-out notice and a reasonable opportunity to respond, such as thirty days for a mailed notice, and must honor the opt-out. Sharing needed to service the transaction, pay claims or comply with law fits exceptions."
+      }
+    },
+    {
+      "index": 5504,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Nonpublic personal health information is treated more strictly. A licensee may not disclose it without the individual’s written authorization, which must describe the information, the recipients, the purpose and its expiration, unless an insurance-function exception applies: underwriting, claims administration, utilization review, fraud investigation, legal compliance and similar functions. Those exceptions let the insurer send Rosa’s records to its underwriter; they do not let Theo mention her diagnosis to her employer or post it in a sales chat. Federal HIPAA privacy rules add parallel duties for health plans and the people working on their behalf."
+      }
+    },
+    {
+      "index": 5505,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Follow Rosa’s file. At application Theo gives her the notice of information practices and the privacy notice. The insurer collects her records under her authorization and orders an inspection report with the required notice. The policy comes back rated; the insurer sends an adverse underwriting notice with the reasons or how to request them. Rosa requests her file, finds an M I B code from a condition that was ruled out, and gets it corrected. Her medical details never leave the insurance functions, and she opts out of marketing sharing when the annual notice arrives. Every step is a rule in this lesson."
+      }
+    },
+    {
+      "index": 5600,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Maryland’s Section fifteen dash four eighteen requires any individual or group health policy that covers dependents to cover a child dependent, including a grandchild in the insured’s court-ordered custody, who is unmarried and under twenty-five, with the same benefits and at the same premium as other dependents. The federal Affordable Care Act requires coverage to age twenty-six without regard to marriage, school or residence, and governs the plans it reaches. On the exam, Maryland’s statute says twenty-five; federal law says twenty-six; the rule more favorable to the child applies to any plan subject to both. Excepted-benefit policies such as accident-only, disability and long-term care are outside Section fifteen dash four eighteen."
+      }
+    },
+    {
+      "index": 5601,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Section fifteen dash four oh one makes a newborn covered from the moment of birth and an adopted child covered from the date of adoption, defined as the earlier of the judicial decree or the assumption of custody pending adoption; a minor placed under a court or testamentary guardianship of at least twelve months is covered from the appointment. Coverage includes care for congenital defects and birth abnormalities. If the policy charges a premium for the child, the insurer may require notice and payment within thirty-one days after the birth, adoption or appointment to continue coverage beyond those thirty-one days. Insurers must offer family coverage on request regardless of marital status and must disclose when it is not included."
+      }
+    },
+    {
+      "index": 5602,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Under Section fifteen dash four oh five, when a parent is ordered to provide health coverage for a child, the carrier must enroll the child regardless of enrollment periods, at the request of either parent, the child support agency or the Department of Health, and may not refuse because the child was born outside marriage, is not a tax dependent, lives elsewhere or receives Medicaid. Carriers act on a medical support notice within twenty business days. Separately, a dependent child who reaches the limiting age but cannot support himself because of an intellectual disability or physical handicap, and who depends on the insured, stays covered as long as the incapacity continues, with proof furnished when the age is reached and periodically thereafter."
+      }
+    },
+    {
+      "index": 5603,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A mandated offer requires the insurer to make a benefit available; the policyholder chooses whether to buy it. Section fifteen dash eight oh one is the model: insurers and nonprofit health service plans issuing group policies on an expense-incurred basis must offer the policyholder the option of benefits for the care of people with Alzheimer’s disease, including nursing home and custodial care, and a similar option for elderly people with other diseases the Commissioner designates, subject to reasonable limits such as copayments and maximums. Priya may accept or decline the option for her bakery; the carrier may not fail to offer it. Continuation rights after death, divorce and job loss are also required features of group contracts."
+      }
+    },
+    {
+      "index": 5604,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A mandated benefit must be included in the policy. Maryland’s list is long; the exam favors these. Mental health and substance use disorder treatment at parity with physical illness, including partial hospitalization for at least sixty days, under Section fifteen dash eight oh two. Off-label drug uses recognized in standard references, Section fifteen dash eight oh four. In vitro fertilization for policies with pregnancy benefits, up to three attempts per live birth and a one hundred thousand dollar lifetime limit, with a religious organization exception, Section fifteen dash eight ten. Reconstructive breast surgery after mastectomy. Hearing aids for minors, one thousand four hundred dollars per ear every thirty-six months, Section fifteen dash eight thirty-eight. Surgery for morbid obesity meeting N I H standards, Section fifteen dash eight thirty-nine. Tobacco cessation drugs and two ninety-day courses of nicotine replacement a year, Section fifteen dash eight forty-one."
+      }
+    },
+    {
+      "index": 5605,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Several Maryland rules complete the picture. Carriers must pay or respond to claims within thirty days, with interest on late clean claims, under Section fifteen dash ten oh five. Members may grieve adverse decisions and complain to the Administration, which can order independent review. A certificate holder whose spouse dies may add the children who were on the spouse’s policy within six months without evidence of insurability. Mandated benefits and offers bind insurers, nonprofit health service plans and H M O plans alike. The Maryland Health Care Commission evaluates the cost of mandates. When a question names a Maryland requirement, ask three things: who must comply, who is covered and what must be offered or paid."
+      }
+    }
+  ],
+  "projected": [
+    {
+      "index": 5500,
+      "characters": 672,
+      "credits": 4.5
+    },
+    {
+      "index": 5501,
+      "characters": 671,
+      "credits": 4.5
+    },
+    {
+      "index": 5502,
+      "characters": 648,
+      "credits": 4.4
+    },
+    {
+      "index": 5503,
+      "characters": 684,
+      "credits": 4.6
+    },
+    {
+      "index": 5504,
+      "characters": 658,
+      "credits": 4.4
+    },
+    {
+      "index": 5505,
+      "characters": 611,
+      "credits": 4.1
+    },
+    {
+      "index": 5600,
+      "characters": 745,
+      "credits": 5
+    },
+    {
+      "index": 5601,
+      "characters": 742,
+      "credits": 5
+    },
+    {
+      "index": 5602,
+      "characters": 759,
+      "credits": 5.1
+    },
+    {
+      "index": 5603,
+      "characters": 742,
+      "credits": 5
+    },
+    {
+      "index": 5604,
+      "characters": 987,
+      "credits": 6.6
+    },
+    {
+      "index": 5605,
+      "characters": 728,
+      "credits": 4.9
+    }
+  ],
+  "estimates": [
+    {
+      "index": 5500,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 5501,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 5502,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 5503,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "index": 5504,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 5505,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 5600,
+      "cost": {
+        "credits": 5,
+        "credits_exact": 5
+      }
+    },
+    {
+      "index": 5601,
+      "cost": {
+        "credits": 5,
+        "credits_exact": 5
+      }
+    },
+    {
+      "index": 5602,
+      "cost": {
+        "credits": 5.1,
+        "credits_exact": 5.1
+      }
+    },
+    {
+      "index": 5603,
+      "cost": {
+        "credits": 5,
+        "credits_exact": 5
+      }
+    },
+    {
+      "index": 5604,
+      "cost": {
+        "credits": 6.6,
+        "credits_exact": 6.6
+      }
+    },
+    {
+      "index": 5605,
+      "cost": {
+        "credits": 4.9,
+        "credits_exact": 4.9
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 5500,
+      "job_id": "d63e0c50-4f0a-476a-a8e1-3d8642478255",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132418_d63e0c50-4f0a-476a-a8e1-3d8642478255.mp3"
+    },
+    {
+      "index": 5501,
+      "job_id": "50040930-3bca-48f2-bf66-2c4a980a77aa",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132419_50040930-3bca-48f2-bf66-2c4a980a77aa.mp3"
+    },
+    {
+      "index": 5502,
+      "job_id": "b7f7ac07-0448-4cc7-9fec-314dc9db4890",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132604_b7f7ac07-0448-4cc7-9fec-314dc9db4890.mp3"
+    },
+    {
+      "index": 5503,
+      "job_id": "c4e677b8-1f59-47bd-a51e-8b8a6673f9e3",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132601_c4e677b8-1f59-47bd-a51e-8b8a6673f9e3.mp3"
+    },
+    {
+      "index": 5504,
+      "job_id": "51e91f89-4aab-4192-b400-c95cd70e945c",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132645_51e91f89-4aab-4192-b400-c95cd70e945c.mp3"
+    },
+    {
+      "index": 5505,
+      "job_id": "ea413af4-ab5c-4a95-adb2-13ad4d181752",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132728_ea413af4-ab5c-4a95-adb2-13ad4d181752.mp3"
+    },
+    {
+      "index": 5600,
+      "job_id": "d9082ec0-ec26-46d3-be36-75342b620264",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132806_d9082ec0-ec26-46d3-be36-75342b620264.mp3"
+    },
+    {
+      "index": 5601,
+      "job_id": "67aa9111-37ee-460b-bfc4-ae9f2df12bac",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132806_67aa9111-37ee-460b-bfc4-ae9f2df12bac.mp3"
+    },
+    {
+      "index": 5602,
+      "job_id": "a7c2e61a-4cfa-4e97-b632-d7026c6f9558",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132902_a7c2e61a-4cfa-4e97-b632-d7026c6f9558.mp3"
+    },
+    {
+      "index": 5603,
+      "job_id": "b8658939-5aad-4761-ac97-d5ae577d77d9",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132903_b8658939-5aad-4761-ac97-d5ae577d77d9.mp3"
+    },
+    {
+      "index": 5604,
+      "job_id": "cc92c665-e74b-477c-925e-43dc9351c8c8",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133017_cc92c665-e74b-477c-925e-43dc9351c8c8.mp3"
+    },
+    {
+      "index": 5605,
+      "job_id": "47e92a81-e732-40b3-944b-6c4801c75169",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133017_47e92a81-e732-40b3-944b-6c4801c75169.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 58.1,
+    "basis": "Provider quotes for confirmed, completed outputs."
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "d63e0c50-4f0a-476a-a8e1-3d8642478255",
+      "50040930-3bca-48f2-bf66-2c4a980a77aa",
+      "b7f7ac07-0448-4cc7-9fec-314dc9db4890",
+      "51e91f89-4aab-4192-b400-c95cd70e945c",
+      "ea413af4-ab5c-4a95-adb2-13ad4d181752",
+      "67aa9111-37ee-460b-bfc4-ae9f2df12bac",
+      "a7c2e61a-4cfa-4e97-b632-d7026c6f9558",
+      "b8658939-5aad-4761-ac97-d5ae577d77d9",
+      "cc92c665-e74b-477c-925e-43dc9351c8c8"
+    ],
+    "replacement_indices": [
+      5503,
+      5600,
+      5605
+    ]
+  }
+}

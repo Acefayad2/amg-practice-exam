@@ -1,0 +1,411 @@
+{
+  "created": "2026-11-10",
+  "status": "reviewed",
+  "lessons": [
+    59,
+    60
+  ],
+  "params": [
+    {
+      "index": 5900,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Marcus’s P P O has a one thousand five hundred dollar deductible, eighty percent in-network coinsurance, sixty percent out of network and a five thousand dollar out-of-pocket maximum. He is admitted to an in-network hospital with allowed charges of twenty-eight thousand dollars. Work it in order. Deductible first: one thousand five hundred. Coinsurance second: twenty percent of the remaining twenty-six thousand five hundred is five thousand three hundred. Cap last: his total of six thousand eight hundred exceeds the five thousand maximum, so he pays five thousand and the plan pays twenty-three thousand. If the same stay had been out of network, the lower benefit level and any balance bill would apply, and the surprise billing rules might protect him only for emergency care."
+      }
+    },
+    {
+      "index": 5901,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Rosa pays her disability premium quarterly. The premium due April first is not paid. Her policy allows the thirty-one-day grace period that applies to quarterly premiums, so she is covered through May first. On April twentieth she is injured. The claim is covered, less the overdue premium. She must give notice within twenty days of the loss, the insurer must send claim forms within fifteen days, and she must furnish proof of loss within ninety days. Had the injury come on May fifteenth after a lapse, she would need reinstatement, and a sickness beginning within ten days of reinstatement would not be covered."
+      }
+    },
+    {
+      "index": 5902,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Rosa’s policy pays three thousand six hundred dollars a month after a ninety-day elimination period, with a residual benefit and a social insurance supplement of one thousand two hundred dollars. She is totally disabled on June first. Benefits accrue from August thirtieth and the first check arrives at the end of September. In month ten Social Security approves her for one thousand five hundred dollars a month, so the supplement stops. In month fourteen she returns half time with a forty percent income loss; her residual benefit is forty percent of three thousand six hundred, which is one thousand four hundred forty, and her waiver of premium continues as long as she remains disabled under the policy."
+      }
+    },
+    {
+      "index": 5903,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Elena’s coworker at a twelve-employee clinic is laid off on March thirty-first after two years of coverage. Cobra does not apply, because the employer has fewer than twenty employees. Maryland continuation does: she had more than three months of coverage and lost her job for a reason other than cause, so she may elect within forty-five days to continue the group plan for up to eighteen months at the employer-plus-employee premium plus an approved fee. She may also convert to an individual policy within thirty-one days, or use a sixty-day special enrollment period on Maryland Health Connection, where a premium tax credit may make a marketplace plan cheaper than continuation."
+      }
+    },
+    {
+      "index": 5904,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Marcus, born in September, and Elena, born in March, both carry family coverage. Their son’s allowed charges are six thousand dollars. Elena’s plan is primary under the birthday rule and pays four thousand two hundred after its deductible and coinsurance. Marcus’s plan is secondary and would have paid four thousand eight hundred alone, so it pays the one thousand eight hundred balance and the family owes nothing. In July Marcus’s employer changes carriers; a deductible carryover credits what he already paid, and no-loss no-gain keeps his son’s ongoing orthopedic treatment covered. In November Elena’s hours drop below the eligible class, triggering her own continuation rights."
+      }
+    },
+    {
+      "index": 5905,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Three clients, three designs. Priya’s younger employees want the lowest premium and accept a network and referrals: an H M O. Marcus wants to keep a specialist outside any network and will pay more: a P P O. Rosa wants H M O pricing most of the time with the option to go outside when it matters: a point-of-service plan. For each, the questions are the same. Is a referral required? Is there any out-of-network benefit? Are copayments or coinsurance used? Add the Lesson nineteen arithmetic and the Lesson twenty-three coordination rules, and most plan questions on the exam become a matter of reading carefully and working in order."
+      }
+    },
+    {
+      "index": 6000,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Theo passes the exam, pays the fifty-four dollar fee and receives his license in January. In February a carrier he has never worked with accepts a health application he solicited; it must appoint him or reject the application within thirty days, and it appoints him, sending written documentation within thirty days. In April he moves and updates his address within thirty days. In October he is charged with a misdemeanor unrelated to driving and reports it within thirty days of his first court appearance, attaching the charging document. Every clock in his first year is thirty days except the one he must not confuse: continuing education, due fifteen days before his license expires."
+      }
+    },
+    {
+      "index": 6001,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "In March a client pays a one thousand two hundred dollar annual premium in cash. Theo deposits it in A M G’s premium account, never the operating account, and remits it to the carrier. A different carrier pays no commission on a small plan, so Theo charges a placement fee; the law caps it at fifteen percent of the premium, one hundred eighty dollars on one thousand two hundred. A prospect hesitates, and Theo is tempted to offer to pay her first month; that would be rebating. Instead he gives her the same twenty dollar planning guide he gives everyone, which is lawful because it costs under fifty dollars and is not conditioned on buying."
+      }
+    },
+    {
+      "index": 6002,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A competitor’s client asks Theo to compare plans. Theo lays out both plans accurately, including the competitor’s broader network and his own plan’s lower premium, and documents the comparison. That is a fair presentation, and if the client switches, a lawful replacement. He does not tell her the competitor is in financial trouble, which would be defamation if false, and he does not hide his plan’s referral requirement, which would make the comparison twisting. He also knows that a false claim in a mailer would be false advertising, for which his insurer and he would both answer."
+      }
+    },
+    {
+      "index": 6003,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Priya’s bakery, with eighteen average employees, is a small employer and enjoys guaranteed availability and community rating. One baker’s twenty-four-year-old married son is covered: Maryland requires coverage of unmarried children to twenty-five, but the federal rule to twenty-six regardless of marriage governs her plan. Another baker has a child on January tenth; the baby is covered from birth, and because the plan charges per child, notice and premium are due within thirty-one days. A third baker is ordered by a court to cover a child who lives with the other parent; the carrier enrolls the child at once, outside any enrollment period."
+      }
+    },
+    {
+      "index": 6004,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Dennis enrolls in Part B in March at sixty-five. His six-month Medigap open enrollment runs through August; the Plan G policy Theo delivers on April tenth carries a thirty-day return right through May tenth. Next year, in the thirty days after his birthday, he may switch to an equal or lesser plan without underwriting under Maryland’s birthday rule. Gloria, seventy-one, considers long-term care insurance. Theo gives her the consumer guide, the outline of coverage and the personal worksheet, the insurer offers five percent compound inflation protection and a nonforfeiture benefit, and her three thousand dollar premium earns a five hundred dollar Maryland tax credit."
+      }
+    },
+    {
+      "index": 6005,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "In December a former client complains to the Administration that Theo misdescribed a limited policy. The Commissioner sends notice of a proposed penalty; Theo demands a hearing in writing, and it is held within thirty days. His documented sales presentation, outline of coverage and delivery receipt show what he said and gave the client. The complaint is dismissed. Had the facts been otherwise, the penalty could have run from one hundred to five thousand dollars per violation with restitution, and a revocation would have left him thirty days to seek judicial review. Records, candor and calendars are the whole of Maryland compliance."
+      }
+    }
+  ],
+  "projected": [
+    {
+      "index": 5900,
+      "characters": 784,
+      "credits": 5.3
+    },
+    {
+      "index": 5901,
+      "characters": 615,
+      "credits": 4.1
+    },
+    {
+      "index": 5902,
+      "characters": 710,
+      "credits": 4.8
+    },
+    {
+      "index": 5903,
+      "characters": 682,
+      "credits": 4.6
+    },
+    {
+      "index": 5904,
+      "characters": 684,
+      "credits": 4.6
+    },
+    {
+      "index": 5905,
+      "characters": 634,
+      "credits": 4.3
+    },
+    {
+      "index": 6000,
+      "characters": 689,
+      "credits": 4.6
+    },
+    {
+      "index": 6001,
+      "characters": 644,
+      "credits": 4.3
+    },
+    {
+      "index": 6002,
+      "characters": 586,
+      "credits": 4
+    },
+    {
+      "index": 6003,
+      "characters": 646,
+      "credits": 4.4
+    },
+    {
+      "index": 6004,
+      "characters": 673,
+      "credits": 4.5
+    },
+    {
+      "index": 6005,
+      "characters": 639,
+      "credits": 4.3
+    }
+  ],
+  "estimates": [
+    {
+      "index": 5900,
+      "cost": {
+        "credits": 5.3,
+        "credits_exact": 5.3
+      }
+    },
+    {
+      "index": 5901,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 5902,
+      "cost": {
+        "credits": 4.8,
+        "credits_exact": 4.8
+      }
+    },
+    {
+      "index": 5903,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "index": 5904,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "index": 5905,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 6000,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "index": 6001,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 6002,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 6003,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 6004,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 6005,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 5900,
+      "job_id": "8d955bf7-fee4-4326-9a0e-d7654195798a",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130934_8d955bf7-fee4-4326-9a0e-d7654195798a.mp3"
+    },
+    {
+      "index": 5901,
+      "job_id": "8b5e9a37-123f-4995-b537-c0fe13b451ca",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130934_8b5e9a37-123f-4995-b537-c0fe13b451ca.mp3"
+    },
+    {
+      "index": 5902,
+      "job_id": "eab971a5-277e-470c-b0c8-a9d1c514e206",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131106_eab971a5-277e-470c-b0c8-a9d1c514e206.mp3"
+    },
+    {
+      "index": 5903,
+      "job_id": "8c1aa67e-9642-4142-b494-008ccb2bbefb",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131106_8c1aa67e-9642-4142-b494-008ccb2bbefb.mp3"
+    },
+    {
+      "index": 5904,
+      "job_id": "ba1a3c6f-1885-4f30-a883-0912909b168d",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131254_ba1a3c6f-1885-4f30-a883-0912909b168d.mp3"
+    },
+    {
+      "index": 5905,
+      "job_id": "6b0f49ec-ba6c-4459-9f0b-ee3a84902d6a",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131255_6b0f49ec-ba6c-4459-9f0b-ee3a84902d6a.mp3"
+    },
+    {
+      "index": 6000,
+      "job_id": "9482774c-d446-4621-ad5f-68bb833c9fea",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131344_9482774c-d446-4621-ad5f-68bb833c9fea.mp3"
+    },
+    {
+      "index": 6001,
+      "job_id": "cb10b8fd-b7aa-48ff-8f02-7c22638cbf98",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131344_cb10b8fd-b7aa-48ff-8f02-7c22638cbf98.mp3"
+    },
+    {
+      "index": 6002,
+      "job_id": "7b32b064-be8f-44e3-9039-585608a2c3ae",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131452_7b32b064-be8f-44e3-9039-585608a2c3ae.mp3"
+    },
+    {
+      "index": 6003,
+      "job_id": "7580fb8d-d98e-48a9-b2c2-f01bdc3ded88",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131452_7580fb8d-d98e-48a9-b2c2-f01bdc3ded88.mp3"
+    },
+    {
+      "index": 6004,
+      "job_id": "735870a9-deff-4e33-9b6f-13e624085f22",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131554_735870a9-deff-4e33-9b6f-13e624085f22.mp3"
+    },
+    {
+      "index": 6005,
+      "job_id": "6bebf8d7-43e3-4674-9b6d-e9f035f1cb0d",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131554_6bebf8d7-43e3-4674-9b6d-e9f035f1cb0d.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 53.8,
+    "basis": "Provider quotes for confirmed, completed outputs."
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "8b5e9a37-123f-4995-b537-c0fe13b451ca",
+      "eab971a5-277e-470c-b0c8-a9d1c514e206",
+      "8c1aa67e-9642-4142-b494-008ccb2bbefb",
+      "ba1a3c6f-1885-4f30-a883-0912909b168d",
+      "9482774c-d446-4621-ad5f-68bb833c9fea",
+      "cb10b8fd-b7aa-48ff-8f02-7c22638cbf98",
+      "7580fb8d-d98e-48a9-b2c2-f01bdc3ded88",
+      "735870a9-deff-4e33-9b6f-13e624085f22"
+    ],
+    "replacement_indices": [
+      5900,
+      5905,
+      6002,
+      6005
+    ]
+  }
+}

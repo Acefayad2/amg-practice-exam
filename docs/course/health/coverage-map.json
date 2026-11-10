@@ -1,0 +1,8439 @@
+[
+  {
+    "id": "1.1.01",
+    "title": "Why licensing exists; general provisions and definitions",
+    "teaching": [
+      {
+        "lesson": "49",
+        "title": "Why a license"
+      },
+      {
+        "lesson": "49",
+        "title": "Temporary licenses and the rule of thumb"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "49",
+        "id": "H49-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.1.02",
+    "title": "Initial qualifications, examination, application and fee",
+    "teaching": [
+      {
+        "lesson": "49",
+        "title": "Qualifying and applying"
+      },
+      {
+        "lesson": "49",
+        "title": "Temporary licenses and the rule of thumb"
+      },
+      {
+        "lesson": "49",
+        "title": "The application is a legal disclosure"
+      },
+      {
+        "lesson": "60",
+        "title": "Case one: the first application"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "49",
+        "id": "H49-02"
+      },
+      {
+        "lesson": "49",
+        "id": "H49-03"
+      },
+      {
+        "lesson": "49",
+        "id": "H49-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.1.03",
+    "title": "Producers, advisers, nonresidents and business entities",
+    "teaching": [
+      {
+        "lesson": "49",
+        "title": "Producers, advisers and nonresidents"
+      },
+      {
+        "lesson": "49",
+        "title": "Business entities"
+      },
+      {
+        "lesson": "49",
+        "title": "Temporary licenses and the rule of thumb"
+      },
+      {
+        "lesson": "49",
+        "title": "Read exceptions narrowly"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "49",
+        "id": "H49-04"
+      },
+      {
+        "lesson": "49",
+        "id": "H49-05"
+      },
+      {
+        "lesson": "49",
+        "id": "H49-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.1.04",
+    "title": "Exceptions to licensing",
+    "teaching": [
+      {
+        "lesson": "49",
+        "title": "Exceptions"
+      },
+      {
+        "lesson": "49",
+        "title": "Temporary licenses and the rule of thumb"
+      },
+      {
+        "lesson": "49",
+        "title": "Read exceptions narrowly"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "49",
+        "id": "H49-01"
+      },
+      {
+        "lesson": "49",
+        "id": "H49-07"
+      },
+      {
+        "lesson": "49",
+        "id": "H49-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.1.05",
+    "title": "Duration, termination and renewal of a license",
+    "teaching": [
+      {
+        "lesson": "50",
+        "title": "Two clocks"
+      },
+      {
+        "lesson": "50",
+        "title": "If the license expires"
+      },
+      {
+        "lesson": "50",
+        "title": "Theo’s compliance calendar"
+      },
+      {
+        "lesson": "50",
+        "title": "A timely renewal protects the license"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "50",
+        "id": "H50-03"
+      },
+      {
+        "lesson": "50",
+        "id": "H50-04"
+      },
+      {
+        "lesson": "60",
+        "id": "H60-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.1.06",
+    "title": "Address and name changes; assumed names",
+    "teaching": [
+      {
+        "lesson": "50",
+        "title": "Changes the Administration must hear about"
+      },
+      {
+        "lesson": "50",
+        "title": "Theo’s compliance calendar"
+      },
+      {
+        "lesson": "60",
+        "title": "Case one: the first application"
+      },
+      {
+        "lesson": "60",
+        "title": "Thirty days is not one rule"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "50",
+        "id": "H50-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.1.07",
+    "title": "Reporting criminal prosecutions and other states’ actions",
+    "teaching": [
+      {
+        "lesson": "50",
+        "title": "Reporting prosecutions and other states’ actions"
+      },
+      {
+        "lesson": "50",
+        "title": "Theo’s compliance calendar"
+      },
+      {
+        "lesson": "60",
+        "title": "Case one: the first application"
+      },
+      {
+        "lesson": "60",
+        "title": "Thirty days is not one rule"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "50",
+        "id": "H50-06"
+      },
+      {
+        "lesson": "50",
+        "id": "H50-07"
+      },
+      {
+        "lesson": "50",
+        "id": "H50-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.1.08",
+    "title": "Continuing education",
+    "teaching": [
+      {
+        "lesson": "50",
+        "title": "Continuing education"
+      },
+      {
+        "lesson": "50",
+        "title": "Theo’s compliance calendar"
+      },
+      {
+        "lesson": "50",
+        "title": "Special continuing education rules are not blanket exemptions"
+      },
+      {
+        "lesson": "60",
+        "title": "Case one: the first application"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "50",
+        "id": "H50-01"
+      },
+      {
+        "lesson": "50",
+        "id": "H50-02"
+      },
+      {
+        "lesson": "60",
+        "id": "H60-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.1.09",
+    "title": "Producer contract versus appointment; individual versus agency appointment",
+    "teaching": [
+      {
+        "lesson": "51",
+        "title": "Three permissions"
+      },
+      {
+        "lesson": "51",
+        "title": "Individuals and agencies"
+      },
+      {
+        "lesson": "51",
+        "title": "A license without an appointment"
+      },
+      {
+        "lesson": "51",
+        "title": "Why the register matters"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "51",
+        "id": "H51-01"
+      },
+      {
+        "lesson": "51",
+        "id": "H51-02"
+      },
+      {
+        "lesson": "51",
+        "id": "H51-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.1.10",
+    "title": "Solicitation before appointment; appointment after licensing",
+    "teaching": [
+      {
+        "lesson": "51",
+        "title": "Soliciting before appointment"
+      },
+      {
+        "lesson": "51",
+        "title": "A license without an appointment"
+      },
+      {
+        "lesson": "51",
+        "title": "Insurer authorization comes first"
+      },
+      {
+        "lesson": "60",
+        "title": "Case one: the first application"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "51",
+        "id": "H51-03"
+      },
+      {
+        "lesson": "51",
+        "id": "H51-08"
+      },
+      {
+        "lesson": "60",
+        "id": "H60-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.1.11",
+    "title": "Appointment acknowledgment, cessation and termination notices",
+    "teaching": [
+      {
+        "lesson": "51",
+        "title": "Documenting the appointment"
+      },
+      {
+        "lesson": "51",
+        "title": "When the appointment ends"
+      },
+      {
+        "lesson": "51",
+        "title": "A license without an appointment"
+      },
+      {
+        "lesson": "51",
+        "title": "Why the register matters"
+      },
+      {
+        "lesson": "60",
+        "title": "Thirty days is not one rule"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "51",
+        "id": "H51-04"
+      },
+      {
+        "lesson": "51",
+        "id": "H51-05"
+      },
+      {
+        "lesson": "51",
+        "id": "H51-06"
+      },
+      {
+        "lesson": "51",
+        "id": "H51-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.1.12",
+    "title": "Probation, suspension, revocation and refusal to issue or renew",
+    "teaching": [
+      {
+        "lesson": "52",
+        "title": "Grounds for discipline"
+      },
+      {
+        "lesson": "52",
+        "title": "What the Commissioner may do"
+      },
+      {
+        "lesson": "52",
+        "title": "The duty to report"
+      },
+      {
+        "lesson": "52",
+        "title": "Suspension, revocation and reapplication"
+      },
+      {
+        "lesson": "52",
+        "title": "Business entities and their people"
+      },
+      {
+        "lesson": "60",
+        "title": "Case six: the complaint"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "52",
+        "id": "H52-01"
+      },
+      {
+        "lesson": "52",
+        "id": "H52-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.1.13",
+    "title": "Cease-and-desist orders, penalties and hearings",
+    "teaching": [
+      {
+        "lesson": "52",
+        "title": "What the Commissioner may do"
+      },
+      {
+        "lesson": "52",
+        "title": "Notice and hearing"
+      },
+      {
+        "lesson": "52",
+        "title": "Judicial review"
+      },
+      {
+        "lesson": "60",
+        "title": "Case six: the complaint"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "52",
+        "id": "H52-02"
+      },
+      {
+        "lesson": "52",
+        "id": "H52-03"
+      },
+      {
+        "lesson": "52",
+        "id": "H52-04"
+      },
+      {
+        "lesson": "52",
+        "id": "H52-05"
+      },
+      {
+        "lesson": "52",
+        "id": "H52-06"
+      },
+      {
+        "lesson": "60",
+        "id": "H60-10"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.1.14",
+    "title": "Insurance fraud and the Fraud Division",
+    "teaching": [
+      {
+        "lesson": "52",
+        "title": "Insurance fraud"
+      },
+      {
+        "lesson": "52",
+        "title": "The duty to report"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "52",
+        "id": "H52-07"
+      },
+      {
+        "lesson": "52",
+        "id": "H52-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.2.01",
+    "title": "MIA general duties and powers",
+    "teaching": [
+      {
+        "lesson": "53",
+        "title": "The Administration and the Commissioner"
+      },
+      {
+        "lesson": "60",
+        "title": "When to call the Administration"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "53",
+        "id": "H53-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.2.02",
+    "title": "Acting for an unauthorized insurer",
+    "teaching": [
+      {
+        "lesson": "53",
+        "title": "Unauthorized insurers"
+      },
+      {
+        "lesson": "60",
+        "title": "When to call the Administration"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "53",
+        "id": "H53-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.2.03",
+    "title": "Record retention",
+    "teaching": [
+      {
+        "lesson": "53",
+        "title": "Records and unlicensed staff"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "53",
+        "id": "H53-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.2.04",
+    "title": "Activities permitted to unlicensed individuals",
+    "teaching": [
+      {
+        "lesson": "53",
+        "title": "Records and unlicensed staff"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "53",
+        "id": "H53-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.2.05",
+    "title": "Payment and sharing of commissions",
+    "teaching": [
+      {
+        "lesson": "53",
+        "title": "Commissions and their sharing"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "53",
+        "id": "H53-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.2.06",
+    "title": "Charging fees; illegal compensation and its exceptions",
+    "teaching": [
+      {
+        "lesson": "53",
+        "title": "Fees and illegal compensation"
+      },
+      {
+        "lesson": "53",
+        "title": "Fees need a legal basis"
+      },
+      {
+        "lesson": "60",
+        "title": "Case two: money and favors"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "53",
+        "id": "H53-06"
+      },
+      {
+        "lesson": "60",
+        "id": "H60-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.2.07",
+    "title": "Fiduciary capacity and trust accounts",
+    "teaching": [
+      {
+        "lesson": "53",
+        "title": "Fiduciary capacity and trust accounts"
+      },
+      {
+        "lesson": "53",
+        "title": "Voluntary deposits are not commingling"
+      },
+      {
+        "lesson": "60",
+        "title": "Case two: money and favors"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "53",
+        "id": "H53-07"
+      },
+      {
+        "lesson": "53",
+        "id": "H53-08"
+      },
+      {
+        "lesson": "60",
+        "id": "H60-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.2.08",
+    "title": "Misrepresentation and false advertising",
+    "teaching": [
+      {
+        "lesson": "54",
+        "title": "Misrepresentation and false advertising"
+      },
+      {
+        "lesson": "54",
+        "title": "Referrals and boycott"
+      },
+      {
+        "lesson": "54",
+        "title": "Name the practice"
+      },
+      {
+        "lesson": "54",
+        "title": "Blank signed forms"
+      },
+      {
+        "lesson": "60",
+        "title": "Case three: the comparison"
+      },
+      {
+        "lesson": "60",
+        "title": "Case six: the complaint"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "54",
+        "id": "H54-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.2.09",
+    "title": "Defamation and false statements or entries",
+    "teaching": [
+      {
+        "lesson": "54",
+        "title": "Defamation and false entries"
+      },
+      {
+        "lesson": "54",
+        "title": "Name the practice"
+      },
+      {
+        "lesson": "54",
+        "title": "Blank signed forms"
+      },
+      {
+        "lesson": "60",
+        "title": "Case three: the comparison"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "54",
+        "id": "H54-02"
+      },
+      {
+        "lesson": "54",
+        "id": "H54-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.2.10",
+    "title": "Notice of adverse underwriting decisions",
+    "teaching": [
+      {
+        "lesson": "55",
+        "title": "Adverse underwriting decisions"
+      },
+      {
+        "lesson": "55",
+        "title": "Access and correction"
+      },
+      {
+        "lesson": "55",
+        "title": "Handling Rosa’s information"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "55",
+        "id": "H55-01"
+      },
+      {
+        "lesson": "55",
+        "id": "H55-02"
+      },
+      {
+        "lesson": "55",
+        "id": "H55-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.2.11",
+    "title": "Rebating and twisting",
+    "teaching": [
+      {
+        "lesson": "54",
+        "title": "Rebating"
+      },
+      {
+        "lesson": "54",
+        "title": "Twisting"
+      },
+      {
+        "lesson": "54",
+        "title": "Name the practice"
+      },
+      {
+        "lesson": "54",
+        "title": "Insurer products and services are not rebates"
+      },
+      {
+        "lesson": "60",
+        "title": "Case two: money and favors"
+      },
+      {
+        "lesson": "60",
+        "title": "Case three: the comparison"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "54",
+        "id": "H54-04"
+      },
+      {
+        "lesson": "54",
+        "id": "H54-05"
+      },
+      {
+        "lesson": "54",
+        "id": "H54-06"
+      },
+      {
+        "lesson": "54",
+        "id": "H54-07"
+      },
+      {
+        "lesson": "60",
+        "id": "H60-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.2.12",
+    "title": "Referrals",
+    "teaching": [
+      {
+        "lesson": "54",
+        "title": "Referrals and boycott"
+      },
+      {
+        "lesson": "54",
+        "title": "Name the practice"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "54",
+        "id": "H54-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.2.13",
+    "title": "Insurance information and privacy protection",
+    "teaching": [
+      {
+        "lesson": "55",
+        "title": "Notice of information practices"
+      },
+      {
+        "lesson": "55",
+        "title": "Access and correction"
+      },
+      {
+        "lesson": "55",
+        "title": "Financial privacy notices"
+      },
+      {
+        "lesson": "55",
+        "title": "Health information needs authorization"
+      },
+      {
+        "lesson": "55",
+        "title": "Handling Rosa’s information"
+      },
+      {
+        "lesson": "55",
+        "title": "Genetic and domestic violence information"
+      },
+      {
+        "lesson": "55",
+        "title": "Former customers"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "55",
+        "id": "H55-03"
+      },
+      {
+        "lesson": "55",
+        "id": "H55-04"
+      },
+      {
+        "lesson": "55",
+        "id": "H55-05"
+      },
+      {
+        "lesson": "55",
+        "id": "H55-06"
+      },
+      {
+        "lesson": "55",
+        "id": "H55-07"
+      },
+      {
+        "lesson": "55",
+        "id": "H55-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.3.01",
+    "title": "Insurers as defined in the Insurance Article",
+    "teaching": [
+      {
+        "lesson": "03",
+        "title": "Maryland’s three provider types"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "03",
+        "id": "H03-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.3.02",
+    "title": "Nonprofit health service plans",
+    "teaching": [
+      {
+        "lesson": "03",
+        "title": "Maryland’s three provider types"
+      },
+      {
+        "lesson": "03",
+        "title": "Subscribers versus insureds"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "03",
+        "id": "H03-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.3.03",
+    "title": "Health maintenance organizations under Health-General Title 19",
+    "teaching": [
+      {
+        "lesson": "03",
+        "title": "Maryland’s three provider types"
+      },
+      {
+        "lesson": "03",
+        "title": "Subscribers versus insureds"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "03",
+        "id": "H03-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.4.01",
+    "title": "Dependent child age limit",
+    "teaching": [
+      {
+        "lesson": "56",
+        "title": "Children to 25, and to 26"
+      },
+      {
+        "lesson": "60",
+        "title": "Case four: Priya’s family plan"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "56",
+        "id": "H56-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.4.02",
+    "title": "Coverage for adopted children and newborns",
+    "teaching": [
+      {
+        "lesson": "56",
+        "title": "Newborns, adopted children and guardianships"
+      },
+      {
+        "lesson": "60",
+        "title": "Case four: Priya’s family plan"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "56",
+        "id": "H56-02"
+      },
+      {
+        "lesson": "56",
+        "id": "H56-03"
+      },
+      {
+        "lesson": "60",
+        "id": "H60-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.4.03",
+    "title": "Medical child support orders",
+    "teaching": [
+      {
+        "lesson": "56",
+        "title": "Support orders and disabled dependents"
+      },
+      {
+        "lesson": "60",
+        "title": "Case four: Priya’s family plan"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "56",
+        "id": "H56-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.4.04",
+    "title": "Dependents with intellectual or physical disabilities",
+    "teaching": [
+      {
+        "lesson": "56",
+        "title": "Support orders and disabled dependents"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "56",
+        "id": "H56-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.4.05",
+    "title": "Mandated or required offers",
+    "teaching": [
+      {
+        "lesson": "56",
+        "title": "Mandated offers"
+      },
+      {
+        "lesson": "56",
+        "title": "Other requirements"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "56",
+        "id": "H56-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.4.06",
+    "title": "Mandated or required benefits",
+    "teaching": [
+      {
+        "lesson": "56",
+        "title": "Mandated benefits"
+      },
+      {
+        "lesson": "56",
+        "title": "Other requirements"
+      },
+      {
+        "lesson": "56",
+        "title": "Mandates and essential health benefits"
+      },
+      {
+        "lesson": "56",
+        "title": "Religious organization exception"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "56",
+        "id": "H56-06"
+      },
+      {
+        "lesson": "56",
+        "id": "H56-07"
+      },
+      {
+        "lesson": "56",
+        "id": "H56-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.4.07",
+    "title": "Other Maryland policy requirements",
+    "teaching": [
+      {
+        "lesson": "56",
+        "title": "Other requirements"
+      },
+      {
+        "lesson": "56",
+        "title": "Mandates and essential health benefits"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.4.08",
+    "title": "Small employer health insurance",
+    "teaching": [
+      {
+        "lesson": "39",
+        "title": "Counting to fifty"
+      },
+      {
+        "lesson": "39",
+        "title": "Guaranteed availability"
+      },
+      {
+        "lesson": "39",
+        "title": "Rating the small group"
+      },
+      {
+        "lesson": "39",
+        "title": "Priya’s options"
+      },
+      {
+        "lesson": "39",
+        "title": "Groups of one"
+      },
+      {
+        "lesson": "60",
+        "title": "Case four: Priya’s family plan"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "39",
+        "id": "H39-02"
+      },
+      {
+        "lesson": "39",
+        "id": "H39-04"
+      },
+      {
+        "lesson": "60",
+        "id": "H60-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.4.09",
+    "title": "Medicare supplement purpose, definitions and minimum standards",
+    "teaching": [
+      {
+        "lesson": "45",
+        "title": "Minimum standards and prohibited provisions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "45",
+        "id": "H45-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.4.10",
+    "title": "Medicare supplement eligibility, disclosure and marketing",
+    "teaching": [
+      {
+        "lesson": "45",
+        "title": "Marketing to seniors"
+      },
+      {
+        "lesson": "45",
+        "title": "Disclosure, return and replacement"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "45",
+        "id": "H45-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.4.11",
+    "title": "Maryland Health Benefit Exchange: SHOP versus Individual Exchange",
+    "teaching": [
+      {
+        "lesson": "41",
+        "title": "One Exchange, two markets"
+      },
+      {
+        "lesson": "41",
+        "title": "Who may help"
+      },
+      {
+        "lesson": "41",
+        "title": "Maryland’s young adult subsidy"
+      },
+      {
+        "lesson": "41",
+        "title": "Off-Exchange plans"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "41",
+        "id": "H41-01"
+      },
+      {
+        "lesson": "41",
+        "id": "H41-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.4.12",
+    "title": "Open enrollment and special enrollment",
+    "teaching": [
+      {
+        "lesson": "41",
+        "title": "Open enrollment in Maryland"
+      },
+      {
+        "lesson": "41",
+        "title": "Special enrollment"
+      },
+      {
+        "lesson": "41",
+        "title": "Who may help"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "41",
+        "id": "H41-02"
+      },
+      {
+        "lesson": "41",
+        "id": "H41-03"
+      },
+      {
+        "lesson": "41",
+        "id": "H41-04"
+      },
+      {
+        "lesson": "41",
+        "id": "H41-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.4.13",
+    "title": "Employer choice options in SHOP; mandated referrals",
+    "teaching": [
+      {
+        "lesson": "41",
+        "title": "Employer choice in SHOP"
+      },
+      {
+        "lesson": "41",
+        "title": "Referrals and the no-wrong-door rule"
+      },
+      {
+        "lesson": "41",
+        "title": "Who may help"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "41",
+        "id": "H41-05"
+      },
+      {
+        "lesson": "41",
+        "id": "H41-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.5.01",
+    "title": "LTC marketing standards and advertising",
+    "teaching": [
+      {
+        "lesson": "48",
+        "title": "Marketing and the consumer guide"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.5.02",
+    "title": "LTC consumer guide and outline of coverage",
+    "teaching": [
+      {
+        "lesson": "48",
+        "title": "Marketing and the consumer guide"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "48",
+        "id": "H48-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.5.03",
+    "title": "LTC suitability and the personal worksheet",
+    "teaching": [
+      {
+        "lesson": "48",
+        "title": "Suitability and the personal worksheet"
+      },
+      {
+        "lesson": "48",
+        "title": "Suitability is not underwriting"
+      },
+      {
+        "lesson": "60",
+        "title": "Case five: Dennis and Gloria"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "48",
+        "id": "H48-02"
+      },
+      {
+        "lesson": "60",
+        "id": "H60-09"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.5.04",
+    "title": "LTC right to return, replacement and renewal",
+    "teaching": [
+      {
+        "lesson": "48",
+        "title": "Return, replacement and renewal"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "48",
+        "id": "H48-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.5.05",
+    "title": "LTC continuation, disclosure and incontestability",
+    "teaching": [
+      {
+        "lesson": "48",
+        "title": "Return, replacement and renewal"
+      },
+      {
+        "lesson": "48",
+        "title": "Disclosure, incontestability and lapse protection"
+      },
+      {
+        "lesson": "48",
+        "title": "Contingent nonforfeiture"
+      },
+      {
+        "lesson": "48",
+        "title": "Applications and older applicants"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "48",
+        "id": "H48-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.5.06",
+    "title": "LTC inflation protection, unintentional lapse and pre-existing conditions",
+    "teaching": [
+      {
+        "lesson": "48",
+        "title": "Disclosure, incontestability and lapse protection"
+      },
+      {
+        "lesson": "48",
+        "title": "Inflation protection, pre-existing conditions, nonforfeiture and triggers"
+      },
+      {
+        "lesson": "60",
+        "title": "Case five: Dennis and Gloria"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "48",
+        "id": "H48-05"
+      },
+      {
+        "lesson": "48",
+        "id": "H48-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.5.07",
+    "title": "LTC nonforfeiture and benefit triggers",
+    "teaching": [
+      {
+        "lesson": "48",
+        "title": "Inflation protection, pre-existing conditions, nonforfeiture and triggers"
+      },
+      {
+        "lesson": "48",
+        "title": "Contingent nonforfeiture"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "48",
+        "id": "H48-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.5.08",
+    "title": "State income tax treatment of LTC premiums",
+    "teaching": [
+      {
+        "lesson": "48",
+        "title": "The Maryland tax credit"
+      },
+      {
+        "lesson": "60",
+        "title": "Case five: Dennis and Gloria"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "48",
+        "id": "H48-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.5.09",
+    "title": "Medigap marketing standards and advertising",
+    "teaching": [
+      {
+        "lesson": "45",
+        "title": "Marketing to seniors"
+      },
+      {
+        "lesson": "45",
+        "title": "Medicare SELECT"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.5.10",
+    "title": "Medigap appropriateness and excessive insurance",
+    "teaching": [
+      {
+        "lesson": "45",
+        "title": "Marketing to seniors"
+      },
+      {
+        "lesson": "45",
+        "title": "Medigap and Medicaid together"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "45",
+        "id": "H45-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.5.11",
+    "title": "Medigap buyer’s guide, outline of coverage and right to return",
+    "teaching": [
+      {
+        "lesson": "45",
+        "title": "Disclosure, return and replacement"
+      },
+      {
+        "lesson": "60",
+        "title": "Case five: Dennis and Gloria"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "45",
+        "id": "H45-02"
+      },
+      {
+        "lesson": "60",
+        "id": "H60-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.5.12",
+    "title": "Medigap replacement and prohibited provisions",
+    "teaching": [
+      {
+        "lesson": "45",
+        "title": "Disclosure, return and replacement"
+      },
+      {
+        "lesson": "45",
+        "title": "Minimum standards and prohibited provisions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "45",
+        "id": "H45-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.5.13",
+    "title": "Medigap minimum benefit standards and disclosures",
+    "teaching": [
+      {
+        "lesson": "45",
+        "title": "Minimum standards and prohibited provisions"
+      },
+      {
+        "lesson": "45",
+        "title": "Medigap and Medicaid together"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "45",
+        "id": "H45-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.5.14",
+    "title": "Medigap pre-existing conditions and permitted compensation",
+    "teaching": [
+      {
+        "lesson": "45",
+        "title": "Pre-existing conditions and compensation"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "45",
+        "id": "H45-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.5.15",
+    "title": "Medigap guaranteed issue, continuation and conversion",
+    "teaching": [
+      {
+        "lesson": "45",
+        "title": "Guaranteed issue in Maryland"
+      },
+      {
+        "lesson": "45",
+        "title": "Medicare SELECT"
+      },
+      {
+        "lesson": "45",
+        "title": "Maryland’s birthday rule in practice"
+      },
+      {
+        "lesson": "60",
+        "title": "Case five: Dennis and Gloria"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "45",
+        "id": "H45-06"
+      },
+      {
+        "lesson": "45",
+        "id": "H45-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "1.5.16",
+    "title": "Medicare SELECT",
+    "teaching": [
+      {
+        "lesson": "45",
+        "title": "Medicare SELECT"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "45",
+        "id": "H45-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.01",
+    "title": "Risk",
+    "teaching": [
+      {
+        "lesson": "01",
+        "title": "Start with uncertainty"
+      },
+      {
+        "lesson": "01",
+        "title": "Loss, and the kind of risk insurance accepts"
+      },
+      {
+        "lesson": "01",
+        "title": "Put the words to work"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "01",
+        "id": "H01-01"
+      },
+      {
+        "lesson": "01",
+        "id": "H01-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.02",
+    "title": "Exposure",
+    "teaching": [
+      {
+        "lesson": "01",
+        "title": "Start with uncertainty"
+      },
+      {
+        "lesson": "01",
+        "title": "Put the words to work"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.03",
+    "title": "Hazard",
+    "teaching": [
+      {
+        "lesson": "01",
+        "title": "Peril and hazard are not the same"
+      },
+      {
+        "lesson": "01",
+        "title": "Put the words to work"
+      },
+      {
+        "lesson": "01",
+        "title": "Hazard is a modifier, not the cause"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "01",
+        "id": "H01-02"
+      },
+      {
+        "lesson": "01",
+        "id": "H01-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.04",
+    "title": "Peril",
+    "teaching": [
+      {
+        "lesson": "01",
+        "title": "Peril and hazard are not the same"
+      },
+      {
+        "lesson": "01",
+        "title": "Put the words to work"
+      },
+      {
+        "lesson": "01",
+        "title": "Hazard is a modifier, not the cause"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.05",
+    "title": "Loss",
+    "teaching": [
+      {
+        "lesson": "01",
+        "title": "Loss, and the kind of risk insurance accepts"
+      },
+      {
+        "lesson": "01",
+        "title": "Put the words to work"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "01",
+        "id": "H01-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.06",
+    "title": "Avoidance",
+    "teaching": [
+      {
+        "lesson": "02",
+        "title": "Ask what changes"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "02",
+        "id": "H02-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.07",
+    "title": "Retention",
+    "teaching": [
+      {
+        "lesson": "02",
+        "title": "Ask what changes"
+      },
+      {
+        "lesson": "02",
+        "title": "A deductible is retention, not avoidance"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "02",
+        "id": "H02-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.08",
+    "title": "Sharing",
+    "teaching": [
+      {
+        "lesson": "02",
+        "title": "Share it or transfer it"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.09",
+    "title": "Reduction",
+    "teaching": [
+      {
+        "lesson": "02",
+        "title": "Ask what changes"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "02",
+        "id": "H02-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.10",
+    "title": "Transfer",
+    "teaching": [
+      {
+        "lesson": "02",
+        "title": "Share it or transfer it"
+      },
+      {
+        "lesson": "02",
+        "title": "A deductible is retention, not avoidance"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "02",
+        "id": "H02-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.11",
+    "title": "Elements of insurable risks",
+    "teaching": [
+      {
+        "lesson": "02",
+        "title": "What makes a risk insurable"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "02",
+        "id": "H02-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.12",
+    "title": "Adverse selection",
+    "teaching": [
+      {
+        "lesson": "02",
+        "title": "Adverse selection"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "02",
+        "id": "H02-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.13",
+    "title": "Law of large numbers",
+    "teaching": [
+      {
+        "lesson": "02",
+        "title": "Why pooling works"
+      },
+      {
+        "lesson": "02",
+        "title": "Expected versus actual claims"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "02",
+        "id": "H02-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.1.14",
+    "title": "Reinsurance",
+    "teaching": [
+      {
+        "lesson": "02",
+        "title": "The insurer transfers risk too"
+      },
+      {
+        "lesson": "02",
+        "title": "Expected versus actual claims"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "02",
+        "id": "H02-07"
+      },
+      {
+        "lesson": "02",
+        "id": "H02-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.2.01",
+    "title": "Stock, mutual and fraternal insurers",
+    "teaching": [
+      {
+        "lesson": "03",
+        "title": "Who owns the company"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "03",
+        "id": "H03-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.2.02",
+    "title": "Self-insurers",
+    "teaching": [
+      {
+        "lesson": "03",
+        "title": "Who owns the company"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "03",
+        "id": "H03-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.2.03",
+    "title": "Private versus government insurers",
+    "teaching": [
+      {
+        "lesson": "03",
+        "title": "Private versus government"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "03",
+        "id": "H03-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.2.04",
+    "title": "Admitted versus nonadmitted insurers",
+    "teaching": [
+      {
+        "lesson": "03",
+        "title": "Authorized, and from where"
+      },
+      {
+        "lesson": "03",
+        "title": "Admitted status and guaranty protection"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "03",
+        "id": "H03-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.2.05",
+    "title": "Domestic, foreign and alien insurers",
+    "teaching": [
+      {
+        "lesson": "03",
+        "title": "Authorized, and from where"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "03",
+        "id": "H03-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.2.06",
+    "title": "Financial ratings and operating results",
+    "teaching": [
+      {
+        "lesson": "03",
+        "title": "Reading the insurer’s health"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "03",
+        "id": "H03-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.2.07",
+    "title": "Marketing and distribution systems",
+    "teaching": [
+      {
+        "lesson": "03",
+        "title": "How coverage reaches the buyer"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "03",
+        "id": "H03-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.3.01",
+    "title": "Captive and independent producers",
+    "teaching": [
+      {
+        "lesson": "04",
+        "title": "Whom does Theo represent?"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "04",
+        "id": "H04-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.3.02",
+    "title": "Insurer as principal",
+    "teaching": [
+      {
+        "lesson": "04",
+        "title": "Whom does Theo represent?"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "04",
+        "id": "H04-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.3.03",
+    "title": "Producer as agent of the insurer",
+    "teaching": [
+      {
+        "lesson": "04",
+        "title": "Whom does Theo represent?"
+      },
+      {
+        "lesson": "04",
+        "title": "Knowledge travels to the insurer"
+      },
+      {
+        "lesson": "04",
+        "title": "The producer is not the applicant’s agent for most purposes"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "04",
+        "id": "H04-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.3.04",
+    "title": "Express authority",
+    "teaching": [
+      {
+        "lesson": "04",
+        "title": "Express authority"
+      },
+      {
+        "lesson": "04",
+        "title": "Sort the facts"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "04",
+        "id": "H04-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.3.05",
+    "title": "Implied authority",
+    "teaching": [
+      {
+        "lesson": "04",
+        "title": "Implied authority"
+      },
+      {
+        "lesson": "04",
+        "title": "Sort the facts"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "04",
+        "id": "H04-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.3.06",
+    "title": "Apparent authority",
+    "teaching": [
+      {
+        "lesson": "04",
+        "title": "Apparent authority"
+      },
+      {
+        "lesson": "04",
+        "title": "Sort the facts"
+      },
+      {
+        "lesson": "04",
+        "title": "Apparent authority has a limit"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "04",
+        "id": "H04-05"
+      },
+      {
+        "lesson": "04",
+        "id": "H04-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.3.07",
+    "title": "Responsibilities to the applicant and insured",
+    "teaching": [
+      {
+        "lesson": "04",
+        "title": "Knowledge travels to the insurer"
+      },
+      {
+        "lesson": "04",
+        "title": "Sort the facts"
+      },
+      {
+        "lesson": "04",
+        "title": "The producer is not the applicant’s agent for most purposes"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "04",
+        "id": "H04-06"
+      },
+      {
+        "lesson": "04",
+        "id": "H04-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.4.01",
+    "title": "Offer, acceptance, consideration, competent parties and legal purpose",
+    "teaching": [
+      {
+        "lesson": "05",
+        "title": "Four elements, one application"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "05",
+        "id": "H05-01"
+      },
+      {
+        "lesson": "05",
+        "id": "H05-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.4.02",
+    "title": "Adhesion and aleatory contracts",
+    "teaching": [
+      {
+        "lesson": "05",
+        "title": "Adhesion and aleatory"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "05",
+        "id": "H05-03"
+      },
+      {
+        "lesson": "05",
+        "id": "H05-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.4.03",
+    "title": "Personal, unilateral and conditional contracts",
+    "teaching": [
+      {
+        "lesson": "05",
+        "title": "Personal, unilateral and conditional"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "05",
+        "id": "H05-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.4.04",
+    "title": "Ambiguity and reasonable expectations",
+    "teaching": [
+      {
+        "lesson": "05",
+        "title": "Reading the words"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "05",
+        "id": "H05-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.4.05",
+    "title": "Indemnity and utmost good faith",
+    "teaching": [
+      {
+        "lesson": "05",
+        "title": "Reading the words"
+      },
+      {
+        "lesson": "05",
+        "title": "Indemnity in disability income"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.4.06",
+    "title": "Representations, misrepresentations and warranties",
+    "teaching": [
+      {
+        "lesson": "05",
+        "title": "Representations, warranties, concealment and fraud"
+      },
+      {
+        "lesson": "05",
+        "title": "Materiality decides rescission"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "05",
+        "id": "H05-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.4.07",
+    "title": "Concealment and fraud",
+    "teaching": [
+      {
+        "lesson": "05",
+        "title": "Representations, warranties, concealment and fraud"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "05",
+        "id": "H05-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.4.08",
+    "title": "Waiver and estoppel",
+    "teaching": [
+      {
+        "lesson": "05",
+        "title": "Waiver and estoppel"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "05",
+        "id": "H05-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.5.01",
+    "title": "Fair Credit Reporting Act",
+    "teaching": [
+      {
+        "lesson": "07",
+        "title": "Credit reports and the applicant’s rights"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "07",
+        "id": "H07-01"
+      },
+      {
+        "lesson": "07",
+        "id": "H07-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.5.02",
+    "title": "Fraud and false statements (18 USC 1033, 1034)",
+    "teaching": [
+      {
+        "lesson": "07",
+        "title": "Federal insurance fraud statutes"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "07",
+        "id": "H07-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.5.03",
+    "title": "ERISA applicability",
+    "teaching": [
+      {
+        "lesson": "07",
+        "title": "ERISA: who it covers and what it demands"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "07",
+        "id": "H07-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.5.04",
+    "title": "ERISA fiduciary responsibilities",
+    "teaching": [
+      {
+        "lesson": "07",
+        "title": "ERISA: who it covers and what it demands"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.5.05",
+    "title": "ERISA reporting and disclosure",
+    "teaching": [
+      {
+        "lesson": "07",
+        "title": "ERISA: who it covers and what it demands"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "07",
+        "id": "H07-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.5.06",
+    "title": "COBRA continuation",
+    "teaching": [
+      {
+        "lesson": "07",
+        "title": "COBRA continuation"
+      },
+      {
+        "lesson": "07",
+        "title": "COBRA and Maryland continuation differ"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "07",
+        "id": "H07-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.5.07",
+    "title": "ACA market reforms: individual coverage definitions and dependent coverage",
+    "teaching": [
+      {
+        "lesson": "07",
+        "title": "Affordable Care Act market reforms"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.5.08",
+    "title": "ACA market reforms: lifetime and annual limits, premium rating and essential health benefits",
+    "teaching": [
+      {
+        "lesson": "07",
+        "title": "Affordable Care Act market reforms"
+      },
+      {
+        "lesson": "07",
+        "title": "Excepted benefits sit outside the ACA rules"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "07",
+        "id": "H07-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.5.09",
+    "title": "ACA market reforms: waiting periods",
+    "teaching": [
+      {
+        "lesson": "07",
+        "title": "Affordable Care Act market reforms"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "2.6.01",
+    "title": "National Association of Insurance Commissioners and model laws",
+    "teaching": [
+      {
+        "lesson": "07",
+        "title": "The NAIC"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "07",
+        "id": "H07-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.1.01",
+    "title": "Accidental injury",
+    "teaching": [
+      {
+        "lesson": "01",
+        "title": "The two health perils"
+      },
+      {
+        "lesson": "01",
+        "title": "Put the words to work"
+      },
+      {
+        "lesson": "01",
+        "title": "Why probationary periods target sickness"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "01",
+        "id": "H01-05"
+      },
+      {
+        "lesson": "01",
+        "id": "H01-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.1.02",
+    "title": "Sickness",
+    "teaching": [
+      {
+        "lesson": "01",
+        "title": "The two health perils"
+      },
+      {
+        "lesson": "01",
+        "title": "Put the words to work"
+      },
+      {
+        "lesson": "01",
+        "title": "Why probationary periods target sickness"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "01",
+        "id": "H01-05"
+      },
+      {
+        "lesson": "01",
+        "id": "H01-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.1.03",
+    "title": "Accidental means versus accidental results",
+    "teaching": [
+      {
+        "lesson": "01",
+        "title": "Accidental means versus accidental results"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "01",
+        "id": "H01-06"
+      },
+      {
+        "lesson": "01",
+        "id": "H01-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.2.01",
+    "title": "Loss of income from disability",
+    "teaching": [
+      {
+        "lesson": "06",
+        "title": "Six needs in one household"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "06",
+        "id": "H06-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.2.02",
+    "title": "Medical expense",
+    "teaching": [
+      {
+        "lesson": "06",
+        "title": "Six needs in one household"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.2.03",
+    "title": "Dental expense",
+    "teaching": [
+      {
+        "lesson": "06",
+        "title": "Six needs in one household"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.2.04",
+    "title": "Long-term care expense",
+    "teaching": [
+      {
+        "lesson": "06",
+        "title": "Six needs in one household"
+      },
+      {
+        "lesson": "06",
+        "title": "Long-term care is not medical expense"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "06",
+        "id": "H06-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.2.05",
+    "title": "Vision and prescription benefits",
+    "teaching": [
+      {
+        "lesson": "06",
+        "title": "Vision, prescriptions and specified disease"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.2.06",
+    "title": "Accidental death and dismemberment",
+    "teaching": [
+      {
+        "lesson": "06",
+        "title": "Accidental death and dismemberment"
+      },
+      {
+        "lesson": "06",
+        "title": "Valued versus reimbursement benefits"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "06",
+        "id": "H06-03"
+      },
+      {
+        "lesson": "06",
+        "id": "H06-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.2.07",
+    "title": "Specified disease",
+    "teaching": [
+      {
+        "lesson": "06",
+        "title": "Vision, prescriptions and specified disease"
+      },
+      {
+        "lesson": "06",
+        "title": "Valued versus reimbursement benefits"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "06",
+        "id": "H06-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.3.01",
+    "title": "Individual versus group",
+    "teaching": [
+      {
+        "lesson": "06",
+        "title": "Individual or group"
+      },
+      {
+        "lesson": "06",
+        "title": "Limited or comprehensive"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "06",
+        "id": "H06-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.3.02",
+    "title": "Private versus government",
+    "teaching": [
+      {
+        "lesson": "06",
+        "title": "Private or government"
+      },
+      {
+        "lesson": "06",
+        "title": "Limited or comprehensive"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "06",
+        "id": "H06-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.3.03",
+    "title": "Limited versus comprehensive",
+    "teaching": [
+      {
+        "lesson": "06",
+        "title": "Limited or comprehensive"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "06",
+        "id": "H06-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.4.01",
+    "title": "Limited perils and amounts",
+    "teaching": [
+      {
+        "lesson": "08",
+        "title": "What makes a policy limited"
+      },
+      {
+        "lesson": "08",
+        "title": "Limited policies do not coordinate"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.4.02",
+    "title": "Required notice to the insured",
+    "teaching": [
+      {
+        "lesson": "08",
+        "title": "What makes a policy limited"
+      },
+      {
+        "lesson": "08",
+        "title": "Short-term medical in Maryland"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "08",
+        "id": "H08-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.4.03",
+    "title": "Accident-only and specified (dread) disease",
+    "teaching": [
+      {
+        "lesson": "08",
+        "title": "Accident-only and specified disease"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "08",
+        "id": "H08-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.4.04",
+    "title": "Hospital indemnity (income)",
+    "teaching": [
+      {
+        "lesson": "08",
+        "title": "Hospital indemnity and credit disability"
+      },
+      {
+        "lesson": "08",
+        "title": "Limited policies do not coordinate"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "08",
+        "id": "H08-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.4.05",
+    "title": "Credit disability",
+    "teaching": [
+      {
+        "lesson": "08",
+        "title": "Hospital indemnity and credit disability"
+      },
+      {
+        "lesson": "08",
+        "title": "Credit disability amounts are tied to the debt"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "08",
+        "id": "H08-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.4.06",
+    "title": "Blanket insurance",
+    "teaching": [
+      {
+        "lesson": "08",
+        "title": "Blanket insurance"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "08",
+        "id": "H08-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.4.07",
+    "title": "Prescription drug and vision care",
+    "teaching": [
+      {
+        "lesson": "08",
+        "title": "Prescription, vision and critical illness"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.4.08",
+    "title": "Critical illness",
+    "teaching": [
+      {
+        "lesson": "08",
+        "title": "Prescription, vision and critical illness"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "08",
+        "id": "H08-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.4.09",
+    "title": "Short-term medical",
+    "teaching": [
+      {
+        "lesson": "08",
+        "title": "Short-term medical in Maryland"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "08",
+        "id": "H08-07"
+      },
+      {
+        "lesson": "08",
+        "id": "H08-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.5.01",
+    "title": "Pre-existing conditions",
+    "teaching": [
+      {
+        "lesson": "09",
+        "title": "Pre-existing conditions"
+      },
+      {
+        "lesson": "09",
+        "title": "Reading an exclusion on the exam"
+      },
+      {
+        "lesson": "09",
+        "title": "Experimental treatment and other common exclusions"
+      },
+      {
+        "lesson": "09",
+        "title": "Pre-existing conditions in Maryland long-term care and Medigap"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "09",
+        "id": "H09-01"
+      },
+      {
+        "lesson": "09",
+        "id": "H09-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.5.02",
+    "title": "Intentionally self-inflicted injuries",
+    "teaching": [
+      {
+        "lesson": "09",
+        "title": "Self-inflicted injury and war"
+      },
+      {
+        "lesson": "09",
+        "title": "Reading an exclusion on the exam"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "09",
+        "id": "H09-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.5.03",
+    "title": "War or act of war",
+    "teaching": [
+      {
+        "lesson": "09",
+        "title": "Self-inflicted injury and war"
+      },
+      {
+        "lesson": "09",
+        "title": "Reading an exclusion on the exam"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.5.04",
+    "title": "Elective cosmetic surgery",
+    "teaching": [
+      {
+        "lesson": "09",
+        "title": "Cosmetic versus reconstructive"
+      },
+      {
+        "lesson": "09",
+        "title": "Reading an exclusion on the exam"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "09",
+        "id": "H09-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.5.05",
+    "title": "Conditions covered by workers compensation",
+    "teaching": [
+      {
+        "lesson": "09",
+        "title": "Workers compensation and government plans"
+      },
+      {
+        "lesson": "09",
+        "title": "Reading an exclusion on the exam"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "09",
+        "id": "H09-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.5.06",
+    "title": "Government plans",
+    "teaching": [
+      {
+        "lesson": "09",
+        "title": "Workers compensation and government plans"
+      },
+      {
+        "lesson": "09",
+        "title": "Reading an exclusion on the exam"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "09",
+        "id": "H09-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.5.07",
+    "title": "Participation in a felony or illegal occupation",
+    "teaching": [
+      {
+        "lesson": "09",
+        "title": "Felony and illegal occupation"
+      },
+      {
+        "lesson": "09",
+        "title": "Reading an exclusion on the exam"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "09",
+        "id": "H09-07"
+      },
+      {
+        "lesson": "09",
+        "id": "H09-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.6.01",
+    "title": "Advertising requirements",
+    "teaching": [
+      {
+        "lesson": "10",
+        "title": "Truthful advertising"
+      },
+      {
+        "lesson": "10",
+        "title": "The line between selling and misleading"
+      },
+      {
+        "lesson": "10",
+        "title": "Insurer responsibility for producer advertising"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "10",
+        "id": "H10-01"
+      },
+      {
+        "lesson": "10",
+        "id": "H10-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.6.02",
+    "title": "Prohibited advertising of life and health insurance",
+    "teaching": [
+      {
+        "lesson": "10",
+        "title": "Prohibited advertising"
+      },
+      {
+        "lesson": "10",
+        "title": "Never a sales pitch"
+      },
+      {
+        "lesson": "10",
+        "title": "The line between selling and misleading"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "10",
+        "id": "H10-02"
+      },
+      {
+        "lesson": "10",
+        "id": "H10-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.6.03",
+    "title": "Maryland Life and Health Insurance Guaranty Corporation",
+    "teaching": [
+      {
+        "lesson": "10",
+        "title": "The guaranty corporation"
+      },
+      {
+        "lesson": "10",
+        "title": "Never a sales pitch"
+      },
+      {
+        "lesson": "10",
+        "title": "The line between selling and misleading"
+      },
+      {
+        "lesson": "10",
+        "title": "What the guaranty corporation does not cover"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "10",
+        "id": "H10-04"
+      },
+      {
+        "lesson": "10",
+        "id": "H10-05"
+      },
+      {
+        "lesson": "10",
+        "id": "H10-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.6.04",
+    "title": "Sales presentations",
+    "teaching": [
+      {
+        "lesson": "10",
+        "title": "A fair sales presentation"
+      },
+      {
+        "lesson": "10",
+        "title": "The line between selling and misleading"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "10",
+        "id": "H10-07"
+      },
+      {
+        "lesson": "10",
+        "id": "H10-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.6.05",
+    "title": "Nature and purpose of field underwriting",
+    "teaching": [
+      {
+        "lesson": "11",
+        "title": "The first underwriter"
+      },
+      {
+        "lesson": "11",
+        "title": "From kitchen table to in-force policy"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "11",
+        "id": "H11-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.6.06",
+    "title": "Application procedures",
+    "teaching": [
+      {
+        "lesson": "11",
+        "title": "Completing the application"
+      },
+      {
+        "lesson": "11",
+        "title": "From kitchen table to in-force policy"
+      },
+      {
+        "lesson": "11",
+        "title": "Conditional receipt versus binding receipt"
+      },
+      {
+        "lesson": "11",
+        "title": "Changes to an application"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "11",
+        "id": "H11-02"
+      },
+      {
+        "lesson": "11",
+        "id": "H11-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.6.07",
+    "title": "Requirements at delivery of the policy",
+    "teaching": [
+      {
+        "lesson": "11",
+        "title": "Requirements at delivery"
+      },
+      {
+        "lesson": "11",
+        "title": "From kitchen table to in-force policy"
+      },
+      {
+        "lesson": "11",
+        "title": "Changes to an application"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "11",
+        "id": "H11-04"
+      },
+      {
+        "lesson": "11",
+        "id": "H11-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.6.08",
+    "title": "Errors and omissions",
+    "teaching": [
+      {
+        "lesson": "11",
+        "title": "Errors and omissions"
+      },
+      {
+        "lesson": "11",
+        "title": "From kitchen table to in-force policy"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "11",
+        "id": "H11-06"
+      },
+      {
+        "lesson": "11",
+        "id": "H11-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.6.09",
+    "title": "Notification of Medicare eligibility",
+    "teaching": [
+      {
+        "lesson": "11",
+        "title": "Clients approaching Medicare"
+      },
+      {
+        "lesson": "11",
+        "title": "From kitchen table to in-force policy"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "11",
+        "id": "H11-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.7.01",
+    "title": "Underwriting criteria",
+    "teaching": [
+      {
+        "lesson": "12",
+        "title": "What the underwriter is deciding"
+      },
+      {
+        "lesson": "12",
+        "title": "Putting the file together"
+      },
+      {
+        "lesson": "13",
+        "title": "Substandard tools"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "12",
+        "id": "H12-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.7.02",
+    "title": "Application and producer report",
+    "teaching": [
+      {
+        "lesson": "12",
+        "title": "The application and the producer’s report"
+      },
+      {
+        "lesson": "12",
+        "title": "Putting the file together"
+      },
+      {
+        "lesson": "12",
+        "title": "Authorization travels with the application"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "12",
+        "id": "H12-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.7.03",
+    "title": "Attending physician statement",
+    "teaching": [
+      {
+        "lesson": "12",
+        "title": "Physician statements and inspection reports"
+      },
+      {
+        "lesson": "12",
+        "title": "Putting the file together"
+      },
+      {
+        "lesson": "12",
+        "title": "Authorization travels with the application"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "12",
+        "id": "H12-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.7.04",
+    "title": "Investigative consumer (inspection) report",
+    "teaching": [
+      {
+        "lesson": "12",
+        "title": "Physician statements and inspection reports"
+      },
+      {
+        "lesson": "12",
+        "title": "Putting the file together"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "12",
+        "id": "H12-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.7.05",
+    "title": "Medical Information Bureau",
+    "teaching": [
+      {
+        "lesson": "12",
+        "title": "The Medical Information Bureau"
+      },
+      {
+        "lesson": "12",
+        "title": "Putting the file together"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "12",
+        "id": "H12-03"
+      },
+      {
+        "lesson": "12",
+        "id": "H12-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.7.06",
+    "title": "Medical examinations, lab tests and HIV consent",
+    "teaching": [
+      {
+        "lesson": "12",
+        "title": "Examinations, lab tests and HIV consent"
+      },
+      {
+        "lesson": "12",
+        "title": "Putting the file together"
+      },
+      {
+        "lesson": "12",
+        "title": "Who pays for underwriting information"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "12",
+        "id": "H12-05"
+      },
+      {
+        "lesson": "12",
+        "id": "H12-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.7.07",
+    "title": "Unfair discrimination",
+    "teaching": [
+      {
+        "lesson": "13",
+        "title": "Where classification becomes discrimination"
+      },
+      {
+        "lesson": "13",
+        "title": "Fair process end to end"
+      },
+      {
+        "lesson": "13",
+        "title": "Comprehensive medical coverage is now guaranteed issue"
+      },
+      {
+        "lesson": "13",
+        "title": "Adverse underwriting decisions need a notice"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "13",
+        "id": "H13-03"
+      },
+      {
+        "lesson": "13",
+        "id": "H13-06"
+      },
+      {
+        "lesson": "13",
+        "id": "H13-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.7.08",
+    "title": "Discrimination against victims of domestic violence",
+    "teaching": [
+      {
+        "lesson": "13",
+        "title": "Victims of domestic violence"
+      },
+      {
+        "lesson": "13",
+        "title": "Fair process end to end"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "13",
+        "id": "H13-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.7.09",
+    "title": "Genetic information privacy",
+    "teaching": [
+      {
+        "lesson": "13",
+        "title": "Genetic information"
+      },
+      {
+        "lesson": "13",
+        "title": "Fair process end to end"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "13",
+        "id": "H13-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.7.10",
+    "title": "Preferred, standard, substandard and declined classes",
+    "teaching": [
+      {
+        "lesson": "13",
+        "title": "Four doors"
+      },
+      {
+        "lesson": "13",
+        "title": "Substandard tools"
+      },
+      {
+        "lesson": "13",
+        "title": "Fair process end to end"
+      },
+      {
+        "lesson": "13",
+        "title": "Comprehensive medical coverage is now guaranteed issue"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "13",
+        "id": "H13-01"
+      },
+      {
+        "lesson": "13",
+        "id": "H13-02"
+      },
+      {
+        "lesson": "13",
+        "id": "H13-06"
+      },
+      {
+        "lesson": "13",
+        "id": "H13-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.8.01",
+    "title": "Pre-existing conditions and new exclusion periods",
+    "teaching": [
+      {
+        "lesson": "14",
+        "title": "The cheaper policy"
+      },
+      {
+        "lesson": "14",
+        "title": "Medicare supplement and long-term care replacement"
+      },
+      {
+        "lesson": "14",
+        "title": "The replacement checklist"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "14",
+        "id": "H14-01"
+      },
+      {
+        "lesson": "14",
+        "id": "H14-04"
+      },
+      {
+        "lesson": "14",
+        "id": "H14-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.8.02",
+    "title": "Benefits, limitations and exclusions comparison",
+    "teaching": [
+      {
+        "lesson": "14",
+        "title": "Compare the whole contract"
+      },
+      {
+        "lesson": "14",
+        "title": "Medicare supplement and long-term care replacement"
+      },
+      {
+        "lesson": "14",
+        "title": "When replacement makes sense"
+      },
+      {
+        "lesson": "14",
+        "title": "The replacement checklist"
+      },
+      {
+        "lesson": "14",
+        "title": "Grandfathered plans and replacement"
+      },
+      {
+        "lesson": "14",
+        "title": "Twisting is replacement by misrepresentation"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "14",
+        "id": "H14-02"
+      },
+      {
+        "lesson": "14",
+        "id": "H14-05"
+      },
+      {
+        "lesson": "14",
+        "id": "H14-06"
+      },
+      {
+        "lesson": "14",
+        "id": "H14-07"
+      },
+      {
+        "lesson": "14",
+        "id": "H14-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "3.8.03",
+    "title": "Underwriting requirements on replacement",
+    "teaching": [
+      {
+        "lesson": "14",
+        "title": "Underwriting cuts both ways"
+      },
+      {
+        "lesson": "14",
+        "title": "When replacement makes sense"
+      },
+      {
+        "lesson": "14",
+        "title": "The replacement checklist"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "14",
+        "id": "H14-03"
+      },
+      {
+        "lesson": "14",
+        "id": "H14-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.1.01",
+    "title": "Entire contract and changes",
+    "teaching": [
+      {
+        "lesson": "15",
+        "title": "Why the provisions are uniform"
+      },
+      {
+        "lesson": "15",
+        "title": "Entire contract and changes"
+      },
+      {
+        "lesson": "15",
+        "title": "Required versus optional, favorable versus not"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "15",
+        "id": "H15-01"
+      },
+      {
+        "lesson": "15",
+        "id": "H15-02"
+      },
+      {
+        "lesson": "15",
+        "id": "H15-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.1.02",
+    "title": "Time limit on certain defenses",
+    "teaching": [
+      {
+        "lesson": "15",
+        "title": "Time limit on certain defenses"
+      },
+      {
+        "lesson": "15",
+        "title": "A premium goes unpaid"
+      },
+      {
+        "lesson": "15",
+        "title": "Fraud survives the two-year limit"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "15",
+        "id": "H15-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.1.03",
+    "title": "Grace period",
+    "teaching": [
+      {
+        "lesson": "15",
+        "title": "Grace period"
+      },
+      {
+        "lesson": "15",
+        "title": "A premium goes unpaid"
+      },
+      {
+        "lesson": "15",
+        "title": "Required versus optional, favorable versus not"
+      },
+      {
+        "lesson": "59",
+        "title": "Case two: the missed premium"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "15",
+        "id": "H15-04"
+      },
+      {
+        "lesson": "15",
+        "id": "H15-05"
+      },
+      {
+        "lesson": "59",
+        "id": "H59-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.1.04",
+    "title": "Reinstatement",
+    "teaching": [
+      {
+        "lesson": "15",
+        "title": "Reinstatement"
+      },
+      {
+        "lesson": "15",
+        "title": "A premium goes unpaid"
+      },
+      {
+        "lesson": "59",
+        "title": "Case two: the missed premium"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "15",
+        "id": "H15-06"
+      },
+      {
+        "lesson": "15",
+        "id": "H15-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.1.05",
+    "title": "Notice of claim",
+    "teaching": [
+      {
+        "lesson": "16",
+        "title": "Notice of claim: 20 days"
+      },
+      {
+        "lesson": "16",
+        "title": "Beneficiaries and cancellation by the insured"
+      },
+      {
+        "lesson": "59",
+        "title": "Case two: the missed premium"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "16",
+        "id": "H16-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.1.06",
+    "title": "Claim forms",
+    "teaching": [
+      {
+        "lesson": "16",
+        "title": "Claim forms: 15 days"
+      },
+      {
+        "lesson": "16",
+        "title": "Beneficiaries and cancellation by the insured"
+      },
+      {
+        "lesson": "59",
+        "title": "Case two: the missed premium"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "16",
+        "id": "H16-02"
+      },
+      {
+        "lesson": "59",
+        "id": "H59-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.1.07",
+    "title": "Proofs of loss",
+    "teaching": [
+      {
+        "lesson": "16",
+        "title": "Proof of loss: 90 days"
+      },
+      {
+        "lesson": "16",
+        "title": "Beneficiaries and cancellation by the insured"
+      },
+      {
+        "lesson": "59",
+        "title": "Case two: the missed premium"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "16",
+        "id": "H16-03"
+      },
+      {
+        "lesson": "16",
+        "id": "H16-04"
+      },
+      {
+        "lesson": "59",
+        "id": "H59-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.1.08",
+    "title": "Time of payment of claims",
+    "teaching": [
+      {
+        "lesson": "16",
+        "title": "Time and manner of payment"
+      },
+      {
+        "lesson": "16",
+        "title": "Prompt payment in Maryland"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "16",
+        "id": "H16-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.1.09",
+    "title": "Payment of claims",
+    "teaching": [
+      {
+        "lesson": "16",
+        "title": "Time and manner of payment"
+      },
+      {
+        "lesson": "16",
+        "title": "Assignment of benefits"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "16",
+        "id": "H16-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.1.10",
+    "title": "Physical examinations and autopsy",
+    "teaching": [
+      {
+        "lesson": "16",
+        "title": "Examination, autopsy and legal action"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "16",
+        "id": "H16-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.1.11",
+    "title": "Legal actions",
+    "teaching": [
+      {
+        "lesson": "16",
+        "title": "Examination, autopsy and legal action"
+      },
+      {
+        "lesson": "16",
+        "title": "Beneficiaries and cancellation by the insured"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "16",
+        "id": "H16-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.1.12",
+    "title": "Change of beneficiary",
+    "teaching": [
+      {
+        "lesson": "16",
+        "title": "Beneficiaries and cancellation by the insured"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.1.13",
+    "title": "Cancellation by the insured",
+    "teaching": [
+      {
+        "lesson": "16",
+        "title": "Beneficiaries and cancellation by the insured"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.2.01",
+    "title": "Change of occupation",
+    "teaching": [
+      {
+        "lesson": "17",
+        "title": "Change of occupation and misstatement of age"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "17",
+        "id": "H17-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.2.02",
+    "title": "Misstatement of age",
+    "teaching": [
+      {
+        "lesson": "17",
+        "title": "Change of occupation and misstatement of age"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "17",
+        "id": "H17-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.2.03",
+    "title": "Other insurance in this company",
+    "teaching": [
+      {
+        "lesson": "17",
+        "title": "Other insurance and relation of earnings"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.2.04",
+    "title": "Insurance with other companies: expense-incurred basis and other benefits",
+    "teaching": [
+      {
+        "lesson": "17",
+        "title": "Other insurance and relation of earnings"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.2.05",
+    "title": "Relation of earnings to insurance",
+    "teaching": [
+      {
+        "lesson": "17",
+        "title": "Other insurance and relation of earnings"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "17",
+        "id": "H17-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.2.06",
+    "title": "Unpaid premium",
+    "teaching": [
+      {
+        "lesson": "17",
+        "title": "Unpaid premium, cancellation, conformity and conduct"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "17",
+        "id": "H17-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.2.07",
+    "title": "Cancellation by the company",
+    "teaching": [
+      {
+        "lesson": "17",
+        "title": "Unpaid premium, cancellation, conformity and conduct"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.2.08",
+    "title": "Conformity with state statutes",
+    "teaching": [
+      {
+        "lesson": "17",
+        "title": "Unpaid premium, cancellation, conformity and conduct"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "17",
+        "id": "H17-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.2.09",
+    "title": "Illegal occupation",
+    "teaching": [
+      {
+        "lesson": "17",
+        "title": "Unpaid premium, cancellation, conformity and conduct"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.2.10",
+    "title": "Intoxicants and narcotics",
+    "teaching": [
+      {
+        "lesson": "17",
+        "title": "Unpaid premium, cancellation, conformity and conduct"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.3.01",
+    "title": "Right to examine (free look)",
+    "teaching": [
+      {
+        "lesson": "17",
+        "title": "Free look, insuring clause and consideration"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "17",
+        "id": "H17-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.3.02",
+    "title": "Insuring clause and consideration clause",
+    "teaching": [
+      {
+        "lesson": "17",
+        "title": "Free look, insuring clause and consideration"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.3.03",
+    "title": "Noncancelable",
+    "teaching": [
+      {
+        "lesson": "17",
+        "title": "The renewability ladder"
+      },
+      {
+        "lesson": "17",
+        "title": "Interest and military suspension"
+      },
+      {
+        "lesson": "17",
+        "title": "Noncancelable costs more for a reason"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "17",
+        "id": "H17-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.3.04",
+    "title": "Guaranteed renewable",
+    "teaching": [
+      {
+        "lesson": "17",
+        "title": "The renewability ladder"
+      },
+      {
+        "lesson": "17",
+        "title": "Interest and military suspension"
+      },
+      {
+        "lesson": "17",
+        "title": "Why comprehensive medical plans are guaranteed renewable"
+      },
+      {
+        "lesson": "17",
+        "title": "Noncancelable costs more for a reason"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "17",
+        "id": "H17-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.3.05",
+    "title": "Conditionally renewable",
+    "teaching": [
+      {
+        "lesson": "17",
+        "title": "The renewability ladder"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.3.06",
+    "title": "Renewable at the option of the insurer",
+    "teaching": [
+      {
+        "lesson": "17",
+        "title": "The renewability ladder"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.3.07",
+    "title": "Nonrenewable (cancelable, term)",
+    "teaching": [
+      {
+        "lesson": "17",
+        "title": "The renewability ladder"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.3.08",
+    "title": "Interest on claim proceeds",
+    "teaching": [
+      {
+        "lesson": "17",
+        "title": "Interest and military suspension"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "4.3.09",
+    "title": "Military suspension provision",
+    "teaching": [
+      {
+        "lesson": "17",
+        "title": "Interest and military suspension"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.1.01",
+    "title": "Own occupation",
+    "teaching": [
+      {
+        "lesson": "28",
+        "title": "Why the definition matters"
+      },
+      {
+        "lesson": "28",
+        "title": "Own occupation"
+      },
+      {
+        "lesson": "28",
+        "title": "Under a physician’s care"
+      },
+      {
+        "lesson": "28",
+        "title": "Total disability is defined, not diagnosed"
+      },
+      {
+        "lesson": "28",
+        "title": "Recurrent disability"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "28",
+        "id": "H28-01"
+      },
+      {
+        "lesson": "28",
+        "id": "H28-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.1.02",
+    "title": "Any occupation",
+    "teaching": [
+      {
+        "lesson": "28",
+        "title": "Why the definition matters"
+      },
+      {
+        "lesson": "28",
+        "title": "Any occupation"
+      },
+      {
+        "lesson": "28",
+        "title": "Under a physician’s care"
+      },
+      {
+        "lesson": "28",
+        "title": "Total disability is defined, not diagnosed"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "28",
+        "id": "H28-02"
+      },
+      {
+        "lesson": "28",
+        "id": "H28-03"
+      },
+      {
+        "lesson": "28",
+        "id": "H28-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.1.03",
+    "title": "Pure loss of income (income replacement)",
+    "teaching": [
+      {
+        "lesson": "28",
+        "title": "Income replacement contracts"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "28",
+        "id": "H28-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.1.04",
+    "title": "Presumptive disability",
+    "teaching": [
+      {
+        "lesson": "28",
+        "title": "Presumptive disability"
+      },
+      {
+        "lesson": "28",
+        "title": "Under a physician’s care"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "28",
+        "id": "H28-05"
+      },
+      {
+        "lesson": "28",
+        "id": "H28-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.1.05",
+    "title": "Requirement to be under physician care",
+    "teaching": [
+      {
+        "lesson": "28",
+        "title": "Under a physician’s care"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "28",
+        "id": "H28-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.2.01",
+    "title": "Monthly indemnity benefit",
+    "teaching": [
+      {
+        "lesson": "29",
+        "title": "The monthly benefit"
+      },
+      {
+        "lesson": "29",
+        "title": "Exclusions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "29",
+        "id": "H29-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.2.02",
+    "title": "Elimination and benefit periods",
+    "teaching": [
+      {
+        "lesson": "29",
+        "title": "The elimination period"
+      },
+      {
+        "lesson": "29",
+        "title": "The benefit period"
+      },
+      {
+        "lesson": "29",
+        "title": "Exclusions"
+      },
+      {
+        "lesson": "29",
+        "title": "Probationary period versus elimination period"
+      },
+      {
+        "lesson": "29",
+        "title": "Why benefits are paid in arrears"
+      },
+      {
+        "lesson": "59",
+        "title": "Case three: the partial return"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "29",
+        "id": "H29-02"
+      },
+      {
+        "lesson": "29",
+        "id": "H29-03"
+      },
+      {
+        "lesson": "29",
+        "id": "H29-04"
+      },
+      {
+        "lesson": "29",
+        "id": "H29-08"
+      },
+      {
+        "lesson": "59",
+        "id": "H59-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.2.03",
+    "title": "Waiver of premium",
+    "teaching": [
+      {
+        "lesson": "29",
+        "title": "Waiver of premium"
+      },
+      {
+        "lesson": "29",
+        "title": "Exclusions"
+      },
+      {
+        "lesson": "59",
+        "title": "Case three: the partial return"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "29",
+        "id": "H29-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.2.04",
+    "title": "Partial disability benefits",
+    "teaching": [
+      {
+        "lesson": "30",
+        "title": "Partial disability"
+      },
+      {
+        "lesson": "30",
+        "title": "Partial versus residual"
+      },
+      {
+        "lesson": "30",
+        "title": "Fitting the pieces together"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "30",
+        "id": "H30-01"
+      },
+      {
+        "lesson": "30",
+        "id": "H30-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.2.05",
+    "title": "Additional monthly benefit and social insurance supplement",
+    "teaching": [
+      {
+        "lesson": "30",
+        "title": "Additional monthly benefit"
+      },
+      {
+        "lesson": "30",
+        "title": "Social insurance supplement"
+      },
+      {
+        "lesson": "30",
+        "title": "Fitting the pieces together"
+      },
+      {
+        "lesson": "30",
+        "title": "Why individual policies are rarely offset"
+      },
+      {
+        "lesson": "59",
+        "title": "Case three: the partial return"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "30",
+        "id": "H30-05"
+      },
+      {
+        "lesson": "30",
+        "id": "H30-06"
+      },
+      {
+        "lesson": "30",
+        "id": "H30-07"
+      },
+      {
+        "lesson": "59",
+        "id": "H59-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.2.06",
+    "title": "Occupational versus nonoccupational coverage",
+    "teaching": [
+      {
+        "lesson": "29",
+        "title": "Occupational or nonoccupational"
+      },
+      {
+        "lesson": "29",
+        "title": "Exclusions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "29",
+        "id": "H29-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.2.07",
+    "title": "Residual disability benefit",
+    "teaching": [
+      {
+        "lesson": "30",
+        "title": "Residual disability"
+      },
+      {
+        "lesson": "30",
+        "title": "Partial versus residual"
+      },
+      {
+        "lesson": "30",
+        "title": "Fitting the pieces together"
+      },
+      {
+        "lesson": "30",
+        "title": "Minimum and maximum loss thresholds"
+      },
+      {
+        "lesson": "59",
+        "title": "Case three: the partial return"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "30",
+        "id": "H30-02"
+      },
+      {
+        "lesson": "30",
+        "id": "H30-03"
+      },
+      {
+        "lesson": "30",
+        "id": "H30-04"
+      },
+      {
+        "lesson": "30",
+        "id": "H30-08"
+      },
+      {
+        "lesson": "59",
+        "id": "H59-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.2.08",
+    "title": "COLA and future increase option riders",
+    "teaching": [
+      {
+        "lesson": "31",
+        "title": "Cost-of-living adjustment"
+      },
+      {
+        "lesson": "31",
+        "title": "Future increase option"
+      },
+      {
+        "lesson": "31",
+        "title": "Designing Rosa’s policy"
+      },
+      {
+        "lesson": "31",
+        "title": "COLA versus FIO"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "31",
+        "id": "H31-01"
+      },
+      {
+        "lesson": "31",
+        "id": "H31-02"
+      },
+      {
+        "lesson": "31",
+        "id": "H31-03"
+      },
+      {
+        "lesson": "31",
+        "id": "H31-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.2.09",
+    "title": "Annual renewable term rider; relation of earnings; change of occupation",
+    "teaching": [
+      {
+        "lesson": "31",
+        "title": "Annual renewable term and related provisions"
+      },
+      {
+        "lesson": "31",
+        "title": "Designing Rosa’s policy"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "31",
+        "id": "H31-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.2.10",
+    "title": "AD&D, rehabilitation and medical reimbursement benefits",
+    "teaching": [
+      {
+        "lesson": "31",
+        "title": "Other cash benefits"
+      },
+      {
+        "lesson": "31",
+        "title": "Designing Rosa’s policy"
+      },
+      {
+        "lesson": "31",
+        "title": "Rehabilitation serves both parties"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "31",
+        "id": "H31-05"
+      },
+      {
+        "lesson": "31",
+        "id": "H31-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.2.11",
+    "title": "Return of premium and cash value refund provisions",
+    "teaching": [
+      {
+        "lesson": "31",
+        "title": "Return of premium and cash value"
+      },
+      {
+        "lesson": "31",
+        "title": "Designing Rosa’s policy"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "31",
+        "id": "H31-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.2.12",
+    "title": "Exclusions",
+    "teaching": [
+      {
+        "lesson": "29",
+        "title": "Exclusions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "29",
+        "id": "H29-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.3.01",
+    "title": "Occupational considerations",
+    "teaching": [
+      {
+        "lesson": "32",
+        "title": "Occupation first"
+      },
+      {
+        "lesson": "32",
+        "title": "Health, habits and hobbies"
+      },
+      {
+        "lesson": "32",
+        "title": "Rosa’s offer"
+      },
+      {
+        "lesson": "32",
+        "title": "Reading an underwriting question"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "32",
+        "id": "H32-01"
+      },
+      {
+        "lesson": "32",
+        "id": "H32-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.3.02",
+    "title": "Benefit limits (income replacement ratio)",
+    "teaching": [
+      {
+        "lesson": "32",
+        "title": "Income and the replacement ratio"
+      },
+      {
+        "lesson": "32",
+        "title": "Rosa’s offer"
+      },
+      {
+        "lesson": "32",
+        "title": "Reading an underwriting question"
+      },
+      {
+        "lesson": "32",
+        "title": "Why replacement ratios fall as income rises"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "32",
+        "id": "H32-03"
+      },
+      {
+        "lesson": "32",
+        "id": "H32-04"
+      },
+      {
+        "lesson": "32",
+        "id": "H32-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.3.03",
+    "title": "Policy issuance alternatives (rating, exclusion riders, modified benefits)",
+    "teaching": [
+      {
+        "lesson": "32",
+        "title": "Health, habits and hobbies"
+      },
+      {
+        "lesson": "32",
+        "title": "Issuance alternatives"
+      },
+      {
+        "lesson": "32",
+        "title": "Rosa’s offer"
+      },
+      {
+        "lesson": "32",
+        "title": "Reading an underwriting question"
+      },
+      {
+        "lesson": "32",
+        "title": "Exclusion riders can be temporary"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "32",
+        "id": "H32-06"
+      },
+      {
+        "lesson": "32",
+        "id": "H32-07"
+      },
+      {
+        "lesson": "32",
+        "id": "H32-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.4.01",
+    "title": "Group versus individual disability plans",
+    "teaching": [
+      {
+        "lesson": "33",
+        "title": "Group versus individual"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "33",
+        "id": "H33-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.4.02",
+    "title": "Short-term disability",
+    "teaching": [
+      {
+        "lesson": "33",
+        "title": "Short-term disability"
+      },
+      {
+        "lesson": "33",
+        "title": "Why LTD elimination periods match STD benefit periods"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "33",
+        "id": "H33-02"
+      },
+      {
+        "lesson": "33",
+        "id": "H33-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.4.03",
+    "title": "Long-term disability",
+    "teaching": [
+      {
+        "lesson": "33",
+        "title": "Long-term disability"
+      },
+      {
+        "lesson": "33",
+        "title": "Why LTD elimination periods match STD benefit periods"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "33",
+        "id": "H33-03"
+      },
+      {
+        "lesson": "33",
+        "id": "H33-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.5.01",
+    "title": "Key employee disability income",
+    "teaching": [
+      {
+        "lesson": "33",
+        "title": "Key employee disability"
+      },
+      {
+        "lesson": "33",
+        "title": "Three business policies, three purposes"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "33",
+        "id": "H33-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.5.02",
+    "title": "Business overhead expense policy",
+    "teaching": [
+      {
+        "lesson": "33",
+        "title": "Business overhead expense"
+      },
+      {
+        "lesson": "33",
+        "title": "Three business policies, three purposes"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "33",
+        "id": "H33-06"
+      },
+      {
+        "lesson": "33",
+        "id": "H33-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.5.03",
+    "title": "Business disability buyout policy",
+    "teaching": [
+      {
+        "lesson": "33",
+        "title": "Disability buyout"
+      },
+      {
+        "lesson": "33",
+        "title": "Three business policies, three purposes"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "33",
+        "id": "H33-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.6.01",
+    "title": "Qualification for Social Security disability",
+    "teaching": [
+      {
+        "lesson": "34",
+        "title": "Qualifying for Social Security disability"
+      },
+      {
+        "lesson": "34",
+        "title": "Work credits for younger workers"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "34",
+        "id": "H34-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.6.02",
+    "title": "Definition of disability",
+    "teaching": [
+      {
+        "lesson": "34",
+        "title": "The strictest definition"
+      },
+      {
+        "lesson": "34",
+        "title": "How private coverage fits"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "34",
+        "id": "H34-02"
+      },
+      {
+        "lesson": "34",
+        "id": "H34-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.6.03",
+    "title": "Waiting period",
+    "teaching": [
+      {
+        "lesson": "34",
+        "title": "Waiting period and benefits"
+      },
+      {
+        "lesson": "34",
+        "title": "How private coverage fits"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "34",
+        "id": "H34-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.6.04",
+    "title": "Disability income benefits",
+    "teaching": [
+      {
+        "lesson": "34",
+        "title": "Waiting period and benefits"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "34",
+        "id": "H34-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.7.01",
+    "title": "Eligibility for workers compensation",
+    "teaching": [
+      {
+        "lesson": "34",
+        "title": "Workers compensation eligibility"
+      },
+      {
+        "lesson": "34",
+        "title": "How private coverage fits"
+      },
+      {
+        "lesson": "34",
+        "title": "Maryland’s exclusive remedy and third parties"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "34",
+        "id": "H34-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "5.7.02",
+    "title": "Workers compensation benefits",
+    "teaching": [
+      {
+        "lesson": "34",
+        "title": "Workers compensation benefits"
+      },
+      {
+        "lesson": "34",
+        "title": "How private coverage fits"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "34",
+        "id": "H34-07"
+      },
+      {
+        "lesson": "34",
+        "id": "H34-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.1.01",
+    "title": "Fee-for-service versus prepaid basis",
+    "teaching": [
+      {
+        "lesson": "18",
+        "title": "Fee-for-service or prepaid"
+      },
+      {
+        "lesson": "18",
+        "title": "Use the five pairs"
+      },
+      {
+        "lesson": "18",
+        "title": "Why prepaid plans emphasize prevention"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "18",
+        "id": "H18-01"
+      },
+      {
+        "lesson": "18",
+        "id": "H18-02"
+      },
+      {
+        "lesson": "18",
+        "id": "H18-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.1.02",
+    "title": "Specified coverages versus comprehensive care",
+    "teaching": [
+      {
+        "lesson": "18",
+        "title": "Specified coverages or comprehensive care"
+      },
+      {
+        "lesson": "18",
+        "title": "Use the five pairs"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "18",
+        "id": "H18-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.1.03",
+    "title": "Benefit schedule versus usual, reasonable and customary charges",
+    "teaching": [
+      {
+        "lesson": "18",
+        "title": "Benefit schedule or usual, customary and reasonable"
+      },
+      {
+        "lesson": "18",
+        "title": "Use the five pairs"
+      },
+      {
+        "lesson": "18",
+        "title": "Balance billing"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "18",
+        "id": "H18-03"
+      },
+      {
+        "lesson": "18",
+        "id": "H18-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.1.04",
+    "title": "Any provider versus limited choice of providers",
+    "teaching": [
+      {
+        "lesson": "18",
+        "title": "Any provider or limited choice"
+      },
+      {
+        "lesson": "18",
+        "title": "Use the five pairs"
+      },
+      {
+        "lesson": "18",
+        "title": "Balance billing"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "18",
+        "id": "H18-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.1.05",
+    "title": "Insureds versus subscribers and participants",
+    "teaching": [
+      {
+        "lesson": "18",
+        "title": "Insureds, subscribers and participants"
+      },
+      {
+        "lesson": "18",
+        "title": "Use the five pairs"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "18",
+        "id": "H18-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.2.01",
+    "title": "Major medical characteristics, limitations and exclusions",
+    "teaching": [
+      {
+        "lesson": "19",
+        "title": "What major medical is"
+      },
+      {
+        "lesson": "19",
+        "title": "Supplemental and comprehensive forms"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "19",
+        "id": "H19-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.2.02",
+    "title": "Deductibles",
+    "teaching": [
+      {
+        "lesson": "19",
+        "title": "Kinds of deductibles"
+      },
+      {
+        "lesson": "19",
+        "title": "Work the numbers"
+      },
+      {
+        "lesson": "19",
+        "title": "Supplemental and comprehensive forms"
+      },
+      {
+        "lesson": "19",
+        "title": "Embedded versus aggregate family deductibles"
+      },
+      {
+        "lesson": "59",
+        "title": "Case one: the hospital bill"
+      },
+      {
+        "lesson": "59",
+        "title": "Order of operations for cost sharing"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "19",
+        "id": "H19-01"
+      },
+      {
+        "lesson": "19",
+        "id": "H19-03"
+      },
+      {
+        "lesson": "19",
+        "id": "H19-04"
+      },
+      {
+        "lesson": "19",
+        "id": "H19-08"
+      },
+      {
+        "lesson": "59",
+        "id": "H59-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.2.03",
+    "title": "Coinsurance",
+    "teaching": [
+      {
+        "lesson": "19",
+        "title": "Coinsurance"
+      },
+      {
+        "lesson": "19",
+        "title": "Work the numbers"
+      },
+      {
+        "lesson": "59",
+        "title": "Case one: the hospital bill"
+      },
+      {
+        "lesson": "59",
+        "title": "Order of operations for cost sharing"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "19",
+        "id": "H19-01"
+      },
+      {
+        "lesson": "19",
+        "id": "H19-02"
+      },
+      {
+        "lesson": "19",
+        "id": "H19-05"
+      },
+      {
+        "lesson": "59",
+        "id": "H59-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.2.04",
+    "title": "Stop-loss and maximum benefits",
+    "teaching": [
+      {
+        "lesson": "19",
+        "title": "Stop-loss and maximums"
+      },
+      {
+        "lesson": "19",
+        "title": "Work the numbers"
+      },
+      {
+        "lesson": "19",
+        "title": "What counts toward the out-of-pocket maximum"
+      },
+      {
+        "lesson": "59",
+        "title": "Case one: the hospital bill"
+      },
+      {
+        "lesson": "59",
+        "title": "Order of operations for cost sharing"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "19",
+        "id": "H19-02"
+      },
+      {
+        "lesson": "19",
+        "id": "H19-06"
+      },
+      {
+        "lesson": "19",
+        "id": "H19-07"
+      },
+      {
+        "lesson": "59",
+        "id": "H59-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.2.05",
+    "title": "Fixed indemnity plans",
+    "teaching": [
+      {
+        "lesson": "20",
+        "title": "Fixed indemnity plans"
+      },
+      {
+        "lesson": "20",
+        "title": "Where each fits"
+      },
+      {
+        "lesson": "20",
+        "title": "Fixed indemnity is not minimum essential coverage"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "20",
+        "id": "H20-01"
+      },
+      {
+        "lesson": "20",
+        "id": "H20-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.2.06",
+    "title": "Health service plan definitions and plans offered",
+    "teaching": [
+      {
+        "lesson": "20",
+        "title": "What a health service plan is"
+      },
+      {
+        "lesson": "20",
+        "title": "Plans offered and other services"
+      },
+      {
+        "lesson": "20",
+        "title": "Where each fits"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "20",
+        "id": "H20-03"
+      },
+      {
+        "lesson": "20",
+        "id": "H20-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.2.07",
+    "title": "Health service plan providers, panels, disclosure and subscribers",
+    "teaching": [
+      {
+        "lesson": "20",
+        "title": "Participating providers and panels"
+      },
+      {
+        "lesson": "20",
+        "title": "Disclosure to subscribers"
+      },
+      {
+        "lesson": "20",
+        "title": "Where each fits"
+      },
+      {
+        "lesson": "20",
+        "title": "Assignment and direct payment"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "20",
+        "id": "H20-04"
+      },
+      {
+        "lesson": "20",
+        "id": "H20-05"
+      },
+      {
+        "lesson": "20",
+        "id": "H20-06"
+      },
+      {
+        "lesson": "20",
+        "id": "H20-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.2.08",
+    "title": "HMO: combined delivery and financing; service area",
+    "teaching": [
+      {
+        "lesson": "21",
+        "title": "Financing and delivery in one organization"
+      },
+      {
+        "lesson": "21",
+        "title": "Emergency care anywhere"
+      },
+      {
+        "lesson": "21",
+        "title": "Reading an HMO question"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "21",
+        "id": "H21-01"
+      },
+      {
+        "lesson": "21",
+        "id": "H21-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.2.09",
+    "title": "HMO: gatekeeper, copayments, prepaid basis",
+    "teaching": [
+      {
+        "lesson": "21",
+        "title": "The gatekeeper"
+      },
+      {
+        "lesson": "21",
+        "title": "Copayments and prepaid financing"
+      },
+      {
+        "lesson": "21",
+        "title": "Reading an HMO question"
+      },
+      {
+        "lesson": "21",
+        "title": "Open panel versus closed panel"
+      },
+      {
+        "lesson": "21",
+        "title": "Maryland direct access rules"
+      },
+      {
+        "lesson": "59",
+        "title": "Case six: choosing the plan"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "21",
+        "id": "H21-02"
+      },
+      {
+        "lesson": "21",
+        "id": "H21-03"
+      },
+      {
+        "lesson": "21",
+        "id": "H21-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.2.10",
+    "title": "HMO: preventive, primary versus referral, emergency and hospital services",
+    "teaching": [
+      {
+        "lesson": "21",
+        "title": "Preventive, primary and referral care"
+      },
+      {
+        "lesson": "21",
+        "title": "Emergency care anywhere"
+      },
+      {
+        "lesson": "21",
+        "title": "Reading an HMO question"
+      },
+      {
+        "lesson": "21",
+        "title": "Maryland direct access rules"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "21",
+        "id": "H21-05"
+      },
+      {
+        "lesson": "21",
+        "id": "H21-06"
+      },
+      {
+        "lesson": "21",
+        "id": "H21-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.2.11",
+    "title": "PPO general characteristics; open versus closed panel",
+    "teaching": [
+      {
+        "lesson": "22",
+        "title": "Preferred provider organizations"
+      },
+      {
+        "lesson": "22",
+        "title": "Open and closed panels"
+      },
+      {
+        "lesson": "22",
+        "title": "Choosing among the designs"
+      },
+      {
+        "lesson": "22",
+        "title": "Name the plan from its rules"
+      },
+      {
+        "lesson": "22",
+        "title": "Preferred providers and balance billing"
+      },
+      {
+        "lesson": "22",
+        "title": "Maryland Medicare Advantage HMOs and PPOs"
+      },
+      {
+        "lesson": "59",
+        "title": "Case one: the hospital bill"
+      },
+      {
+        "lesson": "59",
+        "title": "Case six: choosing the plan"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "22",
+        "id": "H22-01"
+      },
+      {
+        "lesson": "22",
+        "id": "H22-02"
+      },
+      {
+        "lesson": "22",
+        "id": "H22-05"
+      },
+      {
+        "lesson": "22",
+        "id": "H22-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.2.12",
+    "title": "POS plans: out-of-network access, PCP referral, indemnity features",
+    "teaching": [
+      {
+        "lesson": "22",
+        "title": "Point-of-service plans"
+      },
+      {
+        "lesson": "22",
+        "title": "Choosing among the designs"
+      },
+      {
+        "lesson": "22",
+        "title": "Name the plan from its rules"
+      },
+      {
+        "lesson": "59",
+        "title": "Case six: choosing the plan"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "22",
+        "id": "H22-03"
+      },
+      {
+        "lesson": "22",
+        "id": "H22-04"
+      },
+      {
+        "lesson": "59",
+        "id": "H59-10"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.2.13",
+    "title": "TRICARE",
+    "teaching": [
+      {
+        "lesson": "22",
+        "title": "TRICARE"
+      },
+      {
+        "lesson": "22",
+        "title": "Name the plan from its rules"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "22",
+        "id": "H22-06"
+      },
+      {
+        "lesson": "22",
+        "id": "H22-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.3.01",
+    "title": "Preventive care, outpatient and alternatives to hospital services",
+    "teaching": [
+      {
+        "lesson": "23",
+        "title": "Cheaper settings, same care"
+      },
+      {
+        "lesson": "23",
+        "title": "Containment plus coordination"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "23",
+        "id": "H23-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.3.02",
+    "title": "Prospective and concurrent utilization review",
+    "teaching": [
+      {
+        "lesson": "23",
+        "title": "Utilization review"
+      },
+      {
+        "lesson": "23",
+        "title": "Containment plus coordination"
+      },
+      {
+        "lesson": "23",
+        "title": "Precertification penalties"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "23",
+        "id": "H23-01"
+      },
+      {
+        "lesson": "23",
+        "id": "H23-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.3.03",
+    "title": "Coordination of benefits",
+    "teaching": [
+      {
+        "lesson": "23",
+        "title": "Why coordinate benefits"
+      },
+      {
+        "lesson": "23",
+        "title": "Order of benefits"
+      },
+      {
+        "lesson": "23",
+        "title": "Work a family claim"
+      },
+      {
+        "lesson": "23",
+        "title": "Containment plus coordination"
+      },
+      {
+        "lesson": "23",
+        "title": "Medicare as a coordinating payer"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "23",
+        "id": "H23-04"
+      },
+      {
+        "lesson": "23",
+        "id": "H23-05"
+      },
+      {
+        "lesson": "23",
+        "id": "H23-06"
+      },
+      {
+        "lesson": "23",
+        "id": "H23-07"
+      },
+      {
+        "lesson": "23",
+        "id": "H23-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.4.01",
+    "title": "HIPAA eligibility",
+    "teaching": [
+      {
+        "lesson": "24",
+        "title": "What HIPAA set out to fix"
+      },
+      {
+        "lesson": "24",
+        "title": "Eligibility and special enrollment"
+      },
+      {
+        "lesson": "24",
+        "title": "HIPAA then and now"
+      },
+      {
+        "lesson": "24",
+        "title": "The privacy and security rules"
+      },
+      {
+        "lesson": "24",
+        "title": "Late enrollees"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "24",
+        "id": "H24-01"
+      },
+      {
+        "lesson": "24",
+        "id": "H24-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.4.02",
+    "title": "Guaranteed issue",
+    "teaching": [
+      {
+        "lesson": "24",
+        "title": "Guaranteed issue"
+      },
+      {
+        "lesson": "24",
+        "title": "HIPAA then and now"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "24",
+        "id": "H24-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.4.03",
+    "title": "Pre-existing conditions and creditable coverage",
+    "teaching": [
+      {
+        "lesson": "24",
+        "title": "Pre-existing conditions and creditable coverage"
+      },
+      {
+        "lesson": "24",
+        "title": "HIPAA then and now"
+      },
+      {
+        "lesson": "24",
+        "title": "Late enrollees"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "24",
+        "id": "H24-04"
+      },
+      {
+        "lesson": "24",
+        "id": "H24-05"
+      },
+      {
+        "lesson": "24",
+        "id": "H24-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.4.04",
+    "title": "Renewability",
+    "teaching": [
+      {
+        "lesson": "24",
+        "title": "Guaranteed renewability"
+      },
+      {
+        "lesson": "24",
+        "title": "HIPAA then and now"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "24",
+        "id": "H24-07"
+      },
+      {
+        "lesson": "24",
+        "id": "H24-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.5.01",
+    "title": "HSA definition and eligibility",
+    "teaching": [
+      {
+        "lesson": "25",
+        "title": "The high-deductible plan comes first"
+      },
+      {
+        "lesson": "25",
+        "title": "Who may contribute"
+      },
+      {
+        "lesson": "25",
+        "title": "HSA versus HRA"
+      },
+      {
+        "lesson": "25",
+        "title": "Advising Rosa and Priya"
+      },
+      {
+        "lesson": "25",
+        "title": "Limited-purpose FSAs preserve HSA eligibility"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "25",
+        "id": "H25-01"
+      },
+      {
+        "lesson": "25",
+        "id": "H25-02"
+      },
+      {
+        "lesson": "25",
+        "id": "H25-04"
+      },
+      {
+        "lesson": "25",
+        "id": "H25-07"
+      },
+      {
+        "lesson": "25",
+        "id": "H25-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.5.02",
+    "title": "HSA contribution limits",
+    "teaching": [
+      {
+        "lesson": "25",
+        "title": "Contribution limits and tax treatment"
+      },
+      {
+        "lesson": "25",
+        "title": "Advising Rosa and Priya"
+      },
+      {
+        "lesson": "25",
+        "title": "Last-month rule and mid-year changes"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "25",
+        "id": "H25-03"
+      },
+      {
+        "lesson": "25",
+        "id": "H25-04"
+      },
+      {
+        "lesson": "25",
+        "id": "H25-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.5.03",
+    "title": "HRA definition and funding",
+    "teaching": [
+      {
+        "lesson": "25",
+        "title": "Health reimbursement arrangements"
+      },
+      {
+        "lesson": "25",
+        "title": "HSA versus HRA"
+      },
+      {
+        "lesson": "25",
+        "title": "Advising Rosa and Priya"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "25",
+        "id": "H25-06"
+      },
+      {
+        "lesson": "25",
+        "id": "H25-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.6.01",
+    "title": "Coverage of children to age 26",
+    "teaching": [
+      {
+        "lesson": "26",
+        "title": "Children to age 26"
+      },
+      {
+        "lesson": "26",
+        "title": "Applying the coverage rules"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "26",
+        "id": "H26-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.6.02",
+    "title": "Preventive care without cost sharing",
+    "teaching": [
+      {
+        "lesson": "26",
+        "title": "Preventive care and pre-existing conditions"
+      },
+      {
+        "lesson": "26",
+        "title": "Applying the coverage rules"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "26",
+        "id": "H26-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.6.03",
+    "title": "Pre-existing conditions and rescissions",
+    "teaching": [
+      {
+        "lesson": "26",
+        "title": "Preventive care and pre-existing conditions"
+      },
+      {
+        "lesson": "26",
+        "title": "Rescissions and dollar limits"
+      },
+      {
+        "lesson": "26",
+        "title": "Applying the coverage rules"
+      },
+      {
+        "lesson": "26",
+        "title": "Excepted benefits are outside these rules"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "26",
+        "id": "H26-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.6.04",
+    "title": "Lifetime and annual limits",
+    "teaching": [
+      {
+        "lesson": "26",
+        "title": "Rescissions and dollar limits"
+      },
+      {
+        "lesson": "26",
+        "title": "Applying the coverage rules"
+      },
+      {
+        "lesson": "26",
+        "title": "Excepted benefits are outside these rules"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "26",
+        "id": "H26-04"
+      },
+      {
+        "lesson": "26",
+        "id": "H26-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.6.05",
+    "title": "Grandfathered versus non-grandfathered plans",
+    "teaching": [
+      {
+        "lesson": "26",
+        "title": "Grandfathered plans"
+      },
+      {
+        "lesson": "26",
+        "title": "Applying the coverage rules"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "26",
+        "id": "H26-05"
+      },
+      {
+        "lesson": "26",
+        "id": "H26-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.6.06",
+    "title": "Essential health benefits",
+    "teaching": [
+      {
+        "lesson": "26",
+        "title": "Essential health benefits"
+      },
+      {
+        "lesson": "26",
+        "title": "Applying the coverage rules"
+      },
+      {
+        "lesson": "26",
+        "title": "Habilitative versus rehabilitative"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "26",
+        "id": "H26-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.6.07",
+    "title": "Metal levels",
+    "teaching": [
+      {
+        "lesson": "27",
+        "title": "Metal levels"
+      },
+      {
+        "lesson": "27",
+        "title": "Why silver matters for cost-sharing reductions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "27",
+        "id": "H27-01"
+      },
+      {
+        "lesson": "27",
+        "id": "H27-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.6.08",
+    "title": "SHOP payment and billing",
+    "teaching": [
+      {
+        "lesson": "27",
+        "title": "The small business marketplace"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "27",
+        "id": "H27-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.6.09",
+    "title": "Internal appeal and external review",
+    "teaching": [
+      {
+        "lesson": "27",
+        "title": "Internal appeal"
+      },
+      {
+        "lesson": "27",
+        "title": "External review"
+      },
+      {
+        "lesson": "27",
+        "title": "Grievance versus complaint in Maryland"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "27",
+        "id": "H27-04"
+      },
+      {
+        "lesson": "27",
+        "id": "H27-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.6.10",
+    "title": "Subsidies and premium tax credits",
+    "teaching": [
+      {
+        "lesson": "27",
+        "title": "Subsidies"
+      },
+      {
+        "lesson": "27",
+        "title": "Why silver matters for cost-sharing reductions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "27",
+        "id": "H27-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "6.6.11",
+    "title": "Penalties and fines",
+    "teaching": [
+      {
+        "lesson": "27",
+        "title": "Penalties and fines"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "27",
+        "id": "H27-07"
+      },
+      {
+        "lesson": "27",
+        "id": "H27-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.1.01",
+    "title": "Group contract and master policy",
+    "teaching": [
+      {
+        "lesson": "35",
+        "title": "The master policy and the certificate"
+      },
+      {
+        "lesson": "35",
+        "title": "Sorting a group question"
+      },
+      {
+        "lesson": "35",
+        "title": "Participation and contribution"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "35",
+        "id": "H35-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.1.02",
+    "title": "Certificate of coverage",
+    "teaching": [
+      {
+        "lesson": "35",
+        "title": "The master policy and the certificate"
+      },
+      {
+        "lesson": "35",
+        "title": "What the certificate must say"
+      },
+      {
+        "lesson": "35",
+        "title": "Sorting a group question"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "35",
+        "id": "H35-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.1.03",
+    "title": "Experience rating versus community rating",
+    "teaching": [
+      {
+        "lesson": "35",
+        "title": "Experience and community rating"
+      },
+      {
+        "lesson": "35",
+        "title": "Sorting a group question"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "35",
+        "id": "H35-03"
+      },
+      {
+        "lesson": "35",
+        "id": "H35-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.2.01",
+    "title": "Employer groups",
+    "teaching": [
+      {
+        "lesson": "35",
+        "title": "Why only true groups"
+      },
+      {
+        "lesson": "35",
+        "title": "The eligible groups"
+      },
+      {
+        "lesson": "35",
+        "title": "Sorting a group question"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "35",
+        "id": "H35-05"
+      },
+      {
+        "lesson": "35",
+        "id": "H35-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.2.02",
+    "title": "Creditor groups",
+    "teaching": [
+      {
+        "lesson": "35",
+        "title": "The eligible groups"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "35",
+        "id": "H35-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.2.03",
+    "title": "Labor unions",
+    "teaching": [
+      {
+        "lesson": "35",
+        "title": "The eligible groups"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.2.04",
+    "title": "Multiple employer trusts",
+    "teaching": [
+      {
+        "lesson": "35",
+        "title": "The eligible groups"
+      },
+      {
+        "lesson": "35",
+        "title": "Multiple employer welfare arrangements"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "35",
+        "id": "H35-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.2.05",
+    "title": "Associations",
+    "teaching": [
+      {
+        "lesson": "35",
+        "title": "The eligible groups"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "35",
+        "id": "H35-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.2.06",
+    "title": "Credit unions",
+    "teaching": [
+      {
+        "lesson": "35",
+        "title": "The eligible groups"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "35",
+        "id": "H35-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.3.01",
+    "title": "Group advertising",
+    "teaching": [
+      {
+        "lesson": "36",
+        "title": "Advertising to groups"
+      },
+      {
+        "lesson": "36",
+        "title": "Why these rules exist"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "36",
+        "id": "H36-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.3.02",
+    "title": "Regulatory jurisdiction and place of delivery",
+    "teaching": [
+      {
+        "lesson": "36",
+        "title": "Whose law governs"
+      },
+      {
+        "lesson": "36",
+        "title": "Why these rules exist"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "36",
+        "id": "H36-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.4.01",
+    "title": "Insurer underwriting of the group: characteristics, plan design, persistency, administration",
+    "teaching": [
+      {
+        "lesson": "36",
+        "title": "Underwriting the group"
+      },
+      {
+        "lesson": "36",
+        "title": "Participation requirements"
+      },
+      {
+        "lesson": "36",
+        "title": "Employer contribution"
+      },
+      {
+        "lesson": "36",
+        "title": "Why these rules exist"
+      },
+      {
+        "lesson": "36",
+        "title": "Actively-at-work and eligible employees"
+      },
+      {
+        "lesson": "36",
+        "title": "Large group flexibility"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "36",
+        "id": "H36-03"
+      },
+      {
+        "lesson": "36",
+        "id": "H36-04"
+      },
+      {
+        "lesson": "36",
+        "id": "H36-05"
+      },
+      {
+        "lesson": "36",
+        "id": "H36-06"
+      },
+      {
+        "lesson": "36",
+        "id": "H36-07"
+      },
+      {
+        "lesson": "36",
+        "id": "H36-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.4.02",
+    "title": "Annual open enrollment",
+    "teaching": [
+      {
+        "lesson": "37",
+        "title": "Open and special enrollment"
+      },
+      {
+        "lesson": "37",
+        "title": "Enroll Priya’s new baker"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "37",
+        "id": "H37-03"
+      },
+      {
+        "lesson": "37",
+        "id": "H37-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.4.03",
+    "title": "Employee and dependent eligibility",
+    "teaching": [
+      {
+        "lesson": "37",
+        "title": "Employee eligibility"
+      },
+      {
+        "lesson": "37",
+        "title": "Dependent eligibility"
+      },
+      {
+        "lesson": "37",
+        "title": "Enroll Priya’s new baker"
+      },
+      {
+        "lesson": "37",
+        "title": "Actively at work"
+      },
+      {
+        "lesson": "37",
+        "title": "Maryland’s dependent rules in a group plan"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "37",
+        "id": "H37-01"
+      },
+      {
+        "lesson": "37",
+        "id": "H37-02"
+      },
+      {
+        "lesson": "37",
+        "id": "H37-05"
+      },
+      {
+        "lesson": "37",
+        "id": "H37-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.4.04",
+    "title": "Coordination of benefits",
+    "teaching": [
+      {
+        "lesson": "37",
+        "title": "Coordination of benefits at work"
+      },
+      {
+        "lesson": "59",
+        "title": "Case five: two plans, one child"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "37",
+        "id": "H37-06"
+      },
+      {
+        "lesson": "59",
+        "id": "H59-09"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.4.05",
+    "title": "Coinsurance and deductible carryover",
+    "teaching": [
+      {
+        "lesson": "38",
+        "title": "Switching carriers midyear"
+      },
+      {
+        "lesson": "59",
+        "title": "Case five: two plans, one child"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "38",
+        "id": "H38-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.4.06",
+    "title": "No-loss no-gain",
+    "teaching": [
+      {
+        "lesson": "38",
+        "title": "Switching carriers midyear"
+      },
+      {
+        "lesson": "59",
+        "title": "Case five: two plans, one child"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "38",
+        "id": "H38-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.4.07",
+    "title": "Events that terminate coverage",
+    "teaching": [
+      {
+        "lesson": "38",
+        "title": "When group coverage ends"
+      },
+      {
+        "lesson": "38",
+        "title": "Conversion"
+      },
+      {
+        "lesson": "59",
+        "title": "Case five: two plans, one child"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.4.08",
+    "title": "Reinstatement for military personnel and notification of Medicare eligibility",
+    "teaching": [
+      {
+        "lesson": "38",
+        "title": "Military service and Medicare"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "38",
+        "id": "H38-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.4.09",
+    "title": "Extension of benefits",
+    "teaching": [
+      {
+        "lesson": "38",
+        "title": "Military service and Medicare"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "38",
+        "id": "H38-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.4.10",
+    "title": "COBRA and Maryland continuation rules",
+    "teaching": [
+      {
+        "lesson": "38",
+        "title": "COBRA"
+      },
+      {
+        "lesson": "38",
+        "title": "Maryland continuation"
+      },
+      {
+        "lesson": "38",
+        "title": "Conversion"
+      },
+      {
+        "lesson": "38",
+        "title": "COBRA and Maryland continuation side by side"
+      },
+      {
+        "lesson": "38",
+        "title": "Termination statement after divorce"
+      },
+      {
+        "lesson": "59",
+        "title": "Case four: the layoff"
+      },
+      {
+        "lesson": "59",
+        "title": "Reading a group termination question"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "38",
+        "id": "H38-04"
+      },
+      {
+        "lesson": "38",
+        "id": "H38-05"
+      },
+      {
+        "lesson": "38",
+        "id": "H38-06"
+      },
+      {
+        "lesson": "59",
+        "id": "H59-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.4.11",
+    "title": "Conversion privilege",
+    "teaching": [
+      {
+        "lesson": "38",
+        "title": "Conversion"
+      },
+      {
+        "lesson": "59",
+        "title": "Case four: the layoff"
+      },
+      {
+        "lesson": "59",
+        "title": "Reading a group termination question"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "38",
+        "id": "H38-07"
+      },
+      {
+        "lesson": "59",
+        "id": "H59-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.4.12",
+    "title": "Special enrollment periods",
+    "teaching": [
+      {
+        "lesson": "37",
+        "title": "Open and special enrollment"
+      },
+      {
+        "lesson": "37",
+        "title": "Enroll Priya’s new baker"
+      },
+      {
+        "lesson": "59",
+        "title": "Case four: the layoff"
+      },
+      {
+        "lesson": "59",
+        "title": "Reading a group termination question"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "37",
+        "id": "H37-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.4.13",
+    "title": "Minimizing adverse selection",
+    "teaching": [
+      {
+        "lesson": "37",
+        "title": "Minimizing adverse selection"
+      },
+      {
+        "lesson": "37",
+        "title": "Enroll Priya’s new baker"
+      },
+      {
+        "lesson": "37",
+        "title": "Actively at work"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "37",
+        "id": "H37-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.5.01",
+    "title": "Definition of small employer",
+    "teaching": [
+      {
+        "lesson": "39",
+        "title": "Counting to fifty"
+      },
+      {
+        "lesson": "39",
+        "title": "Rating the small group"
+      },
+      {
+        "lesson": "39",
+        "title": "Priya’s options"
+      },
+      {
+        "lesson": "39",
+        "title": "Groups of one"
+      },
+      {
+        "lesson": "39",
+        "title": "Grandfathered small group rating"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "39",
+        "id": "H39-01"
+      },
+      {
+        "lesson": "39",
+        "id": "H39-02"
+      },
+      {
+        "lesson": "39",
+        "id": "H39-04"
+      },
+      {
+        "lesson": "39",
+        "id": "H39-05"
+      },
+      {
+        "lesson": "39",
+        "id": "H39-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.5.02",
+    "title": "Availability of coverage (guaranteed issue)",
+    "teaching": [
+      {
+        "lesson": "39",
+        "title": "Guaranteed availability"
+      },
+      {
+        "lesson": "39",
+        "title": "Priya’s options"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "39",
+        "id": "H39-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.5.03",
+    "title": "Disclosure of coverage provisions",
+    "teaching": [
+      {
+        "lesson": "39",
+        "title": "Disclosure and eligibility"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "39",
+        "id": "H39-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.5.04",
+    "title": "Enrollment eligibility",
+    "teaching": [
+      {
+        "lesson": "39",
+        "title": "Disclosure and eligibility"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "7.5.05",
+    "title": "Renewability",
+    "teaching": [
+      {
+        "lesson": "39",
+        "title": "Renewability"
+      },
+      {
+        "lesson": "39",
+        "title": "Priya’s options"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "39",
+        "id": "H39-06"
+      },
+      {
+        "lesson": "39",
+        "id": "H39-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "8.1.01",
+    "title": "Diagnostic and preventive",
+    "teaching": [
+      {
+        "lesson": "40",
+        "title": "Types of dental treatment"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "40",
+        "id": "H40-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "8.1.02",
+    "title": "Restorative",
+    "teaching": [
+      {
+        "lesson": "40",
+        "title": "Types of dental treatment"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "8.1.03",
+    "title": "Oral surgery",
+    "teaching": [
+      {
+        "lesson": "40",
+        "title": "Types of dental treatment"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "8.1.04",
+    "title": "Endodontics and periodontics",
+    "teaching": [
+      {
+        "lesson": "40",
+        "title": "Types of dental treatment"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "40",
+        "id": "H40-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "8.1.05",
+    "title": "Prosthodontics and orthodontics",
+    "teaching": [
+      {
+        "lesson": "40",
+        "title": "Types of dental treatment"
+      },
+      {
+        "lesson": "40",
+        "title": "Orthodontic benefits"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "8.2.01",
+    "title": "Choice of providers",
+    "teaching": [
+      {
+        "lesson": "40",
+        "title": "Indemnity dental plans"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "8.2.02",
+    "title": "Scheduled versus nonscheduled plans",
+    "teaching": [
+      {
+        "lesson": "40",
+        "title": "Indemnity dental plans"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "40",
+        "id": "H40-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "8.2.03",
+    "title": "Benefit categories: preventive, basic and major",
+    "teaching": [
+      {
+        "lesson": "40",
+        "title": "Indemnity dental plans"
+      },
+      {
+        "lesson": "40",
+        "title": "Deductibles, maximums and the arithmetic"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "40",
+        "id": "H40-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "8.2.04",
+    "title": "Deductibles, coinsurance and combination plans",
+    "teaching": [
+      {
+        "lesson": "40",
+        "title": "Deductibles, maximums and the arithmetic"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "40",
+        "id": "H40-04"
+      },
+      {
+        "lesson": "40",
+        "id": "H40-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "8.2.05",
+    "title": "Exclusions and limitations",
+    "teaching": [
+      {
+        "lesson": "40",
+        "title": "Exclusions, limitations and predetermination"
+      },
+      {
+        "lesson": "40",
+        "title": "Minimizing adverse selection in dental"
+      },
+      {
+        "lesson": "40",
+        "title": "Least expensive alternative treatment"
+      },
+      {
+        "lesson": "40",
+        "title": "Orthodontic benefits"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "8.2.06",
+    "title": "Predetermination of benefits",
+    "teaching": [
+      {
+        "lesson": "40",
+        "title": "Exclusions, limitations and predetermination"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "40",
+        "id": "H40-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "8.3.01",
+    "title": "Integrated versus stand-alone deductibles",
+    "teaching": [
+      {
+        "lesson": "40",
+        "title": "Group dental design"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "40",
+        "id": "H40-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "8.3.02",
+    "title": "Minimizing adverse selection in dental",
+    "teaching": [
+      {
+        "lesson": "40",
+        "title": "Minimizing adverse selection in dental"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "40",
+        "id": "H40-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.1.01",
+    "title": "Nature, financing and administration of Medicare",
+    "teaching": [
+      {
+        "lesson": "42",
+        "title": "What Medicare is"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "42",
+        "id": "H42-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.1.02",
+    "title": "Part A eligibility and enrollment",
+    "teaching": [
+      {
+        "lesson": "42",
+        "title": "What Medicare is"
+      },
+      {
+        "lesson": "42",
+        "title": "Enrollment periods"
+      },
+      {
+        "lesson": "42",
+        "title": "Dennis at 65"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "42",
+        "id": "H42-01"
+      },
+      {
+        "lesson": "42",
+        "id": "H42-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.1.03",
+    "title": "Part A coverages and cost sharing",
+    "teaching": [
+      {
+        "lesson": "42",
+        "title": "Part A: hospital insurance"
+      },
+      {
+        "lesson": "42",
+        "title": "Dennis at 65"
+      },
+      {
+        "lesson": "42",
+        "title": "Dollar amounts are indexed"
+      },
+      {
+        "lesson": "42",
+        "title": "The three-day rule for skilled nursing"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "42",
+        "id": "H42-05"
+      },
+      {
+        "lesson": "42",
+        "id": "H42-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.1.04",
+    "title": "Part B eligibility and enrollment",
+    "teaching": [
+      {
+        "lesson": "42",
+        "title": "What Medicare is"
+      },
+      {
+        "lesson": "42",
+        "title": "Enrollment periods"
+      },
+      {
+        "lesson": "42",
+        "title": "Dennis at 65"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "42",
+        "id": "H42-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.1.05",
+    "title": "Part B coverages, cost sharing and exclusions",
+    "teaching": [
+      {
+        "lesson": "42",
+        "title": "Part B: medical insurance"
+      },
+      {
+        "lesson": "42",
+        "title": "Dennis at 65"
+      },
+      {
+        "lesson": "42",
+        "title": "Dollar amounts are indexed"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "42",
+        "id": "H42-06"
+      },
+      {
+        "lesson": "42",
+        "id": "H42-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.1.06",
+    "title": "Claims terminology: assignment, approved amount, excess charges",
+    "teaching": [
+      {
+        "lesson": "42",
+        "title": "Claims terminology"
+      },
+      {
+        "lesson": "42",
+        "title": "Dennis at 65"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "42",
+        "id": "H42-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.1.07",
+    "title": "Part C Medicare Advantage",
+    "teaching": [
+      {
+        "lesson": "43",
+        "title": "Part C: Medicare through a private plan"
+      },
+      {
+        "lesson": "43",
+        "title": "Advantage plan types and protections"
+      },
+      {
+        "lesson": "43",
+        "title": "Advantage enrollment windows"
+      },
+      {
+        "lesson": "43",
+        "title": "Two roads at 65"
+      },
+      {
+        "lesson": "43",
+        "title": "Hospice stays with Original Medicare"
+      },
+      {
+        "lesson": "43",
+        "title": "Trial right to return to a supplement"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "43",
+        "id": "H43-01"
+      },
+      {
+        "lesson": "43",
+        "id": "H43-02"
+      },
+      {
+        "lesson": "43",
+        "id": "H43-03"
+      },
+      {
+        "lesson": "43",
+        "id": "H43-04"
+      },
+      {
+        "lesson": "43",
+        "id": "H43-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.1.08",
+    "title": "Part D prescription drug coverage",
+    "teaching": [
+      {
+        "lesson": "43",
+        "title": "Part D: prescription drug coverage"
+      },
+      {
+        "lesson": "43",
+        "title": "Part D penalties and help"
+      },
+      {
+        "lesson": "43",
+        "title": "Two roads at 65"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "43",
+        "id": "H43-04"
+      },
+      {
+        "lesson": "43",
+        "id": "H43-05"
+      },
+      {
+        "lesson": "43",
+        "id": "H43-06"
+      },
+      {
+        "lesson": "43",
+        "id": "H43-07"
+      },
+      {
+        "lesson": "43",
+        "id": "H43-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.2.01",
+    "title": "Purpose of Medicare supplement insurance",
+    "teaching": [
+      {
+        "lesson": "44",
+        "title": "Filling the gaps"
+      },
+      {
+        "lesson": "44",
+        "title": "Choosing a plan for Dennis"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "44",
+        "id": "H44-01"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.2.02",
+    "title": "Open enrollment",
+    "teaching": [
+      {
+        "lesson": "44",
+        "title": "Open enrollment"
+      },
+      {
+        "lesson": "44",
+        "title": "Choosing a plan for Dennis"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "44",
+        "id": "H44-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.2.03",
+    "title": "Attained-age, issue-age and community rating",
+    "teaching": [
+      {
+        "lesson": "44",
+        "title": "Three ways to price"
+      },
+      {
+        "lesson": "44",
+        "title": "Choosing a plan for Dennis"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "44",
+        "id": "H44-03"
+      },
+      {
+        "lesson": "44",
+        "id": "H44-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.2.04",
+    "title": "Standardized plans: core benefits",
+    "teaching": [
+      {
+        "lesson": "44",
+        "title": "Standardized plans and core benefits"
+      },
+      {
+        "lesson": "44",
+        "title": "Waiver states"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "44",
+        "id": "H44-05"
+      },
+      {
+        "lesson": "44",
+        "id": "H44-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.2.05",
+    "title": "Standardized plans: additional benefits",
+    "teaching": [
+      {
+        "lesson": "44",
+        "title": "Additional benefits and high-deductible plans"
+      },
+      {
+        "lesson": "44",
+        "title": "Choosing a plan for Dennis"
+      },
+      {
+        "lesson": "44",
+        "title": "Why Plans C and F were closed"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "44",
+        "id": "H44-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.2.06",
+    "title": "High-deductible plans",
+    "teaching": [
+      {
+        "lesson": "44",
+        "title": "Additional benefits and high-deductible plans"
+      },
+      {
+        "lesson": "44",
+        "title": "Choosing a plan for Dennis"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "44",
+        "id": "H44-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.3.01",
+    "title": "Employer group plans and Medicare: disabled employees",
+    "teaching": [
+      {
+        "lesson": "46",
+        "title": "Disabled employees and kidney failure"
+      },
+      {
+        "lesson": "46",
+        "title": "Three programs, one family"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "46",
+        "id": "H46-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.3.02",
+    "title": "Employer group plans and Medicare: kidney failure",
+    "teaching": [
+      {
+        "lesson": "46",
+        "title": "Disabled employees and kidney failure"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "46",
+        "id": "H46-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.3.03",
+    "title": "Employer group plans and Medicare: age 65 and older",
+    "teaching": [
+      {
+        "lesson": "46",
+        "title": "Working past 65"
+      },
+      {
+        "lesson": "46",
+        "title": "Three programs, one family"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "46",
+        "id": "H46-01"
+      },
+      {
+        "lesson": "46",
+        "id": "H46-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.3.04",
+    "title": "Medicaid eligibility",
+    "teaching": [
+      {
+        "lesson": "46",
+        "title": "What Medicaid is"
+      },
+      {
+        "lesson": "46",
+        "title": "Medicare Savings Programs"
+      },
+      {
+        "lesson": "46",
+        "title": "Spend-down and the look-back"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "46",
+        "id": "H46-05"
+      },
+      {
+        "lesson": "46",
+        "id": "H46-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.3.05",
+    "title": "Medicaid benefits",
+    "teaching": [
+      {
+        "lesson": "46",
+        "title": "What Medicaid pays"
+      },
+      {
+        "lesson": "46",
+        "title": "Medicare Savings Programs"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "46",
+        "id": "H46-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.4.01",
+    "title": "LTC compared with Medicare and Medicaid",
+    "teaching": [
+      {
+        "lesson": "47",
+        "title": "The gap this policy fills"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.4.02",
+    "title": "Eligibility for benefits (ADLs and cognitive impairment)",
+    "teaching": [
+      {
+        "lesson": "47",
+        "title": "Benefit triggers"
+      },
+      {
+        "lesson": "47",
+        "title": "Alzheimer’s and mental conditions"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "47",
+        "id": "H47-01"
+      },
+      {
+        "lesson": "47",
+        "id": "H47-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.4.03",
+    "title": "Levels of care: skilled, intermediate, custodial",
+    "teaching": [
+      {
+        "lesson": "47",
+        "title": "Levels and settings of care"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "47",
+        "id": "H47-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.4.04",
+    "title": "Home health, adult day and respite care",
+    "teaching": [
+      {
+        "lesson": "47",
+        "title": "Levels and settings of care"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "47",
+        "id": "H47-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.4.05",
+    "title": "Benefit periods and benefit amounts",
+    "teaching": [
+      {
+        "lesson": "47",
+        "title": "How much, for how long"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "47",
+        "id": "H47-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.4.06",
+    "title": "Inflation protection, nonforfeiture, guarantee of insurability and return of premium",
+    "teaching": [
+      {
+        "lesson": "47",
+        "title": "Optional benefits"
+      },
+      {
+        "lesson": "47",
+        "title": "Tax-qualified and Partnership policies"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "47",
+        "id": "H47-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.4.07",
+    "title": "Qualified and nonqualified policies",
+    "teaching": [
+      {
+        "lesson": "47",
+        "title": "Tax-qualified and Partnership policies"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "47",
+        "id": "H47-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.4.08",
+    "title": "Exclusions and underwriting considerations",
+    "teaching": [
+      {
+        "lesson": "47",
+        "title": "Optional benefits"
+      },
+      {
+        "lesson": "47",
+        "title": "Alzheimer’s and mental conditions"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.4.09",
+    "title": "Partnership policies",
+    "teaching": [
+      {
+        "lesson": "47",
+        "title": "Tax-qualified and Partnership policies"
+      },
+      {
+        "lesson": "47",
+        "title": "How the Partnership asset disregard works"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "47",
+        "id": "H47-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.5.01",
+    "title": "LTC and Medicare",
+    "teaching": [
+      {
+        "lesson": "46",
+        "title": "Long-term care: who pays"
+      },
+      {
+        "lesson": "46",
+        "title": "Three programs, one family"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "46",
+        "id": "H46-07"
+      },
+      {
+        "lesson": "46",
+        "id": "H46-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.5.02",
+    "title": "LTC and Medicaid",
+    "teaching": [
+      {
+        "lesson": "46",
+        "title": "Long-term care: who pays"
+      },
+      {
+        "lesson": "46",
+        "title": "Three programs, one family"
+      },
+      {
+        "lesson": "46",
+        "title": "Spend-down and the look-back"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "46",
+        "id": "H46-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "9.5.03",
+    "title": "LTC and medical insurance",
+    "teaching": [
+      {
+        "lesson": "46",
+        "title": "Long-term care: who pays"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "10.1.01",
+    "title": "Disability income: premiums and benefits",
+    "teaching": [
+      {
+        "lesson": "57",
+        "title": "The master rule"
+      },
+      {
+        "lesson": "57",
+        "title": "Individual disability income"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "57",
+        "id": "H57-01"
+      },
+      {
+        "lesson": "57",
+        "id": "H57-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "10.1.02",
+    "title": "Medical expense: premiums and benefits",
+    "teaching": [
+      {
+        "lesson": "57",
+        "title": "The master rule"
+      },
+      {
+        "lesson": "57",
+        "title": "Individual medical expense"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "57",
+        "id": "H57-03"
+      },
+      {
+        "lesson": "57",
+        "id": "H57-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "10.1.03",
+    "title": "Long-term care: premiums and benefits",
+    "teaching": [
+      {
+        "lesson": "57",
+        "title": "Individual long-term care"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "57",
+        "id": "H57-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "10.2.01",
+    "title": "Group disability income: STD and LTD",
+    "teaching": [
+      {
+        "lesson": "58",
+        "title": "Group disability income"
+      },
+      {
+        "lesson": "58",
+        "title": "One rule, every case"
+      },
+      {
+        "lesson": "58",
+        "title": "Proportional taxation of shared disability premiums"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "58",
+        "id": "H58-01"
+      },
+      {
+        "lesson": "58",
+        "id": "H58-02"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "10.2.02",
+    "title": "Group medical and dental expense",
+    "teaching": [
+      {
+        "lesson": "58",
+        "title": "Group medical, dental and long-term care"
+      },
+      {
+        "lesson": "58",
+        "title": "One rule, every case"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "58",
+        "id": "H58-03"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "10.2.03",
+    "title": "Group long-term care",
+    "teaching": [
+      {
+        "lesson": "58",
+        "title": "Group medical, dental and long-term care"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "58",
+        "id": "H58-04"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "10.2.04",
+    "title": "Group accidental death and dismemberment",
+    "teaching": [
+      {
+        "lesson": "58",
+        "title": "Group AD&D"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "58",
+        "id": "H58-05"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "10.3.01",
+    "title": "Medical expense coverage for sole proprietors and partners",
+    "teaching": [
+      {
+        "lesson": "58",
+        "title": "Sole proprietors and partners"
+      },
+      {
+        "lesson": "58",
+        "title": "One rule, every case"
+      },
+      {
+        "lesson": "58",
+        "title": "The 2 percent shareholder rule"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "58",
+        "id": "H58-06"
+      },
+      {
+        "lesson": "58",
+        "id": "H58-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "10.4.01",
+    "title": "Key person disability income taxation",
+    "teaching": [
+      {
+        "lesson": "58",
+        "title": "Business disability policies"
+      },
+      {
+        "lesson": "58",
+        "title": "One rule, every case"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "58",
+        "id": "H58-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "10.4.02",
+    "title": "Business overhead expense taxation",
+    "teaching": [
+      {
+        "lesson": "58",
+        "title": "Business disability policies"
+      },
+      {
+        "lesson": "58",
+        "title": "One rule, every case"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "58",
+        "id": "H58-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "10.4.03",
+    "title": "Business disability buyout taxation",
+    "teaching": [
+      {
+        "lesson": "58",
+        "title": "Business disability policies"
+      },
+      {
+        "lesson": "58",
+        "title": "One rule, every case"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "10.5.01",
+    "title": "Health savings accounts",
+    "teaching": [
+      {
+        "lesson": "57",
+        "title": "HSAs and HRAs"
+      },
+      {
+        "lesson": "57",
+        "title": "FSAs and high-deductible plans"
+      },
+      {
+        "lesson": "57",
+        "title": "Indexed numbers"
+      },
+      {
+        "lesson": "57",
+        "title": "Why FSAs and HSAs rarely mix"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "57",
+        "id": "H57-06"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "10.5.02",
+    "title": "Health reimbursement arrangements",
+    "teaching": [
+      {
+        "lesson": "57",
+        "title": "HSAs and HRAs"
+      },
+      {
+        "lesson": "57",
+        "title": "FSAs and high-deductible plans"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "57",
+        "id": "H57-07"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "10.5.03",
+    "title": "Flexible spending accounts",
+    "teaching": [
+      {
+        "lesson": "57",
+        "title": "FSAs and high-deductible plans"
+      },
+      {
+        "lesson": "57",
+        "title": "Indexed numbers"
+      },
+      {
+        "lesson": "57",
+        "title": "Why FSAs and HSAs rarely mix"
+      }
+    ],
+    "questions": [
+      {
+        "lesson": "57",
+        "id": "H57-08"
+      }
+    ],
+    "coordinatorApproval": null
+  },
+  {
+    "id": "10.5.04",
+    "title": "High-deductible health plans",
+    "teaching": [
+      {
+        "lesson": "57",
+        "title": "FSAs and high-deductible plans"
+      }
+    ],
+    "questions": [],
+    "coordinatorApproval": null
+  }
+]

@@ -1,0 +1,411 @@
+{
+  "created": "2026-11-10",
+  "status": "reviewed",
+  "lessons": [
+    3,
+    4
+  ],
+  "params": [
+    {
+      "index": 300,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Priya owns a bakery with twenty workers and is collecting quotes. The first carrier is a stock insurer, owned by shareholders who expect a profit; its policies are usually nonparticipating. The second is a mutual insurer, owned by its policyholders, who may receive dividends when results are good; those policies are participating. A fraternal benefit society sells only to its members through a lodge system and operates on a nonprofit basis. A large employer might instead self-insure, paying its own claims from company funds and hiring an administrator to process them, often with stop-loss protection behind it."
+      }
+    },
+    {
+      "index": 301,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Private insurers sell voluntary coverage for a premium. Government programs fill gaps the private market leaves. Medicare covers people sixty-five and older and certain disabled people. Medicaid serves people with limited income. Social Security pays disability income after a strict test. Workers compensation covers job injuries under state law, and in Maryland employers buy that coverage from private insurers or the Chesapeake Employers’ Insurance Company. TriCare serves military families. When a question mixes programs and policies, decide first whether the payer is a private company accepting premium or a government program funded by taxes and mandates."
+      }
+    },
+    {
+      "index": 302,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "An admitted, or authorized, insurer holds a certificate of authority from the Maryland Insurance Administration and may sell in the state. A nonadmitted insurer does not, and its policies lack the protection of Maryland’s guaranty corporation. Separately, every insurer has a home. A domestic insurer is incorporated in Maryland. A foreign insurer is incorporated in another state, such as Delaware. An alien insurer is incorporated in another country. Foreign does not mean overseas on the exam. A Pennsylvania company selling in Baltimore is foreign and, if it holds a certificate, admitted."
+      }
+    },
+    {
+      "index": 303,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Before Priya trusts a carrier with her staff’s claims, Theo checks its financial strength. Independent rating services such as A.M. Best, Standard and Poor’s, Moody’s and Fitch grade insurers on their ability to pay claims. Operating results, including loss ratios and surplus, show whether the company is pricing soundly. Ratings are opinions, not guarantees, and a producer must never misrepresent them. Maryland regulators also monitor solvency through required financial statements and examinations. A strong rating lowers the chance that the guaranty corporation ever has to step in."
+      }
+    },
+    {
+      "index": 304,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Insurers distribute coverage in several ways. A career or captive agency system uses producers who represent one insurer. An independent agency system uses producers who place business with several insurers and own their expirations. Brokers represent the buyer in placing coverage, although in Maryland both agents and brokers hold the same producer license. Direct response sells by mail, phone or internet with no producer. Managing general agents administer business for insurers in a territory. Banks and employers also serve as channels. The system affects who the producer represents and how commissions flow."
+      }
+    },
+    {
+      "index": 305,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Maryland law recognizes three kinds of organizations that deliver health benefits. An insurer, defined broadly in the Insurance Article, is a person engaged as a principal in the business of insurance. A nonprofit health service plan is organized under Title fourteen to provide health services on a prepaid or indemnity basis to subscribers, not for profit. A health maintenance organization combines financing and delivery of care, is authorized under the Health-General Article and must hold a certificate of authority from the Insurance Commissioner, with the Maryland Department of Health overseeing quality. All three must obey Maryland’s mandated benefits and consumer protections."
+      }
+    },
+    {
+      "index": 400,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Theo has just joined A M G and holds a Maryland producer license. Under agency law, the insurer is the principal and the producer is its agent. The producer acts on the insurer’s behalf, and the insurer is responsible for acts within the producer’s authority. A captive producer represents a single insurer. An independent producer represents several. Maryland uses one license, insurance producer, for people who historically were called agents or brokers. Whatever the label, when a producer sells an insurer’s policy, the insurer is the party whose authority is being exercised."
+      }
+    },
+    {
+      "index": 401,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The agency contract between Theo’s agency and the insurer spells out what he may do: solicit applications, quote approved rates, collect initial premiums and deliver policies. That written grant is express authority. It may also list what he may not do, such as alter a policy or accept a risk the underwriters have not approved. A producer who acts within express authority binds the insurer. A producer who exceeds it may still bind the insurer in some cases, which is why the next two kinds of authority exist."
+      }
+    },
+    {
+      "index": 402,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The contract cannot list every act. Implied authority covers what the public reasonably assumes a producer may do to carry out the express duties. If Theo may collect initial premiums, he impliedly may give a receipt and explain how coverage begins. If he may deliver a policy, he may answer ordinary questions about it. Implied authority comes from the position itself. It is still real authority, so the insurer is bound by it. On a question, if an act is a normal, necessary step toward an express task, call it implied."
+      }
+    },
+    {
+      "index": 403,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Apparent authority arises from what the insurer lets the public see. Suppose the insurer gives Theo business cards, application forms and a desk in an office with its logo, then quietly revokes his authority but tells no one. Rosa, an applicant, reasonably believes he still represents the company. Because the insurer created that appearance, it may be bound by what Theo does. Apparent authority protects innocent third parties; it never protects a producer who knows he has no authority. The key word is reasonable. The appearance must come from the insurer’s conduct, not the producer’s claims alone."
+      }
+    },
+    {
+      "index": 404,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Because the producer is the insurer’s agent, what the producer knows the insurer is treated as knowing. If Rosa tells Theo about a back injury and he leaves it off the application, the insurer may not later claim it was never informed. The producer also owes duties to applicants and insureds. He must handle premiums as a fiduciary, describe coverage accurately, disclose what the policy does not do, submit applications promptly and deliver the policy. These duties come from license law and from the general law of agency, and breaking them can cost the license."
+      }
+    },
+    {
+      "index": 405,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Here is the method. Find the act. Ask whether a written contract allows it; that is express authority. Ask whether it is a normal step toward an allowed act; that is implied. Ask whether the insurer’s own conduct led a reasonable applicant to believe the act was authorized; that is apparent. Then ask who is harmed if the act is disowned. Agency law generally protects the applicant who relied in good faith and leaves the insurer to recover from a producer who overstepped. Keep the producer’s separate duties to the client in view as well."
+      }
+    }
+  ],
+  "projected": [
+    {
+      "index": 300,
+      "characters": 617,
+      "credits": 4.2
+    },
+    {
+      "index": 301,
+      "characters": 664,
+      "credits": 4.5
+    },
+    {
+      "index": 302,
+      "characters": 593,
+      "credits": 4
+    },
+    {
+      "index": 303,
+      "characters": 588,
+      "credits": 4
+    },
+    {
+      "index": 304,
+      "characters": 616,
+      "credits": 4.2
+    },
+    {
+      "index": 305,
+      "characters": 688,
+      "credits": 4.6
+    },
+    {
+      "index": 400,
+      "characters": 581,
+      "credits": 3.9
+    },
+    {
+      "index": 401,
+      "characters": 513,
+      "credits": 3.5
+    },
+    {
+      "index": 402,
+      "characters": 523,
+      "credits": 3.5
+    },
+    {
+      "index": 403,
+      "characters": 604,
+      "credits": 4.1
+    },
+    {
+      "index": 404,
+      "characters": 565,
+      "credits": 3.8
+    },
+    {
+      "index": 405,
+      "characters": 542,
+      "credits": 3.7
+    }
+  ],
+  "estimates": [
+    {
+      "index": 300,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 301,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 302,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 303,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 304,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 305,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "index": 400,
+      "cost": {
+        "credits": 3.9,
+        "credits_exact": 3.9
+      }
+    },
+    {
+      "index": 401,
+      "cost": {
+        "credits": 3.5,
+        "credits_exact": 3.5
+      }
+    },
+    {
+      "index": 402,
+      "cost": {
+        "credits": 3.5,
+        "credits_exact": 3.5
+      }
+    },
+    {
+      "index": 403,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 404,
+      "cost": {
+        "credits": 3.8,
+        "credits_exact": 3.8
+      }
+    },
+    {
+      "index": 405,
+      "cost": {
+        "credits": 3.7,
+        "credits_exact": 3.7
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 300,
+      "job_id": "f0c07a63-a4cc-4c65-b9dd-fa7539534a19",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124124_f0c07a63-a4cc-4c65-b9dd-fa7539534a19.mp3"
+    },
+    {
+      "index": 301,
+      "job_id": "e2c6c6fd-5f07-4944-a46d-46d774ff01ed",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124125_e2c6c6fd-5f07-4944-a46d-46d774ff01ed.mp3"
+    },
+    {
+      "index": 302,
+      "job_id": "88a4cf87-f621-4a96-b124-6f06e071bedf",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124124_88a4cf87-f621-4a96-b124-6f06e071bedf.mp3"
+    },
+    {
+      "index": 303,
+      "job_id": "7837e638-e1a5-4639-bab2-3d454956d6a7",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124125_7837e638-e1a5-4639-bab2-3d454956d6a7.mp3"
+    },
+    {
+      "index": 304,
+      "job_id": "cef572b6-3555-4821-9a8a-0c1f1a5a51d1",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124124_cef572b6-3555-4821-9a8a-0c1f1a5a51d1.mp3"
+    },
+    {
+      "index": 305,
+      "job_id": "613dbdd3-95ef-4f43-9fae-4557b861c0f8",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124124_613dbdd3-95ef-4f43-9fae-4557b861c0f8.mp3"
+    },
+    {
+      "index": 400,
+      "job_id": "4afeb9e7-7006-474e-a8eb-463402b035be",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124243_4afeb9e7-7006-474e-a8eb-463402b035be.mp3"
+    },
+    {
+      "index": 401,
+      "job_id": "4ddc1ba3-54bb-474f-b1a2-9cc63c672089",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124243_4ddc1ba3-54bb-474f-b1a2-9cc63c672089.mp3"
+    },
+    {
+      "index": 402,
+      "job_id": "38a5d4d5-563f-4cb2-891a-f0764e71c370",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124243_38a5d4d5-563f-4cb2-891a-f0764e71c370.mp3"
+    },
+    {
+      "index": 403,
+      "job_id": "7e63691b-d71f-4ecd-b63d-7fa242727a03",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124244_7e63691b-d71f-4ecd-b63d-7fa242727a03.mp3"
+    },
+    {
+      "index": 404,
+      "job_id": "a44ed02c-794e-476b-af27-a25f416bccd1",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124243_a44ed02c-794e-476b-af27-a25f416bccd1.mp3"
+    },
+    {
+      "index": 405,
+      "job_id": "2f43fe81-e15e-4e7e-a870-a730b2f598d1",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124243_2f43fe81-e15e-4e7e-a870-a730b2f598d1.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 48,
+    "basis": "Provider quotes for confirmed, completed outputs."
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "e2c6c6fd-5f07-4944-a46d-46d774ff01ed",
+      "88a4cf87-f621-4a96-b124-6f06e071bedf",
+      "7837e638-e1a5-4639-bab2-3d454956d6a7",
+      "cef572b6-3555-4821-9a8a-0c1f1a5a51d1",
+      "613dbdd3-95ef-4f43-9fae-4557b861c0f8",
+      "4afeb9e7-7006-474e-a8eb-463402b035be",
+      "4ddc1ba3-54bb-474f-b1a2-9cc63c672089",
+      "38a5d4d5-563f-4cb2-891a-f0764e71c370",
+      "7e63691b-d71f-4ecd-b63d-7fa242727a03",
+      "a44ed02c-794e-476b-af27-a25f416bccd1",
+      "2f43fe81-e15e-4e7e-a870-a730b2f598d1"
+    ],
+    "replacement_indices": [
+      300
+    ]
+  }
+}

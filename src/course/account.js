@@ -1,6 +1,6 @@
 // The server verifies the shared-code learner session. Local records are only its cache.
 const SESSION_KEY = 'amg-account-session-change';
-const logicalKey = key => /^amg-life-lesson-(0[1-9]|[1-5]\d|60)-v[1-9]\d*$/.test(key) || key === 'amg-life-assessments-v1';
+const logicalKey = key => /^amg-(life|health)-lesson-(0[1-9]|[1-5]\d|60)-v[1-9]\d*$/.test(key) || key === 'amg-life-assessments-v1' || key === 'amg-health-assessments-v1';
 const clone = value => JSON.parse(JSON.stringify(value));
 const stable = value => JSON.stringify(value, (_, item) => item && typeof item === 'object' && !Array.isArray(item) ? Object.fromEntries(Object.keys(item).sort().map(key => [key,item[key]])) : item);
 const same = (a,b) => stable(a) === stable(b);

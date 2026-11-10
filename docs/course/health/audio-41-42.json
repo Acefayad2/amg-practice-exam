@@ -1,0 +1,411 @@
+{
+  "created": "2026-11-10",
+  "status": "reviewed",
+  "lessons": [
+    41,
+    42
+  ],
+  "params": [
+    {
+      "index": 4100,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The Maryland Health Benefit Exchange is the public corporation created in twenty eleven that operates Maryland Health Connection. It has two divisions. The Individual Exchange sells qualified health plans to individuals and families and is the only place to receive premium tax credits and cost-sharing reductions; it also screens applicants for Medicaid and the Maryland Children’s Health Program through a single application. The S H O P Exchange, Maryland Health Connection for Small Business, serves small employers with up to fifty employees. Carriers may sell the same plans off the Exchange, but subsidies flow only through it. Rosa shops the Individual Exchange; Priya may use S H O P."
+      }
+    },
+    {
+      "index": 4101,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Individual coverage can be bought only during open enrollment or a special enrollment period, a rule that fights adverse selection now that coverage is guaranteed issue. Maryland sets a longer window than the federal marketplace: open enrollment runs from November first through January fifteenth each year, with coverage starting January first for enrollments by December thirty-first and February first for later ones. Medicaid and the children’s program enroll year-round. Maryland also runs Easy Enrollment: a checkbox on the state tax return lets the Comptroller share information with the Exchange, which then opens a special enrollment window for uninsured filers."
+      }
+    },
+    {
+      "index": 4102,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Outside open enrollment, a qualifying life event opens a special enrollment period, generally sixty days: losing other coverage, including a job-based plan, Cobra or Maryland continuation running out, or turning twenty-six; marriage, birth, adoption or placement; a permanent move into Maryland or to a new rating area; release from incarceration; gaining citizenship or lawful presence; or certain changes in income that affect subsidy eligibility. Theo’s client who leaves a job in May has sixty days to enroll with coverage starting the first of the following month. Someone who misses both windows waits for November."
+      }
+    },
+    {
+      "index": 4103,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "In S H O P, Priya decides how much choice her employees get. She may offer a single plan. She may pick a metal level and let employees choose any plan at that level from any participating carrier, the employee choice option, setting a reference plan to define her contribution. Or she may offer all plans from one carrier. Whatever she chooses, she sets a contribution percentage, employees enroll online, and S H O P sends her one monthly bill. S H O P also lets her offer stand-alone dental. Employers with fewer than twenty-five full-time equivalents and average wages under the federal threshold may claim the small business health care tax credit for two years."
+      }
+    },
+    {
+      "index": 4104,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The Exchange must screen every applicant for every program. An applicant who turns out to be eligible for Medicaid or the children’s program is referred and enrolled there; a Medicaid applicant whose income is too high is referred to the Exchange for a qualified health plan with subsidies. Carriers, the Exchange and the Department of Health must coordinate so families with mixed eligibility, parents on a marketplace plan and children on the children’s program, are handled in one process. A producer who learns that a client qualifies for Medicaid must say so, even though Medicaid pays no commission."
+      }
+    },
+    {
+      "index": 4105,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Three kinds of people assist Exchange applicants. Authorized insurance producers hold a Maryland license, complete Exchange training and may earn carrier commissions. Navigators and certified application counselors work for grant-funded organizations, complete certification and may not accept commissions or steer applicants to particular carriers. Carriers’ own representatives may enroll people in their plans. All of them must give accurate information about every option, protect applicant data and never charge the consumer a fee for enrollment help. Theo, as an authorized producer, can enroll Rosa in a subsidized plan and Priya’s bakery in S H O P."
+      }
+    },
+    {
+      "index": 4200,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Dennis turns sixty-five in March. Medicare is the federal health program for people sixty-five and older, people under sixty-five who have received Social Security disability benefits for twenty-four months, and people with end-stage renal disease or A L S. It is administered by the Centers for Medicare and Medicaid Services. Part A, hospital insurance, is financed by the payroll tax and is premium-free for people with forty quarters of covered work. Part B, medical insurance, is financed by premiums and general revenue. Parts A and B together are Original Medicare. Part C is Medicare Advantage and Part D is drug coverage, covered in Lesson forty-three."
+      }
+    },
+    {
+      "index": 4201,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Dennis’s initial enrollment period is seven months: the three months before his birthday month, the month itself and the three months after. If he already receives Social Security he is enrolled automatically; otherwise he applies. If he misses it, the general enrollment period runs January first to March thirty-first each year, with coverage starting the month after he signs up. If he keeps working with employer coverage from an employer of twenty or more, he may delay Part B without penalty and use an eight-month special enrollment period after the employment or coverage ends. Late Part B enrollment carries a permanent penalty of ten percent for each full year of delay."
+      }
+    },
+    {
+      "index": 4202,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Part A covers inpatient hospital care, skilled nursing facility care after a qualifying three-day inpatient stay, home health care, hospice and blood after the first three pints. Costs are organized by benefit period, which begins at admission and ends when the patient has been out of the hospital or skilled facility for sixty consecutive days. Each benefit period carries a deductible, one thousand seven hundred thirty-six dollars in twenty twenty-six. Days one through sixty are then covered in full; days sixty-one through ninety require a daily coinsurance; and sixty lifetime reserve days with a higher coinsurance can be used once. Skilled nursing care is covered in full for days one through twenty, with coinsurance for days twenty-one through one hundred and nothing after day one hundred."
+      }
+    },
+    {
+      "index": 4203,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Part B covers physician services, outpatient hospital care, durable medical equipment, laboratory tests, ambulance, many preventive services without cost sharing, and a limited set of drugs administered in a medical setting. Everyone pays a monthly premium, two hundred two point nine zero dollars in twenty twenty-six for most people, more at higher incomes. After an annual deductible, two hundred eighty-three dollars in twenty twenty-six, Medicare pays eighty percent of the approved amount and the beneficiary pays twenty percent with no out-of-pocket maximum. Part B does not cover routine dental, vision or hearing aids, custodial care, cosmetic surgery or most care outside the United States. These gaps are why Medicare supplement and Advantage plans exist."
+      }
+    },
+    {
+      "index": 4204,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "When Dennis sees a doctor, the approved amount is what Medicare allows for the service. A provider who accepts assignment agrees to take the approved amount as full payment, bills Medicare directly and collects only the deductible and twenty percent from Dennis. A participating provider accepts assignment for all patients. A nonparticipating provider may refuse assignment and charge up to fifteen percent above the approved amount, the limiting charge, which Dennis pays as an excess charge. Providers who opt out of Medicare entirely bill privately under contract. Dennis receives a Medicare Summary Notice showing what was billed, approved and paid, and an advance beneficiary notice warns him before a service Medicare may not cover."
+      }
+    },
+    {
+      "index": 4205,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Dennis’s plan: enroll in Part A during his seven-month window because it is free. Since his employer has sixty employees and his group plan is primary, he may delay Part B without penalty and enroll during the eight-month special enrollment period when he retires. When he does, his six-month Medicare supplement open enrollment begins. A hospital stay under Original Medicare costs him the Part A deductible; a surgeon’s bill costs him twenty percent of the approved amount plus any excess charge if the surgeon does not accept assignment. Those gaps, and the absence of any out-of-pocket maximum, drive the next three lessons."
+      }
+    }
+  ],
+  "projected": [
+    {
+      "index": 4100,
+      "characters": 693,
+      "credits": 4.7
+    },
+    {
+      "index": 4101,
+      "characters": 671,
+      "credits": 4.5
+    },
+    {
+      "index": 4102,
+      "characters": 621,
+      "credits": 4.2
+    },
+    {
+      "index": 4103,
+      "characters": 666,
+      "credits": 4.5
+    },
+    {
+      "index": 4104,
+      "characters": 605,
+      "credits": 4.1
+    },
+    {
+      "index": 4105,
+      "characters": 657,
+      "credits": 4.4
+    },
+    {
+      "index": 4200,
+      "characters": 661,
+      "credits": 4.5
+    },
+    {
+      "index": 4201,
+      "characters": 680,
+      "credits": 4.6
+    },
+    {
+      "index": 4202,
+      "characters": 801,
+      "credits": 5.4
+    },
+    {
+      "index": 4203,
+      "characters": 766,
+      "credits": 5.2
+    },
+    {
+      "index": 4204,
+      "characters": 739,
+      "credits": 5
+    },
+    {
+      "index": 4205,
+      "characters": 628,
+      "credits": 4.2
+    }
+  ],
+  "estimates": [
+    {
+      "index": 4100,
+      "cost": {
+        "credits": 4.7,
+        "credits_exact": 4.7
+      }
+    },
+    {
+      "index": 4101,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 4102,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 4103,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 4104,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 4105,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 4200,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 4201,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "index": 4202,
+      "cost": {
+        "credits": 5.4,
+        "credits_exact": 5.4
+      }
+    },
+    {
+      "index": 4203,
+      "cost": {
+        "credits": 5.2,
+        "credits_exact": 5.2
+      }
+    },
+    {
+      "index": 4204,
+      "cost": {
+        "credits": 5,
+        "credits_exact": 5
+      }
+    },
+    {
+      "index": 4205,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 4100,
+      "job_id": "dbbc2aed-636f-42b7-9b32-b3738a927e24",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133446_dbbc2aed-636f-42b7-9b32-b3738a927e24.mp3"
+    },
+    {
+      "index": 4101,
+      "job_id": "d5dcba3e-15ac-471b-a598-ea2c94c6b8bb",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133446_d5dcba3e-15ac-471b-a598-ea2c94c6b8bb.mp3"
+    },
+    {
+      "index": 4102,
+      "job_id": "49c6df0c-7bf8-48f3-936f-f0f18dc78be6",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133447_49c6df0c-7bf8-48f3-936f-f0f18dc78be6.mp3"
+    },
+    {
+      "index": 4103,
+      "job_id": "13e95340-07e6-436c-8570-4eb21270727f",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133446_13e95340-07e6-436c-8570-4eb21270727f.mp3"
+    },
+    {
+      "index": 4104,
+      "job_id": "3ccee0e8-1e5e-4bee-8e91-b5c287a1b855",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133447_3ccee0e8-1e5e-4bee-8e91-b5c287a1b855.mp3"
+    },
+    {
+      "index": 4105,
+      "job_id": "25433144-0e3a-4c57-9e1f-53333805f770",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133447_25433144-0e3a-4c57-9e1f-53333805f770.mp3"
+    },
+    {
+      "index": 4200,
+      "job_id": "bb38decd-dd15-4d6a-a096-6c6f252fbedb",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133537_bb38decd-dd15-4d6a-a096-6c6f252fbedb.mp3"
+    },
+    {
+      "index": 4201,
+      "job_id": "ed703737-bd86-440e-a9aa-f2244f2349fa",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133537_ed703737-bd86-440e-a9aa-f2244f2349fa.mp3"
+    },
+    {
+      "index": 4202,
+      "job_id": "350318f8-30d8-44e8-af18-b282d31a8c95",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133538_350318f8-30d8-44e8-af18-b282d31a8c95.mp3"
+    },
+    {
+      "index": 4203,
+      "job_id": "43096d59-94a5-4ccc-8e70-b2b89e6a6940",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133538_43096d59-94a5-4ccc-8e70-b2b89e6a6940.mp3"
+    },
+    {
+      "index": 4204,
+      "job_id": "8f4f416c-6ec2-4366-bda0-3d43dcaffc26",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133538_8f4f416c-6ec2-4366-bda0-3d43dcaffc26.mp3"
+    },
+    {
+      "index": 4205,
+      "job_id": "bf14be49-0671-4909-8906-866ebedbf4cc",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133538_bf14be49-0671-4909-8906-866ebedbf4cc.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 55.3,
+    "basis": "Provider quotes for confirmed, completed outputs."
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "dbbc2aed-636f-42b7-9b32-b3738a927e24",
+      "d5dcba3e-15ac-471b-a598-ea2c94c6b8bb",
+      "13e95340-07e6-436c-8570-4eb21270727f",
+      "3ccee0e8-1e5e-4bee-8e91-b5c287a1b855",
+      "25433144-0e3a-4c57-9e1f-53333805f770",
+      "bb38decd-dd15-4d6a-a096-6c6f252fbedb",
+      "ed703737-bd86-440e-a9aa-f2244f2349fa",
+      "350318f8-30d8-44e8-af18-b282d31a8c95",
+      "43096d59-94a5-4ccc-8e70-b2b89e6a6940",
+      "8f4f416c-6ec2-4366-bda0-3d43dcaffc26",
+      "bf14be49-0671-4909-8906-866ebedbf4cc"
+    ],
+    "replacement_indices": [
+      4102
+    ]
+  }
+}

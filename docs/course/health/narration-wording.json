@@ -1,0 +1,104 @@
+{
+  "503": {
+    "first_pass_sha256": "1f54f97a2697a511534f40388929e8f2c7f92f1ef6e5b9b63311f64c78d579a7",
+    "current_sha256": "57e14d198980167c859130eebb7a986b59c5ebf1cef2730540d57a2beb8303e0",
+    "current_prompt": "Because the insurer drafted the contract, ambiguous language is interpreted the way a reasonable insured would understand it. The reasonable expectations doctrine goes a step further in some courts: coverage the buyer reasonably expected may be honored even if fine print says otherwise. Two more principles shape health insurance. Indemnity means the policy restores a loss but should not create profit, which is why medical expense plans reimburse actual charges. The last principle is good faith. Both sides owe each other the highest degree of honesty. The exam calls that duty “utmost good faith.” Rosa relies on the insurer to keep its promises, and the insurer relies on the answers she gives.",
+    "reason": "Define utmost good faith in everyday language and give the exam term in context."
+  },
+  "804": {
+    "first_pass_sha256": "aa55097521ef5317801ea2f7a07de5810551475986fadec34fcc78136b8b0bf4",
+    "current_sha256": "c3fe3a4b353c5a6c18db403ecc700bb5648d80e39eb93c322a2f2aa611048405",
+    "current_prompt": "Separate vision plans cover eye care, and drug plans cover the prescriptions they list. A critical illness policy pays a lump sum for a listed diagnosis after any required survival period. You can use that money for rent, travel or another expense. Some limited benefits qualify for an exception to federal coverage rules. Separate limited vision benefits can qualify. So can independent critical illness coverage that does not coordinate with another plan. The exam term is excepted benefits: E, as in exception. A drug policy does not qualify just because it covers only prescriptions.",
+    "reason": "Teach the conditional coverage exceptions in a shorter spoken explanation."
+  },
+  "900": {
+    "first_pass_sha256": "3ca8b15a0cae78c0ff0cd9af10ae4f997a7b9ad4a17ebbea8cc4ade88a53de2e",
+    "current_sha256": "bc7b5498581556093f93ee94b2fdfea1f1a2c71986430d5f1122356f9387239b",
+    "current_prompt": "A pre-existing condition is one for which the insured received medical advice, diagnosis or treatment, or had symptoms a prudent person would have treated, during a look-back period before coverage began, often six to twelve months. Older medical policies excluded such conditions for a waiting period. Federal law now forbids pre-existing condition exclusions in comprehensive medical coverage, so Marcus’s asthma is covered from day one. The exclusion still appears in disability income, long-term care, Medicare supplement, short-term policies and certain other limited policies. Each type has its own rules. Always check the type of coverage before applying the rule.",
+    "reason": "Clarify limited coverage and distinguish an exception from comprehensive insurance."
+  },
+  "1200": {
+    "first_pass_sha256": "fde035a8767c1c633b83abb6592a423cb2e992086fa5930f786a5a44b9ce918e",
+    "current_sha256": "9888322d2d30643a0aa3d64b939f33a91878ca23f8c8a40c90172468825a5a60",
+    "current_prompt": "Rosa’s disability income application reaches the home office. The underwriter must decide whether to accept her, at what price and with what conditions. The criteria are the applicant’s health history, age, occupation, income, hobbies, habits such as tobacco use and, for comprehensive medical coverage, the limits federal law now places on health-based decisions. Disability, long-term care and limited policies may still be fully underwritten. The underwriter is matching Rosa to a class of similar risks so the price reflects the expected claims for that class. Fair classification protects the pool; unfair discrimination is prohibited.",
+    "reason": "Clarify the sentence about the premium and expected claims."
+  },
+  "1903": {
+    "first_pass_sha256": "8f09ebcc13c1ee9dc7ffa1cdd93ff2c9058bd274142e5cdf911f8e45de58fceb",
+    "current_sha256": "261aae74ae4633aefde3c84b0232e5834da50c20652f565837a1ca3ef6828271",
+    "current_prompt": "Think of the out-of-pocket maximum as a ceiling on what you pay for covered care. After you reach it, the plan pays one hundred percent of covered in-network costs for the rest of the plan year. On a Marketplace plan, your deductible, coinsurance and copayments for covered in-network services count toward that limit. Your premiums and balance bills do not. Older plans also carried lifetime maximum benefits, such as one million dollars; those are now prohibited for essential health benefits. Limited policies that qualify for a federal exception may still cap benefits, which is another reason they are not substitutes for major medical.",
+    "reason": "Clarify in-network costs, the plan year and coverage exceptions."
+  },
+  "2000": {
+    "first_pass_sha256": "83fdd86733f197573e74210743d796dcb0c254d4722e817b0cfabb30f5651716",
+    "current_sha256": "9c3b934e5af3d4d0f8beedf0f8140cfd74230919063019da01d1f1060e0ac71a",
+    "current_prompt": "A fixed indemnity plan pays a stated dollar amount when a covered event occurs: two hundred dollars per hospital day, seventy-five dollars per physician visit, one thousand five hundred dollars per surgery. The payment is the same whether the bill is small or large, and it goes to the insured unless assigned. A fixed indemnity policy can qualify for an exception to some federal coverage rules if it meets the legal conditions. The important point for a buyer is simple: a fixed payment might cover only part of the bill. It does not replace comprehensive insurance. It can soften deductibles or lost wages for Elena’s coworker; it cannot replace her medical plan.",
+    "reason": "Clarify limited coverage and distinguish an exception from comprehensive insurance."
+  },
+  "2403": {
+    "first_pass_sha256": "4f287ff8a50e0614240a3930669f876a5253bcbdcd4ddfbbaa76044436966f92",
+    "current_sha256": "5463f947e5d55904790d0f6aff08b1d37961c335db5a6b9d3079f61de3098e33",
+    "current_prompt": "Before the Affordable Care Act, HIPAA let group plans limit coverage for certain pre-existing conditions. The look-back was six months. An exclusion could last up to twelve months, or eighteen for a late enrollee. Prior coverage could shorten that wait day for day if there was no break of sixty-three days or more. Plans issued certificates to document that creditable coverage. Pregnancy was protected. So were children enrolled within thirty days of birth, adoption or placement for adoption. The rule today is simpler: comprehensive group plans cannot exclude a condition just because you had it before you enrolled.",
+    "reason": "Separate the historic HIPAA waiting-period rule from current coverage and distinguish newborns from newly adopted children."
+  },
+  "3205": {
+    "first_pass_sha256": "1b72b7f2638edcf457c4092a050fdff17815074a1afbdd92375868f99e90d545",
+    "current_sha256": "41c8881c3eece59a78e3f547447f4b557afdfc5f9f7d72ce387f7142458c1ed0",
+    "current_prompt": "When a question describes a disability applicant, look for three things. The occupation tells you the class, the definition available and whether the risk is insurable at all. The income tells you the maximum benefit through the replacement ratio, after subtracting other coverage. The medical and lifestyle facts tell you whether to expect a standard issue, a rating, an exclusion rider or a modification. Disability income coverage is an exception to the usual rules for comprehensive medical plans. An insurer can still use full underwriting for disability coverage.",
+    "reason": "State plainly how disability underwriting differs from comprehensive medical coverage."
+  },
+  "3701": {
+    "first_pass_sha256": "2e542af2164df79038a98b565c83b4180efeb513484a5f12e1c65da7dee93f83",
+    "current_sha256": "09033a04a799cd4159f5b37f712a587f284900062f040c257250ebc7f689feaf",
+    "current_prompt": "If a group plan covers family members, an employee’s spouse and children may be eligible. Federal law generally lets children stay on a parent’s plan until age twenty-six. Maryland has a separate rule for unmarried child dependents under twenty-five, including grandchildren of the insured on plans covered by that rule. Newborns are covered from birth and adopted children from placement. When an extra premium applies, notice and payment are due within thirty-one days. Children who cannot support themselves because of a qualifying disability may stay covered past the age limit with proof. A medical child support order can require enrollment outside the usual enrollment period.",
+    "reason": "Distinguish covered grandchildren under Maryland law from the federal rule for a parent’s child."
+  },
+  "4000": {
+    "first_pass_sha256": "2e5d176be4f35aa243a2036b247f388dee23920c36716ebbf5edf335ece471b8",
+    "current_sha256": "0fc0bd5c123399f2e27d6664e3ce2621be69d580e8457cd1b1a4948b240016a7",
+    "current_prompt": "Elena, a dental hygienist, explains the categories to Theo. Diagnostic and preventive services are exams, x-rays, cleanings, fluoride and sealants. Restorative services repair teeth: fillings, crowns, inlays. Oral surgery covers extractions and other surgery of the mouth. Endodontics treats the tooth’s interior, chiefly root canals. Periodontics treats the gums and bone. If Theo loses a tooth, a specialist can replace it with a bridge, a denture or an implant. That specialty is called prosthodontics. Orthodontics straightens teeth with braces, often limited to children and carrying its own lifetime maximum. Plans group these categories into tiers that determine how much the plan pays.",
+    "reason": "Introduce a difficult dental specialty through a concrete example before naming it."
+  },
+  "4304": {
+    "first_pass_sha256": "cc79007d239764587853e5b24ebbe43bd72b0b46f18bd9b2da7d3154779fc492",
+    "current_sha256": "cdc1989552724781085d2a80c754e1e537cfccbe6253ee96a9750081efb225ce",
+    "current_prompt": "Dennis can avoid a Part D late penalty by enrolling when he is first eligible or keeping drug coverage that is at least as good as Part D. If he goes sixty-three days in a row without that coverage after his initial enrollment period, a penalty can apply. For each full uncovered month, it is one percent of the national base beneficiary premium. He generally pays it as long as he has Part D. People who qualify for Extra Help do not owe this penalty. The Medicare Prescription Payment Plan is separate: it lets members spread their drug costs across the year.",
+    "reason": "Include the 63-day gap, the national base beneficiary premium and the Extra Help exception to the Part D penalty."
+  },
+  "4503": {
+    "first_pass_sha256": "aee5d463e073b2db7f2e95e87f6a746835f935bd521c274cde479e3ffb70507b",
+    "current_sha256": "a1cc40ec3f41e0d696a20e4bc1dd2b38c88ed04edc048b0ae4449386cb71269e",
+    "current_prompt": "A Maryland supplement may exclude a pre-existing condition for no more than six months, and may define one no more strictly than a condition for which a physician gave advice or treatment in the six months before coverage. Time spent under qualifying prior health coverage can shorten that waiting period. When one supplement replaces another, the applicant gets credit for time already served for benefits the old policy covered. Compensation rules protect buyers from churning: a producer’s first-year commission may not exceed two hundred percent of the renewal commission, renewal commissions must continue for a set number of years, and a replacement sale earns only the renewal rate, so there is no bonus for moving Gloria from one supplement to another.",
+    "reason": "Explain how time under qualifying prior coverage reduces the waiting period, in language that remains clear when spoken."
+  },
+  "4604": {
+    "first_pass_sha256": "31a18efd26adbf791597337d10d578fdafbaad79c560c7002da9e8bfe8cd4843",
+    "current_sha256": "a49c33540519813b232023fe98949806760fb1551df8bba7de46d8bf34322d99",
+    "current_prompt": "Gloria wants to know who will pay if she needs to live in a nursing home. First, ask what kind of care she needs. In Original Medicare, Part A can cover up to one hundred days of skilled nursing care in a benefit period if she meets the requirements. That usually includes a hospital stay of at least three days as an inpatient. She shares the cost after day twenty. Help with bathing, dressing or eating alone is different. Medicare generally does not cover that ongoing help. Maryland Medicaid can help if she meets its financial and medical requirements. A private long-term care policy may also pay.",
+    "reason": "Distinguish Medicare skilled care from ongoing assistance and describe Medicaid eligibility without assuming every applicant first exhausts savings."
+  },
+  "4605": {
+    "first_pass_sha256": "bbba1762111f93f0dd0b51f06fd34b6ebc472114ebbae3cfe544241b5ae4810a",
+    "current_sha256": "1edc5ead4065140d83e55f9e0c87b43331709695c064298d6359f71da85164fd",
+    "current_prompt": "Dennis, sixty-six and working for a large employer, has his group plan primary and Medicare secondary; when he retires, Medicare becomes primary and a supplement fills the gaps. His brother, disabled at fifty-eight and covered through a spouse’s five hundred-employee company, has the group plan primary. Gloria, seventy-one and on Medicare, can use Part A for a qualifying hospital stay and up to one hundred days of skilled nursing care per benefit period. For a year of help with daily activities, she might use long-term care insurance, pay privately, or qualify for Medicaid. Lesson forty-seven builds that policy, and Lesson forty-eight adds Maryland’s rules for it.",
+    "reason": "Distinguish Medicare skilled care from ongoing assistance and describe Medicaid eligibility without assuming every applicant first exhausts savings."
+  },
+  "4700": {
+    "first_pass_sha256": "6abee9cb0a0e973996c101d5ac2a3857ff6c681534f5909d60f185dbbac77418",
+    "current_sha256": "55a2e1aa9a7c02980268ce65f5ae9e75e94a853fd977117e0d97265309ef1370",
+    "current_prompt": "Gloria is seventy-one and lives alone. If arthritis or dementia makes it hard to dress, bathe or eat without help, who pays for her care? Medicare may cover a limited stay for skilled care, but it generally does not pay for ongoing help with daily activities alone. Medicaid can help people who meet Maryland’s financial and medical eligibility rules. Long-term care insurance can pay for help at home, in assisted living or in a nursing facility. Qualifying policies are an exception to some federal health insurance rules. Insurers consider age and health when they price coverage.",
+    "reason": "Describe Medicaid eligibility and the difference between skilled care and help with daily activities."
+  },
+  "5201": {
+    "first_pass_sha256": "2db2a1ebdcace073a15fba0c42253a20ece92db7545b09737d7e48c916771ddb",
+    "current_sha256": "faae835d5dbca97fca0209519bdc78b287a981fb4eea316eeb0e8d8bd13eb5bc",
+    "current_prompt": "After notice and an opportunity for a hearing, the Commissioner may refuse to issue or renew a license, place the licensee on probation with conditions, suspend the license for a period, or revoke it. Each has a different effect: a suspended producer may return when the period ends; a revoked producer must reapply and may be refused. Instead of, or in addition to, suspension or revocation, the Commissioner can impose a fine for each violation. The minimum is one hundred dollars. The maximum is five thousand dollars. The Commissioner may also order restitution for someone who suffered a financial loss. The Commissioner may also issue a cease-and-desist order requiring a person to stop a specific unlawful practice, with further penalties for ignoring it.",
+    "reason": "State the minimum and maximum in separate sentences so a listener cannot confuse one hundred dollars with one hundred thousand dollars."
+  },
+  "5600": {
+    "first_pass_sha256": "d542a8f41ca948fb90714a9da730ab5908c5180185984dc418abc97cf5b611c1",
+    "current_sha256": "949862b9ec3ead37c71ce3ac0a02cf600a2b24aa05cbb84b6d58866f72027bbd",
+    "current_prompt": "Maryland’s Section fifteen dash four eighteen applies to certain plans that offer dependent coverage. It includes unmarried child dependents under twenty-five, including the insured’s grandchild or a child eligible under the state’s separate dependent coverage law. They receive the same benefits at the same premium as other covered dependents. The federal rule is different. When a plan covers a parent’s children, they can generally stay enrolled until age twenty-six, regardless of marital or student status. On the exam, check whether the question asks about a child or a grandchild. Maryland’s section excludes accident-only, disability and long-term care coverage.",
+    "reason": "Correct the state definition and avoid implying that federal law covers grandchildren to age 26."
+  }
+}

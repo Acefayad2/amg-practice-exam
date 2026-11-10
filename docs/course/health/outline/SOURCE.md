@@ -1,0 +1,1 @@
+Prometric outline, Series 20-24, file dated 9.21.21. Copy taken from the Wayback Machine snapshot of 2024-08-14 (web.archive.org/web/20240814173706/https://www.prometric.com/sites/default/files/2021-09/2024_accident_and_health_or_sickness_producer_9.21.21.pdf) because prometric.com blocks direct downloads. Re-check the live Maryland page before release.

@@ -1,0 +1,243 @@
+{
+  "created": "2026-11-10",
+  "status": "reviewed",
+  "params": [
+    {
+      "index": 2205,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Four clues name the plan. Does the member need a referral for a specialist? Yes points to an H M O or the in-network side of a P O S. Is there coverage out of network? Yes points to a P P O or P O S; no points to an H M O or E P O. Does the member pay copayments or deductible and co-insurance? Copayments lean H M O; co-insurance leans P P O; both appear in a P O S depending on where care was received. Is the payer the Department of Defense? Then it is TriCare, and its option follows the same referral and network clues."
+      }
+    },
+    {
+      "index": 2403,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Under HIPAA, a group plan could exclude a pre-existing condition, one treated in the six months before enrollment, for no more than twelve months, or eighteen months for a late enrollee. The exclusion was reduced day for day by credit-able coverage: prior group, individual, Medicare, Medicaid or other coverage without a break of sixty-three days or more. Plans issued certificates of credit-able coverage so the next plan could apply the credit. Pregnancy and newborns adopted within thirty days could not be excluded. The A C A abolished pre-existing condition exclusions in comprehensive plans entirely, so these rules now matter for history and for ex-cepted benefits."
+      }
+    },
+    {
+      "index": 2502,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "For twenty twenty-six the annual H S A contribution limit is four thousand four hundred dollars for self-only coverage and eight thousand seven hundred fifty dollars for family coverage, from all sources combined, with an additional one thousand dollars for account holders age fifty-five or older. Contributions are deductible, or excluded from income when made through payroll. Earnings grow tax-free. Withdrawals for qualified medical expenses, including deductibles, co-insurance, prescriptions, dental and vision care, are tax-free. Withdrawals for anything else are taxed as income plus a twenty percent penalty, which disappears after age sixty-five, death or disability. Unused balances roll over forever and move with the account holder."
+      }
+    },
+    {
+      "index": 2602,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Before the A C A, some insurers canceled coverage retroactively when a member got sick, hunting the application for errors. Rescission is now permitted only for fraud or an intentional misrepresentation of a material fact, and the insurer must give thirty days’ advance notice so the member can appeal. Honest mistakes cannot cost coverage. Plans also may not impose lifetime dollar limits on essential health benefits, or annual dollar limits on them. A plan may still limit non-essential benefits and may use visit limits that are not dollar caps where permitted. The result is that catastrophic illness no longer exhausts a policy."
+      }
+    },
+    {
+      "index": 5900,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Marcus’s P P O has a one thousand five hundred dollar deductible, eighty percent in-network co-insurance, sixty percent out of network and a five thousand dollar out-of-pocket maximum. He is admitted to an in-network hospital with allowed charges of twenty-eight thousand dollars. Work it in order. Deductible first: one thousand five hundred. co-insurance second: twenty percent of the remaining twenty-six thousand five hundred is five thousand three hundred. Cap last: his total of six thousand eight hundred exceeds the five thousand maximum, so he pays five thousand and the plan pays twenty-three thousand. If the same stay had been out of network, the lower benefit level and any balance bill would apply, and the surprise billing rules might protect him only for emergency care."
+      }
+    },
+    {
+      "index": 6002,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A competitor’s client asks Theo to compare plans. Theo lays out both plans accurately, including the competitor’s broader network and his own plan’s lower premium, and documents the comparison. That is a fair presentation, and if the client switches, a lawful replacement. He does not tell her the competitor is in financial trouble, which would be defamation if false, and he does not hide his plan’s referral requirement, which would make the comparison twisting. He also knows that a false claim in a mailer would be false advertising, for which his insurer and he would both answer."
+      }
+    },
+    {
+      "index": 6005,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "In December a former client complains to the Administration that Theo misdescribed a limited policy. The Commissioner sends notice of a proposed penalty; Theo demands a hearing in writing, and it is held within thirty days. His documented sales presentation, outline of coverage and delivery receipt show what he said and gave the client. The complaint is dismissed. Had the facts been otherwise, the penalty could have run from one hundred dollars to five thousand dollars per violation with restitution, and a revocation would have left him thirty days to seek judicial review. Records, candor and calendars are the whole of Maryland compliance."
+      }
+    }
+  ],
+  "estimates": [
+    {
+      "index": 2205,
+      "cost": {
+        "credits": 3.5,
+        "credits_exact": 3.5
+      }
+    },
+    {
+      "index": 2403,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 2502,
+      "cost": {
+        "credits": 5,
+        "credits_exact": 5
+      }
+    },
+    {
+      "index": 2602,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 5900,
+      "cost": {
+        "credits": 5.3,
+        "credits_exact": 5.3
+      }
+    },
+    {
+      "index": 6002,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 6005,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    }
+  ],
+  "originals": [
+    {
+      "index": 2205,
+      "job_id": "e1cdc002-dbd7-4796-b88a-0f47c8d0215f",
+      "reason": "Coinsurance is heard as 'coin insurance' in the comparison."
+    },
+    {
+      "index": 2403,
+      "job_id": "a71def77-ab6a-4749-b557-ee13d037f117",
+      "reason": "The terms creditable coverage and excepted benefits are not distinguishable in the first take."
+    },
+    {
+      "index": 2502,
+      "job_id": "3dacd54a-20a1-44ab-8039-4b37598035e7",
+      "reason": "Clarify 'tax-free' at withdrawal."
+    },
+    {
+      "index": 2602,
+      "job_id": "c055fc1a-c13f-4b7b-9d02-4ee408f52f0e",
+      "reason": "The required thirty-day notice is stated twice."
+    },
+    {
+      "index": 5900,
+      "job_id": "8d955bf7-fee4-4326-9a0e-d7654195798a",
+      "reason": "Read the compound co-insurance naturally in the case calculation."
+    },
+    {
+      "index": 6002,
+      "job_id": "7b32b064-be8f-44e3-9039-585608a2c3ae",
+      "reason": "Both independent transcripts omit the opening subject of the case."
+    },
+    {
+      "index": 6005,
+      "job_id": "6bebf8d7-43e3-4674-9b6d-e9f035f1cb0d",
+      "reason": "The first output changes the statutory $100 minimum to $100,000. Maryland Insurance §10–126(c) confirms $100–$5,000."
+    }
+  ],
+  "jobs": [
+    {
+      "index": 2205,
+      "job_id": "af193d62-9cf2-4ca6-84e1-6f4cb072315c",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132213_af193d62-9cf2-4ca6-84e1-6f4cb072315c.mp3"
+    },
+    {
+      "index": 2502,
+      "job_id": "45f8f3d8-9729-4f53-a318-f7c5950d0043",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132213_45f8f3d8-9729-4f53-a318-f7c5950d0043.mp3"
+    },
+    {
+      "index": 2602,
+      "job_id": "b1a92a96-5834-47a0-8f8f-0c3076cb68f8",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132213_b1a92a96-5834-47a0-8f8f-0c3076cb68f8.mp3"
+    },
+    {
+      "index": 5900,
+      "job_id": "9e660897-8b08-49f1-893c-f31c08ee268b",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132213_9e660897-8b08-49f1-893c-f31c08ee268b.mp3"
+    },
+    {
+      "index": 6002,
+      "job_id": "81eb6763-2567-4a69-8eec-ecdcbce0e2a4",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132214_81eb6763-2567-4a69-8eec-ecdcbce0e2a4.mp3"
+    },
+    {
+      "index": 2403,
+      "job_id": "5ca24f8d-2931-49c8-b6b3-1294a4617854",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132400_5ca24f8d-2931-49c8-b6b3-1294a4617854.mp3"
+    },
+    {
+      "index": 6005,
+      "job_id": "6491c520-d0ac-4af3-a5ec-a228b1fb2355",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132523_6491c520-d0ac-4af3-a5ec-a228b1fb2355.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 31
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "af193d62-9cf2-4ca6-84e1-6f4cb072315c",
+      "45f8f3d8-9729-4f53-a318-f7c5950d0043",
+      "b1a92a96-5834-47a0-8f8f-0c3076cb68f8",
+      "9e660897-8b08-49f1-893c-f31c08ee268b",
+      "81eb6763-2567-4a69-8eec-ecdcbce0e2a4",
+      "6491c520-d0ac-4af3-a5ec-a228b1fb2355"
+    ]
+  }
+}

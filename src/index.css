@@ -30,6 +30,7 @@ a { color: inherit; }
 .track-primary { border:2px solid #1f4e79; background:#1f4e79; color:#fff; }
 .track-secondary { border:2px solid #1f4e79; background:#ebf3fb; color:#1f4e79; }
 .track-primary:hover, .track-secondary:hover { opacity:.86; }
+button.track-secondary { font-family:inherit; cursor:pointer; }
 .track-primary:focus-visible, .track-secondary:focus-visible, .track-link:focus-visible { outline:3px solid #f4b942; outline-offset:3px; }
 .track-link { padding:4px; color:#1f4e79; font-size:14px; font-weight:700; text-align:center; }
 .practice-footer { margin-top:36px; color:#718096; font-size:13px; text-align:center; }

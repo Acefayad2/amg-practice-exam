@@ -1,0 +1,411 @@
+{
+  "created": "2026-11-10",
+  "status": "reviewed",
+  "lessons": [
+    43,
+    44
+  ],
+  "params": [
+    {
+      "index": 4300,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Medicare Advantage, Part C, lets Dennis receive his Medicare benefits through a private plan that Medicare pays a fixed monthly amount per member. To join he must have Parts A and B and live in the plan’s service area. The plan must cover everything Original Medicare covers, except hospice, which Original Medicare continues to pay, and most plans include Part D drug coverage and extras such as dental, vision, hearing and fitness benefits. Dennis keeps paying his Part B premium, and the plan may charge its own premium, often zero. The plan’s rules, networks and cost sharing replace Medicare’s."
+      }
+    },
+    {
+      "index": 4301,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Advantage plans come in the designs you know. H M O plans require a primary care physician and referrals and cover nothing out of network except emergencies. P P O plans pay more in network and less out. Private fee-for-service plans let members see any provider who accepts the plan’s terms. Special needs plans serve people with specific conditions, those in institutions or those also on Medicaid. Unlike Original Medicare, every Advantage plan has an annual out-of-pocket maximum for Part A and B services, a real protection. Plans may not deny enrollment for health conditions; E S R D patients may also enroll. Medicare publishes star ratings for quality."
+      }
+    },
+    {
+      "index": 4302,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Dennis may join an Advantage plan during his initial Medicare enrollment period. Each year the annual election period runs October fifteenth through December seventh, when anyone may join, switch or drop an Advantage or Part D plan for January first. A Medicare Advantage open enrollment period from January first through March thirty-first lets a current Advantage member switch once to another Advantage plan or return to Original Medicare with a Part D plan. Special enrollment periods follow moves, loss of other coverage, Medicaid changes and plan terminations. A member cannot hold a Medicare supplement policy while in an Advantage plan."
+      }
+    },
+    {
+      "index": 4303,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Part D is optional outpatient drug coverage sold by private insurers, either as a stand-alone prescription drug plan paired with Original Medicare or built into an Advantage plan. Each plan has a formulary, a list of covered drugs arranged in tiers with different cost sharing, and may use prior authorization and step therapy. Enrollment windows match Part B’s initial period and the annual election period. The standard benefit has a deductible, six hundred fifteen dollars in twenty twenty-six, then cost sharing of about twenty-five percent until the member’s out-of-pocket spending reaches the annual cap, two thousand one hundred dollars in twenty twenty-six, after which covered drugs cost nothing for the rest of the year."
+      }
+    },
+    {
+      "index": 4304,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Dennis should enroll in Part D when first eligible or keep creditable drug coverage, such as a retiree plan at least as good as Part D. For each month he goes without creditable coverage after his initial period, he owes a permanent penalty of one percent of the national base premium added to his Part D premium for life. Extra Help, the low-income subsidy, pays most Part D costs for people with limited income and resources. A Medicare Prescription Payment Plan lets members spread out-of-pocket drug costs across the year in monthly installments. Employers must tell retirees each year whether their drug coverage is creditable."
+      }
+    },
+    {
+      "index": 4305,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Dennis has two coherent choices. Road one: Original Medicare, a Medicare supplement policy to fill the deductibles and coinsurance, and a stand-alone Part D plan. He may see any provider who takes Medicare, nationwide, with predictable costs and higher monthly premiums. Road two: a Medicare Advantage plan, usually with drug coverage and extras, lower premiums, a network and referral rules, and an out-of-pocket maximum. He may switch between roads during election periods, but returning to a supplement later may require medical underwriting outside Maryland’s protected windows. Lesson forty-four explains the supplement side; Lesson forty-five explains Maryland’s protections."
+      }
+    },
+    {
+      "index": 4400,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Original Medicare leaves Dennis with the Part A deductible each benefit period, twenty percent of Part B charges with no limit, possible excess charges and nothing for emergencies abroad. Medicare supplement insurance, or Medigap, is a private policy that pays those gaps. It works only with Original Medicare: Dennis must have Parts A and B, Medicare pays first and the supplement pays second, and he may not hold one while in a Medicare Advantage plan. Each policy covers one person, so Dennis and his wife need two. Medigap does not cover prescription drugs; a Part D plan does that."
+      }
+    },
+    {
+      "index": 4401,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The most important date in Medigap is the six-month open enrollment period that begins the first month Dennis is sixty-five or older and enrolled in Part B. During those six months any insurer selling Medigap in Maryland must sell him any plan it offers, may not refuse him or charge more because of his health, and may not delay coverage of pre-existing conditions for more than six months, reduced by prior creditable coverage. After the window closes, insurers may underwrite, charge more or decline, except in guaranteed-issue situations. Lesson forty-five adds Maryland’s extra protections, including a birthday window and rules for people under sixty-five."
+      }
+    },
+    {
+      "index": 4402,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Insurers rate Medigap three ways. Attained-age rating charges a premium based on the insured’s current age, so the premium rises every year as Dennis gets older, on top of inflation increases; it is cheapest at sixty-five and most expensive later. Issue-age rating sets the premium by the age at purchase; it rises only for inflation, never because Dennis aged. Community rating charges everyone the same premium regardless of age, rising only for inflation; it is highest for the youngest buyers and fairest to the oldest. Theo shows Dennis the three price paths over twenty years, not just the first-year quote."
+      }
+    },
+    {
+      "index": 4403,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Federal law standardizes Medigap into lettered plans, A through N, so that a Plan G from one insurer is identical to a Plan G from another; only price and service differ. Every plan includes the core benefits: Part A hospital coinsurance for days sixty-one through ninety and the lifetime reserve days, plus three hundred sixty-five additional hospital days after Medicare benefits end; Part B coinsurance or copayments; the first three pints of blood; and Part A hospice coinsurance. Plan A offers only the core benefits. Every insurer that sells Medigap must offer Plan A."
+      }
+    },
+    {
+      "index": 4404,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The richer letters add benefits: the skilled nursing facility coinsurance for days twenty-one through one hundred, the Part A deductible, Part B excess charges, and emergency care during foreign travel at eighty percent up to a lifetime limit. Plans C and F also pay the Part B deductible, but federal law closed them to anyone who became eligible for Medicare on or after January first, twenty twenty, which made Plan G the most comprehensive plan for new enrollees. Plans K and L pay a percentage of some benefits in exchange for an out-of-pocket limit. High-deductible versions of Plans F and G pay nothing until the insured meets an annual deductible, indexed yearly, in exchange for a much lower premium."
+      }
+    },
+    {
+      "index": 4405,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Dennis enrolls in Part B in March and shops in his six-month window. Plan G from three insurers covers the same things: everything but the Part B deductible. One insurer uses attained-age rating and is cheapest now; one uses issue-age and costs more now but will not rise with his age; one is community rated. He asks about high-deductible G as a lower-cost option. Because he is in open enrollment, none of them may ask about his health. Theo documents the comparison, explains that Plan G plus a Part D plan completes his coverage, and reminds him that the policy carries a thirty-day right to return in Maryland."
+      }
+    }
+  ],
+  "projected": [
+    {
+      "index": 4300,
+      "characters": 599,
+      "credits": 4
+    },
+    {
+      "index": 4301,
+      "characters": 661,
+      "credits": 4.5
+    },
+    {
+      "index": 4302,
+      "characters": 644,
+      "credits": 4.3
+    },
+    {
+      "index": 4303,
+      "characters": 730,
+      "credits": 4.9
+    },
+    {
+      "index": 4304,
+      "characters": 632,
+      "credits": 4.3
+    },
+    {
+      "index": 4305,
+      "characters": 681,
+      "credits": 4.6
+    },
+    {
+      "index": 4400,
+      "characters": 586,
+      "credits": 4
+    },
+    {
+      "index": 4401,
+      "characters": 662,
+      "credits": 4.5
+    },
+    {
+      "index": 4402,
+      "characters": 613,
+      "credits": 4.1
+    },
+    {
+      "index": 4403,
+      "characters": 574,
+      "credits": 3.9
+    },
+    {
+      "index": 4404,
+      "characters": 709,
+      "credits": 4.8
+    },
+    {
+      "index": 4405,
+      "characters": 615,
+      "credits": 4.1
+    }
+  ],
+  "estimates": [
+    {
+      "index": 4300,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 4301,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 4302,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 4303,
+      "cost": {
+        "credits": 4.9,
+        "credits_exact": 4.9
+      }
+    },
+    {
+      "index": 4304,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 4305,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "index": 4400,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 4401,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 4402,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 4403,
+      "cost": {
+        "credits": 3.9,
+        "credits_exact": 3.9
+      }
+    },
+    {
+      "index": 4404,
+      "cost": {
+        "credits": 4.8,
+        "credits_exact": 4.8
+      }
+    },
+    {
+      "index": 4405,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 4300,
+      "job_id": "e6ef2cc6-d1bc-4436-be32-7b3db59d4c40",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133650_e6ef2cc6-d1bc-4436-be32-7b3db59d4c40.mp3"
+    },
+    {
+      "index": 4301,
+      "job_id": "ac4cf671-194a-48fa-a782-12e432c3c208",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133648_ac4cf671-194a-48fa-a782-12e432c3c208.mp3"
+    },
+    {
+      "index": 4302,
+      "job_id": "069614af-9dbf-4120-8d21-0732d26d3c33",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133648_069614af-9dbf-4120-8d21-0732d26d3c33.mp3"
+    },
+    {
+      "index": 4303,
+      "job_id": "00006732-7ab2-4664-849b-efcec2c1b7e9",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133648_00006732-7ab2-4664-849b-efcec2c1b7e9.mp3"
+    },
+    {
+      "index": 4304,
+      "job_id": "2f43f80f-59d7-47e6-a2ca-baac633a65a3",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133648_2f43f80f-59d7-47e6-a2ca-baac633a65a3.mp3"
+    },
+    {
+      "index": 4305,
+      "job_id": "50576ab1-8cd6-44dd-b00f-2c73b18e4fca",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133649_50576ab1-8cd6-44dd-b00f-2c73b18e4fca.mp3"
+    },
+    {
+      "index": 4400,
+      "job_id": "f845e211-21d3-4edd-ad14-80f4b011854b",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133752_f845e211-21d3-4edd-ad14-80f4b011854b.mp3"
+    },
+    {
+      "index": 4401,
+      "job_id": "7ef061d5-e0b2-4a8b-92bb-43ed52a86115",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133752_7ef061d5-e0b2-4a8b-92bb-43ed52a86115.mp3"
+    },
+    {
+      "index": 4402,
+      "job_id": "4a8d6636-cf02-4079-bbdf-f438e3ea375f",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133752_4a8d6636-cf02-4079-bbdf-f438e3ea375f.mp3"
+    },
+    {
+      "index": 4403,
+      "job_id": "b384bb9a-348e-4ccd-b249-d713e34755dd",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133752_b384bb9a-348e-4ccd-b249-d713e34755dd.mp3"
+    },
+    {
+      "index": 4404,
+      "job_id": "2f8583d6-7e3f-4e80-8baa-e9c7d0a50e30",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133753_2f8583d6-7e3f-4e80-8baa-e9c7d0a50e30.mp3"
+    },
+    {
+      "index": 4405,
+      "job_id": "b7241ca3-309a-4385-8f25-64fb639a93b8",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133752_b7241ca3-309a-4385-8f25-64fb639a93b8.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 52,
+    "basis": "Provider quotes for confirmed, completed outputs."
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "e6ef2cc6-d1bc-4436-be32-7b3db59d4c40",
+      "ac4cf671-194a-48fa-a782-12e432c3c208",
+      "069614af-9dbf-4120-8d21-0732d26d3c33",
+      "00006732-7ab2-4664-849b-efcec2c1b7e9",
+      "50576ab1-8cd6-44dd-b00f-2c73b18e4fca",
+      "f845e211-21d3-4edd-ad14-80f4b011854b",
+      "4a8d6636-cf02-4079-bbdf-f438e3ea375f",
+      "b384bb9a-348e-4ccd-b249-d713e34755dd",
+      "2f8583d6-7e3f-4e80-8baa-e9c7d0a50e30",
+      "b7241ca3-309a-4385-8f25-64fb639a93b8"
+    ],
+    "replacement_indices": [
+      4304,
+      4401
+    ]
+  }
+}

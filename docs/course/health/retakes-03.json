@@ -1,0 +1,179 @@
+{
+  "created": "2026-11-10",
+  "status": "reviewed",
+  "params": [
+    {
+      "index": 300,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Priya owns a bakery with twenty workers and is collecting quotes. The first carrier is a stock insurer, owned by shareholders who expect a profit; its policies are usually nonparticipating. The second is a mutual insurer, owned by its policyholders, who may receive dividends when results are good; those policies are participating. A fraternal benefit society sells only to its members through a lodge system and operates on a nonprofit basis. A large employer might instead self-insure, paying its own claims from company funds and hiring an administrator to process them, often with stop-loss protection behind it."
+      }
+    },
+    {
+      "index": 702,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The Employee Retirement Income Security Act governs employee benefit plans sponsored by private employers, including group health and disability plans. Government and church plans are generally exempt. Anyone who controls plan assets or administration is a fiduciary and must act solely in the interest of participants, with the care of a prudent person, following the plan documents. Plans must report to the Department of Labor, usually on Form five thousand five hundred, and must disclose terms to participants through a summary plan description delivered within ninety days of joining, plus summaries of material changes. When Priya offers a group plan, Erissa shapes her duties as sponsor."
+      }
+    },
+    {
+      "index": 1400,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Rosa receives a mailer offering a disability income policy for thirty dollars less a month than the one Theo sold her two years ago. Replacement means dropping or reducing existing coverage to buy new coverage. It is lawful and sometimes wise, but it resets clocks. A new disability or long-term care policy brings a new pre-existing condition look-back, a new probationary period and a new contestable period. Rosa’s back condition, now covered after two years, could become a pre-existing condition under the new policy. The first replacement question is always: what coverage has the client already earned?"
+      }
+    },
+    {
+      "index": 1401,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Price is one line in a comparison. Theo lays the two policies side by side. Does the new policy define disability as own occupation or any occupation? How long is the elimination period and the benefit period? Does it include a residual benefit, a cost-of-living rider, a future increase option? Is it noncancelable, guaranteed renewable or conditionally renewable? What does it exclude that the old policy covers? For medical plans, is the current plan grandfathered with features a new plan would lose? Only after the benefits, limitations and exclusions are compared can anyone say whether thirty dollars is a saving."
+      }
+    },
+    {
+      "index": 1703,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Three general provisions frame every policy. The right to examine, or free look, lets the insured return the policy within a stated period after delivery, typically ten days for individual health policies and thirty days for Medicare supplement and long-term care policies in Maryland, for a full refund. The insuring clause is the insurer’s core promise: who is covered, against which perils, for what benefits. The consideration clause states what the insured gives: the premium and the statements in the application. Together they define the exchange, and the rest of the policy qualifies it."
+      }
+    }
+  ],
+  "estimates": [
+    {
+      "index": 300,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 702,
+      "cost": {
+        "credits": 4.7,
+        "credits_exact": 4.7
+      }
+    },
+    {
+      "index": 1400,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 1401,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 1703,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    }
+  ],
+  "originals": [
+    {
+      "index": 300,
+      "job_id": "f0c07a63-a4cc-4c65-b9dd-fa7539534a19",
+      "reason": "Two transcriptions hear 'large system' in place of 'lodge system.'"
+    },
+    {
+      "index": 702,
+      "job_id": "8a87dd5c-ce1e-4dbe-8956-0419674683a4",
+      "reason": "Two transcriptions miss ERISA; use conventional word-style spelling to guide the read."
+    },
+    {
+      "index": 1400,
+      "job_id": "37aaab01-af0f-4c16-b7b5-cf06487c3bd4",
+      "reason": "Both transcripts contain a repeated phrase about buying new coverage."
+    },
+    {
+      "index": 1401,
+      "job_id": "19ecf796-06bb-4ec8-b4c7-43a94ca18bd1",
+      "reason": "Both transcripts contain a repeated 'noncancelable.'"
+    },
+    {
+      "index": 1703,
+      "job_id": "6eda1aca-036f-437f-88da-459810a7b98e",
+      "reason": "Both transcripts repeat 'typically ten days.'"
+    }
+  ],
+  "jobs": [
+    {
+      "index": 300,
+      "job_id": "e450ead0-549d-45c3-8f90-ceae7e892187",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130439_e450ead0-549d-45c3-8f90-ceae7e892187.mp3"
+    },
+    {
+      "index": 702,
+      "job_id": "56e348dc-74e5-495f-b374-a82b72adc29c",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130439_56e348dc-74e5-495f-b374-a82b72adc29c.mp3"
+    },
+    {
+      "index": 1703,
+      "job_id": "966d4e99-a328-4ce7-8dfb-dabac77c664e",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130439_966d4e99-a328-4ce7-8dfb-dabac77c664e.mp3"
+    },
+    {
+      "index": 1400,
+      "job_id": "15c0e06d-eb65-47a4-8d37-72937ee1bd44",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130601_15c0e06d-eb65-47a4-8d37-72937ee1bd44.mp3"
+    },
+    {
+      "index": 1401,
+      "job_id": "4abd55dc-0317-4714-b62f-8d02343fe881",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130602_4abd55dc-0317-4714-b62f-8d02343fe881.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 21.2
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "e450ead0-549d-45c3-8f90-ceae7e892187",
+      "56e348dc-74e5-495f-b374-a82b72adc29c",
+      "15c0e06d-eb65-47a4-8d37-72937ee1bd44",
+      "4abd55dc-0317-4714-b62f-8d02343fe881"
+    ]
+  }
+}

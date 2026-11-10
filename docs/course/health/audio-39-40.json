@@ -1,0 +1,411 @@
+{
+  "created": "2026-11-10",
+  "status": "reviewed",
+  "lessons": [
+    39,
+    40
+  ],
+  "params": [
+    {
+      "index": 3900,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Is Priya’s bakery a small employer? Maryland defines a small employer as one that employed an average of not more than fifty employees during the preceding calendar year. The count is full-time employees, those averaging thirty or more hours a week, plus full-time equivalents, calculated each month by dividing the hours of part-time employees by one hundred twenty. Seasonal workers are excluded. Priya has fourteen full-time workers and six part-timers at twenty hours a week, about four hundred eighty part-time hours a month, which is four full-time equivalents. Eighteen in all: a small employer. A firm with sixty full-time workers is a large group."
+      }
+    },
+    {
+      "index": 3901,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A carrier that sells small group coverage in Maryland must accept every small employer that applies and meets its uniformly applied participation and contribution requirements, and must enroll every eligible employee the employer offers coverage to. It may not deny, limit or condition coverage because of the health status of the employer’s workers, and discriminating against employees on the basis of health status is an unfair trade practice. The only lawful reasons to turn down a small group are failure to meet participation or contribution rules, location outside the carrier’s service area or the carrier’s lack of capacity, applied to all groups alike."
+      }
+    },
+    {
+      "index": 3902,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Carriers must give small employers plain-language disclosure of the plan’s benefits, exclusions, premium rating practices, renewability terms and participation requirements before the sale, so Priya can compare offers honestly. Eligible employees are those the employer offers coverage to; the employer may limit eligibility to full-time employees or include part-time employees working at least seventeen point five hours a week, but it must apply the choice to the whole class. Dependents are eligible under the rules in Lesson thirty-seven. Waiting periods may not exceed ninety days. An employee who declines may join later only at open enrollment or a special enrollment event."
+      }
+    },
+    {
+      "index": 3903,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Small group premiums are set by modified community rating. For plans issued or renewed since twenty fourteen, rates may vary only by whether coverage is individual or family, by rating area, by age within a three to one ratio for adults, and by tobacco use within one point five to one. Nothing else: not health, not claims, not industry, not gender. Rates are fixed for the entire plan year, so Priya’s premium cannot change midyear when an employee gets sick. Carriers must use accepted actuarial methods and apply risk adjustment consistently. Grandfathered small group plans keep an older Maryland rating structure with limited adjustments."
+      }
+    },
+    {
+      "index": 3904,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Small group coverage is guaranteed renewable at the employer’s option. A carrier may refuse to renew only for nonpayment of premium, fraud or intentional misrepresentation, failure to meet participation or contribution requirements, the employer leaving the carrier’s service area, or the carrier’s withdrawal from the small group market with the required notice, after which it may not reenter for five years. The group’s claims, the illness of an employee or the age of the workforce are never grounds. Renewal premiums may change within the rating rules. This is HIPAA’s renewability guarantee as implemented in Maryland’s small group law."
+      }
+    },
+    {
+      "index": 3905,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "As a small employer, Priya may buy directly from a carrier or through Maryland Health Connection for Small Business, the S H O P marketplace, with Theo as her authorized producer. Either way she gets guaranteed availability, community rating and guaranteed renewability. Through S H O P she may qualify for the small business health care tax credit if she has fewer than twenty-five full-time equivalent employees and modest average wages, and she can offer employee choice among plans. She must meet the carrier’s participation and contribution rules and may define eligibility for her part-time staff. Her employees’ health never enters the price."
+      }
+    },
+    {
+      "index": 4000,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Elena, a dental hygienist, explains the categories to Theo. Diagnostic and preventive services are exams, x-rays, cleanings, fluoride and sealants. Restorative services repair teeth: fillings, crowns, inlays. Oral surgery covers extractions and other surgery of the mouth. Endodontics treats the tooth’s interior, chiefly root canals. Periodontics treats the gums and bone. Prosthodontics replaces missing teeth with bridges, dentures and implants. Orthodontics straightens teeth with braces, often limited to children and carrying its own lifetime maximum. Plans group these categories into tiers that determine how much the plan pays."
+      }
+    },
+    {
+      "index": 4001,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "An indemnity dental plan lets the patient choose any dentist. A scheduled plan pays a fixed dollar amount per procedure, such as ninety dollars for a filling, and the patient pays the rest; schedules are easy to understand but lag behind rising fees. A nonscheduled plan pays a percentage of usual, customary and reasonable charges by benefit category: typically one hundred percent of preventive, eighty percent of basic services such as fillings and extractions, and fifty percent of major services such as crowns and bridges. A combination plan uses a schedule for some services and percentages for others. Dental H M O and P P O networks apply the same categories with network pricing."
+      }
+    },
+    {
+      "index": 4002,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Most dental plans carry a small annual deductible, often fifty dollars, waived for preventive care, and an annual maximum benefit, commonly one thousand to two thousand dollars per person, which resets each year. Marcus needs a crown with a U C R charge of one thousand two hundred dollars under a one hundred eighty fifty plan with a fifty dollar deductible. He pays the deductible, then fifty percent of the remaining one thousand one hundred fifty, which is five hundred seventy-five, for a total of six hundred twenty-five; the plan pays five hundred seventy-five. If the plan has a one thousand five hundred dollar annual maximum and he already used one thousand two hundred this year, the plan pays only three hundred and he pays the rest. Maximums, not percentages, often decide the bill."
+      }
+    },
+    {
+      "index": 4003,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Dental plans exclude cosmetic work such as whitening, replacement of lost or stolen dentures, experimental procedures and often teeth missing before coverage began, the missing tooth clause. Limitations include frequency limits, two cleanings a year, waiting periods of six to twelve months for major services, and the least expensive alternative treatment rule, which pays for the cheapest professionally acceptable fix. For costly work above a threshold, often three hundred dollars, plans ask for predetermination of benefits: the dentist submits the treatment plan, the insurer states what it will pay before work begins, and the patient can decide with the numbers in hand. Predetermination is an estimate, not a guarantee."
+      }
+    },
+    {
+      "index": 4004,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Priya may add dental as part of the medical plan or as a separate plan. An integrated deductible counts dental and medical expenses toward one combined deductible, which can leave routine dental unpaid until the larger deductible is met. A stand-alone dental plan has its own small deductible and annual maximum and pays preventive care from the first visit, which is why most employers choose it. Pediatric dental is an essential health benefit, so children’s dental must be available with individual and small group medical coverage, either embedded or through a stand-alone dental plan on the Exchange."
+      }
+    },
+    {
+      "index": 4005,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Dental care is predictable, so people who need expensive work are the first to sign up for voluntary dental coverage. Plans defend themselves with the tools you have seen before. Waiting periods of six to twelve months for basic and major services stop someone from enrolling for a crown and leaving. Participation requirements keep healthy mouths in the pool. Late enrollees may be limited to preventive benefits for the first year. Annual maximums cap the plan’s exposure, orthodontics carries a lifetime maximum, and the missing tooth clause excludes work on teeth lost before coverage. Each tool trades a little coverage for an affordable premium."
+      }
+    }
+  ],
+  "projected": [
+    {
+      "index": 3900,
+      "characters": 656,
+      "credits": 4.4
+    },
+    {
+      "index": 3901,
+      "characters": 662,
+      "credits": 4.5
+    },
+    {
+      "index": 3902,
+      "characters": 682,
+      "credits": 4.6
+    },
+    {
+      "index": 3903,
+      "characters": 644,
+      "credits": 4.3
+    },
+    {
+      "index": 3904,
+      "characters": 642,
+      "credits": 4.3
+    },
+    {
+      "index": 3905,
+      "characters": 649,
+      "credits": 4.4
+    },
+    {
+      "index": 4000,
+      "characters": 636,
+      "credits": 4.3
+    },
+    {
+      "index": 4001,
+      "characters": 689,
+      "credits": 4.6
+    },
+    {
+      "index": 4002,
+      "characters": 795,
+      "credits": 5.3
+    },
+    {
+      "index": 4003,
+      "characters": 728,
+      "credits": 4.9
+    },
+    {
+      "index": 4004,
+      "characters": 605,
+      "credits": 4.1
+    },
+    {
+      "index": 4005,
+      "characters": 651,
+      "credits": 4.4
+    }
+  ],
+  "estimates": [
+    {
+      "index": 3900,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 3901,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 3902,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "index": 3903,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 3904,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 3905,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 4000,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 4001,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "index": 4002,
+      "cost": {
+        "credits": 5.3,
+        "credits_exact": 5.3
+      }
+    },
+    {
+      "index": 4003,
+      "cost": {
+        "credits": 4.9,
+        "credits_exact": 4.9
+      }
+    },
+    {
+      "index": 4004,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 4005,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 3900,
+      "job_id": "c843507d-b8a1-4aae-ae1a-e4744bb6f6c5",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133233_c843507d-b8a1-4aae-ae1a-e4744bb6f6c5.mp3"
+    },
+    {
+      "index": 3901,
+      "job_id": "9625c412-ad33-4991-b7c6-b00dd64c2479",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133233_9625c412-ad33-4991-b7c6-b00dd64c2479.mp3"
+    },
+    {
+      "index": 3902,
+      "job_id": "b249c46c-283a-42f5-bb09-28456ac5a307",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133233_b249c46c-283a-42f5-bb09-28456ac5a307.mp3"
+    },
+    {
+      "index": 3903,
+      "job_id": "c3737199-dec4-4793-8336-9d6bf89b7814",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133234_c3737199-dec4-4793-8336-9d6bf89b7814.mp3"
+    },
+    {
+      "index": 3904,
+      "job_id": "226f4991-9a13-4a55-ba39-816b449a3adf",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133233_226f4991-9a13-4a55-ba39-816b449a3adf.mp3"
+    },
+    {
+      "index": 3905,
+      "job_id": "0da7654b-3fde-40d1-845f-04fd374bd3ed",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133233_0da7654b-3fde-40d1-845f-04fd374bd3ed.mp3"
+    },
+    {
+      "index": 4000,
+      "job_id": "63f8c76f-ef21-49dd-842f-027d49f8d737",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133343_63f8c76f-ef21-49dd-842f-027d49f8d737.mp3"
+    },
+    {
+      "index": 4001,
+      "job_id": "e3790bc3-ec32-43bb-b502-3a0cc03455e7",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133343_e3790bc3-ec32-43bb-b502-3a0cc03455e7.mp3"
+    },
+    {
+      "index": 4002,
+      "job_id": "e97c1da3-c994-4277-a187-762d5635e9f1",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133343_e97c1da3-c994-4277-a187-762d5635e9f1.mp3"
+    },
+    {
+      "index": 4003,
+      "job_id": "2493a7b8-36e4-4913-a269-4fd896eca773",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133342_2493a7b8-36e4-4913-a269-4fd896eca773.mp3"
+    },
+    {
+      "index": 4004,
+      "job_id": "71a60edb-c10e-4bbc-87c7-0fb84d94285a",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133342_71a60edb-c10e-4bbc-87c7-0fb84d94285a.mp3"
+    },
+    {
+      "index": 4005,
+      "job_id": "13288c58-4c8c-4073-8157-01e737f5d66a",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133343_13288c58-4c8c-4073-8157-01e737f5d66a.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 54.1,
+    "basis": "Provider quotes for confirmed, completed outputs."
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "c843507d-b8a1-4aae-ae1a-e4744bb6f6c5",
+      "9625c412-ad33-4991-b7c6-b00dd64c2479",
+      "b249c46c-283a-42f5-bb09-28456ac5a307",
+      "c3737199-dec4-4793-8336-9d6bf89b7814",
+      "226f4991-9a13-4a55-ba39-816b449a3adf",
+      "0da7654b-3fde-40d1-845f-04fd374bd3ed",
+      "e3790bc3-ec32-43bb-b502-3a0cc03455e7",
+      "e97c1da3-c994-4277-a187-762d5635e9f1",
+      "2493a7b8-36e4-4913-a269-4fd896eca773",
+      "71a60edb-c10e-4bbc-87c7-0fb84d94285a",
+      "13288c58-4c8c-4073-8157-01e737f5d66a"
+    ],
+    "replacement_indices": [
+      4000
+    ]
+  }
+}

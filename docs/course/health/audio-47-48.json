@@ -1,0 +1,410 @@
+{
+  "created": "2026-11-10",
+  "status": "reviewed",
+  "lessons": [
+    47,
+    48
+  ],
+  "params": [
+    {
+      "index": 4700,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Gloria is seventy-one and lives alone. If arthritis or dementia makes it hard to dress, bathe or eat without help, who pays for her care? Medicare may cover a limited stay for skilled care, but it generally does not pay for ongoing help with daily activities alone. Medicaid can help people who meet Maryland’s financial and medical eligibility rules. Long-term care insurance can pay for help at home, in assisted living or in a nursing facility. Qualifying policies are an exception to some federal health insurance rules. Insurers consider age and health when they price coverage."
+      }
+    },
+    {
+      "index": 4701,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Benefits begin when a licensed health professional certifies that the insured meets a trigger. Under the federal tax-qualified standard, the insured must be unable to perform at least two of six activities of daily living, bathing, dressing, eating, toileting, transferring and continence, without substantial assistance, for a period expected to last at least ninety days, or must need substantial supervision because of a severe cognitive impairment such as Alzheimer’s disease. Maryland forbids triggers stricter than these and forbids requiring a prior hospital stay. Gloria’s inability to bathe and dress herself would qualify; difficulty with housework alone would not."
+      }
+    },
+    {
+      "index": 4702,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Policies describe care by level. Skilled care is daily nursing or rehabilitation ordered by a physician and delivered by licensed professionals. Intermediate care is occasional skilled care, a few times a week. Custodial care is help with daily activities by trained aides, not nurses, and is what most long-term care claims involve. Settings vary: a nursing home, an assisted living facility, home health care in the insured’s own home, adult day care at a center during working hours, and respite care that temporarily relieves a family caregiver. Modern comprehensive policies cover all levels in all settings; older facility-only policies did not."
+      }
+    },
+    {
+      "index": 4703,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Gloria chooses a daily or monthly benefit amount, say two hundred fifty dollars a day, matched to local nursing home costs. She chooses a benefit period, two, three, five years or longer; many policies express it as a pool of money, the daily benefit times the days, which lasts longer if she uses less than the maximum. She chooses an elimination period, often thirty, sixty or ninety days of care before benefits start, which works like a deductible. A reimbursement policy pays actual charges up to the daily maximum; an indemnity policy pays the full daily benefit regardless of charges. Each choice moves the premium."
+      }
+    },
+    {
+      "index": 4704,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Four options matter most. Inflation protection increases the benefit automatically, typically five percent compounded each year, so a two hundred fifty dollar benefit bought today still buys a day of care twenty years from now; Maryland insurers must offer it. Nonforfeiture preserves some value if Gloria stops paying, usually a shortened benefit period equal to the premiums paid, and Maryland requires it to be offered. A guarantee of insurability option lets her buy more coverage later without new underwriting. Return of premium refunds premiums less claims at death. Exclusions cover pre-existing conditions for up to six months, war and self-inflicted injury, but never Alzheimer’s disease. Underwriting checks health, medications and cognition."
+      }
+    },
+    {
+      "index": 4705,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A tax-qualified policy meets federal standards: the two-of-six A D L or cognitive trigger, guaranteed renewability, required inflation and nonforfeiture offers and consumer protections. Its premiums count as deductible medical expenses within age-based limits and its benefits are tax-free up to a daily cap that is indexed yearly. A nonqualified policy may use looser triggers but its tax treatment is uncertain. A Partnership policy is a tax-qualified policy approved under Maryland’s Partnership program; if Gloria exhausts its benefits and applies for Medicaid, she may keep assets equal to the benefits the policy paid. Partnership policies must include inflation protection, compound for buyers under sixty-one."
+      }
+    },
+    {
+      "index": 4800,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Maryland adopted the N A I C long-term care model regulation in COMAR Title thirty-one, Subtitle fourteen. Insurers must establish marketing procedures that prevent twisting, high-pressure tactics and cold lead advertising, and must assure that comparisons are fair and accurate. At or before application Theo must give Gloria the long-term care consumer guide, the shopper’s guide, and an outline of coverage that describes benefits, exclusions, renewability and premium increase history in a standard format, along with the disclosure titled Things You Should Know Before You Buy Long-Term Care Insurance. Advertising must be filed with the Commissioner."
+      }
+    },
+    {
+      "index": 4801,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Long-term care insurance is expensive and may be held for decades, so Maryland requires each insurer to adopt suitability standards and to use them in deciding whether to issue a policy. Producers must apply the same standards in marketing. Before or at application the applicant completes the long-term care insurance personal worksheet, covering premium as a share of income, assets and the applicant’s understanding that premiums may rise. The insurer reviews the worksheet; if the purchase appears unsuitable, it may decline or ask the applicant to confirm in writing that she wants the policy anyway. The insurer must also ask about existing coverage and Medicaid eligibility."
+      }
+    },
+    {
+      "index": 4802,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Gloria has thirty days after delivery to return a long-term care policy for a full refund, and the policy must say so on its first page. If the policy replaces existing coverage, the producer gives a replacement notice, the insurer credits time served and waives pre-existing condition periods for benefits the old policy covered, and the producer is paid only a renewal commission on the replacement. Every individual long-term care policy must be guaranteed renewable or noncancelable; a conditionally renewable or optionally renewable long-term care policy is not permitted. Group policies must offer continuation or conversion when a member leaves the group."
+      }
+    },
+    {
+      "index": 4803,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Insurers must disclose that premiums may increase and must report their rate increase history. Incontestability is graduated: within six months the insurer may rescind for a material misrepresentation; between six months and two years only if the misrepresentation relates to the condition claimed; after two years only if the applicant knowingly and intentionally misrepresented relevant health facts. Benefits already paid are not recovered. To prevent unintentional lapse, the applicant may name a third party to receive lapse notices, the insurer must give thirty days’ notice before terminating for nonpayment, and a policy that lapsed because of cognitive or functional impairment may be reinstated within five months."
+      }
+    },
+    {
+      "index": 4804,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Every insurer must offer inflation protection of at least five percent compounded annually and may issue a policy without it only when the applicant rejects it in writing. A pre-existing condition may be defined no more strictly than one treated in the six months before coverage, and may be excluded for no more than six months after the effective date. Insurers must offer a nonforfeiture benefit, usually a shortened benefit period, and must provide a contingent nonforfeiture benefit when a substantial premium increase causes lapse. Benefit triggers may be no more restrictive than two of six activities of daily living or cognitive impairment, and no policy may require a prior hospital stay or condition home care on prior facility care."
+      }
+    },
+    {
+      "index": 4805,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Maryland rewards buying long-term care coverage with an income tax credit. Under Tax-General Section ten dash seven eighteen, an individual who pays premiums for a qualified long-term care policy covering herself, her spouse, a parent or stepparent, or a child or stepchild who is a Maryland resident may claim one hundred percent of the eligible premiums paid that year, up to five hundred dollars per insured. The credit is annual, may be claimed by only one taxpayer per insured, cannot exceed the state tax after other credits and cannot be carried forward. It is unavailable if the insured held long-term care insurance before July first, two thousand or the credit was claimed for that insured before."
+      }
+    }
+  ],
+  "projected": [
+    {
+      "index": 4700,
+      "characters": 583,
+      "credits": 3.9
+    },
+    {
+      "index": 4701,
+      "characters": 675,
+      "credits": 4.5
+    },
+    {
+      "index": 4702,
+      "characters": 651,
+      "credits": 4.4
+    },
+    {
+      "index": 4703,
+      "characters": 622,
+      "credits": 4.2
+    },
+    {
+      "index": 4704,
+      "characters": 753,
+      "credits": 5.1
+    },
+    {
+      "index": 4705,
+      "characters": 717,
+      "credits": 4.8
+    },
+    {
+      "index": 4800,
+      "characters": 656,
+      "credits": 4.4
+    },
+    {
+      "index": 4801,
+      "characters": 681,
+      "credits": 4.6
+    },
+    {
+      "index": 4802,
+      "characters": 662,
+      "credits": 4.5
+    },
+    {
+      "index": 4803,
+      "characters": 724,
+      "credits": 4.9
+    },
+    {
+      "index": 4804,
+      "characters": 744,
+      "credits": 5
+    },
+    {
+      "index": 4805,
+      "characters": 707,
+      "credits": 4.8
+    }
+  ],
+  "estimates": [
+    {
+      "index": 4700,
+      "cost": {
+        "credits": 3.9,
+        "credits_exact": 3.9
+      }
+    },
+    {
+      "index": 4701,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 4702,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 4703,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 4704,
+      "cost": {
+        "credits": 5.1,
+        "credits_exact": 5.1
+      }
+    },
+    {
+      "index": 4705,
+      "cost": {
+        "credits": 4.8,
+        "credits_exact": 4.8
+      }
+    },
+    {
+      "index": 4800,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 4801,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "index": 4802,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 4803,
+      "cost": {
+        "credits": 4.9,
+        "credits_exact": 4.9
+      }
+    },
+    {
+      "index": 4804,
+      "cost": {
+        "credits": 5,
+        "credits_exact": 5
+      }
+    },
+    {
+      "index": 4805,
+      "cost": {
+        "credits": 4.8,
+        "credits_exact": 4.8
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 4700,
+      "job_id": "754c9d8f-8876-475b-9076-9f398ba20881",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134456_754c9d8f-8876-475b-9076-9f398ba20881.mp3"
+    },
+    {
+      "index": 4701,
+      "job_id": "5dbfd15e-2a8f-45ae-9ae2-70b8af7575da",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134457_5dbfd15e-2a8f-45ae-9ae2-70b8af7575da.mp3"
+    },
+    {
+      "index": 4702,
+      "job_id": "a25d4227-475f-4ecd-a523-12bff7a6d6d5",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134456_a25d4227-475f-4ecd-a523-12bff7a6d6d5.mp3"
+    },
+    {
+      "index": 4703,
+      "job_id": "4629d113-b011-49d3-8e94-bede24bd7887",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134456_4629d113-b011-49d3-8e94-bede24bd7887.mp3"
+    },
+    {
+      "index": 4704,
+      "job_id": "c1cb8a39-efc3-4615-b048-0f53993224d8",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134636_c1cb8a39-efc3-4615-b048-0f53993224d8.mp3"
+    },
+    {
+      "index": 4705,
+      "job_id": "cff3cf90-8260-4a0b-ae7a-3b9fb3e48e67",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134637_cff3cf90-8260-4a0b-ae7a-3b9fb3e48e67.mp3"
+    },
+    {
+      "index": 4800,
+      "job_id": "0cd7ee80-433e-4354-939e-843d9239e94d",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134737_0cd7ee80-433e-4354-939e-843d9239e94d.mp3"
+    },
+    {
+      "index": 4801,
+      "job_id": "18c08a73-0921-4ce0-a6ee-738743e8ab52",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134737_18c08a73-0921-4ce0-a6ee-738743e8ab52.mp3"
+    },
+    {
+      "index": 4802,
+      "job_id": "67463e51-ce1a-4bd2-a4ad-21e96a1501e2",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134737_67463e51-ce1a-4bd2-a4ad-21e96a1501e2.mp3"
+    },
+    {
+      "index": 4803,
+      "job_id": "fbda742b-3839-4e5f-8217-0c33fa1dd7c0",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134736_fbda742b-3839-4e5f-8217-0c33fa1dd7c0.mp3"
+    },
+    {
+      "index": 4804,
+      "job_id": "41a07f0b-d67e-4b8e-b61e-5afc710b1759",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134737_41a07f0b-d67e-4b8e-b61e-5afc710b1759.mp3"
+    },
+    {
+      "index": 4805,
+      "job_id": "9dec3c6a-776f-4010-b288-adbfc7dd5882",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134736_9dec3c6a-776f-4010-b288-adbfc7dd5882.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 55.1,
+    "basis": "Provider quotes for confirmed, completed outputs."
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "754c9d8f-8876-475b-9076-9f398ba20881",
+      "5dbfd15e-2a8f-45ae-9ae2-70b8af7575da",
+      "a25d4227-475f-4ecd-a523-12bff7a6d6d5",
+      "4629d113-b011-49d3-8e94-bede24bd7887",
+      "c1cb8a39-efc3-4615-b048-0f53993224d8",
+      "cff3cf90-8260-4a0b-ae7a-3b9fb3e48e67",
+      "0cd7ee80-433e-4354-939e-843d9239e94d",
+      "18c08a73-0921-4ce0-a6ee-738743e8ab52",
+      "67463e51-ce1a-4bd2-a4ad-21e96a1501e2",
+      "fbda742b-3839-4e5f-8217-0c33fa1dd7c0",
+      "41a07f0b-d67e-4b8e-b61e-5afc710b1759",
+      "9dec3c6a-776f-4010-b288-adbfc7dd5882"
+    ],
+    "replacement_indices": []
+  }
+}

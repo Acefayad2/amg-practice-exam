@@ -52,7 +52,7 @@ const envelope = (value = lessonValue(), revision = 0, mutationId = 'mutation-00
 async function send(system, body, options) { const response = await system.handler(request(body, options)); return { response, data: await response.json() }; }
 
 test('server answer schema binds all61 exact current source files and all814 questions', () => {
-  assert.equal(schema.lessons.length, 60); assert.equal(allowedKeys.length, 61);
+  assert.equal(schema.lessons.length, 60); assert.equal(allowedKeys.length, 121); assert.equal(allowedKeys.filter(key => key.startsWith('amg-life-')).length, 61);
   assert.equal(schema.lessons.flatMap(l => l.questions).length, 512);
   assert.equal(schema.forms.flatMap(f => f.questions).length, 302);
   for (const [path, expected] of Object.entries(schema.sourceHashes)) assert.equal(createHash('sha256').update(fs.readFileSync(new URL('../' + path, import.meta.url))).digest('hex'), expected, path);
@@ -325,4 +325,49 @@ test('source adapter uses signed server session, strong store and Netlify enviro
   assert(!source.includes('nf_jwt'));
   assert(!source.includes('VITE_APPS_SCRIPT_URL'), 'Legacy build-time endpoint must never become a reporting destination');
   assert.equal(hash({ a: 1, b: 2 }), hash({ b: 2, a: 1 }));
+});
+
+test('health track binds 60 lessons, 484 answers and exact current source files', () => {
+  const health = schema.tracks.health;
+  assert.equal(health.lessons.length, 60); assert.equal(health.forms.length, 0);
+  assert.equal(health.lessons.flatMap(l => l.questions).length, 484);
+  assert.equal(Object.keys(health.sourceHashes).length, 60);
+  assert(!allowedKeys.includes(health.assessmentKey), 'the Health assessment key opens only when Health forms exist');
+  for (const [path, expected] of Object.entries(health.sourceHashes)) assert.equal(createHash('sha256').update(fs.readFileSync(new URL('../' + path, import.meta.url))).digest('hex'), expected, path);
+  const ids = new Set();
+  for (const lesson of health.lessons) {
+    assert.equal(lesson.key, 'amg-health-lesson-' + lesson.id + '-v' + lesson.version); assert(allowedKeys.includes(lesson.key));
+    const window = {}; vm.runInNewContext(fs.readFileSync(new URL('../public/course/health/lesson-' + lesson.id + '/lesson-data.js', import.meta.url), 'utf8'), { window });
+    const data = Object.values(window)[0];
+    assert.equal(data.key, lesson.key); assert.equal(data.version, lesson.version);
+    assert.equal(lesson.maxPosition, data.duration ? Math.ceil(data.duration) + 2 : 0);
+    assert.equal(data.pending, !data.video, 'a lesson without video must publish as a text edition');
+    data.questions.forEach((q, i) => {
+      assert.match(q.id, /^H\d{2}-\d{2}$/); assert(!ids.has(q.id), q.id); ids.add(q.id);
+      assert.equal(q.id, lesson.questions[i].id); assert.equal(q.answer, lesson.questions[i].answer); assert.equal(q.options.length, lesson.questions[i].options);
+    });
+  }
+  const lifeIds = new Set(schema.lessons.flatMap(l => l.questions.map(q => q.id)));
+  assert.equal([...ids].filter(id => lifeIds.has(id)).length, 0, 'Health question ids never collide with Life ids');
+});
+
+test('health lessons validate, save through the reading path and report per track without touching Life totals', async () => {
+  const health = schema.tracks.health, lesson = health.lessons[0];
+  for (const item of health.lessons) {
+    assert.deepEqual(validateValue(item.key, lessonValue(item), NOW), lessonValue(item));
+    const done = lessonValue(item, true); done.videoEnded = false; done.transcriptRead = true; validateValue(item.key, done, NOW);
+  }
+  const playing = lessonValue(lesson); playing.position = 5;
+  assert.throws(() => validateValue(lesson.key, playing, NOW), /position/i, 'a text-edition lesson has no playback position');
+  const s = setup(), value = lessonValue(lesson, true); value.videoEnded = false; value.transcriptRead = true;
+  const saved = await send(s, envelope(value, 0, 'mutation-h001', lesson.key));
+  assert.equal(saved.response.status, 200); assert.equal(saved.data.record.revision, 1);
+  const loaded = await send(s, undefined);
+  assert.deepEqual(loaded.data.records[lesson.key].value, value);
+  const report = (await send(s, undefined, { query: '?report=1' })).data;
+  assert.equal(report.tracks.health.completedLessons, 1); assert.equal(report.tracks.health.totalLessons, 60);
+  assert.equal(report.tracks.health.lessons[0].correct, lesson.questions.length);
+  assert.equal(report.summary.completedLessons, 0); assert.equal(report.summary.totalLessons, 60); assert.equal(report.lessons.length, 60);
+  assert.equal((await send(s, envelope(value, 0, 'mutation-h002', 'amg-health-lesson-61-v1'))).response.status, 400);
+  assert.equal((await send(s, envelope({ version: 1, attempts: [], seen: [], reviews: {}, lessonImports: {} }, 0, 'mutation-h003', health.assessmentKey))).response.status, 400);
 });

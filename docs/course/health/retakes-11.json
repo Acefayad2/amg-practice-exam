@@ -1,0 +1,116 @@
+{
+  "created": "2026-11-10",
+  "status": "reviewed",
+  "params": [
+    {
+      "index": 503,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Because the insurer drafted the contract, ambiguous language is interpreted the way a reasonable insured would understand it. The reasonable expectations doctrine goes a step further in some courts: coverage the buyer reasonably expected may be honored even if fine print says otherwise. Two more principles shape health insurance. Indemnity means the policy restores a loss but should not create profit, which is why medical expense plans reimburse actual charges. The last principle is good faith. Both sides owe each other the highest degree of honesty. The exam calls that duty “utmost good faith.” Rosa relies on the insurer to keep its promises, and the insurer relies on the answers she gives."
+      }
+    },
+    {
+      "index": 4000,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Elena, a dental hygienist, explains the categories to Theo. Diagnostic and preventive services are exams, x-rays, cleanings, fluoride and sealants. Restorative services repair teeth: fillings, crowns, inlays. Oral surgery covers extractions and other surgery of the mouth. Endodontics treats the tooth’s interior, chiefly root canals. Periodontics treats the gums and bone. If Theo loses a tooth, a specialist can replace it with a bridge, a denture or an implant. That specialty is called prosthodontics. Orthodontics straightens teeth with braces, often limited to children and carrying its own lifetime maximum. Plans group these categories into tiers that determine how much the plan pays."
+      }
+    },
+    {
+      "index": 4503,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A Maryland supplement may exclude a pre-existing condition for no more than six months, and may define one no more strictly than a condition for which a physician gave advice or treatment in the six months before coverage. Time spent under qualifying prior health coverage can shorten that waiting period. When one supplement replaces another, the applicant gets credit for time already served for benefits the old policy covered. Compensation rules protect buyers from churning: a producer’s first-year commission may not exceed two hundred percent of the renewal commission, renewal commissions must continue for a set number of years, and a replacement sale earns only the renewal rate, so there is no bonus for moving Gloria from one supplement to another."
+      }
+    }
+  ],
+  "estimates": [
+    {
+      "index": 503,
+      "cost": {
+        "credits": 4.7,
+        "credits_exact": 4.7
+      }
+    },
+    {
+      "index": 4000,
+      "cost": {
+        "credits": 4.7,
+        "credits_exact": 4.7
+      }
+    },
+    {
+      "index": 4503,
+      "cost": {
+        "credits": 5.1,
+        "credits_exact": 5.1
+      }
+    }
+  ],
+  "originals": [
+    {
+      "index": 503,
+      "job_id": "1949165f-de06-4948-9ee5-d7f9acc7e694",
+      "reason": "Rephrase the good-faith definition so the exam term is introduced in context."
+    },
+    {
+      "index": 4000,
+      "job_id": "63f8c76f-ef21-49dd-842f-027d49f8d737",
+      "reason": "Introduce prosthodontics with a spoken example before naming the specialty."
+    },
+    {
+      "index": 4503,
+      "job_id": "ab85baac-dd2e-4d13-8691-1695c8a45e45",
+      "reason": "Replace an ambiguous pronunciation with a direct explanation of qualifying prior coverage."
+    }
+  ],
+  "jobs": [
+    {
+      "index": 503,
+      "job_id": "1f6ab4c5-42e4-405f-ad34-60053ef0aadd",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_140011_1f6ab4c5-42e4-405f-ad34-60053ef0aadd.mp3"
+    },
+    {
+      "index": 4000,
+      "job_id": "2a4f5915-b0db-4b0f-bbe0-8679eb502799",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_140011_2a4f5915-b0db-4b0f-bbe0-8679eb502799.mp3"
+    },
+    {
+      "index": 4503,
+      "job_id": "524b8758-4012-4075-9875-7f31109d05f7",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_140011_524b8758-4012-4075-9875-7f31109d05f7.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 14.5
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "1f6ab4c5-42e4-405f-ad34-60053ef0aadd",
+      "2a4f5915-b0db-4b0f-bbe0-8679eb502799",
+      "524b8758-4012-4075-9875-7f31109d05f7"
+    ]
+  }
+}

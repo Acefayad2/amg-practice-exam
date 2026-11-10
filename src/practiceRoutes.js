@@ -1,6 +1,7 @@
 export const PRACTICE_ROUTES = Object.freeze({
   home: '/',
   health: '/health/',
+  healthCourse: '/course/health/',
   healthGuide: '/Accident%20%26%20Health%20Study%20Guide.docx',
   lifeCourse: '/course/',
   lifeExams: '/course/assessments/',

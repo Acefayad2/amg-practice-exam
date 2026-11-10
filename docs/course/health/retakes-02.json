@@ -1,0 +1,52 @@
+{
+  "created": "2026-11-10",
+  "status": "reviewed",
+  "params": [
+    {
+      "index": 502,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The policy is personal. It covers Rosa, and she cannot hand it to a neighbor; the insurer agreed to insure her health, not anyone’s. It is unilateral. Only the insurer makes an enforceable promise. Rosa is not legally required to keep paying, but if she stops, the promise lapses. It is conditional. The insurer’s duty to pay depends on conditions being met, such as premiums paid and proof of loss submitted on time. When a question asks why an insured cannot be sued for nonpayment, the answer is that the contract is unilateral."
+      }
+    }
+  ],
+  "estimates": [
+    {
+      "index": 502,
+      "cost": {
+        "credits": 3.6,
+        "credits_exact": 3.6
+      }
+    }
+  ],
+  "originals": [
+    {
+      "index": 502,
+      "job_id": "687966b4-ff61-46a1-92e8-925dac181a75",
+      "reason": "Both independent transcripts report an extra 'insurer' in the question about an insured who stops paying."
+    }
+  ],
+  "jobs": [
+    {
+      "index": 502,
+      "job_id": "0d3b2f7d-acce-46b8-8887-75631acaa8eb",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_125958_0d3b2f7d-acce-46b8-8887-75631acaa8eb.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 3.6
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "0d3b2f7d-acce-46b8-8887-75631acaa8eb"
+    ]
+  }
+}
