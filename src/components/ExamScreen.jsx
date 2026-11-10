@@ -185,6 +185,7 @@ export default function ExamScreen({ exam, user, onFinish, onHome }) {
                 return (
                   <button
                     key={letter}
+                    className="practice-answer" data-revealed={revealed}
                     onClick={() => handleSelect(letter)}
                     disabled={revealed}
                     style={{
