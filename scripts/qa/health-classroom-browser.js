@@ -22,11 +22,12 @@ async page => {
       const ready=()=>p.waitForFunction(()=>!document.body.classList.contains('account-loading') && !document.querySelector('main')?.inert);
       await p.goto(origin+'/course/health/');await ready();
       const card=p.locator('.practice-shortcut');
-      if(!(await card.innerText()).includes('Find the Health practice exam')) throw Error('Missing visible Health exam link.');
+      if(!(await card.innerText()).includes('Open Health mock exams')) throw Error('Missing visible Health exam link.');
       await p.screenshot({path:'output/playwright/health-'+width+'-home.png'});
       await card.click();await ready();
-      if(await p.getByRole('link',{name:'Open the practice exam'}).getAttribute('href')!=='/practice/health/') throw Error('Wrong exam destination.');
-      await p.getByRole('link',{name:/Browse Health lessons/}).click();await ready();
+      await p.getByRole('button',{name:'Start exam A',exact:true}).waitFor();
+      if(await p.getByRole('link',{name:'open the untimed Health practice test',includeHidden:true}).getAttribute('href')!=='/practice/health/') throw Error('Wrong exam destination.');
+      await p.locator('.app-nav a').filter({hasText:/^Course$/}).click();await ready();
       await p.locator('#continue-course').click();await ready();
       const audio=p.locator('#lesson-audio'), select=p.locator('#audio-section');
       if(await audio.count()!==1)throw Error('Missing lesson audio player.');

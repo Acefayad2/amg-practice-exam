@@ -61,7 +61,7 @@ The review branch includes 60 lessons with six playable sections each. The files
 
 **Review method.** Each section was decoded end to end and transcribed locally. A second transcription and individual review decisions resolved disagreements over wording, pronunciations and numbers. Omissions, repeated lines and wrong figures were corrected rather than accepted on similarity alone. Mastered files were decoded again, checked for clipping and hashed. Review selections are in [narration-reviewed.json](narration-reviewed.json); [wording revisions](narration-wording.json), [speech edits](narration-edits.json), [documented exceptions](narration-decisions.json) and the per-batch receipts preserve the trail. These are automated speech checks plus editorial review, not a human listening panel.
 
-The lessons include 484 original quiz questions. Reading or listening unlocks the quiz without marking a video as watched. The available 90-question Health practice exam is linked; the separate diagnostic and three new timed mock exams are not released. Full lesson videos and coordinator approval are separate from this narration release.
+The lessons include 484 original quiz questions. Reading or listening unlocks the quiz without marking a video as watched. Learners can choose three timed Health mock exams or the separate 90-question untimed practice test. A dedicated diagnostic remains planned. Full lesson videos and coordinator approval are separate from this narration release.
 `;
 fs.writeFileSync(path.join(dir,'NARRATION-REVIEW.md'),review);
 console.log(JSON.stringify(numbers));
