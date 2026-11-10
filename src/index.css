@@ -36,6 +36,23 @@ button.track-secondary { font-family:inherit; cursor:pointer; }
 .practice-footer { margin-top:36px; color:#718096; font-size:13px; text-align:center; }
 .route-message { padding:32px; font-family:system-ui,sans-serif; }
 
+/* Practice drill and exam screens use the same AMG Matchup palette. */
+body { font-family: 'Avenir Next', Avenir, Arial, sans-serif; background:#e8e5dc; color:#103c30; }
+.practice-eyebrow,.track-label { color:#987723; }
+.practice-hero h1,.practice-track h2 { color:#103c30; font-family:Georgia,'Times New Roman',serif; font-weight:600; }
+.practice-hero p,.practice-track p,.practice-footer { color:#66736c; }
+.practice-track,.register-card,.exam-question-card,.results-score-card { border-color:#e5e1d4 !important; background:#f2f0e9 !important; box-shadow:0 16px 36px rgba(27,39,30,.12) !important; }
+.health-track { border-color:#c49a29 !important; }
+.track-facts div { background:#faf9f5; }
+.track-facts dd,.track-link { color:#0d4a39; }
+.track-primary { border-color:#0d4a39; background:#0d4a39; color:#fff; }
+.track-secondary { border-color:#dedacd; background:#faf9f5; color:#0d4a39; }
+.exam-question-card p:first-of-type,.register-card h2 { font-family:Georgia,'Times New Roman',serif; color:#103c30; }
+.exam-question-card input,.register-card input { color-scheme:light; }
+.exam-topbar,.results-topbar { background:#f8f7f1 !important; color:#103c30 !important; border-bottom:1px solid #dedacd; }
+.exam-topbar button,.results-topbar button { color:#103c30 !important; border-color:#c9c6b9 !important; }
+.exam-topbar>div:first-child>span:first-child,.results-topbar>span:first-child { font-family:Georgia,'Times New Roman',serif; letter-spacing:.13em !important; }
+
 @media (max-width:720px) {
   .practice-home { justify-content:flex-start; padding:34px 14px 28px; }
   .practice-hero { margin-bottom:26px; }
