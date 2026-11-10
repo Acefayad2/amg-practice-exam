@@ -47,6 +47,8 @@ body { font-family: 'Avenir Next', Avenir, Arial, sans-serif; background:#e8e5dc
 .track-facts dd,.track-link { color:#0d4a39; }
 .track-primary { border-color:#0d4a39; background:#0d4a39; color:#fff; }
 .track-secondary { border-color:#dedacd; background:#faf9f5; color:#0d4a39; }
+button.track-link { border:0; background:transparent; box-shadow:none; color:#0d4a39; text-decoration:underline; text-underline-offset:3px; }
+button.track-link:hover { color:#176149; background:transparent; }
 .exam-question-card p:first-of-type,.register-card h2 { font-family:Georgia,'Times New Roman',serif; color:#103c30; }
 .exam-question-card input,.register-card input { color-scheme:light; }
 .exam-topbar,.results-topbar { background:#f8f7f1 !important; color:#103c30 !important; border-bottom:1px solid #dedacd; }
