@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-const BLUE = '#1F4E79'
+const BLUE = '#0D4A39'
 
 export default function RegisterScreen({ exam, onStart, onBack, mockExamsUrl }) {
   const [name, setName] = useState('')
@@ -23,24 +23,24 @@ export default function RegisterScreen({ exam, onStart, onBack, mockExamsUrl }) 
   }
 
   return (
-    <div style={{ minHeight: '100vh', background: '#f0f4f8', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: 24 }}>
-      <div className="register-card" style={{ background: '#fff', borderRadius: 18, padding: '40px 44px', width: '100%', maxWidth: 460, boxShadow: '0 4px 32px rgba(0,0,0,0.10)', border: `2px solid #EBF3FB` }}>
+    <div style={{ minHeight: '100vh', background: '#e8e5dc', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: 24 }}>
+      <div className="register-card" style={{ background: '#fff', borderRadius: 18, padding: '40px 44px', width: '100%', maxWidth: 460, boxShadow: '0 4px 32px rgba(0,0,0,0.10)', border: `2px solid #f2f0e9` }}>
         {/* Back */}
-        <button onClick={onBack} style={{ background: 'none', border: 'none', color: '#718096', fontSize: 14, fontWeight: 600, cursor: 'pointer', padding: 0, marginBottom: 24, display: 'flex', alignItems: 'center', gap: 6 }}>
+        <button onClick={onBack} style={{ background: 'none', border: 'none', color: '#66736c', fontSize: 14, fontWeight: 600, cursor: 'pointer', padding: 0, marginBottom: 24, display: 'flex', alignItems: 'center', gap: 6 }}>
           ← Back to exams
         </button>
 
         {/* Header */}
         <div style={{ marginBottom: 28 }}>
           <div style={{ fontSize: 12, fontWeight: 700, letterSpacing: 2, color: BLUE, textTransform: 'uppercase', marginBottom: 6 }}>AMG Practice Exam</div>
-          <h2 style={{ fontSize: 22, fontWeight: 800, color: '#1a202c', marginBottom: 6, lineHeight: 1.3 }}>{exam.title}</h2>
-          <p style={{ color: '#718096', fontSize: 14 }}>{exam.practiceOnly ? 'Enter your details to begin the life practice drill. This review edition is untimed and gives immediate feedback.' : 'Enter your details to begin. Your result is shown when you finish.'}</p>
+          <h2 style={{ fontSize: 22, fontWeight: 800, color: '#103c30', marginBottom: 6, lineHeight: 1.3 }}>{exam.title}</h2>
+          <p style={{ color: '#66736c', fontSize: 14 }}>{exam.practiceOnly ? 'Enter your details to begin the life practice drill. This review edition is untimed and gives immediate feedback.' : 'Enter your details to begin. Your result is shown when you finish.'}</p>
           {mockExamsUrl && <p><a href={mockExamsUrl}>Open the Health Mock Exam</a></p>}
         </div>
 
         <form onSubmit={handleStart} noValidate>
           <div style={{ marginBottom: 18 }}>
-            <label style={{ display: 'block', fontWeight: 600, fontSize: 14, color: '#2d3748', marginBottom: 6 }}>
+            <label style={{ display: 'block', fontWeight: 600, fontSize: 14, color: '#304940', marginBottom: 6 }}>
               Full Name
             </label>
             <input
@@ -50,8 +50,8 @@ export default function RegisterScreen({ exam, onStart, onBack, mockExamsUrl }) 
               placeholder="e.g. John Doe"
               style={{
                 width: '100%', padding: '12px 14px', borderRadius: 9, fontSize: 15,
-                border: `2px solid ${errors.name ? '#ef5350' : '#e2e8f0'}`,
-                outline: 'none', fontFamily: 'inherit', color: '#1a202c',
+                border: `2px solid ${errors.name ? '#ef5350' : '#dedacd'}`,
+                outline: 'none', fontFamily: 'inherit', color: '#103c30',
                 boxSizing: 'border-box',
               }}
             />
@@ -59,7 +59,7 @@ export default function RegisterScreen({ exam, onStart, onBack, mockExamsUrl }) 
           </div>
 
           <div style={{ marginBottom: 28 }}>
-            <label style={{ display: 'block', fontWeight: 600, fontSize: 14, color: '#2d3748', marginBottom: 6 }}>
+            <label style={{ display: 'block', fontWeight: 600, fontSize: 14, color: '#304940', marginBottom: 6 }}>
               Email Address
             </label>
             <input
@@ -69,15 +69,15 @@ export default function RegisterScreen({ exam, onStart, onBack, mockExamsUrl }) 
               placeholder="e.g. danielle@example.com"
               style={{
                 width: '100%', padding: '12px 14px', borderRadius: 9, fontSize: 15,
-                border: `2px solid ${errors.email ? '#ef5350' : '#e2e8f0'}`,
-                outline: 'none', fontFamily: 'inherit', color: '#1a202c',
+                border: `2px solid ${errors.email ? '#ef5350' : '#dedacd'}`,
+                outline: 'none', fontFamily: 'inherit', color: '#103c30',
                 boxSizing: 'border-box',
               }}
             />
             {errors.email && <div style={{ color: '#c62828', fontSize: 13, marginTop: 5, fontWeight: 500 }}>{errors.email}</div>}
           </div>
 
-          <div style={{ background: '#EBF3FB', borderRadius: 9, padding: '12px 16px', marginBottom: 24, fontSize: 13, color: '#2d3748' }}>
+          <div style={{ background: '#f2f0e9', borderRadius: 9, padding: '12px 16px', marginBottom: 24, fontSize: 13, color: '#304940' }}>
             <strong style={{ color: BLUE }}>📊 Score tracking:</strong> {exam.practiceOnly ? 'Your score is shown when you finish. Instructor reporting depends on the configured connection; this screen does not confirm that a score was saved.' : 'Your result is shown when you finish. If instructor reporting is configured, your name, email and result may be submitted, but this screen does not confirm that it was saved. Current practice progress resets if you reload.'}
           </div>
 

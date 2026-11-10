@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-const BLUE = '#1F4E79'
+const BLUE = '#0D4A39'
 
 const TOPIC_MAP = {
   // Health exam topics
@@ -57,7 +57,7 @@ export default function ResultsScreen({ exam, results, onRetry, onHome }) {
   })
 
   return (
-    <div style={{ minHeight: '100vh', background: '#f0f4f8' }}>
+    <div style={{ minHeight: '100vh', background: '#e8e5dc' }}>
       {/* Top bar */}
       <div className="results-topbar" style={{ background: BLUE, color: '#fff', padding: '14px 28px', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
         <span style={{ fontWeight: 800, fontSize: 18, letterSpacing: 1 }}>AMG</span>
@@ -100,7 +100,7 @@ export default function ResultsScreen({ exam, results, onRetry, onHome }) {
           display: 'flex', gap: 32, alignItems: 'center', flexWrap: 'wrap',
         }}>
           <div style={{ flex: 1, minWidth: 200 }}>
-            <div style={{ fontSize: 13, fontWeight: 700, color: '#718096', letterSpacing: 2, textTransform: 'uppercase', marginBottom: 6 }}>
+            <div style={{ fontSize: 13, fontWeight: 700, color: '#66736c', letterSpacing: 2, textTransform: 'uppercase', marginBottom: 6 }}>
               {exam.title}
             </div>
             <div style={{ fontSize: 56, fontWeight: 900, color: passed ? '#2e7d32' : '#c62828', lineHeight: 1, marginBottom: 6 }}>
@@ -114,7 +114,7 @@ export default function ResultsScreen({ exam, results, onRetry, onHome }) {
             }}>
               {exam.practiceOnly ? (passed ? 'Practice target met' : 'Keep practicing') : (passed ? '✓ PASSED' : '✗ FAILED')} — {correct}/{TOTAL} correct
             </div>
-            <div style={{ marginTop: 10, color: '#718096', fontSize: 14 }}>
+            <div style={{ marginTop: 10, color: '#66736c', fontSize: 14 }}>
               {exam.practiceOnly ? 'AMG drill target: 85%. This is not an official passing score or a readiness prediction.' : 'Passing score: 63/90 (70%)'}
             </div>
           </div>
@@ -142,7 +142,7 @@ export default function ResultsScreen({ exam, results, onRetry, onHome }) {
               style={{
                 flex: 1, padding: '11px 0', border: 'none', borderRadius: 8,
                 background: activeTab === id ? BLUE : 'transparent',
-                color: activeTab === id ? '#fff' : '#4a5568',
+                color: activeTab === id ? '#fff' : '#66736c',
                 fontWeight: 700, fontSize: 14, cursor: 'pointer', transition: 'all 0.15s',
               }}
             >
@@ -166,12 +166,12 @@ export default function ResultsScreen({ exam, results, onRetry, onHome }) {
                     return (
                       <div key={topic}>
                         <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: 4 }}>
-                          <span style={{ fontWeight: 600, color: '#1a202c', fontSize: 14 }}>{topic}</span>
+                          <span style={{ fontWeight: 600, color: '#103c30', fontSize: 14 }}>{topic}</span>
                           <span style={{ fontSize: 13, color: topicPct < 50 ? '#c62828' : '#E65100', fontWeight: 700 }}>
                             {stats.correct}/{stats.total} ({topicPct}%)
                           </span>
                         </div>
-                        <div style={{ height: 8, background: '#e2e8f0', borderRadius: 4, overflow: 'hidden' }}>
+                        <div style={{ height: 8, background: '#dedacd', borderRadius: 4, overflow: 'hidden' }}>
                           <div style={{ height: '100%', width: `${topicPct}%`, background: topicPct < 50 ? '#ef5350' : '#FF9800', borderRadius: 4, transition: 'width 0.5s' }} />
                         </div>
                       </div>
@@ -194,12 +194,12 @@ export default function ResultsScreen({ exam, results, onRetry, onHome }) {
                     return (
                       <div key={topic}>
                         <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: 4 }}>
-                          <span style={{ fontWeight: 600, color: '#1a202c', fontSize: 14 }}>{topic}</span>
+                          <span style={{ fontWeight: 600, color: '#103c30', fontSize: 14 }}>{topic}</span>
                           <span style={{ fontSize: 13, color, fontWeight: 700 }}>
                             {stats.correct}/{stats.total} ({topicPct}%)
                           </span>
                         </div>
-                        <div style={{ height: 8, background: '#e2e8f0', borderRadius: 4, overflow: 'hidden' }}>
+                        <div style={{ height: 8, background: '#dedacd', borderRadius: 4, overflow: 'hidden' }}>
                           <div style={{ height: '100%', width: `${topicPct}%`, background: color, borderRadius: 4 }} />
                         </div>
                       </div>
@@ -210,16 +210,16 @@ export default function ResultsScreen({ exam, results, onRetry, onHome }) {
 
             {/* Score needed */}
             {exam.practiceOnly && (
-              <div style={{ background: '#EBF3FB', borderRadius: 12, padding: '20px 24px', lineHeight: 1.6 }}>
+              <div style={{ background: '#f2f0e9', borderRadius: 12, padding: '20px 24px', lineHeight: 1.6 }}>
                 <h4 style={{ color: BLUE, marginBottom: 8 }}>Your next study step</h4>
                 <p>Review missed and unanswered concepts, then try new scenarios. Repeating this fixed drill can improve memory without proving mastery. It does not cover every exam topic.</p>
                 <p><a href="/course/coverage/">See the Maryland Life coverage review and mapped concepts →</a></p>
               </div>
             )}
             {!exam.practiceOnly && !passed && (
-              <div style={{ background: '#EBF3FB', border: `2px solid ${BLUE}`, borderRadius: 14, padding: '20px 24px' }}>
+              <div style={{ background: '#f2f0e9', border: `2px solid ${BLUE}`, borderRadius: 14, padding: '20px 24px' }}>
                 <h4 style={{ color: BLUE, fontWeight: 700, marginBottom: 8 }}>What You Need to Pass</h4>
-                <p style={{ color: '#2d3748', fontSize: 14, lineHeight: 1.6 }}>
+                <p style={{ color: '#304940', fontSize: 14, lineHeight: 1.6 }}>
                   You scored <strong>{correct}/90 ({pct}%)</strong>. To pass, you need <strong>63/90 (70%)</strong> — that's <strong>{PASS_SCORE - correct} more correct answers</strong>.
                   Focus on the red and orange topic areas above, then retry the exam.
                 </p>
@@ -229,7 +229,7 @@ export default function ResultsScreen({ exam, results, onRetry, onHome }) {
             {!exam.practiceOnly && passed && (
               <div style={{ background: '#E8F5E9', border: '2px solid #2e7d32', borderRadius: 14, padding: '20px 24px' }}>
                 <h4 style={{ color: '#2e7d32', fontWeight: 700, marginBottom: 8 }}>🎉 Congratulations!</h4>
-                <p style={{ color: '#2d3748', fontSize: 14, lineHeight: 1.6 }}>
+                <p style={{ color: '#304940', fontSize: 14, lineHeight: 1.6 }}>
                   You passed with <strong>{correct}/90 ({pct}%)</strong> — above the 70% passing threshold. You're ready for the real Prometric exam!
                 </p>
               </div>
@@ -248,8 +248,8 @@ export default function ResultsScreen({ exam, results, onRetry, onHome }) {
                   style={{
                     padding: '8px 16px', borderRadius: 8, fontSize: 13, fontWeight: 700, cursor: 'pointer',
                     background: filter === val ? BLUE : '#fff',
-                    color: filter === val ? '#fff' : '#4a5568',
-                    border: filter === val ? `2px solid ${BLUE}` : '2px solid #e2e8f0',
+                    color: filter === val ? '#fff' : '#66736c',
+                    border: filter === val ? `2px solid ${BLUE}` : '2px solid #dedacd',
                   }}
                 >
                   {label}
@@ -262,7 +262,7 @@ export default function ResultsScreen({ exam, results, onRetry, onHome }) {
                 <ReviewCard key={i} result={r} index={items.indexOf(r)} />
               ))}
               {filteredItems.length === 0 && (
-                <div style={{ textAlign: 'center', padding: '40px', color: '#718096', fontWeight: 600 }}>
+                <div style={{ textAlign: 'center', padding: '40px', color: '#66736c', fontWeight: 600 }}>
                   {filter === 'wrong' ? '🎉 No wrong answers!' : 'No items to show.'}
                 </div>
               )}
@@ -299,10 +299,10 @@ function ReviewCard({ result, index }) {
           {correct ? '✓' : '✗'}
         </span>
         <div style={{ flex: 1 }}>
-          <div style={{ fontSize: 12, color: '#718096', fontWeight: 600, marginBottom: 3 }}>
+          <div style={{ fontSize: 12, color: '#66736c', fontWeight: 600, marginBottom: 3 }}>
             Question {index + 1}
           </div>
-          <p style={{ fontSize: 15, fontWeight: 600, color: '#1a202c', lineHeight: 1.45, margin: 0 }}>
+          <p style={{ fontSize: 15, fontWeight: 600, color: '#103c30', lineHeight: 1.45, margin: 0 }}>
             {q.q}
           </p>
         </div>
@@ -310,7 +310,7 @@ function ReviewCard({ result, index }) {
       </div>
 
       {open && (
-        <div style={{ borderTop: '1px solid #f0f4f8', padding: '16px 22px 20px' }}>
+        <div style={{ borderTop: '1px solid #e8e5dc', padding: '16px 22px 20px' }}>
           {/* Answer choices */}
           <div style={{ display: 'flex', flexDirection: 'column', gap: 6, marginBottom: 16 }}>
             {q.choices.map((choice) => {
@@ -320,9 +320,9 @@ function ReviewCard({ result, index }) {
               return (
                 <div key={letter} style={{
                   padding: '10px 14px', borderRadius: 8, fontSize: 14,
-                  background: isCorrect ? '#E8F5E9' : isUserWrong ? '#FFEBEE' : '#fafafa',
-                  border: `1px solid ${isCorrect ? '#a5d6a7' : isUserWrong ? '#ef9a9a' : '#e2e8f0'}`,
-                  color: isCorrect ? '#2e7d32' : isUserWrong ? '#c62828' : '#4a5568',
+                  background: isCorrect ? '#E8F5E9' : isUserWrong ? '#FFEBEE' : '#faf9f5',
+                  border: `1px solid ${isCorrect ? '#a5d6a7' : isUserWrong ? '#ef9a9a' : '#dedacd'}`,
+                  color: isCorrect ? '#2e7d32' : isUserWrong ? '#c62828' : '#66736c',
                   fontWeight: isCorrect || isUserWrong ? 700 : 400,
                   display: 'flex', alignItems: 'center', gap: 8,
                 }}>
@@ -343,9 +343,9 @@ function ReviewCard({ result, index }) {
           )}
 
           {/* Explanation */}
-          <div style={{ background: '#EBF3FB', border: `1px solid #90CAF9`, borderRadius: 10, padding: '14px 16px' }}>
+          <div style={{ background: '#f2f0e9', border: `1px solid #90CAF9`, borderRadius: 10, padding: '14px 16px' }}>
             <div style={{ fontWeight: 700, color: BLUE, fontSize: 13, marginBottom: 6 }}>📖 Explanation</div>
-            <p style={{ color: '#2d3748', fontSize: 14, lineHeight: 1.65, margin: 0 }}>
+            <p style={{ color: '#304940', fontSize: 14, lineHeight: 1.65, margin: 0 }}>
               {q.explanation}
             </p>
           </div>
