@@ -1,3 +1,5 @@
+import { loginCopyFor } from './login-copy.js';
+
 // Only internal learning routes may be a post-entry destination.
 export function sanitizeReturnTo(value, origin) {
   const fallback = '/course/';
@@ -16,6 +18,11 @@ export function sanitizeReturnTo(value, origin) {
 const $ = id => document.getElementById(id);
 const params = new URLSearchParams(location.search);
 const next = sanitizeReturnTo(params.get('next') || params.get('returnTo'), location.origin);
+const entryCopy = loginCopyFor(next);
+$('login-program').textContent = entryCopy.program;
+$('login-description').textContent = entryCopy.description;
+$('login-meta-description').setAttribute('content', entryCopy.meta);
+$('login-footer-program').textContent = 'AMG Learning · ' + entryCopy.program;
 const SESSION_KEY = 'amg-account-session-change';
 let busy = false, epoch = 0;
 const copy = {
