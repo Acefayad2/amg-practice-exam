@@ -1,6 +1,6 @@
 {
-  "created": null,
-  "status": "not_submitted",
+  "created": "2026-11-10",
+  "status": "reviewed",
   "lessons": [
     5,
     6
@@ -102,7 +102,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "AD and D pays a principal sum if an accident causes death, usually within a stated period after the injury. It pays a capital sum, often half the principal sum, for loss of a limb or sight in one eye, and typically the full principal sum for two such losses. It pays nothing for death from sickness. AD and D is sold alone, as a rider, or as part of group plans and travel coverage. Because the benefit is a fixed amount rather than reimbursement of bills, it is a valued benefit, and the accident definition in Lesson one decides whether it responds."
+        "prompt": "A D and D pays a principal sum if an accident causes death, usually within a stated period after the injury. It pays a capital sum, often half the principal sum, for loss of a limb or sight in one eye, and typically the full principal sum for two such losses. It pays nothing for death from sickness. A D and D is sold alone, as a rider, or as part of group plans and travel coverage. Because the benefit is a fixed amount rather than reimbursement of bills, it is a valued benefit, and the accident definition in Lesson one decides whether it responds."
       }
     },
     {
@@ -182,7 +182,7 @@
     },
     {
       "index": 602,
-      "characters": 551,
+      "characters": 553,
       "credits": 3.7
     },
     {
@@ -201,6 +201,211 @@
       "credits": 4.1
     }
   ],
-  "estimates": [],
-  "jobs": []
+  "estimates": [
+    {
+      "index": 500,
+      "cost": {
+        "credits": 3.9,
+        "credits_exact": 3.9
+      }
+    },
+    {
+      "index": 501,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 502,
+      "cost": {
+        "credits": 3.6,
+        "credits_exact": 3.6
+      }
+    },
+    {
+      "index": 503,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 504,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 505,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 600,
+      "cost": {
+        "credits": 3.9,
+        "credits_exact": 3.9
+      }
+    },
+    {
+      "index": 601,
+      "cost": {
+        "credits": 3.9,
+        "credits_exact": 3.9
+      }
+    },
+    {
+      "index": 602,
+      "cost": {
+        "credits": 3.7,
+        "credits_exact": 3.7
+      }
+    },
+    {
+      "index": 603,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 604,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 605,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 500,
+      "job_id": "53ee4e6b-c880-47ac-80ec-247909fd4318",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124338_53ee4e6b-c880-47ac-80ec-247909fd4318.mp3"
+    },
+    {
+      "index": 501,
+      "job_id": "bccc1326-e3d4-4448-b1bb-1714c9d09eff",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124338_bccc1326-e3d4-4448-b1bb-1714c9d09eff.mp3"
+    },
+    {
+      "index": 502,
+      "job_id": "687966b4-ff61-46a1-92e8-925dac181a75",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124338_687966b4-ff61-46a1-92e8-925dac181a75.mp3"
+    },
+    {
+      "index": 503,
+      "job_id": "1949165f-de06-4948-9ee5-d7f9acc7e694",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124338_1949165f-de06-4948-9ee5-d7f9acc7e694.mp3"
+    },
+    {
+      "index": 504,
+      "job_id": "6e4f0757-2849-4085-bd60-e40ae8b220de",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124338_6e4f0757-2849-4085-bd60-e40ae8b220de.mp3"
+    },
+    {
+      "index": 505,
+      "job_id": "584246b7-0e75-498e-9dec-8d544fb45729",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124338_584246b7-0e75-498e-9dec-8d544fb45729.mp3"
+    },
+    {
+      "index": 600,
+      "job_id": "431c2a4c-7ca1-4fc0-a1a5-703ee9ea339a",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124503_431c2a4c-7ca1-4fc0-a1a5-703ee9ea339a.mp3"
+    },
+    {
+      "index": 601,
+      "job_id": "8008e897-e7d9-41eb-a43a-a5666e542d24",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124501_8008e897-e7d9-41eb-a43a-a5666e542d24.mp3"
+    },
+    {
+      "index": 602,
+      "job_id": "b42792a9-5e60-450d-90e1-6bdeae972ba6",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124500_b42792a9-5e60-450d-90e1-6bdeae972ba6.mp3"
+    },
+    {
+      "index": 603,
+      "job_id": "0ff73153-e4a6-4f15-a9aa-a8cc44600403",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124501_0ff73153-e4a6-4f15-a9aa-a8cc44600403.mp3"
+    },
+    {
+      "index": 604,
+      "job_id": "4c946b3b-f8b1-488e-9dd9-5e09e183af11",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124500_4c946b3b-f8b1-488e-9dd9-5e09e183af11.mp3"
+    },
+    {
+      "index": 605,
+      "job_id": "84cb9eb7-7da6-4b17-ac05-f1c4420ad334",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124501_84cb9eb7-7da6-4b17-ac05-f1c4420ad334.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 47.5,
+    "basis": "Provider quotes for confirmed, completed outputs."
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "53ee4e6b-c880-47ac-80ec-247909fd4318",
+      "bccc1326-e3d4-4448-b1bb-1714c9d09eff",
+      "6e4f0757-2849-4085-bd60-e40ae8b220de",
+      "584246b7-0e75-498e-9dec-8d544fb45729",
+      "8008e897-e7d9-41eb-a43a-a5666e542d24",
+      "b42792a9-5e60-450d-90e1-6bdeae972ba6",
+      "0ff73153-e4a6-4f15-a9aa-a8cc44600403",
+      "4c946b3b-f8b1-488e-9dd9-5e09e183af11"
+    ],
+    "replacement_indices": [
+      502,
+      503,
+      600,
+      605
+    ]
+  }
 }

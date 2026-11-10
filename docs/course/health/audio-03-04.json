@@ -1,6 +1,6 @@
 {
-  "created": null,
-  "status": "not_submitted",
+  "created": "2026-11-10",
+  "status": "reviewed",
   "lessons": [
     3,
     4
@@ -25,7 +25,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "Private insurers sell voluntary coverage for a premium. Government programs fill gaps the private market leaves. Medicare covers people sixty-five and older and certain disabled people. Medicaid serves people with limited income. Social Security pays disability income after a strict test. Workers compensation covers job injuries under state law, and in Maryland employers buy that coverage from private insurers or the Chesapeake Employers’ Insurance Company. TRICARE serves military families. When a question mixes programs and policies, decide first whether the payer is a private company accepting premium or a government program funded by taxes and mandates."
+        "prompt": "Private insurers sell voluntary coverage for a premium. Government programs fill gaps the private market leaves. Medicare covers people sixty-five and older and certain disabled people. Medicaid serves people with limited income. Social Security pays disability income after a strict test. Workers compensation covers job injuries under state law, and in Maryland employers buy that coverage from private insurers or the Chesapeake Employers’ Insurance Company. TriCare serves military families. When a question mixes programs and policies, decide first whether the payer is a private company accepting premium or a government program funded by taxes and mandates."
       }
     },
     {
@@ -201,6 +201,211 @@
       "credits": 3.7
     }
   ],
-  "estimates": [],
-  "jobs": []
+  "estimates": [
+    {
+      "index": 300,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 301,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 302,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 303,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 304,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 305,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "index": 400,
+      "cost": {
+        "credits": 3.9,
+        "credits_exact": 3.9
+      }
+    },
+    {
+      "index": 401,
+      "cost": {
+        "credits": 3.5,
+        "credits_exact": 3.5
+      }
+    },
+    {
+      "index": 402,
+      "cost": {
+        "credits": 3.5,
+        "credits_exact": 3.5
+      }
+    },
+    {
+      "index": 403,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 404,
+      "cost": {
+        "credits": 3.8,
+        "credits_exact": 3.8
+      }
+    },
+    {
+      "index": 405,
+      "cost": {
+        "credits": 3.7,
+        "credits_exact": 3.7
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 300,
+      "job_id": "f0c07a63-a4cc-4c65-b9dd-fa7539534a19",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124124_f0c07a63-a4cc-4c65-b9dd-fa7539534a19.mp3"
+    },
+    {
+      "index": 301,
+      "job_id": "e2c6c6fd-5f07-4944-a46d-46d774ff01ed",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124125_e2c6c6fd-5f07-4944-a46d-46d774ff01ed.mp3"
+    },
+    {
+      "index": 302,
+      "job_id": "88a4cf87-f621-4a96-b124-6f06e071bedf",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124124_88a4cf87-f621-4a96-b124-6f06e071bedf.mp3"
+    },
+    {
+      "index": 303,
+      "job_id": "7837e638-e1a5-4639-bab2-3d454956d6a7",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124125_7837e638-e1a5-4639-bab2-3d454956d6a7.mp3"
+    },
+    {
+      "index": 304,
+      "job_id": "cef572b6-3555-4821-9a8a-0c1f1a5a51d1",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124124_cef572b6-3555-4821-9a8a-0c1f1a5a51d1.mp3"
+    },
+    {
+      "index": 305,
+      "job_id": "613dbdd3-95ef-4f43-9fae-4557b861c0f8",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124124_613dbdd3-95ef-4f43-9fae-4557b861c0f8.mp3"
+    },
+    {
+      "index": 400,
+      "job_id": "4afeb9e7-7006-474e-a8eb-463402b035be",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124243_4afeb9e7-7006-474e-a8eb-463402b035be.mp3"
+    },
+    {
+      "index": 401,
+      "job_id": "4ddc1ba3-54bb-474f-b1a2-9cc63c672089",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124243_4ddc1ba3-54bb-474f-b1a2-9cc63c672089.mp3"
+    },
+    {
+      "index": 402,
+      "job_id": "38a5d4d5-563f-4cb2-891a-f0764e71c370",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124243_38a5d4d5-563f-4cb2-891a-f0764e71c370.mp3"
+    },
+    {
+      "index": 403,
+      "job_id": "7e63691b-d71f-4ecd-b63d-7fa242727a03",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124244_7e63691b-d71f-4ecd-b63d-7fa242727a03.mp3"
+    },
+    {
+      "index": 404,
+      "job_id": "a44ed02c-794e-476b-af27-a25f416bccd1",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124243_a44ed02c-794e-476b-af27-a25f416bccd1.mp3"
+    },
+    {
+      "index": 405,
+      "job_id": "2f43fe81-e15e-4e7e-a870-a730b2f598d1",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124243_2f43fe81-e15e-4e7e-a870-a730b2f598d1.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 48,
+    "basis": "Provider quotes for confirmed, completed outputs."
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "e2c6c6fd-5f07-4944-a46d-46d774ff01ed",
+      "88a4cf87-f621-4a96-b124-6f06e071bedf",
+      "7837e638-e1a5-4639-bab2-3d454956d6a7",
+      "cef572b6-3555-4821-9a8a-0c1f1a5a51d1",
+      "613dbdd3-95ef-4f43-9fae-4557b861c0f8",
+      "4afeb9e7-7006-474e-a8eb-463402b035be",
+      "4ddc1ba3-54bb-474f-b1a2-9cc63c672089",
+      "38a5d4d5-563f-4cb2-891a-f0764e71c370",
+      "7e63691b-d71f-4ecd-b63d-7fa242727a03",
+      "a44ed02c-794e-476b-af27-a25f416bccd1",
+      "2f43fe81-e15e-4e7e-a870-a730b2f598d1"
+    ],
+    "replacement_indices": [
+      300
+    ]
+  }
 }

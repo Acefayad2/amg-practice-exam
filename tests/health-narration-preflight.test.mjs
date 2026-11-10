@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict';
-import { readFile } from 'node:fs/promises';
+import { readdir, readFile } from 'node:fs/promises';
 import test from 'node:test';
 import {
   integerToWords,
@@ -27,16 +27,24 @@ test('credit projection rounds each request up to a tenth', () => {
   assert.equal(projectedCredits(151), 1.1);
 });
 
-test('generated preflight records the bounded pilot and leaves later batches unsubmitted', async () => {
-  const source = await readFile(new URL('../docs/course/health/NARRATION-PREFLIGHT.md', import.meta.url), 'utf8');
-  assert.match(source, /pilot completed for Lessons 01–02; remaining 29 batches not submitted/);
-  assert.match(source, /used \*\*46\.1 credits\*\*/);
-  assert.match(source, /Review the resulting speech before submitting any later batch/);
+test('the preflight counts actual outputs instead of treating a quote as a recording', async () => {
+  const dir = new URL('../docs/course/health/', import.meta.url);
+  const files = (await readdir(dir)).filter(f => /^audio-.*\.json$/.test(f));
+  const receipts = await Promise.all(files.map(async f => JSON.parse(await readFile(new URL(f, dir)))));
+  const completed = receipts.flatMap(r => r.jobs).filter(j => j.status === 'completed' && j.result_url);
+  assert.equal(new Set(completed.map(j => j.job_id)).size, completed.length);
+  const report = await readFile(new URL('NARRATION-PREFLIGHT.md', dir), 'utf8');
+  assert.ok(report.includes(`${completed.length} of 360 recordings completed`));
+});
+
+test('speech reads a coinsurance split, statute reference, date and initialism as intended', () => {
+  assert.equal(prepareNarration('80/20 coinsurance. Section 15-405. July 1, 2026. ESRD.'),
+    'eighty-twenty coinsurance. Section fifteen dash four oh five. July first, twenty twenty-six. E S R D.');
 });
 
 test('request builder preserves submitted receipts', async () => {
   const receipt = JSON.parse(await readFile(new URL('../docs/course/health/audio-01-02.json', import.meta.url), 'utf8'));
-  assert.equal(receipt.status, 'pilot_completed_pending_review');
+  assert.ok(receipt.jobs.every(j => j.status === 'completed' && j.result_url));
   assert.equal(receipt.jobs.length, 12);
   assert.equal(receipt.credits.credits_exact, 46.1);
 });

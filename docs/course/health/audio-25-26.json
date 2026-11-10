@@ -1,6 +1,6 @@
 {
-  "created": null,
-  "status": "not_submitted",
+  "created": "2026-11-10",
+  "status": "reviewed",
   "lessons": [
     25,
     26
@@ -14,7 +14,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "Rosa wants a health savings account. The law says she may have one only if she is covered by a high-deductible health plan and by no other disqualifying coverage. For two thousand twenty-six an H D H P must have a deductible of at least one thousand seven hundred dollars for self-only coverage or three thousand four hundred dollars for family coverage, and its out-of-pocket maximum may not exceed eight thousand five hundred dollars self-only or seventeen thousand dollars family. The plan may cover preventive care before the deductible. These numbers are indexed each year, so learn the structure and check the current figures before advising a client."
+        "prompt": "Rosa wants a health savings account. The law says she may have one only if she is covered by a high-deductible health plan and by no other disqualifying coverage. For twenty twenty-six an H D H P must have a deductible of at least one thousand seven hundred dollars for self-only coverage or three thousand four hundred dollars for family coverage, and its out-of-pocket maximum may not exceed eight thousand five hundred dollars self-only or seventeen thousand dollars family. The plan may cover preventive care before the deductible. These numbers are indexed each year, so learn the structure and check the current figures before advising a client."
       }
     },
     {
@@ -36,7 +36,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "For two thousand twenty-six the annual H S A contribution limit is four thousand four hundred dollars for self-only coverage and eight thousand seven hundred fifty dollars for family coverage, from all sources combined, with an additional one thousand dollars for account holders age fifty-five or older. Contributions are deductible, or excluded from income when made through payroll. Earnings grow tax-free. Withdrawals for qualified medical expenses, including deductibles, coinsurance, prescriptions, dental and vision care, are tax-free. Withdrawals for anything else are taxed as income plus a twenty percent penalty, which disappears after age sixty-five, death or disability. Unused balances roll over forever and move with the account holder."
+        "prompt": "For twenty twenty-six the annual H S A contribution limit is four thousand four hundred dollars for self-only coverage and eight thousand seven hundred fifty dollars for family coverage, from all sources combined, with an additional one thousand dollars for account holders age fifty-five or older. Contributions are deductible, or excluded from income when made through payroll. Earnings grow tax-free. Withdrawals for qualified medical expenses, including deductibles, coinsurance, prescriptions, dental and vision care, are tax-free. Withdrawals for anything else are taxed as income plus a twenty percent penalty, which disappears after age sixty-five, death or disability. Unused balances roll over forever and move with the account holder."
       }
     },
     {
@@ -69,7 +69,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "Rosa, self-employed and healthy, buys a two thousand twenty-six H D H P with a three thousand dollar deductible and opens an H S A. She may contribute up to four thousand four hundred dollars, deduct it, and pay her deductible from the account tax-free; what she does not spend keeps growing for retirement medical costs. Priya, employing twenty people, compares an H D H P with a one thousand five hundred dollar employer H S A contribution against a traditional plan with a two thousand dollar H R A. Both lower the employees’ exposure; only the H S A money belongs to the employees permanently. Lesson fifty-seven adds flexible spending accounts and the tax rules that tie these accounts together."
+        "prompt": "Rosa, self-employed and healthy, buys a twenty twenty-six H D H P with a three thousand dollar deductible and opens an H S A. She may contribute up to four thousand four hundred dollars, deduct it, and pay her deductible from the account tax-free; what she does not spend keeps growing for retirement medical costs. Priya, employing twenty people, compares an H D H P with a one thousand five hundred dollar employer H S A contribution against a traditional plan with a two thousand dollar H R A. Both lower the employees’ exposure; only the H S A money belongs to the employees permanently. Lesson fifty-seven adds flexible spending accounts and the tax rules that tie these accounts together."
       }
     },
     {
@@ -80,7 +80,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "Marcus’s older daughter is twenty-four, finished with school, working part time and living in another city. Under the Affordable Care Act she may stay on his plan until she turns twenty-six, regardless of whether she is a student, married, financially dependent or living at home. Maryland law separately requires coverage of unmarried child dependents to age twenty-five; the federal rule governs plans subject to it, and the more generous rule applies. When she reaches twenty-six she loses eligibility, which is a qualifying event for COBRA or Maryland continuation and a special enrollment opportunity on Maryland Health Connection."
+        "prompt": "Marcus’s older daughter is twenty-four, finished with school, working part time and living in another city. Under the Affordable Care Act she may stay on his plan until she turns twenty-six, regardless of whether she is a student, married, financially dependent or living at home. Maryland law separately requires coverage of unmarried child dependents to age twenty-five; the federal rule governs plans subject to it, and the more generous rule applies. When she reaches twenty-six she loses eligibility, which is a qualifying event for Cobra or Maryland continuation and a special enrollment opportunity on Maryland Health Connection."
       }
     },
     {
@@ -113,7 +113,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "A plan that existed on March twenty-three, two thousand ten and has not made significant changes, such as cutting benefits, raising coinsurance, or sharply increasing deductibles or employee contributions, is grandfathered. Grandfathered plans must still cover children to twenty-six, drop lifetime limits and stop rescissions, but they are exempt from some rules: free preventive care, essential health benefits, the new appeals process and the rating limits. Each year fewer remain. Once a plan loses grandfathered status it cannot regain it. Marcus’s employer plan lost its status when it doubled the deductible, so it now meets every A C A rule."
+        "prompt": "A plan that existed on March twenty-third, twenty ten and has not made significant changes, such as cutting benefits, raising coinsurance, or sharply increasing deductibles or employee contributions, is grandfathered. Grandfathered plans must still cover children to twenty-six, drop lifetime limits and stop rescissions, but they are exempt from some rules: free preventive care, essential health benefits, the new appeals process and the rating limits. Each year fewer remain. Once a plan loses grandfathered status it cannot regain it. Marcus’s employer plan lost its status when it doubled the deductible, so it now meets every A C A rule."
       }
     },
     {
@@ -142,7 +142,7 @@
   "projected": [
     {
       "index": 2500,
-      "characters": 657,
+      "characters": 651,
       "credits": 4.4
     },
     {
@@ -152,8 +152,8 @@
     },
     {
       "index": 2502,
-      "characters": 751,
-      "credits": 5.1
+      "characters": 745,
+      "credits": 5
     },
     {
       "index": 2503,
@@ -167,7 +167,7 @@
     },
     {
       "index": 2505,
-      "characters": 700,
+      "characters": 694,
       "credits": 4.7
     },
     {
@@ -187,8 +187,8 @@
     },
     {
       "index": 2603,
-      "characters": 649,
-      "credits": 4.4
+      "characters": 643,
+      "credits": 4.3
     },
     {
       "index": 2604,
@@ -201,6 +201,211 @@
       "credits": 4.4
     }
   ],
-  "estimates": [],
-  "jobs": []
+  "estimates": [
+    {
+      "index": 2500,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 2501,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 2502,
+      "cost": {
+        "credits": 5,
+        "credits_exact": 5
+      }
+    },
+    {
+      "index": 2503,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 2504,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 2505,
+      "cost": {
+        "credits": 4.7,
+        "credits_exact": 4.7
+      }
+    },
+    {
+      "index": 2600,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 2601,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 2602,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 2603,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 2604,
+      "cost": {
+        "credits": 4.7,
+        "credits_exact": 4.7
+      }
+    },
+    {
+      "index": 2605,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 2500,
+      "job_id": "9292af5f-f7ca-4cb9-ab92-042488de6b8e",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131047_9292af5f-f7ca-4cb9-ab92-042488de6b8e.mp3"
+    },
+    {
+      "index": 2501,
+      "job_id": "0f6237e0-d0a8-42f6-9727-9cf577b81ca8",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131045_0f6237e0-d0a8-42f6-9727-9cf577b81ca8.mp3"
+    },
+    {
+      "index": 2502,
+      "job_id": "3dacd54a-20a1-44ab-8039-4b37598035e7",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131045_3dacd54a-20a1-44ab-8039-4b37598035e7.mp3"
+    },
+    {
+      "index": 2503,
+      "job_id": "a96352a4-cbd4-40f2-8e3b-d54c0c470ad2",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131045_a96352a4-cbd4-40f2-8e3b-d54c0c470ad2.mp3"
+    },
+    {
+      "index": 2504,
+      "job_id": "175a2cbf-d32e-495b-b991-d6a09b8ad52a",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131045_175a2cbf-d32e-495b-b991-d6a09b8ad52a.mp3"
+    },
+    {
+      "index": 2505,
+      "job_id": "487f6d2d-490f-4020-810c-005de7e2d97d",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131045_487f6d2d-490f-4020-810c-005de7e2d97d.mp3"
+    },
+    {
+      "index": 2600,
+      "job_id": "cc221874-ffda-4106-80a6-3cbb08c61d39",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131152_cc221874-ffda-4106-80a6-3cbb08c61d39.mp3"
+    },
+    {
+      "index": 2601,
+      "job_id": "203ae4fd-646a-4502-a77e-417100ec80ed",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131151_203ae4fd-646a-4502-a77e-417100ec80ed.mp3"
+    },
+    {
+      "index": 2602,
+      "job_id": "c055fc1a-c13f-4b7b-9d02-4ee408f52f0e",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131153_c055fc1a-c13f-4b7b-9d02-4ee408f52f0e.mp3"
+    },
+    {
+      "index": 2603,
+      "job_id": "747bab98-0819-4846-8d87-32d5b192c9aa",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131152_747bab98-0819-4846-8d87-32d5b192c9aa.mp3"
+    },
+    {
+      "index": 2604,
+      "job_id": "5bf7f4f7-23eb-4049-aa3b-3fb3f80ffe33",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131151_5bf7f4f7-23eb-4049-aa3b-3fb3f80ffe33.mp3"
+    },
+    {
+      "index": 2605,
+      "job_id": "713f79ee-8b5f-4ca6-b687-c725597af98f",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131151_713f79ee-8b5f-4ca6-b687-c725597af98f.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 52.7,
+    "basis": "Provider quotes for confirmed, completed outputs."
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "9292af5f-f7ca-4cb9-ab92-042488de6b8e",
+      "0f6237e0-d0a8-42f6-9727-9cf577b81ca8",
+      "a96352a4-cbd4-40f2-8e3b-d54c0c470ad2",
+      "175a2cbf-d32e-495b-b991-d6a09b8ad52a",
+      "487f6d2d-490f-4020-810c-005de7e2d97d",
+      "cc221874-ffda-4106-80a6-3cbb08c61d39",
+      "203ae4fd-646a-4502-a77e-417100ec80ed",
+      "747bab98-0819-4846-8d87-32d5b192c9aa",
+      "5bf7f4f7-23eb-4049-aa3b-3fb3f80ffe33",
+      "713f79ee-8b5f-4ca6-b687-c725597af98f"
+    ],
+    "replacement_indices": [
+      2502,
+      2602
+    ]
+  }
 }

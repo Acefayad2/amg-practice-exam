@@ -1,0 +1,208 @@
+{
+  "created": "2026-11-10",
+  "status": "reviewed",
+  "params": [
+    {
+      "index": 605,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A comprehensive medical plan covers a wide range of hospital, surgical, physician and preventive services, subject to deductibles and co-insurance. A limited policy covers only a narrow peril or pays a small fixed amount: accident-only, hospital indemnity, specified disease, dental-only or vision-only. Limited policies are legitimate supplements, but Maryland requires them to disclose their limited nature so no one mistakes a two hundred dollars a day hospital policy for health insurance. When you classify a policy, use all three axes: individual or group, private or government, limited or comprehensive."
+      }
+    },
+    {
+      "index": 804,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Stand-alone prescription drug and vision care policies pay for those services on a schedule, with copayments or allowances, and exclude everything else. Critical illness policies pay a lump sum when the insured is diagnosed with a listed condition, commonly heart attack, stroke or cancer, often after a short survival period. The money is not tied to bills; the insured may spend it on mortgage payments or travel for treatment. These policies are ex-cepted benefits, outside the Affordable Care Act’s rules, so they may keep lifetime maximums and health underwriting that comprehensive plans cannot."
+      }
+    },
+    {
+      "index": 900,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A pre-existing condition is one for which the insured received medical advice, diagnosis or treatment, or had symptoms a prudent person would have treated, during a look-back period before coverage began, often six to twelve months. Older medical policies excluded such conditions for a waiting period. Federal law now forbids pre-existing condition exclusions in comprehensive medical coverage, so Marcus’s asthma is covered from day one. The exclusion still appears in disability income, long-term care, Medicare supplement, short-term and other ex-cepted-benefit policies, each with its own look-back and exclusion period. Always check the type of coverage before applying the rule."
+      }
+    },
+    {
+      "index": 1804,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Vocabulary signals plan type. An insurance company issues a policy to an insured. A nonprofit health service plan or an H M O issues a subscriber contract or evidence of coverage to a subscriber or member. An employer’s self-funded plan covers participants under a plan document governed by Erissa. The words matter because the regulator, the guaranty protection and the contract documents differ. When Priya’s H M O quote calls her workers members and lists copayments instead of co-insurance, those words tell you it is a prepaid, limited-choice plan before you read the benefits."
+      }
+    },
+    {
+      "index": 1903,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A stop-loss provision ends the insured’s co-insurance once out-of-pocket spending reaches a stated limit; after that the plan pays one hundred percent of covered charges for the rest of the year. Federal law requires every comprehensive plan to have an annual out-of-pocket maximum, indexed each year, that includes the deductible, co-insurance and copayments but not premiums or balance bills. Older plans also carried lifetime maximum benefits, such as one million dollars; those are now prohibited for essential health benefits. Ex-cepted-benefit policies may still cap benefits, which is another reason they are not substitutes for major medical."
+      }
+    },
+    {
+      "index": 2000,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A fixed indemnity plan pays a stated dollar amount when a covered event occurs: two hundred dollars per hospital day, seventy-five dollars per physician visit, one thousand five hundred dollars per surgery. The payment is the same whether the bill is small or large, and it goes to the insured unless assigned. Because the benefit is not tied to the actual expense, fixed indemnity is an ex-cepted benefit outside the Affordable Care Act rules, and federal and Maryland law require clear notice that it is not comprehensive coverage. It can soften deductibles or lost wages for Elena’s coworker; it cannot replace her medical plan."
+      }
+    }
+  ],
+  "estimates": [
+    {
+      "index": 605,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 804,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 900,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "index": 1804,
+      "cost": {
+        "credits": 3.9,
+        "credits_exact": 3.9
+      }
+    },
+    {
+      "index": 1903,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 2000,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    }
+  ],
+  "originals": [
+    {
+      "index": 605,
+      "job_id": "84cb9eb7-7da6-4b17-ac05-f1c4420ad334",
+      "reason": "Both transcripts split coinsurance into 'coin insurance'; separate the co- prefix in the delivery prompt."
+    },
+    {
+      "index": 804,
+      "job_id": "7c91a556-e94c-479f-a020-f4a79842f0d7",
+      "reason": "Both readers hear 'accepted' rather than 'excepted' benefits."
+    },
+    {
+      "index": 900,
+      "job_id": "b10edf69-2dca-4f62-a268-5ec65e03d01b",
+      "reason": "Ambiguous delivery of excepted-benefit policies."
+    },
+    {
+      "index": 1804,
+      "job_id": "9c898cf0-e4a6-46e7-b1ec-e16dfd71df55",
+      "reason": "The recording substitutes HMO for ERISA."
+    },
+    {
+      "index": 1903,
+      "job_id": "0617777f-e369-4978-9314-d7f60fc25d55",
+      "reason": "Excepted-benefit policies sound like accepted-benefit policies."
+    },
+    {
+      "index": 2000,
+      "job_id": "d099b8bb-6893-4500-9bef-243b96325a04",
+      "reason": "The key distinction 'excepted' is unclear in both readings."
+    }
+  ],
+  "jobs": [
+    {
+      "index": 605,
+      "job_id": "8cee102e-f2d6-4873-9e99-6d3470d92a3a",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131345_8cee102e-f2d6-4873-9e99-6d3470d92a3a.mp3"
+    },
+    {
+      "index": 804,
+      "job_id": "d40f8691-75fd-4718-802f-4f934a670ebf",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131345_d40f8691-75fd-4718-802f-4f934a670ebf.mp3"
+    },
+    {
+      "index": 900,
+      "job_id": "7a5d98db-2771-4220-92ef-cf87bc9135a4",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131344_7a5d98db-2771-4220-92ef-cf87bc9135a4.mp3"
+    },
+    {
+      "index": 1804,
+      "job_id": "14b02d32-8d12-43d4-bc75-352132941f76",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131346_14b02d32-8d12-43d4-bc75-352132941f76.mp3"
+    },
+    {
+      "index": 1903,
+      "job_id": "08f2c16b-4dca-42f1-8116-c1c1e3bc6168",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131344_08f2c16b-4dca-42f1-8116-c1c1e3bc6168.mp3"
+    },
+    {
+      "index": 2000,
+      "job_id": "f7e11ddf-0364-45ec-8e7f-e0e760e849a5",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131344_f7e11ddf-0364-45ec-8e7f-e0e760e849a5.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 25.4
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "8cee102e-f2d6-4873-9e99-6d3470d92a3a",
+      "14b02d32-8d12-43d4-bc75-352132941f76"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "created": null,
-  "status": "not_submitted",
+  "created": "2026-11-10",
+  "status": "reviewed",
   "lessons": [
     33,
     34
@@ -201,6 +201,210 @@
       "credits": 4.2
     }
   ],
-  "estimates": [],
-  "jobs": []
+  "estimates": [
+    {
+      "index": 3300,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 3301,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 3302,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "index": 3303,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 3304,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 3305,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 3400,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 3401,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 3402,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 3403,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 3404,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 3405,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 3300,
+      "job_id": "d5629546-6144-4444-84e0-5208cb98ecf6",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132214_d5629546-6144-4444-84e0-5208cb98ecf6.mp3"
+    },
+    {
+      "index": 3301,
+      "job_id": "0eb23081-887a-437e-bda3-67235c33c38d",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132343_0eb23081-887a-437e-bda3-67235c33c38d.mp3"
+    },
+    {
+      "index": 3302,
+      "job_id": "43b4ef28-5131-4a38-9c17-68f7dc7de42d",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132214_43b4ef28-5131-4a38-9c17-68f7dc7de42d.mp3"
+    },
+    {
+      "index": 3303,
+      "job_id": "e9dd7f83-77fd-43a3-a470-3287686baea7",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132214_e9dd7f83-77fd-43a3-a470-3287686baea7.mp3"
+    },
+    {
+      "index": 3304,
+      "job_id": "e4e6207f-6889-4860-88fa-d6f9b8243fa0",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132214_e4e6207f-6889-4860-88fa-d6f9b8243fa0.mp3"
+    },
+    {
+      "index": 3305,
+      "job_id": "9512a944-7af1-4e64-a428-c233e211c86d",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132214_9512a944-7af1-4e64-a428-c233e211c86d.mp3"
+    },
+    {
+      "index": 3400,
+      "job_id": "8f1e8346-ea7f-4387-861c-df2d75ec6359",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132503_8f1e8346-ea7f-4387-861c-df2d75ec6359.mp3"
+    },
+    {
+      "index": 3401,
+      "job_id": "5d5865c3-fc51-46b2-85e4-0a095283840a",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132504_5d5865c3-fc51-46b2-85e4-0a095283840a.mp3"
+    },
+    {
+      "index": 3402,
+      "job_id": "a9c93828-0b04-45aa-a2bd-b9f95883b32e",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132504_a9c93828-0b04-45aa-a2bd-b9f95883b32e.mp3"
+    },
+    {
+      "index": 3403,
+      "job_id": "5d8be5c5-c84c-4ac9-901e-7c1b3445f3e4",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132504_5d8be5c5-c84c-4ac9-901e-7c1b3445f3e4.mp3"
+    },
+    {
+      "index": 3404,
+      "job_id": "a9371b4c-5fb7-4cb8-b41a-d3d3db5e8195",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132504_a9371b4c-5fb7-4cb8-b41a-d3d3db5e8195.mp3"
+    },
+    {
+      "index": 3405,
+      "job_id": "a453e2b4-4a9f-457b-b469-7f48e5e004e2",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132504_a453e2b4-4a9f-457b-b469-7f48e5e004e2.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 51.2,
+    "basis": "Provider quotes for confirmed, completed outputs."
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "d5629546-6144-4444-84e0-5208cb98ecf6",
+      "0eb23081-887a-437e-bda3-67235c33c38d",
+      "43b4ef28-5131-4a38-9c17-68f7dc7de42d",
+      "e9dd7f83-77fd-43a3-a470-3287686baea7",
+      "e4e6207f-6889-4860-88fa-d6f9b8243fa0",
+      "9512a944-7af1-4e64-a428-c233e211c86d",
+      "8f1e8346-ea7f-4387-861c-df2d75ec6359",
+      "5d5865c3-fc51-46b2-85e4-0a095283840a",
+      "a9c93828-0b04-45aa-a2bd-b9f95883b32e",
+      "5d8be5c5-c84c-4ac9-901e-7c1b3445f3e4",
+      "a9371b4c-5fb7-4cb8-b41a-d3d3db5e8195",
+      "a453e2b4-4a9f-457b-b469-7f48e5e004e2"
+    ],
+    "replacement_indices": []
+  }
 }

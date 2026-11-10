@@ -1,6 +1,6 @@
 {
-  "created": null,
-  "status": "not_submitted",
+  "created": "2026-11-10",
+  "status": "reviewed",
   "lessons": [
     23,
     24
@@ -80,7 +80,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "Before one thousand nine hundred ninety-six, a worker who changed jobs could face a new waiting period for conditions she already had, and a small employer could be turned down for coverage because one employee was sick. The Health Insurance Portability and Accountability Act addressed both. It limited pre-existing condition exclusions in group plans and gave credit for prior coverage, required insurers to issue coverage to small employers and renew group coverage, and created special enrollment rights. It also produced the privacy and security rules that govern how health information is handled. The Affordable Care Act later went further, but HIPAA’s framework remains on the exam."
+        "prompt": "Before nineteen ninety-six, a worker who changed jobs could face a new waiting period for conditions she already had, and a small employer could be turned down for coverage because one employee was sick. The Health Insurance Portability and Accountability Act addressed both. It limited pre-existing condition exclusions in group plans and gave credit for prior coverage, required insurers to issue coverage to small employers and renew group coverage, and created special enrollment rights. It also produced the privacy and security rules that govern how health information is handled. The Affordable Care Act later went further, but HIPAA’s framework remains on the exam."
       }
     },
     {
@@ -102,7 +102,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "HIPAA required insurers in the small group market, then defined as two to fifty employees, to accept every small employer that applied and every eligible employee of that employer, regardless of health. It also defined eligible individuals, people leaving group coverage after at least eighteen months with no gap of sixty-three days or more who had exhausted any COBRA, and required that they be able to obtain individual coverage; Maryland met that duty through a state high-risk pool before two thousand fourteen. The Affordable Care Act extended guaranteed issue to all comprehensive individual and small group coverage, so today no one is denied for health reasons."
+        "prompt": "HIPAA required insurers in the small group market, then defined as two to fifty employees, to accept every small employer that applied and every eligible employee of that employer, regardless of health. It also defined eligible individuals, people leaving group coverage after at least eighteen months with no gap of sixty-three days or more who had exhausted any Cobra, and required that they be able to obtain individual coverage; Maryland met that duty through a state high-risk pool before twenty fourteen. The Affordable Care Act extended guaranteed issue to all comprehensive individual and small group coverage, so today no one is denied for health reasons."
       }
     },
     {
@@ -172,8 +172,8 @@
     },
     {
       "index": 2400,
-      "characters": 690,
-      "credits": 4.6
+      "characters": 673,
+      "credits": 4.5
     },
     {
       "index": 2401,
@@ -182,7 +182,7 @@
     },
     {
       "index": 2402,
-      "characters": 670,
+      "characters": 664,
       "credits": 4.5
     },
     {
@@ -201,6 +201,211 @@
       "credits": 4.5
     }
   ],
-  "estimates": [],
-  "jobs": []
+  "estimates": [
+    {
+      "index": 2300,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 2301,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 2302,
+      "cost": {
+        "credits": 3.8,
+        "credits_exact": 3.8
+      }
+    },
+    {
+      "index": 2303,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 2304,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "index": 2305,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 2400,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 2401,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 2402,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 2403,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 2404,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 2405,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 2300,
+      "job_id": "4f22c107-4b5b-4c34-ae80-ec18645499a6",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130818_4f22c107-4b5b-4c34-ae80-ec18645499a6.mp3"
+    },
+    {
+      "index": 2301,
+      "job_id": "9f0d658c-1957-4601-b4a7-d1aac1598421",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130817_9f0d658c-1957-4601-b4a7-d1aac1598421.mp3"
+    },
+    {
+      "index": 2302,
+      "job_id": "26eb8622-c42a-4fcf-a4cb-8a36ac185450",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130818_26eb8622-c42a-4fcf-a4cb-8a36ac185450.mp3"
+    },
+    {
+      "index": 2303,
+      "job_id": "8658c391-a93d-4bd8-bebf-0b67184d2ae8",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130818_8658c391-a93d-4bd8-bebf-0b67184d2ae8.mp3"
+    },
+    {
+      "index": 2304,
+      "job_id": "8938987e-baf9-4c4b-8f97-ec286ce38926",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130817_8938987e-baf9-4c4b-8f97-ec286ce38926.mp3"
+    },
+    {
+      "index": 2305,
+      "job_id": "0be345a2-6fe1-43cb-9777-f1c0f4dc7087",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130817_0be345a2-6fe1-43cb-9777-f1c0f4dc7087.mp3"
+    },
+    {
+      "index": 2400,
+      "job_id": "1a597774-4194-4796-8da8-9bb378c5b1ea",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130942_1a597774-4194-4796-8da8-9bb378c5b1ea.mp3"
+    },
+    {
+      "index": 2401,
+      "job_id": "7aaccaf3-ecf3-4bef-9429-6be827368862",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130941_7aaccaf3-ecf3-4bef-9429-6be827368862.mp3"
+    },
+    {
+      "index": 2402,
+      "job_id": "7f2ff721-9b75-4b68-9aa7-c283d2d94cd8",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130941_7f2ff721-9b75-4b68-9aa7-c283d2d94cd8.mp3"
+    },
+    {
+      "index": 2403,
+      "job_id": "a71def77-ab6a-4749-b557-ee13d037f117",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130941_a71def77-ab6a-4749-b557-ee13d037f117.mp3"
+    },
+    {
+      "index": 2404,
+      "job_id": "06df7428-453b-47ec-8db2-b2ee0c4ed518",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130941_06df7428-453b-47ec-8db2-b2ee0c4ed518.mp3"
+    },
+    {
+      "index": 2405,
+      "job_id": "9920837e-1871-445a-9361-966226f70a40",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130941_9920837e-1871-445a-9361-966226f70a40.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 51.9,
+    "basis": "Provider quotes for confirmed, completed outputs."
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "4f22c107-4b5b-4c34-ae80-ec18645499a6",
+      "9f0d658c-1957-4601-b4a7-d1aac1598421",
+      "26eb8622-c42a-4fcf-a4cb-8a36ac185450",
+      "8658c391-a93d-4bd8-bebf-0b67184d2ae8",
+      "8938987e-baf9-4c4b-8f97-ec286ce38926",
+      "0be345a2-6fe1-43cb-9777-f1c0f4dc7087",
+      "1a597774-4194-4796-8da8-9bb378c5b1ea",
+      "7aaccaf3-ecf3-4bef-9429-6be827368862",
+      "7f2ff721-9b75-4b68-9aa7-c283d2d94cd8",
+      "06df7428-453b-47ec-8db2-b2ee0c4ed518",
+      "9920837e-1871-445a-9361-966226f70a40"
+    ],
+    "replacement_indices": [
+      2403
+    ]
+  }
 }

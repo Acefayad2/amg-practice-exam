@@ -1,6 +1,6 @@
 {
-  "created": null,
-  "status": "not_submitted",
+  "created": "2026-11-10",
+  "status": "reviewed",
   "lessons": [
     49,
     50
@@ -25,7 +25,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "A resident applicant must be at least eighteen, have the character and trustworthiness the law requires, pass the Prometric examination for the line sought, file a complete and truthful application and pay the license fee, currently fifty-four dollars. Maryland repealed its mandatory prelicensing education requirement effective October one, two thousand twenty-four, so a course is no longer required, though the exam and later continuing education remain. An applicant who fails must wait at least four days before retaking the exam. False statements on the application are themselves grounds for denial or later revocation, so the application is a legal document, not a formality."
+        "prompt": "A resident applicant must be at least eighteen, have the character and trustworthiness the law requires, pass the Prometric examination for the line sought, file a complete and truthful application and pay the license fee, currently fifty-four dollars. Maryland repealed its mandatory prelicensing education requirement effective October first, twenty twenty-four, so a course is no longer required, though the exam and later continuing education remain. An applicant who fails must wait at least four days before retaking the exam. False statements on the application are themselves grounds for denial or later revocation, so the application is a legal document, not a formality."
       }
     },
     {
@@ -147,7 +147,7 @@
     },
     {
       "index": 4901,
-      "characters": 684,
+      "characters": 680,
       "credits": 4.6
     },
     {
@@ -201,6 +201,210 @@
       "credits": 3.8
     }
   ],
-  "estimates": [],
-  "jobs": []
+  "estimates": [
+    {
+      "index": 4900,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 4901,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "index": 4902,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 4903,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 4904,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 4905,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 5000,
+      "cost": {
+        "credits": 3.7,
+        "credits_exact": 3.7
+      }
+    },
+    {
+      "index": 5001,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "index": 5002,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 5003,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 5004,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 5005,
+      "cost": {
+        "credits": 3.8,
+        "credits_exact": 3.8
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 4900,
+      "job_id": "101ff0f0-965a-4156-baf5-b103487e1687",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_135854_101ff0f0-965a-4156-baf5-b103487e1687.mp3"
+    },
+    {
+      "index": 4901,
+      "job_id": "2d6cac8e-87a5-45c7-a7bf-94b73b7825c9",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_135740_2d6cac8e-87a5-45c7-a7bf-94b73b7825c9.mp3"
+    },
+    {
+      "index": 4902,
+      "job_id": "4379277b-e170-4f15-9ed9-5f97cc2b326c",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_135740_4379277b-e170-4f15-9ed9-5f97cc2b326c.mp3"
+    },
+    {
+      "index": 4903,
+      "job_id": "74659b62-3146-4656-ada3-b1a6ff6eac68",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_135740_74659b62-3146-4656-ada3-b1a6ff6eac68.mp3"
+    },
+    {
+      "index": 4904,
+      "job_id": "4149216b-24ea-4931-a06b-67a968ba70aa",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_135854_4149216b-24ea-4931-a06b-67a968ba70aa.mp3"
+    },
+    {
+      "index": 4905,
+      "job_id": "c6c46f75-4a80-44c4-acdb-ea95f6c68519",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_135855_c6c46f75-4a80-44c4-acdb-ea95f6c68519.mp3"
+    },
+    {
+      "index": 5000,
+      "job_id": "5da9294a-e795-4761-92cc-e72a075f99c2",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_140032_5da9294a-e795-4761-92cc-e72a075f99c2.mp3"
+    },
+    {
+      "index": 5001,
+      "job_id": "3760239b-fb0a-46cb-8bd9-bf5e871c4805",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_140032_3760239b-fb0a-46cb-8bd9-bf5e871c4805.mp3"
+    },
+    {
+      "index": 5002,
+      "job_id": "589349e3-b96f-45f7-abb1-000488d618c9",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_140032_589349e3-b96f-45f7-abb1-000488d618c9.mp3"
+    },
+    {
+      "index": 5003,
+      "job_id": "74e657f9-a298-4117-907b-d981140d2833",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_140032_74e657f9-a298-4117-907b-d981140d2833.mp3"
+    },
+    {
+      "index": 5004,
+      "job_id": "5a673bb7-9592-4fbf-ae3b-2eddfc0c33ed",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_140032_5a673bb7-9592-4fbf-ae3b-2eddfc0c33ed.mp3"
+    },
+    {
+      "index": 5005,
+      "job_id": "789dcd59-377b-447d-9ba1-c1791e215f9a",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_140032_789dcd59-377b-447d-9ba1-c1791e215f9a.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 50.8,
+    "basis": "Provider quotes for confirmed, completed outputs."
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "101ff0f0-965a-4156-baf5-b103487e1687",
+      "2d6cac8e-87a5-45c7-a7bf-94b73b7825c9",
+      "4379277b-e170-4f15-9ed9-5f97cc2b326c",
+      "74659b62-3146-4656-ada3-b1a6ff6eac68",
+      "4149216b-24ea-4931-a06b-67a968ba70aa",
+      "c6c46f75-4a80-44c4-acdb-ea95f6c68519",
+      "5da9294a-e795-4761-92cc-e72a075f99c2",
+      "3760239b-fb0a-46cb-8bd9-bf5e871c4805",
+      "589349e3-b96f-45f7-abb1-000488d618c9",
+      "74e657f9-a298-4117-907b-d981140d2833",
+      "5a673bb7-9592-4fbf-ae3b-2eddfc0c33ed",
+      "789dcd59-377b-447d-9ba1-c1791e215f9a"
+    ],
+    "replacement_indices": []
+  }
 }

@@ -1,6 +1,6 @@
 {
-  "created": null,
-  "status": "not_submitted",
+  "created": "2026-11-10",
+  "status": "reviewed",
   "lessons": [
     47,
     48
@@ -14,7 +14,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "Gloria, seventy-one, lives alone. If arthritis or dementia leaves her unable to manage daily life, who pays for help? Medicare pays only for skilled care, briefly. Medicaid pays only after her savings are gone. Medical insurance excludes custodial care altogether. Long-term care insurance pays for extended personal and custodial care in a nursing home, an assisted living facility or her own home. It is sold as an excepted benefit, underwritten for health and cognitive status, and priced by age at purchase; buying at fifty-five costs far less than at seventy-one. Maryland regulates it closely, as Lesson forty-eight explains."
+        "prompt": "Gloria is seventy-one and lives alone. If arthritis or dementia makes it hard to dress, bathe or eat without help, who pays for her care? Medicare may cover a limited stay for skilled care, but it generally does not pay for ongoing help with daily activities alone. Medicaid can help people who meet Maryland’s financial and medical eligibility rules. Long-term care insurance can pay for help at home, in assisted living or in a nursing facility. Qualifying policies are an exception to some federal health insurance rules. Insurers consider age and health when they price coverage."
       }
     },
     {
@@ -135,15 +135,15 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "Maryland rewards buying long-term care coverage with an income tax credit. Under Tax-General Section ten-seven hundred eighteen, an individual who pays premiums for a qualified long-term care policy covering herself, her spouse, a parent or stepparent, or a child or stepchild who is a Maryland resident may claim one hundred percent of the eligible premiums paid that year, up to five hundred dollars per insured. The credit is annual, may be claimed by only one taxpayer per insured, cannot exceed the state tax after other credits and cannot be carried forward. It is unavailable if the insured held long-term care insurance before July one, two thousand or the credit was claimed for that insured before."
+        "prompt": "Maryland rewards buying long-term care coverage with an income tax credit. Under Tax-General Section ten dash seven eighteen, an individual who pays premiums for a qualified long-term care policy covering herself, her spouse, a parent or stepparent, or a child or stepchild who is a Maryland resident may claim one hundred percent of the eligible premiums paid that year, up to five hundred dollars per insured. The credit is annual, may be claimed by only one taxpayer per insured, cannot exceed the state tax after other credits and cannot be carried forward. It is unavailable if the insured held long-term care insurance before July first, two thousand or the credit was claimed for that insured before."
       }
     }
   ],
   "projected": [
     {
       "index": 4700,
-      "characters": 631,
-      "credits": 4.3
+      "characters": 583,
+      "credits": 3.9
     },
     {
       "index": 4701,
@@ -197,10 +197,214 @@
     },
     {
       "index": 4805,
-      "characters": 708,
+      "characters": 707,
       "credits": 4.8
     }
   ],
-  "estimates": [],
-  "jobs": []
+  "estimates": [
+    {
+      "index": 4700,
+      "cost": {
+        "credits": 3.9,
+        "credits_exact": 3.9
+      }
+    },
+    {
+      "index": 4701,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 4702,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 4703,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 4704,
+      "cost": {
+        "credits": 5.1,
+        "credits_exact": 5.1
+      }
+    },
+    {
+      "index": 4705,
+      "cost": {
+        "credits": 4.8,
+        "credits_exact": 4.8
+      }
+    },
+    {
+      "index": 4800,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 4801,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "index": 4802,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 4803,
+      "cost": {
+        "credits": 4.9,
+        "credits_exact": 4.9
+      }
+    },
+    {
+      "index": 4804,
+      "cost": {
+        "credits": 5,
+        "credits_exact": 5
+      }
+    },
+    {
+      "index": 4805,
+      "cost": {
+        "credits": 4.8,
+        "credits_exact": 4.8
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 4700,
+      "job_id": "754c9d8f-8876-475b-9076-9f398ba20881",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134456_754c9d8f-8876-475b-9076-9f398ba20881.mp3"
+    },
+    {
+      "index": 4701,
+      "job_id": "5dbfd15e-2a8f-45ae-9ae2-70b8af7575da",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134457_5dbfd15e-2a8f-45ae-9ae2-70b8af7575da.mp3"
+    },
+    {
+      "index": 4702,
+      "job_id": "a25d4227-475f-4ecd-a523-12bff7a6d6d5",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134456_a25d4227-475f-4ecd-a523-12bff7a6d6d5.mp3"
+    },
+    {
+      "index": 4703,
+      "job_id": "4629d113-b011-49d3-8e94-bede24bd7887",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134456_4629d113-b011-49d3-8e94-bede24bd7887.mp3"
+    },
+    {
+      "index": 4704,
+      "job_id": "c1cb8a39-efc3-4615-b048-0f53993224d8",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134636_c1cb8a39-efc3-4615-b048-0f53993224d8.mp3"
+    },
+    {
+      "index": 4705,
+      "job_id": "cff3cf90-8260-4a0b-ae7a-3b9fb3e48e67",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134637_cff3cf90-8260-4a0b-ae7a-3b9fb3e48e67.mp3"
+    },
+    {
+      "index": 4800,
+      "job_id": "0cd7ee80-433e-4354-939e-843d9239e94d",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134737_0cd7ee80-433e-4354-939e-843d9239e94d.mp3"
+    },
+    {
+      "index": 4801,
+      "job_id": "18c08a73-0921-4ce0-a6ee-738743e8ab52",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134737_18c08a73-0921-4ce0-a6ee-738743e8ab52.mp3"
+    },
+    {
+      "index": 4802,
+      "job_id": "67463e51-ce1a-4bd2-a4ad-21e96a1501e2",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134737_67463e51-ce1a-4bd2-a4ad-21e96a1501e2.mp3"
+    },
+    {
+      "index": 4803,
+      "job_id": "fbda742b-3839-4e5f-8217-0c33fa1dd7c0",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134736_fbda742b-3839-4e5f-8217-0c33fa1dd7c0.mp3"
+    },
+    {
+      "index": 4804,
+      "job_id": "41a07f0b-d67e-4b8e-b61e-5afc710b1759",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134737_41a07f0b-d67e-4b8e-b61e-5afc710b1759.mp3"
+    },
+    {
+      "index": 4805,
+      "job_id": "9dec3c6a-776f-4010-b288-adbfc7dd5882",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134736_9dec3c6a-776f-4010-b288-adbfc7dd5882.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 55.1,
+    "basis": "Provider quotes for confirmed, completed outputs."
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "754c9d8f-8876-475b-9076-9f398ba20881",
+      "5dbfd15e-2a8f-45ae-9ae2-70b8af7575da",
+      "a25d4227-475f-4ecd-a523-12bff7a6d6d5",
+      "4629d113-b011-49d3-8e94-bede24bd7887",
+      "c1cb8a39-efc3-4615-b048-0f53993224d8",
+      "cff3cf90-8260-4a0b-ae7a-3b9fb3e48e67",
+      "0cd7ee80-433e-4354-939e-843d9239e94d",
+      "18c08a73-0921-4ce0-a6ee-738743e8ab52",
+      "67463e51-ce1a-4bd2-a4ad-21e96a1501e2",
+      "fbda742b-3839-4e5f-8217-0c33fa1dd7c0",
+      "41a07f0b-d67e-4b8e-b61e-5afc710b1759",
+      "9dec3c6a-776f-4010-b288-adbfc7dd5882"
+    ],
+    "replacement_indices": []
+  }
 }

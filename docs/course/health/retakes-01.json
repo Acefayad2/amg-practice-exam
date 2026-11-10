@@ -1,0 +1,52 @@
+{
+  "created": "2026-11-10",
+  "status": "reviewed",
+  "params": [
+    {
+      "index": 600,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Marcus and Elena list what could go wrong financially. Marcus could be too hurt to work, which is a loss of income. Anyone could face hospital and physician bills, which is medical expense. The children need cleanings and fillings, which is dental expense. Elena’s mother may someday need help with daily living, which is long-term care expense. Glasses and prescriptions are smaller, predictable costs. Each need has a matching benefit. Health insurance is a family of products, not one product, and the exam expects you to name the right member of the family for each loss."
+      }
+    }
+  ],
+  "estimates": [
+    {
+      "index": 600,
+      "cost": {
+        "credits": 3.9,
+        "credits_exact": 3.9
+      }
+    }
+  ],
+  "originals": [
+    {
+      "index": 600,
+      "job_id": "431c2a4c-7ca1-4fc0-a1a5-703ee9ea339a",
+      "reason": "Two independent transcriptions confirm a repeated phrase and an extended, unintelligible ending."
+    }
+  ],
+  "jobs": [
+    {
+      "index": 600,
+      "job_id": "76cf45b5-05de-40c4-bde7-7476353fa4f7",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_125414_76cf45b5-05de-40c4-bde7-7476353fa4f7.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 3.9
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "76cf45b5-05de-40c4-bde7-7476353fa4f7"
+    ]
+  }
+}

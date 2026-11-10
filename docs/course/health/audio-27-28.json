@@ -1,6 +1,6 @@
 {
-  "created": null,
-  "status": "not_submitted",
+  "created": "2026-11-10",
+  "status": "reviewed",
   "lessons": [
     27,
     28
@@ -69,7 +69,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "The federal individual mandate penalty was reduced to zero beginning in two thousand nineteen, so an individual who goes without coverage owes no federal penalty, and Maryland imposes none; Maryland instead uses an Easy Enrollment checkbox on the state tax return to connect uninsured residents with coverage. Penalties remain for employers and insurers. An applicable large employer, one with fifty or more full-time equivalent employees, that fails to offer affordable minimum value coverage to its full-time employees can owe the employer shared responsibility payment. Insurers and group plans that violate A C A rules face federal excise taxes and state fines through the Insurance Administration."
+        "prompt": "The federal individual mandate penalty was reduced to zero beginning in twenty nineteen, so an individual who goes without coverage owes no federal penalty, and Maryland imposes none; Maryland instead uses an Easy Enrollment checkbox on the state tax return to connect uninsured residents with coverage. Penalties remain for employers and insurers. An applicable large employer, one with fifty or more full-time equivalent employees, that fails to offer affordable minimum value coverage to its full-time employees can owe the employer shared responsibility payment. Insurers and group plans that violate A C A rules face federal excise taxes and state fines through the Insurance Administration."
       }
     },
     {
@@ -167,7 +167,7 @@
     },
     {
       "index": 2705,
-      "characters": 702,
+      "characters": 696,
       "credits": 4.7
     },
     {
@@ -201,6 +201,210 @@
       "credits": 4.2
     }
   ],
-  "estimates": [],
-  "jobs": []
+  "estimates": [
+    {
+      "index": 2700,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 2701,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "index": 2702,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 2703,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 2704,
+      "cost": {
+        "credits": 5,
+        "credits_exact": 5
+      }
+    },
+    {
+      "index": 2705,
+      "cost": {
+        "credits": 4.7,
+        "credits_exact": 4.7
+      }
+    },
+    {
+      "index": 2800,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 2801,
+      "cost": {
+        "credits": 3.9,
+        "credits_exact": 3.9
+      }
+    },
+    {
+      "index": 2802,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 2803,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 2804,
+      "cost": {
+        "credits": 3.9,
+        "credits_exact": 3.9
+      }
+    },
+    {
+      "index": 2805,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 2700,
+      "job_id": "6dc34c25-65f7-40a3-841f-dd50953f1c09",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131251_6dc34c25-65f7-40a3-841f-dd50953f1c09.mp3"
+    },
+    {
+      "index": 2701,
+      "job_id": "f0a8f232-71cd-49a5-a338-fe5668fd8bd9",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131250_f0a8f232-71cd-49a5-a338-fe5668fd8bd9.mp3"
+    },
+    {
+      "index": 2702,
+      "job_id": "c5dcf787-e12a-4421-92b2-3024771e394d",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131250_c5dcf787-e12a-4421-92b2-3024771e394d.mp3"
+    },
+    {
+      "index": 2703,
+      "job_id": "2cb58276-1103-4a84-ad1d-2a9bc27f739f",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131250_2cb58276-1103-4a84-ad1d-2a9bc27f739f.mp3"
+    },
+    {
+      "index": 2704,
+      "job_id": "340f3b4e-37e8-4e6c-8d36-09380202e755",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131250_340f3b4e-37e8-4e6c-8d36-09380202e755.mp3"
+    },
+    {
+      "index": 2705,
+      "job_id": "d19f6573-f7c6-4fab-a422-f5f2354f2aac",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131250_d19f6573-f7c6-4fab-a422-f5f2354f2aac.mp3"
+    },
+    {
+      "index": 2800,
+      "job_id": "ce51ff5e-9e36-47a8-a866-e7c5f6614f45",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131432_ce51ff5e-9e36-47a8-a866-e7c5f6614f45.mp3"
+    },
+    {
+      "index": 2801,
+      "job_id": "60eb7181-33b2-4a4c-862f-e48790ac088c",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131432_60eb7181-33b2-4a4c-862f-e48790ac088c.mp3"
+    },
+    {
+      "index": 2802,
+      "job_id": "3dac78c1-b199-4fb7-82f1-5687cee771b5",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131432_3dac78c1-b199-4fb7-82f1-5687cee771b5.mp3"
+    },
+    {
+      "index": 2803,
+      "job_id": "10ed381f-b0a1-4312-957f-e76d96f5d388",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131432_10ed381f-b0a1-4312-957f-e76d96f5d388.mp3"
+    },
+    {
+      "index": 2804,
+      "job_id": "2f636216-83e1-47c6-bea4-f26e4d24a9c8",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131432_2f636216-83e1-47c6-bea4-f26e4d24a9c8.mp3"
+    },
+    {
+      "index": 2805,
+      "job_id": "c264c628-c5ce-4c75-a5a0-bd3cc1a816de",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131433_c264c628-c5ce-4c75-a5a0-bd3cc1a816de.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 51.5,
+    "basis": "Provider quotes for confirmed, completed outputs."
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "6dc34c25-65f7-40a3-841f-dd50953f1c09",
+      "f0a8f232-71cd-49a5-a338-fe5668fd8bd9",
+      "c5dcf787-e12a-4421-92b2-3024771e394d",
+      "2cb58276-1103-4a84-ad1d-2a9bc27f739f",
+      "340f3b4e-37e8-4e6c-8d36-09380202e755",
+      "d19f6573-f7c6-4fab-a422-f5f2354f2aac",
+      "ce51ff5e-9e36-47a8-a866-e7c5f6614f45",
+      "60eb7181-33b2-4a4c-862f-e48790ac088c",
+      "3dac78c1-b199-4fb7-82f1-5687cee771b5",
+      "10ed381f-b0a1-4312-957f-e76d96f5d388",
+      "2f636216-83e1-47c6-bea4-f26e4d24a9c8",
+      "c264c628-c5ce-4c75-a5a0-bd3cc1a816de"
+    ],
+    "replacement_indices": []
+  }
 }

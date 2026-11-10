@@ -1,6 +1,6 @@
 {
-  "created": null,
-  "status": "not_submitted",
+  "created": "2026-11-10",
+  "status": "reviewed",
   "lessons": [
     45,
     46
@@ -58,7 +58,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "Beyond the federal six-month open enrollment at sixty-five, Maryland adds protections. People under sixty-five who qualify for Medicare because of disability must be offered Plans A and D for six months after Part B enrollment, and the Plan A premium may not exceed the average paid by policyholders sixty-five and older. Since July one, two thousand twenty-three, Maryland has a birthday rule: for thirty days after each birthday, an existing policyholder may switch to a policy with equal or lesser benefits from any insurer without underwriting, and insurers must give notice of that right thirty to sixty days before the birthday. Group supplements that end must offer individual conversion, and continuation applies when membership ends."
+        "prompt": "Beyond the federal six-month open enrollment at sixty-five, Maryland adds protections. People under sixty-five who qualify for Medicare because of disability must be offered Plans A and D for six months after Part B enrollment, and the Plan A premium may not exceed the average paid by policyholders sixty-five and older. Since July first, twenty twenty-three, Maryland has a birthday rule: for thirty days after each birthday, an existing policyholder may switch to a policy with equal or lesser benefits from any insurer without underwriting, and insurers must give notice of that right thirty to sixty days before the birthday. Group supplements that end must offer individual conversion, and continuation applies when membership ends."
       }
     },
     {
@@ -162,7 +162,7 @@
     },
     {
       "index": 4504,
-      "characters": 742,
+      "characters": 738,
       "credits": 5
     },
     {
@@ -201,6 +201,211 @@
       "credits": 4.3
     }
   ],
-  "estimates": [],
-  "jobs": []
+  "estimates": [
+    {
+      "index": 4500,
+      "cost": {
+        "credits": 4.7,
+        "credits_exact": 4.7
+      }
+    },
+    {
+      "index": 4501,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 4502,
+      "cost": {
+        "credits": 4.9,
+        "credits_exact": 4.9
+      }
+    },
+    {
+      "index": 4503,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 4504,
+      "cost": {
+        "credits": 5,
+        "credits_exact": 5
+      }
+    },
+    {
+      "index": 4505,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 4600,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 4601,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 4602,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "index": 4603,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 4604,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 4605,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 4500,
+      "job_id": "dc233a7e-f79d-47a9-8785-5e86b84df372",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134127_dc233a7e-f79d-47a9-8785-5e86b84df372.mp3"
+    },
+    {
+      "index": 4501,
+      "job_id": "09c3d2a4-55b8-4657-9117-f8801bb952c3",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134124_09c3d2a4-55b8-4657-9117-f8801bb952c3.mp3"
+    },
+    {
+      "index": 4502,
+      "job_id": "5b0d7511-2581-4332-9cc5-1eca1ce6911a",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134126_5b0d7511-2581-4332-9cc5-1eca1ce6911a.mp3"
+    },
+    {
+      "index": 4503,
+      "job_id": "ab85baac-dd2e-4d13-8691-1695c8a45e45",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134125_ab85baac-dd2e-4d13-8691-1695c8a45e45.mp3"
+    },
+    {
+      "index": 4504,
+      "job_id": "7a857c09-760c-47a2-b3be-33dfde92c23a",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134125_7a857c09-760c-47a2-b3be-33dfde92c23a.mp3"
+    },
+    {
+      "index": 4505,
+      "job_id": "5fa2ca06-80e6-4570-ab0c-f6fbc157c992",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134124_5fa2ca06-80e6-4570-ab0c-f6fbc157c992.mp3"
+    },
+    {
+      "index": 4600,
+      "job_id": "62e72e93-74f5-4b58-b104-0058175a8108",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134318_62e72e93-74f5-4b58-b104-0058175a8108.mp3"
+    },
+    {
+      "index": 4601,
+      "job_id": "f42e317a-d34a-499b-8ffd-ef6da7cc701e",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134316_f42e317a-d34a-499b-8ffd-ef6da7cc701e.mp3"
+    },
+    {
+      "index": 4602,
+      "job_id": "9bd5cb96-27a7-4c63-9031-2b949df0ffea",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134317_9bd5cb96-27a7-4c63-9031-2b949df0ffea.mp3"
+    },
+    {
+      "index": 4603,
+      "job_id": "cf7b600e-96ea-4efe-8fc6-e614e6b3cd1a",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134317_cf7b600e-96ea-4efe-8fc6-e614e6b3cd1a.mp3"
+    },
+    {
+      "index": 4604,
+      "job_id": "e82eff6b-fa23-486d-b13c-9fd233f172e5",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134317_e82eff6b-fa23-486d-b13c-9fd233f172e5.mp3"
+    },
+    {
+      "index": 4605,
+      "job_id": "e9ed1c91-0cc6-4b8e-9529-130dc42e4247",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134317_e9ed1c91-0cc6-4b8e-9529-130dc42e4247.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 53.7,
+    "basis": "Provider quotes for confirmed, completed outputs."
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "dc233a7e-f79d-47a9-8785-5e86b84df372",
+      "5fa2ca06-80e6-4570-ab0c-f6fbc157c992",
+      "62e72e93-74f5-4b58-b104-0058175a8108",
+      "f42e317a-d34a-499b-8ffd-ef6da7cc701e",
+      "9bd5cb96-27a7-4c63-9031-2b949df0ffea",
+      "cf7b600e-96ea-4efe-8fc6-e614e6b3cd1a"
+    ],
+    "replacement_indices": [
+      4501,
+      4502,
+      4503,
+      4504,
+      4604,
+      4605
+    ]
+  }
 }

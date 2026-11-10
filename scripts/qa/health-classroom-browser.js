@@ -29,7 +29,8 @@ async page => {
       await p.getByRole('link',{name:/Browse Health lessons/}).click();await ready();
       await p.locator('#continue-course').click();await ready();
       const audio=p.locator('#lesson-audio'), select=p.locator('#audio-section');
-      if(await audio.count()){
+      if(await audio.count()!==1)throw Error('Missing lesson audio player.');
+      {
         await p.locator(".lesson-audio").scrollIntoViewIfNeeded();
         await p.screenshot({path:"output/playwright/health-"+width+"-audio.png"});
         if(await select.locator('option').count()!==6)throw Error('Incomplete lesson audio.');
@@ -53,7 +54,14 @@ async page => {
       if(!(await p.locator('#progress-label').textContent()).startsWith('1 of ')) throw Error('The saved answer was lost on reload.');
       if(await p.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1)) throw Error('Lesson layout overflows at '+width);
       await p.screenshot({path:'output/playwright/health-'+width+'-lesson.png'});
-      results.push({width,practiceLink:true,audioPlayback:!!await audio.count(),quiz:true,progressAfterReload:true});
+      // Confirm the last lesson is playable too, and that the host can seek into the file.
+      await p.goto(origin+'/course/health/lesson-60/');await ready();
+      if(await select.locator('option').count()!==6)throw Error('Missing sections in the last lesson.');
+      await select.selectOption({index:5});
+      await p.waitForFunction(()=>document.querySelector('#lesson-audio')?.readyState>=1);
+      const src=await audio.evaluate(e=>e.currentSrc), range=await ctx.request.get(src,{headers:{Range:'bytes=0-255'}});
+      if(range.status()!==206 || (await range.body()).length!==256)throw Error('Last lesson cannot seek to a byte range.');
+      results.push({width,practiceLink:true,audioPlayback:true,lastLessonPlayable:true,quiz:true,progressAfterReload:true});
     } finally { await ctx.close(); }
   }
   if(errors.length)throw Error(errors.join('; '));

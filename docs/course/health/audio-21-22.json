@@ -1,6 +1,6 @@
 {
-  "created": null,
-  "status": "not_submitted",
+  "created": "2026-11-10",
+  "status": "reviewed",
   "lessons": [
     21,
     22
@@ -36,7 +36,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "H M O members usually pay a flat copayment per visit or prescription rather than a deductible and coinsurance, and the plan pays the provider the rest. Many H M O plans pay their physicians by capitation: a fixed monthly amount per assigned member, whether that member visits once or ten times. That is the prepaid basis carried down to the provider. Models differ. A staff model employs its physicians; a group model contracts with one medical group; an IPA model contracts with independent physicians who also see other patients; a network model contracts with several groups. All share prepaid financing and limited choice."
+        "prompt": "H M O members usually pay a flat copayment per visit or prescription rather than a deductible and coinsurance, and the plan pays the provider the rest. Many H M O plans pay their physicians by capitation: a fixed monthly amount per assigned member, whether that member visits once or ten times. That is the prepaid basis carried down to the provider. Models differ. A staff model employs its physicians; a group model contracts with one medical group; an I P A model contracts with independent physicians who also see other patients; a network model contracts with several groups. All share prepaid financing and limited choice."
       }
     },
     {
@@ -91,7 +91,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "Panel describes who may join the network and whom the providers may treat. An open panel P P O or IPA-model H M O contracts with independent providers who also treat patients from other plans, and it admits any qualified provider willing to accept its terms. A closed panel, typical of staff and group model H M O plans, uses providers who serve only that plan’s members. For members, open panels mean more choice and a better chance their current doctor participates. For plans, closed panels mean tighter control over practice patterns. Exclusive provider organizations, or E P O plans, use a P P O-style network but cover nothing out of network except emergencies."
+        "prompt": "Panel describes who may join the network and whom the providers may treat. An open panel P P O or I P A-model H M O contracts with independent providers who also treat patients from other plans, and it admits any qualified provider willing to accept its terms. A closed panel, typical of staff and group model H M O plans, uses providers who serve only that plan’s members. For members, open panels mean more choice and a better chance their current doctor participates. For plans, closed panels mean tighter control over practice patterns. Exclusive provider organizations, or E P O plans, use a P P O-style network but cover nothing out of network except emergencies."
       }
     },
     {
@@ -124,7 +124,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "TRICARE is the Department of Defense health program for active duty service members, retirees, National Guard and Reserve members and their families. Its options mirror civilian designs. TRICARE Prime works like an H M O, with a primary care manager, referrals and low out-of-pocket costs, and is mandatory for active duty members. TRICARE Select works like a P P O, allowing self-referral to network providers with cost sharing. TRICARE For Life supplements Medicare for retirees sixty-five and older, paying after Medicare. A private health policy generally excludes care TRICARE furnishes, which is the government plan exclusion you saw in Lesson nine."
+        "prompt": "TriCare is the Department of Defense health program for active duty service members, retirees, National Guard and Reserve members and their families. Its options mirror civilian designs. TriCare Prime works like an H M O, with a primary care manager, referrals and low out-of-pocket costs, and is mandatory for active duty members. TriCare Select works like a P P O, allowing self-referral to network providers with cost sharing. TriCare For Life supplements Medicare for retirees sixty-five and older, paying after Medicare. A private health policy generally excludes care TriCare furnishes, which is the government plan exclusion you saw in Lesson nine."
       }
     },
     {
@@ -135,7 +135,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "Four clues name the plan. Does the member need a referral for a specialist? Yes points to an H M O or the in-network side of a P O S. Is there coverage out of network? Yes points to a P P O or P O S; no points to an H M O or E P O. Does the member pay copayments or deductible and coinsurance? Copayments lean H M O; coinsurance leans P P O; both appear in a P O S depending on where care was received. Is the payer the Department of Defense? Then it is TRICARE, and its option follows the same referral and network clues."
+        "prompt": "Four clues name the plan. Does the member need a referral for a specialist? Yes points to an H M O or the in-network side of a P O S. Is there coverage out of network? Yes points to a P P O or P O S; no points to an H M O or E P O. Does the member pay copayments or deductible and coinsurance? Copayments lean H M O; coinsurance leans P P O; both appear in a P O S depending on where care was received. Is the payer the Department of Defense? Then it is TriCare, and its option follows the same referral and network clues."
       }
     }
   ],
@@ -152,7 +152,7 @@
     },
     {
       "index": 2102,
-      "characters": 626,
+      "characters": 628,
       "credits": 4.2
     },
     {
@@ -177,7 +177,7 @@
     },
     {
       "index": 2201,
-      "characters": 667,
+      "characters": 669,
       "credits": 4.5
     },
     {
@@ -201,6 +201,211 @@
       "credits": 3.5
     }
   ],
-  "estimates": [],
-  "jobs": []
+  "estimates": [
+    {
+      "index": 2100,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "index": 2101,
+      "cost": {
+        "credits": 3.9,
+        "credits_exact": 3.9
+      }
+    },
+    {
+      "index": 2102,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 2103,
+      "cost": {
+        "credits": 4.7,
+        "credits_exact": 4.7
+      }
+    },
+    {
+      "index": 2104,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 2105,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 2200,
+      "cost": {
+        "credits": 3.8,
+        "credits_exact": 3.8
+      }
+    },
+    {
+      "index": 2201,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 2202,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 2203,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 2204,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 2205,
+      "cost": {
+        "credits": 3.5,
+        "credits_exact": 3.5
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 2100,
+      "job_id": "a3c76b4d-6b61-4867-9882-60ebc5d89884",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130528_a3c76b4d-6b61-4867-9882-60ebc5d89884.mp3"
+    },
+    {
+      "index": 2101,
+      "job_id": "7c5826a9-a457-492e-b16a-7d58beea2007",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130528_7c5826a9-a457-492e-b16a-7d58beea2007.mp3"
+    },
+    {
+      "index": 2102,
+      "job_id": "f2b37ef1-720a-4ed4-af28-9110182efaf9",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130527_f2b37ef1-720a-4ed4-af28-9110182efaf9.mp3"
+    },
+    {
+      "index": 2103,
+      "job_id": "317b0804-ce32-46a5-8c00-8c2bac90b1cf",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130527_317b0804-ce32-46a5-8c00-8c2bac90b1cf.mp3"
+    },
+    {
+      "index": 2104,
+      "job_id": "beb319b8-b43d-4f60-83c0-ef9307c4bd92",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130528_beb319b8-b43d-4f60-83c0-ef9307c4bd92.mp3"
+    },
+    {
+      "index": 2105,
+      "job_id": "71ee79c1-afc9-450e-92ba-d20b877cbe3f",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130527_71ee79c1-afc9-450e-92ba-d20b877cbe3f.mp3"
+    },
+    {
+      "index": 2200,
+      "job_id": "7eb626ea-45e3-4d89-98e6-fff4bf9577bf",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130655_7eb626ea-45e3-4d89-98e6-fff4bf9577bf.mp3"
+    },
+    {
+      "index": 2201,
+      "job_id": "0351f647-948e-4e2a-b6a9-6918c45e0370",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130655_0351f647-948e-4e2a-b6a9-6918c45e0370.mp3"
+    },
+    {
+      "index": 2202,
+      "job_id": "11542e62-46d2-462f-9b4f-2e0009b41674",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130655_11542e62-46d2-462f-9b4f-2e0009b41674.mp3"
+    },
+    {
+      "index": 2203,
+      "job_id": "e8b79c11-9835-4956-8de5-0d526577b227",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130655_e8b79c11-9835-4956-8de5-0d526577b227.mp3"
+    },
+    {
+      "index": 2204,
+      "job_id": "7834ef08-6b70-4ec2-8541-c755d869ddd1",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130656_7834ef08-6b70-4ec2-8541-c755d869ddd1.mp3"
+    },
+    {
+      "index": 2205,
+      "job_id": "e1cdc002-dbd7-4796-b88a-0f47c8d0215f",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130656_e1cdc002-dbd7-4796-b88a-0f47c8d0215f.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 50.1,
+    "basis": "Provider quotes for confirmed, completed outputs."
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "a3c76b4d-6b61-4867-9882-60ebc5d89884",
+      "7c5826a9-a457-492e-b16a-7d58beea2007",
+      "f2b37ef1-720a-4ed4-af28-9110182efaf9",
+      "317b0804-ce32-46a5-8c00-8c2bac90b1cf",
+      "beb319b8-b43d-4f60-83c0-ef9307c4bd92",
+      "71ee79c1-afc9-450e-92ba-d20b877cbe3f",
+      "7eb626ea-45e3-4d89-98e6-fff4bf9577bf",
+      "0351f647-948e-4e2a-b6a9-6918c45e0370",
+      "11542e62-46d2-462f-9b4f-2e0009b41674",
+      "e8b79c11-9835-4956-8de5-0d526577b227",
+      "7834ef08-6b70-4ec2-8541-c755d869ddd1"
+    ],
+    "replacement_indices": [
+      2205
+    ]
+  }
 }

@@ -1,0 +1,146 @@
+{
+  "created": "2026-11-10",
+  "status": "reviewed",
+  "params": [
+    {
+      "index": 804,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Stand-alone prescription drug and vision care policies pay for those services on a schedule, with copayments or allowances, and exclude everything else. Critical illness policies pay a lump sum when the insured is diagnosed with a listed condition, commonly heart attack, stroke or cancer, often after a short survival period. The money is not tied to bills; the insured may spend it on mortgage payments or travel for treatment. Here is the distinction the exam tests. Separate limited vision coverage, or independent critical illness coverage that does not coordinate with another plan, can qualify for an exception to certain federal coverage rules. The legal term is excepted benefits. Think of the E in exception. A drug policy does not qualify just because it covers only prescriptions."
+      }
+    },
+    {
+      "index": 900,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A pre-existing condition is one for which the insured received medical advice, diagnosis or treatment, or had symptoms a prudent person would have treated, during a look-back period before coverage began, often six to twelve months. Older medical policies excluded such conditions for a waiting period. Federal law now forbids pre-existing condition exclusions in comprehensive medical coverage, so Marcus’s asthma is covered from day one. The exclusion still appears in disability income, long-term care, Medicare supplement, short-term policies and certain other limited policies. Each type has its own rules. Always check the type of coverage before applying the rule."
+      }
+    },
+    {
+      "index": 1903,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Think of the out-of-pocket maximum as a ceiling on what you pay for covered care. After you reach it, the plan pays one hundred percent of covered in-network costs for the rest of the plan year. On a Marketplace plan, your deductible, coinsurance and copayments for covered in-network services count toward that limit. Your premiums and balance bills do not. Older plans also carried lifetime maximum benefits, such as one million dollars; those are now prohibited for essential health benefits. Limited policies that qualify for a federal exception may still cap benefits, which is another reason they are not substitutes for major medical."
+      }
+    },
+    {
+      "index": 2000,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A fixed indemnity plan pays a stated dollar amount when a covered event occurs: two hundred dollars per hospital day, seventy-five dollars per physician visit, one thousand five hundred dollars per surgery. The payment is the same whether the bill is small or large, and it goes to the insured unless assigned. A fixed indemnity policy can qualify for an exception to some federal coverage rules if it meets the legal conditions. The important point for a buyer is simple: a fixed payment might cover only part of the bill. It does not replace comprehensive insurance. It can soften deductibles or lost wages for Elena’s coworker; it cannot replace her medical plan."
+      }
+    }
+  ],
+  "estimates": [
+    {
+      "index": 804,
+      "cost": {
+        "credits": 5.3,
+        "credits_exact": 5.3
+      }
+    },
+    {
+      "index": 900,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 1903,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 2000,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    }
+  ],
+  "originals": [
+    {
+      "index": 804,
+      "job_id": "7c91a556-e94c-479f-a020-f4a79842f0d7",
+      "reason": "Record the clarified distinction for standalone vision, critical illness and drug coverage, with the technical term explained."
+    },
+    {
+      "index": 900,
+      "job_id": "b10edf69-2dca-4f62-a268-5ec65e03d01b",
+      "reason": "Use the revised, plain-language line about limited policies."
+    },
+    {
+      "index": 1903,
+      "job_id": "0617777f-e369-4978-9314-d7f60fc25d55",
+      "reason": "Record the corrected in-network out-of-pocket explanation and the distinction for limited policies."
+    },
+    {
+      "index": 2000,
+      "job_id": "d099b8bb-6893-4500-9bef-243b96325a04",
+      "reason": "Clarify the conditions for a fixed indemnity exception and what the buyer may still owe."
+    }
+  ],
+  "jobs": [
+    {
+      "index": 804,
+      "job_id": "d64dce92-f27f-459f-bf4b-253caf66c3c4",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132606_d64dce92-f27f-459f-bf4b-253caf66c3c4.mp3"
+    },
+    {
+      "index": 900,
+      "job_id": "372f569f-6a22-4436-b01b-287473f2cb54",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132607_372f569f-6a22-4436-b01b-287473f2cb54.mp3"
+    },
+    {
+      "index": 1903,
+      "job_id": "8654bd43-1127-4a89-bd01-4b5851d43ba5",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132606_8654bd43-1127-4a89-bd01-4b5851d43ba5.mp3"
+    },
+    {
+      "index": 2000,
+      "job_id": "0ebb7f8d-744a-45bc-8b12-579eace483e6",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132606_0ebb7f8d-744a-45bc-8b12-579eace483e6.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 18.6
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "8654bd43-1127-4a89-bd01-4b5851d43ba5",
+      "0ebb7f8d-744a-45bc-8b12-579eace483e6"
+    ]
+  }
+}

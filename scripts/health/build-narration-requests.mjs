@@ -1,5 +1,6 @@
 import { mkdir, readdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
+import {createHash} from 'node:crypto';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..');
@@ -23,10 +24,11 @@ const IRREGULAR_ORDINALS = new Map([
   ['eight', 'eighth'], ['nine', 'ninth'], ['twelve', 'twelfth'],
 ]);
 const SPOKEN_TERMS = new Map([
-  ['AD&D', 'A D and D'], ['ACA', 'A C A'], ['ADL', 'A D L'], ['ALS', 'A L S'],
+  ['AD&D', 'A D and D'], ['AD and D', 'A D and D'], ['ACA', 'A C A'], ['ADL', 'A D L'], ['ALS', 'A L S'],
   ['AMB', 'A M B'], ['AMG', 'A M G'], ['APS', 'A P S'], ['BOE', 'B O E'],
   ['COB', 'C O B'], ['COLA', 'C O L A'], ['EPO', 'E P O'], ['EPOs', 'E P O plans'],
   ['FSA', 'F S A'], ['HDHP', 'H D H P'], ['HIV', 'H I V'], ['HMO', 'H M O'],
+  ['IPA', 'I P A'], ['ESRD', 'E S R D'], ['TRICARE', 'TriCare'], ['COBRA', 'Cobra'],
   ['HMOs', 'H M O plans'], ['HRA', 'H R A'], ['HSA', 'H S A'], ['IRS', 'I R S'],
   ['LTD', 'L T D'], ['MIA', 'M I A'], ['MIB', 'M I B'], ['NAIC', 'N A I C'],
   ['NIH', 'N I H'], ['PCP', 'P C P'], ['POS', 'P O S'], ['PPO', 'P P O'],
@@ -91,6 +93,12 @@ export function prepareNarration(source) {
   }
 
   text = text
+    .replace(/\b80\s*\/\s*20\b/g, 'eighty-twenty')
+    .replace(/\b(\d{1,2})-(\d{3,4})\b/g, (_, title, section) => {
+      const lead = section.slice(0, -2);
+      const end = section.slice(-2);
+      return `${integerToWords(Number(title))} dash ${integerToWords(Number(lead))} ${end === '00' ? 'hundred' : Number(end) < 10 ? 'oh ' + ONES[Number(end)] : integerToWords(Number(end))}`;
+    })
     .replace(/\$([0-9]+(?:,[0-9]{3})*(?:\.[0-9]{1,2})?)/g, (_, amount) => {
       const words = amount.includes('.') ? spokenDecimal(amount) : integerToWords(Number(amount.replaceAll(',', '')));
       return `${words} dollars`;
@@ -104,6 +112,8 @@ export function prepareNarration(source) {
       const second = to.includes('.') ? spokenDecimal(to) : integerToWords(Number(to.replaceAll(',', '')));
       return `${first} to ${second}`;
     })
+    .replace(/\b(January|February|March|April|May|June|July|August|September|October|November|December)\s+([0-3]?\d)\b/g, (_, month, day) => `${month} ${ordinalToWords(Number(day))}`)
+    .replace(/\b(19\d{2}|20[1-9]\d)\b/g, (_, year) => `${integerToWords(Number(year.slice(0, 2)))} ${year.endsWith('00') ? 'hundred' : Number(year.slice(2)) < 10 ? 'oh ' + ONES[Number(year.slice(2))] : integerToWords(Number(year.slice(2)))}`)
     .replace(/\b([0-9]+(?:,[0-9]{3})*)(st|nd|rd|th)\b/gi, (_, value) => ordinalToWords(Number(value.replaceAll(',', ''))))
     .replace(/\b([0-9]+(?:,[0-9]{3})*)\.([0-9]+)\b/g, (_, whole, fraction) => spokenDecimal(`${whole}.${fraction}`))
     .replace(/\b[0-9]+(?:,[0-9]{3})*\b/g, (value) => integerToWords(Number(value.replaceAll(',', ''))))
@@ -142,17 +152,15 @@ function preflightMarkdown(batches, totals) {
   const rows = batches.map((batch) => `| ${String(batch.first).padStart(2, '0')}–${String(batch.last).padStart(2, '0')} | ${batch.characters.toLocaleString('en-US')} | ${batch.credits.toFixed(1)} |`).join('\n');
   const repairProjection = Math.ceil(totals.credits * 1.25 * 10) / 10;
   const balanceAfter = Math.round((BALANCE - repairProjection) * 10) / 10;
-  const status = totals.submittedBatches
-    ? `pilot completed for Lessons 01–02; remaining ${batches.length - totals.submittedBatches} batches not submitted`
-    : 'not submitted';
-  const spend = totals.submittedBatches
-    ? `The completed pilot used **${totals.actualCredits.toFixed(1)} credits**; the recorded balance after it is **${totals.balanceAfterActual.toFixed(1)} credits**.`
-    : 'This document and the request files spend no Higgsfield credits.';
-  return `# Health narration preflight\n\nGenerated November 10, 2026. Status: **${status}**. ${spend}\n\n## Exact prepared first pass\n\n- 60 lessons, 360 narration blocks, 30 two-lesson batches.\n- Prepared prompt characters: **${totals.characters.toLocaleString('en-US')}**.\n- Seed Audio estimate at one credit per 150 characters, rounded up to one decimal per request: **${totals.credits.toFixed(1)} credits**.\n- Planning allowance with the Life course's approximate 25% repair rate: **${repairProjection.toFixed(1)} credits** before any optional photographs.\n- Recorded balance before the pilot: **${BALANCE.toFixed(1)} credits**.\n- Projected balance after the full repair allowance: **${balanceAfter.toFixed(1)} credits**.\n\nThe preparation changes only the audio prompts. It spells out numbers and symbols and expands ambiguous abbreviations; the on-page lesson text remains unchanged.\n\n## Batch estimates\n\n| Lessons | Prepared characters | First-pass credits |\n|---|---:|---:|\n${rows}\n\n## Voice pilot and submission gate\n\nLessons 01–02 completed with Seed Audio and the Zoe preset for the exact quoted **46.1 credits**. Review the resulting speech before submitting any later batch. If the pilot needs a repair, update only the affected blocks and record the additional receipt rather than regenerating an accepted block.\n\nFor every submitted request, save the provider job, output URL and actual \`credits_exact\` receipt into the matching \`audio-NN-NN.json\` file. A lesson remains a text edition until reviewed media, captions and a \`media-NN.json\` receipt mark it ready.\n`;
+  const status = `${totals.completedBlocks} of 360 recordings completed; ${batches.length - totals.submittedBatches} batches not started`;
+  const spend = `The first pass accounts for **${totals.actualCredits.toFixed(1)} credits** at the confirmed output quotes, including 46.1 for the pilot. Completed retakes add **${totals.retakeCredits.toFixed(1)} credits**, for **${(totals.actualCredits+totals.retakeCredits).toFixed(1)} credits** in all. Shortening pauses and rendering the final MP3s do not use generation credits.`;
+  return `# Health narration preflight\n\nGenerated November 10, 2026. Status: **${status}**. ${spend}\n\n## Exact prepared first pass\n\n- 60 lessons, 360 narration blocks, 30 two-lesson batches.\n- Prepared prompt characters: **${totals.characters.toLocaleString('en-US')}**.\n- Seed Audio estimate at one credit per 150 characters, rounded up to one decimal per request: **${totals.credits.toFixed(1)} credits**.\n- Planning allowance with the Life course's approximate 25% repair rate: **${repairProjection.toFixed(1)} credits** before any optional photographs.\n- Recorded balance before the pilot: **${BALANCE.toFixed(1)} credits**.\n- Projected balance after the full repair allowance: **${balanceAfter.toFixed(1)} credits**.\n\nThe preparation changes only the audio prompts. It spells out numbers and symbols and expands ambiguous abbreviations; the on-page lesson text remains unchanged.\n\n## Batch estimates\n\n| Lessons | Prepared characters | First-pass credits |\n|---|---:|---:|\n${rows}\n\n## Recording and review\n\nThe first two lessons established the Zoe voice and pacing. Each recording is decoded and transcribed. Differences are checked before a section appears in the player. See [the review report](NARRATION-REVIEW.md) for the published audio and remaining review steps.\n\nFor every submitted request, save the provider job, output URL and actual \`credits_exact\` receipt into the matching \`audio-NN-NN.json\` file. Six reviewed recordings enable the text and audio edition. A full lesson video still requires approved footage, captions and a \`media-NN.json\` receipt.\n`;
 }
 
 export async function buildNarrationRequests() {
   const lessons = await loadLessons();
+  const revisions = JSON.parse(await readFile(path.join(HEALTH_DIR, 'narration-wording.json'),'utf8'));
+  const hash=s=>createHash('sha256').update(s).digest('hex');
   if (lessons.length !== 60) throw new Error(`Expected 60 Health lessons, found ${lessons.length}`);
   await mkdir(HEALTH_DIR, { recursive: true });
 
@@ -200,23 +208,38 @@ export async function buildNarrationRequests() {
     catch (error) { if (error.code !== 'ENOENT') throw error; }
     const submitted = existing && existing.status !== 'not_submitted';
     if (submitted) {
-      if (JSON.stringify(existing.params) !== JSON.stringify(params)) throw new Error(`Submitted narration no longer matches ${batchName(first, last)}`);
+      if (existing.params.length !== params.length) throw new Error('Submitted batch size changed');
+      for(const [i,next] of params.entries()){
+        const old=existing.params[i];
+        if(JSON.stringify(old)===JSON.stringify(next))continue;
+        const rev=revisions[next.index];
+        if(!rev || rev.first_pass_sha256!==hash(old.params.prompt) || rev.current_sha256!==hash(next.params.prompt) ||
+          next.params.prompt!==rev.current_prompt || JSON.stringify({...old,params:{...old.params,prompt:next.params.prompt}})!==JSON.stringify(next))
+          throw new Error(`Unrecorded change to submitted narration: ${next.index}`);
+      }
     } else {
       await writeFile(receiptPath, `${JSON.stringify(receipt, null, 2)}\n`);
     }
     batches.push({
-      first, last, characters, credits, submitted,
-      actualCredits: existing?.credits?.credits_exact || 0,
-      balanceAfterActual: existing?.credits?.balance_after || BALANCE,
+      first, last, characters:submitted?existing.projected.reduce((s,x)=>s+x.characters,0):characters,
+      credits:submitted?existing.projected.reduce((s,x)=>s+x.credits,0):credits, submitted,
+      completedBlocks: (existing?.jobs || []).filter(j => j.status === 'completed' && j.result_url).length,
+      actualCredits: (existing?.jobs || []).filter(j => j.status === 'completed' && j.result_url)
+        .reduce((sum, j) => sum + (existing.estimates.find(q => q.index === j.index)?.cost.credits_exact || 0), 0),
     });
   }
 
+  const retakeFiles=(await readdir(HEALTH_DIR)).filter(n=>/^retakes-\d+\.json$/.test(n));
+  const retakes=await Promise.all(retakeFiles.map(async n=>JSON.parse(await readFile(path.join(HEALTH_DIR,n),'utf8'))));
+  const retakeCredits=retakes.reduce((s,r)=>s+r.jobs.filter(j=>j.status==='completed'&&j.result_url).reduce((n,j)=>n+(r.estimates.find(q=>q.index===j.index)?.cost.credits_exact||0),0),0);
   const totals = {
+    retakeCredits,
     characters: batches.reduce((sum, batch) => sum + batch.characters, 0),
     credits: batches.reduce((sum, batch) => sum + batch.credits, 0),
+    completedBlocks: batches.reduce((sum, b) => sum + b.completedBlocks, 0),
     submittedBatches: batches.filter(batch => batch.submitted).length,
     actualCredits: batches.reduce((sum, batch) => sum + batch.actualCredits, 0),
-    balanceAfterActual: Math.min(...batches.filter(batch => batch.submitted).map(batch => batch.balanceAfterActual), BALANCE),
+    projectedBalanceAfterCompleted: Math.round((BALANCE - retakeCredits - batches.reduce((sum, b) => sum + b.actualCredits, 0)) * 10) / 10,
   };
   await writeFile(path.join(HEALTH_DIR, 'NARRATION-PREFLIGHT.md'), preflightMarkdown(batches, totals));
   return { lessons: lessons.length, blocks: lessons.reduce((sum, lesson) => sum + lesson.blocks.length, 0), batches: batches.length, ...totals };

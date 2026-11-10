@@ -1,0 +1,316 @@
+{
+  "created": "2026-11-10",
+  "status": "reviewed",
+  "params": [
+    {
+      "index": 503,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Because the insurer drafted the contract, ambiguous language is interpreted the way a reasonable insured would understand it. The reasonable expectations doctrine goes a step further in some courts: coverage the buyer reasonably expected may be honored even if fine print says otherwise. Two more principles shape health insurance. Indemnity means the policy restores a loss but should not create profit, which is why medical expense plans reimburse actual charges. Utt-most good faith means both sides must deal honestly. Rosa relies on the insurer’s solvency and wording; the insurer relies on her answers."
+      }
+    },
+    {
+      "index": 3504,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Employer groups cover the employees of a single employer, the most common form. Creditor groups cover borrowers; the lender is policyholder and the coverage pays the debt, as in credit disability. Labor unions cover members, often through trusts the union and employers fund jointly. Multiple employer trusts pool small employers, usually in the same industry, so they can buy coverage on better terms; Maryland regulates these multiple employer welfare arrangements closely because some have failed. Associations formed for purposes other than insurance, typically professional or trade associations in existence for at least two years, may cover members. Credit unions cover their members."
+      }
+    },
+    {
+      "index": 3604,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Carriers also require the employer to contribute a minimum share of the premium, commonly at least fifty percent of the employee-only cost. The contribution makes enrollment attractive to healthy employees, which keeps the risk pool balanced and the participation requirement reachable. Maryland’s small group market and the S H O P marketplace allow carriers to set reasonable participation and contribution requirements, applied uniformly, and to decline a small group that fails them, even though they may never decline for health. A small business tax credit may offset part of the employer’s share for qualifying employers that buy through S H O P."
+      }
+    },
+    {
+      "index": 3701,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "If a group plan covers family members, an employee’s spouse and children may be eligible. Federal law generally lets children stay on a parent’s plan until age twenty-six. Maryland has a separate rule for unmarried child dependents under twenty-five, including grandchildren of the insured on plans covered by that rule. Newborns are covered from birth and adopted children from placement. When an extra premium applies, notice and payment are due within thirty-one days. Children who cannot support themselves because of a qualifying disability may stay covered past the age limit with proof. A medical child support order can require enrollment outside the usual enrollment period."
+      }
+    },
+    {
+      "index": 4000,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Elena, a dental hygienist, explains the categories to Theo. Diagnostic and preventive services are exams, x-rays, cleanings, fluoride and sealants. Restorative services repair teeth: fillings, crowns, inlays. Oral surgery covers extractions and other surgery of the mouth. Endodontics treats the tooth’s interior, chiefly root canals. Periodontics treats the gums and bone. Prosthodontics replaces missing teeth with bridges, dentures and implants. Orthodontics straightens teeth with braces, often limited to children and carrying its own lifetime maximum. Plans group these categories into tiers that determine how much the plan pays."
+      }
+    },
+    {
+      "index": 4102,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Outside open enrollment, a qualifying life event opens a special enrollment period, generally sixty days: losing other coverage, including a job-based plan, Cobra or Maryland continuation running out, or turning twenty-six; marriage, birth, adoption or placement; a permanent move into Maryland or to a new rating area; release from incarceration; gaining citizenship or lawful presence; or certain changes in income that affect subsidy eligibility. Theo’s client who leaves a job in May has sixty days to enroll with coverage starting the first of the following month. Someone who misses both windows waits for November."
+      }
+    },
+    {
+      "index": 4401,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "The most important date in Medigap is the six-month open enrollment period that begins the first month Dennis is sixty-five or older and enrolled in Part B. During those six months any insurer selling Medigap in Maryland must sell him any plan it offers, may not refuse him or charge more because of his health, and may not delay coverage of pre-existing conditions for more than six months, reduced by prior cred-it-able coverage. After the window closes, insurers may underwrite, charge more or decline, except in guaranteed-issue situations. Lesson forty-five adds Maryland’s extra protections, including a birthday window and rules for people under sixty-five."
+      }
+    },
+    {
+      "index": 5600,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Maryland’s Section fifteen dash four eighteen applies to certain plans that offer dependent coverage. It includes unmarried child dependents under twenty-five, including the insured’s grandchild or a child eligible under the state’s separate dependent coverage law. They receive the same benefits at the same premium as other covered dependents. The federal rule is different. When a plan covers a parent’s children, they can generally stay enrolled until age twenty-six, regardless of marital or student status. On the exam, check whether the question asks about a child or a grandchild. Maryland’s section excludes accident-only, disability and long-term care coverage."
+      }
+    },
+    {
+      "index": 5605,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Several Maryland rules complete the picture. Carriers must pay or respond to claims within thirty days, with interest on late clean claims, under Section fifteen dash ten oh five. Members may grieve adverse decisions and complain to the Administration, which can order independent review. A certificate holder whose spouse dies may add the children who were on the spouse’s policy within six months without evidence of insurability. Mandated benefits and offers bind insurers, nonprofit health service plans and H M O plans alike. The Maryland Health Care Commission evaluates the cost of mandates. When a question names a Maryland requirement, ask three things: who must comply, who is covered and what must be offered or paid."
+      }
+    }
+  ],
+  "estimates": [
+    {
+      "index": 503,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 3504,
+      "cost": {
+        "credits": 4.7,
+        "credits_exact": 4.7
+      }
+    },
+    {
+      "index": 3604,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 3701,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "index": 4000,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 4102,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 4401,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 5600,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 5605,
+      "cost": {
+        "credits": 4.9,
+        "credits_exact": 4.9
+      }
+    }
+  ],
+  "originals": [
+    {
+      "index": 503,
+      "job_id": "1949165f-de06-4948-9ee5-d7f9acc7e694",
+      "reason": "Previous readings obscure utmost good faith; break the first syllable clearly."
+    },
+    {
+      "index": 3504,
+      "job_id": "1ea5b111-1948-46cc-b322-9f3f2043d724",
+      "reason": "The group trust explanation dropped the conjunction between the two funders."
+    },
+    {
+      "index": 3604,
+      "job_id": "9784728c-8e59-443c-bb37-e5e8b53a57ae",
+      "reason": "Remove an extended unintelligible phrase that follows the employer contribution example."
+    },
+    {
+      "index": 3701,
+      "job_id": "dc358c14-605b-44a8-a71e-e0891b1cbac9",
+      "reason": "Correct Maryland’s dependent eligibility language; distinguish a grandchild from a child under the federal rule."
+    },
+    {
+      "index": 4000,
+      "job_id": "63f8c76f-ef21-49dd-842f-027d49f8d737",
+      "reason": "Restore the omitted introductory example and dental specialty."
+    },
+    {
+      "index": 4102,
+      "job_id": "49c6df0c-7bf8-48f3-936f-f0f18dc78be6",
+      "reason": "Replace garbled speech in the special enrollment example."
+    },
+    {
+      "index": 4401,
+      "job_id": "7ef061d5-e0b2-4a8b-92bb-43ed52a86115",
+      "reason": "Read creditable as four syllables to distinguish the Medigap term from credible."
+    },
+    {
+      "index": 5600,
+      "job_id": "d9082ec0-ec26-46d3-be36-75342b620264",
+      "reason": "Use the corrected state definition of a child dependent and distinguish the federal rule."
+    },
+    {
+      "index": 5605,
+      "job_id": "47e92a81-e732-40b3-944b-6c4801c75169",
+      "reason": "Remove a repeated clause about mandated benefits."
+    }
+  ],
+  "jobs": [
+    {
+      "index": 503,
+      "job_id": "e2301ee1-067d-4f9d-9d5f-1a1f0e85d18c",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134419_e2301ee1-067d-4f9d-9d5f-1a1f0e85d18c.mp3"
+    },
+    {
+      "index": 3504,
+      "job_id": "dd9c197c-88f9-432a-8c81-7d43fe472910",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134419_dd9c197c-88f9-432a-8c81-7d43fe472910.mp3"
+    },
+    {
+      "index": 3701,
+      "job_id": "1af82580-3979-44cb-beb7-641c31f9c0f9",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134419_1af82580-3979-44cb-beb7-641c31f9c0f9.mp3"
+    },
+    {
+      "index": 4102,
+      "job_id": "39871cfd-61bb-47ed-b76e-960221d3091a",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134419_39871cfd-61bb-47ed-b76e-960221d3091a.mp3"
+    },
+    {
+      "index": 3604,
+      "job_id": "bf59ced8-3288-4696-8f3b-3d27c3a707c9",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_135507_bf59ced8-3288-4696-8f3b-3d27c3a707c9.mp3"
+    },
+    {
+      "index": 4000,
+      "job_id": "51fb1fa8-04c1-4ef7-a9f0-d412b9a98ce9",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_135507_51fb1fa8-04c1-4ef7-a9f0-d412b9a98ce9.mp3"
+    },
+    {
+      "index": 4401,
+      "job_id": "5353ca23-76ce-4de2-81d4-eb7702ff424c",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_135611_5353ca23-76ce-4de2-81d4-eb7702ff424c.mp3"
+    },
+    {
+      "index": 5600,
+      "job_id": "83d03f4a-ae84-436f-a472-b2356584234c",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_135611_83d03f4a-ae84-436f-a472-b2356584234c.mp3"
+    },
+    {
+      "index": 5605,
+      "job_id": "c983dd93-bc63-47cc-83d3-a69496942e18",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_135611_c983dd93-bc63-47cc-83d3-a69496942e18.mp3"
+    }
+  ],
+  "failed_attempts": [
+    {
+      "index": 4000,
+      "job_id": "521fdb94-f0d8-4317-b5f7-561bf8ca82fa",
+      "status": "failed",
+      "type": "audio",
+      "model": "seed_audio",
+      "reconfirmed": "failed; no artifact on second status read; one replacement requested"
+    }
+  ],
+  "credits": {
+    "credits_exact": 40.2
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "dd9c197c-88f9-432a-8c81-7d43fe472910",
+      "1af82580-3979-44cb-beb7-641c31f9c0f9",
+      "39871cfd-61bb-47ed-b76e-960221d3091a",
+      "bf59ced8-3288-4696-8f3b-3d27c3a707c9",
+      "5353ca23-76ce-4de2-81d4-eb7702ff424c",
+      "83d03f4a-ae84-436f-a472-b2356584234c",
+      "c983dd93-bc63-47cc-83d3-a69496942e18"
+    ]
+  }
+}

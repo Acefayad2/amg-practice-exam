@@ -120,6 +120,3492 @@
       "wpm": 163,
       "silence_removed_sec": 0.32,
       "review": "script matched"
+    },
+    {
+      "index": 300,
+      "job_id": "e450ead0-549d-45c3-8f90-ceae7e892187",
+      "file": "h03-1-29c4c3aead.mp3",
+      "sha256": "29c4c3aead2688b10f89f5dce930a3b50d000d3b17018111ff2b7839e91dc991",
+      "duration_sec": 35.9,
+      "wpm": 162,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 301,
+      "job_id": "e2c6c6fd-5f07-4944-a46d-46d774ff01ed",
+      "file": "h03-2-2ddebd1df9.mp3",
+      "sha256": "2ddebd1df9b7e8394e6fc613fb8542b5901608fbe7e79b693cf0a82302064204",
+      "duration_sec": 42.96,
+      "wpm": 134,
+      "silence_removed_sec": 0.26,
+      "review": "script matched"
+    },
+    {
+      "index": 302,
+      "job_id": "88a4cf87-f621-4a96-b124-6f06e071bedf",
+      "file": "h03-3-e6fec78697.mp3",
+      "sha256": "e6fec78697530a30cf98d51375fa7ef4d6cd11c2095fcc13527e32ca73aedd82",
+      "duration_sec": 43.6,
+      "wpm": 125,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 303,
+      "job_id": "7837e638-e1a5-4639-bab2-3d454956d6a7",
+      "file": "h03-4-c423c760ae.mp3",
+      "sha256": "c423c760ae780f79380f66f4755e76d55936739c351aa0e80a21e162ff9af152",
+      "duration_sec": 36.42,
+      "wpm": 143,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 304,
+      "job_id": "cef572b6-3555-4821-9a8a-0c1f1a5a51d1",
+      "file": "h03-5-8d6c587809.mp3",
+      "sha256": "8d6c587809c7bd7e76efa49a4ad7657ce8aeebab59e4b48efec55e00dd19cbf8",
+      "duration_sec": 39.9,
+      "wpm": 138,
+      "silence_removed_sec": 6.44,
+      "review": "script matched"
+    },
+    {
+      "index": 305,
+      "job_id": "613dbdd3-95ef-4f43-9fae-4557b861c0f8",
+      "file": "h03-6-0efc26a7a7.mp3",
+      "sha256": "0efc26a7a783f2a8a6fc1478cee36a6e05594eb7b41fcbabae0dff0233df90f1",
+      "duration_sec": 47.61,
+      "wpm": 127,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 400,
+      "job_id": "4afeb9e7-7006-474e-a8eb-463402b035be",
+      "file": "h04-1-c677f83a31.mp3",
+      "sha256": "c677f83a31680df68566a975c35e059c67d0211636612f74a6d19622fadcd541",
+      "duration_sec": 36.02,
+      "wpm": 153,
+      "silence_removed_sec": 0.1,
+      "review": "script matched"
+    },
+    {
+      "index": 401,
+      "job_id": "4ddc1ba3-54bb-474f-b1a2-9cc63c672089",
+      "file": "h04-2-702a37e65e.mp3",
+      "sha256": "702a37e65e4066b0625a1d7c5ff7b348e5c3edb39970d602feaff619463327cf",
+      "duration_sec": 32.32,
+      "wpm": 163,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 402,
+      "job_id": "38a5d4d5-563f-4cb2-891a-f0764e71c370",
+      "file": "h04-3-305ca7e159.mp3",
+      "sha256": "305ca7e1599abcbf5d11d304502e3789c1482b5a158dd96165a030aa902074d3",
+      "duration_sec": 34.89,
+      "wpm": 156,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 403,
+      "job_id": "7e63691b-d71f-4ecd-b63d-7fa242727a03",
+      "file": "h04-4-c72560e604.mp3",
+      "sha256": "c72560e6044116e4378ea13b3ace719c50bb687c6c46f0092e2ea7497cec28e3",
+      "duration_sec": 36.95,
+      "wpm": 158,
+      "silence_removed_sec": 3.54,
+      "review": "script matched"
+    },
+    {
+      "index": 404,
+      "job_id": "a44ed02c-794e-476b-af27-a25f416bccd1",
+      "file": "h04-5-f46bc3d28d.mp3",
+      "sha256": "f46bc3d28de6a99cfde61716f67cd1a590cc2293881555d3ce953495206a6147",
+      "duration_sec": 36.69,
+      "wpm": 155,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 405,
+      "job_id": "2f43fe81-e15e-4e7e-a870-a730b2f598d1",
+      "file": "h04-6-79444afb67.mp3",
+      "sha256": "79444afb672a8407660d2842224d30f7b3cf557e2a55343e9b71b2818beb0da2",
+      "duration_sec": 32.53,
+      "wpm": 176,
+      "silence_removed_sec": 0.28,
+      "review": "script matched"
+    },
+    {
+      "index": 500,
+      "job_id": "53ee4e6b-c880-47ac-80ec-247909fd4318",
+      "file": "h05-1-d79cac7485.mp3",
+      "sha256": "d79cac7485a6f326be7464a03011dab919a2aeee8b877bf67938b23751dd1d4d",
+      "duration_sec": 39.68,
+      "wpm": 141,
+      "silence_removed_sec": 0.28,
+      "review": "script matched"
+    },
+    {
+      "index": 501,
+      "job_id": "bccc1326-e3d4-4448-b1bb-1714c9d09eff",
+      "file": "h05-2-359bcbeda3.mp3",
+      "sha256": "359bcbeda3c8ba3712a8d465264cd6157e016b03910af78737a61e0ed71ba5e3",
+      "duration_sec": 35.3,
+      "wpm": 163,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 502,
+      "job_id": "0d3b2f7d-acce-46b8-8887-75631acaa8eb",
+      "file": "h05-3-af5a657304.mp3",
+      "sha256": "af5a6573043c53aeea4f4b5499ef7128b4d457cea01b83461b981aa5c6fa6843",
+      "duration_sec": 40.22,
+      "wpm": 139,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 503,
+      "job_id": "1f6ab4c5-42e4-405f-ad34-60053ef0aadd",
+      "file": "h05-4-d8da2af2ac.mp3",
+      "sha256": "d8da2af2ac56d09f407886aebb24d19ece61f79a59d49a933484eda40f8e355d",
+      "duration_sec": 51.57,
+      "wpm": 131,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 504,
+      "job_id": "6e4f0757-2849-4085-bd60-e40ae8b220de",
+      "file": "h05-5-fc57f5d0dd.mp3",
+      "sha256": "fc57f5d0ddd07b829508e5d6e0e43763323d3b9ce1561332cba17f24e8d182f5",
+      "duration_sec": 42.28,
+      "wpm": 133,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 505,
+      "job_id": "584246b7-0e75-498e-9dec-8d544fb45729",
+      "file": "h05-6-4d20375a8b.mp3",
+      "sha256": "4d20375a8bd079d5ccc78c4609a809ad6c315bf07a89bba8b17cb973f75f86c7",
+      "duration_sec": 41.71,
+      "wpm": 143,
+      "silence_removed_sec": 0.46,
+      "review": "script matched"
+    },
+    {
+      "index": 600,
+      "job_id": "76cf45b5-05de-40c4-bde7-7476353fa4f7",
+      "file": "h06-1-9062c58f34.mp3",
+      "sha256": "9062c58f34278ad456ea7e51577321d7f37b816431e38b225e21b459393ab40c",
+      "duration_sec": 36.85,
+      "wpm": 156,
+      "silence_removed_sec": 11.56,
+      "review": "script matched"
+    },
+    {
+      "index": 601,
+      "job_id": "8008e897-e7d9-41eb-a43a-a5666e542d24",
+      "file": "h06-2-cd55881db8.mp3",
+      "sha256": "cd55881db823797b20cc3fd9f3920a09bbf63a3f2a462574726d08f432205980",
+      "duration_sec": 29.08,
+      "wpm": 192,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 602,
+      "job_id": "b42792a9-5e60-450d-90e1-6bdeae972ba6",
+      "file": "h06-3-6f596c5d3e.mp3",
+      "sha256": "6f596c5d3e2d463549abbc0b0d3069119ce2f252a41a5bc66a67edc6418fa653",
+      "duration_sec": 34.02,
+      "wpm": 185,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 603,
+      "job_id": "0ff73153-e4a6-4f15-a9aa-a8cc44600403",
+      "file": "h06-4-5cfe7c848a.mp3",
+      "sha256": "5cfe7c848ab595590a89ffcbe222b81908dfc1f8a4a3328470bd69424115ed3d",
+      "duration_sec": 45.26,
+      "wpm": 129,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 604,
+      "job_id": "4c946b3b-f8b1-488e-9dd9-5e09e183af11",
+      "file": "h06-5-0387f42d33.mp3",
+      "sha256": "0387f42d3369d0c83353423fda07182418a3c060dfcda982eb0fec66ba95aee4",
+      "duration_sec": 35.82,
+      "wpm": 149,
+      "silence_removed_sec": 1.02,
+      "review": "script matched"
+    },
+    {
+      "index": 605,
+      "job_id": "8cee102e-f2d6-4873-9e99-6d3470d92a3a",
+      "file": "h06-6-9bdebf6bf3.mp3",
+      "sha256": "9bdebf6bf3309b426ab1e70509c174f31234ef07ed13ff3f7e7cd8a94bdb4e1c",
+      "duration_sec": 42.52,
+      "wpm": 125,
+      "silence_removed_sec": 1.45,
+      "review": "script matched"
+    },
+    {
+      "index": 700,
+      "job_id": "ffb15ba3-7441-4239-94a6-7750a9869063",
+      "file": "h07-1-52096e8e8e.mp3",
+      "sha256": "52096e8e8e15c68cc5ad751e112db9a88de1817bbf31b0adcf567383ebdad5e0",
+      "duration_sec": 35.42,
+      "wpm": 171,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 701,
+      "job_id": "c325d76f-927d-49e8-848b-2a51c22103d4",
+      "file": "h07-2-8e82972067.mp3",
+      "sha256": "8e82972067a2bc6ac6802b4d208f22e6a9b4cc9290e8c8bc3eda8b38c23df094",
+      "duration_sec": 52.38,
+      "wpm": 124,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 702,
+      "job_id": "56e348dc-74e5-495f-b374-a82b72adc29c",
+      "file": "h07-3-0378966973.mp3",
+      "sha256": "037896697328009cfa0a2ae07fba82d95c837f9572f21be919c221628d76c7e7",
+      "duration_sec": 38.1,
+      "wpm": 167,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 703,
+      "job_id": "da59c538-a379-467b-93ac-7d6b79529700",
+      "file": "h07-4-f38a575287.mp3",
+      "sha256": "f38a5752871645640336fe5bd0032686b027513313f75cb4c29a674adb94c9b3",
+      "duration_sec": 47.69,
+      "wpm": 131,
+      "silence_removed_sec": 0.26,
+      "review": "script matched"
+    },
+    {
+      "index": 704,
+      "job_id": "ec5fe443-fbe7-4f50-a702-9b1cf4c643c1",
+      "file": "h07-5-0394945139.mp3",
+      "sha256": "03949451390b8c19d9dcfd54a9d096153bff9649ddba25ba17d78a633a0edc07",
+      "duration_sec": 36.14,
+      "wpm": 172,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 705,
+      "job_id": "4a3c97fe-a656-46fe-8561-88a84071e09a",
+      "file": "h07-6-f0911a1918.mp3",
+      "sha256": "f0911a1918671532c1d1b8962102c0f746e94183dd7ea9d0a34572e90ef7a797",
+      "duration_sec": 42.42,
+      "wpm": 147,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 800,
+      "job_id": "493021fc-7213-4289-af24-fe65e46d3b52",
+      "file": "h08-1-9fd0cdb4ff.mp3",
+      "sha256": "9fd0cdb4ff10e4ddde26be003266a43dfc6f2b8f4b11175e590d568d8212709b",
+      "duration_sec": 36.52,
+      "wpm": 162,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 801,
+      "job_id": "d80f8603-c8bd-42b4-9ea9-423c4cf3e747",
+      "file": "h08-2-ec6d78a538.mp3",
+      "sha256": "ec6d78a538d12f3e14a40455926ff1cebce7905eab181a8f8c989f5d6c09ecc1",
+      "duration_sec": 36.45,
+      "wpm": 156,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 802,
+      "job_id": "cf403086-0452-4944-b627-eb9949e49a7e",
+      "file": "h08-3-d5b78fdf63.mp3",
+      "sha256": "d5b78fdf63f85e1a771643b2a6cc5501def14cade32d243304cd32eaee252058",
+      "duration_sec": 33.28,
+      "wpm": 177,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 803,
+      "job_id": "b192fb67-7e4f-4bb8-8839-2064ccd4da0c",
+      "file": "h08-4-b698f15902.mp3",
+      "sha256": "b698f15902ae758b555bbfaf535959261e6ec0551a8017bad76be0fc366dde23",
+      "duration_sec": 31.27,
+      "wpm": 172,
+      "silence_removed_sec": 6.36,
+      "review": "script matched"
+    },
+    {
+      "index": 804,
+      "job_id": "7533a407-5375-4035-a5c4-350a7c3266ad",
+      "file": "h08-5-db697e4da0.mp3",
+      "sha256": "db697e4da06c22f846a59588d24bba8417780d42c5cfaef9c1a295b446c0f9b3",
+      "duration_sec": 38.02,
+      "wpm": 148,
+      "silence_removed_sec": 0.0,
+      "review": "reviewed: Both reads recover the spoken letter E and \u201cas in exception\u201d immediately after the term. The look-alike transcription \u201caccepted\u201d is resolved by that explicit spelling and the correct examples."
+    },
+    {
+      "index": 805,
+      "job_id": "4725ab8b-6a54-478c-8efb-1538c0507ed8",
+      "file": "h08-6-bff26fca6b.mp3",
+      "sha256": "bff26fca6b18ca4834012a7cf4cdf08bd0008f7edc300ff0c1290166ffa1641e",
+      "duration_sec": 43.34,
+      "wpm": 130,
+      "silence_removed_sec": 0.24,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 900,
+      "job_id": "fa9408c7-b5b6-48b6-8db7-26ddf794bba3",
+      "file": "h09-1-3c5b295de4.mp3",
+      "sha256": "3c5b295de4c98f57a8119ce0f87be6ff783e193a270e0f2b62b1ba35eae0924f",
+      "duration_sec": 45.39,
+      "wpm": 130,
+      "silence_removed_sec": 0.16,
+      "review": "script matched"
+    },
+    {
+      "index": 901,
+      "job_id": "12bf0bd1-28ec-47a3-bc54-4d63e65dda95",
+      "file": "h09-2-b8896908a6.mp3",
+      "sha256": "b8896908a6cf230c99a0911f0867773240d5a389e0fac9037b85ca12d2be16eb",
+      "duration_sec": 39.32,
+      "wpm": 142,
+      "silence_removed_sec": 0.28,
+      "review": "script matched"
+    },
+    {
+      "index": 902,
+      "job_id": "3d0edad8-bdc4-4eb3-8fdc-e33b80e2d6b4",
+      "file": "h09-3-97db989d7f.mp3",
+      "sha256": "97db989d7f07314575b53ba0b7a049881e92305d8a9a3b0f5df1d3f6243d9a2c",
+      "duration_sec": 36.36,
+      "wpm": 149,
+      "silence_removed_sec": 0.46,
+      "review": "script matched"
+    },
+    {
+      "index": 903,
+      "job_id": "f1819e45-d442-42f5-aa24-cd74890901e3",
+      "file": "h09-4-b7d5fc817b.mp3",
+      "sha256": "b7d5fc817bed404e6069325ad444b2681b6f317669e40042a1e7ef1a1209cb58",
+      "duration_sec": 35.51,
+      "wpm": 158,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 904,
+      "job_id": "63125e31-1f2a-4183-8b07-8bc285e1273e",
+      "file": "h09-5-74da6a4fe1.mp3",
+      "sha256": "74da6a4fe11384695bdc7ae567d92000aa69f3fe43474e45795fe815a2bc9ce7",
+      "duration_sec": 35.03,
+      "wpm": 155,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 905,
+      "job_id": "f2a64290-b879-482c-ade5-7f9b31da2c5b",
+      "file": "h09-6-526a2935a6.mp3",
+      "sha256": "526a2935a6a288e473119771c81ae40167e0dcc5952d80a69d439b7b4fdad024",
+      "duration_sec": 43.17,
+      "wpm": 139,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 1000,
+      "job_id": "dd677b91-3c48-4781-a333-0e215bf459a9",
+      "file": "h10-1-92b6f86bcc.mp3",
+      "sha256": "92b6f86bccf396e54539b0c5d9d8cf29af0477a225852eba103c38ce39cdf93a",
+      "duration_sec": 39.38,
+      "wpm": 154,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 1001,
+      "job_id": "2d615c4e-e9c4-4985-ae6c-58e146e5ebb3",
+      "file": "h10-2-6380e3672c.mp3",
+      "sha256": "6380e3672c569c6a988937da4081f75af7959c8b8d1d80a8f7d4aecab2d7f4e7",
+      "duration_sec": 40.75,
+      "wpm": 147,
+      "silence_removed_sec": 7.2,
+      "review": "script matched"
+    },
+    {
+      "index": 1002,
+      "job_id": "47e79f4e-4ecf-43b4-86e8-fdb8e1b31aa2",
+      "file": "h10-3-838be061c9.mp3",
+      "sha256": "838be061c9437dfb946e5449280185c527b38a8810106fb41110035c01fc6a8e",
+      "duration_sec": 46.91,
+      "wpm": 147,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 1003,
+      "job_id": "686d17c1-3170-48f9-b52d-64b0f8fe36df",
+      "file": "h10-4-4874d9bf94.mp3",
+      "sha256": "4874d9bf94e392017945bab75976a4910ad9122619d778f67cc6a242682d5b5e",
+      "duration_sec": 31.36,
+      "wpm": 188,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 1004,
+      "job_id": "2943f376-b165-459a-a1c9-7e963c503fae",
+      "file": "h10-5-b4ff23e69c.mp3",
+      "sha256": "b4ff23e69c864df805b1987e75841490ed6cfc446243bfc20488d2c28e957fe2",
+      "duration_sec": 38.9,
+      "wpm": 145,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 1005,
+      "job_id": "b36aa709-0aaf-4077-a6f3-a6a3d57817d3",
+      "file": "h10-6-d0d91a16f4.mp3",
+      "sha256": "d0d91a16f4209fdd65a67e1a55ed3cb344d11f80e03784a53b3b3e829e24b798",
+      "duration_sec": 37.24,
+      "wpm": 160,
+      "silence_removed_sec": 0.37,
+      "review": "script matched"
+    },
+    {
+      "index": 1100,
+      "job_id": "558c7549-d874-49e4-ba05-54055fd9fc19",
+      "file": "h11-1-d43e47a4a0.mp3",
+      "sha256": "d43e47a4a0a17ae429ee6c99ea1f222a38e043b356c4aa8c9f8892568fcde8ff",
+      "duration_sec": 46.02,
+      "wpm": 125,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 1101,
+      "job_id": "df86e04f-54d7-4b7e-a2b0-69f1dcb66720",
+      "file": "h11-2-4f1e4286dd.mp3",
+      "sha256": "4f1e4286dd1a9a22f5855d6a40617f120414777362931ce064f81ed012ce623c",
+      "duration_sec": 38.89,
+      "wpm": 149,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 1102,
+      "job_id": "9c6d0ad8-442f-48ca-8659-13937896f93a",
+      "file": "h11-3-e4d6322c90.mp3",
+      "sha256": "e4d6322c90bf4847a737b421da3c150b3493bb7d277da25c4fc3e67ab54b9c3f",
+      "duration_sec": 32.73,
+      "wpm": 185,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 1103,
+      "job_id": "b81e1697-7669-4944-b3d3-0bc6070fdc8b",
+      "file": "h11-4-255f39c608.mp3",
+      "sha256": "255f39c608cf8cbe98a20385e07ac04fd81c58eda93777360cd85b07513bdffb",
+      "duration_sec": 46.02,
+      "wpm": 124,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 1104,
+      "job_id": "88050e59-8a44-4e0c-8647-740351f8e1af",
+      "file": "h11-5-82cf3f9968.mp3",
+      "sha256": "82cf3f996837cccf930409f355d2ee8174bec92258b20d470e78b4bfb5e983db",
+      "duration_sec": 40.55,
+      "wpm": 146,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 1105,
+      "job_id": "79270305-2651-4ad8-9578-33c00dca6ef8",
+      "file": "h11-6-0adeb3a8e0.mp3",
+      "sha256": "0adeb3a8e0cbab5d4728ef6c6545eb3330005224c1c4453f6bc684d4d67d57d1",
+      "duration_sec": 46.02,
+      "wpm": 127,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 1200,
+      "job_id": "e5def71a-a4ee-4638-b1f8-03bf08057d3e",
+      "file": "h12-1-0acdff2382.mp3",
+      "sha256": "0acdff2382d04a2efdf8d243ffbf2a58a3fe344f88186eb1730ac12ef597baf1",
+      "duration_sec": 39.54,
+      "wpm": 142,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 1201,
+      "job_id": "243df8fe-6131-4c7d-b15b-e10f4b710a84",
+      "file": "h12-2-a1860e80f9.mp3",
+      "sha256": "a1860e80f9173962bff4125d2a617df38712e523b1fb28ed31e9c9613c93f004",
+      "duration_sec": 36.93,
+      "wpm": 160,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 1202,
+      "job_id": "9be3371a-1398-4f05-88e6-afa6ff776c84",
+      "file": "h12-3-98e2eb17bb.mp3",
+      "sha256": "98e2eb17bb426b64ccde1f218ff4d72c1dc7b874e24ac04ac4119f7f4a30dc64",
+      "duration_sec": 37.89,
+      "wpm": 158,
+      "silence_removed_sec": 0.1,
+      "review": "script matched"
+    },
+    {
+      "index": 1203,
+      "job_id": "75610512-88a1-4ad8-9852-372f8c1b03bb",
+      "file": "h12-4-cef37c59dc.mp3",
+      "sha256": "cef37c59dc875901fa7dfa0091fd15517eb8b48750942221db3175e7dd5d29f6",
+      "duration_sec": 36.79,
+      "wpm": 172,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 1204,
+      "job_id": "5de87c80-68f9-42d7-9eeb-55cd9f308742",
+      "file": "h12-5-ead9f36508.mp3",
+      "sha256": "ead9f36508e0cb96e996c6babf7f352a9b7546cfecf7d7d549ef16fd1525bb25",
+      "duration_sec": 42.64,
+      "wpm": 138,
+      "silence_removed_sec": 0.54,
+      "review": "script matched"
+    },
+    {
+      "index": 1205,
+      "job_id": "fa96fabd-0109-413f-9b60-5c1627debdcd",
+      "file": "h12-6-7ca2a05447.mp3",
+      "sha256": "7ca2a0544725e23b40d53b8f7e3849f7905aa64b856da49aedca959638c08dcd",
+      "duration_sec": 42.36,
+      "wpm": 136,
+      "silence_removed_sec": 0.36,
+      "review": "script matched"
+    },
+    {
+      "index": 1300,
+      "job_id": "54448fad-4d9f-475d-92af-987e06e6c038",
+      "file": "h13-1-6512bdf5f3.mp3",
+      "sha256": "6512bdf5f322181b1c8f4187faa8be93f62427e76ee238b179d946696ee72ef7",
+      "duration_sec": 37.24,
+      "wpm": 152,
+      "silence_removed_sec": 16.64,
+      "review": "script matched"
+    },
+    {
+      "index": 1301,
+      "job_id": "774def1b-9727-4b68-8bea-8dd65fd5ee38",
+      "file": "h13-2-32df499025.mp3",
+      "sha256": "32df4990250be634880bb3d5d01d53b68073f8833c543e3211d9e27c55373a3c",
+      "duration_sec": 34.98,
+      "wpm": 154,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 1302,
+      "job_id": "2aa99af5-b468-45ca-aeb3-6cde2ecf44d2",
+      "file": "h13-3-8c0f19823b.mp3",
+      "sha256": "8c0f19823b69aa26cd6f9a12cf5c0a0386b7fae12eb7bcbb55d1cb39a0981312",
+      "duration_sec": 38.18,
+      "wpm": 143,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 1303,
+      "job_id": "d0de2535-f860-4c80-814e-a3054498f126",
+      "file": "h13-4-88b7727475.mp3",
+      "sha256": "88b77274756496ae3620023cc333b42392baf88bc5c1fe6b5309dd2dfdab74fb",
+      "duration_sec": 32.22,
+      "wpm": 171,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 1304,
+      "job_id": "a90e6158-e030-476b-9637-1706b4ff18ae",
+      "file": "h13-5-331d61661f.mp3",
+      "sha256": "331d61661fe82f23464e0781e96ef2d406bc558723f9f283b497f723b86ea2f2",
+      "duration_sec": 39.01,
+      "wpm": 144,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 1305,
+      "job_id": "08969d4c-e64b-4afd-8f77-08ae2dcefd31",
+      "file": "h13-6-4da7b68297.mp3",
+      "sha256": "4da7b68297ee62d1ff40238121af8addf4c6d8e4a08c27192e8d14d490792fbd",
+      "duration_sec": 38.83,
+      "wpm": 147,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 1400,
+      "job_id": "15c0e06d-eb65-47a4-8d37-72937ee1bd44",
+      "file": "h14-1-575a4492f3.mp3",
+      "sha256": "575a4492f3e25802e284299f9a5a9cf25927631e274e0736d5d2aff8c28dc1a7",
+      "duration_sec": 45.66,
+      "wpm": 128,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 1401,
+      "job_id": "4abd55dc-0317-4714-b62f-8d02343fe881",
+      "file": "h14-2-9ce1d28feb.mp3",
+      "sha256": "9ce1d28feb23ff3131cfeb07d60a98c369858aa3a52f7107bc6801274e1c9b02",
+      "duration_sec": 40.35,
+      "wpm": 149,
+      "silence_removed_sec": 0.28,
+      "review": "script matched"
+    },
+    {
+      "index": 1402,
+      "job_id": "ec05572d-c0ab-4b92-bede-8b3d9dbf110c",
+      "file": "h14-3-b3b0826193.mp3",
+      "sha256": "b3b08261934cc6524c73c36bf17cc456136936c2adcc90c803bc203bafc85f3e",
+      "duration_sec": 32.57,
+      "wpm": 176,
+      "silence_removed_sec": 6.26,
+      "review": "script matched"
+    },
+    {
+      "index": 1403,
+      "job_id": "79818eff-a51c-412a-ad6b-103c12df9016",
+      "file": "h14-4-7983015e15.mp3",
+      "sha256": "7983015e15e1420961a0fe6c690d7bbe9a5e7b6adea81a66819aa7243a94253d",
+      "duration_sec": 40.09,
+      "wpm": 142,
+      "silence_removed_sec": 1.24,
+      "review": "script matched"
+    },
+    {
+      "index": 1404,
+      "job_id": "131ca801-25ca-4f1f-8206-15f94d1e75ce",
+      "file": "h14-5-5f96529290.mp3",
+      "sha256": "5f96529290148a18adb30c16184d1dad39b8f5e553750b40d64e6aebf48fd2a7",
+      "duration_sec": 34.87,
+      "wpm": 171,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 1405,
+      "job_id": "681f785b-aef7-4a18-b026-432085179c34",
+      "file": "h14-6-c618f9442d.mp3",
+      "sha256": "c618f9442d990ffddaf416f1044096fd722697300df1b56e88d723e806e1f2f9",
+      "duration_sec": 46.49,
+      "wpm": 117,
+      "silence_removed_sec": 1.46,
+      "review": "script matched"
+    },
+    {
+      "index": 1500,
+      "job_id": "13027e09-f0d5-4617-ba3c-ba2c6747bc83",
+      "file": "h15-1-cb82638f86.mp3",
+      "sha256": "cb82638f860b53c98e45d940307f9f8643ca5570a7820b44e1585e32ec696ca5",
+      "duration_sec": 39.52,
+      "wpm": 146,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 1501,
+      "job_id": "8ea2efd2-e7d0-4f23-b4a6-ff9faa8e17b7",
+      "file": "h15-2-7c6ecbb44c.mp3",
+      "sha256": "7c6ecbb44cb047a18e6eb111d0a2908d8e56f4975c722e9aecaa7d7a9bd8a22e",
+      "duration_sec": 37.02,
+      "wpm": 175,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 1502,
+      "job_id": "18e23b79-6626-4367-a3d3-a2ca01e29c4b",
+      "file": "h15-3-661f31c433.mp3",
+      "sha256": "661f31c433d72ffe002ef1f19504a1606f72d889abd372b62af7ef84ef9a141f",
+      "duration_sec": 40.12,
+      "wpm": 149,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 1503,
+      "job_id": "f10e8dca-8715-41a1-8068-96d0cee743a4",
+      "file": "h15-4-29a3e2b8cc.mp3",
+      "sha256": "29a3e2b8ccf3f9f596f30ab1ff7da6cf2a49d84ef21ac88128beed508253dd1e",
+      "duration_sec": 33.16,
+      "wpm": 188,
+      "silence_removed_sec": 0.08,
+      "tempo_factor": 0.933,
+      "review": "script matched"
+    },
+    {
+      "index": 1504,
+      "job_id": "571fad2f-9ded-43a4-81ca-35a04e4eedf3",
+      "file": "h15-5-072426cb30.mp3",
+      "sha256": "072426cb3062eefea8768aa31a60282a7d7cc51330c7a1c0586a4cd2c9ce7d79",
+      "duration_sec": 47.32,
+      "wpm": 131,
+      "silence_removed_sec": 1.4,
+      "review": "script matched"
+    },
+    {
+      "index": 1505,
+      "job_id": "cf6c480e-41cf-4432-8027-528afc5b93c8",
+      "file": "h15-6-777b2a38e1.mp3",
+      "sha256": "777b2a38e1dfe1ebbc8979a72e9ca86bc0db417f5a381855eace95b809f2f95b",
+      "duration_sec": 33.45,
+      "wpm": 192,
+      "silence_removed_sec": 0.1,
+      "review": "script matched"
+    },
+    {
+      "index": 1600,
+      "job_id": "77b436bb-6a01-41e0-85bf-0b10543bf766",
+      "file": "h16-1-03e277e60a.mp3",
+      "sha256": "03e277e60a8d6f685dab04c8999453b15640712170a8b901930efa458c518d32",
+      "duration_sec": 34.5,
+      "wpm": 174,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 1601,
+      "job_id": "d1acd63e-c0b2-4c72-b935-d6af6d144349",
+      "file": "h16-2-deda05fa00.mp3",
+      "sha256": "deda05fa007ed92015ce40cfb68d73dee2429605d195890d6a190e34bac2d17b",
+      "duration_sec": 27.5,
+      "wpm": 188,
+      "silence_removed_sec": 0.3,
+      "tempo_factor": 0.8975,
+      "review": "script matched"
+    },
+    {
+      "index": 1602,
+      "job_id": "99a08802-32bd-4989-8cf6-102fe90f4eb6",
+      "file": "h16-3-05766ff28b.mp3",
+      "sha256": "05766ff28becddd28bf4d5e895760eec9595575ec65d28a68cd52521d037637e",
+      "duration_sec": 32.62,
+      "wpm": 186,
+      "silence_removed_sec": 0.28,
+      "review": "script matched"
+    },
+    {
+      "index": 1603,
+      "job_id": "f1815862-999c-4913-9992-a71a74338a6e",
+      "file": "h16-4-71855d09c1.mp3",
+      "sha256": "71855d09c1cf66746c5e091ffd550543bde5a714863f72d0b9abaff77aef0a62",
+      "duration_sec": 38.37,
+      "wpm": 176,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 1604,
+      "job_id": "db48fb7c-be81-4880-8529-ede2ff31dd71",
+      "file": "h16-5-9be915a618.mp3",
+      "sha256": "9be915a61809f54bb36b5cb5b11d511cfc22eb41b5ecf722e0c6db0e65fd9a63",
+      "duration_sec": 32.88,
+      "wpm": 188,
+      "silence_removed_sec": 11.04,
+      "tempo_factor": 0.8544,
+      "review": "script matched"
+    },
+    {
+      "index": 1605,
+      "job_id": "5180fd98-71d9-401e-aa9e-8a9a2bfd1f50",
+      "file": "h16-6-fc095f042b.mp3",
+      "sha256": "fc095f042b82b6c194513e96b9a4c22c7567ed5cf56f2fcd29a0b453f19b4291",
+      "duration_sec": 32.51,
+      "wpm": 185,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 1700,
+      "job_id": "ce6f82e3-ab83-4fa7-a717-0c7b3f6a23dc",
+      "file": "h17-1-d3c4fb5a8c.mp3",
+      "sha256": "d3c4fb5a8cb87f19c99b6eabe165b84ca94d6373a61addb0763a30c5e2ddf692",
+      "duration_sec": 30.99,
+      "wpm": 184,
+      "silence_removed_sec": 0.5,
+      "review": "script matched"
+    },
+    {
+      "index": 1701,
+      "job_id": "ee1f2d15-bea6-4b7a-a1a3-9b1ffb16440e",
+      "file": "h17-2-8859b42df4.mp3",
+      "sha256": "8859b42df4a9066f76ecb86b3e0af57c190fa1a19652465d81f8782161d8ed81",
+      "duration_sec": 45.66,
+      "wpm": 135,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 1702,
+      "job_id": "4b57737e-d16d-42a3-8727-cdea2f32d464",
+      "file": "h17-3-2317d9b921.mp3",
+      "sha256": "2317d9b921c16795afbc8415b1e9f6586d4c6f68edc1819e1e1158da9bba88f4",
+      "duration_sec": 39.35,
+      "wpm": 152,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 1703,
+      "job_id": "6eda1aca-036f-437f-88da-459810a7b98e",
+      "file": "h17-4-38ce062d68.mp3",
+      "sha256": "38ce062d681da2c646891020141c9f5eadfbbcbb6ac6290cd38364fc5935e480",
+      "duration_sec": 41.12,
+      "wpm": 138,
+      "silence_removed_sec": 5.48,
+      "review": "script matched"
+    },
+    {
+      "index": 1704,
+      "job_id": "38674eef-b43b-4c3f-8718-eb98aa7fbcd1",
+      "file": "h17-5-90430d8737.mp3",
+      "sha256": "90430d873703b02fa6aefa816ad8c319a25f4f2e69f772675c36574ed54e0e4d",
+      "duration_sec": 40.97,
+      "wpm": 151,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 1705,
+      "job_id": "ca40742e-3ae1-4828-ae11-778e2a54e32a",
+      "file": "h17-6-50cf5f9a8b.mp3",
+      "sha256": "50cf5f9a8b3133f5ccc937ff7a056a945086bd06556f3757273bd3aeaed55304",
+      "duration_sec": 39.0,
+      "wpm": 161,
+      "silence_removed_sec": 0.26,
+      "review": "script matched"
+    },
+    {
+      "index": 1800,
+      "job_id": "efb23102-4c84-4978-9bba-ca2b064a6419",
+      "file": "h18-1-2af89854b2.mp3",
+      "sha256": "2af89854b2b0628483fe111eac2b18b9556c6b80148808ef0593441e8f825fdf",
+      "duration_sec": 31.8,
+      "wpm": 179,
+      "silence_removed_sec": 0.96,
+      "review": "script matched"
+    },
+    {
+      "index": 1801,
+      "job_id": "bf203792-1829-4e61-947b-81dbba57e369",
+      "file": "h18-2-912c12a792.mp3",
+      "sha256": "912c12a792f43005cda646e4b69d9d31d94f6caa30ffc108b703691a4d6e836d",
+      "duration_sec": 28.11,
+      "wpm": 188,
+      "silence_removed_sec": 0.18,
+      "tempo_factor": 0.9197,
+      "review": "script matched"
+    },
+    {
+      "index": 1802,
+      "job_id": "cf1b52b4-2809-494c-a86e-cfd1adec9435",
+      "file": "h18-3-0c87170ba7.mp3",
+      "sha256": "0c87170ba7df223caae8b0aef9b7e0b0f18de2466cfb38fa8997e92c145e155e",
+      "duration_sec": 32.36,
+      "wpm": 169,
+      "silence_removed_sec": 0.23,
+      "review": "script matched"
+    },
+    {
+      "index": 1803,
+      "job_id": "6e723931-ca9f-44e6-9137-1191a5dc9d8b",
+      "file": "h18-4-db574bf1a4.mp3",
+      "sha256": "db574bf1a463075dd2d301f6e8d3b1fd34e68c877edf76f5b133cdde881cff63",
+      "duration_sec": 36.59,
+      "wpm": 157,
+      "silence_removed_sec": 0.08,
+      "review": "reviewed: The spoken article in \u201cthe plan\u2019s rules\u201d preserves the example and the contrast between plan types."
+    },
+    {
+      "index": 1804,
+      "job_id": "14b02d32-8d12-43d4-bc75-352132941f76",
+      "file": "h18-5-ffc9f1b61e.mp3",
+      "sha256": "ffc9f1b61e86f1f2beb9799fff30b12a6a1d1568d1ecb3d26549f4e5e498e9ea",
+      "duration_sec": 39.64,
+      "wpm": 142,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 1805,
+      "job_id": "b17b28f8-5fbb-4d86-991d-55c070672266",
+      "file": "h18-6-e9fe763ea2.mp3",
+      "sha256": "e9fe763ea2bd76f1e805f05e632cc800457659a010ceeaaf372e3beab512e0b0",
+      "duration_sec": 45.66,
+      "wpm": 117,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 1900,
+      "job_id": "d7576e05-891f-4588-96f7-41c9c9540671",
+      "file": "h19-1-76cc6a1a8f.mp3",
+      "sha256": "76cc6a1a8f559f1496bda98817e38c97eeb39ad11e227cf03ba4d3d7b302831d",
+      "duration_sec": 38.46,
+      "wpm": 151,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 1901,
+      "job_id": "ec54a2bc-dbdf-4559-8b8a-e08652ec2e86",
+      "file": "h19-2-371fae617c.mp3",
+      "sha256": "371fae617cc2216ec36667a7864382381d903b46951293c3b8824767312deafd",
+      "duration_sec": 39.18,
+      "wpm": 151,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 1902,
+      "job_id": "e1ce2cf3-59d4-45a8-a4f7-dd6a25c1a5a0",
+      "file": "h19-3-4ce1ff24f8.mp3",
+      "sha256": "4ce1ff24f8ce1c69a8262c2cae69f16bf6731ae43d2370296c2c8d0f7c3a416c",
+      "duration_sec": 36.57,
+      "wpm": 159,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 1903,
+      "job_id": "8654bd43-1127-4a89-bd01-4b5851d43ba5",
+      "file": "h19-4-a280e0c942.mp3",
+      "sha256": "a280e0c942da230d7b143e7a93a12d1bea1c964d633041fe192f981e26e980b9",
+      "duration_sec": 41.46,
+      "wpm": 149,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 1904,
+      "job_id": "fcd9d16f-81f6-4658-bbb2-c0444b39c50e",
+      "file": "h19-5-78fb973337.mp3",
+      "sha256": "78fb9733379eae10e64aa952c19d7a38a8b3ac45804ae0b7ce9197b6927387e7",
+      "duration_sec": 47.63,
+      "wpm": 131,
+      "silence_removed_sec": 0.32,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 1905,
+      "job_id": "f9d5b019-b071-4be5-892a-ce9ceb8dacf9",
+      "file": "h19-6-ea8127575d.mp3",
+      "sha256": "ea8127575d8dab13fc007631f672da408f234bd98beba6f80f2b476865d162aa",
+      "duration_sec": 39.35,
+      "wpm": 143,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 2000,
+      "job_id": "0ebb7f8d-744a-45bc-8b12-579eace483e6",
+      "file": "h20-1-e329fcb137.mp3",
+      "sha256": "e329fcb13705bfeaec4f723d38c81c97f64dd7d100ba5b8ec1520f1452d2d6e4",
+      "duration_sec": 39.93,
+      "wpm": 168,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 2001,
+      "job_id": "aa318682-f27e-42c2-8aae-8305a30349a4",
+      "file": "h20-2-16a719cc98.mp3",
+      "sha256": "16a719cc989a36a5c898087fef8bc82942ecfc27ee35fb8f642fd95c7f32dc7b",
+      "duration_sec": 32.82,
+      "wpm": 170,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 2002,
+      "job_id": "b696ef7f-d3b0-442d-a089-c472fea357b9",
+      "file": "h20-3-29d61c5f82.mp3",
+      "sha256": "29d61c5f821d19003313b7c023ac07a12e493e5b60170bc10a178ddd10e242ff",
+      "duration_sec": 43.69,
+      "wpm": 137,
+      "silence_removed_sec": 1.14,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 2003,
+      "job_id": "9d6052ec-703d-4fb9-8285-c3a7d5d2f3bc",
+      "file": "h20-4-c512cd7eaf.mp3",
+      "sha256": "c512cd7eafae4d9451fd968d5247491f44b8b90d926fb13e18a991c73fd0990e",
+      "duration_sec": 37.64,
+      "wpm": 148,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 2004,
+      "job_id": "75dab2f3-1235-488b-936f-3a7d9e74db77",
+      "file": "h20-5-e3412eeeb4.mp3",
+      "sha256": "e3412eeeb4566023aa2bc3a963887f05b02965eb21dd9399fd17d26498a2d94e",
+      "duration_sec": 37.24,
+      "wpm": 156,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 2005,
+      "job_id": "52e5e974-0a76-40d5-b85e-f89fcc37c1bf",
+      "file": "h20-6-0490df966f.mp3",
+      "sha256": "0490df966fabde6a93605f9ac3c012ff7cbb7a4216d55b3b2fa7c8849daa9ad9",
+      "duration_sec": 42.42,
+      "wpm": 143,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 2100,
+      "job_id": "a3c76b4d-6b61-4867-9882-60ebc5d89884",
+      "file": "h21-1-46ce13ec59.mp3",
+      "sha256": "46ce13ec596550c8ba58e0e5aeafc4b27b2471066aba95d5d35dd9dba00f9d96",
+      "duration_sec": 36.86,
+      "wpm": 186,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 2101,
+      "job_id": "7c5826a9-a457-492e-b16a-7d58beea2007",
+      "file": "h21-2-0cce7c844f.mp3",
+      "sha256": "0cce7c844fb2ac1f0cca500d8b563b1ad562d9119540a1b2d88d4865fb6c896b",
+      "duration_sec": 38.14,
+      "wpm": 153,
+      "silence_removed_sec": 0.21,
+      "review": "script matched"
+    },
+    {
+      "index": 2102,
+      "job_id": "f2b37ef1-720a-4ed4-af28-9110182efaf9",
+      "file": "h21-3-8cbd7201e8.mp3",
+      "sha256": "8cbd7201e8039f70d5ae61b9ca4a175e1388237e8dccd919cb8c18800bdfdccd",
+      "duration_sec": 40.36,
+      "wpm": 157,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 2103,
+      "job_id": "317b0804-ce32-46a5-8c00-8c2bac90b1cf",
+      "file": "h21-4-ad010244cc.mp3",
+      "sha256": "ad010244cc1ed2b0be14061b5c3217c2db476b2b365b89c05e968a65eeaae211",
+      "duration_sec": 43.26,
+      "wpm": 140,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 2104,
+      "job_id": "beb319b8-b43d-4f60-83c0-ef9307c4bd92",
+      "file": "h21-5-d27e448638.mp3",
+      "sha256": "d27e4486387f920c80a6650ec3922faf83f6c2a68ad0e769e5b829c9df8886d3",
+      "duration_sec": 34.0,
+      "wpm": 173,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 2105,
+      "job_id": "71ee79c1-afc9-450e-92ba-d20b877cbe3f",
+      "file": "h21-6-4aa79b8116.mp3",
+      "sha256": "4aa79b81167f635905f5ca4682f39017129a524aa26d415220f2c8036337d1c2",
+      "duration_sec": 38.51,
+      "wpm": 163,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 2200,
+      "job_id": "7eb626ea-45e3-4d89-98e6-fff4bf9577bf",
+      "file": "h22-1-d319a39184.mp3",
+      "sha256": "d319a39184217cd0719e250bf4bf686d1dee978383ce5e7eda9c4d5a60dddf8b",
+      "duration_sec": 39.52,
+      "wpm": 148,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 2201,
+      "job_id": "0351f647-948e-4e2a-b6a9-6918c45e0370",
+      "file": "h22-2-5bdf3b5d98.mp3",
+      "sha256": "5bdf3b5d980a03e6393043ed53b72ecca66e391884c9e9fee39edf8ebe6c3422",
+      "duration_sec": 44.09,
+      "wpm": 158,
+      "silence_removed_sec": 0.26,
+      "review": "script matched"
+    },
+    {
+      "index": 2202,
+      "job_id": "11542e62-46d2-462f-9b4f-2e0009b41674",
+      "file": "h22-3-be7607f350.mp3",
+      "sha256": "be7607f350f76aa51bab82cd7076b42b74ac1431bd93ca10f856b1d51054e074",
+      "duration_sec": 39.59,
+      "wpm": 162,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 2203,
+      "job_id": "e8b79c11-9835-4956-8de5-0d526577b227",
+      "file": "h22-4-b8c38043ce.mp3",
+      "sha256": "b8c38043cefcd39342addb89c06a18539ec3880ee7f4ea80be49330d76fad182",
+      "duration_sec": 36.15,
+      "wpm": 181,
+      "silence_removed_sec": 0.28,
+      "review": "script matched"
+    },
+    {
+      "index": 2204,
+      "job_id": "7834ef08-6b70-4ec2-8541-c755d869ddd1",
+      "file": "h22-5-ea00ce7950.mp3",
+      "sha256": "ea00ce795068ae5cd48ec61ef27a870b088af024cd047dc6650a9a94a48ddec6",
+      "duration_sec": 37.54,
+      "wpm": 161,
+      "silence_removed_sec": 0.28,
+      "review": "script matched"
+    },
+    {
+      "index": 2205,
+      "job_id": "af193d62-9cf2-4ca6-84e1-6f4cb072315c",
+      "file": "h22-6-a37640425a.mp3",
+      "sha256": "a37640425a104177cf5af49dcfa1831d056d987cdea018790395559cfa0fbb57",
+      "duration_sec": 39.62,
+      "wpm": 168,
+      "silence_removed_sec": 0.32,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 2300,
+      "job_id": "4f22c107-4b5b-4c34-ae80-ec18645499a6",
+      "file": "h23-1-527f51bdfc.mp3",
+      "sha256": "527f51bdfc91380b2f27b46395513155a108feddb23df6ec56f34f154677336b",
+      "duration_sec": 41.74,
+      "wpm": 134,
+      "silence_removed_sec": 1.48,
+      "review": "script matched"
+    },
+    {
+      "index": 2301,
+      "job_id": "9f0d658c-1957-4601-b4a7-d1aac1598421",
+      "file": "h23-2-473e5542ef.mp3",
+      "sha256": "473e5542eff1a547b48ccb8c6e7422d60b704a22944fd440ff1793ebf3200c04",
+      "duration_sec": 43.25,
+      "wpm": 121,
+      "silence_removed_sec": 1.46,
+      "review": "script matched"
+    },
+    {
+      "index": 2302,
+      "job_id": "26eb8622-c42a-4fcf-a4cb-8a36ac185450",
+      "file": "h23-3-ba0fbbbf7a.mp3",
+      "sha256": "ba0fbbbf7a519c275dbd410fbb79b6f1a99cf0702b80733ce96cd2827961a62e",
+      "duration_sec": 35.06,
+      "wpm": 161,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 2303,
+      "job_id": "8658c391-a93d-4bd8-bebf-0b67184d2ae8",
+      "file": "h23-4-61a2c736c7.mp3",
+      "sha256": "61a2c736c7ba45960d998489623613c907d719772b41bb5e92883850bf8c3b31",
+      "duration_sec": 45.26,
+      "wpm": 138,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 2304,
+      "job_id": "8938987e-baf9-4c4b-8f97-ec286ce38926",
+      "file": "h23-5-a8b831c335.mp3",
+      "sha256": "a8b831c3352a971465723228208d747cc9d51102541a0cfc30da435d037d1b15",
+      "duration_sec": 43.93,
+      "wpm": 142,
+      "silence_removed_sec": 1.14,
+      "review": "script matched"
+    },
+    {
+      "index": 2305,
+      "job_id": "0be345a2-6fe1-43cb-9777-f1c0f4dc7087",
+      "file": "h23-6-c41ebd384a.mp3",
+      "sha256": "c41ebd384a8c60c99086ad1383996145c1c663f609c12835526655283aba66ef",
+      "duration_sec": 35.94,
+      "wpm": 152,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 2400,
+      "job_id": "1a597774-4194-4796-8da8-9bb378c5b1ea",
+      "file": "h24-1-45b5f37ae2.mp3",
+      "sha256": "45b5f37ae20b0ab54a21e3431e412da24982e04e688aafcc424f84daba3c1ff1",
+      "duration_sec": 46.41,
+      "wpm": 133,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 2401,
+      "job_id": "7aaccaf3-ecf3-4bef-9429-6be827368862",
+      "file": "h24-2-5a9ad01b65.mp3",
+      "sha256": "5a9ad01b655e26eb5434e14a8c71062aed2f47847004c9bdfb1df5845a3c9e2f",
+      "duration_sec": 45.28,
+      "wpm": 134,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 2402,
+      "job_id": "7f2ff721-9b75-4b68-9aa7-c283d2d94cd8",
+      "file": "h24-3-89b671bd87.mp3",
+      "sha256": "89b671bd8738136235f82b3a8ea0fff5f52f4cee53afb54ca22355e627f6c5c1",
+      "duration_sec": 38.56,
+      "wpm": 163,
+      "silence_removed_sec": 0.1,
+      "review": "script matched"
+    },
+    {
+      "index": 2403,
+      "job_id": "2b912fed-d6a2-4658-8888-9ff1f848dfeb",
+      "file": "h24-4-562fbca06b.mp3",
+      "sha256": "562fbca06b05e989b66257460c40ec9339c3e7acfd4d19d192ea3fb320454550",
+      "duration_sec": 42.76,
+      "wpm": 137,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 2404,
+      "job_id": "06df7428-453b-47ec-8db2-b2ee0c4ed518",
+      "file": "h24-5-a7705bf3c9.mp3",
+      "sha256": "a7705bf3c9ec119af0fc903118e35883f2858d808e153404af04b39e79f02e18",
+      "duration_sec": 33.48,
+      "wpm": 165,
+      "silence_removed_sec": 0.12,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 2405,
+      "job_id": "9920837e-1871-445a-9361-966226f70a40",
+      "file": "h24-6-69637e88f0.mp3",
+      "sha256": "69637e88f015eb7d77fa13d1741461cd47ce0d808783006910d392988c96f9ac",
+      "duration_sec": 50.4,
+      "wpm": 126,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 2500,
+      "job_id": "9292af5f-f7ca-4cb9-ab92-042488de6b8e",
+      "file": "h25-1-882c9fba98.mp3",
+      "sha256": "882c9fba98e3cb4b6bfec51e0bce6fc856484f2885ddaa4df541c3445d3fac7a",
+      "duration_sec": 36.02,
+      "wpm": 178,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 2501,
+      "job_id": "0f6237e0-d0a8-42f6-9727-9cf577b81ca8",
+      "file": "h25-2-36ef1b7d5c.mp3",
+      "sha256": "36ef1b7d5c1d9c73455ba02ab92d285fb50f17f1d2dae1661570895d7f1be98f",
+      "duration_sec": 36.11,
+      "wpm": 169,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 2502,
+      "job_id": "45f8f3d8-9729-4f53-a318-f7c5950d0043",
+      "file": "h25-3-a1e3c110dc.mp3",
+      "sha256": "a1e3c110dcee000df749bfea238b39170668cd673271c85d7effa0952b9a0eec",
+      "duration_sec": 45.78,
+      "wpm": 140,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 2503,
+      "job_id": "a96352a4-cbd4-40f2-8e3b-d54c0c470ad2",
+      "file": "h25-4-eb76690c2d.mp3",
+      "sha256": "eb76690c2dbd836249611d2f67c6acc6b851954b662c6f9223d5c278a1628771",
+      "duration_sec": 44.51,
+      "wpm": 151,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 2504,
+      "job_id": "175a2cbf-d32e-495b-b991-d6a09b8ad52a",
+      "file": "h25-5-cd7d49097e.mp3",
+      "sha256": "cd7d49097ebeb98348022870134c5b880bf65ebc09169c70cab4ee8f69a1d51a",
+      "duration_sec": 47.65,
+      "wpm": 147,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 2505,
+      "job_id": "487f6d2d-490f-4020-810c-005de7e2d97d",
+      "file": "h25-6-cffff44781.mp3",
+      "sha256": "cffff44781135996ebad5ef69ed491bd06ded4428bb0606e9ff6fd87d8172a12",
+      "duration_sec": 49.19,
+      "wpm": 146,
+      "silence_removed_sec": 0.32,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 2600,
+      "job_id": "cc221874-ffda-4106-80a6-3cbb08c61d39",
+      "file": "h26-1-1d301ee54a.mp3",
+      "sha256": "1d301ee54a8c1fd5567b7628a61ef59248f363aeb5ae3e11be92b025a62fdba4",
+      "duration_sec": 38.34,
+      "wpm": 151,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 2601,
+      "job_id": "203ae4fd-646a-4502-a77e-417100ec80ed",
+      "file": "h26-2-f22388f940.mp3",
+      "sha256": "f22388f940a32b6a3ecff487098438c5c543bc75e944149559813810cb8994f1",
+      "duration_sec": 45.66,
+      "wpm": 115,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 2602,
+      "job_id": "b1a92a96-5834-47a0-8f8f-0c3076cb68f8",
+      "file": "h26-3-e1ed0340dd.mp3",
+      "sha256": "e1ed0340dd35350d240047d83eac3bcd5ab738f0a77987716a33cc8184c688b0",
+      "duration_sec": 43.62,
+      "wpm": 140,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 2603,
+      "job_id": "747bab98-0819-4846-8d87-32d5b192c9aa",
+      "file": "h26-4-a9cdd18deb.mp3",
+      "sha256": "a9cdd18deba29cc83e5ece68a3f96c0f2eb60d61a92350d1b8d266a69df43987",
+      "duration_sec": 45.62,
+      "wpm": 130,
+      "silence_removed_sec": 1.11,
+      "review": "script matched"
+    },
+    {
+      "index": 2604,
+      "job_id": "5bf7f4f7-23eb-4049-aa3b-3fb3f80ffe33",
+      "file": "h26-5-027c2dffc5.mp3",
+      "sha256": "027c2dffc5b3a3cec6709fedb14a18fae99aad395dbb478f821014080e5e8017",
+      "duration_sec": 49.8,
+      "wpm": 117,
+      "silence_removed_sec": 9.1,
+      "review": "script matched"
+    },
+    {
+      "index": 2605,
+      "job_id": "713f79ee-8b5f-4ca6-b687-c725597af98f",
+      "file": "h26-6-aa3f2e0193.mp3",
+      "sha256": "aa3f2e0193782af7a0c11e19f8471c884e8b2cf863069e128ce673c6e48e96df",
+      "duration_sec": 38.28,
+      "wpm": 155,
+      "silence_removed_sec": 14.54,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 2700,
+      "job_id": "6dc34c25-65f7-40a3-841f-dd50953f1c09",
+      "file": "h27-1-2fcd781422.mp3",
+      "sha256": "2fcd7814221d0bce2db0c9a09a8908bb812b4aaab0055bdcb3a9829cfe478922",
+      "duration_sec": 38.08,
+      "wpm": 146,
+      "silence_removed_sec": 0.34,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 2701,
+      "job_id": "f0a8f232-71cd-49a5-a338-fe5668fd8bd9",
+      "file": "h27-2-868e9bd7b0.mp3",
+      "sha256": "868e9bd7b0f60672d325b507afb2dc34164459fe0d8d5ee1afa2d1124995d599",
+      "duration_sec": 45.66,
+      "wpm": 143,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 2702,
+      "job_id": "c5dcf787-e12a-4421-92b2-3024771e394d",
+      "file": "h27-3-b9d7fe6dad.mp3",
+      "sha256": "b9d7fe6dade68831d4418eeda11310b6c030598232a97d3c7ac1b3de8065bad3",
+      "duration_sec": 43.3,
+      "wpm": 149,
+      "silence_removed_sec": 1.44,
+      "review": "script matched"
+    },
+    {
+      "index": 2703,
+      "job_id": "2cb58276-1103-4a84-ad1d-2a9bc27f739f",
+      "file": "h27-4-495dab75c9.mp3",
+      "sha256": "495dab75c9fceb9bfc5bfee63d524b08b8bf133b021e81df156aa405ff364bff",
+      "duration_sec": 39.5,
+      "wpm": 158,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 2704,
+      "job_id": "340f3b4e-37e8-4e6c-8d36-09380202e755",
+      "file": "h27-5-f3ed85410d.mp3",
+      "sha256": "f3ed85410d63e2aaa1403a89cf8881ceeab45805869cf5c09a009972627833ee",
+      "duration_sec": 45.16,
+      "wpm": 154,
+      "silence_removed_sec": 0.42,
+      "review": "script matched"
+    },
+    {
+      "index": 2705,
+      "job_id": "d19f6573-f7c6-4fab-a422-f5f2354f2aac",
+      "file": "h27-6-04cdd9c8ae.mp3",
+      "sha256": "04cdd9c8ae807ed19f940a5eb50b1e2d329f0b26b18ffebb133541144c4c5cd1",
+      "duration_sec": 44.03,
+      "wpm": 142,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 2800,
+      "job_id": "ce51ff5e-9e36-47a8-a866-e7c5f6614f45",
+      "file": "h28-1-714aeef639.mp3",
+      "sha256": "714aeef63907eacadc1b28444d7922f2007e0ec3aeec324931a0aac3037b2458",
+      "duration_sec": 40.1,
+      "wpm": 146,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 2801,
+      "job_id": "60eb7181-33b2-4a4c-862f-e48790ac088c",
+      "file": "h28-2-c2b2c0584f.mp3",
+      "sha256": "c2b2c0584f9d0429c13233a04a007e280fcdd7a30b4a9a8180acf1f1aa03c12a",
+      "duration_sec": 33.9,
+      "wpm": 160,
+      "silence_removed_sec": 5.36,
+      "review": "script matched"
+    },
+    {
+      "index": 2802,
+      "job_id": "3dac78c1-b199-4fb7-82f1-5687cee771b5",
+      "file": "h28-3-cdbcec0782.mp3",
+      "sha256": "cdbcec0782889d303fdff2645fe608eff71917d1184ef9cb9762724fff79aed8",
+      "duration_sec": 32.22,
+      "wpm": 178,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 2803,
+      "job_id": "10ed381f-b0a1-4312-957f-e76d96f5d388",
+      "file": "h28-4-e1d60e916a.mp3",
+      "sha256": "e1d60e916a173dc6fd794c0492e58f6522392fdc903ec8fb665d914c325d9bf2",
+      "duration_sec": 37.29,
+      "wpm": 161,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 2804,
+      "job_id": "2f636216-83e1-47c6-bea4-f26e4d24a9c8",
+      "file": "h28-5-d79326588c.mp3",
+      "sha256": "d79326588c2b5476291f4298d9414e59033d3b37a48d338682a806d3c96be0d9",
+      "duration_sec": 32.38,
+      "wpm": 180,
+      "silence_removed_sec": 0.16,
+      "review": "script matched"
+    },
+    {
+      "index": 2805,
+      "job_id": "c264c628-c5ce-4c75-a5a0-bd3cc1a816de",
+      "file": "h28-6-a9c1f718d4.mp3",
+      "sha256": "a9c1f718d4d029a7f298d5ee83b1f1e9b2f15b95445f0a3b985be785af6fea2d",
+      "duration_sec": 37.93,
+      "wpm": 147,
+      "silence_removed_sec": 0.28,
+      "review": "script matched"
+    },
+    {
+      "index": 2900,
+      "job_id": "29d5c2f5-1bf3-42ea-a63d-2c9c8f2f8cef",
+      "file": "h29-1-8f7b2bfebb.mp3",
+      "sha256": "8f7b2bfebbc5e3348c2e7364b2dccd503a13e9fdbb1dd2c0b8eb98b22477a3f9",
+      "duration_sec": 39.18,
+      "wpm": 160,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 2901,
+      "job_id": "f1d9a9b6-2c4c-4595-9e7c-99ecce334c73",
+      "file": "h29-2-1c20a23c00.mp3",
+      "sha256": "1c20a23c00c0bc5aea75e211e5598287e0b3f8fc1857f92517a008fa2c21b3a8",
+      "duration_sec": 35.88,
+      "wpm": 163,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 2902,
+      "job_id": "26a22057-6952-4fb6-bf2d-42c0af69a02f",
+      "file": "h29-3-723aaa8532.mp3",
+      "sha256": "723aaa8532d6706392c33264ffd0dcf8805a17a805ae389041909aa008bc2261",
+      "duration_sec": 32.78,
+      "wpm": 175,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 2903,
+      "job_id": "1bfb5cba-1eac-4834-9e8f-ff3f3bfbf1da",
+      "file": "h29-4-bb8986b57a.mp3",
+      "sha256": "bb8986b57a083a2d2fa75e10cc53c9733da05dfbb986992ab353b0c61fe254a8",
+      "duration_sec": 31.76,
+      "wpm": 169,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 2904,
+      "job_id": "ece3670a-690d-4c6a-b1c8-539a1a5ffa15",
+      "file": "h29-5-9bc0520100.mp3",
+      "sha256": "9bc0520100ace0beb552d3efc5b1c2532981c2205e8aba71f8fc3d953a65b2f9",
+      "duration_sec": 35.53,
+      "wpm": 147,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 2905,
+      "job_id": "b7c585d1-3dd1-41e3-b2f4-6893b4d6fee5",
+      "file": "h29-6-ff5b126326.mp3",
+      "sha256": "ff5b12632685b9ae3c54933dfd927e8648524649a7513073dffcca7b95fd2e92",
+      "duration_sec": 47.9,
+      "wpm": 116,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 3000,
+      "job_id": "91d6cf8c-c2a6-426d-980e-4ba8783cf431",
+      "file": "h30-1-84daff061a.mp3",
+      "sha256": "84daff061a4fcea1288741f2df206e4b67fcd1c3619dd8a6d1d37d12cf885de9",
+      "duration_sec": 33.59,
+      "wpm": 182,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 3001,
+      "job_id": "cde705c0-68e5-426a-903c-5f554cf0d88b",
+      "file": "h30-2-253030888b.mp3",
+      "sha256": "253030888b8ebc8ecbd615bdd42a2ff92f06ba578a756f609805fc0b9ad883d4",
+      "duration_sec": 43.29,
+      "wpm": 159,
+      "silence_removed_sec": 0.34,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 3002,
+      "job_id": "8ab0fd66-4c7d-44c8-8aca-613f53e5ae4f",
+      "file": "h30-3-009aa1b19c.mp3",
+      "sha256": "009aa1b19cc066d192af0d7d824bddf3308926c0c1e668ccb9b277d2f4403104",
+      "duration_sec": 36.12,
+      "wpm": 154,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 3003,
+      "job_id": "742a8d86-9695-4531-84af-c3e04cb157c2",
+      "file": "h30-4-77846d76c8.mp3",
+      "sha256": "77846d76c8eb9689f4495cf01b815776f52f33958de49e7c0c17495eb10a17d9",
+      "duration_sec": 34.58,
+      "wpm": 192,
+      "silence_removed_sec": 0.08,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 3004,
+      "job_id": "60ae0eb2-b9bf-4ab4-b253-5717664727e8",
+      "file": "h30-5-1fb3632119.mp3",
+      "sha256": "1fb3632119f0cfdfee9deb582ae1cba662d7a1e1bddde7e61cfc74a468f749a5",
+      "duration_sec": 44.03,
+      "wpm": 136,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 3005,
+      "job_id": "10c35646-4bee-44c7-b03d-fc5f0cb50c52",
+      "file": "h30-6-44d6e6a6a4.mp3",
+      "sha256": "44d6e6a6a424d1a2b0d1577767a4ec7b9baef012e41a99b3c8944224f49ae4a9",
+      "duration_sec": 43.66,
+      "wpm": 155,
+      "silence_removed_sec": 0.28,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 3100,
+      "job_id": "cbbab903-6884-4d57-9b4f-fe418fd83abb",
+      "file": "h31-1-e335622145.mp3",
+      "sha256": "e335622145bf7e0acbcf5cb76cbd4cc2352faa660ddf4bbdcefc7e7068f92ecf",
+      "duration_sec": 34.51,
+      "wpm": 168,
+      "silence_removed_sec": 1.54,
+      "review": "script matched"
+    },
+    {
+      "index": 3101,
+      "job_id": "dc75c211-0ed5-46cd-bd5f-468b0123eeba",
+      "file": "h31-2-6aa8ac1886.mp3",
+      "sha256": "6aa8ac1886babc1c1bf8daf07e0e261b06d1b79f294a3f0b04a3010f1458a3e6",
+      "duration_sec": 32.42,
+      "wpm": 164,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 3102,
+      "job_id": "39ef5fb9-08b2-4fbd-9f67-eeeb38defed3",
+      "file": "h31-3-9f316cb007.mp3",
+      "sha256": "9f316cb007a58634185c482a1e7d8f7212598884a91f3caf024d1c72f38e7117",
+      "duration_sec": 37.21,
+      "wpm": 157,
+      "silence_removed_sec": 2.22,
+      "review": "script matched"
+    },
+    {
+      "index": 3103,
+      "job_id": "aeca7a3a-72ea-4349-aa1b-4ab8a763391a",
+      "file": "h31-4-6f00e68940.mp3",
+      "sha256": "6f00e6894041ba408ba57b5eadd3c893e7497cfa6c208958081d57e14eeac206",
+      "duration_sec": 35.89,
+      "wpm": 162,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 3104,
+      "job_id": "42d960f6-f056-4a37-a227-52f1e1c8c03c",
+      "file": "h31-5-e7aad59a5d.mp3",
+      "sha256": "e7aad59a5dad119c2404ff08c41670b298d9ca7802953658af6d4c3d26d23631",
+      "duration_sec": 36.05,
+      "wpm": 165,
+      "silence_removed_sec": 0.24,
+      "review": "script matched"
+    },
+    {
+      "index": 3105,
+      "job_id": "8a5bfcbe-9ae6-4b38-9997-789d581a145f",
+      "file": "h31-6-60fdaab633.mp3",
+      "sha256": "60fdaab6333bb6969b7b017da0d7f7c3ffc06a22ab1e40ccf6b4805398b181fc",
+      "duration_sec": 44.71,
+      "wpm": 124,
+      "silence_removed_sec": 3.24,
+      "review": "reviewed: The speaker uses the plural of future increase option when listing riders; the option and its function are clear."
+    },
+    {
+      "index": 3200,
+      "job_id": "6b5ab2ba-3613-4ea9-b26e-2ce3c80f35c1",
+      "file": "h32-1-47daae78c0.mp3",
+      "sha256": "47daae78c0dedd528126ffbb24e06a9472af0d4cd9b930553b08ecc7ec0f06f6",
+      "duration_sec": 39.67,
+      "wpm": 141,
+      "silence_removed_sec": 0.82,
+      "review": "script matched"
+    },
+    {
+      "index": 3201,
+      "job_id": "b0a806cb-079f-41d3-b4ab-014480342301",
+      "file": "h32-2-d3a67574ff.mp3",
+      "sha256": "d3a67574ff050500a3793121306f30e2aaa88bce906d81a8adc32bbf4e5a0173",
+      "duration_sec": 38.28,
+      "wpm": 160,
+      "silence_removed_sec": 0.55,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 3202,
+      "job_id": "c50c77e7-44c5-4509-9356-6e504b5004dd",
+      "file": "h32-3-0d814ea420.mp3",
+      "sha256": "0d814ea420809d6947832dfe8cf52399e40464755c8cefd4c5f7e2afef36b370",
+      "duration_sec": 39.26,
+      "wpm": 131,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 3203,
+      "job_id": "65deabb7-519f-40c7-997a-023b636f3728",
+      "file": "h32-4-43594ac987.mp3",
+      "sha256": "43594ac987a15a9a050a431a45056d36ec34a1ef70e50d8422e9512b8bc2e20d",
+      "duration_sec": 32.75,
+      "wpm": 174,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 3204,
+      "job_id": "736eee1f-32c3-49a2-8656-b79523a5467e",
+      "file": "h32-5-e527869d9c.mp3",
+      "sha256": "e527869d9ca272f8751462631df11244b2f436ebcdf0dfad1fd34d70f23adc6d",
+      "duration_sec": 42.58,
+      "wpm": 137,
+      "silence_removed_sec": 0.24,
+      "review": "script matched"
+    },
+    {
+      "index": 3205,
+      "job_id": "4de808da-ed24-44eb-b3d1-2a3fb7dc0fc3",
+      "file": "h32-6-8978616207.mp3",
+      "sha256": "89786162072d2412c3ccc3d8bc8dc7fbc3c0dbc8ddcf5edf2100b7116cb54c8f",
+      "duration_sec": 31.62,
+      "wpm": 167,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 3300,
+      "job_id": "d5629546-6144-4444-84e0-5208cb98ecf6",
+      "file": "h33-1-e69cf9802d.mp3",
+      "sha256": "e69cf9802de849f8d86bb7d61500411b2dcfaeaf94593f46283cd111a5afc402",
+      "duration_sec": 46.02,
+      "wpm": 131,
+      "silence_removed_sec": 2.32,
+      "review": "script matched"
+    },
+    {
+      "index": 3301,
+      "job_id": "0eb23081-887a-437e-bda3-67235c33c38d",
+      "file": "h33-2-e9ec01e4f7.mp3",
+      "sha256": "e9ec01e4f76b47129f789bc41e8bb598430a152df9b3609cffd0a90d226f9645",
+      "duration_sec": 42.99,
+      "wpm": 147,
+      "silence_removed_sec": 3.28,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 3302,
+      "job_id": "43b4ef28-5131-4a38-9c17-68f7dc7de42d",
+      "file": "h33-3-678cccc4dd.mp3",
+      "sha256": "678cccc4dd978f4323fa122c4770556cc2057773c8df1a929577ae27a2213359",
+      "duration_sec": 46.02,
+      "wpm": 145,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 3303,
+      "job_id": "e9dd7f83-77fd-43a3-a470-3287686baea7",
+      "file": "h33-4-652c5965ae.mp3",
+      "sha256": "652c5965ae8cbc8c7beab465fac4d02af05152fcee4a8f9501531ac0775b1820",
+      "duration_sec": 40.53,
+      "wpm": 145,
+      "silence_removed_sec": 8.96,
+      "review": "script matched"
+    },
+    {
+      "index": 3304,
+      "job_id": "e4e6207f-6889-4860-88fa-d6f9b8243fa0",
+      "file": "h33-5-ec608ccc70.mp3",
+      "sha256": "ec608ccc70452d962be42d09684b2ba4089be974c49d0664b7ac1183c735dcf1",
+      "duration_sec": 50.01,
+      "wpm": 125,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 3305,
+      "job_id": "9512a944-7af1-4e64-a428-c233e211c86d",
+      "file": "h33-6-cb1550e03e.mp3",
+      "sha256": "cb1550e03e97d04f46580aff8321a7559ca90f3a2150600b0c3e914d4737a5ab",
+      "duration_sec": 32.53,
+      "wpm": 183,
+      "silence_removed_sec": 0.3,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 3400,
+      "job_id": "8f1e8346-ea7f-4387-861c-df2d75ec6359",
+      "file": "h34-1-4005cad441.mp3",
+      "sha256": "4005cad4413de78bfea6fafc4eddf53ebf7128226a265efdb3b2af05b5652d0e",
+      "duration_sec": 42.06,
+      "wpm": 130,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 3401,
+      "job_id": "5d5865c3-fc51-46b2-85e4-0a095283840a",
+      "file": "h34-2-e1605336a1.mp3",
+      "sha256": "e1605336a1a0a4cacf084671499fb466ea46b069039bc0551d51ceed76c7f7f6",
+      "duration_sec": 42.48,
+      "wpm": 136,
+      "silence_removed_sec": 0.24,
+      "review": "script matched"
+    },
+    {
+      "index": 3402,
+      "job_id": "a9c93828-0b04-45aa-a2bd-b9f95883b32e",
+      "file": "h34-3-a826a00a0e.mp3",
+      "sha256": "a826a00a0e65f9c6a69d9e65abe9e49008691bbf86f5d08192e70d294cdced46",
+      "duration_sec": 36.09,
+      "wpm": 159,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 3403,
+      "job_id": "5d8be5c5-c84c-4ac9-901e-7c1b3445f3e4",
+      "file": "h34-4-dbe2ecf77f.mp3",
+      "sha256": "dbe2ecf77f1028922edb7ac91cabb52771b3f6b8a9c14610bdde59400a94040c",
+      "duration_sec": 38.34,
+      "wpm": 150,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 3404,
+      "job_id": "a9371b4c-5fb7-4cb8-b41a-d3d3db5e8195",
+      "file": "h34-5-530c5a95b6.mp3",
+      "sha256": "530c5a95b6d8b69d6ef0ce131247978353a14ef22812e564d462ad75bf0397cc",
+      "duration_sec": 38.32,
+      "wpm": 142,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 3405,
+      "job_id": "a453e2b4-4a9f-457b-b469-7f48e5e004e2",
+      "file": "h34-6-dee00d257e.mp3",
+      "sha256": "dee00d257e0d2831fdc2f42b4fc152e56345d289f03fa574daa8d5fb683540cd",
+      "duration_sec": 40.02,
+      "wpm": 139,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 3500,
+      "job_id": "e93b94a0-59ab-4a58-b15e-8f1ac2755818",
+      "file": "h35-1-0be065112f.mp3",
+      "sha256": "0be065112f7d542051082014c8faeb42408291c231ca24d10060c5b5dc1ef43c",
+      "duration_sec": 36.92,
+      "wpm": 164,
+      "silence_removed_sec": 0.26,
+      "review": "script matched"
+    },
+    {
+      "index": 3501,
+      "job_id": "80dfc71c-d125-4531-a4e1-9ee9a14cba25",
+      "file": "h35-2-09e8d6180a.mp3",
+      "sha256": "09e8d6180a7a5a4df94d8826151e00fe1cafeffe0e8dcf79922e3c89c3c9ca51",
+      "duration_sec": 38.18,
+      "wpm": 150,
+      "silence_removed_sec": 0.1,
+      "review": "script matched"
+    },
+    {
+      "index": 3502,
+      "job_id": "878a1bf6-7d3a-41a3-a394-35c5d4900917",
+      "file": "h35-3-42e7d78da2.mp3",
+      "sha256": "42e7d78da23e5c728cdb2dcc50f8ddd2d4d0015d07dec2862814805157541aae",
+      "duration_sec": 47.65,
+      "wpm": 126,
+      "silence_removed_sec": 0.3,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 3503,
+      "job_id": "2ab7c82b-479f-4f87-aedf-80563b1ca3c7",
+      "file": "h35-4-5b6b7c41ff.mp3",
+      "sha256": "5b6b7c41ff81d56575ce2353b8b4ce58062b8a6cad6629566e224423caf4d73f",
+      "duration_sec": 34.72,
+      "wpm": 171,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 3504,
+      "job_id": "dd9c197c-88f9-432a-8c81-7d43fe472910",
+      "file": "h35-5-9cff320daf.mp3",
+      "sha256": "9cff320daf6cb492859982bc1a5837ab2f42a45ae91d190eefcd567cba511b39",
+      "duration_sec": 38.49,
+      "wpm": 159,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 3505,
+      "job_id": "b41e16ea-cb5c-422d-b49e-12ac49f93124",
+      "file": "h35-6-085ff7c067.mp3",
+      "sha256": "085ff7c0675916644e2d64ebd10bd04c24cb5e761b5b9a27435f0c456ca9b0a3",
+      "duration_sec": 39.38,
+      "wpm": 157,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 3600,
+      "job_id": "3d74793a-7fc8-4549-85b2-377b252e3979",
+      "file": "h36-1-d6d7fe0084.mp3",
+      "sha256": "d6d7fe0084912b28941e81fec2d7284195b3dcb205314032520c2d4fe2259cee",
+      "duration_sec": 32.06,
+      "wpm": 164,
+      "silence_removed_sec": 0.08,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 3601,
+      "job_id": "f8781228-4a92-4a02-8228-18f6e5ecf8cb",
+      "file": "h36-2-341af88559.mp3",
+      "sha256": "341af8855906baf8a87fb8fa324f3aea6aa01dc418692e34748053b937f9aa6d",
+      "duration_sec": 39.71,
+      "wpm": 143,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 3602,
+      "job_id": "d4dcfe6a-d812-4581-8985-be560da715f2",
+      "file": "h36-3-94a56de4f1.mp3",
+      "sha256": "94a56de4f190500339814f612003b43db4073a879506e7f42f44a02179a0b12a",
+      "duration_sec": 46.02,
+      "wpm": 128,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 3603,
+      "job_id": "debb411a-67fe-4ba8-a63e-175c04d84aca",
+      "file": "h36-4-e53743652b.mp3",
+      "sha256": "e53743652b69e3384063ee89c516b994b8f944b56744eea9574c73695a706832",
+      "duration_sec": 34.39,
+      "wpm": 171,
+      "silence_removed_sec": 0.1,
+      "review": "script matched"
+    },
+    {
+      "index": 3604,
+      "job_id": "bf59ced8-3288-4696-8f3b-3d27c3a707c9",
+      "file": "h36-5-6681e76b24.mp3",
+      "sha256": "6681e76b2437332a6692ff97f4a420ef81f7debc0c2e2b14eb3acf4aae7dc425",
+      "duration_sec": 40.84,
+      "wpm": 150,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 3605,
+      "job_id": "6122ac46-d63b-4bf5-b8c5-17dc5fd5f93f",
+      "file": "h36-6-268e5eeb36.mp3",
+      "sha256": "268e5eeb36fb732e34da823bb8a09d47e61441c4bae2667a2d37964ffdb0285c",
+      "duration_sec": 41.06,
+      "wpm": 136,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 3700,
+      "job_id": "66408d1a-7587-4bcc-8455-9a5ec9e5f029",
+      "file": "h37-1-8d6768359d.mp3",
+      "sha256": "8d6768359db4e515743772432815abb056749ef2bf4bf9d0c3d6d79f5ba2bcad",
+      "duration_sec": 35.22,
+      "wpm": 177,
+      "silence_removed_sec": 0.08,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 3701,
+      "job_id": "1af82580-3979-44cb-beb7-641c31f9c0f9",
+      "file": "h37-2-d6e6d4b8c5.mp3",
+      "sha256": "d6e6d4b8c5bc52fc573c02e65e5e3447e91275f92a1a18d40c76f0a3f038fd80",
+      "duration_sec": 36.16,
+      "wpm": 174,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 3702,
+      "job_id": "d9883a14-c17d-4005-b5b3-dd607a394a32",
+      "file": "h37-3-0992347e81.mp3",
+      "sha256": "0992347e819df5cf6ea9bbb3668813973d259c764892b6780b4534a3c260b1dc",
+      "duration_sec": 32.27,
+      "wpm": 184,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 3703,
+      "job_id": "33249a75-bdd2-4a59-baf3-d33f88b106fe",
+      "file": "h37-4-ee4bbfccf4.mp3",
+      "sha256": "ee4bbfccf468e3bba1f8d1dd9228f64779be51cc3dbba8f1d499d1d30d45de34",
+      "duration_sec": 34.1,
+      "wpm": 171,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 3704,
+      "job_id": "80c7e300-ead1-4a3d-a5cd-2b0175c0014d",
+      "file": "h37-5-568a8d5ae6.mp3",
+      "sha256": "568a8d5ae6ba091a5ce2293868e251a0555960f4cac3539b662f671805c65005",
+      "duration_sec": 37.07,
+      "wpm": 157,
+      "silence_removed_sec": 0.32,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 3705,
+      "job_id": "d88a5869-9e0b-43ab-9e68-0b12a25e7645",
+      "file": "h37-6-dc5ca1f889.mp3",
+      "sha256": "dc5ca1f8892dd0eec02bad17e524bb9f229677b774f0fbb9fc274568d923cb07",
+      "duration_sec": 34.52,
+      "wpm": 172,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 3800,
+      "job_id": "b748e7fa-85ad-4d09-a404-19f8457ebb0e",
+      "file": "h38-1-d5c2600f27.mp3",
+      "sha256": "d5c2600f27ca4c0940b572a1f3622d291066bc709e220ffbdc804b41270770f0",
+      "duration_sec": 33.45,
+      "wpm": 178,
+      "silence_removed_sec": 0.1,
+      "review": "script matched"
+    },
+    {
+      "index": 3801,
+      "job_id": "b8290ce1-7468-47b1-b525-d74873b47e9e",
+      "file": "h38-2-5e6170596d.mp3",
+      "sha256": "5e6170596d8abba1344b2cbdebb2183e8efb0bcb506f3d9d9301d34bfa373058",
+      "duration_sec": 37.41,
+      "wpm": 143,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 3802,
+      "job_id": "da30e121-649b-4007-bd92-69bb41c514de",
+      "file": "h38-3-0dbfb82c01.mp3",
+      "sha256": "0dbfb82c01ca131303b0b06a2f3b1d1742405f16c85c699aade7ef64ff930148",
+      "duration_sec": 40.74,
+      "wpm": 165,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 3803,
+      "job_id": "4d2e971c-e31f-4412-88c1-8b6abc08c08f",
+      "file": "h38-4-37909ce5c0.mp3",
+      "sha256": "37909ce5c04070f13bb09ade0e147f915d592a2a3a8311a72b9124cd8a686263",
+      "duration_sec": 47.63,
+      "wpm": 131,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 3804,
+      "job_id": "2bd120cd-a889-4c5e-9849-5f7ef45f6cca",
+      "file": "h38-5-c3ee8fb36b.mp3",
+      "sha256": "c3ee8fb36b5d650bc6a7f3316cb3d0a43b8fb3f0752672ecef6a1dda412c187f",
+      "duration_sec": 47.65,
+      "wpm": 146,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 3805,
+      "job_id": "f28cfbf8-c24a-48ed-ba6c-bf90b9c98427",
+      "file": "h38-6-31ef9848e0.mp3",
+      "sha256": "31ef9848e0566074ee00dc4290cf024b16e1c84317be81232605c38ba42f1f44",
+      "duration_sec": 45.7,
+      "wpm": 135,
+      "silence_removed_sec": 0.28,
+      "review": "script matched"
+    },
+    {
+      "index": 3900,
+      "job_id": "c843507d-b8a1-4aae-ae1a-e4744bb6f6c5",
+      "file": "h39-1-4673f7e2fb.mp3",
+      "sha256": "4673f7e2fb87663a05db3b776aad03dac56f7d43e2a8007ab869e72d36f70060",
+      "duration_sec": 37.72,
+      "wpm": 165,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 3901,
+      "job_id": "9625c412-ad33-4991-b7c6-b00dd64c2479",
+      "file": "h39-2-820b477199.mp3",
+      "sha256": "820b477199b8456686760dffd693b3061abed8e9446d42de2202ebe6f29e11a8",
+      "duration_sec": 41.11,
+      "wpm": 150,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 3902,
+      "job_id": "b249c46c-283a-42f5-bb09-28456ac5a307",
+      "file": "h39-3-d2fc0585f0.mp3",
+      "sha256": "d2fc0585f0d7a75e0a8a829f8b3b7785e5e0257b85bcd4fa3c7356ba105493bd",
+      "duration_sec": 45.72,
+      "wpm": 133,
+      "silence_removed_sec": 0.26,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 3903,
+      "job_id": "c3737199-dec4-4793-8336-9d6bf89b7814",
+      "file": "h39-4-27eca894c1.mp3",
+      "sha256": "27eca894c176e95c859007e2448d857309160d36f5ed31d6e0adac63eb973890",
+      "duration_sec": 42.09,
+      "wpm": 148,
+      "silence_removed_sec": 0.1,
+      "review": "reviewed: Both reads identify the same recurring character. Prea is a phonetic transcription of the written name Priya; no policy or rate differs."
+    },
+    {
+      "index": 3904,
+      "job_id": "226f4991-9a13-4a55-ba39-816b449a3adf",
+      "file": "h39-5-75a8192619.mp3",
+      "sha256": "75a819261927252b0ab649745a9e4f38f9c5ccb53a8c1e4280d5d1e1cb1a5a26",
+      "duration_sec": 36.86,
+      "wpm": 160,
+      "silence_removed_sec": 0.0,
+      "review": "script matched"
+    },
+    {
+      "index": 3905,
+      "job_id": "0da7654b-3fde-40d1-845f-04fd374bd3ed",
+      "file": "h39-6-1a62853bf1.mp3",
+      "sha256": "1a62853bf13b0b45dff75df211b981970e7969ab81171cb2230dbc1e8df8406d",
+      "duration_sec": 42.4,
+      "wpm": 146,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 4000,
+      "job_id": "2a4f5915-b0db-4b0f-bbe0-8679eb502799",
+      "file": "h40-1-ebfbe534be.mp3",
+      "sha256": "ebfbe534be14784675dba94adbdf7ba0b09fac752c6f2493cb57ada4cf241180",
+      "duration_sec": 50.81,
+      "wpm": 120,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 4001,
+      "job_id": "e3790bc3-ec32-43bb-b502-3a0cc03455e7",
+      "file": "h40-2-6194eefbf8.mp3",
+      "sha256": "6194eefbf8576a2a275344238ddd8798677141488f7a26ecb2defd1940230bfe",
+      "duration_sec": 47.63,
+      "wpm": 144,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 4002,
+      "job_id": "e97c1da3-c994-4277-a187-762d5635e9f1",
+      "file": "h40-3-37bde2f546.mp3",
+      "sha256": "37bde2f54678ae0f2258a719ce6b2d1ac0aba11c8de5b95a8d2dad0172b23d06",
+      "duration_sec": 54.3,
+      "wpm": 148,
+      "silence_removed_sec": 0.32,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 4003,
+      "job_id": "2493a7b8-36e4-4913-a269-4fd896eca773",
+      "file": "h40-4-51b8e98d8c.mp3",
+      "sha256": "51b8e98d8c4b6196f7d4824f62095c7b7f5f95db4b29e1dfbd9789e56c6f6024",
+      "duration_sec": 43.6,
+      "wpm": 150,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 4004,
+      "job_id": "71a60edb-c10e-4bbc-87c7-0fb84d94285a",
+      "file": "h40-5-bb05523f21.mp3",
+      "sha256": "bb05523f21295966482e109f89cb3c9b98f7a555919153ca735cc175b9227ed6",
+      "duration_sec": 35.6,
+      "wpm": 163,
+      "silence_removed_sec": 0.28,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 4005,
+      "job_id": "13288c58-4c8c-4073-8157-01e737f5d66a",
+      "file": "h40-6-1d4fa053aa.mp3",
+      "sha256": "1d4fa053aaea4a5bbe3814620eda79ebeb7fcf921ae1eed9216092353eae936d",
+      "duration_sec": 38.87,
+      "wpm": 160,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 4100,
+      "job_id": "dbbc2aed-636f-42b7-9b32-b3738a927e24",
+      "file": "h41-1-b563cfbd9d.mp3",
+      "sha256": "b563cfbd9da8a33f8a1e7dad3019aef902f8ce34b667747312a5ffdef2f7585a",
+      "duration_sec": 39.38,
+      "wpm": 166,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 4101,
+      "job_id": "d5dcba3e-15ac-471b-a598-ea2c94c6b8bb",
+      "file": "h41-2-998886309b.mp3",
+      "sha256": "998886309b158d7ef798bccf0b8783f0f6f867a36c1e92ce627bc81f76a091c5",
+      "duration_sec": 45.46,
+      "wpm": 130,
+      "silence_removed_sec": 0.52,
+      "review": "script matched"
+    },
+    {
+      "index": 4102,
+      "job_id": "39871cfd-61bb-47ed-b76e-960221d3091a",
+      "file": "h41-3-2268671a75.mp3",
+      "sha256": "2268671a757b21420e3be7a37974732a1a1ff8ff079ae4995ac54eb5dd4f4ccd",
+      "duration_sec": 45.8,
+      "wpm": 124,
+      "silence_removed_sec": 0.23,
+      "review": "script matched"
+    },
+    {
+      "index": 4103,
+      "job_id": "13e95340-07e6-436c-8570-4eb21270727f",
+      "file": "h41-4-d2c220cab3.mp3",
+      "sha256": "d2c220cab3e93ac5ec061e70419787bb7446b2800e1cba410d1601081339170e",
+      "duration_sec": 47.63,
+      "wpm": 146,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 4104,
+      "job_id": "3ccee0e8-1e5e-4bee-8e91-b5c287a1b855",
+      "file": "h41-5-b99f734231.mp3",
+      "sha256": "b99f7342319326caef1f525e21f5c96fa4bff8fbdd74fd4c93c47a903a49895c",
+      "duration_sec": 32.03,
+      "wpm": 183,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 4105,
+      "job_id": "25433144-0e3a-4c57-9e1f-53333805f770",
+      "file": "h41-6-47bac2eec7.mp3",
+      "sha256": "47bac2eec78e5203f63bb9b4148774ed888ca5bc418fa32ff65cbf96355051c6",
+      "duration_sec": 40.36,
+      "wpm": 143,
+      "silence_removed_sec": 0.44,
+      "review": "script matched"
+    },
+    {
+      "index": 4200,
+      "job_id": "bb38decd-dd15-4d6a-a096-6c6f252fbedb",
+      "file": "h42-1-74a06476a2.mp3",
+      "sha256": "74a06476a29d020f52ef3721cff98d64be961ec10a346e5dd1fae7b8886dfd01",
+      "duration_sec": 43.28,
+      "wpm": 146,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 4201,
+      "job_id": "ed703737-bd86-440e-a9aa-f2244f2349fa",
+      "file": "h42-2-2baeda01cc.mp3",
+      "sha256": "2baeda01ccf41d72515658faab28fee3b545982b171940e5732f58206c6f5eef",
+      "duration_sec": 40.74,
+      "wpm": 163,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 4202,
+      "job_id": "350318f8-30d8-44e8-af18-b282d31a8c95",
+      "file": "h42-3-88b8343e98.mp3",
+      "sha256": "88b8343e98e2c5eda6b239a97161358f835455a7821aa197263412c6941b2979",
+      "duration_sec": 47.46,
+      "wpm": 159,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 4203,
+      "job_id": "43096d59-94a5-4ccc-8e70-b2b89e6a6940",
+      "file": "h42-4-e41753d755.mp3",
+      "sha256": "e41753d75521444a6125b701b9bed17b7c07eee9b2a0190523d0ea77f39f3978",
+      "duration_sec": 52.6,
+      "wpm": 130,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 4204,
+      "job_id": "8f4f416c-6ec2-4366-bda0-3d43dcaffc26",
+      "file": "h42-5-4faf37bf4d.mp3",
+      "sha256": "4faf37bf4d4279bca494c95fbf29581a9f988ded268d5345f2c585aef0e65594",
+      "duration_sec": 44.15,
+      "wpm": 155,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 4205,
+      "job_id": "bf14be49-0671-4909-8906-866ebedbf4cc",
+      "file": "h42-6-27953c6b44.mp3",
+      "sha256": "27953c6b4477ee19362dc6003cf8259e0c6e61c7beeb04566434a9719cd651c3",
+      "duration_sec": 36.3,
+      "wpm": 168,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 4300,
+      "job_id": "e6ef2cc6-d1bc-4436-be32-7b3db59d4c40",
+      "file": "h43-1-10c6cff1c6.mp3",
+      "sha256": "10c6cff1c6310b59ee2ded12da8f21a9504c63f5b2daedf8f0b3a1a55471a73d",
+      "duration_sec": 46.02,
+      "wpm": 129,
+      "silence_removed_sec": 2.34,
+      "review": "script matched"
+    },
+    {
+      "index": 4301,
+      "job_id": "ac4cf671-194a-48fa-a782-12e432c3c208",
+      "file": "h43-2-a464a55b59.mp3",
+      "sha256": "a464a55b592e08d0d1c3ba8f9f476fb2a773ab51e6f955d555fec1d358f28d1d",
+      "duration_sec": 46.76,
+      "wpm": 140,
+      "silence_removed_sec": 1.6,
+      "review": "script matched"
+    },
+    {
+      "index": 4302,
+      "job_id": "069614af-9dbf-4120-8d21-0732d26d3c33",
+      "file": "h43-3-cd1facf6f8.mp3",
+      "sha256": "cd1facf6f874a827c445a3691c67ad45579fe031f0ebd768065135c2290205a3",
+      "duration_sec": 43.09,
+      "wpm": 139,
+      "silence_removed_sec": 1.62,
+      "review": "script matched"
+    },
+    {
+      "index": 4303,
+      "job_id": "00006732-7ab2-4664-849b-efcec2c1b7e9",
+      "file": "h43-4-a17a77739b.mp3",
+      "sha256": "a17a77739b4705528192ed2e6d5b976d4dab4d6a8dee70ba3074912b1fd8c1e3",
+      "duration_sec": 42.93,
+      "wpm": 159,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 4304,
+      "job_id": "848f3ffe-f2ba-4155-85f7-67f7e865be7e",
+      "file": "h43-5-2b73cdc984.mp3",
+      "sha256": "2b73cdc9842718cdc892e3137d4e2d930982152753325c95fa7c6b685ff95f0e",
+      "duration_sec": 34.2,
+      "wpm": 179,
+      "silence_removed_sec": 11.38,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 4305,
+      "job_id": "50576ab1-8cd6-44dd-b00f-2c73b18e4fca",
+      "file": "h43-6-71f758ab56.mp3",
+      "sha256": "71f758ab56b82f9b2fdd60cc06739034c191ebf53ea864d950dc57b40b8ac17d",
+      "duration_sec": 43.6,
+      "wpm": 134,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 4400,
+      "job_id": "f845e211-21d3-4edd-ad14-80f4b011854b",
+      "file": "h44-1-867ba3bc3d.mp3",
+      "sha256": "867ba3bc3d9f93d599f14e631c00847ddd32a3511b1b72b6e414532bbccf134a",
+      "duration_sec": 45.16,
+      "wpm": 131,
+      "silence_removed_sec": 1.18,
+      "review": "script matched"
+    },
+    {
+      "index": 4401,
+      "job_id": "5353ca23-76ce-4de2-81d4-eb7702ff424c",
+      "file": "h44-2-a4130e2925.mp3",
+      "sha256": "a4130e29251ddcfb0bcab20efa231332292668bed0e7edeacd121eccd0826d2c",
+      "duration_sec": 45.86,
+      "wpm": 136,
+      "silence_removed_sec": 0.46,
+      "review": "script matched"
+    },
+    {
+      "index": 4402,
+      "job_id": "4a8d6636-cf02-4079-bbdf-f438e3ea375f",
+      "file": "h44-3-7f6136e05d.mp3",
+      "sha256": "7f6136e05d36825cf51f2e4095678c2cd09cf26111de0a1c4b3a3486140bd1f2",
+      "duration_sec": 41.18,
+      "wpm": 146,
+      "silence_removed_sec": 0.0,
+      "review": "script matched"
+    },
+    {
+      "index": 4403,
+      "job_id": "b384bb9a-348e-4ccd-b249-d713e34755dd",
+      "file": "h44-4-63f81e6cd4.mp3",
+      "sha256": "63f81e6cd49ab87c6600787825450abec8af207633657216942530bd02b9bd03",
+      "duration_sec": 38.98,
+      "wpm": 145,
+      "silence_removed_sec": 0.16,
+      "review": "script matched"
+    },
+    {
+      "index": 4404,
+      "job_id": "2f8583d6-7e3f-4e80-8baa-e9c7d0a50e30",
+      "file": "h44-5-bdcde80514.mp3",
+      "sha256": "bdcde80514c08d09a32415710e5b2efb28ed2763ff5b46e221c73107794c595b",
+      "duration_sec": 42.62,
+      "wpm": 168,
+      "silence_removed_sec": 0.22,
+      "review": "script matched"
+    },
+    {
+      "index": 4405,
+      "job_id": "b7241ca3-309a-4385-8f25-64fb639a93b8",
+      "file": "h44-6-7ce87a515c.mp3",
+      "sha256": "7ce87a515c4b1a5105d80467e4e60587e0960dbd41a93751faf437c3b74ae0a9",
+      "duration_sec": 37.02,
+      "wpm": 175,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 4500,
+      "job_id": "dc233a7e-f79d-47a9-8785-5e86b84df372",
+      "file": "h45-1-0121869087.mp3",
+      "sha256": "01218690876e557755795135a92dd4b7e8189bfc608690248b7d9716e8e53593",
+      "duration_sec": 38.76,
+      "wpm": 160,
+      "silence_removed_sec": 0.43,
+      "review": "script matched"
+    },
+    {
+      "index": 4501,
+      "job_id": "71ed23f8-88a3-47bc-81ee-beb97727a111",
+      "file": "h45-2-bb38b68a13.mp3",
+      "sha256": "bb38b68a13fef6ccf430bb79481729cea6dfa9802683a82507604ec2a095f258",
+      "duration_sec": 36.53,
+      "wpm": 161,
+      "silence_removed_sec": 0.26,
+      "review": "script matched"
+    },
+    {
+      "index": 4502,
+      "job_id": "4fd831fd-02a3-4152-be50-9ef3e61e6939",
+      "file": "h45-3-7b544ecf38.mp3",
+      "sha256": "7b544ecf3814ea9711cf7b9ecfecd4a043fd801ea41fb12ae0f3e4b86148ac2d",
+      "duration_sec": 48.38,
+      "wpm": 136,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 4503,
+      "job_id": "524b8758-4012-4075-9875-7f31109d05f7",
+      "file": "h45-4-8a1f76964d.mp3",
+      "sha256": "8a1f76964d6750b068d3e02d2ff020e27c40538a3d495a4c07ea3b08672789cb",
+      "duration_sec": 40.77,
+      "wpm": 178,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 4504,
+      "job_id": "ff280b0e-e8b7-4126-b7d9-830115e99074",
+      "file": "h45-5-e8c840668d.mp3",
+      "sha256": "e8c840668d1b7be2aba939ac99d54ea63f108a28b764ca4cbc59d88cf6728501",
+      "duration_sec": 45.52,
+      "wpm": 150,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 4505,
+      "job_id": "5fa2ca06-80e6-4570-ab0c-f6fbc157c992",
+      "file": "h45-6-366265ed4c.mp3",
+      "sha256": "366265ed4ce8c9f0d3e9df71d986adc56670ccad8f38fabde8a8722e94badfe0",
+      "duration_sec": 47.61,
+      "wpm": 139,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 4600,
+      "job_id": "62e72e93-74f5-4b58-b104-0058175a8108",
+      "file": "h46-1-1dc04cefb1.mp3",
+      "sha256": "1dc04cefb1c2a4e256bce794c6ffa85d40ca00d66aa3163aeb2701e010ccc4aa",
+      "duration_sec": 32.92,
+      "wpm": 175,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 4601,
+      "job_id": "f42e317a-d34a-499b-8ffd-ef6da7cc701e",
+      "file": "h46-2-cb28bcd66f.mp3",
+      "sha256": "cb28bcd66f9b9c72bfd72f246464aba1839246f7cfd667275e5824619885294b",
+      "duration_sec": 35.5,
+      "wpm": 164,
+      "silence_removed_sec": 0.26,
+      "review": "script matched"
+    },
+    {
+      "index": 4602,
+      "job_id": "9bd5cb96-27a7-4c63-9031-2b949df0ffea",
+      "file": "h46-3-75895e4f62.mp3",
+      "sha256": "75895e4f6205eb1e6e860f1fbfe98c78c0bb6cddb7ba1cf55ce4487a73c0a610",
+      "duration_sec": 43.46,
+      "wpm": 145,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 4603,
+      "job_id": "cf7b600e-96ea-4efe-8fc6-e614e6b3cd1a",
+      "file": "h46-4-7356c046f6.mp3",
+      "sha256": "7356c046f6054751fa3ff12ed7f6577d2d3180199730dbc19d95b37d9e7a62fd",
+      "duration_sec": 44.78,
+      "wpm": 126,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 4604,
+      "job_id": "57ca72af-8ab6-47f4-9bc5-21a52a004934",
+      "file": "h46-5-a354669ff9.mp3",
+      "sha256": "a354669ff9168ca8a543856c7f7cd42434afd591576387ed50f202e8fa549f86",
+      "duration_sec": 36.22,
+      "wpm": 177,
+      "silence_removed_sec": 0.28,
+      "review": "script matched"
+    },
+    {
+      "index": 4605,
+      "job_id": "e2f74a32-8a28-4ee2-9a67-ab9f997835f1",
+      "file": "h46-6-663fca5dc6.mp3",
+      "sha256": "663fca5dc60dcfe4be61115638ad3a9149fc23a11d0f5f036d93a25402b6e290",
+      "duration_sec": 47.17,
+      "wpm": 135,
+      "silence_removed_sec": 0.3,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 4700,
+      "job_id": "754c9d8f-8876-475b-9076-9f398ba20881",
+      "file": "h47-1-5381e7b625.mp3",
+      "sha256": "5381e7b6255ba6e1787e806fafec617dd7be98224f1318acb9435ed26536d05e",
+      "duration_sec": 32.56,
+      "wpm": 176,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 4701,
+      "job_id": "5dbfd15e-2a8f-45ae-9ae2-70b8af7575da",
+      "file": "h47-2-9ee2791d02.mp3",
+      "sha256": "9ee2791d02c7b3ced50e123a2c64d21320feed575cc9a9c063d19f734d606f7a",
+      "duration_sec": 44.1,
+      "wpm": 133,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 4702,
+      "job_id": "a25d4227-475f-4ecd-a523-12bff7a6d6d5",
+      "file": "h47-3-3bf53bb040.mp3",
+      "sha256": "3bf53bb040821a15019f53acd030e1d26d56eb18c0acb8a60232a7a8493c8b69",
+      "duration_sec": 39.7,
+      "wpm": 153,
+      "silence_removed_sec": 0.28,
+      "review": "script matched"
+    },
+    {
+      "index": 4703,
+      "job_id": "4629d113-b011-49d3-8e94-bede24bd7887",
+      "file": "h47-4-592dca4ea9.mp3",
+      "sha256": "592dca4ea9da66eb25d7ea13591f8f482e3898716a38558938359adfc05d83aa",
+      "duration_sec": 45.46,
+      "wpm": 139,
+      "silence_removed_sec": 0.52,
+      "review": "script matched"
+    },
+    {
+      "index": 4704,
+      "job_id": "c1cb8a39-efc3-4615-b048-0f53993224d8",
+      "file": "h47-5-e137a826b5.mp3",
+      "sha256": "e137a826b561aa074c51b53ca476aa20336f872402be0385f305e3a71308b09c",
+      "duration_sec": 48.04,
+      "wpm": 139,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 4705,
+      "job_id": "cff3cf90-8260-4a0b-ae7a-3b9fb3e48e67",
+      "file": "h47-6-c84e34c464.mp3",
+      "sha256": "c84e34c4648d01d0934764b5e7f6eddafd9a288eff30567aab0d5a516fd6c4d2",
+      "duration_sec": 47.25,
+      "wpm": 132,
+      "silence_removed_sec": 0.22,
+      "review": "script matched"
+    },
+    {
+      "index": 4800,
+      "job_id": "0cd7ee80-433e-4354-939e-843d9239e94d",
+      "file": "h48-1-0eb348f1bb.mp3",
+      "sha256": "0eb348f1bb7dca2efbe4943133055b66da7964d4d101f06a9067046e7c2ad066",
+      "duration_sec": 35.54,
+      "wpm": 162,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 4801,
+      "job_id": "18c08a73-0921-4ce0-a6ee-738743e8ab52",
+      "file": "h48-2-2b14bbd1d6.mp3",
+      "sha256": "2b14bbd1d64af884564b6ae36d9e32ac4eb924f8bf45f3e667def6b494aec6df",
+      "duration_sec": 38.0,
+      "wpm": 167,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 4802,
+      "job_id": "67463e51-ce1a-4bd2-a4ad-21e96a1501e2",
+      "file": "h48-3-a185e93193.mp3",
+      "sha256": "a185e93193cbe4a90e5457f9c97a74fabaf3c6468406bcd22b90a82fc6727011",
+      "duration_sec": 48.06,
+      "wpm": 128,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 4803,
+      "job_id": "fbda742b-3839-4e5f-8217-0c33fa1dd7c0",
+      "file": "h48-4-8121d54e93.mp3",
+      "sha256": "8121d54e9394e247b6d80f7fa8ae002a370195ca41a268874583e17a1e6b3648",
+      "duration_sec": 45.64,
+      "wpm": 139,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 4804,
+      "job_id": "41a07f0b-d67e-4b8e-b61e-5afc710b1759",
+      "file": "h48-5-62b2b6c11d.mp3",
+      "sha256": "62b2b6c11dc7f0bfc7cd03590b00539f01815e39d69d58088b8cc05567eb4fa8",
+      "duration_sec": 47.76,
+      "wpm": 151,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 4805,
+      "job_id": "9dec3c6a-776f-4010-b288-adbfc7dd5882",
+      "file": "h48-6-55a8325361.mp3",
+      "sha256": "55a8325361bb8f4e58d446ffabad293845606218513825f9b9590b03cd071605",
+      "duration_sec": 46.02,
+      "wpm": 151,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 4900,
+      "job_id": "101ff0f0-965a-4156-baf5-b103487e1687",
+      "file": "h49-1-76a88eb995.mp3",
+      "sha256": "76a88eb9956d54e4e998ca148bc6e9c185a3e47f83baf53573b58b0736aa7223",
+      "duration_sec": 46.41,
+      "wpm": 133,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 4901,
+      "job_id": "2d6cac8e-87a5-45c7-a7bf-94b73b7825c9",
+      "file": "h49-2-f9f2e32886.mp3",
+      "sha256": "f9f2e328866b9420f762b635a4bad0091090007d55ca07cf235698349b8332de",
+      "duration_sec": 38.9,
+      "wpm": 157,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 4902,
+      "job_id": "4379277b-e170-4f15-9ed9-5f97cc2b326c",
+      "file": "h49-3-d34aa61bc8.mp3",
+      "sha256": "d34aa61bc81dfca2ca061bc4e5eaa688040ed3e518ee61b9458c9a7e73caf7eb",
+      "duration_sec": 41.49,
+      "wpm": 152,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 4903,
+      "job_id": "74659b62-3146-4656-ada3-b1a6ff6eac68",
+      "file": "h49-4-e31a679062.mp3",
+      "sha256": "e31a67906216c009740c90917c7f83b979ae765a702eb666a8617273f40eb24e",
+      "duration_sec": 35.73,
+      "wpm": 173,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 4904,
+      "job_id": "4149216b-24ea-4931-a06b-67a968ba70aa",
+      "file": "h49-5-9f3b1f971a.mp3",
+      "sha256": "9f3b1f971adcb93c5b739b5fb9963b040971b74a4c864864b88a8fda67b5df52",
+      "duration_sec": 40.58,
+      "wpm": 148,
+      "silence_removed_sec": 0.24,
+      "review": "script matched"
+    },
+    {
+      "index": 4905,
+      "job_id": "c6c46f75-4a80-44c4-acdb-ea95f6c68519",
+      "file": "h49-6-2fe897d685.mp3",
+      "sha256": "2fe897d685e86b43a51adaf092c390352cecc15fc9d1386382632b4b73b295f6",
+      "duration_sec": 40.0,
+      "wpm": 150,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 5000,
+      "job_id": "5da9294a-e795-4761-92cc-e72a075f99c2",
+      "file": "h50-1-ec30ca6cc7.mp3",
+      "sha256": "ec30ca6cc703757ff2140bf4f0364bb4b3a5369e61bc27d74452e23a6ced91fd",
+      "duration_sec": 32.45,
+      "wpm": 170,
+      "silence_removed_sec": 0.24,
+      "review": "script matched"
+    },
+    {
+      "index": 5001,
+      "job_id": "3760239b-fb0a-46cb-8bd9-bf5e871c4805",
+      "file": "h50-2-4279b439b3.mp3",
+      "sha256": "4279b439b323a084f5279c53aeba8d5e52ee1275de642e8a14b2dc8f454819a3",
+      "duration_sec": 39.28,
+      "wpm": 154,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 5002,
+      "job_id": "589349e3-b96f-45f7-abb1-000488d618c9",
+      "file": "h50-3-426d70a59d.mp3",
+      "sha256": "426d70a59d80e48b591bb37c7fae9fd474a5417b7b1646f8626663c18038a3e5",
+      "duration_sec": 37.94,
+      "wpm": 165,
+      "silence_removed_sec": 0.22,
+      "review": "script matched"
+    },
+    {
+      "index": 5003,
+      "job_id": "74e657f9-a298-4117-907b-d981140d2833",
+      "file": "h50-4-c4d851a5ea.mp3",
+      "sha256": "c4d851a5ea1b407ddfab8930cb71a885176e5c3b727be52ef92f73e2d3b56b79",
+      "duration_sec": 34.65,
+      "wpm": 164,
+      "silence_removed_sec": 0.44,
+      "review": "script matched"
+    },
+    {
+      "index": 5004,
+      "job_id": "5a673bb7-9592-4fbf-ae3b-2eddfc0c33ed",
+      "file": "h50-5-482f8c1c93.mp3",
+      "sha256": "482f8c1c93c7a0997f85d75a9706b2c19b1dfe6b517ac3c74bcfb9640aafef4d",
+      "duration_sec": 37.7,
+      "wpm": 164,
+      "silence_removed_sec": 0.24,
+      "review": "script matched"
+    },
+    {
+      "index": 5005,
+      "job_id": "789dcd59-377b-447d-9ba1-c1791e215f9a",
+      "file": "h50-6-2b52590076.mp3",
+      "sha256": "2b52590076ddd55401a37105df9c12337e5f3060b4a45e71098d4d5a1332def9",
+      "duration_sec": 35.81,
+      "wpm": 161,
+      "silence_removed_sec": 3.38,
+      "review": "script matched"
+    },
+    {
+      "index": 5100,
+      "job_id": "38b2f8fd-9a91-4146-9b38-0b346ce7d14a",
+      "file": "h51-1-6111860188.mp3",
+      "sha256": "6111860188362c7e6328094488598212cc5e36756141b61d297ad5e28135afcb",
+      "duration_sec": 38.54,
+      "wpm": 160,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 5101,
+      "job_id": "2c9ec39a-7c85-43aa-aba1-708aff83a6bb",
+      "file": "h51-2-080220a309.mp3",
+      "sha256": "080220a309da2360f21a1db7268f6e790015aa8a0e336bf8119651e7f7dfbb61",
+      "duration_sec": 35.12,
+      "wpm": 172,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 5102,
+      "job_id": "b13cea2a-41e8-4b86-8d7f-bd383a78639b",
+      "file": "h51-3-1001791564.mp3",
+      "sha256": "100179156406b3b8d3d4dddad7019773ce27807345ff95969a1ab64a67703203",
+      "duration_sec": 34.19,
+      "wpm": 168,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 5103,
+      "job_id": "bbfd7f02-f869-47ce-a415-fcecb51a7a25",
+      "file": "h51-4-a963ec41f1.mp3",
+      "sha256": "a963ec41f16a20e6722d220af92182fb0e1b71fb76c393a0a3b63de3f0d832fe",
+      "duration_sec": 32.36,
+      "wpm": 191,
+      "silence_removed_sec": 1.05,
+      "review": "script matched"
+    },
+    {
+      "index": 5104,
+      "job_id": "18453e06-a5cc-4c20-a4d8-ecf937743bed",
+      "file": "h51-5-f2b8ea08cb.mp3",
+      "sha256": "f2b8ea08cb8296cd8c3b71e5b5368c06f57ac624901d3601e256d047559ab69f",
+      "duration_sec": 34.46,
+      "wpm": 179,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 5105,
+      "job_id": "8619374a-4c6a-42cb-96f1-bd60d2b9be48",
+      "file": "h51-6-6775d199e2.mp3",
+      "sha256": "6775d199e2ff3c987493218f06cf6d7fef7769f827b625eca9c852f41a9484a7",
+      "duration_sec": 42.4,
+      "wpm": 150,
+      "silence_removed_sec": 0.1,
+      "review": "script matched"
+    },
+    {
+      "index": 5200,
+      "job_id": "51fb0168-5ed3-4a98-bc50-19b0ca2d0d14",
+      "file": "h52-1-e9db86c789.mp3",
+      "sha256": "e9db86c7897cbedbe820f4a46b4da809b23e05eea26db6a09148a65b23c7d731",
+      "duration_sec": 51.2,
+      "wpm": 126,
+      "silence_removed_sec": 2.68,
+      "review": "script matched"
+    },
+    {
+      "index": 5201,
+      "job_id": "51a4c674-8e21-42e9-8f7c-1217272250fd",
+      "file": "h52-2-d273053322.mp3",
+      "sha256": "d2730533229f20029204ca41129f5e1bdffcf34d1d20d7fff4c2f9581f086275",
+      "duration_sec": 44.37,
+      "wpm": 166,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 5202,
+      "job_id": "3a798fd5-5930-457f-85f7-08432337243c",
+      "file": "h52-3-3bcd5b9b32.mp3",
+      "sha256": "3bcd5b9b32a0a492806b1f6b7cdc2930e36232a3fffe5c87c76a24dadc4bf8fb",
+      "duration_sec": 36.77,
+      "wpm": 181,
+      "silence_removed_sec": 0.0,
+      "review": "script matched"
+    },
+    {
+      "index": 5203,
+      "job_id": "0f94112c-970e-474f-b560-ddb9633c5964",
+      "file": "h52-4-c10959dc5d.mp3",
+      "sha256": "c10959dc5d46a33b73cd54d6740529efe6630cc291f5b6e839c310b4bda6442a",
+      "duration_sec": 35.75,
+      "wpm": 188,
+      "silence_removed_sec": 0.2,
+      "review": "script matched"
+    },
+    {
+      "index": 5204,
+      "job_id": "6e0d01ea-5455-4a53-b258-beae16bd75b0",
+      "file": "h52-5-19f97e2928.mp3",
+      "sha256": "19f97e29286ddd045a5aa7894743675d3c8474685ffc15a65962497cece4a2c1",
+      "duration_sec": 45.64,
+      "wpm": 137,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 5205,
+      "job_id": "0908868d-c994-47aa-8014-2ce4b07f57de",
+      "file": "h52-6-07eb159fba.mp3",
+      "sha256": "07eb159fba867bf50cc4ac1010dca7a0272f393163be7e2e1c2c407b58be7182",
+      "duration_sec": 40.97,
+      "wpm": 149,
+      "silence_removed_sec": 0.26,
+      "review": "script matched"
+    },
+    {
+      "index": 5300,
+      "job_id": "e235f431-638f-4bd0-ac84-56b03899ab35",
+      "file": "h53-1-ae2889db22.mp3",
+      "sha256": "ae2889db2298dba7b04f4202a96ec1385bc285e9785dc7ea633e1fcb3115df50",
+      "duration_sec": 40.48,
+      "wpm": 141,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 5301,
+      "job_id": "6718e2eb-9df3-403c-a476-ca08bdf75cfb",
+      "file": "h53-2-5250de0d8f.mp3",
+      "sha256": "5250de0d8fe540eeeeb7a534509bd7cd6e34bec88bdf7baafaf911a224bb6076",
+      "duration_sec": 31.82,
+      "wpm": 181,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 5302,
+      "job_id": "bd5bb90a-2661-4a0f-9379-31334ecc6c43",
+      "file": "h53-3-811af28e6a.mp3",
+      "sha256": "811af28e6ad35e9d9f60c813d7137af77367a58d8f786e462300e6be5b172bfa",
+      "duration_sec": 45.62,
+      "wpm": 132,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 5303,
+      "job_id": "97384836-53b9-44f7-9557-edbc0467824e",
+      "file": "h53-4-89a262bc73.mp3",
+      "sha256": "89a262bc7366a0fb8fd6267becbb4bc310ea06c2569c7792051ddd6aaa88e1af",
+      "duration_sec": 43.96,
+      "wpm": 149,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 5304,
+      "job_id": "260ae080-b9a0-4e63-8101-08501d41d817",
+      "file": "h53-5-c3e33bc7c3.mp3",
+      "sha256": "c3e33bc7c351887ef61a0289cbec93919e6cfee407f76986229390baf923ce2d",
+      "duration_sec": 40.6,
+      "wpm": 162,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 5305,
+      "job_id": "5ceb742c-3a2a-4142-b22a-55dfa810150a",
+      "file": "h53-6-4a209d65ed.mp3",
+      "sha256": "4a209d65ed9bda20876c5e40ed8ccf7d3d5eb10c01650fd5c3988ad76e223b68",
+      "duration_sec": 41.15,
+      "wpm": 154,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 5400,
+      "job_id": "bd821e04-815c-4b69-a5e0-caa70a49b405",
+      "file": "h54-1-64c33842c7.mp3",
+      "sha256": "64c33842c70d439a436d6a052185cd749ef43b58e769577c8a2111cc2d4d63cc",
+      "duration_sec": 49.15,
+      "wpm": 136,
+      "silence_removed_sec": 0.34,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 5401,
+      "job_id": "4ab6d1fa-2bf5-47d4-8197-b24a9109a059",
+      "file": "h54-2-e4ae3586b1.mp3",
+      "sha256": "e4ae3586b15b39e846417d148895b94fc279d0cd31cfb6bde4f75425667b469a",
+      "duration_sec": 44.48,
+      "wpm": 146,
+      "silence_removed_sec": 0.26,
+      "review": "script matched"
+    },
+    {
+      "index": 5402,
+      "job_id": "16022e42-e9bb-4bd7-9483-f2e5a952d435",
+      "file": "h54-3-d94a4d0f9c.mp3",
+      "sha256": "d94a4d0f9c7db6acd875544803ff27aa5365c7007ddc49de72324d5b229d69a1",
+      "duration_sec": 59.92,
+      "wpm": 121,
+      "silence_removed_sec": 0.34,
+      "review": "script matched"
+    },
+    {
+      "index": 5403,
+      "job_id": "905359a0-c4ae-47be-8a31-31981e480fd7",
+      "file": "h54-4-5312e3dd2f.mp3",
+      "sha256": "5312e3dd2f1dd0d36da14a333884c3c068c7db6dcec84ec7ea560761613cc723",
+      "duration_sec": 44.6,
+      "wpm": 140,
+      "silence_removed_sec": 0.46,
+      "review": "script matched"
+    },
+    {
+      "index": 5404,
+      "job_id": "63da7a60-3b0c-477b-8d28-e8b659798400",
+      "file": "h54-5-d06c30aae2.mp3",
+      "sha256": "d06c30aae2f0320d6e574cfa16fefc6f7269f85b342077ffb9fa31e83dc51207",
+      "duration_sec": 40.45,
+      "wpm": 161,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 5405,
+      "job_id": "c4c99bac-63f3-4d9c-9dfe-7679820c1f8a",
+      "file": "h54-6-0be08127c5.mp3",
+      "sha256": "0be08127c50ec7b47d308d0d32deeb8916003ad5256f1c6ff51ae41e8f631814",
+      "duration_sec": 48.43,
+      "wpm": 119,
+      "silence_removed_sec": 1.42,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 5500,
+      "job_id": "d63e0c50-4f0a-476a-a8e1-3d8642478255",
+      "file": "h55-1-3a28adee31.mp3",
+      "sha256": "3a28adee31fc3bd35d0e07b91e41133ac8d9e096a35d2efc73b13410cdeae452",
+      "duration_sec": 45.36,
+      "wpm": 140,
+      "silence_removed_sec": 0.6,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 5501,
+      "job_id": "50040930-3bca-48f2-bf66-2c4a980a77aa",
+      "file": "h55-2-ee8ec3b531.mp3",
+      "sha256": "ee8ec3b5317c2595f66838063138909c8c62ab07276586348ef7927fda79332a",
+      "duration_sec": 37.1,
+      "wpm": 178,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 5502,
+      "job_id": "b7f7ac07-0448-4cc7-9fec-314dc9db4890",
+      "file": "h55-3-8587ca8d3f.mp3",
+      "sha256": "8587ca8d3f85bd768fab8fc47d4d0611f060611ad2ed39d59f9a4731c270091a",
+      "duration_sec": 38.53,
+      "wpm": 171,
+      "silence_removed_sec": 0.28,
+      "review": "script matched"
+    },
+    {
+      "index": 5503,
+      "job_id": "f1f877eb-22eb-4e39-9dfa-a6b02f120f19",
+      "file": "h55-4-a2374900f4.mp3",
+      "sha256": "a2374900f4d8ab6790ed39472b5d223a68408f18de82a7615f4d3877b584f3cc",
+      "duration_sec": 43.34,
+      "wpm": 144,
+      "silence_removed_sec": 0.32,
+      "review": "reviewed: Both readers transcribe the three surnames phonetically as Gram or Graham, Leach, Bly Lee. They reproduce the intended pronunciation of Gramm-Leach-Bliley, and the privacy rule matches."
+    },
+    {
+      "index": 5504,
+      "job_id": "51e91f89-4aab-4192-b400-c95cd70e945c",
+      "file": "h55-5-5520c3e4a6.mp3",
+      "sha256": "5520c3e4a6c943fe9924c98cee199e5442967187f1dc2a2f3aaf8c80fc1562bd",
+      "duration_sec": 40.04,
+      "wpm": 141,
+      "silence_removed_sec": 0.3,
+      "review": "script matched"
+    },
+    {
+      "index": 5505,
+      "job_id": "ea413af4-ab5c-4a95-adb2-13ad4d181752",
+      "file": "h55-6-438ff34071.mp3",
+      "sha256": "438ff340711fff99ad4d70a3b7c1e964cf272066b4cb95d4629d12bb799441f4",
+      "duration_sec": 32.57,
+      "wpm": 190,
+      "silence_removed_sec": 1.56,
+      "review": "script matched"
+    },
+    {
+      "index": 5600,
+      "job_id": "83d03f4a-ae84-436f-a472-b2356584234c",
+      "file": "h56-1-8a8414fdd1.mp3",
+      "sha256": "8a8414fdd1c7119a346709d457e78ba5b9c284450551807f3c7fb2365c18d459",
+      "duration_sec": 39.21,
+      "wpm": 150,
+      "silence_removed_sec": 0.34,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 5601,
+      "job_id": "67aa9111-37ee-460b-bfc4-ae9f2df12bac",
+      "file": "h56-2-10efd81e94.mp3",
+      "sha256": "10efd81e94f03f3519a6d44630f37566a8103875630abcfce545d88a3650b41d",
+      "duration_sec": 43.46,
+      "wpm": 164,
+      "silence_removed_sec": 0.1,
+      "review": "script matched"
+    },
+    {
+      "index": 5602,
+      "job_id": "a7c2e61a-4cfa-4e97-b632-d7026c6f9558",
+      "file": "h56-3-0aeef7a901.mp3",
+      "sha256": "0aeef7a9017091fc55de9f8362d494910dc54a94a5db049ad8d265ea5a3e1a26",
+      "duration_sec": 43.43,
+      "wpm": 168,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 5603,
+      "job_id": "b8658939-5aad-4761-ac97-d5ae577d77d9",
+      "file": "h56-4-7d0d0cd47b.mp3",
+      "sha256": "7d0d0cd47b60fc808cd73c02b46fd6d6cde78b50bc94979509a362604f668331",
+      "duration_sec": 50.01,
+      "wpm": 140,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 5604,
+      "job_id": "cc92c665-e74b-477c-925e-43dc9351c8c8",
+      "file": "h56-5-6ad70aea40.mp3",
+      "sha256": "6ad70aea40bd708b01c97a167789d14091ed4ecc94ea0c2d34cb2b4c6b94ef12",
+      "duration_sec": 59.44,
+      "wpm": 146,
+      "silence_removed_sec": 1.26,
+      "review": "script matched"
+    },
+    {
+      "index": 5605,
+      "job_id": "c983dd93-bc63-47cc-83d3-a69496942e18",
+      "file": "h56-6-01426114a7.mp3",
+      "sha256": "01426114a71a23a755fec6ce64ad7ed31cc3af3d588dbbdcb71fee1c1ece2b31",
+      "duration_sec": 45.7,
+      "wpm": 152,
+      "silence_removed_sec": 0.12,
+      "review": "script matched"
+    },
+    {
+      "index": 5700,
+      "job_id": "75900e3d-7be2-47aa-ad01-a9fd476bd43d",
+      "file": "h57-1-d6970eeabd.mp3",
+      "sha256": "d6970eeabde9ede90ece737735e477b7764907d56c1ad498c1eecc4c1f44f982",
+      "duration_sec": 38.66,
+      "wpm": 162,
+      "silence_removed_sec": 6.92,
+      "review": "script matched"
+    },
+    {
+      "index": 5701,
+      "job_id": "39d47c64-df95-4742-b100-a3029dd76180",
+      "file": "h57-2-88d023eec2.mp3",
+      "sha256": "88d023eec2e041153399d93fb978e23cb99fe7c5ae1339dc9ca9b3a74ae48946",
+      "duration_sec": 38.3,
+      "wpm": 163,
+      "silence_removed_sec": 0.08,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 5702,
+      "job_id": "e17990b0-92b6-4960-a9f1-9b102b957ccb",
+      "file": "h57-3-f6fa9dc2d0.mp3",
+      "sha256": "f6fa9dc2d0ed3c916c4ca60f011dc5eb3458178059af2031437e8ecf59be4c28",
+      "duration_sec": 41.2,
+      "wpm": 153,
+      "silence_removed_sec": 0.1,
+      "review": "script matched"
+    },
+    {
+      "index": 5703,
+      "job_id": "a214db2f-21f1-4eb4-8119-001956c596f0",
+      "file": "h57-4-251cadb622.mp3",
+      "sha256": "251cadb622ac8477f76e981efbaa3245295f54dc1019d98ac418b4119e3f19f9",
+      "duration_sec": 38.34,
+      "wpm": 169,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 5704,
+      "job_id": "ec18b47f-ae95-4ff7-8d27-7911db4a2909",
+      "file": "h57-5-9b8cc4c344.mp3",
+      "sha256": "9b8cc4c3443ebae6e47a09886fa2c73749f800c95281008d35e2ab5fb3769675",
+      "duration_sec": 47.15,
+      "wpm": 121,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 5705,
+      "job_id": "0d54bcb9-f68c-454f-b0c6-c20d86051a16",
+      "file": "h57-6-24142bb1dc.mp3",
+      "sha256": "24142bb1dc5ae639952f9ec528c13fe49a7d44bf3e966f7b08828d1f63a3e375",
+      "duration_sec": 47.03,
+      "wpm": 156,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 5800,
+      "job_id": "1710cfd3-57f1-45b1-a5e6-e6a06ec80474",
+      "file": "h58-1-fb4b4bd8ac.mp3",
+      "sha256": "fb4b4bd8ac6141704347de695d6ee2d21127d79db6cb40722f33dec6bd81b070",
+      "duration_sec": 41.28,
+      "wpm": 149,
+      "silence_removed_sec": 0.48,
+      "review": "script matched"
+    },
+    {
+      "index": 5801,
+      "job_id": "152dbbe9-2231-4a63-a982-f124f9761088",
+      "file": "h58-2-e27e174d6a.mp3",
+      "sha256": "e27e174d6ac74ff680cc3bd0a2e6fe9502d01322d1a43ffc3155e8021cadcd48",
+      "duration_sec": 45.1,
+      "wpm": 125,
+      "silence_removed_sec": 0.45,
+      "review": "script matched"
+    },
+    {
+      "index": 5802,
+      "job_id": "1e5952b7-c7c2-4148-9d30-16644835c697",
+      "file": "h58-3-db55007a81.mp3",
+      "sha256": "db55007a8132f3be46a173a285bd2e77e010e68590ce377285adb315bd040307",
+      "duration_sec": 38.89,
+      "wpm": 153,
+      "silence_removed_sec": 0.3,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 5803,
+      "job_id": "8b6e4627-5308-49ae-b4e3-0438fe217791",
+      "file": "h58-4-37cee4f011.mp3",
+      "sha256": "37cee4f01196139ef9730747c1aa78788b4d9f1f649984fab9700accca8ba858",
+      "duration_sec": 43.5,
+      "wpm": 146,
+      "silence_removed_sec": 0.44,
+      "review": "script matched"
+    },
+    {
+      "index": 5804,
+      "job_id": "7c44bc5d-a74c-454f-8c5d-70aaf73fb164",
+      "file": "h58-5-3f15813ecc.mp3",
+      "sha256": "3f15813eccd6ce0a19e2ae8db08ad74e28e5faf3e83deac9fb40a42d8da997c0",
+      "duration_sec": 42.4,
+      "wpm": 144,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 5805,
+      "job_id": "2cf1309b-426e-4cf3-8224-94cb8e145fe9",
+      "file": "h58-6-8e643a5a1e.mp3",
+      "sha256": "8e643a5a1e5fe0e1c123283b0f5e73ff6a9cc8c6c43b17d887bbc11788ac25fb",
+      "duration_sec": 40.41,
+      "wpm": 156,
+      "silence_removed_sec": 0.08,
+      "review": "script matched"
+    },
+    {
+      "index": 5900,
+      "job_id": "9e660897-8b08-49f1-893c-f31c08ee268b",
+      "file": "h59-1-85d554af2a.mp3",
+      "sha256": "85d554af2a88be00aa8d79390b0b80ea2dfa61681b8c3fb960746df6bf5b2f1d",
+      "duration_sec": 53.25,
+      "wpm": 140,
+      "silence_removed_sec": 0.34,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 5901,
+      "job_id": "8b5e9a37-123f-4995-b537-c0fe13b451ca",
+      "file": "h59-2-02e2c0e3a6.mp3",
+      "sha256": "02e2c0e3a65f583c587c3d0437e21155ac6d1a77ec394698ff7644c02b464051",
+      "duration_sec": 32.84,
+      "wpm": 188,
+      "silence_removed_sec": 0.08,
+      "tempo_factor": 0.9237,
+      "review": "script matched"
+    },
+    {
+      "index": 5902,
+      "job_id": "eab971a5-277e-470c-b0c8-a9d1c514e206",
+      "file": "h59-3-ba25865561.mp3",
+      "sha256": "ba2586556160c8fa06926ba3c8e71067006f97892a2ab2e8b0415a0b7321443c",
+      "duration_sec": 43.17,
+      "wpm": 162,
+      "silence_removed_sec": 0.1,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 5903,
+      "job_id": "8c1aa67e-9642-4142-b494-008ccb2bbefb",
+      "file": "h59-4-62b61715f8.mp3",
+      "sha256": "62b61715f87706ca1db52b8e3ee2302c5a940bf96b29f759d32d3abd5553e7fb",
+      "duration_sec": 42.98,
+      "wpm": 153,
+      "silence_removed_sec": 2.12,
+      "review": "script matched"
+    },
+    {
+      "index": 5904,
+      "job_id": "ba1a3c6f-1885-4f30-a883-0912909b168d",
+      "file": "h59-5-b37bc8e045.mp3",
+      "sha256": "b37bc8e045a38420d8ea02b52f9345d8f2a7b8cdbd57786cca314e1acd982afa",
+      "duration_sec": 46.02,
+      "wpm": 137,
+      "silence_removed_sec": 0.3,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 5905,
+      "job_id": "432e6a07-1e1b-40c3-91ca-419a4211499a",
+      "file": "h59-6-0c1afeeea2.mp3",
+      "sha256": "0c1afeeea25a7b851fd4bb5c7590d68134aae080d36520b25e885882ea93cf69",
+      "duration_sec": 45.83,
+      "wpm": 143,
+      "silence_removed_sec": 1.64,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 6000,
+      "job_id": "9482774c-d446-4621-ad5f-68bb833c9fea",
+      "file": "h60-1-ddae2d2389.mp3",
+      "sha256": "ddae2d2389197bc0e907955c171eacfd186761767f96bdf54c9ce14c675ad6a1",
+      "duration_sec": 47.63,
+      "wpm": 142,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 6001,
+      "job_id": "cb10b8fd-b7aa-48ff-8f02-7c22638cbf98",
+      "file": "h60-2-2d20b22513.mp3",
+      "sha256": "2d20b225137f1a5c2812c8426f29af0305f5783321a20d33e54da79e0efbf08b",
+      "duration_sec": 36.14,
+      "wpm": 191,
+      "silence_removed_sec": 0.08,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 6002,
+      "job_id": "81eb6763-2567-4a69-8eec-ecdcbce0e2a4",
+      "file": "h60-3-a97080e7cc.mp3",
+      "sha256": "a97080e7cc1cb2ab0ae8d81a4cc2d8b2677a74191cd67e8b46f9615e776cbbcf",
+      "duration_sec": 36.88,
+      "wpm": 157,
+      "silence_removed_sec": 0.32,
+      "review": "script matched"
+    },
+    {
+      "index": 6003,
+      "job_id": "7580fb8d-d98e-48a9-b2c2-f01bdc3ded88",
+      "file": "h60-4-2c25b56ddd.mp3",
+      "sha256": "2c25b56ddd8fb101e4e28370d16224747be1c14bef1eeb79b4314071e3589032",
+      "duration_sec": 33.1,
+      "wpm": 185,
+      "silence_removed_sec": 0.28,
+      "review": "script matched"
+    },
+    {
+      "index": 6004,
+      "job_id": "735870a9-deff-4e33-9b6f-13e624085f22",
+      "file": "h60-5-4cebec12db.mp3",
+      "sha256": "4cebec12db30c8390ef6287bc9965acc038ac9d8b1c09d36a1b7c9362067d79e",
+      "duration_sec": 41.66,
+      "wpm": 150,
+      "silence_removed_sec": 0.32,
+      "review": "second transcription confirmed"
+    },
+    {
+      "index": 6005,
+      "job_id": "6491c520-d0ac-4af3-a5ec-a228b1fb2355",
+      "file": "h60-6-7756ade989.mp3",
+      "sha256": "7756ade989b5013070f0bb78b1a55736bdef30feb3ab3af853d5bd77e8a42296",
+      "duration_sec": 32.92,
+      "wpm": 188,
+      "silence_removed_sec": 0.32,
+      "tempo_factor": 0.9028,
+      "review": "second transcription confirmed"
     }
   ]
 }

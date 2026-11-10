@@ -1,0 +1,51 @@
+{
+  "6eda1aca-036f-437f-88da-459810a7b98e": {
+    "index": 1703,
+    "cuts": [
+      [
+        10.0,
+        11.76
+      ]
+    ],
+    "reason": "Duplicate 'typically ten days'. Boundaries sit in the pauses before each reading; retain the second reading into the next phrase."
+  },
+  "38674eef-b43b-4c3f-8718-eb98aa7fbcd1": {
+    "index": 1704,
+    "cuts": [
+      [
+        28.85,
+        30.74
+      ]
+    ],
+    "reason": "Duplicate 'never for health'. Keep the first reading and resume in the pause before the next sentence."
+  },
+  "905359a0-c4ae-47be-8a31-31981e480fd7": {
+    "index": 5403,
+    "cuts": [
+      [
+        30.89,
+        31.81
+      ]
+    ],
+    "reason": "Remove the second “is lawful” between measured quiet boundaries. Preserve the first phrase and the following reference to Lesson 14."
+  },
+  "2c9ec39a-7c85-43aa-aba1-708aff83a6bb": {
+    "index": 5101,
+    "cuts": [
+      [
+        22.43,
+        23.19
+      ]
+    ],
+    "reason": "Remove a second “agency” from “leaves one agency for another” at quiet boundaries."
+  },
+  "2a4f5915-b0db-4b0f-bbe0-8679eb502799": {
+    "index": 4000,
+    "prefix": {
+      "job_id": "51fb1fa8-04c1-4ef7-a9f0-d412b9a98ce9",
+      "end": 4.7,
+      "resume": 0.3
+    },
+    "reason": "Restore the introductory sentence about Elena from the previous Zoe take, then continue with the new take that clearly names prosthodontics. Both boundaries are silent."
+  }
+}

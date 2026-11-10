@@ -1,6 +1,6 @@
 {
-  "created": null,
-  "status": "not_submitted",
+  "created": "2026-11-10",
+  "status": "reviewed",
   "lessons": [
     53,
     54
@@ -47,7 +47,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "Compensation for selling, soliciting or negotiating insurance may be paid only to a producer licensed for that line, and a producer may share a commission only with another producer who is licensed. Section ten-one hundred thirty allows renewal or deferred commissions to be paid to someone who held the required license and appointment when the business was written, so a retired producer may keep receiving renewals. It also permits payments to people who do not sell, solicit or negotiate, such as a bonus to a receptionist, provided those payments do not amount to unlawful rebating or inducements. Theo cannot split his commission with Priya for enrolling her staff."
+        "prompt": "Compensation for selling, soliciting or negotiating insurance may be paid only to a producer licensed for that line, and a producer may share a commission only with another producer who is licensed. Section ten dash one thirty allows renewal or deferred commissions to be paid to someone who held the required license and appointment when the business was written, so a retired producer may keep receiving renewals. It also permits payments to people who do not sell, solicit or negotiate, such as a bonus to a receptionist, provided those payments do not amount to unlawful rebating or inducements. Theo cannot split his commission with Priya for enrolling her staff."
       }
     },
     {
@@ -80,7 +80,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "Misrepresentation is giving a false or misleading account of a policy: its benefits, exclusions, premiums, dividends or the insurer’s financial condition. False advertising is the same deception in a brochure, website, seminar or ad. Telling Priya that a plan covers all prescriptions when it has a formulary, or calling a hospital indemnity policy health insurance, misrepresents. Omitting a material limitation can mislead as surely as a false statement. Maryland treats both as unfair trade practices under Section twenty-seven-two hundred two, with penalties, restitution and license discipline. The cure is the same standard from Lesson ten: say what the policy does, what it does not, and who stands behind it."
+        "prompt": "Misrepresentation is giving a false or misleading account of a policy: its benefits, exclusions, premiums, dividends or the insurer’s financial condition. False advertising is the same deception in a brochure, website, seminar or ad. Telling Priya that a plan covers all prescriptions when it has a formulary, or calling a hospital indemnity policy health insurance, misrepresents. Omitting a material limitation can mislead as surely as a false statement. Maryland treats both as unfair trade practices under Section twenty-seven dash two oh two, with penalties, restitution and license discipline. The cure is the same standard from Lesson ten: say what the policy does, what it does not, and who stands behind it."
       }
     },
     {
@@ -91,7 +91,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "Competition is lawful; lying about competitors is not. Defamation under Section twenty-seven-two hundred four is making or circulating a false or maliciously critical statement about an insurer’s financial condition that is calculated to injure its business. Theo may point out that a rival plan has a narrower network; he may not claim the rival is insolvent without basis. Section twenty-seven-two hundred five prohibits knowingly false statements about an insurer’s financial condition and false or deceptive entries in insurer records, including altering records to mislead an examiner. Fabricating a client’s signature on an application or backdating a receipt falls here as well as under fraud."
+        "prompt": "Competition is lawful; lying about competitors is not. Defamation under Section twenty-seven dash two oh four is making or circulating a false or maliciously critical statement about an insurer’s financial condition that is calculated to injure its business. Theo may point out that a rival plan has a narrower network; he may not claim the rival is insolvent without basis. Section twenty-seven dash two oh five prohibits knowingly false statements about an insurer’s financial condition and false or deceptive entries in insurer records, including altering records to mislead an examiner. Fabricating a client’s signature on an application or backdating a receipt falls here as well as under fraud."
       }
     },
     {
@@ -102,7 +102,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "A rebate is anything of value given to induce a purchase that is not specified in the policy: returning part of the commission, paying the first premium, giving a gift card after the sale. Section twenty-seven-two hundred nine prohibits rebating and inducements. Maryland allows educational materials, promotional materials and merchandise costing no more than fifty dollars, but receipt may not be conditioned on buying insurance. A twenty dollar notebook handed to everyone at a seminar is lawful; the same notebook promised only to those who enroll is a rebate. Both parts of the exception, the dollar limit and the no-condition rule, must be met. Rebating is a violation for the producer and for a client who knowingly accepts it."
+        "prompt": "A rebate is anything of value given to induce a purchase that is not specified in the policy: returning part of the commission, paying the first premium, giving a gift card after the sale. Section twenty-seven dash two oh nine prohibits rebating and inducements. Maryland allows educational materials, promotional materials and merchandise costing no more than fifty dollars, but receipt may not be conditioned on buying insurance. A twenty dollar notebook handed to everyone at a seminar is lawful; the same notebook promised only to those who enroll is a rebate. Both parts of the exception, the dollar limit and the no-condition rule, must be met. Rebating is a violation for the producer and for a client who knowingly accepts it."
       }
     },
     {
@@ -113,7 +113,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "Twisting is inducing a policyholder to lapse, surrender, replace, convert or retain a policy through misrepresentation or an incomplete comparison. Section twenty-seven-two hundred thirteen covers retention as well as replacement: telling Rosa her current insurer is failing to make her switch is twisting, and so is falsely telling her the new plan is worse to keep her from switching. An honest, complete comparison that leads to a replacement is lawful, as Lesson fourteen explained. The difference lies in the accuracy and completeness of what the producer says. Medigap and long-term care replacement rules add their own notices on top of the general prohibition."
+        "prompt": "Twisting is inducing a policyholder to lapse, surrender, replace, convert or retain a policy through misrepresentation or an incomplete comparison. Section twenty-seven dash two thirteen covers retention as well as replacement: telling Rosa her current insurer is failing to make her switch is twisting, and so is falsely telling her the new plan is worse to keep her from switching. An honest, complete comparison that leads to a replacement is lawful, as Lesson fourteen explained. The difference lies in the accuracy and completeness of what the producer says. Medigap and long-term care replacement rules add their own notices on top of the general prohibition."
       }
     },
     {
@@ -157,7 +157,7 @@
     },
     {
       "index": 5303,
-      "characters": 671,
+      "characters": 668,
       "credits": 4.5
     },
     {
@@ -187,7 +187,7 @@
     },
     {
       "index": 5403,
-      "characters": 668,
+      "characters": 665,
       "credits": 4.5
     },
     {
@@ -201,6 +201,210 @@
       "credits": 4.1
     }
   ],
-  "estimates": [],
-  "jobs": []
+  "estimates": [
+    {
+      "index": 5300,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 5301,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 5302,
+      "cost": {
+        "credits": 4.8,
+        "credits_exact": 4.8
+      }
+    },
+    {
+      "index": 5303,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 5304,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "index": 5305,
+      "cost": {
+        "credits": 4.8,
+        "credits_exact": 4.8
+      }
+    },
+    {
+      "index": 5400,
+      "cost": {
+        "credits": 4.8,
+        "credits_exact": 4.8
+      }
+    },
+    {
+      "index": 5401,
+      "cost": {
+        "credits": 4.7,
+        "credits_exact": 4.7
+      }
+    },
+    {
+      "index": 5402,
+      "cost": {
+        "credits": 4.9,
+        "credits_exact": 4.9
+      }
+    },
+    {
+      "index": 5403,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 5404,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 5405,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 5300,
+      "job_id": "e235f431-638f-4bd0-ac84-56b03899ab35",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133319_e235f431-638f-4bd0-ac84-56b03899ab35.mp3"
+    },
+    {
+      "index": 5301,
+      "job_id": "6718e2eb-9df3-403c-a476-ca08bdf75cfb",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133319_6718e2eb-9df3-403c-a476-ca08bdf75cfb.mp3"
+    },
+    {
+      "index": 5302,
+      "job_id": "bd5bb90a-2661-4a0f-9379-31334ecc6c43",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133433_bd5bb90a-2661-4a0f-9379-31334ecc6c43.mp3"
+    },
+    {
+      "index": 5303,
+      "job_id": "97384836-53b9-44f7-9557-edbc0467824e",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133433_97384836-53b9-44f7-9557-edbc0467824e.mp3"
+    },
+    {
+      "index": 5304,
+      "job_id": "260ae080-b9a0-4e63-8101-08501d41d817",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133555_260ae080-b9a0-4e63-8101-08501d41d817.mp3"
+    },
+    {
+      "index": 5305,
+      "job_id": "5ceb742c-3a2a-4142-b22a-55dfa810150a",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133711_5ceb742c-3a2a-4142-b22a-55dfa810150a.mp3"
+    },
+    {
+      "index": 5400,
+      "job_id": "bd821e04-815c-4b69-a5e0-caa70a49b405",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134145_bd821e04-815c-4b69-a5e0-caa70a49b405.mp3"
+    },
+    {
+      "index": 5401,
+      "job_id": "4ab6d1fa-2bf5-47d4-8197-b24a9109a059",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134145_4ab6d1fa-2bf5-47d4-8197-b24a9109a059.mp3"
+    },
+    {
+      "index": 5402,
+      "job_id": "16022e42-e9bb-4bd7-9483-f2e5a952d435",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134440_16022e42-e9bb-4bd7-9483-f2e5a952d435.mp3"
+    },
+    {
+      "index": 5403,
+      "job_id": "905359a0-c4ae-47be-8a31-31981e480fd7",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134440_905359a0-c4ae-47be-8a31-31981e480fd7.mp3"
+    },
+    {
+      "index": 5404,
+      "job_id": "63da7a60-3b0c-477b-8d28-e8b659798400",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134721_63da7a60-3b0c-477b-8d28-e8b659798400.mp3"
+    },
+    {
+      "index": 5405,
+      "job_id": "c4c99bac-63f3-4d9c-9dfe-7679820c1f8a",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_134721_c4c99bac-63f3-4d9c-9dfe-7679820c1f8a.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 54.7,
+    "basis": "Provider quotes for confirmed, completed outputs."
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "e235f431-638f-4bd0-ac84-56b03899ab35",
+      "6718e2eb-9df3-403c-a476-ca08bdf75cfb",
+      "bd5bb90a-2661-4a0f-9379-31334ecc6c43",
+      "97384836-53b9-44f7-9557-edbc0467824e",
+      "260ae080-b9a0-4e63-8101-08501d41d817",
+      "5ceb742c-3a2a-4142-b22a-55dfa810150a",
+      "bd821e04-815c-4b69-a5e0-caa70a49b405",
+      "4ab6d1fa-2bf5-47d4-8197-b24a9109a059",
+      "16022e42-e9bb-4bd7-9483-f2e5a952d435",
+      "905359a0-c4ae-47be-8a31-31981e480fd7",
+      "63da7a60-3b0c-477b-8d28-e8b659798400",
+      "c4c99bac-63f3-4d9c-9dfe-7679820c1f8a"
+    ],
+    "replacement_indices": []
+  }
 }

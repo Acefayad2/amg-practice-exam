@@ -1,6 +1,6 @@
 {
-  "created": null,
-  "status": "not_submitted",
+  "created": "2026-11-10",
+  "status": "reviewed",
   "lessons": [
     19,
     20
@@ -36,7 +36,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "After the deductible, the plan and the insured share covered charges by percentage. In an eighty or twenty plan the insurer pays eighty percent and the insured pays twenty percent. Coinsurance is applied to the allowed amount, not to whatever the provider bills, and out-of-network coinsurance is usually higher. Copayments differ from coinsurance: a copayment is a flat dollar amount per visit or prescription, often not subject to the deductible. Coinsurance keeps the insured interested in the cost of care; it also means a large claim can still leave a large bill, which is why the next provision exists."
+        "prompt": "After the deductible, the plan and the insured share covered charges by percentage. In an eighty-twenty plan the insurer pays eighty percent and the insured pays twenty percent. Coinsurance is applied to the allowed amount, not to whatever the provider bills, and out-of-network coinsurance is usually higher. Copayments differ from coinsurance: a copayment is a flat dollar amount per visit or prescription, often not subject to the deductible. Coinsurance keeps the insured interested in the cost of care; it also means a large claim can still leave a large bill, which is why the next provision exists."
       }
     },
     {
@@ -58,7 +58,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "Marcus’s plan has a three thousand dollar deductible, eighty or twenty coinsurance and a six thousand dollar out-of-pocket maximum. A hospital stay produces twenty thousand dollars of allowed charges. He pays the first three thousand. Of the remaining seventeen thousand he owes twenty percent, which is three thousand four hundred, for a total of six thousand four hundred. But his out-of-pocket maximum is six thousand, so he pays six thousand and the insurer pays fourteen thousand. If a second claim arrives in December, the plan pays one hundred percent because he has already reached the maximum. The arithmetic is always deductible first, coinsurance second, cap last."
+        "prompt": "Marcus’s plan has a three thousand dollar deductible, eighty-twenty coinsurance and a six thousand dollar out-of-pocket maximum. A hospital stay produces twenty thousand dollars of allowed charges. He pays the first three thousand. Of the remaining seventeen thousand he owes twenty percent, which is three thousand four hundred, for a total of six thousand four hundred. But his out-of-pocket maximum is six thousand, so he pays six thousand and the insurer pays fourteen thousand. If a second claim arrives in December, the plan pays one hundred percent because he has already reached the maximum. The arithmetic is always deductible first, coinsurance second, cap last."
       }
     },
     {
@@ -152,7 +152,7 @@
     },
     {
       "index": 1902,
-      "characters": 608,
+      "characters": 605,
       "credits": 4.1
     },
     {
@@ -162,7 +162,7 @@
     },
     {
       "index": 1904,
-      "characters": 675,
+      "characters": 672,
       "credits": 4.5
     },
     {
@@ -201,6 +201,211 @@
       "credits": 4.2
     }
   ],
-  "estimates": [],
-  "jobs": []
+  "estimates": [
+    {
+      "index": 1900,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 1901,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 1902,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 1903,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 1904,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 1905,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 2000,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 2001,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 2002,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 2003,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 2004,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 2005,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 1900,
+      "job_id": "d7576e05-891f-4588-96f7-41c9c9540671",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130234_d7576e05-891f-4588-96f7-41c9c9540671.mp3"
+    },
+    {
+      "index": 1901,
+      "job_id": "ec54a2bc-dbdf-4559-8b8a-e08652ec2e86",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130234_ec54a2bc-dbdf-4559-8b8a-e08652ec2e86.mp3"
+    },
+    {
+      "index": 1902,
+      "job_id": "e1ce2cf3-59d4-45a8-a4f7-dd6a25c1a5a0",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130235_e1ce2cf3-59d4-45a8-a4f7-dd6a25c1a5a0.mp3"
+    },
+    {
+      "index": 1903,
+      "job_id": "0617777f-e369-4978-9314-d7f60fc25d55",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130235_0617777f-e369-4978-9314-d7f60fc25d55.mp3"
+    },
+    {
+      "index": 1904,
+      "job_id": "fcd9d16f-81f6-4658-bbb2-c0444b39c50e",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130236_fcd9d16f-81f6-4658-bbb2-c0444b39c50e.mp3"
+    },
+    {
+      "index": 1905,
+      "job_id": "f9d5b019-b071-4be5-892a-ce9ceb8dacf9",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130235_f9d5b019-b071-4be5-892a-ce9ceb8dacf9.mp3"
+    },
+    {
+      "index": 2000,
+      "job_id": "d099b8bb-6893-4500-9bef-243b96325a04",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130410_d099b8bb-6893-4500-9bef-243b96325a04.mp3"
+    },
+    {
+      "index": 2001,
+      "job_id": "aa318682-f27e-42c2-8aae-8305a30349a4",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130410_aa318682-f27e-42c2-8aae-8305a30349a4.mp3"
+    },
+    {
+      "index": 2002,
+      "job_id": "b696ef7f-d3b0-442d-a089-c472fea357b9",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130411_b696ef7f-d3b0-442d-a089-c472fea357b9.mp3"
+    },
+    {
+      "index": 2003,
+      "job_id": "9d6052ec-703d-4fb9-8285-c3a7d5d2f3bc",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130410_9d6052ec-703d-4fb9-8285-c3a7d5d2f3bc.mp3"
+    },
+    {
+      "index": 2004,
+      "job_id": "75dab2f3-1235-488b-936f-3a7d9e74db77",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130410_75dab2f3-1235-488b-936f-3a7d9e74db77.mp3"
+    },
+    {
+      "index": 2005,
+      "job_id": "52e5e974-0a76-40d5-b85e-f89fcc37c1bf",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_130410_52e5e974-0a76-40d5-b85e-f89fcc37c1bf.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 51,
+    "basis": "Provider quotes for confirmed, completed outputs."
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "d7576e05-891f-4588-96f7-41c9c9540671",
+      "ec54a2bc-dbdf-4559-8b8a-e08652ec2e86",
+      "e1ce2cf3-59d4-45a8-a4f7-dd6a25c1a5a0",
+      "fcd9d16f-81f6-4658-bbb2-c0444b39c50e",
+      "f9d5b019-b071-4be5-892a-ce9ceb8dacf9",
+      "aa318682-f27e-42c2-8aae-8305a30349a4",
+      "b696ef7f-d3b0-442d-a089-c472fea357b9",
+      "9d6052ec-703d-4fb9-8285-c3a7d5d2f3bc",
+      "75dab2f3-1235-488b-936f-3a7d9e74db77",
+      "52e5e974-0a76-40d5-b85e-f89fcc37c1bf"
+    ],
+    "replacement_indices": [
+      1903,
+      2000
+    ]
+  }
 }

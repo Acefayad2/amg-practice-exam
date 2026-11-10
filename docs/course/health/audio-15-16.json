@@ -1,6 +1,6 @@
 {
-  "created": null,
-  "status": "not_submitted",
+  "created": "2026-11-10",
+  "status": "reviewed",
   "lessons": [
     15,
     16
@@ -69,7 +69,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "Follow Marcus. His monthly premium is due June one and he forgets. Through June ten he is in the grace period; a June seven injury is covered, less the overdue premium. On June eleven the policy lapses back to June one. On July twenty he sends the premium with a reinstatement application and gets a conditional receipt. The insurer says nothing. On the forty-fifth day after July twenty the policy is reinstated automatically. An accident the next morning is covered; a sickness that begins three days later is not, because sickness must start more than ten days after reinstatement. Every step is a number from this lesson."
+        "prompt": "Follow Marcus. His monthly premium is due June first and he forgets. Through June tenth he is in the grace period; a June seventh injury is covered, less the overdue premium. On June eleventh the policy lapses back to June first. On July twentieth he sends the premium with a reinstatement application and gets a conditional receipt. The insurer says nothing. On the forty-fifth day after July twentieth the policy is reinstated automatically. An accident the next morning is covered; a sickness that begins three days later is not, because sickness must start more than ten days after reinstatement. Every step is a number from this lesson."
       }
     },
     {
@@ -80,7 +80,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "Marcus breaks his wrist on March one. The notice of claim provision requires him to tell the insurer within twenty days of the loss, or as soon as reasonably possible. Notice can be a phone call or a letter to the insurer or its authorized producer, and it need only identify the insured and the policy. Late notice does not defeat the claim if it was given as soon as reasonably possible. For disability income policies that pay for a long period, the insured may be required to give proof of continuing disability at reasonable intervals, usually every six months."
+        "prompt": "Marcus breaks his wrist on March first. The notice of claim provision requires him to tell the insurer within twenty days of the loss, or as soon as reasonably possible. Notice can be a phone call or a letter to the insurer or its authorized producer, and it need only identify the insured and the policy. Late notice does not defeat the claim if it was given as soon as reasonably possible. For disability income policies that pay for a long period, the insured may be required to give proof of continuing disability at reasonable intervals, usually every six months."
       }
     },
     {
@@ -135,7 +135,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "Where a policy pays a death benefit, such as AD and D, the insured may change the beneficiary at any time unless the designation was made irrevocable; the consent of a revocable beneficiary is not needed. Maryland also lists cancellation by the insured among the provisions to know: an insured may cancel an individual policy by written notice, and the insurer returns the unearned premium. Put the clocks together for Marcus: notice within twenty days, forms within fifteen, proof within ninety, payment within thirty, suit between sixty days and three years. Say them in order until they are automatic."
+        "prompt": "Where a policy pays a death benefit, such as A D and D, the insured may change the beneficiary at any time unless the designation was made irrevocable; the consent of a revocable beneficiary is not needed. Maryland also lists cancellation by the insured among the provisions to know: an insured may cancel an individual policy by written notice, and the insurer returns the unearned premium. Put the clocks together for Marcus: notice within twenty days, forms within fifteen, proof within ninety, payment within thirty, suit between sixty days and three years. Say them in order until they are automatic."
       }
     }
   ],
@@ -167,12 +167,12 @@
     },
     {
       "index": 1505,
-      "characters": 625,
-      "credits": 4.2
+      "characters": 641,
+      "credits": 4.3
     },
     {
       "index": 1600,
-      "characters": 566,
+      "characters": 568,
       "credits": 3.8
     },
     {
@@ -197,10 +197,215 @@
     },
     {
       "index": 1605,
-      "characters": 604,
+      "characters": 605,
       "credits": 4.1
     }
   ],
-  "estimates": [],
-  "jobs": []
+  "estimates": [
+    {
+      "index": 1500,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 1501,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 1502,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 1503,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 1504,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 1505,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 1600,
+      "cost": {
+        "credits": 3.8,
+        "credits_exact": 3.8
+      }
+    },
+    {
+      "index": 1601,
+      "cost": {
+        "credits": 3.4,
+        "credits_exact": 3.4
+      }
+    },
+    {
+      "index": 1602,
+      "cost": {
+        "credits": 3.9,
+        "credits_exact": 3.9
+      }
+    },
+    {
+      "index": 1603,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 1604,
+      "cost": {
+        "credits": 3.7,
+        "credits_exact": 3.7
+      }
+    },
+    {
+      "index": 1605,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 1500,
+      "job_id": "13027e09-f0d5-4617-ba3c-ba2c6747bc83",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_125812_13027e09-f0d5-4617-ba3c-ba2c6747bc83.mp3"
+    },
+    {
+      "index": 1501,
+      "job_id": "8ea2efd2-e7d0-4f23-b4a6-ff9faa8e17b7",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_125811_8ea2efd2-e7d0-4f23-b4a6-ff9faa8e17b7.mp3"
+    },
+    {
+      "index": 1502,
+      "job_id": "77ffffcd-35e1-4fc9-8d05-805a0abb1080",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_125812_77ffffcd-35e1-4fc9-8d05-805a0abb1080.mp3"
+    },
+    {
+      "index": 1503,
+      "job_id": "f10e8dca-8715-41a1-8068-96d0cee743a4",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_125811_f10e8dca-8715-41a1-8068-96d0cee743a4.mp3"
+    },
+    {
+      "index": 1504,
+      "job_id": "571fad2f-9ded-43a4-81ca-35a04e4eedf3",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_125812_571fad2f-9ded-43a4-81ca-35a04e4eedf3.mp3"
+    },
+    {
+      "index": 1505,
+      "job_id": "cf6c480e-41cf-4432-8027-528afc5b93c8",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_125811_cf6c480e-41cf-4432-8027-528afc5b93c8.mp3"
+    },
+    {
+      "index": 1600,
+      "job_id": "77b436bb-6a01-41e0-85bf-0b10543bf766",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_125936_77b436bb-6a01-41e0-85bf-0b10543bf766.mp3"
+    },
+    {
+      "index": 1601,
+      "job_id": "d1acd63e-c0b2-4c72-b935-d6af6d144349",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_125936_d1acd63e-c0b2-4c72-b935-d6af6d144349.mp3"
+    },
+    {
+      "index": 1602,
+      "job_id": "99a08802-32bd-4989-8cf6-102fe90f4eb6",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_125935_99a08802-32bd-4989-8cf6-102fe90f4eb6.mp3"
+    },
+    {
+      "index": 1603,
+      "job_id": "f1815862-999c-4913-9992-a71a74338a6e",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_125936_f1815862-999c-4913-9992-a71a74338a6e.mp3"
+    },
+    {
+      "index": 1604,
+      "job_id": "db48fb7c-be81-4880-8529-ede2ff31dd71",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_125935_db48fb7c-be81-4880-8529-ede2ff31dd71.mp3"
+    },
+    {
+      "index": 1605,
+      "job_id": "5180fd98-71d9-401e-aa9e-8a9a2bfd1f50",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_125936_5180fd98-71d9-401e-aa9e-8a9a2bfd1f50.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 48.7,
+    "basis": "Provider quotes for confirmed, completed outputs."
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "13027e09-f0d5-4617-ba3c-ba2c6747bc83",
+      "8ea2efd2-e7d0-4f23-b4a6-ff9faa8e17b7",
+      "f10e8dca-8715-41a1-8068-96d0cee743a4",
+      "571fad2f-9ded-43a4-81ca-35a04e4eedf3",
+      "cf6c480e-41cf-4432-8027-528afc5b93c8",
+      "77b436bb-6a01-41e0-85bf-0b10543bf766",
+      "d1acd63e-c0b2-4c72-b935-d6af6d144349",
+      "99a08802-32bd-4989-8cf6-102fe90f4eb6",
+      "f1815862-999c-4913-9992-a71a74338a6e",
+      "db48fb7c-be81-4880-8529-ede2ff31dd71",
+      "5180fd98-71d9-401e-aa9e-8a9a2bfd1f50"
+    ],
+    "replacement_indices": [
+      1502
+    ]
+  }
 }

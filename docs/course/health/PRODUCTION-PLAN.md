@@ -1,6 +1,6 @@
 # Maryland Accident & Health course — production plan
 
-Drafted November 9, 2026. Status: **planning only. No generation jobs have been submitted and no credits have been used for this course.**
+Drafted November 9, 2026. The 60 text lessons and their questions are authored. See [narration preflight](NARRATION-PREFLIGHT.md) for recorded jobs and credits, and [reviewed narration](narration-reviewed.json) for the precise recordings enabled in the classroom.
 
 This mirrors the method that produced the 60-lesson Maryland Life course (see `../full-course/PRODUCTION.md`, `../production-progress.md` and the `audio-*.json` receipts). Same voice, same characters' world, same lesson shape, same gated-course website.
 
@@ -41,7 +41,7 @@ Source: Prometric, *Accident and Health or Sickness Producer, Series 20-24* (`20
 
 Balance checked November 9, 2026: **7,012.3 credits** (Ultra plan).
 
-The completed November 10 narration preflight supersedes the approximate narration figures below: the 60 authored lessons contain **229,404 prepared characters across 360 requests**, for an exact first-pass estimate of **1,546.3 credits** under the documented one-credit-per-150-character rule with per-request rounding. Applying the Life course's 25% repair allowance gives a planning ceiling of **1,932.9 credits** and a projected remaining balance of **5,079.4 credits** before optional photographs. See `NARRATION-PREFLIGHT.md` and the 30 `audio-NN-NN.json` request files. The Lessons 01–02 Zoe pilot completed for its exact **46.1-credit** quote, leaving **6,966.2 credits**; the remaining 29 batches are still `not_submitted` pending pilot review.
+The original November 10 estimate was 1,546.3 credits for the first pass, or 1,932.9 with a repair allowance. Exact provider quotes, completed first-pass recordings and targeted retakes now live in [the narration ledger](NARRATION-PREFLIGHT.md). Correcting pauses and producing the classroom audio do not spend generation credits.
 
 | Scope | Lessons | Narration (first pass) | With repairs (actual Life rate) | Photos | **Projected total** | Balance after |
 |---|---|---|---|---|---|---|

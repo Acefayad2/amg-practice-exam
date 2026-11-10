@@ -1,0 +1,52 @@
+{
+  "created": "2026-11-10",
+  "status": "reviewed",
+  "params": [
+    {
+      "index": 5201,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "After notice and an opportunity for a hearing, the Commissioner may refuse to issue or renew a license, place the licensee on probation with conditions, suspend the license for a period, or revoke it. Each has a different effect: a suspended producer may return when the period ends; a revoked producer must reapply and may be refused. Instead of, or in addition to, suspension or revocation, the Commissioner can impose a fine for each violation. The minimum is one hundred dollars. The maximum is five thousand dollars. The Commissioner may also order restitution for someone who suffered a financial loss. The Commissioner may also issue a cease-and-desist order requiring a person to stop a specific unlawful practice, with further penalties for ignoring it."
+      }
+    }
+  ],
+  "estimates": [
+    {
+      "index": 5201,
+      "cost": {
+        "credits": 5.1,
+        "credits_exact": 5.1
+      }
+    }
+  ],
+  "originals": [
+    {
+      "index": 5201,
+      "job_id": "d65c1e14-eb69-401a-ba8f-c86e242acc41",
+      "reason": "State the minimum and maximum penalties separately; two independent transcriptions disagreed on the lower dollar amount."
+    }
+  ],
+  "jobs": [
+    {
+      "index": 5201,
+      "job_id": "51a4c674-8e21-42e9-8f7c-1217272250fd",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_140153_51a4c674-8e21-42e9-8f7c-1217272250fd.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 5.1
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "51a4c674-8e21-42e9-8f7c-1217272250fd"
+    ]
+  }
+}

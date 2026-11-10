@@ -1,0 +1,276 @@
+{
+  "created": "2026-11-10",
+  "status": "reviewed",
+  "params": [
+    {
+      "index": 804,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Separate vision plans cover eye care, and drug plans cover the prescriptions they list. A critical illness policy pays a lump sum for a listed diagnosis after any required survival period. You can use that money for rent, travel or another expense. Some limited benefits qualify for an exception to federal coverage rules. Separate limited vision benefits can qualify. So can independent critical illness coverage that does not coordinate with another plan. The exam term is excepted benefits: E, as in exception. A drug policy does not qualify just because it covers only prescriptions."
+      }
+    },
+    {
+      "index": 900,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "A pre-existing condition is one for which the insured received medical advice, diagnosis or treatment, or had symptoms a prudent person would have treated, during a look-back period before coverage began, often six to twelve months. Older medical policies excluded such conditions for a waiting period. Federal law now forbids pre-existing condition exclusions in comprehensive medical coverage, so Marcus’s asthma is covered from day one. The exclusion still appears in disability income, long-term care, Medicare supplement, short-term policies and certain other limited policies. Each type has its own rules. Always check the type of coverage before applying the rule."
+      }
+    },
+    {
+      "index": 1200,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Rosa’s disability income application reaches the home office. The underwriter must decide whether to accept her, at what price and with what conditions. The criteria are the applicant’s health history, age, occupation, income, hobbies, habits such as tobacco use and, for comprehensive medical coverage, the limits federal law now places on health-based decisions. Disability, long-term care and limited policies may still be fully underwritten. The underwriter is matching Rosa to a class of similar risks so the price reflects the expected claims for that class. Fair classification protects the pool; unfair discrimination is prohibited."
+      }
+    },
+    {
+      "index": 2403,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Before the Affordable Care Act, HIPAA let group plans limit coverage for certain pre-existing conditions. The look-back was six months. An exclusion could last up to twelve months, or eighteen for a late enrollee. Prior coverage could shorten that wait day for day if there was no break of sixty-three days or more. Plans issued certificates to document that creditable coverage. Pregnancy was protected. So were children enrolled within thirty days of birth, adoption or placement for adoption. The rule today is simpler: comprehensive group plans cannot exclude a condition just because you had it before you enrolled."
+      }
+    },
+    {
+      "index": 3205,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "When a question describes a disability applicant, look for three things. The occupation tells you the class, the definition available and whether the risk is insurable at all. The income tells you the maximum benefit through the replacement ratio, after subtracting other coverage. The medical and lifestyle facts tell you whether to expect a standard issue, a rating, an exclusion rider or a modification. Disability income coverage is an exception to the usual rules for comprehensive medical plans. An insurer can still use full underwriting for disability coverage."
+      }
+    },
+    {
+      "index": 5503,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Maryland’s privacy regulations, modeled on the federal Gram Leach Bly-lee Act, govern nonpublic personal financial information. A licensee gives a clear initial privacy notice when a customer relationship begins and an annual notice while it continues, with an exception when the licensee shares only within the permitted categories and its practices have not changed. Before sharing information with a nonaffiliated third party for marketing, the licensee must give an opt-out notice and a reasonable opportunity to respond, such as thirty days for a mailed notice, and must honor the opt-out. Sharing needed to service the transaction, pay claims or comply with law fits exceptions."
+      }
+    },
+    {
+      "index": 5801,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Employer-paid premiums for group medical and dental plans are deductible to the employer and excluded from employees’ income, and the benefits, payments for care, are tax-free to employees under the medical expense exception. Employee contributions through a cafeteria plan are pre-tax. Employer-paid premiums for tax-qualified group long-term care insurance receive the same treatment. Deductible to the employer, excluded from employee income within the normal limits, with tax-free benefits. Long-term care insurance may not, however, be offered through a cafeteria plan or flexible spending account; employees who want to pay for it pay after tax."
+      }
+    },
+    {
+      "index": 5905,
+      "params": {
+        "model": "seed_audio",
+        "voice_type": "preset",
+        "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
+        "format": "mp3",
+        "speech_rate": 5,
+        "prompt": "Three clients, three designs. Priya’s younger employees want the lowest premium and accept a network and referrals: an H M O. Marcus wants to keep a specialist outside any network and will pay more: a P P O. Rosa wants H M O pricing most of the time with the option to go outside when it matters: a point-of-service plan. For each, the questions are the same. Is a referral required? Is there any out-of-network benefit? Are copayments or coinsurance used? Add the Lesson nineteen arithmetic and the Lesson twenty-three coordination rules, and most plan questions on the exam become a matter of reading carefully and working in order."
+      }
+    }
+  ],
+  "estimates": [
+    {
+      "index": 804,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 900,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 1200,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    },
+    {
+      "index": 2403,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 3205,
+      "cost": {
+        "credits": 3.8,
+        "credits_exact": 3.8
+      }
+    },
+    {
+      "index": 5503,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "index": 5801,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 5905,
+      "cost": {
+        "credits": 4.3,
+        "credits_exact": 4.3
+      }
+    }
+  ],
+  "originals": [
+    {
+      "index": 804,
+      "job_id": "7c91a556-e94c-479f-a020-f4a79842f0d7",
+      "reason": "Record the shorter, conditional explanation of excepted benefits."
+    },
+    {
+      "index": 900,
+      "job_id": "b10edf69-2dca-4f62-a268-5ec65e03d01b",
+      "reason": "The revised first take repeats 'income'; keep the updated copy."
+    },
+    {
+      "index": 1200,
+      "job_id": "4d81efdc-5aaa-4487-ac68-86d9b60a4461",
+      "reason": "Use the clearer sentence about pricing an underwriting class."
+    },
+    {
+      "index": 2403,
+      "job_id": "a71def77-ab6a-4749-b557-ee13d037f117",
+      "reason": "Distinguish historical waiting periods, timely newborn/adoption enrollment, and the current rule."
+    },
+    {
+      "index": 3205,
+      "job_id": "6939d25a-7911-4bfd-b5f6-faea49eac8c7",
+      "reason": "Read the revised plain-language disability underwriting explanation."
+    },
+    {
+      "index": 5503,
+      "job_id": "c4e677b8-1f59-47bd-a51e-8b8a6673f9e3",
+      "reason": "Improve the pronunciation of Gramm–Leach–Bliley."
+    },
+    {
+      "index": 5801,
+      "job_id": "6f825cfe-cbee-4d4b-be2e-90c4dd2f3d7f",
+      "reason": "Separate 'treatment' and 'deductible'; the first recording drops a meaningful word."
+    },
+    {
+      "index": 5905,
+      "job_id": "6b0f49ec-ba6c-4459-9f0b-ee3a84902d6a",
+      "reason": "Remove the repeated word 'network' from the plan comparison."
+    }
+  ],
+  "jobs": [
+    {
+      "index": 804,
+      "job_id": "7533a407-5375-4035-a5c4-350a7c3266ad",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133255_7533a407-5375-4035-a5c4-350a7c3266ad.mp3"
+    },
+    {
+      "index": 900,
+      "job_id": "fa9408c7-b5b6-48b6-8db7-26ddf794bba3",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133255_fa9408c7-b5b6-48b6-8db7-26ddf794bba3.mp3"
+    },
+    {
+      "index": 2403,
+      "job_id": "2b912fed-d6a2-4658-8888-9ff1f848dfeb",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133255_2b912fed-d6a2-4658-8888-9ff1f848dfeb.mp3"
+    },
+    {
+      "index": 5503,
+      "job_id": "f1f877eb-22eb-4e39-9dfa-a6b02f120f19",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133255_f1f877eb-22eb-4e39-9dfa-a6b02f120f19.mp3"
+    },
+    {
+      "index": 1200,
+      "job_id": "e5def71a-a4ee-4638-b1f8-03bf08057d3e",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133402_e5def71a-a4ee-4638-b1f8-03bf08057d3e.mp3"
+    },
+    {
+      "index": 3205,
+      "job_id": "4de808da-ed24-44eb-b3d1-2a3fb7dc0fc3",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133404_4de808da-ed24-44eb-b3d1-2a3fb7dc0fc3.mp3"
+    },
+    {
+      "index": 5801,
+      "job_id": "152dbbe9-2231-4a63-a982-f124f9761088",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133518_152dbbe9-2231-4a63-a982-f124f9761088.mp3"
+    },
+    {
+      "index": 5905,
+      "job_id": "432e6a07-1e1b-40c3-91ca-419a4211499a",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_133519_432e6a07-1e1b-40c3-91ca-419a4211499a.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 34.1
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "7533a407-5375-4035-a5c4-350a7c3266ad",
+      "fa9408c7-b5b6-48b6-8db7-26ddf794bba3",
+      "2b912fed-d6a2-4658-8888-9ff1f848dfeb",
+      "f1f877eb-22eb-4e39-9dfa-a6b02f120f19",
+      "e5def71a-a4ee-4638-b1f8-03bf08057d3e",
+      "4de808da-ed24-44eb-b3d1-2a3fb7dc0fc3",
+      "152dbbe9-2231-4a63-a982-f124f9761088",
+      "432e6a07-1e1b-40c3-91ca-419a4211499a"
+    ]
+  }
+}

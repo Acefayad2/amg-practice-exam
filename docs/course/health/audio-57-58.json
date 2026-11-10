@@ -1,6 +1,6 @@
 {
-  "created": null,
-  "status": "not_submitted",
+  "created": "2026-11-10",
+  "status": "reviewed",
   "lessons": [
     57,
     58
@@ -69,7 +69,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "Marcus’s employer offers a health flexible spending account. He elects to reduce his salary by up to the annual limit, three thousand four hundred dollars for two thousand twenty-six, and that money escapes income and payroll taxes; reimbursements of medical, dental and vision expenses are tax-free. The catch is use-it-or-lose-it: unused funds are forfeited at year end unless the plan allows a limited carryover or a grace period. A high-deductible health plan is simply a medical plan whose premiums follow the medical expense rules above; its tax significance is that it unlocks H S A eligibility. Compare the three: the H S A belongs to the individual, the H R A to the employer, and the F S A to the plan year."
+        "prompt": "Marcus’s employer offers a health flexible spending account. He elects to reduce his salary by up to the annual limit, three thousand four hundred dollars for twenty twenty-six, and that money escapes income and payroll taxes; reimbursements of medical, dental and vision expenses are tax-free. The catch is use-it-or-lose-it: unused funds are forfeited at year end unless the plan allows a limited carryover or a grace period. A high-deductible health plan is simply a medical plan whose premiums follow the medical expense rules above; its tax significance is that it unlocks H S A eligibility. Compare the three: the H S A belongs to the individual, the H R A to the employer, and the F S A to the plan year."
       }
     },
     {
@@ -167,7 +167,7 @@
     },
     {
       "index": 5705,
-      "characters": 717,
+      "characters": 711,
       "credits": 4.8
     },
     {
@@ -201,6 +201,211 @@
       "credits": 4.6
     }
   ],
-  "estimates": [],
-  "jobs": []
+  "estimates": [
+    {
+      "index": 5700,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 5701,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 5702,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 5703,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    },
+    {
+      "index": 5704,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 5705,
+      "cost": {
+        "credits": 4.8,
+        "credits_exact": 4.8
+      }
+    },
+    {
+      "index": 5800,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 5801,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 5802,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 5803,
+      "cost": {
+        "credits": 4.7,
+        "credits_exact": 4.7
+      }
+    },
+    {
+      "index": 5804,
+      "cost": {
+        "credits": 4.4,
+        "credits_exact": 4.4
+      }
+    },
+    {
+      "index": 5805,
+      "cost": {
+        "credits": 4.6,
+        "credits_exact": 4.6
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 5700,
+      "job_id": "75900e3d-7be2-47aa-ad01-a9fd476bd43d",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131708_75900e3d-7be2-47aa-ad01-a9fd476bd43d.mp3"
+    },
+    {
+      "index": 5701,
+      "job_id": "39d47c64-df95-4742-b100-a3029dd76180",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131708_39d47c64-df95-4742-b100-a3029dd76180.mp3"
+    },
+    {
+      "index": 5702,
+      "job_id": "e17990b0-92b6-4960-a9f1-9b102b957ccb",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131755_e17990b0-92b6-4960-a9f1-9b102b957ccb.mp3"
+    },
+    {
+      "index": 5703,
+      "job_id": "a214db2f-21f1-4eb4-8119-001956c596f0",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131755_a214db2f-21f1-4eb4-8119-001956c596f0.mp3"
+    },
+    {
+      "index": 5704,
+      "job_id": "ec18b47f-ae95-4ff7-8d27-7911db4a2909",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131914_ec18b47f-ae95-4ff7-8d27-7911db4a2909.mp3"
+    },
+    {
+      "index": 5705,
+      "job_id": "0d54bcb9-f68c-454f-b0c6-c20d86051a16",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_131912_0d54bcb9-f68c-454f-b0c6-c20d86051a16.mp3"
+    },
+    {
+      "index": 5800,
+      "job_id": "1710cfd3-57f1-45b1-a5e6-e6a06ec80474",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132021_1710cfd3-57f1-45b1-a5e6-e6a06ec80474.mp3"
+    },
+    {
+      "index": 5801,
+      "job_id": "6f825cfe-cbee-4d4b-be2e-90c4dd2f3d7f",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132019_6f825cfe-cbee-4d4b-be2e-90c4dd2f3d7f.mp3"
+    },
+    {
+      "index": 5802,
+      "job_id": "1e5952b7-c7c2-4148-9d30-16644835c697",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132159_1e5952b7-c7c2-4148-9d30-16644835c697.mp3"
+    },
+    {
+      "index": 5803,
+      "job_id": "8b6e4627-5308-49ae-b4e3-0438fe217791",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132157_8b6e4627-5308-49ae-b4e3-0438fe217791.mp3"
+    },
+    {
+      "index": 5804,
+      "job_id": "7c44bc5d-a74c-454f-8c5d-70aaf73fb164",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132303_7c44bc5d-a74c-454f-8c5d-70aaf73fb164.mp3"
+    },
+    {
+      "index": 5805,
+      "job_id": "2cf1309b-426e-4cf3-8224-94cb8e145fe9",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_132303_2cf1309b-426e-4cf3-8224-94cb8e145fe9.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 53.4,
+    "basis": "Provider quotes for confirmed, completed outputs."
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "75900e3d-7be2-47aa-ad01-a9fd476bd43d",
+      "39d47c64-df95-4742-b100-a3029dd76180",
+      "e17990b0-92b6-4960-a9f1-9b102b957ccb",
+      "a214db2f-21f1-4eb4-8119-001956c596f0",
+      "ec18b47f-ae95-4ff7-8d27-7911db4a2909",
+      "0d54bcb9-f68c-454f-b0c6-c20d86051a16",
+      "1710cfd3-57f1-45b1-a5e6-e6a06ec80474",
+      "1e5952b7-c7c2-4148-9d30-16644835c697",
+      "8b6e4627-5308-49ae-b4e3-0438fe217791",
+      "7c44bc5d-a74c-454f-8c5d-70aaf73fb164",
+      "2cf1309b-426e-4cf3-8224-94cb8e145fe9"
+    ],
+    "replacement_indices": [
+      5801
+    ]
+  }
 }

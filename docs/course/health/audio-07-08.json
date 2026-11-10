@@ -1,6 +1,6 @@
 {
-  "created": null,
-  "status": "not_submitted",
+  "created": "2026-11-10",
+  "status": "reviewed",
   "lessons": [
     7,
     8
@@ -47,7 +47,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "COBRA applies to employers with twenty or more employees on a typical business day in the prior year. A worker who loses coverage through termination, other than gross misconduct, or reduced hours may continue the group plan for eighteen months, extended to twenty-nine months if disabled within the first sixty days. Death of the employee, divorce, Medicare entitlement or a child aging out gives dependents thirty-six months. The employer notifies the plan administrator within thirty days, the administrator notifies the beneficiary within fourteen days, and the beneficiary has sixty days to elect. The premium may reach one hundred two percent of the group cost."
+        "prompt": "Cobra applies to employers with twenty or more employees on a typical business day in the prior year. A worker who loses coverage through termination, other than gross misconduct, or reduced hours may continue the group plan for eighteen months, extended to twenty-nine months if disabled within the first sixty days. Death of the employee, divorce, Medicare entitlement or a child aging out gives dependents thirty-six months. The employer notifies the plan administrator within thirty days, the administrator notifies the beneficiary within fourteen days, and the beneficiary has sixty days to elect. The premium may reach one hundred two percent of the group cost."
       }
     },
     {
@@ -91,7 +91,7 @@
         "voice_id": "d0374db1-44b9-4f05-939e-0a9ae9dbbe6a",
         "format": "mp3",
         "speech_rate": 5,
-        "prompt": "An accident-only policy pays for injuries from accidents and nothing for sickness. It may pay medical expenses, a disability income benefit, or AD and D sums, but the trigger is always an accident. A specified disease, or dread disease, policy pays only on diagnosis of the named illness, most often cancer, and usually pays scheduled or lump-sum amounts regardless of what other coverage pays. Rosa might buy a cancer policy to cover travel and lost income during treatment. She must still carry a medical plan for everything else, and Theo must say so plainly."
+        "prompt": "An accident-only policy pays for injuries from accidents and nothing for sickness. It may pay medical expenses, a disability income benefit, or A D and D sums, but the trigger is always an accident. A specified disease, or dread disease, policy pays only on diagnosis of the named illness, most often cancer, and usually pays scheduled or lump-sum amounts regardless of what other coverage pays. Rosa might buy a cancer policy to cover travel and lost income during treatment. She must still carry a medical plan for everything else, and Theo must say so plainly."
       }
     },
     {
@@ -177,7 +177,7 @@
     },
     {
       "index": 801,
-      "characters": 562,
+      "characters": 563,
       "credits": 3.8
     },
     {
@@ -201,6 +201,211 @@
       "credits": 4.2
     }
   ],
-  "estimates": [],
-  "jobs": []
+  "estimates": [
+    {
+      "index": 700,
+      "cost": {
+        "credits": 4.1,
+        "credits_exact": 4.1
+      }
+    },
+    {
+      "index": 701,
+      "cost": {
+        "credits": 4.9,
+        "credits_exact": 4.9
+      }
+    },
+    {
+      "index": 702,
+      "cost": {
+        "credits": 4.7,
+        "credits_exact": 4.7
+      }
+    },
+    {
+      "index": 703,
+      "cost": {
+        "credits": 4.5,
+        "credits_exact": 4.5
+      }
+    },
+    {
+      "index": 704,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 705,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    },
+    {
+      "index": 800,
+      "cost": {
+        "credits": 3.9,
+        "credits_exact": 3.9
+      }
+    },
+    {
+      "index": 801,
+      "cost": {
+        "credits": 3.8,
+        "credits_exact": 3.8
+      }
+    },
+    {
+      "index": 802,
+      "cost": {
+        "credits": 3.9,
+        "credits_exact": 3.9
+      }
+    },
+    {
+      "index": 803,
+      "cost": {
+        "credits": 3.8,
+        "credits_exact": 3.8
+      }
+    },
+    {
+      "index": 804,
+      "cost": {
+        "credits": 4,
+        "credits_exact": 4
+      }
+    },
+    {
+      "index": 805,
+      "cost": {
+        "credits": 4.2,
+        "credits_exact": 4.2
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "index": 700,
+      "job_id": "ffb15ba3-7441-4239-94a6-7750a9869063",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124714_ffb15ba3-7441-4239-94a6-7750a9869063.mp3"
+    },
+    {
+      "index": 701,
+      "job_id": "ea8e11c4-df19-44ba-ab5e-176b2d82441a",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124714_ea8e11c4-df19-44ba-ab5e-176b2d82441a.mp3"
+    },
+    {
+      "index": 702,
+      "job_id": "8a87dd5c-ce1e-4dbe-8956-0419674683a4",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124714_8a87dd5c-ce1e-4dbe-8956-0419674683a4.mp3"
+    },
+    {
+      "index": 703,
+      "job_id": "da59c538-a379-467b-93ac-7d6b79529700",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124715_da59c538-a379-467b-93ac-7d6b79529700.mp3"
+    },
+    {
+      "index": 704,
+      "job_id": "ec5fe443-fbe7-4f50-a702-9b1cf4c643c1",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124714_ec5fe443-fbe7-4f50-a702-9b1cf4c643c1.mp3"
+    },
+    {
+      "index": 705,
+      "job_id": "4a3c97fe-a656-46fe-8561-88a84071e09a",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124714_4a3c97fe-a656-46fe-8561-88a84071e09a.mp3"
+    },
+    {
+      "index": 800,
+      "job_id": "493021fc-7213-4289-af24-fe65e46d3b52",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124831_493021fc-7213-4289-af24-fe65e46d3b52.mp3"
+    },
+    {
+      "index": 801,
+      "job_id": "d80f8603-c8bd-42b4-9ea9-423c4cf3e747",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124831_d80f8603-c8bd-42b4-9ea9-423c4cf3e747.mp3"
+    },
+    {
+      "index": 802,
+      "job_id": "cf403086-0452-4944-b627-eb9949e49a7e",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124832_cf403086-0452-4944-b627-eb9949e49a7e.mp3"
+    },
+    {
+      "index": 803,
+      "job_id": "b192fb67-7e4f-4bb8-8839-2064ccd4da0c",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124831_b192fb67-7e4f-4bb8-8839-2064ccd4da0c.mp3"
+    },
+    {
+      "index": 804,
+      "job_id": "7c91a556-e94c-479f-a020-f4a79842f0d7",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124832_7c91a556-e94c-479f-a020-f4a79842f0d7.mp3"
+    },
+    {
+      "index": 805,
+      "job_id": "4725ab8b-6a54-478c-8efb-1538c0507ed8",
+      "status": "completed",
+      "type": "audio",
+      "model": "seed_audio",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F3Wyc8aPIE73qdpViOJx8BolpH/hf_20261110_124833_4725ab8b-6a54-478c-8efb-1538c0507ed8.mp3"
+    }
+  ],
+  "credits": {
+    "credits_exact": 50.2,
+    "basis": "Provider quotes for confirmed, completed outputs."
+  },
+  "review": {
+    "method": "decoded, transcribed, checked against the script, mastered and checked again",
+    "accepted_job_ids": [
+      "ffb15ba3-7441-4239-94a6-7750a9869063",
+      "da59c538-a379-467b-93ac-7d6b79529700",
+      "ec5fe443-fbe7-4f50-a702-9b1cf4c643c1",
+      "4a3c97fe-a656-46fe-8561-88a84071e09a",
+      "493021fc-7213-4289-af24-fe65e46d3b52",
+      "d80f8603-c8bd-42b4-9ea9-423c4cf3e747",
+      "cf403086-0452-4944-b627-eb9949e49a7e",
+      "b192fb67-7e4f-4bb8-8839-2064ccd4da0c",
+      "4725ab8b-6a54-478c-8efb-1538c0507ed8"
+    ],
+    "replacement_indices": [
+      701,
+      702,
+      804
+    ]
+  }
 }
