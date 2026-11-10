@@ -1,8 +1,9 @@
 import assert from 'node:assert/strict';
-import { balanceAnswers, itemPreparer, rng, shuffle } from '../assessment-items.mjs';
+import { balanceAnswers, itemPreparer, prepareRotationExtras, rng, shuffle } from '../assessment-items.mjs';
 import { courseHeader, courseFooter } from '../course-ui.mjs';
 import { healthQuestions } from '../../src/data/healthQuestions.js';
 
+import additions from '../../docs/course/health/mock-exams/rotation-additions.mjs';
 import regulationA from '../../docs/course/health/mock-exams/regulation-a.mjs';
 import regulationB from '../../docs/course/health/mock-exams/regulation-b.mjs';
 import regulationC from '../../docs/course/health/mock-exams/regulation-c.mjs';
@@ -41,7 +42,7 @@ function buildData(lessons) {
   });
   balanceAnswers(forms, 330127);
   return {
-    track: 'health', version: 1, domains: sections.map(s => s[0]), blueprint: sections.map(s => s[1]), forms,
+    track: 'health', version: 1, extraQuestions: prepareRotationExtras(additions,prepare,'HM-'), domains: sections.map(s => s[0]), blueprint: sections.map(s => s[1]), forms,
     lessons: lessons.map(l => ({
       id: l.id, number: l.number, title: l.title, version: l.version,
       questions: l.questions.map(q => ({
@@ -55,15 +56,15 @@ function buildData(lessons) {
 function examPage(track) {
   return `<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="robots" content="noindex,nofollow"><title>Health mock exams · AMG Learning</title>
-<meta name="description" content="Take three timed Maryland Accident &amp; Health mock exams and review your answers by exam topic.">
+<meta name="robots" content="noindex,nofollow"><title>Health Mock Exam · AMG Learning</title>
+<meta name="description" content="Take the Maryland Health Mock Exam. Each attempt draws from the Accident &amp; Health question bank.">
 <link rel="icon" href="/course/assets/amg-mark.webp"><link rel="stylesheet" href="/course/shared/app.css"><link rel="stylesheet" href="/course/shared/account.css">
 <link rel="stylesheet" href="/course/assessments/assessment.css"><script src="/course/shared/account.js" defer></script>
 <script src="assessment-data.js" defer></script><script src="/course/assessments/assessment-rotation.js" defer></script><script src="/course/assessments/assessment.js" defer></script>
-</head><body class="account-loading" data-track="health"><a class="skip" href="#app">Skip to mock exams</a>${courseHeader('assessments',track)}
-<main class="assessment-main"><p id="storage-status" class="storage-status" role="status"></p><div id="app"><p>Loading Health mock exams…</p></div>
+</head><body class="account-loading" data-track="health"><a class="skip" href="#app">Skip to mock exam</a>${courseHeader('assessments',track)}
+<main class="assessment-main"><p id="storage-status" class="storage-status" role="status"></p><div id="app"><p>Loading your Health Mock Exam…</p></div>
 <noscript>Enable JavaScript to start a timed exam and save your answers.</noscript>
-<details class="practice-about"><summary>About these exams</summary><p>AMG wrote these practice questions for Maryland Accident &amp; Health. Each form follows the subject weights in the <a href="${outline}">Maryland exam outline</a>. Your results are saved under your learner sign-in.</p><p>For immediate feedback on each answer, <a href="/practice/health/">open the untimed Health practice test</a>.</p></details>${courseFooter(track)}</main>
+<details class="practice-about"><summary>About this exam</summary><p>AMG wrote these practice questions for Maryland Accident &amp; Health. Each attempt follows the subject weights in the <a href="${outline}">Maryland exam outline</a>. Your results are saved under your learner sign-in.</p><p>For immediate feedback on each answer, <a href="/practice/health/">open the untimed Health drills</a>.</p></details>${courseFooter(track)}</main>
 <dialog id="submit-dialog" aria-labelledby="submit-title"><h2 id="submit-title">Submit this exam?</h2><p id="submit-detail"></p><div class="actions"><button id="confirm-submit" type="button" class="primary">Submit and see results</button><button id="cancel-submit" type="button">Keep working</button></div></dialog></body></html>\n`;
 }
 

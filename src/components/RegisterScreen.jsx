@@ -35,7 +35,7 @@ export default function RegisterScreen({ exam, onStart, onBack, mockExamsUrl }) 
           <div style={{ fontSize: 12, fontWeight: 700, letterSpacing: 2, color: BLUE, textTransform: 'uppercase', marginBottom: 6 }}>AMG Practice Exam</div>
           <h2 style={{ fontSize: 22, fontWeight: 800, color: '#1a202c', marginBottom: 6, lineHeight: 1.3 }}>{exam.title}</h2>
           <p style={{ color: '#718096', fontSize: 14 }}>{exam.practiceOnly ? 'Enter your details to begin the life practice drill. This review edition is untimed and gives immediate feedback.' : 'Enter your details to begin. Your result is shown when you finish.'}</p>
-          {mockExamsUrl && <p><a href={mockExamsUrl}>Open the timed Health mock exams</a></p>}
+          {mockExamsUrl && <p><a href={mockExamsUrl}>Open the timed Health Mock Exam</a></p>}
         </div>
 
         <form onSubmit={handleStart} noValidate>

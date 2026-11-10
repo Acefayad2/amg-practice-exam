@@ -8,8 +8,9 @@ export function courseHome(curriculum, available, track = LIFE_TRACK) {
  const videoTotal=videoMinutes?`${Math.floor(videoMinutes/60)}h ${videoMinutes%60}m of video`:available.some(l=>l.audioSections)?'Text + audio':'Text edition';
  const base=track.base;
  const health=track.id==='health';
- const practiceText=health?'Choose one of three timed Maryland Health mock exams. Review your score and explanations after you submit.':'Try a diagnostic or a timed test anytime.';
- const practiceAction=health?'Open Health mock exams':'Explore practice tests';
+ const subject=health?'Health':'Life';
+ const practiceText='Try 90 questions from the '+subject+' bank. On your next attempt, you’ll get unused questions first.';
+ const practiceAction='Open '+subject+' Mock Exam';
  return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><meta name="description" content="Your AMG ${esc(track.program)} classroom. ${health?'Study':'Watch'} a lesson, answer its questions and continue learning."><title>${esc(track.program)} · AMG Learning</title><link rel="icon" href="/course/assets/amg-mark.webp"><link rel="stylesheet" href="/course/shared/app.css"><link rel="stylesheet" href="/course/shared/account.css"><script src="/course/shared/account.js" defer></script><link rel="stylesheet" href="/course/shared/home.css"><script src="/course/shared/home.js" defer></script></head><body class="account-loading${available.some(l=>l.duration>0)?'':' text-edition'}" data-track="${track.id}" data-key-prefix="${track.keyPrefix}" data-assessments="${track.assessments}"><a class="skip" href="#lessons">Skip to lessons</a>${courseHeader('course',track)}
  <main class="classroom">
  <div class="classroom-heading"><div><p class="eyebrow">YOUR CLASSROOM</p><h1>${esc(track.program)}</h1></div><p class="course-meta"><span>${available.length} lessons</span><span>${icon(videoMinutes?'clock':'book')}${videoTotal}</span></p></div>

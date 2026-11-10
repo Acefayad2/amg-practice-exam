@@ -23,7 +23,7 @@ test('all three Health forms bind the browser questions to the correct server an
     for(const [i,q] of Array.from(form.questions).entries()){
       assert(!ids.has(q.id)); ids.add(q.id);
       assert(!stems.has(q.prompt)); stems.add(q.prompt);
-      assert.deepEqual(server.questions[i],{id:q.id,answer:q.answer,options:4,scored:q.scored});
+      assert.deepEqual(server.questions[i],{id:q.id,answer:q.answer,options:4,scored:q.scored,domain:q.domain});
       assert(q.sources.length && q.explanation && lessons.some(l=>l.id===q.lesson));
     }
   }
