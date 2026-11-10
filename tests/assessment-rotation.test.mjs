@@ -16,7 +16,7 @@ const values=attempts=>({version:1,attempts,seen:[...new Set(attempts.map(a=>a.f
 const timeBase=now-120000;
 function complete(draw,bank,step) {
  const f=bank.formFor(draw),n=f.questions.length,startedAt=timeBase+step*1000;
- return {...draw,id:'attempt-'+step,startedAt,deadline:startedAt+f.minutes*60000,submittedAt:startedAt+100,expired:false,answers:f.questions.map(q=>q.answer),flags:Array(n).fill(false),uncertain:Array(n).fill(false),reviewed:Array(n).fill(false),current:0};
+ return {...draw,id:'attempt-'+step,startedAt,deadline:null,submittedAt:startedAt+100,expired:false,answers:f.questions.map(q=>q.answer),flags:Array(n).fill(false),uncertain:Array(n).fill(false),reviewed:Array(n).fill(false),current:0};
 }
 for(const track of ['life','health']) {
  const bank=banks[track], d=data[track], other=track==='life'?banks.health:banks.life;
@@ -68,4 +68,40 @@ for(const track of ['life','health']) {
    assert.throws(()=>validateValue(key,imbalance,now),/invalid track question set/);
    assert.equal(other.formFor(drawn),undefined);
  });
+}
+
+for (const [track, bank] of Object.entries(banks)) {
+  test(track+' keeps older timed drafts open and preserves scores that were already final',()=>{
+    const key=(track==='life'?schema:schema.tracks.health).assessmentKey;
+    const twoDaysAgo=now-2*86400000;
+    const history=complete({form:'A',fresh:true},bank,0);
+    history.id='completed-before-release';
+    history.startedAt=twoDaysAgo-86400000;
+    history.deadline=history.startedAt+105*60000;
+    history.submittedAt=history.deadline;
+    history.expired=true;
+
+    for (const draw of [{form:'B',fresh:true}, bank.draw([history],rng(912))]) {
+      const draft=complete(draw,bank,1);
+      draft.startedAt=twoDaysAgo;
+      draft.deadline=twoDaysAgo+105*60000;
+      draft.submittedAt=null;
+      draft.answers[1]=null;
+      const before=values([history,draft]);
+      const stale=structuredClone(before);
+      stale.attempts[1].expired=true;
+      stale.attempts[1].submittedAt=draft.deadline;
+      assert.throws(()=>validateValue(key,stale,now,before),e=>e.status===409);
+      const resume=structuredClone(before);
+      resume.attempts[1].deadline=null;
+      validateValue(key,resume,now,before);
+      const finished=structuredClone(resume);
+      finished.attempts[1].submittedAt=now;
+      validateValue(key,finished,now,resume);
+      assert.deepEqual(finished.attempts[0],history);
+      assert.deepEqual(finished.attempts[1].answers,draft.answers);
+      assert.equal(finished.attempts[1].expired,false);
+      assert.throws(()=>validateValue(key,before,now,resume),e=>e.status===409);
+    }
+  });
 }

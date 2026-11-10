@@ -7,6 +7,7 @@ import path from 'node:path';
 import {pathToFileURL} from 'node:url';
 if (!process.argv[2]) throw Error('Provide the built AMG website directory.');
 const root=path.resolve(process.argv[2]);
+const {userPrefix}=await import(pathToFileURL(path.join(root,'netlify/functions/_shared/learning-core.mjs')));
 const {createLearningHandler}=await import(pathToFileURL(path.join(root,'netlify/functions/_shared/learning-service.mjs')));
 const {buildAdminLearningSnapshot}=await import(pathToFileURL(path.join(root,'netlify/functions/_shared/admin-learning.mjs')));
 const port=18445, origin='http://127.0.0.1:'+port;
@@ -29,6 +30,19 @@ http.createServer(async(req,res)=>{
     if(url.pathname==='/api/access')return json(res,{stage:'ready',user});
     if(url.pathname==='/__qa/admin')return json(res,info.get(id)||{attempts:[]});
     if(url.pathname==='/__qa/clock'&&req.method==='POST'){clocks.set(id,Number(url.searchParams.get('at'))-Date.now());return json(res,{ok:true});}
+    // Simulate a record written by the previous production release in this local fixture.
+    if (url.pathname === '/__qa/old-timer' && req.method === 'POST') {
+      const track = url.searchParams.get('track');
+      if (!['life','health'].includes(track)) return json(res, {error:'unknown track'}, 400);
+      const key = userPrefix(id) + 'records/amg-' + track + '-assessments-v1';
+      const record = await backend.getWithMetadata(key);
+      const attempt = record?.data.value.attempts.find(a => a.submittedAt === null);
+      if (!attempt) return json(res, {error:'no saved attempt'}, 404);
+      attempt.deadline = attempt.startedAt + 105 * 60_000;
+      record.data.revision++;
+      await backend.setJSON(key, record.data, {onlyIfMatch:record.etag});
+      return json(res, {ok:true});
+    }
     if(url.pathname==='/api/learning'){
       const reqBody=[];for await(const chunk of req)reqBody.push(chunk);
       const request=new Request(url,{method:req.method,headers:req.headers,...(req.method==='POST'?{body:Buffer.concat(reqBody)}:{})});

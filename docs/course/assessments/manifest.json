@@ -47,7 +47,7 @@
       "id": "A",
       "questions": 90,
       "scored": 80,
-      "minutes": 105,
+      "minutes": 0,
       "allocation": [
         {
           "title": "Maryland regulation",
@@ -87,7 +87,7 @@
       "id": "B",
       "questions": 90,
       "scored": 80,
-      "minutes": 105,
+      "minutes": 0,
       "allocation": [
         {
           "title": "Maryland regulation",
@@ -127,7 +127,7 @@
       "id": "C",
       "questions": 90,
       "scored": 80,
-      "minutes": 105,
+      "minutes": 0,
       "allocation": [
         {
           "title": "Maryland regulation",
