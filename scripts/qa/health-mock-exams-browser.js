@@ -32,6 +32,8 @@ async page => {
         await p.getByRole('button',{name:'Start '+title,exact:true}).click();
         await p.locator('input[name="exam-answer"]').first().waitFor();
         const [first]=await wait(key,rows=>rows.length===1);
+        check(first.deadline === null && !first.expired, 'New attempt has a deadline');
+        check(await p.getByRole('timer').count() === 0, 'Question view has a countdown');
         const data=await p.evaluate(attempt=>{
           const d=window.AMG_ASSESSMENTS,b=window.AMG_ASSESSMENT_ROTATION.createMockBank(d.track,d.forms,d.extraQuestions);
           return [true,false].map(scored=>{const f=b.formFor(attempt),i=f.questions.findIndex(q=>q.scored===scored);return {i,answer:f.questions[i].answer,prompt:f.questions[i].prompt};});
@@ -46,8 +48,20 @@ async page => {
         const admin=async()=>(await(await ctx.request.get(origin+'/__qa/admin')).json()).attempts;
         check((await admin()).some(a=>a.title===title && a.status==='in_progress'&&a.answered===2 && a.scorePercent===null),'Admin lost pending attempt');
         const attemptUrl=p.url(),home=attemptUrl.split('?')[0];
-        await ctx.close();ctx=await newContext();p=await newPage();await p.goto(home);
+        await ctx.close();
+        ctx=await newContext();
+        if (width === 390) {
+          const seeded=await ctx.request.post(origin+'/__qa/old-timer?track='+track);
+          check(seeded.ok(), 'Unable to restore a legacy timed draft');
+        }
+        const resumeAt = first.startedAt + 2*86400000;
+        await ctx.request.post(origin+'/__qa/clock?at='+resumeAt);
+        p=await newPage();
+        await p.clock.setFixedTime(new Date(resumeAt));
+        await p.goto(home);
         await p.getByRole('button',{name:'Resume '+title,exact:true}).click();await p.waitForURL(attemptUrl);
+        await wait(key,rows=>rows[0]?.deadline===null && rows[0].submittedAt===null);
+        check(await p.getByRole('timer').count()===0,'Countdown appeared on resume');
         check(await p.locator('legend').innerText()===data[1].prompt,'Resumed prompt moved');
         check(await p.locator('input[name="exam-answer"]').nth(data[1].answer).isChecked(),'Resumed answer changed');
         check(await p.getByRole('button',{name:'Unmark question'}).getAttribute('aria-pressed')==='true','Flag lost on resume');
@@ -55,6 +69,7 @@ async page => {
         await p.getByRole('button',{name:'Submit and see results'}).click();
         await p.locator('.result-question').first().waitFor();
         const submitted=await wait(key,rows=>!!rows[0].submittedAt);
+        check(submitted[0].submittedAt>=resumeAt && !submitted[0].expired,'Manual submission after two days failed');
         check(first.questionIds.join()===submitted[0].questionIds.join(),'Submitted question order changed');
         const report=await(await ctx.request.get(origin+'/api/learning?report=1')).json();
         const result=(track==='life'?report:report.tracks.health).attempts[0];
@@ -67,13 +82,13 @@ async page => {
         await p.getByRole('button',{name:'Retake '+title,exact:true}).click();
         const [,second]=await wait(key,rows=>rows.length===2);
         check(second.questionIds.every(id=>!first.questionIds.includes(id)),'Early question repeat');
-        if(track==='health'){
-          await ctx.request.post(origin+'/__qa/clock?at='+(second.deadline+1000));await p.clock.setFixedTime(new Date(second.deadline+1000));
-          await p.evaluate(()=>document.dispatchEvent(new Event('visibilitychange')));
-          await wait(key,rows=>rows[1].expired&&rows[1].submittedAt===second.deadline);
-          await p.locator('.result-question').first().waitFor();
-        }
-        results.push({width,track,oneEntry:true,resume:true,noRetakeOverlap:true,scoring:true});
+        const later = second.startedAt + 3*3600000;
+        await ctx.request.post(origin+'/__qa/clock?at='+later);
+        await p.clock.setFixedTime(new Date(later));
+        await p.evaluate(()=>document.dispatchEvent(new Event('visibilitychange')));
+        await p.getByRole('button',{name:'Next',exact:true}).click();
+        await wait(key,rows=>rows[1].current === 1 && rows[1].submittedAt===null && rows[1].deadline===null);
+        results.push({width,track,untimed:true,resumedAfterHours:48,legacyDraft:width===390,manualScore:true});
       }
     }finally{await ctx.close();}
   }

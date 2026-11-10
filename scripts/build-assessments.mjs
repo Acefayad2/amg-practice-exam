@@ -18,7 +18,7 @@ for(const [k,form] of ['A','B','C'].entries()){
   rows.forEach((q,i)=>questions.push(prepare(q,form+'-'+(d+1)+'-'+String(i+1).padStart(2,'0'),d,i<blueprint[d],random)));
  }
  assert.equal(questions.length,90);assert.equal(questions.filter(q=>q.scored).length,80);
- forms.push({id:form,title:'Timed Form '+form,minutes:105,questions:shuffle(questions,random)});
+ forms.push({id:form,title:'Life practice set '+form,minutes:0,questions:shuffle(questions,random)});
 }
 const random=rng(100901),dq=[];diagnostic.forEach((rows,d)=>{assert.equal(rows.length,4);rows.forEach((q,i)=>dq.push(prepare(q,'D-'+(d+1)+'-'+(i+1),d,true,random)));});
 forms.unshift({id:'D',title:'Starting diagnostic',minutes:0,questions:shuffle(dq,random)});

@@ -16,7 +16,7 @@ test('all three Health forms bind the browser questions to the correct server an
   for(const [index,form] of Array.from(forms).entries()){
     const server = serverForms[index];
     assert.equal(form.id,server.id);
-    assert.equal(form.minutes,105);
+    assert.equal(form.minutes,0);
     assert.equal(form.questions.length,90);
     assert.deepEqual(expected.map((_,d)=>form.questions.filter(q=>q.domain===d && q.scored).length),expected);
     assert.equal(form.questions.filter(q=>!q.scored).length,10);

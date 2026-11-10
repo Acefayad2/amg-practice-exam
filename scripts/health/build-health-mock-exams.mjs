@@ -38,7 +38,7 @@ function buildData(lessons) {
     });
     assert.equal(questions.length, 90);
     assert.equal(questions.filter(q => q.scored).length, 80);
-    return { id, title: 'Health Mock Exam ' + id, minutes: 105, questions: shuffle(questions, random) };
+    return { id, title: 'Health Mock Exam ' + id, minutes: 0, questions: shuffle(questions, random) };
   });
   balanceAnswers(forms, 330127);
   return {
@@ -63,7 +63,7 @@ function examPage(track) {
 <script src="assessment-data.js" defer></script><script src="/course/assessments/assessment-rotation.js" defer></script><script src="/course/assessments/assessment.js" defer></script>
 </head><body class="account-loading" data-track="health"><a class="skip" href="#app">Skip to mock exam</a>${courseHeader('assessments',track)}
 <main class="assessment-main"><p id="storage-status" class="storage-status" role="status"></p><div id="app"><p>Loading your Health Mock Exam…</p></div>
-<noscript>Enable JavaScript to start a timed exam and save your answers.</noscript>
+<noscript>Enable JavaScript to start your mock exam and save your answers.</noscript>
 <details class="practice-about"><summary>About this exam</summary><p>AMG wrote these practice questions for Maryland Accident &amp; Health. Each attempt follows the subject weights in the <a href="${outline}">Maryland exam outline</a>. Your results are saved under your learner sign-in.</p><p>For immediate feedback on each answer, <a href="/practice/health/">open the untimed Health drills</a>.</p></details>${courseFooter(track)}</main>
 <dialog id="submit-dialog" aria-labelledby="submit-title"><h2 id="submit-title">Submit this exam?</h2><p id="submit-detail"></p><div class="actions"><button id="confirm-submit" type="button" class="primary">Submit and see results</button><button id="cancel-submit" type="button">Keep working</button></div></dialog></body></html>\n`;
 }
